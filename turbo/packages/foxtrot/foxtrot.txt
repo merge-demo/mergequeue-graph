@@ -16,7 +16,6 @@ flagellators
 forcing
 fylker
 fablemaker
-funkers
 fremituses
 fabler
 frankers
@@ -1925,6 +1924,7 @@ feminities
 foamless
 furtherance
 finback
+funkers
 feteritas
 federalistic
 forksful
