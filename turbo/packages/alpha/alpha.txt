@@ -4296,7 +4296,6 @@ adrenocortical
 adrenosterone
 adrenocorticotrophic
 ammonolysis
-afterstain
 albuminosis
 adrenocorticotropic
 anthracolithic
@@ -24945,6 +24944,7 @@ amyosthenic
 ablaqueate
 aizoaceae
 argema
+afterstain
 autogenic
 agrote
 acheilary
