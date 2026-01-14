@@ -7281,6 +7281,7 @@ diffusivity
 dollies
 diaxone
 disturbor
+dinginess
 desiccative
 doukhobor
 devisers
@@ -8904,7 +8905,6 @@ decolonizing
 distributiveness
 dichasium
 deordination
-dinginess
 deash
 diminutiveness
 dictyophora
