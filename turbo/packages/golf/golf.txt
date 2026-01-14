@@ -5550,7 +5550,6 @@ glochidiate
 gallery
 grained
 goatskin
-gambols
 grugrus
 gymnocalycium
 gussies
@@ -6954,6 +6953,7 @@ garhwali
 groundsman
 gastroepiploic
 geswarp
+gambols
 gablewindowed
 galvanoplastical
 goof
