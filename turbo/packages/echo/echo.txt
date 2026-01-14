@@ -3408,6 +3408,7 @@ eightieths
 episyllogism
 edeotomy
 eucirripedia
+enraptures
 embogue
 ennuyant
 ecalcavate
@@ -7234,7 +7235,6 @@ entamebae
 eradicably
 enterally
 eolopiles
-enraptures
 enigmatically
 emulsification
 exsector
