@@ -1586,7 +1586,6 @@ fourstrand
 falsettist
 fibrinogen
 filespec
-floristic
 favorites
 furstone
 fadges
@@ -5532,6 +5531,7 @@ foreordain
 flagon
 fol
 fural
+floristic
 forestays
 favellae
 flexion
