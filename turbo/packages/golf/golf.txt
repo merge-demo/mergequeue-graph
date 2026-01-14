@@ -1103,7 +1103,6 @@ guarding
 graphicness
 gowdy
 gestes
-galactolipin
 goularo
 glossopharyngeal
 gormandizers
@@ -6288,6 +6287,7 @@ gobylike
 granadilla
 gnashed
 gobinism
+galactolipin
 gasoliers
 griece
 ginglymostomoid
