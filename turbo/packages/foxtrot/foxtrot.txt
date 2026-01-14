@@ -1587,6 +1587,7 @@ fourstrand
 falsettist
 fibrinogen
 filespec
+fabled
 floristic
 favorites
 furstone
@@ -6821,7 +6822,6 @@ fustigator
 fussify
 flipjack
 fourhanded
-fabled
 furomonazole
 foliary
 frescoers
