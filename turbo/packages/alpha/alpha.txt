@@ -2670,7 +2670,6 @@ acrawl
 amygdalic
 acre
 amount
-afoam
 aquamarine
 ammochaeta
 acreage
@@ -13350,6 +13349,7 @@ anisomyodous
 aetosaurus
 aeipathy
 anematized
+afoam
 anisophylly
 anisophyllous
 afterchurch
