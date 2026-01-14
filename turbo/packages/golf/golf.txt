@@ -1188,7 +1188,6 @@ grogs
 graftdom
 grift
 groatsworth
-glyptographer
 gasthaus
 guidingly
 gaslights
@@ -3749,6 +3748,7 @@ gastraneuria
 gieaway
 goggle
 grumpishness
+glyptographer
 greycoat
 giants
 ghoulishness
