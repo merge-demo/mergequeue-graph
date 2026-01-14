@@ -7644,7 +7644,6 @@ biogenies
 beeper
 burgling
 bewraps
-basilisks
 belesprit
 bewrapt
 bewreck
@@ -17575,6 +17574,7 @@ belong
 bugle
 burgau
 benzidins
+basilisks
 bumbelo
 barons
 brightwork
