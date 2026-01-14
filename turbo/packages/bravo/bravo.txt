@@ -4642,7 +4642,6 @@ beholdingness
 bulletproofed
 broadens
 bedehouse
-broadenings
 byrewards
 bullrushes
 bedehouses
@@ -15725,6 +15724,7 @@ broadspread
 broadsword
 bamangwato
 bromethyl
+broadenings
 betorcin
 bolder
 blithesomeness
