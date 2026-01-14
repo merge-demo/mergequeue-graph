@@ -7736,7 +7736,6 @@ buxerry
 bhikshu
 bullan
 breakover
-brocard
 bhindi
 bowstave
 bhishti
@@ -9499,6 +9498,7 @@ bonder
 birdbanding
 bdellostoma
 babooism
+brocard
 birses
 birsit
 bellowsmaking
