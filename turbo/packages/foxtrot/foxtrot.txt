@@ -2591,6 +2591,7 @@ footrests
 finicalness
 financist
 faultfully
+forefigure
 finalizing
 fidawi
 fibrillation
@@ -5410,7 +5411,6 @@ floatless
 foisonless
 fabian
 feasten
-forefigure
 furor
 flurt
 fittingness
