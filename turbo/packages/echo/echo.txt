@@ -5734,7 +5734,6 @@ engirdled
 exodromy
 engirdling
 emplectite
-engirds
 electroblasting
 eyeglance
 extraverted
@@ -10324,6 +10323,7 @@ ethonomics
 ethnocentric
 epeirogenic
 encyclopaedical
+engirds
 epipastic
 exporting
 eroticist
