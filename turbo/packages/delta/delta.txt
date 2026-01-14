@@ -8497,7 +8497,6 @@ desulfuration
 didactically
 dianilid
 deathworm
-dilate
 dianilide
 disheritor
 dianite
@@ -18380,6 +18379,7 @@ dorse
 denudative
 dillue
 douches
+dilate
 dibutyl
 denotate
 digmeat
