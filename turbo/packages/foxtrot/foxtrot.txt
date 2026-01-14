@@ -9175,6 +9175,7 @@ foreknown
 faceplate
 fucus
 fledged
+forefatherly
 fumously
 firebugs
 fertilising
@@ -10089,7 +10090,6 @@ fluviometer
 fiberizing
 flyover
 flintifying
-forefatherly
 franion
 foretopman
 fructuary
