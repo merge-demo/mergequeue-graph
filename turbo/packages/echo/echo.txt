@@ -4858,7 +4858,6 @@ effeminateness
 excludible
 explete
 enjamb
-encroachments
 epitaxic
 encrustation
 elepaio
@@ -13596,6 +13595,7 @@ enteroceptor
 endosteomas
 extance
 extemporally
+encroachments
 elkanah
 eisegesis
 edriophthalmian
