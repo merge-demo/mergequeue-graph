@@ -179,7 +179,6 @@ electromotion
 electrolier
 equipoising
 extraformal
-examiner
 estrogenic
 emeras
 exclamatively
@@ -12467,6 +12466,7 @@ exigences
 encouragers
 eczematosis
 entomophthorous
+examiner
 exiguously
 exilarchate
 extemporariness
