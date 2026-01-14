@@ -946,6 +946,7 @@ detachers
 directives
 dewed
 dures
+dichorisandra
 darb
 dorsoabdominal
 deserters
@@ -2490,7 +2491,6 @@ deferral
 duds
 dishonourary
 declaim
-dichorisandra
 dresser
 declaimer
 dilaters
