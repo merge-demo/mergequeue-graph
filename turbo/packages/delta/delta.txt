@@ -5520,7 +5520,6 @@ departmentalism
 departmentalization
 departmentalized
 deuteronomy
-debilitate
 departmentally
 discomfits
 depancreatize
@@ -7480,6 +7479,7 @@ discoverably
 demobbing
 detur
 deturpate
+debilitate
 demurity
 dopster
 downtowner
