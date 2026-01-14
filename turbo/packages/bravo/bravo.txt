@@ -11290,6 +11290,7 @@ blowie
 beryline
 blear
 bourbonian
+bromid
 backups
 blowing
 barotropy
@@ -15899,7 +15900,6 @@ basan
 bopyridian
 bromhydrate
 besprinkling
-bromid
 bourignianist
 bromidically
 bibliographer
