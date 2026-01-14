@@ -9344,7 +9344,6 @@ coscinodiscaceae
 chautauqua
 craniometrically
 chautauquan
-cloy
 chemicobiology
 contemporariness
 cryptological
@@ -9715,6 +9714,7 @@ cheilodipteridae
 cheilodipterus
 cheiloplasty
 cheilostomata
+cloy
 cheilostomatous
 censer
 cheyneys
