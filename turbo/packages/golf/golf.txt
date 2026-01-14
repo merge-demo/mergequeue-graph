@@ -1662,7 +1662,6 @@ gladder
 gaminess
 greenhouses
 gastrocnemii
-groten
 gaffed
 granulometric
 goldarned
@@ -5321,6 +5320,7 @@ glaucus
 grammatology
 guanidine
 glegly
+groten
 galactosemia
 gulfier
 glyconic
