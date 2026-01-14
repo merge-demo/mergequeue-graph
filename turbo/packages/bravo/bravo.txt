@@ -6486,7 +6486,6 @@ bepicture
 bugology
 banxring
 bepiece
-bepile
 bolshie
 boca
 bumbled
@@ -8278,6 +8277,7 @@ burden
 byzantinism
 berberine
 botte
+bepile
 belittlement
 bigas
 bigbury
