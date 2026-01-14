@@ -5056,7 +5056,6 @@ fiord
 fessely
 flumps
 flamelet
-fun
 fuligo
 fundless
 fumettes
@@ -6939,6 +6938,7 @@ flub
 ferthumlungur
 fobbing
 fumarase
+fun
 fibromatosis
 fauconnier
 ferrocyanic

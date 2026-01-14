@@ -2349,7 +2349,6 @@ egba
 episteme
 electrocolloidal
 eurobin
-edulcoration
 exhaustable
 empoisonment
 engorged
@@ -11706,6 +11705,7 @@ exaltment
 essayism
 epinard
 enclasped
+edulcoration
 epicrises
 endmatcher
 examen
