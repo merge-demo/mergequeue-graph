@@ -871,7 +871,6 @@ glimpsed
 gelates
 gelatinize
 gamdeboo
-girtline
 gliadin
 gonolobus
 gyratory
@@ -8246,6 +8245,7 @@ graphologists
 grainery
 glimpser
 gyropigeon
+girtline
 grammarians
 gimp
 gospel
