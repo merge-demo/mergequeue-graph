@@ -1955,7 +1955,6 @@ ekasilicon
 euthamia
 earthen
 etherialize
-exteriorate
 elastics
 eluviated
 eagle
@@ -12050,6 +12049,7 @@ egestions
 enlivenment
 enwwove
 excoriations
+exteriorate
 epiclike
 enforcible
 elflike
