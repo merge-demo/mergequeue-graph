@@ -7775,7 +7775,6 @@ electrodynamical
 etymologies
 endophytal
 etherizer
-ergate
 explorator
 epiproct
 eupatridae
@@ -10796,6 +10795,7 @@ embracer
 eucrystalline
 elastance
 eurodollar
+ergate
 eleanor
 expurgatory
 ethide
