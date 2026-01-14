@@ -2437,7 +2437,6 @@ goas
 gype
 grograms
 glutch
-gunship
 grandpas
 gekkones
 gimels
@@ -5841,6 +5840,7 @@ gruiformes
 geroderma
 graffito
 glycolaldehyde
+gunship
 gedact
 galvanoplastic
 grundel
