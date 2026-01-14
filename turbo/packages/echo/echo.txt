@@ -9342,6 +9342,7 @@ eurythmic
 endosiphon
 encrusted
 erugos
+eleocharis
 escapage
 eruptible
 eruption
@@ -11454,7 +11455,6 @@ erythraeidae
 evictions
 explanatory
 emboldens
-eleocharis
 evictor
 evidence
 edeagra
