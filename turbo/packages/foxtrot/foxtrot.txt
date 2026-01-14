@@ -1605,6 +1605,7 @@ forereaching
 floppies
 faffle
 funambulo
+flatlander
 functionating
 fallalery
 faniente
@@ -2041,7 +2042,6 @@ faucalize
 fireboat
 flindosa
 forwander
-flatlander
 faunlike
 fogbows
 fascicule
