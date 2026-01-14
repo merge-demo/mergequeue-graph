@@ -11351,7 +11351,6 @@ dispensating
 dissociably
 discoherent
 decays
-disciform
 diplopods
 discigerous
 discinct
@@ -13613,6 +13612,7 @@ dissertative
 damme
 disparple
 disservice
+disciform
 diphenyl
 decisteres
 durries
