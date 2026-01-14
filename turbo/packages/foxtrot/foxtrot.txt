@@ -4904,7 +4904,6 @@ forebemoan
 fusee
 flidder
 frogflower
-facetiously
 flatteringly
 fergusite
 frenetic
@@ -7500,6 +7499,7 @@ fest
 forebodes
 forebody
 frostweed
+facetiously
 fibrosity
 flaser
 forsakers
