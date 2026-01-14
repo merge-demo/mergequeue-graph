@@ -1433,7 +1433,6 @@ geneva
 gallinazo
 gnamma
 gothicism
-grapenuts
 golfs
 gemologists
 gn
@@ -7395,6 +7394,7 @@ gummiest
 ghedda
 greenfish
 goosiest
+grapenuts
 gunflints
 gelsemine
 gunnery
