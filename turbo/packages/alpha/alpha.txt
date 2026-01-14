@@ -15374,7 +15374,6 @@ antiinsurrectionists
 anamniotic
 antikathode
 abatements
-angioparalysis
 adulterate
 antikenotoxin
 astrologists
@@ -22268,6 +22267,7 @@ ariled
 aerier
 atropinize
 alnath
+angioparalysis
 anvasser
 adeption
 amsath
