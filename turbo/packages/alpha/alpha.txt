@@ -11996,7 +11996,6 @@ ajee
 anaplasty
 arrogatingly
 anosmia
-appendiculata
 amination
 adnexa
 aboveground
@@ -20206,6 +20205,7 @@ aphanesite
 argentometric
 arrenotoky
 arrentation
+appendiculata
 arreption
 attributional
 arrest
