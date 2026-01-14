@@ -972,6 +972,7 @@ dextrosazone
 dyslogy
 dipsey
 dray
+dismissory
 disjoints
 doughmen
 dare
@@ -12885,7 +12886,6 @@ dismissed
 distemperate
 dismisses
 dismissing
-dismissory
 dother
 discographically
 dysmnesia
