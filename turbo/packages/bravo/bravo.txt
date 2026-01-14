@@ -1836,7 +1836,6 @@ bivial
 beslime
 bullose
 bialystoker
-bandaged
 bandaging
 berylloid
 bowlin
@@ -14825,6 +14824,7 @@ buckles
 brazilian
 bewailing
 bunked
+bandaged
 billycock
 baulks
 baku
