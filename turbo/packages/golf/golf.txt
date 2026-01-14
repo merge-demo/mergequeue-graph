@@ -5644,7 +5644,6 @@ gastralgic
 gobbling
 growsome
 grubbiest
-gapy
 glaringly
 groma
 glyoxal
@@ -7268,6 +7267,7 @@ glomi
 gormandizes
 gundeck
 gangsa
+gapy
 gleaming
 gwerziou
 gavelman
