@@ -12187,7 +12187,6 @@ dysphonic
 disflesh
 disfoliage
 dayward
-disrelate
 disfoliaged
 demobilization
 distich
@@ -16481,6 +16480,7 @@ draconites
 deliveryman
 deepwater
 dandies
+disrelate
 disnumber
 depside
 dracontic
