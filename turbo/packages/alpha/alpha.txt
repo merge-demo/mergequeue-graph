@@ -17455,7 +17455,6 @@ anteportico
 amercers
 aeromedical
 apotome
-apyretic
 apotropaically
 asciferous
 autographism
@@ -21194,6 +21193,7 @@ assimilativeness
 aerily
 ascertainableness
 asem
+apyretic
 ankylotome
 anticar
 alphabetics
