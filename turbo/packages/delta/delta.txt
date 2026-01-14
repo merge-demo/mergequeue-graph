@@ -6541,6 +6541,7 @@ descriptionless
 dangleberry
 distensile
 dysnomy
+djin
 designator
 diota
 daedal
@@ -14673,7 +14674,6 @@ demonolatrous
 djersa
 dschubba
 dignified
-djin
 disrespondency
 dissected
 describe
