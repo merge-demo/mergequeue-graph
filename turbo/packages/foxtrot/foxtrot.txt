@@ -2807,7 +2807,6 @@ florists
 festucine
 forelady
 flaxiest
-frightfully
 funli
 fumigation
 forehood
@@ -3482,6 +3481,7 @@ fluctuated
 fended
 fustanella
 federary
+frightfully
 figurable
 fixture
 figurae
