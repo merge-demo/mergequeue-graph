@@ -3982,6 +3982,7 @@ formability
 forechoose
 furcula
 forestalled
+flammant
 friese
 flattish
 forfeited
@@ -7641,7 +7642,6 @@ fables
 factualism
 foreworn
 foreguess
-flammant
 flambant
 foretopsail
 fittywise
