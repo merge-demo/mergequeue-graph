@@ -7710,6 +7710,7 @@ goldworker
 gamins
 grouf
 grewsome
+geistlich
 gos
 gliomatous
 generalism
@@ -10453,7 +10454,6 @@ grakle
 gummatous
 gneissy
 gerrymandered
-geistlich
 gansy
 gastrolienal
 graphitization
