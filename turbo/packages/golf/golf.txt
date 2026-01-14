@@ -2136,6 +2136,7 @@ gazeboes
 guestship
 gen
 glumiferous
+gorkun
 galla
 gaudete
 graced
@@ -3394,7 +3395,6 @@ generalships
 graphometry
 gondolier
 gnatling
-gorkun
 galbe
 glaciable
 gyroscopic
