@@ -1344,6 +1344,7 @@ botrylle
 backdrops
 borderlands
 balbusard
+bivector
 beggarliness
 burlap
 brayed
@@ -9990,7 +9991,6 @@ bismuthyl
 binodous
 brahmic
 barrenness
-bivector
 biventer
 backseat
 bayonetting
