@@ -599,6 +599,7 @@ fossilisation
 forints
 feasted
 fourchette
+fanegada
 featherdom
 finders
 filippic
@@ -8570,7 +8571,6 @@ forninst
 fricative
 flexor
 fornix
-fanegada
 forspent
 flocculus
 freehold
