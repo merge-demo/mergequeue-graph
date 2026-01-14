@@ -7599,7 +7599,6 @@ frightenedness
 forefeelingly
 frogging
 foreffelt
-folioed
 fimbrillae
 flotten
 feminised
@@ -9362,6 +9361,7 @@ franklins
 flector
 frenchmen
 faffy
+folioed
 footgears
 firkins
 flatways
