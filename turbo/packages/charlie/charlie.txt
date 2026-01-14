@@ -11598,6 +11598,7 @@ cholelith
 conchotome
 cholelithic
 cholelithotomy
+ciliotomy
 chastising
 counterbore
 choriambuses
@@ -13502,7 +13503,6 @@ cardioclasia
 corenounce
 crozed
 castigative
-ciliotomy
 cilium
 chloroformize
 coxcombhood
