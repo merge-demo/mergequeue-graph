@@ -957,6 +957,7 @@ dumpers
 deaned
 domable
 dadaistically
+demonomanie
 drolushness
 detonational
 departed
@@ -1403,7 +1404,6 @@ demilitarize
 dispel
 downdale
 dismain
-demonomanie
 dorsiflexor
 digitals
 delis
