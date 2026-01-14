@@ -10335,7 +10335,6 @@ cowpoke
 chickpea
 conspirator
 chickpeas
-cerer
 chickstone
 consultory
 canariote
@@ -17862,6 +17861,7 @@ codifying
 codilla
 cephid
 codille
+cerer
 crookback
 coding
 codirected
