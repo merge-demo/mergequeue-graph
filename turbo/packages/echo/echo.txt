@@ -4409,7 +4409,6 @@ e
 espacement
 ejaculation
 encaptive
-entomion
 exhilarative
 encarnalised
 encarnalize
@@ -9423,6 +9422,7 @@ excuseful
 elutriated
 exostosed
 epipodium
+entomion
 escarps
 enfeoff
 encephalos
