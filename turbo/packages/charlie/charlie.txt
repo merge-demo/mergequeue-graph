@@ -3620,6 +3620,7 @@ caraboa
 caaba
 cinques
 circle
+cnidophore
 caraboid
 carabus
 caracara
@@ -14527,7 +14528,6 @@ cystectasia
 contestate
 campout
 chaptalizing
-cnidophore
 cysted
 cysteins
 cyclolith
