@@ -3922,6 +3922,7 @@ estruate
 earthbound
 excommunicators
 emollients
+elementalistically
 emoloa
 endosymbiosis
 excretitious
@@ -12804,7 +12805,6 @@ elementary
 exostrae
 exoteric
 exoterica
-elementalistically
 excitomotor
 embryology
 epicystotomy
