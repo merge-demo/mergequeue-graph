@@ -2485,7 +2485,6 @@ flea
 fibrinoid
 fry
 fernyear
-furison
 funs
 fernshaw
 fordo
@@ -10993,6 +10992,7 @@ flintiest
 foreproffer
 foreweep
 feastly
+furison
 furfurol
 feign
 fumbles
