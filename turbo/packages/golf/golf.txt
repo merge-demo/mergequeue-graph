@@ -10176,6 +10176,7 @@ granulated
 governable
 gloriana
 goosery
+goldin
 genethliac
 garages
 grovelings
@@ -10671,7 +10672,6 @@ gurl
 geocentricism
 glyceryl
 grove
-goldin
 glyphographic
 generalty
 glycerols
