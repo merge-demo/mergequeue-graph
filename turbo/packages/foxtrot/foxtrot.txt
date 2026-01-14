@@ -5177,6 +5177,7 @@ forestudy
 flossies
 formularist
 fosterlings
+fadable
 foliaging
 foxiness
 frontierlike
@@ -8732,7 +8733,6 @@ fossule
 fiddlers
 forwardal
 fermentability
-fadable
 forethought
 frenzic
 fleshiness
