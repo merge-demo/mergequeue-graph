@@ -1264,7 +1264,6 @@ acarophobia
 acarotoxic
 arcturus
 aerognosy
-australopithecine
 ails
 antifoggant
 antitropic
@@ -2019,6 +2018,7 @@ acetotoluid
 accessible
 argumentator
 aporrhais
+australopithecine
 acetous
 acetoxyl
 approbatory
