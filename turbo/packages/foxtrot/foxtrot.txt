@@ -1820,7 +1820,6 @@ forgets
 furphy
 featured
 fluidify
-featureful
 featurelessness
 featureliness
 furrows
@@ -5744,6 +5743,7 @@ flited
 frontate
 foge
 freckliness
+featureful
 foehns
 finebent
 finings
