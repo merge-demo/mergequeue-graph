@@ -15250,6 +15250,7 @@ amylogens
 antiflattering
 accordantly
 antiflatulent
+artfulness
 antiflux
 anticlergy
 antiforeignism
@@ -17900,7 +17901,6 @@ aerify
 appreciators
 aerologies
 anaclisis
-artfulness
 aceship
 andamento
 apiculus
