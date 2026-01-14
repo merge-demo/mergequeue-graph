@@ -2086,7 +2086,6 @@ effuse
 elastically
 eurycephalous
 edenite
-exudes
 emberiza
 effete
 eberthella
@@ -9804,6 +9803,7 @@ estaminet
 emittance
 exergue
 emunctories
+exudes
 exprobrate
 estampage
 empiric
