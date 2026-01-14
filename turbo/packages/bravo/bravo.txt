@@ -7733,6 +7733,7 @@ bathyscaphe
 bravoite
 buxerry
 bhikshu
+biarticulate
 bullan
 breakover
 bhindi
@@ -7794,7 +7795,6 @@ biannually
 bhagavata
 biarchy
 biarcuate
-biarticulate
 barrulee
 braise
 breccia
