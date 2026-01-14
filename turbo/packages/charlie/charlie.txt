@@ -20371,6 +20371,7 @@ commuters
 commutes
 chattelship
 comoedus
+calloused
 comolecule
 crassness
 cuirass
@@ -26439,7 +26440,6 @@ cusparine
 calycophoran
 crackpot
 cotised
-calloused
 cotising
 cajuns
 candroys
