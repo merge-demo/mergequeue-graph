@@ -1635,6 +1635,7 @@ frolickers
 frankincense
 faxes
 folkway
+firefly
 featishly
 fazes
 fiard
@@ -1835,7 +1836,6 @@ feedbags
 footwalk
 flexographic
 frostnipped
-firefly
 farcicality
 funambulate
 foreign
