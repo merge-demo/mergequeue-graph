@@ -4786,7 +4786,6 @@ fooling
 flaggy
 formicated
 foaly
-foreshowed
 forfeiting
 fraudful
 frontoorbital
@@ -10290,6 +10289,7 @@ factor
 frenziedness
 forleaving
 foundationless
+foreshowed
 finfoot
 fervorlessness
 fustilugs

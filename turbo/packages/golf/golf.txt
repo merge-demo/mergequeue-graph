@@ -7629,7 +7629,6 @@ gunpaper
 greyly
 graft
 gyal
-glossoepiglottic
 gunkholing
 girlies
 ghoster
@@ -8423,6 +8422,7 @@ gavottes
 gawked
 grumphy
 greenbacker
+glossoepiglottic
 gauntree
 gratifiable
 guaco
