@@ -4794,7 +4794,6 @@ excipient
 encomiumia
 encompassment
 excusation
-episiotomy
 echard
 embosks
 encores
@@ -5103,6 +5102,7 @@ endoconidia
 edificate
 epiplanktonic
 encrustment
+episiotomy
 elegits
 ember
 elaeoblast
