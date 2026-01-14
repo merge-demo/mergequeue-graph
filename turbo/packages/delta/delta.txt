@@ -6922,7 +6922,6 @@ decadation
 despatches
 deoxidise
 dodded
-despatching
 despecialization
 disembarrassed
 dispute
@@ -9643,6 +9642,7 @@ diiodoform
 debiting
 debauching
 dipteron
+despatching
 dimidiating
 drinkables
 daidling
