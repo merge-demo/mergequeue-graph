@@ -519,7 +519,6 @@ graff
 galivants
 geneticism
 gleamiest
-glissandos
 growthful
 guruship
 grooty
@@ -10164,6 +10163,7 @@ grazioso
 grooper
 guato
 gunboat
+glissandos
 genres
 guidepost
 glossophobia
