@@ -15810,6 +15810,7 @@ brokage
 bulletin
 brokages
 banande
+barotse
 bihalve
 barebones
 baksheeshes
@@ -17860,7 +17861,6 @@ bloodleaf
 bine
 busbar
 busbars
-barotse
 bibliopegic
 biscanism
 bicultural
