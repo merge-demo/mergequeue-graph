@@ -13257,7 +13257,6 @@ bostanji
 bosthoon
 bostonian
 banderillas
-branchstand
 barman
 baulking
 bromide
@@ -15357,6 +15356,7 @@ bandylegged
 blisterwort
 bohorok
 boisterously
+branchstand
 brieflessly
 besieges
 briefness

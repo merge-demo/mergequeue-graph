@@ -7799,7 +7799,6 @@ forenote
 fastness
 feltyflier
 fleamy
-fashionableness
 felonwood
 fowlerite
 fritterers
@@ -9131,6 +9130,7 @@ foolheaded
 fads
 filariasis
 fiaschi
+fashionableness
 florification
 feat
 foveole
