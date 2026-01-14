@@ -5323,7 +5323,6 @@ anilao
 accra
 afflicter
 afflicting
-afflictingly
 abranchian
 ambulante
 archoplasm
@@ -16553,6 +16552,7 @@ alkaptonuria
 antichoromanic
 aortoptosia
 aotes
+afflictingly
 antianthrax
 antioxygenation
 aoudad
