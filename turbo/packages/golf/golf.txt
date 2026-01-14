@@ -3736,7 +3736,6 @@ glabellae
 griffons
 gasterothecal
 gallein
-glinse
 goonie
 graveldiver
 getatable
@@ -6043,6 +6042,7 @@ gymnocarpic
 giesel
 gunate
 glasshouse
+glinse
 geyerite
 grungy
 grislier
