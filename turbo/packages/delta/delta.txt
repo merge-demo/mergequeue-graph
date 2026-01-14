@@ -2416,6 +2416,7 @@ decimalization
 displeases
 decimalizes
 dehiscent
+deflators
 dreamlit
 deceived
 disaffiliation
@@ -13343,7 +13344,6 @@ disconnected
 diluvion
 delightless
 dodecaphonist
-deflators
 disputatiously
 disputatiousness
 disputator
