@@ -8284,7 +8284,6 @@ freeholders
 forefronts
 fraps
 foxglove
-ferrule
 fosterage
 faultiness
 futilize
@@ -8508,6 +8507,7 @@ flatwise
 foramen
 forinsec
 fream
+ferrule
 fraxetin
 futuristically
 foreseeing
