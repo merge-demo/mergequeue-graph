@@ -5465,6 +5465,7 @@ glaciating
 galet
 gemellus
 guipure
+guilds
 groundskeep
 glisk
 gastruran
@@ -5834,7 +5835,6 @@ glochidia
 germanism
 gendarmes
 gruiformes
-guilds
 geroderma
 graffito
 glycolaldehyde
