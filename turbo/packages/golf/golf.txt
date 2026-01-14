@@ -1065,6 +1065,7 @@ gashed
 garvock
 gerardias
 gorgonin
+gymnospermism
 ganglioid
 ganglioma
 gangliomas
@@ -1072,7 +1073,6 @@ ganglionate
 ganglionated
 gymnoconia
 gift
-gymnospermism
 gruffish
 guck
 gremial
