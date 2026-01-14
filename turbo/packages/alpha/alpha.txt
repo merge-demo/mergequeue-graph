@@ -8869,7 +8869,6 @@ audiometries
 alderliefest
 adermin
 alids
-alcyonacea
 allochiria
 adaptionism
 alcoves
@@ -25218,6 +25217,7 @@ anticked
 antienzymatic
 aficionada
 acoupe
+alcyonacea
 aalii
 atrocha
 abscisse
