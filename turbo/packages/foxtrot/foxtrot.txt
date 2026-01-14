@@ -2244,6 +2244,7 @@ fenced
 fencelessness
 forkiest
 fengite
+funambulator
 fanout
 feudalisation
 frolics
@@ -11044,7 +11045,6 @@ fumuli
 fungated
 fere
 fascias
-funambulator
 feels
 faunological
 flinty
