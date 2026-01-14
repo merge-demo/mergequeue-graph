@@ -5154,6 +5154,7 @@ electrology
 economists
 entocoele
 ergotist
+equinate
 enterovirus
 eastings
 electroballistician
@@ -8668,7 +8669,6 @@ elutriating
 emergently
 etherialised
 entoperipheral
-equinate
 enameller
 emerging
 excretions
