@@ -5952,7 +5952,6 @@ anhaematopoiesis
 aerogeology
 amphithecial
 adit
-amazonstone
 apostacies
 aneurism
 ashily
@@ -20686,6 +20685,7 @@ acrylaldehyde
 alencons
 accursedly
 airsome
+amazonstone
 azides
 arthroxerosis
 arthrozoa
