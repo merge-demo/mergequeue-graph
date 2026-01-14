@@ -9384,6 +9384,7 @@ grebes
 ginkgoaceae
 griots
 genotypic
+goffering
 garroting
 gesticulating
 grosshead
@@ -10565,7 +10566,6 @@ guebre
 grecoue
 giftedly
 gurmukhi
-goffering
 grasshouse
 gneissitic
 greenwithe
