@@ -1306,6 +1306,7 @@ attemptless
 aromatic
 aggregant
 acaudate
+anisogamete
 aberdonian
 aluminaphone
 antarchism
@@ -10858,7 +10859,6 @@ antiquate
 antithenar
 animoso
 abyssal
-anisogamete
 agape
 amphibryous
 arm
