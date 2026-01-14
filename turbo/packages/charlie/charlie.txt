@@ -7693,7 +7693,6 @@ ciceros
 caramelising
 cermets
 commissar
-cern
 cavaliership
 cityward
 croquet
@@ -29550,6 +29549,7 @@ confoundedness
 canoeman
 criticiser
 criticising
+cern
 criticisingly
 corbiculae
 cog
