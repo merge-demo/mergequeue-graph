@@ -4452,6 +4452,7 @@ gipon
 gaetulan
 gunlayer
 gypped
+gopherwood
 giardia
 gyp
 gundog
@@ -7654,7 +7655,6 @@ guigne
 gaffes
 gaucy
 girdler
-gopherwood
 gunsmithery
 graded
 gorgonlike
