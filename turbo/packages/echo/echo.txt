@@ -11650,7 +11650,6 @@ electrohydraulic
 eleusinian
 endopolyploid
 exactness
-edeology
 exactors
 enterophthisis
 erotics
@@ -13822,6 +13821,7 @@ extrastapedial
 extratropical
 extendible
 excepted
+edeology
 editorializing
 extracerebral
 embolo
