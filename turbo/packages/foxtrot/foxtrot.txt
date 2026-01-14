@@ -4011,7 +4011,6 @@ forwean
 forefaces
 feute
 fallible
-feudatorial
 foredawn
 fissural
 frettiest
@@ -8040,6 +8039,7 @@ formentation
 facetting
 folial
 forestful
+feudatorial
 fellable
 freezes
 frigger
