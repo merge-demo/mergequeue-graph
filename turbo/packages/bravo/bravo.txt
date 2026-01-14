@@ -9138,7 +9138,6 @@ bhaktas
 branchial
 bubbybush
 buckone
-barotropy
 banderlog
 brahmanhood
 behalf
@@ -11297,6 +11296,7 @@ blear
 bourbonian
 backups
 blowing
+barotropy
 blowings
 basify
 brigandage
