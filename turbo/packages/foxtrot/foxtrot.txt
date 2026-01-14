@@ -1230,7 +1230,6 @@ flexural
 flinched
 fatuities
 feodatory
-freieslebenite
 funkias
 formene
 furbishment
@@ -3766,6 +3765,7 @@ firstlings
 fissurella
 filming
 firnification
+freieslebenite
 flannelling
 frugivora
 formativeness
