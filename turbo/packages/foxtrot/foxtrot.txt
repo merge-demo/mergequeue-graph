@@ -7223,7 +7223,6 @@ filature
 fridays
 fleetings
 forel
-feudalising
 fb
 fecial
 flashback
@@ -9516,6 +9515,7 @@ favouress
 flyted
 fuseless
 frecklier
+feudalising
 feudalizing
 findfault
 fullers
