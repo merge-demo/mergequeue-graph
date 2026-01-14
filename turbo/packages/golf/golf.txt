@@ -44,7 +44,6 @@ gmelina
 grawls
 grammes
 gabions
-gynecologies
 gunfires
 genotypically
 gableboard
@@ -1330,6 +1329,7 @@ galilee
 gorging
 geullah
 gargler
+gynecologies
 greeting
 gargoyley
 grimier
