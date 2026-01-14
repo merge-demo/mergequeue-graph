@@ -7925,7 +7925,6 @@ engender
 enframes
 ecclesiography
 ensiferi
-epaleaceous
 entreater
 epizootiology
 epinikion
@@ -13627,6 +13626,7 @@ epitaph
 extending
 endoblastic
 experienced
+epaleaceous
 ears
 ethnomusicologically
 exopterygotic
