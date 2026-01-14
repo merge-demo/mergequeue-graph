@@ -9164,7 +9164,6 @@ fifteenths
 frija
 fixive
 fanaloka
-fruiterer
 fasciotomy
 finitudes
 fascinations
@@ -9605,6 +9604,7 @@ floriform
 freemasonical
 finitesimal
 flatfootedness
+fruiterer
 freen
 featherfoil
 flowerer
