@@ -499,6 +499,7 @@ caddishness
 caddisworm
 chupon
 cadeau
+creodont
 carcinoscorpius
 camisados
 cadelles
@@ -21880,7 +21881,6 @@ conventionalist
 cuspated
 conferential
 conferral
-creodont
 conferrence
 cornerbind
 camalig
