@@ -1174,7 +1174,6 @@ goninidia
 gastrogastrotomy
 genin
 genio
-gnawings
 galactometry
 gnetums
 guffin
@@ -9225,6 +9224,7 @@ grison
 gynecopathy
 grisons
 grandees
+gnawings
 genethlialogic
 goliard
 graphitoid
