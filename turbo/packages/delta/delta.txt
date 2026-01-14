@@ -2517,6 +2517,7 @@ deligation
 demieagle
 discomorula
 deconsecration
+depictor
 druith
 desertism
 destinations
@@ -7136,7 +7137,6 @@ dinotheriidae
 desulfurizing
 demolitions
 dynamometric
-depictor
 deambulate
 desulfurs
 daphnetin
