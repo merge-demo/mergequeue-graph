@@ -4325,6 +4325,7 @@ exceeders
 exothermous
 enterodynia
 enamour
+electrophoridae
 enamouredness
 expostulator
 eulogistical
@@ -7630,7 +7631,6 @@ ensconce
 elixirs
 enhungered
 euphemious
-electrophoridae
 epicoracoid
 exocrine
 ellachick
