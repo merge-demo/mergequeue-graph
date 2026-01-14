@@ -2250,7 +2250,6 @@ galactase
 gastrotome
 grifts
 gefulltefish
-galax
 gonidiogenous
 gehlenite
 goblet
@@ -5034,6 +5033,7 @@ gassy
 gapped
 glandulousness
 groused
+galax
 goalkeeper
 golconda
 gecarcinus
