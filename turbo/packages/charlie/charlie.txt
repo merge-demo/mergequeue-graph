@@ -6859,7 +6859,6 @@ clamor
 cellulin
 contangoes
 cuddly
-cryptesthesia
 conscientiousness
 curares
 cytologist
@@ -7470,6 +7469,7 @@ ceratitis
 ceratitoidea
 cataleptics
 ceratoblast
+cryptesthesia
 ceratodidae
 centrifugalization
 capelet
