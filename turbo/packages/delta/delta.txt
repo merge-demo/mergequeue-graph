@@ -3602,7 +3602,6 @@ dihalogen
 donnish
 degerminate
 doated
-degerminator
 distentions
 degerms
 dinus
@@ -18079,6 +18078,7 @@ dialectologies
 dulness
 dysphemism
 diabetics
+degerminator
 dogskin
 dongs
 dungol
