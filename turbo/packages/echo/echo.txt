@@ -783,7 +783,6 @@ earthmaking
 exodus
 epeira
 eurytopic
-encephalography
 enter
 euplotid
 emplection
@@ -5868,6 +5867,7 @@ erg
 engreaten
 evirtuate
 evan
+encephalography
 enocyte
 electrotyping
 entangledly
