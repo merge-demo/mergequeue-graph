@@ -448,7 +448,6 @@ eveners
 enanthesis
 expediteness
 evector
-ecclesia
 enumerable
 ecclesiarchy
 ensnarls
@@ -7634,6 +7633,7 @@ epicoracoid
 exocrine
 ellachick
 exhumations
+ecclesia
 eccentricities
 elapse
 eoliths
