@@ -2421,6 +2421,7 @@ foiler
 ferling
 flemishes
 furls
+fatidical
 fortnightly
 fermail
 fobbed
@@ -10568,7 +10569,6 @@ feracities
 florins
 founds
 fertilizations
-fatidical
 falcade
 fussock
 formagen
