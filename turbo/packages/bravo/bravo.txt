@@ -1334,7 +1334,6 @@ bluecap
 bunks
 bacteriophagous
 bandwagon
-bobbles
 bethlehem
 bookdealer
 bioplastic
@@ -17994,6 +17993,7 @@ bleeze
 beguiler
 businesses
 beadeyes
+bobbles
 babbool
 bennel
 bagle
