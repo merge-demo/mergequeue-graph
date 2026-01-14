@@ -7429,7 +7429,6 @@ cerago
 ceramal
 ceramals
 chacun
-choliambic
 caback
 cerambycid
 coruscations
@@ -18196,6 +18195,7 @@ coexistence
 coexisting
 coexpand
 coexpanded
+choliambic
 coexperiencer
 coextend
 catchment
