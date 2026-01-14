@@ -4490,7 +4490,6 @@ dialyzer
 demiculverin
 dodgiest
 demidistance
-diaphane
 diabetogenic
 downtrend
 deputies
@@ -8117,6 +8116,7 @@ diacoelia
 desmolase
 dextroduction
 dupping
+diaphane
 dept
 diabolise
 diabolising
