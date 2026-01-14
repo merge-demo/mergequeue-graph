@@ -1030,6 +1030,7 @@ flourishing
 farinosel
 foussa
 fulfill
+floccule
 farmeress
 fireling
 flerrying
@@ -1936,7 +1937,6 @@ friable
 fangot
 froze
 forebearing
-floccule
 finagling
 fonly
 flanchard
