@@ -5687,6 +5687,7 @@ agallochs
 acupunctuation
 afunction
 aquafortist
+androl
 agalma
 ardea
 apocopating
@@ -7208,7 +7209,6 @@ algorist
 alalonga
 aurodiamine
 alalus
-androl
 alamannian
 actinian
 antonomasia
