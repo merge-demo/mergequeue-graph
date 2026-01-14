@@ -6639,7 +6639,6 @@ gamboller
 gordius
 glossolabiopharyngeal
 gucks
-ganda
 grumped
 gladsome
 gonidangium
@@ -8256,6 +8255,7 @@ grippingness
 giardiasis
 gre
 garamond
+ganda
 gaseosity
 gurries
 gara
