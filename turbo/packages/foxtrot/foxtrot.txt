@@ -7406,7 +7406,6 @@ fey
 fasti
 figgum
 fille
-fawnlike
 fans
 firefang
 footmen
@@ -7718,6 +7717,7 @@ frankpledge
 fumigants
 furfuraceous
 foreknowingly
+fawnlike
 frere
 foreshaft
 forelook
