@@ -10722,6 +10722,7 @@ cytoarchitecture
 corncake
 cataloger
 clammersome
+curstly
 classrooms
 corroder
 chinchy
@@ -17611,7 +17612,6 @@ coccosteid
 conducibleness
 cisalpinism
 compinge
-curstly
 creativeness
 coccosteus
 chickadees
