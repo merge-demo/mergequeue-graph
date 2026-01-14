@@ -380,6 +380,7 @@ brewery
 brachypodous
 bovarist
 bashkir
+bevelling
 bossy
 borings
 backhoe
@@ -11085,7 +11086,6 @@ billy
 bacaba
 bioral
 blockiest
-bevelling
 blocking
 borborygmic
 benzimidazole
