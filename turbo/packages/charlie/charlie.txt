@@ -13225,7 +13225,6 @@ cyclodiene
 cycloganoid
 cummin
 crossbencher
-climbable
 cycloganoidei
 cyclogenesis
 calking
@@ -25521,6 +25520,7 @@ coronations
 chitchatty
 coronel
 chamaerrhine
+climbable
 coronership
 chasidim
 coroneted
