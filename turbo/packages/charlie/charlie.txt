@@ -19900,7 +19900,6 @@ convell
 comid
 comida
 caudillo
-comiferous
 cominformist
 cointreau
 cominformists
@@ -25366,6 +25365,7 @@ carkled
 cornetti
 cornettino
 cornettist
+comiferous
 cornetto
 committent
 causticization
