@@ -2435,7 +2435,6 @@ goas
 gype
 grograms
 glutch
-grandpas
 gekkones
 gimels
 grillage
@@ -8087,6 +8086,7 @@ gnotobiotic
 gnathostegite
 guglets
 gymnophobia
+grandpas
 glomming
 groaning
 garigue
