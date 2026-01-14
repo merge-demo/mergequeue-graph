@@ -1488,6 +1488,7 @@ beeches
 ball
 bushtit
 ballad
+bibliomaniacal
 benzylic
 barillas
 bartholinitis
@@ -12202,7 +12203,6 @@ bolivians
 bolk
 bolly
 beretta
-bibliomaniacal
 bargir
 besit
 brevis
