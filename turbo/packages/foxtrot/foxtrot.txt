@@ -4505,7 +4505,6 @@ fuddles
 francophobia
 flagging
 favissa
-forestalling
 farmlands
 feer
 forheed
@@ -4926,6 +4925,7 @@ firepan
 firmware
 fulcraceous
 flagarie
+forestalling
 flamencos
 funtumia
 fevertwitch
