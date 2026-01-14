@@ -2184,7 +2184,6 @@ formulae
 fadme
 foute
 flashet
-feltmaker
 fiducia
 fats
 fratercula
@@ -7762,6 +7761,7 @@ faint
 fraenum
 forgathering
 finning
+feltmaker
 fluorescein
 ferrotyped
 frostbite
