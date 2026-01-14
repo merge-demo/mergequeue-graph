@@ -1176,6 +1176,7 @@ elenge
 entirities
 espathate
 enlute
+esodic
 educationist
 eurypyga
 embolum
@@ -4280,7 +4281,6 @@ epicarides
 ejectment
 exaltedness
 electrochemical
-esodic
 electromobile
 entangle
 exosmoses
