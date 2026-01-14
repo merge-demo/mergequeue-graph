@@ -424,7 +424,6 @@ eburin
 ec
 ecardines
 extravagate
-ernest
 ecballium
 expugnable
 ecbole
@@ -1382,6 +1381,7 @@ exterous
 endowing
 erasions
 ericoid
+ernest
 entosterna
 excoct
 encashable
