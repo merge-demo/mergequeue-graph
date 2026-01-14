@@ -4838,7 +4838,6 @@ eria
 eupepticism
 englished
 eulogizes
-encranial
 externalize
 expectorator
 electroed
@@ -10145,6 +10144,7 @@ eurhodine
 effluent
 expressionful
 equivalences
+encranial
 elope
 extraorbital
 epicrates
