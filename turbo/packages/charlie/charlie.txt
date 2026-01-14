@@ -1681,6 +1681,7 @@ calorie
 claytonia
 conflagrating
 cele
+causans
 curlicuing
 circ
 cestoi
@@ -6345,7 +6346,6 @@ candystick
 causality
 causalities
 causally
-causans
 cyphellate
 causate
 causationism
