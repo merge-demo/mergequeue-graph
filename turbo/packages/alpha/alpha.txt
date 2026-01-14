@@ -1647,7 +1647,6 @@ abnet
 adenophoreus
 aerenterectasia
 accroaching
-anaclitic
 accroides
 accruable
 atty
@@ -25287,6 +25286,7 @@ azobenzil
 anisogamous
 amylophosphoric
 avulse
+anaclitic
 articulateness
 argyropelecus
 arvicola
