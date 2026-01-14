@@ -5041,6 +5041,7 @@ figlike
 fishline
 fosses
 fetialis
+frostbit
 foveated
 fezes
 freir
@@ -11111,7 +11112,6 @@ factionate
 fundatrices
 forhoo
 frizzed
-frostbit
 febres
 fearlessness
 fisticuffs

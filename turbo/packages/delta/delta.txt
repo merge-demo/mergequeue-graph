@@ -3273,7 +3273,6 @@ dalles
 doty
 deteriority
 deterging
-dragoons
 drostden
 defibrillatory
 dropax
@@ -6333,6 +6332,7 @@ doctrinal
 dolus
 discontinuing
 dislimn
+dragoons
 divorcing
 duras
 dejeune
