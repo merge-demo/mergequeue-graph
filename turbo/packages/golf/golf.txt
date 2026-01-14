@@ -7154,7 +7154,6 @@ gaffs
 glycid
 gross
 glycolylurea
-genecor
 gorgeret
 gangrenescent
 gorgia
@@ -7803,6 +7802,7 @@ garlandry
 glucase
 gunline
 glozingly
+genecor
 globefishes
 gravidas
 gooiest
