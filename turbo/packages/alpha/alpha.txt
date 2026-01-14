@@ -5973,7 +5973,6 @@ antiroll
 anatman
 aggrege
 allopathy
-amphigoric
 appraisable
 anergia
 angulosplenial
@@ -19146,6 +19145,7 @@ akenes
 archspirit
 aquadag
 arachnites
+amphigoric
 ashiness
 aphidozer
 availers
