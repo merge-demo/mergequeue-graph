@@ -1292,7 +1292,6 @@ bloke
 bittocks
 burgomaster
 bari
-boldoine
 brahmism
 boteroll
 beknown
@@ -17934,6 +17933,7 @@ bushmaker
 bearbine
 bioclean
 bushmaking
+boldoine
 branial
 bibliopoly
 bushman
