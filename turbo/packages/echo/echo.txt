@@ -7111,7 +7111,6 @@ employees
 electrophysiologically
 epithesis
 energic
-envious
 expelling
 esophagismus
 epitaxially
@@ -12549,6 +12548,7 @@ exsects
 exite
 eranist
 extinction
+envious
 envied
 enherit
 epistolist
