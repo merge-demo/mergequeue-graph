@@ -7593,6 +7593,7 @@ edelweiss
 epiclinal
 ecstaticize
 enteric
+encompass
 epicoele
 elkesaite
 extolment
@@ -11370,7 +11371,6 @@ ethnomusicologist
 endodontics
 enneasemic
 exuvia
-encompass
 eponymist
 ensweeten
 eventime
