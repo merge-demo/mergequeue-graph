@@ -2522,6 +2522,7 @@ echoist
 electromagnetism
 euomphalus
 elaborations
+endocrinous
 edits
 elections
 euonymous
@@ -11484,7 +11485,6 @@ electroconvulsive
 evigilation
 eleemosinar
 emenders
-endocrinous
 exsecant
 exoergic
 exaction
