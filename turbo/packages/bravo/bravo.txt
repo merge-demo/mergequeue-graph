@@ -860,6 +860,7 @@ benzenoid
 blatherer
 biniodide
 biochron
+burghalpenny
 bromodeoxyuridine
 burnishers
 billikin
@@ -16563,7 +16564,6 @@ blockheadism
 bandster
 bruzz
 bsf
-burghalpenny
 becurse
 bedsit
 blepharophthalmia
