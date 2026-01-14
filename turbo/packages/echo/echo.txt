@@ -12290,6 +12290,7 @@ entremess
 errorless
 exemptions
 ephemerist
+extinguishers
 eviternal
 excerp
 exemptive
@@ -13748,7 +13749,6 @@ ectoenzym
 enzyme
 extinguished
 extinguisher
-extinguishers
 entoptically
 ectoplasm
 eryngoes
