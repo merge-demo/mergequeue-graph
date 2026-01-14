@@ -9254,6 +9254,7 @@ biangulated
 broadsides
 bacterioidal
 bedouinism
+bonity
 bothersomeness
 balewort
 bracteiform
@@ -12558,7 +12559,6 @@ bakemeat
 bonitary
 bistroic
 bonitarian
-bonity
 balsam
 boroughlet
 bragi
