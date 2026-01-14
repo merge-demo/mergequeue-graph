@@ -917,7 +917,6 @@ endowments
 endorsements
 electrophoretic
 ectropion
-ectropium
 eluvia
 erogenesis
 effatum
@@ -5058,6 +5057,7 @@ escrod
 eavesdrop
 eclecticism
 endearingly
+ectropium
 exemptible
 evertebrata
 emotiovascular
