@@ -1366,7 +1366,6 @@ fossicks
 fatiguesome
 fragmenting
 fishbones
-fulminuric
 fidate
 fella
 fatima
@@ -11462,6 +11461,7 @@ furrure
 foreglimpse
 fin
 fluorophosphate
+fulminuric
 ferri
 foliolose
 freelancing
