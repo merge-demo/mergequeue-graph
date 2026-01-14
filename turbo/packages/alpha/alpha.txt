@@ -9046,7 +9046,6 @@ anserin
 allotropic
 ailanthus
 abusively
-allotropical
 allotropically
 allotropies
 allots
@@ -9163,6 +9162,7 @@ almandines
 aldime
 agalactous
 antiputrefaction
+allotropical
 averter
 animations
 apollonistic
