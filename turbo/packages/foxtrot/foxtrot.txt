@@ -3854,6 +3854,7 @@ flet
 fleshpots
 forewoman
 fieldball
+farsang
 firmnesses
 frizzles
 fanglomerate
@@ -11215,7 +11216,6 @@ faradise
 fistulae
 fennecs
 foreday
-farsang
 furzed
 funiculars
 funiform
