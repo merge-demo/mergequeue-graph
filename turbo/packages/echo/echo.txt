@@ -5950,6 +5950,7 @@ eruc
 exemplupla
 erythrose
 euflavine
+enheritance
 epicondylitis
 eking
 expectorates
@@ -7027,7 +7028,6 @@ enepidermic
 eliquate
 excorticated
 ephods
-enheritance
 exclamation
 englishry
 engilded
