@@ -7309,7 +7309,6 @@ frognose
 foram
 fronds
 fearnaught
-frampold
 favour
 fulcrum
 feathered
@@ -10725,6 +10724,7 @@ fringelike
 faenus
 flam
 flotsams
+frampold
 fideisms
 frumps
 forcedly
