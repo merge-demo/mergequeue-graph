@@ -3607,6 +3607,7 @@ emotions
 embrail
 empowers
 exactiveness
+etymologist
 embranchment
 enriching
 expositive
@@ -12583,7 +12584,6 @@ eaglestone
 earthpeas
 embrawn
 epsomite
-etymologist
 euphon
 ethion
 excecation
