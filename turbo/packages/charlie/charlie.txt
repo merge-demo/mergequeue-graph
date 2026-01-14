@@ -26764,7 +26764,6 @@ countercourant
 countercry
 countercriticism
 countercultural
-counterculture
 coagulums
 countercurrent
 countercurrently
@@ -28182,6 +28181,7 @@ crink
 cromfordite
 crankling
 crankpin
+counterculture
 cytolysin
 crankpins
 colipyuria
