@@ -10850,6 +10850,7 @@ cinnoline
 chip
 chipchop
 chipewyan
+counterfire
 chiplet
 culvert
 claviharp
@@ -26847,7 +26848,6 @@ cudava
 chilopod
 counterfeits
 counterfessed
-counterfire
 counterflange
 cruzados
 counterfleury

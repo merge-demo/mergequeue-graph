@@ -5358,7 +5358,6 @@ buyable
 bromobenzene
 barodynamic
 barbarisation
-burly
 broomshank
 birne
 begrett
@@ -12130,6 +12129,7 @@ bonesets
 balanops
 baalshem
 burbots
+burly
 bedamp
 benzofluorene
 bannets
