@@ -4422,6 +4422,7 @@ bathyseism
 beclaw
 besieged
 balm
+bayeta
 brandering
 budapest
 balantidiosis
@@ -9707,7 +9708,6 @@ bagani
 bathybian
 beadrolls
 blaewort
-bayeta
 bizes
 benj
 bicolored
