@@ -2112,6 +2112,7 @@ grottolike
 gardenia
 gastrostege
 geison
+globousness
 gawking
 glucinic
 gastrins
@@ -7397,7 +7398,6 @@ goosiest
 gunflints
 gelsemine
 gunnery
-globousness
 grangerization
 gadean
 geniohyoglossus
