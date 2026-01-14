@@ -12357,7 +12357,6 @@ chromatographically
 cuticularize
 chromatolysis
 conquerable
-chromatolytic
 chromatologies
 chromatopathy
 celebe
@@ -25575,6 +25574,7 @@ corporalities
 corporals
 cytostatically
 citronellic
+chromatolytic
 corporalship
 corporas
 corporate
