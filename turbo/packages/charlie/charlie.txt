@@ -1051,7 +1051,6 @@ calcaneoplantar
 countersale
 calcaneoscaphoid
 calcaneum
-calcannea
 calcannei
 chloroplastid
 channellers
@@ -2101,6 +2100,7 @@ campanologer
 crucis
 croaker
 coalmonger
+calcannea
 conjunctly
 campanologically
 coniology
