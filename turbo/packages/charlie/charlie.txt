@@ -7296,7 +7296,6 @@ cepes
 civ
 conchitis
 clincher
-chromatopathic
 commercer
 constitution
 conicity
@@ -18119,6 +18118,7 @@ chiotilla
 centerward
 chincha
 counterpunch
+chromatopathic
 chronologist
 colpeo
 chinbone
