@@ -4913,6 +4913,7 @@ corporation
 canonization
 clomben
 carrotwood
+callityping
 carrousel
 circumfused
 carrousels
@@ -9471,7 +9472,6 @@ chechakos
 chechem
 chechia
 concupiscent
-callityping
 crojik
 check
 communizing
