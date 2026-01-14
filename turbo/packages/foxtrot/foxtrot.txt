@@ -5022,6 +5022,7 @@ faithbreaker
 fragrance
 faconne
 fulmarus
+frederik
 flapdock
 familiarized
 flowered
@@ -9532,7 +9533,6 @@ floreated
 forgone
 factabling
 foller
-frederik
 futilitarian
 freightyard
 forwalk
