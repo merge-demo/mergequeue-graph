@@ -2080,7 +2080,6 @@ fogle
 federalist
 floriculture
 felicitator
-fudger
 frightened
 floria
 foredefine
@@ -10280,6 +10279,7 @@ finary
 folksongs
 fanged
 fingerings
+fudger
 frazed
 fluormeter
 ferrates
