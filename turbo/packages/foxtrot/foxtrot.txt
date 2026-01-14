@@ -4187,7 +4187,6 @@ flummadiddle
 federals
 ferfathmur
 felonries
-featherstitch
 foothold
 flittermmice
 featurish
@@ -8780,6 +8779,7 @@ filletster
 firry
 flashtube
 frustula
+featherstitch
 feoffing
 flunks
 favorably
