@@ -6769,6 +6769,7 @@ crustacea
 canstick
 compartmentally
 concordantly
+canonically
 colliculate
 caruncle
 celestify
@@ -17299,7 +17300,6 @@ coaptate
 cease
 clankingly
 chlamydomonadidae
-canonically
 cymogenes
 coaptation
 coapted
