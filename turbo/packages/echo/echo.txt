@@ -8672,6 +8672,7 @@ entoperipheral
 enameller
 emerging
 excretions
+endosmometer
 equinumerally
 equinus
 ethrogs
@@ -13114,7 +13115,6 @@ excruciation
 engages
 esophagorrhagia
 eulogize
-endosmometer
 enslaver
 etymologists
 exhalation
