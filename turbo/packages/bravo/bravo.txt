@@ -8217,7 +8217,6 @@ biflabellate
 blowtorch
 biflagelate
 bewaring
-borrow
 biflex
 benchfellow
 beginger
@@ -16820,6 +16819,7 @@ buildings
 budmash
 biorythmic
 bridegrooms
+borrow
 barranco
 ballate
 babungera
