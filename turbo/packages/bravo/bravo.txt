@@ -4720,7 +4720,6 @@ busywork
 bedims
 basiophitic
 birdbrain
-brownier
 bedizen
 boubas
 beekmantown
@@ -13374,6 +13373,7 @@ billsticker
 bandage
 benjamite
 bothriocephalus
+brownier
 brosimum
 becut
 bothrium
