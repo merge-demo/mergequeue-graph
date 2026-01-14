@@ -4192,6 +4192,7 @@ echolalic
 electroetching
 exocardiac
 enghle
+etherialisation
 emeutes
 egoize
 enwound
@@ -4662,7 +4663,6 @@ endemics
 electromagnets
 encyclopedic
 ebauche
-etherialisation
 erpetology
 exacerbating
 egence
