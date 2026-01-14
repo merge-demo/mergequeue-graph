@@ -10274,7 +10274,6 @@ akkadist
 asyllabia
 arcticize
 anemious
-agricolite
 amelanchier
 avarice
 argus
@@ -13424,6 +13423,7 @@ ankylostomiasis
 ankylotic
 anklejack
 ankles
+agricolite
 aetolian
 aminase
 assimilatory
