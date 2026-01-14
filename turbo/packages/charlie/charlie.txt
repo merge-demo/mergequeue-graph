@@ -6746,6 +6746,7 @@ cribbages
 clavecin
 celebs
 celemin
+coilyear
 celemines
 celery
 cimborio
@@ -29461,7 +29462,6 @@ cerographic
 circuiter
 crystallising
 crystallites
-coilyear
 constabless
 cyprinus
 coprides
