@@ -2069,6 +2069,7 @@ famishes
 foremasthand
 felicity
 fructidor
+fumatorium
 fusibleness
 freeform
 fideistic
@@ -9915,7 +9916,6 @@ feazing
 fossilated
 fudge
 fantoms
-fumatorium
 freckled
 fa
 frigates
