@@ -1854,7 +1854,6 @@ gossypium
 gatemaker
 gladfully
 glyconics
-gerhardtite
 gregory
 grandfer
 gunfighting
@@ -6063,6 +6062,7 @@ gneissic
 gasifying
 gruffiness
 gemuetlich
+gerhardtite
 grizelin
 guly
 gonzo
