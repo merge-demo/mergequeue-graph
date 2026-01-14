@@ -1625,6 +1625,7 @@ balloonflower
 balloonish
 babby
 bullshitted
+bipedality
 boud
 boyarism
 blier
@@ -9213,7 +9214,6 @@ bipedal
 beggared
 bogo
 bourbonesque
-bipedality
 bipeds
 bipeltate
 benettle

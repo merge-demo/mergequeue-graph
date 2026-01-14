@@ -2440,6 +2440,7 @@ aftertime
 armoured
 ackmen
 acanthocephali
+allopathist
 algonquin
 aluminized
 antitartaric
@@ -8962,7 +8963,6 @@ adlerian
 allopathically
 affrightingly
 ablegates
-allopathist
 audited
 araceae
 agena
