@@ -7742,7 +7742,6 @@ fasciately
 followingly
 fenouillette
 flavour
-foremen
 fanbearer
 ferroprussic
 fractionize
@@ -10338,6 +10337,7 @@ filicoid
 fezziwig
 fidding
 formicaries
+foremen
 fantoddish
 fibreware
 forswore
