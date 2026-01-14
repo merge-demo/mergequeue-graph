@@ -1603,6 +1603,7 @@ accouter
 apotype
 astrologistic
 agrostologist
+austrophile
 aneling
 accouterment
 arsenotungstic
@@ -18559,7 +18560,6 @@ arborical
 arboricole
 addresses
 acceptees
-austrophile
 arboricoline
 arboricolous
 arboriculture
