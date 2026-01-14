@@ -6969,7 +6969,6 @@ easily
 entreatful
 eclipsing
 endjunk
-entreaties
 excavatorial
 enfuddle
 eager
@@ -10276,6 +10275,7 @@ excipulum
 experimentize
 electronography
 entrapper
+entreaties
 erump
 ethmyphitis
 existents

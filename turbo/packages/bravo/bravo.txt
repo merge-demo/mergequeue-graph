@@ -10712,6 +10712,7 @@ bestill
 blendwater
 broadish
 bowhead
+binately
 blenheim
 bibl
 belap
@@ -18205,7 +18206,6 @@ bremely
 busycon
 biloculina
 butsu
-binately
 brushiest
 brigbote
 boredness
