@@ -2054,7 +2054,6 @@ fairyisms
 farl
 fops
 frothiness
-foggiest
 felahin
 fissipes
 fendillation
@@ -11052,6 +11051,7 @@ frictionizing
 funambulatory
 fondaco
 fedia
+foggiest
 flamenship
 frontality
 funambuloes
