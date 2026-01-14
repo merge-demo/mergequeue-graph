@@ -875,6 +875,7 @@ faltboats
 falconets
 forzando
 fireworks
+footlike
 folliculose
 footworks
 florivorous
@@ -4739,7 +4740,6 @@ flagellariaceous
 fleecily
 fasibitikite
 flagellatae
-footlike
 fulmination
 follies
 fortress
