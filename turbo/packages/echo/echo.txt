@@ -1358,7 +1358,6 @@ erythroxylaceae
 eurasiatic
 exhalent
 ennead
-enneastylos
 epeidia
 epilaryngeal
 enneandrous
@@ -10082,6 +10081,7 @@ englishing
 epinglette
 escharine
 echidnidae
+enneastylos
 ethenes
 ethenoid
 ethenol
