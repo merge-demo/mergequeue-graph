@@ -3345,6 +3345,7 @@ fieldish
 funereality
 flatfoot
 fattener
+footstone
 fibromatous
 fossores
 foveolate
@@ -9414,7 +9415,6 @@ fraternally
 felonsetting
 formic
 fraternised
-footstone
 following
 fraternism
 fitfulness
