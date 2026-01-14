@@ -8199,7 +8199,6 @@ gracilaria
 glutethimide
 gravid
 gladlier
-gigabit
 gujar
 glycerolyses
 gelatinise
@@ -9012,6 +9011,7 @@ graving
 gritstone
 ghent
 gneissose
+gigabit
 geog
 gobletful
 gnathophorous
