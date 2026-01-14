@@ -1882,6 +1882,7 @@ gilgai
 goofy
 geodic
 gourmandism
+gasconading
 galacturia
 gardenwise
 gentilesse
@@ -8208,7 +8209,6 @@ gestative
 gooseneck
 graphemically
 gris
-gasconading
 genevois
 graphically
 glorioso
