@@ -12053,7 +12053,6 @@ epiclike
 enforcible
 elflike
 exotoxins
-expurgatorial
 embalmed
 excortication
 eschewals
@@ -14122,6 +14121,7 @@ extroitive
 extremist
 extrorse
 extrospect
+expurgatorial
 endarch
 evokes
 equivorous
