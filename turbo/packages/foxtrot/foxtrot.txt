@@ -1093,7 +1093,6 @@ fellatrixes
 fudgy
 fishling
 fastback
-farrisite
 farfetched
 fleerish
 faussebraie
@@ -6813,6 +6812,7 @@ foraminiferan
 fikery
 feuille
 florula
+farrisite
 fragmentizer
 foretold
 fasces
