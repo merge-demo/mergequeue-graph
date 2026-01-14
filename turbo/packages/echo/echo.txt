@@ -4253,6 +4253,7 @@ erysibe
 earjewel
 encephaloscopy
 emulsions
+ergodic
 equidistantial
 emacerated
 effluxes
@@ -8893,7 +8894,6 @@ earflaps
 ergatomorphic
 extrameridian
 educationally
-ergodic
 evenhead
 euphoria
 expectorators

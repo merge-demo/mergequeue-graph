@@ -6481,7 +6481,6 @@ bepepper
 ballat
 booley
 boltropes
-bronchopneumonic
 bephrase
 brachiopodist
 betelgeuse
@@ -12057,6 +12056,7 @@ boilover
 bandlessness
 boils
 boyo
+bronchopneumonic
 blizzardy
 boyology
 battiest
