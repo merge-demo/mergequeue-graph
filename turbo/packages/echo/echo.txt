@@ -6226,7 +6226,6 @@ endamaged
 eidology
 endosmosis
 enplane
-electromotor
 ecorticate
 enplaned
 embryonary
@@ -6484,6 +6483,7 @@ evincingly
 euphratean
 exstruct
 euphonicalness
+electromotor
 entocyst
 enlivens
 erubescence
