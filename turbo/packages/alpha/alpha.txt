@@ -9334,6 +9334,7 @@ aircraft
 atomiferous
 alphabetarian
 acclimatizable
+anoesis
 aboiteau
 amphibiontic
 acerose
@@ -11080,7 +11081,6 @@ abnormalcy
 amortizes
 arecaceae
 araneid
-anoesis
 autoput
 aunter
 alacreatinin
