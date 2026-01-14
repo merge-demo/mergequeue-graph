@@ -11320,7 +11320,6 @@ dupioni
 discerped
 discontinued
 dowset
-deambulatories
 davens
 deprivate
 discerpible
@@ -16844,6 +16843,7 @@ discontinual
 determinativeness
 discharity
 dozes
+deambulatories
 depreciations
 dissyllabise
 diffidence
