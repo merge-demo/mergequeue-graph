@@ -1620,6 +1620,7 @@ ballooners
 bickering
 brattier
 bricklayer
+billowy
 balloonflower
 balloonish
 babby
@@ -10965,7 +10966,6 @@ brassage
 blintzes
 blacksmiths
 bafta
-billowy
 blips
 boehmenite
 bliss
