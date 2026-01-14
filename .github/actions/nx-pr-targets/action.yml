@@ -54,7 +54,7 @@ runs:
         python3 tools/upload_targets.py \
           --targets-file=impacted_targets_json_tmp \
           --trunk-token="${{ inputs.trunk-token }}" \
-          --api-url="https://api.trunk.io:443/v1/setImpactedTargets"
+          --api-url="https://api.trunk-staging.io:443/v1/setImpactedTargets"
       env:
         TRUNK_TOKEN: ${{ inputs.trunk-token }}
         GITHUB_REPOSITORY: ${{ github.repository }}
