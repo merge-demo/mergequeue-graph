@@ -259,6 +259,7 @@ crenelations
 cognati
 condensing
 caches
+capitan
 cachespell
 cagayans
 cacheting
@@ -3259,7 +3260,6 @@ curtana
 casques
 capitalizing
 capitalness
-capitan
 capitana
 capitasti
 capitated
