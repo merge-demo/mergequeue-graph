@@ -3333,6 +3333,7 @@ gang
 grooverhead
 glossologies
 gerundial
+gingalls
 gentlewomanlike
 germier
 goatsfoot
@@ -5638,7 +5639,6 @@ grimoire
 germanics
 gubernacular
 geyserine
-gingalls
 gastralgic
 gobbling
 growsome
