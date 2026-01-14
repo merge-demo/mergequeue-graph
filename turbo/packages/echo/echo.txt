@@ -10737,6 +10737,7 @@ eulachans
 eulamellibranchiata
 exanthemas
 ethylenically
+extraparochial
 etrier
 excelled
 eulimidae
@@ -13967,7 +13968,6 @@ endokaryogamy
 enface
 electropoion
 escheatage
-extraparochial
 equicurve
 ectophytic
 essoiner
