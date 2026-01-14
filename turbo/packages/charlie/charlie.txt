@@ -16499,7 +16499,6 @@ cloghaun
 cloghead
 carboxyl
 cowsharn
-cosmos
 calendar
 coinheritance
 correlative
@@ -27267,6 +27266,7 @@ countryfiedness
 cryolites
 countryfolk
 closewing
+cosmos
 congeable
 crullers
 coadjust
