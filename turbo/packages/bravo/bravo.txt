@@ -1127,7 +1127,6 @@ bairnly
 branky
 barkstone
 bromines
-bedimmed
 boatload
 brindled
 bluethroat
@@ -7708,6 +7707,7 @@ bromonaphthalene
 behypocrite
 bridging
 bhagavat
+bedimmed
 bivouacking
 bookrack
 bigamized
