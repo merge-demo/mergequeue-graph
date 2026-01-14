@@ -3068,7 +3068,6 @@ grangerised
 geomorphologically
 glycopexis
 geonavigation
-gabbart
 gizmos
 gaolbird
 gaga
@@ -5343,6 +5342,7 @@ ganoses
 gipsyism
 geotechnics
 gadgetry
+gabbart
 glycosidically
 granulite
 gitter

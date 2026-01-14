@@ -887,7 +887,6 @@ cayugas
 cayuse
 cayuses
 cajan
-capitare
 cajaputs
 cucularis
 cazibi
@@ -2640,6 +2639,7 @@ cobbers
 chimp
 canework
 chuckling
+capitare
 compliably
 chalet
 crabier
