@@ -4062,7 +4062,6 @@ euthymy
 esthetophore
 emboil
 equitant
-enjambement
 erotophobia
 exteriorize
 epiphonemae
@@ -6298,6 +6297,7 @@ earnful
 emodin
 embrocation
 ejusd
+enjambement
 enrolls
 eumycetes
 equijacent
