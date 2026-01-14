@@ -3399,7 +3399,6 @@ frillier
 feminality
 fierasferoid
 farcie
-fanfaronading
 fungible
 floc
 flecker
@@ -6234,6 +6233,7 @@ fluidic
 friendlike
 frankeniaceous
 fecit
+fanfaronading
 flamefish
 fluidified
 fluoarsenate
