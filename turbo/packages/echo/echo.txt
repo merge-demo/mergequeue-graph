@@ -2688,6 +2688,7 @@ emulsoidal
 exteriorise
 essed
 ericolin
+electrograving
 elderwort
 electrophoresing
 endomycetaceae
@@ -9118,7 +9119,6 @@ equinoxes
 evasion
 embordered
 erythropsia
-electrograving
 entwist
 etruscan
 erythropsin
