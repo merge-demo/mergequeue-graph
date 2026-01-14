@@ -2947,6 +2947,7 @@ acrotism
 acrotrophic
 airplay
 aesthetician
+arms
 acrux
 acta
 acediamin
@@ -11164,7 +11165,6 @@ ampersands
 amphanthia
 amphanthium
 ampherotokous
-arms
 adjutancies
 antirationality
 araeometer
