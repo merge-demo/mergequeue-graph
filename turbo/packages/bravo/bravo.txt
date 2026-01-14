@@ -1524,6 +1524,7 @@ batterdock
 ballads
 balete
 baralipton
+bramble
 bloodmonger
 blackware
 ballas
@@ -14478,7 +14479,6 @@ bakunda
 betray
 brakie
 blastophitic
-bramble
 brambleberry
 brambles
 branchy
