@@ -6686,7 +6686,6 @@ gymnosperm
 grattage
 gewgawed
 growse
-grittle
 gardenize
 goosey
 goup
@@ -10640,6 +10639,7 @@ gargets
 gorrel
 genera
 galvanocauterization
+grittle
 guppies
 galee
 gnomed
