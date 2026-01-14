@@ -6559,6 +6559,7 @@ foalfoots
 flavorers
 ficula
 futurism
+flossier
 firebrand
 forebitten
 firming
@@ -10205,7 +10206,6 @@ flunkers
 funders
 frogmarch
 flowerful
-flossier
 frighted
 fibrose
 franconian
