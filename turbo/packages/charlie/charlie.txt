@@ -22132,7 +22132,6 @@ craftsmanly
 corrading
 calix
 clams
-cepter
 catalysts
 commaing
 catchpolled
@@ -28240,6 +28239,7 @@ counteragitation
 crapshooters
 crumlet
 coteline
+cepter
 comfortability
 colchyte
 crare
