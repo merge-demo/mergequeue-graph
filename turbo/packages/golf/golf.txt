@@ -1420,7 +1420,6 @@ gossipee
 gipsying
 guilloche
 genitals
-garreteer
 greenless
 gola
 garret
@@ -7897,6 +7896,7 @@ grandams
 gusty
 generic
 gramophonic
+garreteer
 gruelling
 gametangium
 goi
