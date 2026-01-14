@@ -11093,6 +11093,7 @@ do
 discernibility
 dulled
 dorhawk
+dornic
 dotless
 dissertator
 disarticulating
@@ -15749,7 +15750,6 @@ dissenting
 dimwits
 dormouse
 digallic
-dornic
 deletive
 deterred
 dornick
