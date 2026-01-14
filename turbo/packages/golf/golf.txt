@@ -3485,7 +3485,6 @@ gewgawry
 gyrfalcon
 gigantological
 gestatory
-geriatric
 grivoise
 girasols
 graphonomy
@@ -4379,6 +4378,7 @@ grindings
 groundhog
 gink
 goles
+geriatric
 gorgoneia
 grandsonship
 gloss
