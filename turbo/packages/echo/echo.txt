@@ -4973,7 +4973,6 @@ epichirema
 electrofused
 endemism
 eco
-eightscore
 endenization
 excusator
 ecarte
@@ -10344,6 +10343,7 @@ elephantine
 enquired
 explain
 etwite
+eightscore
 electrometallurgical
 estensible
 elvers
