@@ -3130,7 +3130,6 @@ eloigning
 enactment
 euryte
 eloigns
-eloin
 escheat
 eloine
 engrossing
@@ -8180,6 +8179,7 @@ exulting
 entomophthoraceae
 eons
 epitendineum
+eloin
 exergual
 empowered
 excalfaction
