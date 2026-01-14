@@ -5148,7 +5148,6 @@ endothermically
 epimeride
 enounced
 elephants
-electrology
 economists
 entocoele
 ergotist
@@ -12893,6 +12892,7 @@ expansionism
 englyn
 esotropic
 expansionist
+electrology
 expansionistic
 enserf
 eructs
