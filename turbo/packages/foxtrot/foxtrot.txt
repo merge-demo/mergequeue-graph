@@ -2550,7 +2550,6 @@ fratery
 fitchews
 fibrocytic
 faithbreach
-fishpot
 fretter
 forewarningly
 forequarter
@@ -9402,6 +9401,7 @@ foodstuff
 foreteeth
 frary
 flouriness
+fishpot
 frolicly
 forlore
 frescoer
