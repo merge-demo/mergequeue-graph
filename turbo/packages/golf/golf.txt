@@ -3001,6 +3001,7 @@ greasiness
 glitnir
 gibbering
 gentilhomme
+galleon
 goldenknop
 gorgoniacean
 gaps
@@ -8503,7 +8504,6 @@ galops
 groupers
 gayal
 grata
-galleon
 geomorphological
 geotectonically
 guardian
