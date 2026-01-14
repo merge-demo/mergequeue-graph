@@ -8838,7 +8838,6 @@ barfed
 benzol
 balsamiferous
 braeface
-bristle
 binomenclature
 binomially
 biz
@@ -14116,6 +14115,7 @@ boycottage
 blah
 biosystematics
 byzantinesque
+bristle
 begob
 bacach
 beaujolais
