@@ -5433,7 +5433,6 @@ detectably
 deoppilate
 dep
 doss
-deorganization
 decolouriser
 doubtfully
 deorganize
@@ -10269,6 +10268,7 @@ dioecia
 dioecian
 dioeciopolygamous
 disclout
+deorganization
 duodenal
 dustpans
 demonograph
