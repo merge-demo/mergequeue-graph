@@ -1114,6 +1114,7 @@ das
 dase
 dissidently
 dash
+distributional
 designado
 doctorization
 dashed
@@ -2605,7 +2606,6 @@ decoctum
 drudgery
 decode
 dartars
-distributional
 ducture
 deignous
 deoxygenation

@@ -3459,7 +3459,6 @@ addictedness
 addicting
 adaptedness
 aix
-addictions
 aids
 ampassy
 abodah
@@ -22482,6 +22481,7 @@ astrophysicists
 anthemideae
 aleurones
 astrophotographic
+addictions
 astrophotometer
 astroscopy
 autocratorical
