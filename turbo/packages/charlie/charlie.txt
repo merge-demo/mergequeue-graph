@@ -10367,6 +10367,7 @@ colorbreed
 cedarbird
 chilies
 cahoots
+confinedly
 chief
 chiefery
 cyatholith
@@ -21979,7 +21980,6 @@ confine
 comports
 confined
 cadging
-confinedly
 confiners
 confines
 confinity
