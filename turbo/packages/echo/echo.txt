@@ -2895,6 +2895,7 @@ evicts
 excitation
 emplaning
 elevons
+eboulement
 eurydice
 elfenfolk
 exclamational
@@ -7681,7 +7682,6 @@ effumability
 epideictic
 endomesoderm
 endotheliomata
-eboulement
 euphemiser
 extensionist
 electrotautomerism
