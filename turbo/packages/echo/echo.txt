@@ -4924,7 +4924,6 @@ ephemerally
 endearedness
 enterocele
 endearingness
-exactive
 eglestonite
 ecliptics
 estrada
@@ -5669,6 +5668,7 @@ eng
 esurience
 evangelicals
 exomorphism
+exactive
 euploid
 extrarenal
 endophasic
