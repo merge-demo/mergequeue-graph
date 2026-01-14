@@ -4512,7 +4512,6 @@ becrowded
 burstwort
 billeting
 brickset
-bacchanalias
 bumptiously
 brokes
 buffering
@@ -6602,6 +6601,7 @@ berenice
 bereshith
 beresite
 beret
+bacchanalias
 brangler
 berets
 berewick
