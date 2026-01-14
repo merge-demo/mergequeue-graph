@@ -1729,7 +1729,6 @@ gadoids
 glycerinate
 gorkhali
 gynocracy
-gympie
 goldstone
 genotypes
 gastriloquous
@@ -6347,6 +6346,7 @@ gloriosa
 gippo
 gollywobbler
 gambelli
+gympie
 garnitures
 gustables
 gorilline
