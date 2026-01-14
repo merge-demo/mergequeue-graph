@@ -1479,7 +1479,6 @@ dazzle
 dawnstreak
 discriminative
 diffusor
-dasypaedal
 discolorated
 dazzler
 disillusions
@@ -12088,6 +12087,7 @@ diamondback
 dojiggy
 daisies
 destemper
+dasypaedal
 drusedom
 disentwining
 dipodomyinae
