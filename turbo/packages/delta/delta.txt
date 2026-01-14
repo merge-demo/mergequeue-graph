@@ -2262,7 +2262,6 @@ demnition
 decemcostate
 dyewoods
 decemfoliate
-decempedal
 demotion
 dousers
 dominiums
@@ -14657,6 +14656,7 @@ doter
 diagnose
 djagoong
 darioles
+decempedal
 disemboguement
 djave
 drill
