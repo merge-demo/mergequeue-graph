@@ -4679,6 +4679,7 @@ asphaltus
 abasing
 airchecks
 anagoges
+aftercost
 aldhafera
 attorneyism
 achilles
@@ -8440,7 +8441,6 @@ aesthesics
 augmentations
 angiography
 archology
-aftercost
 abiegh
 alkalinized
 arite
