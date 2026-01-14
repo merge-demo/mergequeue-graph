@@ -14291,7 +14291,6 @@ circumplication
 cacciatore
 clavierist
 cautelous
-circumpose
 condite
 circumquaque
 circumradius
@@ -16703,6 +16702,7 @@ crimpling
 clots
 clottage
 chaconne
+circumpose
 clotted
 cyanus
 carts
