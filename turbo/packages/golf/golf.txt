@@ -3196,6 +3196,7 @@ gametoid
 ganglial
 gooier
 gie
+gastrocnemian
 geologers
 gotiglacial
 guerdoning
@@ -3767,7 +3768,6 @@ giantsize
 gaub
 gonging
 genoblastic
-gastrocnemian
 gobbets
 giarra
 gherao
