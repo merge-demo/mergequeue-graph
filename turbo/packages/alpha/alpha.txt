@@ -12413,7 +12413,6 @@ aortolith
 absistos
 antiecclesiasticism
 andriana
-auk
 abnormally
 aloofe
 andrias
@@ -17095,6 +17094,7 @@ armband
 aeolicism
 aerophotography
 agranulocyte
+auk
 apodal
 arvel
 aphorism
