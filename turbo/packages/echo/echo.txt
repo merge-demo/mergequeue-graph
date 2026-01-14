@@ -5799,6 +5799,7 @@ edeoscopy
 enceintes
 euchre
 enterons
+enhedge
 encrinal
 episode
 enray
@@ -8090,7 +8091,6 @@ encover
 extrasyphilitic
 extraordinaries
 expressable
-enhedge
 epiplasmic
 exhausting
 epiploce
