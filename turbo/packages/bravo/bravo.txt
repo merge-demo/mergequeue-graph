@@ -2599,7 +2599,6 @@ ballons
 balanophoraceous
 baritenor
 barberry
-bucerotinae
 bulletined
 bedevils
 barytocelestite
@@ -15781,6 +15780,7 @@ bilirubin
 brodyagi
 brodie
 broeboe
+bucerotinae
 basiparachromatin
 broguer
 biotin
