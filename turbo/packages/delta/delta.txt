@@ -7050,7 +7050,6 @@ duramen
 destinezite
 driveable
 dessous
-devall
 doodad
 durst
 destabilization
@@ -11023,6 +11022,7 @@ disanalogous
 disanchor
 deliberations
 disanimation
+devall
 disannuller
 dialogues
 dichroic
