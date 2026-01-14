@@ -6845,7 +6845,6 @@ adjectival
 airline
 acridophagus
 airlines
-antilabor
 anticommercialism
 axiomatizes
 airling
@@ -23225,6 +23224,7 @@ amphinesian
 atrabilarious
 apomecometry
 auriphrygiate
+antilabor
 anapaganize
 atticisms
 atticist
