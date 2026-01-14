@@ -3769,7 +3769,6 @@ genoblastic
 gobbets
 giarra
 gherao
-gelder
 geotactic
 giarre
 gastaldo
@@ -9020,6 +9019,7 @@ gnathophorous
 gravenstein
 gymnure
 gastropore
+gelder
 gallbladders
 galvanothermy
 guiles
