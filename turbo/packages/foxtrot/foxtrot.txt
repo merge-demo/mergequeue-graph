@@ -1060,7 +1060,6 @@ foredestining
 furriery
 flustration
 fiberboard
-fids
 ferriages
 frontons
 farrage
@@ -11373,6 +11372,7 @@ fruitade
 faute
 furnacelike
 firetraps
+fids
 ferromagneticism
 flashlamp
 furnariides
