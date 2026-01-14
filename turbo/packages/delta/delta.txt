@@ -9806,7 +9806,6 @@ descendant
 dinosaur
 dolphinfishes
 dilutedly
-duresses
 duelist
 dilutely
 draffish
@@ -10640,6 +10639,7 @@ diplopod
 diplopoda
 discorrespondent
 delocalization
+duresses
 dissociates
 disco
 divests
