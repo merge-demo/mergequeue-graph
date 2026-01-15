@@ -7892,6 +7892,7 @@ foreseeable
 futchel
 footeite
 footslog
+fallers
 fletching
 foreseer
 foresees
@@ -10814,7 +10815,6 @@ ferntickled
 fluxure
 fanegas
 feff
-fallers
 fibrohemorrhagic
 foretopmast
 farcify
