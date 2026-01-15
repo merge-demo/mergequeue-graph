@@ -1794,7 +1794,6 @@ encroached
 egotheism
 epithalamy
 ergatogyny
-ectepicondylar
 elbow
 exopodite
 eigenvalues
@@ -7906,6 +7905,7 @@ emitter
 eatery
 exudates
 exordia
+ectepicondylar
 epimandibular
 enthrone
 epimanikia
