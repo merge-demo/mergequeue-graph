@@ -1898,6 +1898,7 @@ discourse
 debouchment
 diarial
 debout
+dutiable
 deervetch
 donging
 denticulated
@@ -10082,7 +10083,6 @@ dynast
 deaminating
 deliciae
 dieticians
-dutiable
 dextrane
 disamis
 dexiotropism
