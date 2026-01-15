@@ -873,7 +873,6 @@ gonolobus
 gyratory
 gloriousness
 greeing
-gastromyxorrhea
 gire
 grammaticality
 gonagia
@@ -7532,6 +7531,7 @@ governmental
 garageman
 gangman
 goldsmithing
+gastromyxorrhea
 gunyah
 geodesies
 greenths
