@@ -9088,6 +9088,7 @@ charred
 charrette
 consenescence
 charrier
+cricket
 charriest
 charro
 concional
@@ -28957,7 +28958,6 @@ cricetids
 cricetus
 cricked
 crickey
-cricket
 converso
 cricketers
 cicindelid
