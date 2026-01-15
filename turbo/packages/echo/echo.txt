@@ -3948,7 +3948,6 @@ exilarch
 embroglio
 empale
 empalers
-eyepit
 empall
 excurvation
 earshots
@@ -6591,6 +6590,7 @@ enterogastrone
 ermining
 egrimonle
 enterogenous
+eyepit
 edificant
 eartagged
 excitator
