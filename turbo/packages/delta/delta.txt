@@ -13803,7 +13803,6 @@ dignifies
 dilemmatically
 dissunder
 deflexible
-deerskin
 dialogistically
 demurral
 deader
@@ -17145,6 +17144,7 @@ divvers
 drunkenness
 dero
 decuries
+deerskin
 decine
 dipygi
 devarshi

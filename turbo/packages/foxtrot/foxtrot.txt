@@ -4101,7 +4101,6 @@ frostation
 fergusonite
 featherbrain
 fattable
-formal
 forgery
 fatalness
 fossilated
@@ -7683,6 +7682,7 @@ falsified
 flawful
 finnack
 fasciated
+formal
 fernier
 frayproof
 foreigneering
