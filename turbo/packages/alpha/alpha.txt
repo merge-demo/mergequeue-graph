@@ -5516,7 +5516,6 @@ amadou
 abscisins
 agronomies
 afterdeal
-afterdeck
 aerial
 afterform
 actuarial
@@ -6451,6 +6450,7 @@ acolous
 agueweeds
 alphitomancy
 aguglia
+afterdeck
 arachnidan
 aguilt
 astucious
