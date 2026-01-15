@@ -4849,6 +4849,7 @@ feuilletonism
 furoic
 fissipalmation
 fourteen
+faciest
 fraughtage
 fady
 fixes
@@ -11246,7 +11247,6 @@ funmaking
 flit
 flakeless
 famble
-faciest
 featherwork
 funnels
 fourer
