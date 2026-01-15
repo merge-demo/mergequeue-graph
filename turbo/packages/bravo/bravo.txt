@@ -8634,6 +8634,7 @@ bimorph
 balladeroyal
 butterflyfishes
 belinuridae
+bismuthic
 billowiest
 backfold
 bounceable
@@ -13969,7 +13970,6 @@ bonesetter
 brittlest
 ballcarrier
 brontops
-bismuthic
 bemeal
 brabanter
 blindfolder
