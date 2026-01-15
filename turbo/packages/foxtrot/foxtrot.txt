@@ -8187,7 +8187,6 @@ fluoroscoping
 fishways
 faded
 frijolito
-faze
 forage
 funicles
 fauvists
@@ -9604,6 +9603,7 @@ fruiterer
 freen
 featherfoil
 flowerer
+faze
 forwardly
 flotations
 freers
