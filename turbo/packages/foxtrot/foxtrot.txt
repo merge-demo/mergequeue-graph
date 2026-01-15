@@ -1225,7 +1225,6 @@ fascinate
 fixator
 fissure
 foredoing
-frustrately
 firmitude
 frigidity
 fenders
@@ -2031,6 +2030,7 @@ feigners
 fluoridation
 flosses
 feigns
+frustrately
 fidleys
 flitch
 farouche
