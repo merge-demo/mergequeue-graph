@@ -4333,6 +4333,7 @@ enantiomorph
 encratic
 equinovarus
 electrolyzer
+exceptions
 encephalosclerosis
 evisite
 endoplastule
@@ -6368,7 +6369,6 @@ engineering
 enlargers
 ensiling
 ensilist
-exceptions
 ensilver
 ensisternum
 esquiring
