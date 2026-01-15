@@ -12150,7 +12150,6 @@ aggradational
 anatole
 abought
 anatomicochirurgical
-abortions
 astrodynamic
 arterioverter
 acedia
@@ -12730,6 +12729,7 @@ angelolatry
 arthrography
 antiquarism
 apodioxis
+abortions
 awarrant
 anoretic
 acalyptrate
