@@ -4011,7 +4011,6 @@ beadlehood
 besiegement
 blepharophimosis
 brawnier
-beads
 builds
 begild
 barcelonas
@@ -9398,6 +9397,7 @@ bullyrook
 bulges
 birdless
 bimucronate
+beads
 balbutiate
 birdlimes
 blennoemesis
