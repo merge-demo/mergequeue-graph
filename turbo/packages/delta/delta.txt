@@ -3532,6 +3532,7 @@ deoxygenizing
 developedness
 diencephalon
 defunct
+dryope
 descendence
 discredence
 derivably
@@ -12893,7 +12894,6 @@ deceptible
 discepting
 dissatisfies
 drawls
-dryope
 disnaturalization
 deviator
 dermaptera
