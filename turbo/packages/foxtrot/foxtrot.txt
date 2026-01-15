@@ -5714,7 +5714,6 @@ fractuosity
 fels
 fins
 figureheadless
-fisher
 flubs
 foredeserved
 farth
@@ -10891,6 +10890,7 @@ fieldwort
 fliskier
 forsworn
 falloffs
+fisher
 fides
 fulleries
 fleets
