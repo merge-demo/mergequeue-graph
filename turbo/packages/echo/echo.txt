@@ -4281,7 +4281,6 @@ electrochemical
 electromobile
 entangle
 exosmoses
-enflowered
 echiniform
 exospores
 enacting
@@ -13501,6 +13500,7 @@ epifolliculitis
 ectocondyloid
 editing
 etruscologist
+enflowered
 evaporite
 erythrophagous
 eristic
