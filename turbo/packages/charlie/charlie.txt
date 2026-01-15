@@ -8942,6 +8942,7 @@ chargeless
 charger
 charges
 charybdian
+catamounts
 crankman
 charybdis
 chestnutty
@@ -10593,7 +10594,6 @@ carburise
 choledochotomy
 convivial
 chillingly
-catamounts
 chilognathous
 chilogrammo
 cubic
