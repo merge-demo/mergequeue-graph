@@ -1103,6 +1103,7 @@ environage
 edition
 endere
 editorialization
+epoxides
 elsa
 ecphory
 expunction
@@ -13586,7 +13587,6 @@ echidnas
 escheating
 enjoinder
 embroiders
-epoxides
 elementally
 excern
 enteroceptor
