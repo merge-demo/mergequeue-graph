@@ -3447,7 +3447,6 @@ gymkhanas
 gretel
 gehey
 geodes
-gessoes
 gerrhosauridae
 gila
 gestalt
@@ -6893,6 +6892,7 @@ gestations
 galacthidrosis
 gaoling
 geochemically
+gessoes
 goodishness
 grallatores
 gastight
