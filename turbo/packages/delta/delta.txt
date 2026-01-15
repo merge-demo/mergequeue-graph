@@ -8849,7 +8849,6 @@ draglines
 dropperful
 dovens
 dibstone
-degustation
 doziness
 depthwise
 diffeomorphism
@@ -17406,6 +17405,7 @@ disjoinable
 decream
 dropsies
 distomatidae
+degustation
 dropwise
 despairer
 dropwort
