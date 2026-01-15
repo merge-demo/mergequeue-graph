@@ -12678,7 +12678,6 @@ epicotyledonary
 exonerate
 exonerating
 ephemerous
-encephalotomies
 euclase
 episcopicide
 essays
@@ -13582,6 +13581,7 @@ esoteric
 exsufflate
 exsufflation
 epithymetical
+encephalotomies
 extracutaneous
 evasions
 echidnas
