@@ -6312,6 +6312,7 @@ daltonism
 dermis
 drawbores
 dendrologist
+dea
 diaplasis
 dejectory
 dermobranchiate
@@ -15953,7 +15954,6 @@ dissonancies
 dotiest
 desponding
 dune
-dea
 dissocial
 dialogize
 dasein
