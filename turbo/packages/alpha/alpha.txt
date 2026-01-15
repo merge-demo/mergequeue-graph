@@ -5095,7 +5095,6 @@ aeruginous
 aerugo
 aes
 autosepticemia
-aeschynomenous
 aesculaceous
 alliancer
 andrenidae
@@ -9609,6 +9608,7 @@ altus
 algivorous
 alpaca
 amazia
+aeschynomenous
 antirennet
 adulterates
 antiepiscopist
