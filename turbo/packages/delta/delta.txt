@@ -6919,7 +6919,6 @@ despatches
 deoxidise
 dodded
 despecialization
-disembarrassed
 dispute
 domineer
 despecialize
@@ -9398,6 +9397,7 @@ dechlore
 demilitarizing
 diamin
 diffusible
+disembarrassed
 demagoguism
 diffusibleness
 diffusing
