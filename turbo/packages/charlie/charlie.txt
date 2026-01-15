@@ -14739,7 +14739,6 @@ churned
 citigradae
 cigale
 cladosiphonic
-coordinate
 curtsy
 coenamor
 coccinellid
@@ -30710,6 +30709,7 @@ confuse
 cudweeds
 counterexplanation
 cudwort
+coordinate
 couturire
 compassment
 comedist
