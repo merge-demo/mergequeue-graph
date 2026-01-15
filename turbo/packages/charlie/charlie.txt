@@ -3873,6 +3873,7 @@ colliform
 carbonify
 clept
 chewbark
+concinnate
 colonizers
 chalybite
 carbonification
@@ -30449,7 +30450,6 @@ commiserating
 cosmopolitical
 clownishly
 ctenizid
-concinnate
 chiefless
 copelate
 cascables
