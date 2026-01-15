@@ -1023,7 +1023,6 @@ definement
 darkies
 drupel
 darkish
-drillmasters
 draughtsmen
 darkled
 disquietudes
@@ -12979,6 +12978,7 @@ designers
 despisal
 dimout
 drossel
+drillmasters
 dauntless
 depredicate
 dinoceratidae
