@@ -2150,6 +2150,7 @@ campestral
 consarcinate
 camphane
 camphanone
+calcinize
 camphene
 camphenes
 camphine
@@ -22044,7 +22045,6 @@ conflate
 currycombing
 canellaceae
 cassandras
-calcinize
 conflexure
 censor
 chromatophilia
