@@ -3123,7 +3123,6 @@ faring
 fulminancy
 freshwater
 fibroferrite
-fundic
 firewarden
 franciscans
 facile
@@ -3872,6 +3871,7 @@ fany
 flowerlet
 forfit
 flabbergastingly
+fundic
 flashlamps
 finaglers
 finalization
