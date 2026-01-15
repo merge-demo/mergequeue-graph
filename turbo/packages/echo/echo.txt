@@ -295,6 +295,7 @@ exhumation
 epilepsies
 elrage
 encamps
+etiquettes
 epitheliums
 enterolobium
 enantiosis
@@ -6875,7 +6876,6 @@ entomosporium
 ellipsoidal
 endangered
 electrum
-etiquettes
 endamageable
 epispore
 ectocardia
