@@ -5855,7 +5855,6 @@ entangledly
 elb
 edificing
 electorial
-epigeum
 ewest
 extrazodiacal
 exacerbescence
@@ -7010,6 +7009,7 @@ evangely
 evidencive
 environment
 embolic
+epigeum
 eminence
 entwines
 epinikian
