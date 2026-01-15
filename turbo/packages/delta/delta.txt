@@ -1252,6 +1252,7 @@ datelining
 datemark
 disenter
 dentalise
+dhoolies
 drink
 durational
 daterman
@@ -18238,7 +18239,6 @@ deftest
 deputative
 dasycladaceae
 disfavoring
-dhoolies
 dungarees
 dispirem
 decempeda

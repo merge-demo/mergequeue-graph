@@ -5461,7 +5461,6 @@ frillers
 fallation
 fidelities
 feus
-farouk
 foolscap
 furunculoid
 flesh
@@ -10314,6 +10313,7 @@ flexible
 frondless
 feezing
 federalese
+farouk
 fantasized
 frondlet
 frondose
