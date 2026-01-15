@@ -2196,6 +2196,7 @@ eggless
 encrisp
 eldest
 effigiated
+evenforth
 eventuate
 engulfment
 eldrich
@@ -11336,7 +11337,6 @@ ethnohistory
 exotropic
 edaphosaurus
 electrodesiccation
-evenforth
 eryopid
 embarrel
 edificator
