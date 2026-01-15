@@ -1174,7 +1174,6 @@ decrementing
 dasyuridae
 dasyurine
 dactylopatagium
-docimastic
 delineatory
 dassent
 deadheads
@@ -7608,6 +7607,7 @@ ditch
 devastating
 dancingly
 devastation
+docimastic
 disabler
 disquiparant
 drapping
