@@ -17488,7 +17488,6 @@ acantholimon
 alcalzar
 armaturing
 auxotrophic
-appallment
 aerodyne
 availability
 anamorphic
@@ -22485,6 +22484,7 @@ anthemideae
 aleurones
 astrophotographic
 addictions
+appallment
 astrophotometer
 astroscopy
 autocratorical
