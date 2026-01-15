@@ -4912,7 +4912,6 @@ flamen
 flamandization
 firefanged
 funneling
-firepan
 firmware
 fulcraceous
 flagarie
@@ -8407,6 +8406,7 @@ foreboded
 floweriness
 forpine
 freethink
+firepan
 fictitiously
 felonsetter
 febronian
