@@ -3075,7 +3075,6 @@ educationable
 ergatocracy
 expropriates
 ellipsograph
-executiveness
 esemplastic
 ellipticity
 extemporize
@@ -13001,6 +13000,7 @@ edictally
 expectorative
 eurycerous
 ephebos
+executiveness
 equipollently
 extubate
 exhaustingly

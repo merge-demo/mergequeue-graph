@@ -5711,6 +5711,7 @@ guttule
 ghillies
 glamberry
 gadroons
+gassendist
 glendale
 glossocele
 graian
@@ -7284,7 +7285,6 @@ gooky
 goofing
 gamostelic
 garcon
-gassendist
 gastraea
 gortonite
 gauffer
