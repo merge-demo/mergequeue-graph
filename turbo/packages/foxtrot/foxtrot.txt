@@ -6577,7 +6577,6 @@ firework
 forthcomer
 frocks
 floriculturally
-fullness
 fettled
 fidgetation
 fertilized
@@ -7060,6 +7059,7 @@ foolery
 flatterer
 farles
 felix
+fullness
 formfeeds
 footful
 foolhardiness

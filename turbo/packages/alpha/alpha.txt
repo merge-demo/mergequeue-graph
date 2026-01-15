@@ -7087,7 +7087,6 @@ abantes
 akia
 acetylene
 amphiarthrodial
-akin
 anoxaemic
 azury
 anre
@@ -17836,6 +17835,7 @@ abdominalian
 apportioning
 analphabetic
 agent
+akin
 assertory
 anastatic
 apposability
