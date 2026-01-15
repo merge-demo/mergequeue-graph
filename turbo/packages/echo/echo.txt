@@ -3388,6 +3388,7 @@ equipage
 exteroceptor
 elohist
 em
+extravertive
 embarricado
 embarring
 elementoid
@@ -9908,7 +9909,6 @@ electromagnetics
 exude
 exoculated
 enskies
-extravertive
 effemination
 epidermatic
 expiatoriness
