@@ -14533,7 +14533,6 @@ branchiopoda
 branner
 baktun
 bonding
-belugite
 bedumbed
 branchiostoma
 biosociology
@@ -17195,6 +17194,7 @@ bestarve
 boozy
 balsamical
 benedictional
+belugite
 bathylith
 battailant
 bullrush

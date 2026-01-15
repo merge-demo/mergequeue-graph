@@ -13883,6 +13883,7 @@ assecurator
 athletics
 anotta
 anotus
+ajenjo
 alluvial
 anounou
 ambivalency
@@ -22461,7 +22462,6 @@ astronomy
 analgen
 aphototropism
 astronomical
-ajenjo
 acylate
 astronomics
 astronomize
