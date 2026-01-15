@@ -4557,6 +4557,7 @@ dustlike
 dolichocrany
 desperance
 depths
+dummies
 disusing
 detected
 digitigrade
@@ -4958,7 +4959,6 @@ discession
 dipsy
 dogcatchers
 druze
-dummies
 diphyletic
 dunne
 dueness
