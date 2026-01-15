@@ -1967,6 +1967,7 @@ gamasidae
 gobans
 gauleiter
 grated
+gapes
 grasser
 gulonic
 grossing
@@ -6990,7 +6991,6 @@ gestalts
 geir
 glossopode
 gallerian
-gapes
 guaconize
 glad
 gossipry
