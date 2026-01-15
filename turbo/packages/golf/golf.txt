@@ -4459,6 +4459,7 @@ galtonian
 gypsyfy
 ganoblast
 gunshot
+gnathites
 generically
 gristles
 geophytes
@@ -4747,7 +4748,6 @@ gelidly
 gametophyll
 goosegirl
 glene
-gnathites
 gaullist
 gotta
 gomeril
