@@ -3793,7 +3793,6 @@ dialyzator
 dienes
 dicier
 disjecting
-duplexed
 despatched
 discommender
 deimos
@@ -3886,6 +3885,7 @@ dekagramme
 discommunity
 decumbiture
 designating
+duplexed
 discomedusan
 disherits
 dekameters
