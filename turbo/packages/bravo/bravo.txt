@@ -245,6 +245,7 @@ baches
 bachichi
 bootmaking
 belleter
+beglic
 bacilary
 bacile
 bacillaceae
@@ -5012,7 +5013,6 @@ boite
 banqueteer
 braunschweiger
 byliners
-beglic
 bloodletting
 branchiform
 breakwaters
