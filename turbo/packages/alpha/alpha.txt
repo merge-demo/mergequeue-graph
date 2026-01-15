@@ -659,6 +659,7 @@ alkalisation
 abominations
 abominator
 affably
+animatograph
 attrist
 abominators
 abomine
@@ -14831,7 +14832,6 @@ abbreviations
 arricciatos
 ascribes
 antichance
-animatograph
 amperes
 antichlorine
 aminoplastic
