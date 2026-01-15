@@ -9204,7 +9204,6 @@ grayfish
 guiled
 geologists
 guaka
-glairing
 gunebo
 geoscience
 gibberosity
@@ -9724,6 +9723,7 @@ glossaries
 gelants
 gratiosolin
 gaelicism
+glairing
 googolplex
 guying
 grummet
