@@ -2931,7 +2931,6 @@ flukiness
 freezed
 foxberries
 fac
-furloughs
 fungological
 froths
 fevered
@@ -9846,6 +9845,7 @@ feria
 fundatorial
 flavanthrone
 fogeys
+furloughs
 forepointer
 flapdragon
 feridgi
