@@ -7607,7 +7607,6 @@ alchemic
 antiviral
 alchemies
 actinozoal
-antilepsis
 agonothet
 accident
 aktivist
@@ -11097,6 +11096,7 @@ adduction
 amounters
 amouli
 anathematiser
+antilepsis
 apogeic
 ariki
 amovable
