@@ -8233,7 +8233,6 @@ eure
 epigeic
 escapado
 epitoke
-epigones
 erratums
 emulate
 endolaryngeal
@@ -9086,6 +9085,7 @@ erythropia
 enveil
 escrowee
 ephors
+epigones
 equinoxes
 evasion
 embordered
