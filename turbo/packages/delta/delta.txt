@@ -4555,7 +4555,6 @@ dustlike
 dolichocrany
 desperance
 depths
-dummies
 disusing
 detected
 digitigrade
@@ -15310,6 +15309,7 @@ diagnostics
 design
 distilleries
 dudman
+dummies
 dismit
 demonolatry
 deafforestation
