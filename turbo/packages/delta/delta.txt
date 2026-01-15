@@ -7727,6 +7727,7 @@ dirgie
 discipliners
 deviltry
 dexiocardia
+decident
 dissociation
 diastataxy
 deformative
@@ -13325,7 +13326,6 @@ dustpoint
 dispurvey
 disputability
 dotters
-decident
 diactinal
 dariole
 drumble
