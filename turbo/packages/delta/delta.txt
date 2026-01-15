@@ -15608,7 +15608,6 @@ declasse
 dugong
 dietist
 doormaker
-doormats
 digitorium
 doormen
 demonetised
@@ -16024,6 +16023,7 @@ doublethink
 driveline
 drainboard
 dockers
+doormats
 diacoelosis
 dekagrams
 doublette
