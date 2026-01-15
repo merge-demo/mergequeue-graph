@@ -2649,7 +2649,6 @@ barkless
 battening
 bandusia
 bescorch
-batrachite
 beeth
 barlafumble
 blurred
@@ -7124,6 +7123,7 @@ ballute
 bespreng
 besprent
 betweenity
+batrachite
 batidaceae
 bursate
 bocking
