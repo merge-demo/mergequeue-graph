@@ -7728,7 +7728,6 @@ bathyscaphe
 bravoite
 buxerry
 bhikshu
-biarticulate
 bullan
 breakover
 bhindi
@@ -13908,6 +13907,7 @@ bacteriotropic
 binoculate
 birdlike
 bowstrung
+biarticulate
 blennorrhoea
 behavior
 bowtell
