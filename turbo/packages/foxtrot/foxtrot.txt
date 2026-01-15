@@ -3512,7 +3512,6 @@ frubbish
 femoropopliteal
 fodderless
 fly
-fissipalmation
 flexuoseness
 feud
 fitchets
@@ -4850,6 +4849,7 @@ followable
 flails
 feuilletonism
 furoic
+fissipalmation
 fourteen
 fraughtage
 fady
