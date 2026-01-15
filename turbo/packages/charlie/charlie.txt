@@ -16172,7 +16172,6 @@ concussive
 climbingfish
 collinearly
 chechen
-chaunting
 clime
 counterpenalty
 cavidae
@@ -30167,6 +30166,7 @@ courge
 crucian
 chokidar
 cruciately
+chaunting
 cruciating
 costopulmonary
 concorder
