@@ -1790,6 +1790,7 @@ dropseed
 drawknife
 debarking
 digamist
+demimondaines
 dishpanful
 discede
 dwelled
@@ -11479,7 +11480,6 @@ disconformity
 disseminates
 demiparallel
 deepened
-demimondaines
 dado
 dullhead
 dwarfy
