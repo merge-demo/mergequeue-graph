@@ -4802,7 +4802,6 @@ glacieret
 garookuh
 glacierist
 graphemes
-glaciers
 gymnothorax
 gladhearted
 greeted
@@ -6754,6 +6753,7 @@ gonionia
 genericness
 guib
 gamelang
+glaciers
 ganam
 gestatorial
 gamgee
