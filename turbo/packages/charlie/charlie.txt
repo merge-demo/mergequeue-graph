@@ -8185,7 +8185,6 @@ conjunctivae
 chairwarmer
 chairwomen
 cyanocitta
-chaiseless
 chaises
 comfortabilities
 circumbendibuses
@@ -14708,6 +14707,7 @@ citharist
 coprophiliac
 coesite
 cygnets
+chaiseless
 citharoedi
 chaplets
 cholesteryl
