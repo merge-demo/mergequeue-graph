@@ -163,7 +163,6 @@ expiring
 expressive
 escallop
 enticed
-echinostome
 echidna
 engelmanni
 exacts
@@ -12920,6 +12919,7 @@ enteradenographic
 extraprostatic
 eyrir
 esmayle
+echinostome
 embryologic
 erasmus
 expatiates
