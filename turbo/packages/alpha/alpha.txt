@@ -19415,6 +19415,7 @@ argentan
 axisymmetry
 aerobacter
 autochrome
+angulation
 anacrisis
 arsacid
 affies
@@ -22691,7 +22692,6 @@ advancer
 atherosclerotic
 acerbic
 absent
-angulation
 aeronomic
 abjuratory
 acumen
