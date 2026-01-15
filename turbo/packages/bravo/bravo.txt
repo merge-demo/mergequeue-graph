@@ -7775,7 +7775,6 @@ balibuntl
 biajaiba
 bidonville
 berain
-bezante
 biacuru
 biallyl
 breach
@@ -13317,6 +13316,7 @@ botella
 botels
 bebrave
 buss
+bezante
 basilosaurus
 barometry
 both
