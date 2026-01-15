@@ -9500,7 +9500,6 @@ apritif
 acadian
 alternater
 alternatingly
-aphrodite
 animals
 acinarious
 attemperate
@@ -15089,6 +15088,7 @@ antidiphtheria
 abrocome
 anapsida
 acidify
+aphrodite
 antidisciplinarian
 allothigenous
 antidisestablishmentarianism
