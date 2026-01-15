@@ -3031,7 +3031,6 @@ guiding
 geomantically
 garnerage
 geoponics
-galvayning
 gaggler
 grammatical
 graspable
@@ -7731,6 +7730,7 @@ gonys
 gandhi
 gloea
 gutturopalatine
+galvayning
 grenelle
 gauloiserie
 guld
