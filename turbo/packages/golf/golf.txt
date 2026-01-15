@@ -2635,6 +2635,7 @@ gonocalyx
 galores
 grayware
 graal
+guardlike
 glims
 gymnosophist
 genethlic
@@ -5526,7 +5527,6 @@ gorsier
 gowning
 gad
 gamecocks
-guardlike
 globigerinae
 grainering
 guarnerius
