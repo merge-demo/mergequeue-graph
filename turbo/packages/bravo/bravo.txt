@@ -2723,7 +2723,6 @@ braconids
 barnstorming
 besmearing
 borages
-brutalisation
 bogomile
 buoyantly
 branching
@@ -11187,6 +11186,7 @@ bloomingly
 boleti
 biometer
 biforin
+brutalisation
 bloomless
 baptisia
 bartering
