@@ -5589,7 +5589,6 @@ contentful
 catalinite
 catalyse
 craterellus
-classified
 copr
 censused
 cofactor
@@ -24250,6 +24249,7 @@ compulsiveness
 circuity
 chorion
 choky
+classified
 carolyn
 convulsibility
 convulsing
