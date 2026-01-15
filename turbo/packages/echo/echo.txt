@@ -3372,7 +3372,6 @@ emphase
 egoist
 embargoes
 endocrinologist
-enc
 eavedropper
 embark
 epichorial
@@ -7832,6 +7831,7 @@ endaortitis
 endonuclease
 erection
 epilimnia
+enc
 epigrams
 entozoan
 epiguanine
