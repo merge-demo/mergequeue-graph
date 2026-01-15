@@ -14450,7 +14450,6 @@ citharoedus
 countercompetition
 charnel
 cuttanee
-celiectasia
 cirrostratus
 cappagh
 conscription
@@ -18127,6 +18126,7 @@ chinbone
 chairless
 cruses
 colpocystocele
+celiectasia
 coequated
 cheliferidea
 chloriodide
