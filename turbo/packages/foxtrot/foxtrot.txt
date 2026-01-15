@@ -992,7 +992,6 @@ foldable
 fervid
 fishing
 flustering
-frivoller
 flyaway
 formyl
 fondlings
@@ -8817,6 +8816,7 @@ featureless
 fostered
 fator
 figeter
+frivoller
 fluidities
 flickers
 fatty
