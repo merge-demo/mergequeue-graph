@@ -2588,7 +2588,6 @@ behowls
 babiroussa
 benzofuryl
 bochism
-bidentate
 broadwives
 biscuit
 barytes
@@ -18084,6 +18083,7 @@ boatsman
 barrancos
 benzhydrol
 butacaine
+bidentate
 bidi
 butadiyne
 beshout
