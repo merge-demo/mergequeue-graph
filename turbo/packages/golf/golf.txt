@@ -3619,7 +3619,6 @@ goglets
 glottalize
 gigantal
 gld
-gasworks
 grouching
 gedder
 gossipy
@@ -5893,6 +5892,7 @@ gynecide
 ging
 glamorizations
 ginkgoales
+gasworks
 gentilish
 gleesomeness
 gassiness
