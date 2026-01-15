@@ -9022,7 +9022,6 @@ bionics
 brachyprosopic
 bionomic
 backswordman
-bursas
 batton
 bionomically
 bionomies
@@ -17077,6 +17076,7 @@ braggadocios
 baluga
 bitterhead
 bullboat
+bursas
 babylonite
 bullcomber
 bucentaur
