@@ -2137,6 +2137,7 @@ detectors
 diabolology
 downtime
 disturbs
+demasts
 diosmosis
 decantist
 decaffeinated
@@ -11748,7 +11749,6 @@ deterger
 disbrain
 determinating
 decaudation
-demasts
 discrepated
 dioptometry
 diskless
