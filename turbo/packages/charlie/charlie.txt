@@ -12715,7 +12715,6 @@ clawsick
 cutie
 chugged
 chuggers
-ceylonese
 chugging
 centilitre
 chuje
@@ -14516,6 +14515,7 @@ cavy
 cyst
 consoler
 continuantly
+ceylonese
 cogitating
 cista
 circumstanced
