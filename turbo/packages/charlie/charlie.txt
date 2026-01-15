@@ -8188,6 +8188,7 @@ chairmender
 chairpersons
 chairway
 cryptogamian
+chitinoid
 conjunctivae
 chairwarmer
 chairwomen
@@ -11076,7 +11077,6 @@ chitimacha
 chitimachan
 checksums
 coappears
-chitinoid
 chitinous
 chitins
 chitlin
