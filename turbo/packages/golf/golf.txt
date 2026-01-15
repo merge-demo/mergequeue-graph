@@ -2949,6 +2949,7 @@ genecological
 gyniatry
 goldurnedest
 grazable
+guaranty
 gulph
 gosh
 gastroscopic
@@ -6842,7 +6843,6 @@ gaffsman
 grisettish
 graphics
 gorbal
-guaranty
 globosities
 gluconokinase
 gymsia
