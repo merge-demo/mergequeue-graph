@@ -4359,7 +4359,6 @@ embar
 egotize
 eruptively
 electromechanical
-experiential
 encadre
 ender
 emphasised
@@ -5538,6 +5537,7 @@ enfiled
 expediences
 evangel
 extratympanic
+experiential
 empathetically
 enduringness
 estimably
