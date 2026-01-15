@@ -3106,6 +3106,7 @@ freres
 feeblehearted
 foursomes
 fogbank
+foreshow
 fairylike
 fountainheads
 fibrocement
@@ -7947,7 +7948,6 @@ fumatoriums
 fibrinogenous
 fitness
 freestones
-foreshow
 fistulous
 flajolotite
 flagrantly
