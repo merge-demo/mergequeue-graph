@@ -4342,7 +4342,6 @@ encages
 evilsayer
 elatinaceae
 equipments
-enarched
 eurypygidae
 electroamalgamation
 engagers
@@ -12854,6 +12853,7 @@ enlarger
 ecomomist
 ensynopticity
 eburneoid
+enarched
 evacuators
 embarked
 expandable
