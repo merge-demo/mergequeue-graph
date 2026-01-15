@@ -19186,6 +19186,7 @@ collotype
 cardiospasm
 corporally
 collotyped
+conarial
 cousinry
 collotypy
 coontail
@@ -21110,7 +21111,6 @@ cramoisie
 cornfed
 conand
 connivence
-conarial
 conarium
 champacol
 conationalistic
