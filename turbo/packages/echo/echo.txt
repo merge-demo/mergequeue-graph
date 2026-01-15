@@ -1684,7 +1684,6 @@ evener
 exaggerating
 enunciatory
 enamel
-electrolyses
 earpieces
 echolocate
 enterosyphilis
@@ -7856,6 +7855,7 @@ expertizing
 edgingly
 emancipist
 epispinal
+electrolyses
 enchantresses
 elephancy
 extortionateness
