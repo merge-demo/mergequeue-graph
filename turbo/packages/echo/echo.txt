@@ -7240,7 +7240,6 @@ ejicient
 enclitics
 exlex
 elechi
-engird
 excheat
 encharnel
 emigres
@@ -7605,6 +7604,7 @@ enterohelcosis
 epiparodos
 epicortical
 enterostomy
+engird
 esere
 educed
 enterogastritis
