@@ -4046,7 +4046,6 @@ gilttail
 gravelliness
 gibbosity
 gentleman
-gratifications
 gibboseness
 gim
 gambolling
@@ -4334,6 +4333,7 @@ gravitated
 glittersome
 ganancial
 gigerium
+gratifications
 glycogeny
 gashy
 gutlike
