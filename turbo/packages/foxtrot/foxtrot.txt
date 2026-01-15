@@ -3924,7 +3924,6 @@ flemish
 frailejon
 fluoranthene
 foresummon
-fendered
 fullest
 foeniculum
 flitted
@@ -4063,6 +4062,7 @@ fusibly
 flophouses
 formulist
 foetiparous
+fendered
 flateria
 fluffy
 fraid
