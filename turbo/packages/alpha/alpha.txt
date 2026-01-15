@@ -10290,7 +10290,6 @@ anhydrated
 acidific
 ars
 ameliorates
-adenotyphoid
 algins
 adhort
 amomales
@@ -10951,6 +10950,7 @@ amniotes
 antipreparedness
 amniotic
 amidases
+adenotyphoid
 amniotin
 atafter
 amoyan
