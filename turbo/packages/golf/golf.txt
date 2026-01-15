@@ -1156,7 +1156,6 @@ groupment
 gunpowder
 granddam
 gypsologist
-galeidae
 gander
 gravamens
 guava
@@ -8837,6 +8836,7 @@ greegrees
 gooses
 gastral
 grandparenthood
+galeidae
 gardenlike
 globe
 gnostic
