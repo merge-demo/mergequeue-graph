@@ -7370,6 +7370,7 @@ compute
 cleansing
 cephalomere
 cyclostylar
+class
 cephalometric
 clysis
 cephalonasal
@@ -30683,7 +30684,6 @@ cachimailla
 chiveret
 coses
 crawls
-class
 colorer
 cudgel
 communalizing
