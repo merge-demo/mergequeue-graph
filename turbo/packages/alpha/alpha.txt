@@ -12253,7 +12253,6 @@ archradical
 actinodermatitis
 anchoret
 aminish
-anchorets
 altruism
 almach
 anchorite
@@ -21005,6 +21004,7 @@ azodicarboxylic
 ascends
 aerogeologist
 ascension
+anchorets
 accourage
 armorless
 ascensionist
