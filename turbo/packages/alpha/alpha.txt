@@ -1960,6 +1960,7 @@ agogic
 acetyls
 acce
 acetyltropeine
+animize
 acetylurea
 atheromata
 analyse
@@ -13246,7 +13247,6 @@ animistic
 anabatic
 accretionary
 apraxias
-animize
 amaltas
 anilidic
 allude
