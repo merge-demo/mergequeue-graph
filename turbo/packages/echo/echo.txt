@@ -524,7 +524,6 @@ epedaphic
 epithelioceptor
 edgy
 enciphered
-exopterygotous
 enormity
 enclitically
 echinodermatous
@@ -1620,6 +1619,7 @@ equating
 earthpea
 encyclopedism
 eichwaldite
+exopterygotous
 eide
 excommunications
 encephalitogenic
