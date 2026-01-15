@@ -143,7 +143,6 @@ glycolipide
 guerdonable
 geryonid
 guelf
-gadwalls
 gentlewomanly
 gigantology
 gaelic
@@ -8226,6 +8225,7 @@ greater
 gallowsmaker
 grossers
 glam
+gadwalls
 geranin
 grouthead
 glucosan

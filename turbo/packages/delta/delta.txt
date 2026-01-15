@@ -949,6 +949,7 @@ detachers
 directives
 dewed
 dures
+dithyrambus
 dichorisandra
 darb
 dorsoabdominal
@@ -14287,7 +14288,6 @@ devotionate
 depaganize
 demarcature
 dithyrambs
-dithyrambus
 dominicker
 denotationally
 dytiscid
