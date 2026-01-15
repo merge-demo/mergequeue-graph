@@ -3674,6 +3674,7 @@ extratellurian
 eluates
 ecklein
 effluvium
+enterotomy
 epitheliosis
 enantiotropic
 elucidators
@@ -4737,7 +4738,6 @@ elator
 enclosures
 erethic
 eguttulate
-enterotomy
 epiopticon
 excusatory
 endocarpic
