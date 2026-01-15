@@ -385,6 +385,7 @@ galactosis
 grimsire
 gauric
 galactotrophy
+gesticulated
 grf
 goodhumoredness
 gynobasic
@@ -3993,7 +3994,6 @@ guttula
 gildable
 gynecia
 gentrification
-gesticulated
 grotzen
 gymnorhinal
 gouter
