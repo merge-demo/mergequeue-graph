@@ -7332,6 +7332,7 @@ biangular
 boatels
 babirussa
 bignoniaceous
+bewitches
 bethink
 boatswain
 bootstrapping
@@ -7600,7 +7601,6 @@ bewilderment
 bewitched
 boughed
 bewitcher
-bewitches
 bioaccumulation
 barbion
 bryological
