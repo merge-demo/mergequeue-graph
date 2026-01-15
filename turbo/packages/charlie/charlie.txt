@@ -2621,6 +2621,7 @@ chittak
 craftswoman
 carbylamine
 caneology
+cocircular
 canephora
 canephorae
 canephore
@@ -17667,7 +17668,6 @@ cyrtolite
 cocin
 colluders
 cocinera
-cocircular
 cultrirostres
 catodont
 cocitizenship
