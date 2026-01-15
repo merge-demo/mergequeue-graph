@@ -19697,7 +19697,6 @@ alfarga
 aristate
 ascesis
 aristeas
-alertness
 aristeia
 acetanilide
 aristocracy
@@ -20563,6 +20562,7 @@ ancon
 assuasive
 arterialising
 abbotcy
+alertness
 antra
 arna
 absenteeship
