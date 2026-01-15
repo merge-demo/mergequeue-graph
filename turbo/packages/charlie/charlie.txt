@@ -22930,6 +22930,7 @@ consign
 consignatary
 carcinogenic
 consignataries
+copyreader
 counterretreat
 comforting
 clarifiable
@@ -24610,7 +24611,6 @@ chanteyman
 copious
 copiousness
 cloners
-copyreader
 copyreaders
 caudalward
 copyreading
