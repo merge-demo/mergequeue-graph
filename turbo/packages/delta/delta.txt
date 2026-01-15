@@ -4192,6 +4192,7 @@ downthrust
 disentranced
 dinornithine
 disillude
+dunkle
 drilled
 diddest
 delphinic
@@ -11577,7 +11578,6 @@ datasets
 dispeopling
 demophobe
 digester
-dunkle
 dysoxidizable
 divulgator
 disposable
