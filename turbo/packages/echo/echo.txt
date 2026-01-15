@@ -336,6 +336,7 @@ extramolecular
 empresse
 embleming
 epirogenic
+emissive
 eagerer
 expatiater
 exoduses
@@ -3120,7 +3121,6 @@ externalizing
 eloigned
 eleometer
 euphonetic
-emissive
 endoscopy
 earthsmoke
 eloigning
