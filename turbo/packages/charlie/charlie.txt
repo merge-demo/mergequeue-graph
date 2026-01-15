@@ -129,7 +129,6 @@ cabinlike
 crafter
 cabio
 chemisorptive
-costotransverse
 cabiria
 cabirian
 circumcised
@@ -31692,6 +31691,7 @@ ciruses
 cushionlike
 cushions
 cushitic
+costotransverse
 cusie
 cusinero
 consent
