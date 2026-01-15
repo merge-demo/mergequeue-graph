@@ -7548,6 +7548,7 @@ apertion
 alcaics
 acrosarca
 ankylorrhinia
+autonomic
 alcaydes
 amoskeag
 abote
@@ -12447,7 +12448,6 @@ actuary
 andromed
 assapanick
 andromeda
-autonomic
 andromedotoxin
 amargoso
 andromonoecism

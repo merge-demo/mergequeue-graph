@@ -3011,6 +3011,7 @@ gaps
 goatherdess
 guildsmen
 geomancy
+gildhalls
 garnered
 glosser
 gushingness
@@ -3337,7 +3338,6 @@ goatsfoot
 gaetulian
 gomorrean
 gaging
-gildhalls
 gonydial
 glanditerous
 gahnite
