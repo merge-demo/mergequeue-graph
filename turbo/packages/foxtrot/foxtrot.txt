@@ -3119,6 +3119,7 @@ flamefishes
 finnick
 faring
 fulminancy
+freshwater
 fibroferrite
 fundic
 firewarden
@@ -6689,7 +6690,6 @@ fasciculated
 formicariae
 foofaraws
 furrier
-freshwater
 flaughtbred
 frequent
 forecontrive
