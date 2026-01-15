@@ -1200,7 +1200,6 @@ gothic
 glabrescent
 grinned
 gezerah
-guejarite
 gutturalize
 galipine
 gorilla
@@ -2920,6 +2919,7 @@ gingerous
 gee
 gelose
 gaylussite
+guejarite
 gobiiformes
 gwiniad
 glitter
