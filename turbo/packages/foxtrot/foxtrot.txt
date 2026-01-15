@@ -3050,7 +3050,6 @@ foursquare
 fishier
 fibreless
 flatcar
-foregone
 ferrimagnetism
 fractionalization
 fibril
@@ -10991,6 +10990,7 @@ foreproffer
 foreweep
 feastly
 furison
+foregone
 furfurol
 feign
 fumbles
