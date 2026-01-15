@@ -8015,7 +8015,6 @@ alexia
 arenicole
 archeologist
 archanthropine
-alexine
 allower
 acroliths
 alcargen
@@ -20978,6 +20977,7 @@ adjustores
 arter
 arseno
 ascaridiasis
+alexine
 archeologian
 affects
 ascarids
