@@ -9891,7 +9891,6 @@ dacelo
 descents
 descendingly
 dentins
-diplodocuses
 ductilely
 dermatoptic
 drear
@@ -10972,6 +10971,7 @@ discongruity
 durindana
 dutifulness
 disagreeing
+diplodocuses
 disagreements
 dissevered
 deodorised
