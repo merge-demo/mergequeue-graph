@@ -17215,7 +17215,6 @@ cariosity
 coaler
 coalers
 crucifer
-coalescence
 cellarless
 coitions
 coalescency
@@ -27919,6 +27918,7 @@ consolidates
 cracket
 crackpotism
 cisterns
+coalescence
 crackhemp
 commendable
 cambiums
