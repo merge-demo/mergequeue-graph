@@ -2522,7 +2522,6 @@ aculei
 acolythate
 ardella
 autoserum
-austrasian
 acolhuan
 absciss
 amidate
@@ -22554,6 +22553,7 @@ allegheny
 amphitoky
 ansarian
 atavistically
+austrasian
 ataxiagraph
 ataxies
 ataxinomic
