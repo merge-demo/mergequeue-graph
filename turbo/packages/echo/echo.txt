@@ -9609,7 +9609,6 @@ endoblast
 encense
 entangleable
 equipper
-entia
 epenthesize
 epacris
 elaeagnus
@@ -12433,6 +12432,7 @@ eisegeses
 entomostracan
 exhortingly
 exhorts
+entia
 exaltations
 exhumate
 egoisms
