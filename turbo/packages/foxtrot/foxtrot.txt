@@ -4336,7 +4336,6 @@ fetography
 fatigueless
 frustrates
 frankable
-fandango
 fourflusher
 fellows
 forgetter
@@ -10896,6 +10895,7 @@ fulleries
 fleets
 frowsty
 flivver
+fandango
 fletched
 fullmouthed
 firesafeness
