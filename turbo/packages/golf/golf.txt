@@ -5990,7 +5990,6 @@ greige
 gainstrive
 garmenture
 gingles
-gaols
 garoter
 gillot
 gonifs
@@ -6407,6 +6406,7 @@ gonged
 gongorist
 geostationary
 grieshoch
+gaols
 glycogenetic
 girlchild
 goitral
