@@ -16700,7 +16700,6 @@ centroplasm
 clothespresses
 cire
 clothiers
-clothings
 catharpin
 crimpling
 clots
@@ -20920,6 +20919,7 @@ cherkess
 comprehensibly
 comprehensive
 comprehensively
+clothings
 comprehensiveness
 campership
 coleoptile
