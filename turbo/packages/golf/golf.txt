@@ -2957,7 +2957,6 @@ gooseflower
 gunks
 guardingly
 gusts
-gaddang
 guilt
 gurkha
 gollop
@@ -10786,6 +10785,7 @@ galeage
 gorki
 gazelles
 gawky
+gaddang
 gesellschaften
 gutterspout
 ghostlily
