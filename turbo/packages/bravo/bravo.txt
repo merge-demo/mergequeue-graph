@@ -2832,7 +2832,6 @@ buffaloback
 bedarken
 bruta
 beisa
-biquadrate
 baroswitch
 bld
 bitis
@@ -12456,6 +12455,7 @@ boukit
 bescrawl
 booklists
 bisymmetrically
+biquadrate
 bicameralism
 budlike
 boohoo
