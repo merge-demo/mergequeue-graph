@@ -2668,6 +2668,7 @@ ferter
 feod
 felliducous
 fittyways
+flocculous
 flamb
 fertile
 farcers
@@ -9626,7 +9627,6 @@ facsimiles
 fluoborate
 foresides
 fathers
-flocculous
 fourths
 floyt
 fungistatic
