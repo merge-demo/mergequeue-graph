@@ -13781,6 +13781,7 @@ chkfil
 cinematographies
 cinematographist
 chords
+coloslossuses
 contortive
 carpophore
 cysticercoid
@@ -20023,7 +20024,6 @@ cynophilic
 commencer
 commencing
 commenda
-coloslossuses
 crim
 cheweler
 cinemelodrama
