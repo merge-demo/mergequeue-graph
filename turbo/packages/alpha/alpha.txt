@@ -11473,7 +11473,6 @@ alushtite
 amtman
 amtracks
 antiblackism
-alephs
 ateeter
 adonic
 amygdalae
@@ -17124,6 +17123,7 @@ apodictive
 aluminite
 apodyteria
 adverb
+alephs
 apodyterium
 apods
 azotizing
