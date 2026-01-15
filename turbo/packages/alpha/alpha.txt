@@ -585,6 +585,7 @@ amphictyon
 amanitins
 aesthophysiology
 acriflavine
+ansae
 arytenoidal
 ampleness
 abnormalcies
@@ -3881,7 +3882,6 @@ alcornoco
 adital
 aporrhoea
 aquacades
-ansae
 arthrosyrinx
 arbovirus
 analcite
