@@ -8626,7 +8626,6 @@ diarticular
 dias
 depertible
 dermatographia
-downstream
 denitrifying
 discourtesy
 diffused
@@ -11405,6 +11404,7 @@ disclosive
 disclosure
 diplomaed
 duplicitous
+downstream
 didache
 dingus
 disclusion
