@@ -4559,7 +4559,6 @@ carnauba
 carnaubas
 carneau
 carnegie
-carnegiea
 carneyed
 cabiritic
 convulsed
@@ -13905,6 +13904,7 @@ cyathos
 cleek
 cynography
 cirripeds
+carnegiea
 cynoid
 contributiveness
 casusistry
