@@ -5549,6 +5549,7 @@ bejewelling
 backstamp
 bejezebel
 bessera
+butcherdom
 bontebucks
 bagnette
 barrette
@@ -10668,7 +10669,6 @@ begarnish
 blearing
 blearness
 bleated
-butcherdom
 bleaty
 bleating
 bibliognostic
