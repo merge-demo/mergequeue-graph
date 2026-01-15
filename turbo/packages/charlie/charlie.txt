@@ -13238,6 +13238,7 @@ comstock
 casa
 cyclograph
 cerises
+cumay
 coadapt
 cyclohexadienyl
 cashoos
@@ -30961,7 +30962,6 @@ culvers
 culverwort
 cum
 cants
-cumay
 currack
 caprigenous
 cumal
