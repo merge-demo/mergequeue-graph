@@ -6547,7 +6547,6 @@ duet
 dermol
 danburite
 desdemona
-disinvest
 desecrated
 dilemmatical
 dipole
@@ -17719,6 +17718,7 @@ disused
 demipauldron
 discriminable
 durables
+disinvest
 dedifferentiation
 decanonization
 dubbins
