@@ -6710,7 +6710,6 @@ enveloping
 esterifies
 euhemerise
 echidnae
-eyelids
 erythraemia
 enthronizing
 evacuation
@@ -7536,6 +7535,7 @@ epichondrosis
 epichordal
 etiologically
 erosely
+eyelids
 enmarbling
 enterocoelous
 ensnarled
