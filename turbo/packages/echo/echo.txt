@@ -9976,6 +9976,7 @@ esmeraldite
 enterprises
 externality
 epichile
+emptores
 editor
 enteropexy
 efford
@@ -10194,7 +10195,6 @@ ethician
 emydian
 ethicians
 erroneous
-emptores
 ethicoaesthetic
 ethicopolitical
 emoter
