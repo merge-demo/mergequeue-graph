@@ -2652,7 +2652,6 @@ basilinna
 bescour
 befriend
 backstretches
-bogyisms
 barbitals
 blousons
 bodicemaker
@@ -8776,6 +8775,7 @@ bindweed
 backlogging
 bacillophobia
 bynedestin
+bogyisms
 bassirilievi
 backrests
 binervate
