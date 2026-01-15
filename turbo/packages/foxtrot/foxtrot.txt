@@ -7375,6 +7375,7 @@ farfels
 fewnes
 flatworms
 floatplane
+foreprise
 frost
 fattened
 fierding
@@ -8779,7 +8780,6 @@ foxie
 fixedly
 firebombing
 forgers
-foreprise
 filletster
 firry
 flashtube
