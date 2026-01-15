@@ -5174,7 +5174,6 @@ benignly
 blasphemously
 balanoblennorrhea
 befriending
-barns
 bondfolk
 barragan
 bicentricity
@@ -16022,6 +16021,7 @@ bronchoscopist
 backbear
 bronchospasm
 buttle
+barns
 bellbottle
 birdstone
 bronchotomy
