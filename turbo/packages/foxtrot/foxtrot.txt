@@ -1323,7 +1323,6 @@ flout
 functionality
 fallowness
 frictionally
-fabulize
 fineleaf
 fyttes
 famose
@@ -4248,6 +4247,7 @@ flossing
 fission
 fundamentalism
 forenoted
+fabulize
 flowerpecker
 foreyard
 fatless
