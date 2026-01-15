@@ -2378,6 +2378,7 @@ gabon
 guardants
 glump
 gerrhosaurid
+glossorrhaphy
 gonopodpodia
 greeshoch
 glug
@@ -7074,7 +7075,6 @@ ginnery
 gentiledom
 gercrow
 grottos
-glossorrhaphy
 galletas
 grassmen
 gregorianist
