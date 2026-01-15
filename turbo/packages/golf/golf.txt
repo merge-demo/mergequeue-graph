@@ -4999,7 +4999,6 @@ goofed
 ganders
 gallingness
 grovels
-glider
 gonocheme
 granulose
 genesiology
@@ -5118,6 +5117,7 @@ glali
 gnatflower
 gaumed
 grumbly
+glider
 gallweed
 glomera
 goblinesque
