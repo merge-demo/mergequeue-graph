@@ -2954,6 +2954,7 @@ dolt
 deducibility
 drawstop
 deducted
+dastardliness
 devolatilized
 disseisoress
 doxycycline
@@ -6343,7 +6344,6 @@ duodenum
 dermosclerite
 deco
 dermotropic
-dastardliness
 derms
 diacatholicon
 defined
