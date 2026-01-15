@@ -1214,7 +1214,6 @@ fash
 friborgh
 fasherie
 fusilier
-foolishness
 fashing
 fleeted
 factorylike
@@ -11096,6 +11095,7 @@ frostwork
 flatter
 functionalist
 fundamentalist
+foolishness
 fistful
 font
 fiendlier
