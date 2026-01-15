@@ -1243,7 +1243,6 @@ avian
 asexualizing
 acaridean
 angelical
-amazedly
 ambitus
 acarina
 acrasy
@@ -7855,6 +7854,7 @@ arbors
 allez
 adespota
 anatto
+amazedly
 apachism
 alectoromachy
 angiospermae

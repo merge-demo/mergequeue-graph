@@ -8111,6 +8111,7 @@ graustark
 grindelia
 gastrostomize
 gristmill
+glossematics
 grantors
 granular
 girandole
@@ -9969,7 +9970,6 @@ guatibero
 grysbok
 grunswel
 glood
-glossematics
 guaza
 glycerinated
 gendarmerie
