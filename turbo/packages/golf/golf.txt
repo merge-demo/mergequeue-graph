@@ -9170,7 +9170,6 @@ golee
 greenhornism
 gripment
 grimacers
-grypotherium
 gooral
 gridlock
 gliss
@@ -10725,6 +10724,7 @@ gloms
 gairfish
 gassers
 gaddi
+grypotherium
 gustard
 guergal
 gustatorial
