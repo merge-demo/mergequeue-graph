@@ -3364,7 +3364,6 @@ ensealing
 electrotechnics
 embarge
 espier
-enteropneustal
 estimator
 equivocally
 ebullate
@@ -5587,6 +5586,7 @@ enfolders
 epimacus
 emigratory
 enfoldings
+enteropneustal
 enfolds
 eneuch
 emigated
