@@ -16433,6 +16433,7 @@ citrange
 costumist
 chaunt
 constrainer
+cohol
 cloakmaking
 cymbaline
 cloakroom
@@ -18507,7 +18508,6 @@ collieries
 cohobator
 choushes
 ceratocystis
-cohol
 coholders
 confutations
 cohomology
