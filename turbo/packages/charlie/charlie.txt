@@ -12174,7 +12174,6 @@ chrismatize
 cryptobatholithic
 chrismatory
 calamistral
-ctenodipterini
 chrismon
 cyanized
 chrismons
@@ -17232,6 +17231,7 @@ coalify
 caperer
 coalification
 cephalostyle
+ctenodipterini
 clinopinacoidal
 coalifies
 coalifying
