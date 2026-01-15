@@ -2461,6 +2461,7 @@ fairnesses
 frithborgh
 firelocks
 fascinatedly
+farthermost
 firn
 fumbulator
 firstcomer
@@ -8004,7 +8005,6 @@ fundraise
 fitment
 faroese
 footstools
-farthermost
 felsites
 ferroalloy
 faunally
