@@ -8117,7 +8117,6 @@ dupping
 diaphane
 dept
 diabolise
-diabolising
 diabolist
 denitrificator
 detrusive
@@ -8876,6 +8875,7 @@ diccon
 depolariser
 daimio
 dermatitis
+diabolising
 decaisnea
 dice
 diceboard
