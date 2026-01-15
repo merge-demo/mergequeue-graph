@@ -980,6 +980,7 @@ glist
 genomic
 gamostele
 glottogony
+guly
 genetically
 gamp
 graysby
@@ -6065,7 +6066,6 @@ gasifying
 gruffiness
 gemuetlich
 grizelin
-guly
 gonzo
 gallature
 grinding
