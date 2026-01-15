@@ -1405,7 +1405,6 @@ deleted
 dispel
 downdale
 dismain
-dorsiflexor
 digitals
 delis
 drapability
@@ -17578,6 +17577,7 @@ duteousness
 drumming
 drumreads
 demential
+dorsiflexor
 drumroll
 drumrolls
 drums
