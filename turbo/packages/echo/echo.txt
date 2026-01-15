@@ -8115,7 +8115,6 @@ echeveria
 episcopate
 expulsions
 entosphere
-elaidinic
 episcopature
 eczemas
 emarcid
@@ -12183,6 +12182,7 @@ emanated
 elementalism
 emerized
 excelse
+elaidinic
 execratively
 excreter
 enragedness
