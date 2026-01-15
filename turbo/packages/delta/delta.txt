@@ -538,6 +538,7 @@ damageably
 detonatable
 damaged
 detort
+dimness
 damageous
 deaccessions
 dovyalis
@@ -9952,7 +9953,6 @@ dimly
 dimmer
 defensor
 dasyatidae
-dimness
 decisiveness
 dermatographism
 dysacousma
