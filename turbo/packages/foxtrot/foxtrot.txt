@@ -3430,7 +3430,6 @@ forewarmer
 furfurans
 forthward
 frontoethmoid
-fifish
 friedcake
 frazzle
 fantasist
@@ -9278,6 +9277,7 @@ forsado
 fluidise
 faulting
 flappers
+fifish
 forty
 foveae
 figured
