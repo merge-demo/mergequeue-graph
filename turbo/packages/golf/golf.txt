@@ -7798,6 +7798,7 @@ gargoylish
 gisant
 gospeler
 geococcyx
+glomming
 garlandry
 glucase
 gunline
@@ -8083,7 +8084,6 @@ gnathostegite
 guglets
 gymnophobia
 grandpas
-glomming
 groaning
 garigue
 gamiest
