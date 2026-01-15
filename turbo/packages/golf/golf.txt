@@ -6836,7 +6836,6 @@ gobonee
 gnomonic
 gloryingly
 gypsied
-glauconite
 granulomas
 gloucester
 gaffsman
@@ -8381,6 +8380,7 @@ ginner
 gynaecoid
 grillading
 grandisonant
+glauconite
 gadolinite
 gunport
 gallivanting
