@@ -5800,6 +5800,7 @@ glover
 glochines
 genos
 glave
+gaffers
 guanidin
 grasshopperish
 gastrodisk
@@ -9135,7 +9136,6 @@ gratings
 gareh
 galvanometric
 gunnen
-gaffers
 grammaticalness
 gazeful
 grusinian
