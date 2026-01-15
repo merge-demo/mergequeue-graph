@@ -10183,7 +10183,6 @@ distractile
 dinka
 decatizing
 delitescency
-despise
 deemed
 dinkier
 dismalities
@@ -11788,6 +11787,7 @@ discriminativeness
 discriminator
 dirigibility
 diegueno
+despise
 disembrangle
 deferrals
 discriminoid
