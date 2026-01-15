@@ -7587,7 +7587,6 @@ deva
 dequeuing
 dactylonomy
 devadasi
-deval
 devaloka
 drenched
 declinable
@@ -13947,6 +13946,7 @@ dourade
 dogwatch
 diaetetae
 det
+deval
 dystocial
 diminuted
 doolee
