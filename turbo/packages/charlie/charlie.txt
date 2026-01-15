@@ -1099,7 +1099,6 @@ calciform
 centesimos
 calcifugal
 calcifugous
-chamaesiphonaceous
 calcimined
 crudeness
 calcimining
@@ -13910,6 +13909,7 @@ cynoid
 contributiveness
 casusistry
 calliopes
+chamaesiphonaceous
 calombigas
 criminalities
 cynomys
