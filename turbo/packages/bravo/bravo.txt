@@ -8057,6 +8057,7 @@ brutal
 bicorned
 booby
 bicornous
+bitterroot
 booklift
 bartend
 bagroom
@@ -15788,7 +15789,6 @@ becaps
 bove
 bedecks
 beauing
-bitterroot
 billethead
 backstrokes
 backhandedly
