@@ -7751,6 +7751,7 @@ eosine
 extractiform
 encephalogram
 equispatial
+entomophthoraceae
 exotisms
 easternmost
 embolite
@@ -8163,7 +8164,6 @@ excorticate
 electrolysis
 extracollegiate
 exulting
-entomophthoraceae
 eons
 epitendineum
 eloin
