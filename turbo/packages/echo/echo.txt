@@ -7133,7 +7133,6 @@ enwing
 ecclesiasticus
 enamines
 eyedness
-elytroptosis
 eucharistize
 ecthymatous
 enwomb
@@ -12350,6 +12349,7 @@ epicleidium
 emerod
 expoliate
 extradictionary
+elytroptosis
 eurasian
 exfoliative
 ebbman
