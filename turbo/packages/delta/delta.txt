@@ -1961,6 +1961,7 @@ deburr
 divulgatory
 debus
 decanally
+decentres
 defying
 debused
 doohickey
@@ -8857,7 +8858,6 @@ dicacity
 deodorising
 dicaeidae
 dwarfed
-decentres
 dinergate
 direr
 dacoits
