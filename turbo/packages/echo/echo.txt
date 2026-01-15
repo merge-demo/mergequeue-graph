@@ -1598,6 +1598,7 @@ exequial
 extraphysiological
 expounded
 egret
+euphony
 exsanguine
 egromancy
 emptiness
@@ -4506,7 +4507,6 @@ encephalotome
 edomite
 ethics
 epionynychia
-euphony
 epagoge
 echinodermal
 emberizidae
