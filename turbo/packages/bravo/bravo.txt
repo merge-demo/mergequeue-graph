@@ -3187,7 +3187,6 @@ bataleur
 bashmuric
 biperforate
 branchiomerism
-barbecue
 busine
 berserk
 birdieing
@@ -3637,6 +3636,7 @@ boloneys
 birlinn
 batiks
 became
+barbecue
 bolting
 batistes
 beastly
