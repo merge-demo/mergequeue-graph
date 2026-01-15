@@ -4412,6 +4412,7 @@ bathyseism
 beclaw
 besieged
 balm
+behavior
 bayeta
 brandering
 blowbys
@@ -13906,7 +13907,6 @@ birdlike
 bowstrung
 biarticulate
 blennorrhoea
-behavior
 bowtell
 barographic
 backpointer

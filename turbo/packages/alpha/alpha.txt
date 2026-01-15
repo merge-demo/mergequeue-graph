@@ -1379,7 +1379,6 @@ absorbent
 athalline
 achylia
 abevacuation
-acropetally
 antiprotozoal
 azygospore
 armonica
@@ -25097,6 +25096,7 @@ advanceable
 antiastronomical
 atwirl
 accusativeness
+acropetally
 autochronograph
 afflictively
 anthyllis
