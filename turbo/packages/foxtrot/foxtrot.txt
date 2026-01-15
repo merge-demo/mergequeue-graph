@@ -1461,7 +1461,6 @@ faubourgs
 focussing
 fistulose
 forestial
-featly
 faulds
 faultfind
 fasciculite
@@ -9184,6 +9183,7 @@ fie
 forgivers
 fascinatress
 freeborn
+featly
 fragmentariness
 fragmentist
 foundries
