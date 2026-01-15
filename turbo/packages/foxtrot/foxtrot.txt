@@ -4241,7 +4241,6 @@ frangipanni
 floridians
 fusarium
 flaxbird
-fax
 foreignize
 feverish
 fungose
@@ -7087,6 +7086,7 @@ fungicide
 foolproof
 foolproofness
 ferret
+fax
 fibulare
 frocking
 filipinization
