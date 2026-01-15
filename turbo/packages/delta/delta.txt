@@ -8578,7 +8578,6 @@ devourer
 diapirs
 diaplases
 disk
-deprived
 dinosaurian
 destroying
 doormaking
@@ -9886,6 +9885,7 @@ descendingly
 dentins
 ductilely
 dermatoptic
+deprived
 drear
 direly
 dimetry
