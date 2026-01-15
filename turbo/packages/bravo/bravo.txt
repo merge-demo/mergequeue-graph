@@ -13590,6 +13590,7 @@ besand
 bowstrings
 boult
 breakermen
+biaxially
 boultel
 bepester
 bedeguar
@@ -15720,7 +15721,6 @@ betorcin
 bolder
 blithesomeness
 brocardic
-biaxially
 bardee
 brocatelle
 beowulf
