@@ -3448,7 +3448,6 @@ bastinado
 bluebonnet
 bastings
 blepharopyorrhea
-badgerly
 bastions
 boughpot
 bef
@@ -7938,6 +7937,7 @@ bushido
 buibui
 biblus
 boanbura
+badgerly
 balistraria
 beryllium
 borborygmi
