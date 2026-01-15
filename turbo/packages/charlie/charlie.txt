@@ -5565,7 +5565,6 @@ conserved
 chantment
 counterbranch
 catadrome
-chlorophaeite
 catadupe
 catafalco
 civilisation
@@ -14099,6 +14098,7 @@ continues
 cementless
 conjugated
 circuiting
+chlorophaeite
 circuition
 circuitman
 chimerically
