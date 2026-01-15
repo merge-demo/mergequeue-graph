@@ -4545,7 +4545,6 @@ carolingian
 confederative
 catapults
 carbine
-cephalogenesis
 carnallite
 chartaceous
 colluvies
@@ -27032,6 +27031,7 @@ calgon
 coarctate
 caribi
 cartoning
+cephalogenesis
 counterpreach
 counterprick
 cark
