@@ -8820,7 +8820,6 @@ featureless
 fostered
 fator
 figeter
-frivoller
 fluidities
 flickers
 fatty
@@ -10808,6 +10807,7 @@ fleeten
 fucinita
 freesilverite
 featliness
+frivoller
 forclose
 ferntickled
 fluxure
