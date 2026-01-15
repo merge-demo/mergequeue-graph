@@ -12892,7 +12892,6 @@ dysmnesia
 dysmorphophobia
 disquisiting
 dhikrs
-det
 deceptible
 discepting
 dissatisfies
@@ -13948,6 +13947,7 @@ dystocia
 dourade
 dogwatch
 diaetetae
+det
 dystocial
 diminuted
 doolee
