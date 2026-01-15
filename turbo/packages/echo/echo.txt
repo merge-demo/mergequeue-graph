@@ -2985,7 +2985,6 @@ elinguate
 enfield
 eleatic
 eleoblast
-expositing
 evaluate
 extine
 efflorescence
@@ -12037,6 +12036,7 @@ extrication
 excoriated
 electroanalysis
 excoriating
+expositing
 egestions
 enlivenment
 enwwove
