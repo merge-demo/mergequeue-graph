@@ -961,7 +961,6 @@ federalising
 frailness
 forceable
 fibrinogenetic
-fent
 fabrile
 fruitling
 farceuses
@@ -1759,6 +1758,7 @@ forejudgment
 feldspathoidal
 forehent
 fashioning
+fent
 fusels
 fusobacterium
 fireworms
