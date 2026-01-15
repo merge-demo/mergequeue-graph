@@ -2556,6 +2556,7 @@ discus
 dorsocephalic
 distiller
 declensionally
+dentalizing
 declensions
 decretist
 declimatize
@@ -4759,7 +4760,6 @@ deair
 disseizor
 diagonalize
 diemaker
-dentalizing
 demography
 denigrations
 dichotomically
