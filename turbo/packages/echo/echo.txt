@@ -6293,7 +6293,6 @@ embrocation
 ejusd
 enjambement
 enrolls
-eumycetes
 equijacent
 embowed
 enrut
@@ -11936,6 +11935,7 @@ ensampler
 ecoid
 extracostal
 endotheliolysin
+eumycetes
 epicedial
 esmeraldan
 epanagoge
