@@ -7853,7 +7853,6 @@ dalcassian
 divergencies
 dermestes
 diplogenic
-diffluent
 dogbodies
 dew
 degentilize
@@ -11560,6 +11559,7 @@ diphtheroidal
 diphead
 disconnecting
 disconnection
+diffluent
 diplococcic
 disconnector
 demicannon
