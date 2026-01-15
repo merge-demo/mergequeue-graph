@@ -3274,7 +3274,6 @@ babydom
 birder
 binormal
 bitumens
-bolted
 basinal
 bushland
 broader
@@ -13064,6 +13063,7 @@ boreiad
 bugseeds
 boodleism
 borel
+bolted
 borers
 barajillo
 bangling
