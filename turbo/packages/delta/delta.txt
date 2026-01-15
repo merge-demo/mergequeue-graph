@@ -7555,7 +7555,6 @@ druidesses
 discs
 deuterotype
 deuterozooid
-dental
 didynamies
 discreetness
 dilute
@@ -13749,6 +13748,7 @@ derm
 dissolutional
 dissolutionism
 dissolvableness
+dental
 dissolvative
 dissolve
 daffadillies
