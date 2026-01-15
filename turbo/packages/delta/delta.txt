@@ -606,6 +606,7 @@ disbeliever
 drek
 dedolomitized
 ditheistical
+deskill
 damming
 divvies
 delated
@@ -17445,7 +17446,6 @@ dishmop
 droughts
 dominium
 drouket
-deskill
 dermatographic
 declare
 dendrochronologically
