@@ -2951,7 +2951,6 @@ fingerparted
 festivous
 finches
 floodlike
-feverous
 fallostomy
 fz
 flagship
@@ -8913,6 +8912,7 @@ fanmaking
 fourre
 friedelite
 fraternizing
+feverous
 feverishly
 frigiddaria
 folktales
