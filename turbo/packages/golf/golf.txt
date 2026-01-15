@@ -3260,7 +3260,6 @@ gaut
 gossypol
 gyral
 gaelicist
-gulo
 galvanical
 gustatory
 giddiest
@@ -4123,6 +4122,7 @@ grahamism
 gigback
 glottal
 ginkgoaceous
+gulo
 gasan
 goetic
 gannetry
