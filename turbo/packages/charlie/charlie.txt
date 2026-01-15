@@ -4931,7 +4931,6 @@ carsickness
 caviteno
 ceilinged
 carrottop
-carstone
 cart
 counterpoising
 cartable
@@ -22815,6 +22814,7 @@ corso
 claimsman
 cambers
 cassette
+carstone
 cuirassing
 consented
 consenter
