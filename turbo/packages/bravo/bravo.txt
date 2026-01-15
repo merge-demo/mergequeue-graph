@@ -1969,6 +1969,7 @@ beworms
 bandwidth
 bandworm
 blunderers
+burnishment
 boogiewoogie
 baylet
 baneberry
@@ -8932,7 +8933,6 @@ barricados
 boogaloo
 boskiness
 bozzetto
-burnishment
 barberess
 balked
 biogases
