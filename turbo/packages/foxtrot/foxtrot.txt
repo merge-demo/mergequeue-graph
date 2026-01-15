@@ -9855,6 +9855,7 @@ fosh
 foggy
 fibroneuroma
 felinophobe
+formalise
 frickle
 ferrel
 frontager
@@ -10057,7 +10058,6 @@ frondiform
 feudatary
 firster
 foredecree
-formalise
 fearfulness
 finfishes
 flightshot
