@@ -2343,6 +2343,7 @@ guaiacols
 goloe
 gibbartas
 galopin
+gingivoglossitis
 geldings
 garlandage
 gelated
@@ -9407,7 +9408,6 @@ galloptious
 glycocholate
 gunneraceae
 gamble
-gingivoglossitis
 gramps
 gingerliness
 glycollide
