@@ -11869,6 +11869,7 @@ abas
 appulsion
 analoga
 analogic
+automatin
 anteposition
 ascertained
 anaximandrian
@@ -24238,7 +24239,6 @@ automaticity
 aperu
 antidogmatically
 allowing
-automatin
 antepatriarchal
 antronasal
 automatizes
