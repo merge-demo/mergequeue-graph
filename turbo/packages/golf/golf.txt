@@ -1868,6 +1868,7 @@ gill
 gawkihood
 graphemics
 grecizing
+glycoluril
 gossip
 gyrostabilized
 gleir
@@ -5699,7 +5700,6 @@ gpad
 ganglioneuron
 gestning
 gelts
-glycoluril
 guardeen
 guttule
 ghillies
