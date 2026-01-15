@@ -7530,7 +7530,6 @@ bedote
 breezeless
 banes
 boehmite
-bevilled
 bromometrically
 baronga
 branchiopallial
@@ -14918,6 +14917,7 @@ bura
 bearing
 balantidium
 breastheight
+bevilled
 baldie
 bignonia
 begulfing

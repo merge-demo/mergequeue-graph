@@ -1360,6 +1360,7 @@ epilaryngeal
 enneandrous
 eubranchipus
 efflagitate
+ecartes
 epitympanic
 eugubium
 embellishes
@@ -8705,7 +8706,6 @@ eradications
 enjoyed
 elastometry
 enhallow
-ecartes
 electroencephalograph
 equisided
 equisignal
