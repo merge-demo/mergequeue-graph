@@ -8187,6 +8187,7 @@ disbind
 deywoman
 dermalith
 diaconal
+dogey
 disenorm
 dauby
 diaconica
@@ -18437,7 +18438,6 @@ dukkha
 duplexers
 duplication
 dogsbody
-dogey
 duplicators
 duncehood
 daidle
