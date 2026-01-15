@@ -11299,6 +11299,7 @@ diffidentness
 dystocias
 dunite
 discerned
+dactylopius
 dizzier
 dyspeptical
 discumb
@@ -16594,7 +16595,6 @@ dragonade
 denotative
 donjon
 dikdiks
-dactylopius
 derout
 denotations
 dialuric
