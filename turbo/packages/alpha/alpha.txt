@@ -607,7 +607,6 @@ antarctic
 aphasic
 alexic
 antelopine
-autoeducative
 arboriform
 abodes
 aboideau
@@ -14487,6 +14486,7 @@ antimetabolite
 abiotrophy
 arsenical
 anthratriol
+autoeducative
 asymmetry
 anthraxylon
 anthrenus
