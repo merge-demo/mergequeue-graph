@@ -1237,7 +1237,6 @@ furbishment
 flagellosis
 fortuning
 foredeem
-frizzily
 filipendula
 forespeed
 fluorography
@@ -10470,6 +10469,7 @@ frictionable
 feuillet
 fantasticality
 frostily
+frizzily
 fluorate
 forwearying
 fordid
