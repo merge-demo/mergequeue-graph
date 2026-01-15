@@ -6372,7 +6372,6 @@ derogates
 diglyceride
 dixie
 dillseed
-derogating
 derogative
 derogator
 derogatory
@@ -10206,6 +10205,7 @@ defibrination
 desobligeant
 decoys
 dissolutionist
+derogating
 dinophilea
 discontinuance
 depute
