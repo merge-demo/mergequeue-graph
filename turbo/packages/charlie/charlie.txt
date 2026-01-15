@@ -24107,6 +24107,7 @@ conclavist
 coassignee
 chedites
 conformation
+coregonoid
 conference
 convertiplane
 convertise
@@ -25066,7 +25067,6 @@ cleptobiosis
 counterbalancing
 coregnant
 coregonid
-coregonoid
 chlorinate
 coreidae
 caeciform
