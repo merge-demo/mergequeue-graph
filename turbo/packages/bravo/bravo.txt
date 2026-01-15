@@ -4620,7 +4620,6 @@ bedchair
 bacchic
 butterine
 bedchairs
-buffers
 bellowing
 buntal
 brachelytrous
@@ -9381,6 +9380,7 @@ birdhouse
 breezed
 barramundi
 bullety
+buffers
 blowzily
 birdies
 bonser

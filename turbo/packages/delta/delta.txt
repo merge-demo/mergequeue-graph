@@ -8618,7 +8618,6 @@ drainless
 duckhouse
 dyarchies
 disjunctor
-davis
 dinge
 debugging
 dialyses
@@ -16509,6 +16508,7 @@ dolichocephalism
 dulciana
 diadrom
 deoculate
+davis
 dervishlike
 despatcher
 darii
