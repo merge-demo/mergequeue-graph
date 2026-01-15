@@ -2208,7 +2208,6 @@ engrailing
 enthraldom
 emotionist
 elysee
-electic
 ethnal
 electioneer
 elaphurine
@@ -11056,6 +11055,7 @@ exulceratory
 empower
 ekacaesium
 epistemolog
+electic
 epiglottal
 extravasation
 endosporium
