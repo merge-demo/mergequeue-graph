@@ -3804,7 +3804,6 @@ gratefulness
 greyling
 greenbugs
 greenland
-gavialoid
 gulancha
 gorblimey
 glamorous
@@ -9055,6 +9054,7 @@ gnatcatcher
 girasole
 girlism
 gryllos
+gavialoid
 gaffle
 gimcracky
 glossitis
