@@ -5182,7 +5182,6 @@ ectobatic
 electromagnetic
 eluviums
 exitus
-elusive
 endolysin
 eparchy
 eretrian
@@ -7935,6 +7934,7 @@ epimeres
 electrostenolysis
 epimerism
 enterolithiasis
+elusive
 evangels
 epitomate
 encephalonarcosis
