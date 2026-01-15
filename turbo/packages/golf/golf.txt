@@ -5573,7 +5573,6 @@ gripless
 geochemist
 geophysical
 gefilte
-grandame
 gownlet
 glottogonist
 gervais
@@ -5929,6 +5928,7 @@ glossocoma
 gibbers
 gauzier
 grayhair
+grandame
 gutless
 gestapo
 grayness
