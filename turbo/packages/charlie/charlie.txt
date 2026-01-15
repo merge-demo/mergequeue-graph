@@ -13712,7 +13712,6 @@ crevalles
 cincture
 cytidine
 cinctured
-cinder
 cnemapophysis
 cindering
 cinderman
@@ -28095,6 +28094,7 @@ coastwise
 crane
 craned
 cerveliere
+cinder
 cichoriaceae
 cranelike
 cautionry
