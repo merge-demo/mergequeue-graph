@@ -2532,7 +2532,6 @@ frondescent
 ferrelling
 fluorine
 fiatconfirmatio
-fanam
 feeler
 frugivorous
 fibromembranous
@@ -2836,6 +2835,7 @@ forebush
 foreadmonish
 fieldsmen
 farmhand
+fanam
 fishnet
 flowerets
 feticide
