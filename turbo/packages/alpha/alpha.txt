@@ -6918,6 +6918,7 @@ alanyls
 assailment
 amende
 apostrophic
+angiopoietic
 aglyphous
 aptian
 airview
@@ -12964,7 +12965,6 @@ affirmant
 anguilloid
 aristol
 averil
-angiopoietic
 achievement
 agrope
 afraid
