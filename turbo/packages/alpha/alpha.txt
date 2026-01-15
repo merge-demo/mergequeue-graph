@@ -1868,7 +1868,6 @@ avalent
 acerval
 aggressions
 antiphysic
-acervate
 acervulus
 abiezer
 anadyomene
@@ -8731,6 +8730,7 @@ arachnological
 accessed
 anarchial
 autohybridization
+acervate
 aread
 alleviated
 abnormalizing
