@@ -3055,7 +3055,6 @@ adelops
 autochton
 agonia
 actinomycete
-allogeneity
 analcime
 actinomycosistic
 alacrify
@@ -3810,6 +3809,7 @@ ammodytidae
 adiathermancy
 antioxidase
 alcoranist
+allogeneity
 accipitrary
 acaridea
 adiathetic
