@@ -3722,7 +3722,6 @@ eolipile
 episiohematoma
 enwiden
 eulogizing
-eutaxitic
 etuvee
 embryoism
 embryon
@@ -9603,6 +9602,7 @@ emphases
 encloud
 embost
 espartos
+eutaxitic
 enhydritic
 especialness
 esperantido
