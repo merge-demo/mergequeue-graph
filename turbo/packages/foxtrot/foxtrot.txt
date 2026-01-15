@@ -7224,7 +7224,6 @@ feodary
 flaxboard
 forepeak
 fordwine
-footstall
 filature
 fridays
 fleetings
@@ -9522,6 +9521,7 @@ feudalizing
 findfault
 fullers
 forche
+footstall
 foliated
 fyrd
 fishwives
