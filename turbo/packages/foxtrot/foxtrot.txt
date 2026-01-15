@@ -5775,7 +5775,6 @@ forebear
 fossiliferous
 fructicultural
 fumeroot
-fallage
 fastigium
 foreswearing
 filmer
@@ -6282,6 +6281,7 @@ fob
 falerian
 flumes
 fluminous
+fallage
 freak
 floricultural
 fluxibility
