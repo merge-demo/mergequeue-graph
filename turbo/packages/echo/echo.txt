@@ -12491,6 +12491,7 @@ enteropneusta
 erythrophage
 envisages
 epicentral
+excursive
 embosture
 executrixship
 expertize
@@ -13609,7 +13610,6 @@ extraspinal
 extemporized
 escallonia
 emendation
-excursive
 epencephal
 experientially
 esopgi
