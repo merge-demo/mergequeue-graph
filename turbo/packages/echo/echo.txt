@@ -4924,7 +4924,6 @@ endeavouring
 egression
 endeictic
 entropium
-expectable
 enravish
 embryotomy
 endellionite
@@ -9872,6 +9871,7 @@ estimations
 eprosy
 exhaustively
 envelopers
+expectable
 emmensite
 earthnuts
 elaterium
