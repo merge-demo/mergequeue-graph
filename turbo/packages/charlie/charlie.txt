@@ -11326,6 +11326,7 @@ conged
 cubica
 chromicizing
 chloroforms
+coloniser
 chlorogenic
 caducary
 chloroid
@@ -28677,7 +28678,6 @@ canonicalize
 crenel
 chroococcus
 constantine
-coloniser
 candlewicking
 contaminates
 constitutes
