@@ -10460,7 +10460,6 @@ complimentable
 citification
 commorant
 cheapside
-charlottesville
 cosurety
 chilblained
 chilcat
@@ -18794,6 +18793,7 @@ caravaned
 cabochon
 concentrical
 coleophoridae
+charlottesville
 coleopter
 coleoptera
 chalcedonic
