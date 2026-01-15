@@ -3845,7 +3845,6 @@ gell
 galanas
 giftwrapping
 gazeless
-gorgonesque
 goats
 gushing
 gruffed
@@ -4952,6 +4951,7 @@ growled
 guariba
 glandered
 global
+gorgonesque
 genially
 gangliest
 gateage
