@@ -2625,7 +2625,6 @@ acquiescement
 aureation
 acquiescence
 acquiescency
-abacli
 amygdalotomy
 accrescent
 atheist
@@ -14660,6 +14659,7 @@ antialcoholic
 akerite
 antialcoholism
 antialcoholist
+abacli
 antialdoxime
 angiectopia
 anchorless
