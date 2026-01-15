@@ -1702,6 +1702,7 @@ calorimotor
 calorist
 calorizing
 cawing
+cytoblastemic
 calosoma
 calotermes
 calotype
@@ -14784,7 +14785,6 @@ cytoblastema
 cytoblastemal
 caseless
 conjecturableness
-cytoblastemic
 cytoblastemous
 cytochemistry
 chameleons

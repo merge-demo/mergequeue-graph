@@ -7396,7 +7396,6 @@ gunnery
 grangerization
 gadean
 geniohyoglossus
-grateless
 gaiety
 gassit
 grandest
@@ -10138,6 +10137,7 @@ greenier
 grudges
 granophyric
 gideonite
+grateless
 gymslip
 glazement
 gasohol
