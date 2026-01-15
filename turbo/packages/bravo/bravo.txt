@@ -6528,7 +6528,6 @@ bewelcome
 bavarois
 beaming
 blameable
-bilsted
 backplanes
 bagel
 bhagat
@@ -9115,6 +9114,7 @@ blackthorns
 bombax
 biosystematy
 byssine
+bilsted
 bighted
 biosociological
 bistable
