@@ -3446,6 +3446,7 @@ freesp
 filthily
 fortunation
 forebowline
+fartherance
 frag
 franklinist
 forswearer
@@ -8876,7 +8877,6 @@ foumart
 fodgel
 falciparum
 forayer
-fartherance
 filister
 founded
 foutra
