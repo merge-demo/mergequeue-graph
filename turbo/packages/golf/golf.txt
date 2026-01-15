@@ -4465,6 +4465,7 @@ geophytes
 guacimo
 gypsyhead
 gloeocapsoid
+galoshes
 girlie
 grantiidae
 grammontine
@@ -9041,7 +9042,6 @@ germanomania
 givin
 galbraithian
 gilguy
-galoshes
 gateways
 gomasta
 gothlander
