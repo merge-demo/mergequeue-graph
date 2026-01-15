@@ -1693,6 +1693,7 @@ gibson
 gros
 gastroenteritis
 glycerolysis
+glossiest
 galipots
 girting
 gester
@@ -5690,7 +5691,6 @@ gibbously
 glaciometer
 gesundheit
 glossies
-glossiest
 gybed
 glossinas
 gertrude
