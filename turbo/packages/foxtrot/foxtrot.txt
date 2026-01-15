@@ -1120,7 +1120,6 @@ forkedly
 faciocervical
 flatwoods
 foes
-fluster
 forbade
 familiarizing
 fervidness
@@ -2634,6 +2633,7 @@ forecastles
 fervent
 formalizable
 funnel
+fluster
 fireless
 flusters
 foreshoulder
