@@ -1473,7 +1473,6 @@ effuviate
 efl
 efph
 erringly
-entocondylar
 experimentarian
 estantion
 empyesis
@@ -12130,6 +12129,7 @@ excursionist
 excurvated
 emaciate
 extrados
+entocondylar
 emphysematous
 esclavage
 energise
