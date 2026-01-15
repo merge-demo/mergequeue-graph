@@ -9959,7 +9959,6 @@ climactically
 chenfish
 chenille
 cascado
-consumable
 chenopod
 colocasia
 catacombic
@@ -25335,6 +25334,7 @@ coldbloodedness
 corncutter
 corndodger
 cornea
+consumable
 corneal
 corneas
 chiurm
