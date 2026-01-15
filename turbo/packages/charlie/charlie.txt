@@ -852,6 +852,7 @@ carburation
 cainite
 charbroils
 cainitic
+calypsos
 cayos
 caique
 chromogram
@@ -1442,7 +1443,6 @@ calypso
 copals
 calypsoes
 calypsonian
-calypsos
 charbon
 cholic
 counselorship
