@@ -5508,7 +5508,6 @@ amadou
 abscisins
 agronomies
 afterdeal
-aerial
 actuarial
 aerolith
 aristos
@@ -8183,6 +8182,7 @@ almsmoney
 archaean
 albino
 autecological
+aerial
 antipyic
 aisles
 algorithmically
