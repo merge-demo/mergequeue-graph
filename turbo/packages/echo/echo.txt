@@ -6266,6 +6266,7 @@ enduring
 estaminets
 exspoliation
 electroengrave
+erythron
 embolectomies
 enrober
 enrive
@@ -9449,7 +9450,6 @@ eam
 euryale
 eses
 epicism
-erythron
 egests
 exegetes
 eschrufe
