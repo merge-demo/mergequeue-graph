@@ -1561,7 +1561,6 @@ gazetting
 gainbirth
 gunsels
 glaik
-grulla
 glimes
 gainset
 ginny
@@ -1790,6 +1789,7 @@ graecizes
 goutiest
 gonadial
 genealogizer
+grulla
 gastroscopist
 gavelled
 gasterosteid
