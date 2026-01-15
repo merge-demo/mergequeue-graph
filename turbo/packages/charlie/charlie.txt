@@ -16701,6 +16701,7 @@ crimpling
 clots
 clottage
 chaconne
+coatee
 circumpose
 clotted
 cyanus
@@ -17366,7 +17367,6 @@ coatdress
 conveyorizer
 coated
 commensurations
-coatee
 coatees
 clivises
 craythur
