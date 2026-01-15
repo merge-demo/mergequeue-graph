@@ -7759,7 +7759,6 @@ direption
 detailism
 diglyph
 devisor
-decrier
 dowie
 devitalizes
 drawler
@@ -17266,6 +17265,7 @@ debt
 disseizee
 droghlin
 discrepant
+decrier
 diathermance
 discountenancing
 discombobulating
