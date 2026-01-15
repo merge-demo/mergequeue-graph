@@ -365,7 +365,6 @@ finspot
 fungales
 foredenounce
 farandoles
-fibrolipoma
 facsim
 fluids
 flowerily
@@ -2034,6 +2033,7 @@ flitch
 farouche
 fourpounder
 ferngrower
+fibrolipoma
 frontspiece
 feinter
 facedown

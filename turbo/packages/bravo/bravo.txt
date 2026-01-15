@@ -3529,7 +3529,6 @@ biri
 batfowl
 bassists
 bedust
-batfowls
 bestore
 bulbocavernosus
 brookites
@@ -7670,6 +7669,7 @@ bescribbled
 bezils
 boyardom
 babished
+batfowls
 billywix
 baldricwise
 beziques
