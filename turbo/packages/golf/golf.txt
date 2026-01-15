@@ -6070,7 +6070,6 @@ gypsography
 gph
 gnats
 glutaeous
-gorbit
 guttie
 gibbled
 grisset
@@ -8436,6 +8435,7 @@ gunflint
 grad
 gladiolas
 gales
+gorbit
 grocerdom
 gawsie
 gandul
