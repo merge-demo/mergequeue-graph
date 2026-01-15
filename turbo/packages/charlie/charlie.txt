@@ -4002,7 +4002,6 @@ chuumnapm
 cosmosphere
 corniculate
 coassisted
-cajoleries
 crotalinae
 carcharias
 cerotene
@@ -10052,6 +10051,7 @@ caribisi
 chord
 composers
 cherubim
+cajoleries
 cherubimic
 cherubimical
 cherublike
