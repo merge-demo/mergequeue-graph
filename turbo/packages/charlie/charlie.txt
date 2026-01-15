@@ -15399,7 +15399,6 @@ canneries
 claques
 claqueur
 conducement
-clarain
 clare
 corrodible
 clarence
@@ -28160,6 +28159,7 @@ code
 craniorhachischisis
 clamb
 century
+clarain
 countercheck
 cranioschisis
 cranioscopy
