@@ -5195,6 +5195,7 @@ explodes
 endopathic
 endopelvic
 encyclopaedist
+eppes
 endoperidium
 epoptes
 endophagous
@@ -11872,7 +11873,6 @@ emits
 echium
 except
 escheatment
-eppes
 encolure
 entomologise
 epigenetic
