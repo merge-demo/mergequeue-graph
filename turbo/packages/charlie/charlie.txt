@@ -16426,7 +16426,6 @@ crispature
 chervil
 corsned
 conjecturer
-cloaklet
 culbert
 cowichan
 citrange
@@ -28005,6 +28004,7 @@ craig
 careen
 caprid
 crined
+cloaklet
 craniopuncture
 cachexia
 craigmontite
