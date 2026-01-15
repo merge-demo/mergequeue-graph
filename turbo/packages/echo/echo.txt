@@ -5256,7 +5256,6 @@ endorsed
 enchantress
 emendating
 effector
-endorsees
 emeriti
 epicoracoidal
 eustachium
@@ -9755,6 +9754,7 @@ extracellular
 essoinment
 essorant
 echiuroidea
+endorsees
 endarterial
 engrave
 encouragements
