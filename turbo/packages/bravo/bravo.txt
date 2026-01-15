@@ -4642,6 +4642,7 @@ bullrushes
 bedehouses
 bedemen
 bens
+beleapt
 buxus
 bedevilling
 barbershops
@@ -5659,7 +5660,6 @@ bodgie
 beleaguering
 bongar
 badgeless
-beleapt
 belection
 brining
 burling
