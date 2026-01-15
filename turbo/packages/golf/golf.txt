@@ -1772,7 +1772,6 @@ guberla
 gandharva
 gynopara
 geminately
-glycolipin
 gomerils
 germinance
 goodless
@@ -9004,6 +9003,7 @@ griffonage
 gynandry
 girned
 glacis
+glycolipin
 guzzlers
 glory
 grifting
