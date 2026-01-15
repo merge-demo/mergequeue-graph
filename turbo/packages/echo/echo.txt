@@ -1057,6 +1057,7 @@ endothelial
 embeddable
 epistolic
 echinology
+extraposition
 elective
 edification
 exfigure
@@ -14000,7 +14001,6 @@ exaltate
 extralimital
 extrapolatory
 entemple
-extraposition
 electrolytic
 extraprofessional
 extrapunitive
