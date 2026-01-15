@@ -1937,7 +1937,6 @@ graperoot
 garibaldi
 gnomesque
 gear
-gravewards
 guideship
 galactosuria
 goalkeepers
@@ -4344,6 +4343,7 @@ galaxies
 gliriformia
 gravestead
 glossata
+gravewards
 globules
 gharries
 gumbotil
