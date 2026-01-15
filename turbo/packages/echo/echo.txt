@@ -447,7 +447,6 @@ evector
 enumerable
 ecclesiarchy
 ensnarls
-extoll
 ecclesiast
 entrada
 empasm
@@ -5433,6 +5432,7 @@ electrochronographic
 extrinsicality
 eleutherophyllous
 earmark
+extoll
 echoized
 epilobium
 entranced
