@@ -2470,6 +2470,7 @@ acmaeidae
 acmatic
 asparagus
 amphisbaenidae
+anargyroi
 acme
 acquiring
 articulata
@@ -9542,7 +9543,6 @@ ablution
 ajutment
 asterikos
 aspidate
-anargyroi
 ambassiate
 alonzo
 althorn
