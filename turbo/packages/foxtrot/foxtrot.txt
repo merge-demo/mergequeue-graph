@@ -2647,6 +2647,7 @@ fluocerite
 frumpling
 ferrumination
 fluviatic
+father
 fraters
 feedings
 fainaigue
@@ -8448,7 +8449,6 @@ fortin
 frondesce
 factorized
 formatter
-father
 floridans
 flong
 flunkeyite

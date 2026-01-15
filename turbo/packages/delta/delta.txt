@@ -15888,6 +15888,7 @@ disclaiming
 drench
 dossennus
 dressings
+drunk
 decapodiform
 dosser
 dosseret
@@ -17583,7 +17584,6 @@ drums
 decalcifier
 drumstick
 detoxicant
-drunk
 desuperheater
 dogbite
 drunkenwise
