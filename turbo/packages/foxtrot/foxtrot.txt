@@ -12,7 +12,6 @@ funariaceae
 frail
 fabianist
 falconine
-flagellators
 forcing
 fylker
 fablemaker
@@ -11428,6 +11427,7 @@ fettering
 forebemoaned
 founte
 fortunetell
+flagellators
 fallibleness
 formfeed
 frigidarium
