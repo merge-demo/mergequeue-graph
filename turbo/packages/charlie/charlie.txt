@@ -26144,7 +26144,6 @@ cosmogonical
 cosmogonies
 cosmogonists
 cosmography
-chigoe
 cosmographic
 cosmographical
 concomitantly
@@ -31542,6 +31541,7 @@ cuproid
 cursorily
 crystallizability
 cursoriness
+chigoe
 cursorious
 coffeecake
 cursorius
