@@ -1238,6 +1238,7 @@ dilacerated
 doucine
 dibstones
 drivehead
+decasyllables
 disembarkation
 defecating
 disemplane
@@ -12963,7 +12964,6 @@ disacceptance
 dactylitis
 disordering
 downwith
-decasyllables
 distinctio
 disordinance
 disordinate
