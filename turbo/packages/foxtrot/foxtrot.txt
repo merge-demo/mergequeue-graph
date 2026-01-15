@@ -7222,7 +7222,6 @@ filature
 fridays
 fleetings
 forel
-fb
 fecial
 flashback
 famishing
@@ -10747,6 +10746,7 @@ flirter
 fletches
 forgotten
 frustum
+fb
 frutage
 faithlessly
 footraces
