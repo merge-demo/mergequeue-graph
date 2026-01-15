@@ -656,7 +656,6 @@ fictionalization
 finickingly
 firebreak
 forwarding
-fimetic
 farrand
 featherbedding
 farnesol
@@ -4049,6 +4048,7 @@ fibered
 frimaire
 foramination
 festoony
+fimetic
 fermentation
 flindersia
 freefd
