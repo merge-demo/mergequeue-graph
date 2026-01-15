@@ -3315,7 +3315,6 @@ furfur
 fidelio
 forebreast
 featheredge
-forchase
 fameworthy
 frist
 fruggan
@@ -11117,6 +11116,7 @@ fearlessness
 fisticuffs
 franca
 fetidly
+forchase
 forecarriage
 forbiddance
 fauteuils
