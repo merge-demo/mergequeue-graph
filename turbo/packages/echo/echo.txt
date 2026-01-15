@@ -2242,7 +2242,6 @@ embryony
 embraceable
 encoach
 extremely
-evenhand
 ethnarchies
 endothys
 electricize
@@ -8528,6 +8527,7 @@ eudaemons
 ecclesiasticize
 essentializing
 echinated
+evenhand
 embezzling
 eastlin
 etherify
