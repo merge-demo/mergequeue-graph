@@ -891,7 +891,6 @@ garrooka
 goldfields
 glycerinize
 gazi
-gameness
 galvanizes
 gallowsward
 geegaw
@@ -6303,6 +6302,7 @@ goblin
 gettable
 gullible
 gigartinaceous
+gameness
 gunmen
 gargantua
 gauster
