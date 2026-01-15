@@ -1508,7 +1508,6 @@ glengarry
 gasterolichenes
 grainier
 guittonian
-gonopores
 garners
 garotted
 goutish
@@ -8555,6 +8554,7 @@ geranomorph
 geodetical
 gusla
 gilo
+gonopores
 germaneness
 gasolene
 geonoma
