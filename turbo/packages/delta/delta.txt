@@ -7224,7 +7224,6 @@ deverbative
 desolately
 disnatured
 dux
-dyingly
 detente
 dicotyl
 dimetric
@@ -9121,6 +9120,7 @@ doffs
 detriment
 disdiaclasis
 disgracement
+dyingly
 didicoy
 dorymen
 digger
