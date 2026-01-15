@@ -4865,7 +4865,6 @@ carretera
 carreton
 carri
 cetaceous
-carry
 carriageable
 carriageful
 clachans
@@ -27211,6 +27210,7 @@ compositive
 concierges
 chondrogenetic
 countervair
+carry
 coprocessor
 countervallation
 countervalue
