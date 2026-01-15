@@ -4011,7 +4011,6 @@ gerundive
 gushingly
 graybacks
 grossierete
-giliak
 garter
 glochidium
 galabiya
@@ -5965,6 +5964,7 @@ greaten
 guerrillaship
 grossulariaceous
 gluemaker
+giliak
 glutinative
 granuloadipose
 gingelies
