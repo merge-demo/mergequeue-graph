@@ -3460,6 +3460,7 @@ disavowance
 dehydroffrozen
 defoedation
 defogged
+dispurse
 disyllable
 dormered
 drogh
@@ -13319,7 +13320,6 @@ dispropriate
 dysprosia
 disproves
 disprovide
-dispurse
 distillate
 destuffing
 daintier
