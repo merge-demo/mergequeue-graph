@@ -4843,7 +4843,6 @@ gatherer
 growlingly
 gunnysack
 gablatores
-gunnen
 gaff
 gallybagger
 geopolar
@@ -9135,6 +9134,7 @@ goading
 gratings
 gareh
 galvanometric
+gunnen
 gaffers
 grammaticalness
 gazeful
