@@ -5913,7 +5913,6 @@ flowerpots
 flooder
 fowlpoxes
 freakiness
-foggers
 foreshadowing
 falstaffian
 flatwash
@@ -9156,6 +9155,7 @@ fixive
 fanaloka
 fasciotomy
 forwearied
+foggers
 finitudes
 fascinations
 foveoles
