@@ -6510,7 +6510,6 @@ foldskirt
 fortifying
 flexuousness
 fulminant
-floggingly
 forwore
 floodboard
 fierabras
@@ -9584,6 +9583,7 @@ featherbone
 foodlessness
 flytime
 forte
+floggingly
 firemaster
 forlet
 freeholdership
