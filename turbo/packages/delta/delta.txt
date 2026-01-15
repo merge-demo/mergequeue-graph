@@ -4231,6 +4231,7 @@ drepanis
 dogvanes
 delubra
 deluce
+diabolonian
 delude
 dishonored
 dipperful
@@ -13166,7 +13167,6 @@ disguisement
 didoes
 directiveness
 dysphonia
-diabolonian
 dislimned
 dispicion
 dicentrin
