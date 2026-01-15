@@ -4766,7 +4766,6 @@ calonyction
 carphology
 carpid
 cogredient
-conclaves
 carping
 canceration
 carpiodes
@@ -27503,6 +27502,7 @@ cuban
 covariate
 covariates
 covassal
+conclaves
 cove
 coadunate
 courtzilite
