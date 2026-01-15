@@ -8257,6 +8257,7 @@ diagnosing
 duel
 denude
 diagonals
+degelation
 deducting
 diagonalwise
 denudate
@@ -18358,7 +18359,6 @@ doubleton
 duodenate
 duodenation
 depurge
-degelation
 dyestuff
 diallelon
 duodene
