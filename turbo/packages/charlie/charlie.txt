@@ -12041,7 +12041,6 @@ champlev
 choruses
 chorusing
 chanceries
-crisp
 countermachination
 crusca
 caruage
@@ -24339,6 +24338,7 @@ cookout
 craniophore
 conjury
 cookroom
+crisp
 coral
 coercer
 concentrate
