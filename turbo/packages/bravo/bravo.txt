@@ -1939,6 +1939,7 @@ bandor
 baaskaap
 bifidate
 biotechs
+belike
 brevipen
 bandore
 balsa
@@ -5733,7 +5734,6 @@ belight
 baaed
 bulgaria
 bulldozer
-belike
 bribes
 bastonet
 beparody
