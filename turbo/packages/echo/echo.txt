@@ -2928,6 +2928,7 @@ embarrassments
 eyewinks
 elicitation
 elicitor
+estafa
 equivalvular
 enricher
 exploiters
@@ -5982,7 +5983,6 @@ euonym
 endotheliulia
 enjoiners
 extravillar
-estafa
 exigence
 electrodesiccate
 electricalness
