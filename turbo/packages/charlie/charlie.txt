@@ -8444,7 +8444,6 @@ champagnized
 cesurae
 champak
 chamfering
-characterstring
 crummed
 champaka
 conducts
@@ -18573,6 +18572,7 @@ chrometophobia
 coyishness
 conculcation
 cunner
+characterstring
 coil
 curtis
 conchylia
