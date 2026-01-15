@@ -405,7 +405,6 @@ bahuma
 backlings
 balletic
 bummed
-bixbyite
 blarneying
 burgles
 belook
@@ -14198,6 +14197,7 @@ boomboat
 bantin
 batters
 balladise
+bixbyite
 bleu
 bluebottles
 boutiques
