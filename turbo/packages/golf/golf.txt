@@ -4923,6 +4923,7 @@ guddle
 grondwet
 gynaecol
 gamines
+genethliacon
 gladioluses
 ginney
 girondist
@@ -9888,7 +9889,6 @@ gobioids
 guaque
 geometric
 gracias
-genethliacon
 guarand
 gimlety
 gradiometer
