@@ -3426,7 +3426,6 @@ embellishers
 eutelegenic
 encheason
 enchained
-encolden
 embers
 estival
 essentialization
@@ -9329,6 +9328,7 @@ earmindedness
 escalator
 excommunicable
 ergonomics
+encolden
 eupepsia
 exacted
 escalated
