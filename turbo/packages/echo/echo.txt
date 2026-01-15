@@ -4621,7 +4621,6 @@ extraterritorials
 encyclopedias
 ekoi
 entanglers
-exuberance
 entablement
 energico
 euphoniad
@@ -7787,6 +7786,7 @@ endlessness
 ebulliency
 eccentrate
 enterography
+exuberance
 epiglottitis
 exsiccator
 elegiambic
