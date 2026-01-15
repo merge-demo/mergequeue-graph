@@ -21612,7 +21612,6 @@ crateris
 condense
 condensed
 condensedness
-condensers
 condenses
 cypraeidae
 cooba
@@ -31328,6 +31327,7 @@ clarinos
 cornix
 cureless
 corypha
+condensers
 curelessness
 coadjument
 curers
