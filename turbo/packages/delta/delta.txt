@@ -15662,7 +15662,6 @@ dopey
 decrements
 doper
 disbarring
-dopier
 dogstone
 desi
 docile
@@ -18303,6 +18302,7 @@ dingledangle
 disintegration
 dunner
 delicts
+dopier
 davenports
 desultorily
 draftproof
