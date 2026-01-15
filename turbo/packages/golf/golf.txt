@@ -956,6 +956,7 @@ gammerel
 gammerstang
 garboils
 gastropneumatic
+gokuraku
 gannets
 groundplot
 gammock
@@ -5644,7 +5645,6 @@ glaringly
 groma
 glyoxal
 glooms
-gokuraku
 goodbye
 gratefuller
 glasses

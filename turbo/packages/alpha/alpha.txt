@@ -10670,7 +10670,6 @@ amyloidosis
 anguille
 amusias
 amyloleucite
-afterwrath
 archiepiscopality
 amylolysis
 antitragic
@@ -21082,6 +21081,7 @@ airwaves
 asclepiadic
 autosender
 asclepian
+afterwrath
 asclepidin
 asclepidoid
 asclepin
