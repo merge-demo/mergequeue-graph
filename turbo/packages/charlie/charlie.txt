@@ -617,7 +617,6 @@ cam
 cadwell
 cinerarium
 cacotrophy
-councilwomen
 caecally
 combwright
 coorg
@@ -14745,6 +14744,7 @@ curtsy
 coenamor
 coccinellid
 coalyards
+councilwomen
 cocinero
 choroiditis
 curatel

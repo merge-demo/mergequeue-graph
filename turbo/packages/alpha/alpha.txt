@@ -2067,7 +2067,6 @@ altitudinal
 alined
 acheiria
 aboveboard
-antidromic
 achenes
 amorua
 alphabets
@@ -12582,6 +12581,7 @@ anencephalic
 angka
 alulae
 archpatriarch
+antidromic
 argent
 arvo
 anencephalus
