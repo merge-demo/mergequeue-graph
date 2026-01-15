@@ -11772,6 +11772,7 @@ cibophobiafood
 codder
 colpohysterotomy
 chondrosin
+corporals
 conopid
 chondrosis
 chondrostean
@@ -25582,7 +25583,6 @@ corporality
 cristivomer
 colugos
 corporalities
-corporals
 cytostatically
 citronellic
 chromatolytic
