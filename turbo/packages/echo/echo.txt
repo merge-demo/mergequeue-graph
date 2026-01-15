@@ -2292,6 +2292,7 @@ excavated
 epicotyl
 errorful
 escalate
+eleemosynarily
 encrypting
 eyras
 elfkin
@@ -2717,7 +2718,6 @@ eleemosynary
 etymology
 emetic
 engorge
-eleemosynarily
 egos
 enditing
 erythrocyte
