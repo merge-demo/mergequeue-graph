@@ -9461,6 +9461,7 @@ bathymeter
 basaltine
 bemedaled
 bashes
+bluejack
 birma
 busted
 biggins
@@ -9562,7 +9563,6 @@ bothridium
 barque
 burucha
 bogue
-bluejack
 battlements
 ballhawk
 biscayanism
