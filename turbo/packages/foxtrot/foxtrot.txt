@@ -5188,6 +5188,7 @@ fuchsia
 familarity
 frumpery
 funest
+festino
 fraternizes
 formylating
 fictionising
@@ -7583,7 +7584,6 @@ forespeak
 freezable
 fervors
 forril
-festino
 fatalize
 farrier
 fossula
