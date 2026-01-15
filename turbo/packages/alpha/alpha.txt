@@ -5516,7 +5516,6 @@ abscisins
 agronomies
 afterdeal
 aerial
-afterform
 actuarial
 aerolith
 aristos
@@ -15175,6 +15174,7 @@ azimine
 antienzyme
 augury
 antiepiscopal
+afterform
 arigue
 antiestablishment
 auriscopic
