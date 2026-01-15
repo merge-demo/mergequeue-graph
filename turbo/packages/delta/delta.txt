@@ -2928,7 +2928,6 @@ doggoner
 dedicators
 deaconry
 dewar
-ducatus
 divagation
 dechlorination
 dansk
@@ -17690,6 +17689,7 @@ disgradulate
 duan
 drenching
 declamatoriness
+ducatus
 diecase
 dichotomistic
 downlying
