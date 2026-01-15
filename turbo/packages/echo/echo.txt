@@ -122,7 +122,6 @@ echinoderma
 earthboard
 exanthemata
 enantiomorphous
-endometritis
 expreme
 eparchs
 engaol
@@ -13786,6 +13785,7 @@ eskimos
 extorters
 extortion
 embroiling
+endometritis
 endopterygotism
 earthliness
 euchite
