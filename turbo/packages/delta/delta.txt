@@ -5936,6 +5936,7 @@ deprograms
 dropforged
 deprome
 demisphere
+docile
 drawling
 disaffectedly
 deprostrate
@@ -15664,7 +15665,6 @@ doper
 disbarring
 dogstone
 desi
-docile
 dunce
 didrachma
 defatted
