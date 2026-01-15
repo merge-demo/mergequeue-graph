@@ -7023,7 +7023,6 @@ centaurdom
 cuvette
 centaurea
 carretta
-cantoned
 clitellum
 centauress
 centaury
@@ -9527,6 +9526,7 @@ checkpointed
 chemitypies
 checkpointing
 combmaking
+cantoned
 concionate
 checkpoints
 condense
