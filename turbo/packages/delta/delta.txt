@@ -9736,7 +9736,6 @@ decolourization
 dilatometer
 dilatometrically
 dynamometers
-dcbname
 dilatoriness
 daypeep
 denaturiser
@@ -14724,6 +14723,7 @@ drumlier
 dactyloscopic
 detained
 decahedral
+dcbname
 doctorbird
 dekametre
 declinedness
