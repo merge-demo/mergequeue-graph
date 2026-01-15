@@ -2058,6 +2058,7 @@ coburgess
 camouflage
 camouflageable
 camouflager
+camuning
 contradictorily
 camouflagers
 camouflagic
@@ -2255,7 +2256,6 @@ coneine
 caval
 camstone
 canaliculization
-camuning
 camus
 camused
 camuses
