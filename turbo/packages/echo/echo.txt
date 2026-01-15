@@ -8646,7 +8646,6 @@ espantoon
 encirclements
 erythrogonium
 erineum
-enzymotic
 ethanols
 erelong
 extractor
@@ -11308,6 +11307,7 @@ electrocute
 ecdysons
 epupillate
 enwrap
+enzymotic
 evaporitic
 enforcively
 evapotranspiration
