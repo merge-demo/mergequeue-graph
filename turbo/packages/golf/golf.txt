@@ -1480,6 +1480,7 @@ gradualness
 gasboat
 giddiness
 gaselier
+gothicist
 golet
 glissading
 gastrophilus
@@ -3384,7 +3385,6 @@ greeks
 gerocomical
 gerodontic
 geobiont
-gothicist
 gerontic
 generalships
 graphometry
