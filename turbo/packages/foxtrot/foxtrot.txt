@@ -2733,6 +2733,7 @@ fraternization
 forelimbs
 fyce
 fusses
+frit
 fraela
 folklore
 faunas
@@ -4542,7 +4543,6 @@ foolable
 faciolingual
 fourth
 feudists
-frit
 futtocks
 forespoken
 feuder
