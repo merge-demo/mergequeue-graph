@@ -2105,6 +2105,7 @@ anviling
 antecedents
 ardor
 amiral
+anthophora
 antapices
 aiguillesque
 adreno
@@ -14418,7 +14419,6 @@ astigmatoscopies
 aerogramme
 accidentary
 apometabolism
-anthophora
 anglicizing
 amphistomous
 awful
