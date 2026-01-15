@@ -495,7 +495,6 @@ galere
 garaged
 gridirons
 gipsies
-galericulate
 germing
 gess
 gadding
@@ -6353,6 +6352,7 @@ garnitures
 gustables
 gorilline
 gofer
+galericulate
 gastrotrich
 given
 getspace
