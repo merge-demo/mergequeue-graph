@@ -2056,7 +2056,6 @@ fissipes
 fendillation
 favissae
 fieldfare
-frory
 forensically
 foys
 fwelling
@@ -9760,6 +9759,7 @@ finals
 falcula
 foraminal
 foist
+frory
 fireproofed
 feminists
 fulminator
