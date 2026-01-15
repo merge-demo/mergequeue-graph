@@ -1691,6 +1691,7 @@ gibson
 gros
 gastroenteritis
 glycerolysis
+galipots
 gunrunning
 girting
 gester
@@ -10512,7 +10513,6 @@ grayishness
 garn
 gundie
 graspingness
-galipots
 goladar
 girl
 geometrina
