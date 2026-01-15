@@ -1425,7 +1425,6 @@ dasht
 dawk
 diapering
 dioptrate
-dogly
 dehydrogenates
 disassimilated
 dicarbonic
@@ -4944,6 +4943,7 @@ datos
 dissipate
 deified
 demotists
+dogly
 duncedom
 dragontail
 dephosphorize
