@@ -3884,7 +3884,6 @@ eminently
 enamored
 expressionless
 executorship
-edentulous
 eels
 effodient
 exede
@@ -8623,6 +8622,7 @@ equigranular
 equilateral
 eriogonum
 equilibrant
+edentulous
 extractively
 enframe
 europiums
