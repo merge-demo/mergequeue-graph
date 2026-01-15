@@ -411,6 +411,7 @@ belook
 bacteriorhodopsin
 bwana
 backlit
+balsamy
 betipple
 bailor
 brigadier
@@ -16436,7 +16437,6 @@ bromellite
 blusterers
 barque
 benzdioxtriazine
-balsamy
 bumicky
 babblement
 brushback
