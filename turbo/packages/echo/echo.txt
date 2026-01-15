@@ -11900,7 +11900,6 @@ expurgation
 ephidrosis
 excerebration
 extraphysical
-endemiology
 eudaemonistically
 excursory
 equiradical
@@ -13272,6 +13271,7 @@ eponymize
 ensheath
 epignathous
 eyedroppers
+endemiology
 egregious
 enflagellation
 extrorsely
