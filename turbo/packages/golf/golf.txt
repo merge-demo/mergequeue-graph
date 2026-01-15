@@ -507,7 +507,6 @@ gravimetrical
 gelatin
 gye
 glaucodot
-gluteus
 grama
 gullably
 geminations
@@ -8136,6 +8135,7 @@ glowflies
 granulators
 gynaecocracy
 guanidins
+gluteus
 gnatsnap
 goatling
 granulet
