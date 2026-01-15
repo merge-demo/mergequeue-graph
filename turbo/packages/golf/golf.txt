@@ -6789,6 +6789,7 @@ gradate
 goniunia
 groceteria
 goitrogen
+glycin
 gonoblast
 gremials
 girders
@@ -8530,7 +8531,6 @@ grecian
 grues
 gressorious
 glasslike
-glycin
 geisha
 graveolent
 gymnoderinae
