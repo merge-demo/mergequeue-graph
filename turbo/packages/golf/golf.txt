@@ -654,7 +654,6 @@ guruships
 gemmaceous
 gerodontia
 gasometry
-gestatorial
 ghostlify
 gnarled
 grueling
@@ -6755,6 +6754,7 @@ genericness
 guib
 gamelang
 ganam
+gestatorial
 gamgee
 gratias
 gobbe
