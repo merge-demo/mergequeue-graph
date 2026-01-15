@@ -5607,7 +5607,6 @@ gemology
 garnice
 geophilidae
 gondolet
-gymnasium
 golfers
 glossocomium
 gauming
@@ -6511,6 +6510,7 @@ golo
 grasshopper
 gayest
 gorinesses
+gymnasium
 grazing
 gymnasia
 groundage
