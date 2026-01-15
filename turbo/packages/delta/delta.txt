@@ -122,7 +122,6 @@ denticule
 determinableness
 diddered
 detonated
-dialectologically
 diazeuctic
 debilitations
 dyspathetic
@@ -11401,6 +11400,7 @@ demivotary
 determinoid
 debug
 discloser
+dialectologically
 disclosive
 disclosure
 diplomaed
