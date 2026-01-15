@@ -2973,7 +2973,6 @@ eliminate
 etiologies
 embind
 explait
-emony
 equiprobabilism
 eliminated
 ectopia
@@ -4591,6 +4590,7 @@ efficaciously
 enchymatous
 ervenholder
 ephebeia
+emony
 epithalamic
 enchytraeid
 emceing
