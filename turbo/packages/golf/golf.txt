@@ -169,6 +169,7 @@ graphorrhea
 guesthouse
 gingerroot
 guaiaretic
+garlics
 gardenmaker
 geophagy
 graniticoline
@@ -8720,7 +8721,6 @@ gnathonic
 girosols
 guazuma
 greenrooms
-garlics
 glossectomy
 globalism
 gynoecia
