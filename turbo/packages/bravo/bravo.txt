@@ -11460,7 +11460,6 @@ bluestems
 beguiles
 bigeneric
 bivious
-barytones
 bolthead
 bluetit
 basis
@@ -18261,6 +18260,7 @@ buttermonger
 bice
 bagworm
 bronzier
+barytones
 butternuts
 batea
 bunuelo
