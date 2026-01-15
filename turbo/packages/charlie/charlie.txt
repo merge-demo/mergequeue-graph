@@ -14850,6 +14850,7 @@ cordages
 cyton
 cytone
 chorda
+clapnest
 cadette
 chess
 cartmaker
@@ -15368,7 +15369,6 @@ coran
 caulkings
 clapdish
 cripply
-clapnest
 clapnet
 concentered
 cricketed
