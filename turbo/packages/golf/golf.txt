@@ -1244,7 +1244,6 @@ guana
 gammadia
 gaufre
 glittered
-gemmuliferous
 generalizations
 gruesomest
 groups
@@ -4275,6 +4274,7 @@ gynecophorous
 gynecratic
 gelidness
 gorgonia
+gemmuliferous
 gyneolater
 guinfo
 germicide
