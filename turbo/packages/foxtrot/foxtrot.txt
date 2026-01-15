@@ -2267,7 +2267,6 @@ fumaria
 forshape
 full
 flavones
-finlandization
 filamentiferous
 fantails
 folktale
@@ -10575,6 +10574,7 @@ fustier
 fragmental
 forks
 furfurals
+finlandization
 filiation
 francophobe
 feeblebrained

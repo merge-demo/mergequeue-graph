@@ -753,6 +753,7 @@ characterical
 causations
 cleaning
 crimpiness
+cognoscibility
 corners
 chasselas
 cages
@@ -24855,7 +24856,6 @@ coracomorphae
 chrysopoeia
 coracopectoral
 coracoprocoracoid
-cognoscibility
 crepitation
 cheilion
 conveyers
