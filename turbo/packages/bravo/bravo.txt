@@ -5946,6 +5946,7 @@ boogerman
 bludged
 butylamine
 bowlfuls
+boomtowns
 babiche
 belting
 basidiomycete
@@ -12843,7 +12844,6 @@ boomtown
 biestings
 boardbill
 beefcake
-boomtowns
 barracuda
 boon
 brevifoliate
