@@ -1694,7 +1694,6 @@ buqsha
 brilliantness
 bawdyhouse
 bagnios
-babbishly
 besottingly
 bowsing
 balneology
@@ -15430,6 +15429,7 @@ boilery
 botheration
 brigsail
 bousing
+babbishly
 brill
 bradytocia
 bicone
