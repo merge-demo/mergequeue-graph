@@ -7105,7 +7105,6 @@ gopherberries
 garbologist
 goatherd
 gothics
-glaucously
 graphologic
 getting
 gatter
@@ -8992,6 +8991,7 @@ golgothas
 gushers
 gigant
 greenbelt
+glaucously
 guiltier
 griffaun
 glamorization
