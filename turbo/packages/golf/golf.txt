@@ -8574,7 +8574,6 @@ guiltlessly
 gliderport
 glomeli
 gainliest
-gavotted
 grat
 governess
 growths
@@ -9852,6 +9851,7 @@ guanayes
 groow
 graffer
 galaxy
+gavotted
 guaneide
 gharri
 guanethidine
