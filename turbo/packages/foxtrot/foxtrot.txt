@@ -3288,7 +3288,6 @@ factitious
 framed
 fideicommissaries
 fungus
-flirtling
 finesser
 forevermore
 foreward
@@ -3363,6 +3362,7 @@ feeless
 foreyards
 fusilades
 fastigate
+flirtling
 forcut
 fopling
 fossilification
