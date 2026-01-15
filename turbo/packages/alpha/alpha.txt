@@ -3485,6 +3485,7 @@ antimissile
 attapulgite
 afterwort
 azoths
+alex
 additions
 absmho
 addititious
@@ -17843,7 +17844,6 @@ appose
 amphikaryotic
 appeasable
 amplex
-alex
 alisphenoid
 amphiarthrosis
 asterales
