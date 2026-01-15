@@ -97,7 +97,6 @@ enumerate
 earpick
 elastician
 earpiece
-enchisel
 equiperiodic
 enmarble
 earreach
@@ -1366,6 +1365,7 @@ efflagitate
 epitympanic
 eugubium
 embellishes
+enchisel
 emissions
 encycl
 expungeable
