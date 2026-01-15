@@ -6805,7 +6805,6 @@ folderols
 foreheater
 foveiform
 fjelds
-frette
 fiddlebrained
 freeing
 foraminiferan
@@ -6823,6 +6822,7 @@ firetower
 fustigator
 fussify
 flipjack
+frette
 fourhanded
 furomonazole
 foliary
