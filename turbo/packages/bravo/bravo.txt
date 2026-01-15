@@ -810,6 +810,7 @@ blackout
 basilidan
 building
 baedekerian
+bosominess
 baphometic
 baeria
 backcomb
@@ -6335,7 +6336,6 @@ bellyfish
 besnowed
 blinks
 benzenediazonium
-bosominess
 bananalander
 burgher
 bemocking

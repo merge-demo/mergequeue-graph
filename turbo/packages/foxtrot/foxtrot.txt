@@ -130,6 +130,7 @@ forefathers
 fiberizer
 fomes
 filicic
+flexive
 fackeltanz
 frill
 fumiferous
@@ -4376,7 +4377,6 @@ floorshifts
 flagged
 frenums
 fishbowls
-flexive
 forky
 fisheyes
 forecomingness
