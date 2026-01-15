@@ -1476,6 +1476,7 @@ efph
 erringly
 entocondylar
 experimentarian
+electrothermal
 estantion
 empyesis
 endophytous
@@ -4273,7 +4274,6 @@ exospores
 enacting
 ers
 exercisers
-electrothermal
 embryocardia
 enacture
 exfodiation
