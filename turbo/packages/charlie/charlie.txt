@@ -13641,7 +13641,6 @@ cymosely
 cervine
 casefied
 caleb
-consignatory
 cymraeg
 cymry
 consuetude
@@ -31024,6 +31023,7 @@ campanian
 cumyl
 congos
 carbethoxy
+consignatory
 clead
 ceriops
 clairaudiently
