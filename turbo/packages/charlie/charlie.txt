@@ -8015,7 +8015,6 @@ countermovement
 cytozoa
 codirectional
 chacte
-chad
 chadarim
 chadelle
 colloquy
@@ -25212,6 +25211,7 @@ caucussed
 corynid
 corynine
 corinna
+chad
 corinne
 corynocarpaceous
 corynocarpus
