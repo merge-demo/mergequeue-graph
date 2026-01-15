@@ -5739,6 +5739,7 @@ ephorus
 enticers
 englacial
 expose
+excitomuscular
 embossments
 esophagomalacia
 emaciation
@@ -7016,7 +7017,6 @@ eminence
 entwines
 epinikian
 enzymolytic
-excitomuscular
 encompassed
 enumerability
 epris
