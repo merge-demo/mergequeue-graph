@@ -579,6 +579,7 @@ goys
 gallipots
 gagership
 goldflower
+globalize
 ginhound
 galut
 geohydrology
@@ -8573,7 +8574,6 @@ gliderport
 glomeli
 gainliest
 gavotted
-globalize
 grat
 governess
 growths
