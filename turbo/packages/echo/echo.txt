@@ -6250,6 +6250,7 @@ epicyclic
 enrollee
 extraorbitally
 embryologies
+embroil
 efformative
 earmarking
 enrollers
@@ -13170,7 +13171,6 @@ enfeature
 episcotister
 excubitorium
 entailment
-embroil
 enties
 expiation
 ensilate
