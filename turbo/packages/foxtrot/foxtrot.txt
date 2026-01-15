@@ -5253,7 +5253,6 @@ fockle
 fabricable
 fomenter
 ferricyanate
-flavours
 fimbriate
 feelinglessly
 fibrilation
@@ -10079,6 +10078,7 @@ finalizations
 fennec
 functions
 fishpound
+flavours
 fritz
 furnisher
 foozling
