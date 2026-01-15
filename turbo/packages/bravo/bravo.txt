@@ -7530,7 +7530,6 @@ breezeless
 banes
 boehmite
 bevilled
-butterbill
 bromometrically
 baronga
 branchiopallial
@@ -8792,6 +8791,7 @@ bimarine
 bineweed
 broadcastings
 bing
+butterbill
 brattling
 browed
 blackfellow
