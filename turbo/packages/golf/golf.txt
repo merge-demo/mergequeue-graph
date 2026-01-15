@@ -2947,7 +2947,6 @@ gorsy
 glideless
 gynaecocracies
 gunfighters
-geocoronium
 genecological
 gyniatry
 goldurnedest
@@ -4301,6 +4300,7 @@ gravidity
 gymnic
 gymnemic
 gloeosporiose
+geocoronium
 globosity
 gawks
 geodesist
