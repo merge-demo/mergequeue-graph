@@ -3037,7 +3037,6 @@ dragonfish
 disestablishment
 diphthongs
 deucedly
-dowress
 decarbonized
 desegregation
 deers
@@ -16085,6 +16084,7 @@ doughier
 drawlingness
 doughiness
 dwindle
+dowress
 denshire
 daimonistic
 deathbed

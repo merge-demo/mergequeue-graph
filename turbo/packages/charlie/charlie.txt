@@ -18073,7 +18073,6 @@ catostomoid
 cissoid
 cognizers
 coenobioid
-conicoid
 contentless
 conjugable
 cardinalism
@@ -27426,6 +27425,7 @@ clake
 calculary
 chivalrousness
 cacesthesis
+conicoid
 cozier
 capillament
 colauxe
