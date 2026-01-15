@@ -9195,7 +9195,6 @@ fusing
 fragments
 foresighted
 fishbed
-foraneous
 facts
 frayedness
 flagmaking
@@ -10383,6 +10382,7 @@ feedable
 feared
 frangipanis
 fatalist
+foraneous
 friller
 forecatching
 flagmen
