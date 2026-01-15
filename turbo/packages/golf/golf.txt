@@ -6731,7 +6731,6 @@ grannie
 gripped
 geneticist
 georgic
-gulash
 graminivorous
 galvanolysis
 glucide
@@ -8659,6 +8658,7 @@ groynes
 gapeseed
 greatness
 greave
+gulash
 gapers
 gavelet
 gisel
