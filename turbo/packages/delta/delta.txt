@@ -3652,7 +3652,6 @@ degravate
 demipike
 degreaser
 dacryohemorrhea
-degreases
 dilatometry
 daffadowndilly
 degreewise
@@ -8282,6 +8281,7 @@ dagesh
 desonation
 digitation
 doombook
+degreases
 diagrams
 dentin
 db
