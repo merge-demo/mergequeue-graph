@@ -10519,6 +10519,7 @@ eucharitidae
 expenses
 emule
 ephebeubea
+extraenteric
 expiscator
 epitoxoid
 epistolized
@@ -13351,7 +13352,6 @@ erogenous
 ethnogeographically
 egyptize
 emporiria
-extraenteric
 epicorolline
 elegizing
 exposes
