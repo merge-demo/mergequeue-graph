@@ -2845,6 +2845,7 @@ decubiti
 deculturate
 driverless
 decuman
+doubloons
 deperm
 dorosacral
 dihydronicotine
@@ -9550,7 +9551,6 @@ deglazes
 dignitary
 dignitarian
 demophoon
-doubloons
 dignities
 drunks
 dignotion
