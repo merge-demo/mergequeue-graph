@@ -3284,7 +3284,6 @@ enrichingly
 extrapelvic
 enosist
 eobiont
-enthraller
 emanatism
 euphorias
 explanatoriness
@@ -11502,6 +11501,7 @@ evincing
 entoblast
 esophagus
 evincive
+enthraller
 excavationist
 echnida
 evite
