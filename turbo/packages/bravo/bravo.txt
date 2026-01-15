@@ -12529,7 +12529,6 @@ burseeds
 biham
 bonhomies
 boni
-bony
 burtonize
 boniata
 bloodshot
@@ -14736,6 +14735,7 @@ betelnut
 brazened
 borrichia
 balaclava
+bony
 basketmaker
 bravers
 bipolar
