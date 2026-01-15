@@ -7579,6 +7579,7 @@ bewhiten
 bifocals
 bedrivel
 breed
+biedermeier
 bewhore
 bewidow
 bulldozers
@@ -15544,7 +15545,6 @@ brioches
 bisso
 beadlet
 bryony
-biedermeier
 buglet
 bryonia
 belloot
