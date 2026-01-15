@@ -10890,6 +10890,7 @@ electromuscular
 eanlings
 eudemian
 epirotulian
+enseraph
 easternize
 enterokinase
 enfin
@@ -14134,7 +14135,6 @@ extensory
 episcopates
 ebonizing
 ephemerality
-enseraph
 enplanement
 emulates
 enlard
