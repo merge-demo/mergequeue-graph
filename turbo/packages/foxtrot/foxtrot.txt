@@ -3211,7 +3211,6 @@ flexibly
 fusicoccum
 ficklest
 ficklety
-fosterable
 fictionalize
 fourcher
 foots
@@ -5830,6 +5829,7 @@ fowling
 factorially
 floatsmen
 filled
+fosterable
 fluff
 flaxbush
 farthingale
