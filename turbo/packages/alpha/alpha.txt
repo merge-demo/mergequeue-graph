@@ -5920,6 +5920,7 @@ alibamu
 agglutinogen
 agglutinoscope
 acclaiming
+assonantic
 amblygeusia
 agglutogenic
 accompanists
@@ -24188,7 +24189,6 @@ anniversarily
 autojigger
 autojuggernaut
 ancylocladus
-assonantic
 anthozoa
 achroodextrinase
 awakens
