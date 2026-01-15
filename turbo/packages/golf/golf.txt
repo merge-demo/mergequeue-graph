@@ -2752,6 +2752,7 @@ gaedelian
 grooms
 genoise
 gentiopicrin
+girding
 gorgers
 gunfire
 greenflies
@@ -6994,7 +6995,6 @@ guaconize
 glad
 gossipry
 garrat
-girding
 giddybrain
 gladdener
 geothermally
