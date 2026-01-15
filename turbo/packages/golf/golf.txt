@@ -3522,6 +3522,7 @@ gawish
 gibbsites
 gumbotils
 gapo
+gleeking
 gilt
 grogginess
 gantangs
@@ -8047,7 +8048,6 @@ gravat
 gastrulas
 gunzian
 gearman
-gleeking
 glassier
 gratae
 granite
