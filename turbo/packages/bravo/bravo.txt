@@ -10635,7 +10635,6 @@ bleachable
 bartramia
 beworrying
 becloud
-bleacherite
 bleachfield
 braye
 boardy
@@ -17571,6 +17570,7 @@ bugle
 burgau
 benzidins
 basilisks
+bleacherite
 bumbelo
 barons
 brightwork
