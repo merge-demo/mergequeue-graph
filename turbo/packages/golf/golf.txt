@@ -1937,7 +1937,6 @@ gear
 guideship
 galactosuria
 goalkeepers
-greaseless
 gushy
 greeve
 guttiness
@@ -9980,6 +9979,7 @@ guggled
 gubbins
 geoethnic
 galictis
+greaseless
 glutamic
 gubernative
 gadolinia
