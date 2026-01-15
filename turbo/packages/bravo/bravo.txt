@@ -2281,7 +2281,6 @@ butted
 bummil
 burgherdom
 bindoree
-befuddle
 broadsheet
 brier
 bianco
@@ -8741,6 +8740,7 @@ bimonthlies
 berendo
 bended
 bemixt
+befuddle
 bimotors
 belonged
 bruisers
