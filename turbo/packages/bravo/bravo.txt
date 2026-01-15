@@ -5894,6 +5894,7 @@ belomancy
 belonephobia
 belonger
 bagonet
+balcone
 biased
 bronchophonic
 bared
@@ -8637,7 +8638,6 @@ buncoed
 bebization
 brochette
 bewig
-balcone
 bubalis
 blockheaded
 behear
