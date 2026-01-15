@@ -2057,7 +2057,6 @@ felahin
 fissipes
 fendillation
 favissae
-fusulas
 fieldfare
 frory
 forensically
@@ -6496,6 +6495,7 @@ filagreeing
 forgie
 farweltered
 fip
+fusulas
 failsoft
 frapping
 forspread
