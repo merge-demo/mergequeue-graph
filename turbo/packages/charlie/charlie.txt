@@ -2247,7 +2247,6 @@ camshafts
 camstane
 coneine
 caval
-companionability
 camstone
 canaliculization
 camuning
@@ -2947,6 +2946,7 @@ canterburian
 cladosporium
 curlpaper
 custumals
+companionability
 cryptoprocta
 cantering
 canthal
