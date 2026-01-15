@@ -3672,7 +3672,6 @@ exergues
 embryological
 endocoeliac
 embosking
-embryologist
 entify
 embryonic
 encyrtidae
@@ -11241,6 +11240,7 @@ enthronized
 earwort
 epidictical
 encrotchet
+embryologist
 exserts
 earthquake
 exundate
