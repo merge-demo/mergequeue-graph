@@ -9936,7 +9936,6 @@ galerite
 geogenetic
 ghatwal
 glozer
-guitarfishes
 grabbots
 guardianship
 garb
@@ -10520,6 +10519,7 @@ girl
 geometrina
 geodesical
 gratiola
+guitarfishes
 gibs
 gulix
 grallic

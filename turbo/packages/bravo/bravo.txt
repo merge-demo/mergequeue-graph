@@ -7644,6 +7644,7 @@ biodynamic
 bewry
 bankroller
 bullwhip
+bistable
 bahar
 barranca
 bairnteem
@@ -9108,7 +9109,6 @@ byssine
 bilsted
 bighted
 biosociological
-bistable
 budzart
 balanoglossida
 bodysuit
