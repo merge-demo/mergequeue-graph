@@ -7127,7 +7127,6 @@ empassion
 eglandulous
 expirer
 equestrians
-enwheels
 enwinding
 elemis
 entomoid
@@ -8015,6 +8014,7 @@ entoconid
 enstatitic
 easements
 escapingly
+enwheels
 evident
 expound
 entertaining
