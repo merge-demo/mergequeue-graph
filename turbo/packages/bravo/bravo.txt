@@ -7478,6 +7478,7 @@ bengals
 biomicroscope
 bowne
 besant
+boldu
 burtree
 bully
 berhymed
@@ -12143,7 +12144,6 @@ basketball
 besmutch
 bugger
 bealing
-boldu
 butterweed
 boled
 bolelike
