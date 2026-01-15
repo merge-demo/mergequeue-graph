@@ -2578,6 +2578,7 @@ fogramity
 flongs
 ferrocyanate
 ferroelectric
+foreplot
 fingerbreadth
 fattier
 ferrogoslarite
@@ -10008,7 +10009,6 @@ fringent
 frizzer
 feminacy
 fringetail
-foreplot
 fimbles
 frogskin
 fortune
