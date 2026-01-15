@@ -1650,7 +1650,6 @@ fdnames
 farmhands
 fundamentalists
 forthcut
-fluible
 faddisms
 flamboyantly
 furbelowed
@@ -3481,6 +3480,7 @@ formuliser
 forjaskit
 forpined
 finnic
+fluible
 fluctuated
 fended
 fustanella
