@@ -827,7 +827,6 @@ frogeyes
 formfitting
 fixatives
 fluctuations
-fanjet
 fastened
 fons
 flemings
@@ -6612,6 +6611,7 @@ flowerpot
 fishybacking
 fatalistically
 fizzers
+fanjet
 friggle
 fractocumulus
 fireweeds
