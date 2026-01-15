@@ -9410,6 +9410,7 @@ destructors
 diether
 disenroll
 disheathing
+disburser
 dehematize
 digamy
 disobeyal
@@ -17894,7 +17895,6 @@ diplomata
 dillydallies
 debromination
 disgrace
-disburser
 deterministically
 durance
 dejectedly
