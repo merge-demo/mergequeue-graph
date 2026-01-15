@@ -52,6 +52,7 @@ bundocks
 babbly
 befrogged
 brushable
+bacterioblast
 babbit
 baton
 botrytises
@@ -17257,7 +17258,6 @@ bimethyl
 bolographically
 bumblers
 bumbles
-bacterioblast
 bumbling
 bumbo
 begum
