@@ -6856,7 +6856,6 @@ geed
 gaposises
 goniatitic
 grainman
-granma
 goshen
 gynandroid
 garrotes
@@ -8625,6 +8624,7 @@ glutaminase
 gerrymanderer
 gemmeous
 genethliacs
+granma
 gentlemanly
 grapnel
 gossipping
