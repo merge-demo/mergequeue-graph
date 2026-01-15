@@ -7926,7 +7926,6 @@ demur
 doublets
 delawarean
 dex
-dignify
 democritean
 downside
 dresden
@@ -10517,6 +10516,7 @@ disserviceableness
 ddname
 derate
 doorsills
+dignify
 diceratidae
 diazotate
 deipotent
