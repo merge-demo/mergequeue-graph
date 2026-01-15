@@ -3937,6 +3937,7 @@ garote
 gratuito
 gallopers
 graphomaniac
+gillaroo
 grice
 ganner
 graphis
@@ -6445,7 +6446,6 @@ generalizable
 goodyear
 grudgeless
 goldeney
-gillaroo
 goldener
 gidgee
 guary
