@@ -5802,7 +5802,6 @@ calipered
 catalyzator
 circumspective
 catechistic
-catechistical
 catechists
 catechization
 catechizer
@@ -21946,6 +21945,7 @@ cosmogenic
 confident
 confidente
 compressibilities
+catechistical
 crossosomataceae
 confidential
 chakras
