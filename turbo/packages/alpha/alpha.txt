@@ -770,6 +770,7 @@ abreacts
 acer
 aepyornis
 ascites
+athetized
 annats
 abreast
 archenteric
@@ -10356,7 +10357,6 @@ apivorous
 attains
 anaphorically
 affination
-athetized
 aristocratically
 alkalic
 amerces
