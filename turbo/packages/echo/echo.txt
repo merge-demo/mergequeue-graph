@@ -12486,7 +12486,6 @@ esophagotomy
 enrollees
 eximidus
 ense
-etiogenic
 eluviates
 exaggeration
 enteropneusta
@@ -12545,6 +12544,7 @@ exit
 encrypted
 exsects
 exite
+etiogenic
 eranist
 extinction
 envious
