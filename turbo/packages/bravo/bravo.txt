@@ -3186,7 +3186,6 @@ berserk
 birdieing
 basial
 belove
-basiarachnitis
 bailing
 brazening
 barcan
@@ -9040,6 +9039,7 @@ biophysiography
 balibuntal
 biophysiology
 barky
+basiarachnitis
 butterier
 bisegment
 berrettino
