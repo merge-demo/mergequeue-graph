@@ -1481,7 +1481,6 @@ diffusor
 discolorated
 dazzler
 disillusions
-dazzlers
 damnification
 discernableness
 dazzlingness
@@ -16920,6 +16919,7 @@ dolcinist
 diarrheic
 dreamscape
 disharmony
+dazzlers
 dottles
 damnation
 deoxidate
