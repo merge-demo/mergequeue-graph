@@ -15565,7 +15565,6 @@ almondlike
 ancoral
 angiocarp
 alcotate
-allocating
 annulli
 alectoromorphae
 antimony
@@ -16405,6 +16404,7 @@ amictus
 anthraconite
 affiliates
 antiwedge
+allocating
 ariidae
 alyssums
 arcos
