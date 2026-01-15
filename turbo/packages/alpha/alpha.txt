@@ -22361,7 +22361,6 @@ achilleid
 amollish
 abbr
 astrocytomas
-anagnost
 ascogonidium
 ashy
 anal
@@ -23714,6 +23713,7 @@ articles
 auriphone
 auriphrygia
 auripigment
+anagnost
 aurir
 auriscalpia
 auriscopy
