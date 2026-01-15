@@ -2576,6 +2576,7 @@ caenozoic
 conners
 candlewicks
 complementative
+cur
 candlewright
 candling
 cynically
@@ -31714,7 +31715,6 @@ cuspidor
 cephalopodan
 counterapse
 cusping
-cur
 cuspis
 cusps
 cuspule
