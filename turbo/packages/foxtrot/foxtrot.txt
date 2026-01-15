@@ -1253,7 +1253,6 @@ favella
 forevouch
 femalize
 footwall
-fatuate
 fearful
 flatten
 filmdom
@@ -6072,6 +6071,7 @@ feak
 foretriangle
 fleyland
 forecome
+fatuate
 floush
 focalisation
 fouls
