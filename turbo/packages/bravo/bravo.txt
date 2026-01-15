@@ -1886,7 +1886,6 @@ bushie
 bandie
 bandied
 bilinear
-bandikai
 batrachoplasty
 biparty
 bimetalism
@@ -2332,6 +2331,7 @@ bartholomite
 blameably
 baobab
 breloque
+bandikai
 bathyscape
 barbicel
 bemitred
