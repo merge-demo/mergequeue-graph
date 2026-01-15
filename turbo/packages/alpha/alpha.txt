@@ -6743,7 +6743,6 @@ allomerize
 agglutination
 atrioporal
 abnormities
-ainus
 ayont
 anterodorsal
 antemetic
@@ -7572,6 +7571,7 @@ autoclastic
 alcalizate
 alcanna
 acardiac
+ainus
 ascophyllum
 anastomos
 astragal
