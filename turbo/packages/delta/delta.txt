@@ -4406,7 +4406,6 @@ dilapidated
 dementing
 decayers
 demeore
-decap
 dependant
 dird
 demerit
@@ -10744,6 +10743,7 @@ deutonephron
 daintiest
 dipstick
 diazotize
+decap
 divinization
 dipteraceae
 dipterygian
