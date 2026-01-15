@@ -1653,7 +1653,6 @@ gypsite
 groovier
 grousewards
 grosgrain
-garawi
 gumlikeness
 geode
 goyish
@@ -9797,6 +9796,7 @@ gue
 goury
 globulinuria
 glycerolate
+garawi
 glossemes
 glares
 gnathostoma
