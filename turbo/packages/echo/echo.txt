@@ -3555,7 +3555,6 @@ embossage
 embossed
 embossing
 emulsifications
-embossman
 esophagoplegia
 enchantery
 emanent
@@ -12153,6 +12152,7 @@ entertainments
 ethaldehyde
 estrado
 electric
+embossman
 exostome
 embergoose
 excuser

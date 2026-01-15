@@ -17956,7 +17956,6 @@ anthracotheriidae
 approachable
 approached
 administration
-amphirhine
 amblypod
 aliesterase
 alcoholist
@@ -21256,6 +21255,7 @@ algarsife
 ashing
 afforcing
 ashipboard
+amphirhine
 ashir
 antiromanticist
 analemmata
