@@ -3412,7 +3412,6 @@ bot
 busiest
 broider
 bewall
-bittor
 boehmenism
 bryophytic
 benzalazine
@@ -10191,6 +10190,7 @@ blackguard
 bos
 benzenyl
 bookrests
+bittor
 blackguardry
 baroreceptor
 beseechers
