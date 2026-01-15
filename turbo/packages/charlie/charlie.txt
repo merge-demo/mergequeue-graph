@@ -5317,7 +5317,6 @@ cassinos
 cassioberry
 catamenia
 cassiope
-curvette
 cassiopeia
 cassiopeian
 chlorohydroquinone
@@ -17743,6 +17742,7 @@ cocobolo
 condemnate
 cockalan
 cc
+curvette
 cocreate
 cocreated
 cocreating
