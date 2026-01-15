@@ -5339,6 +5339,7 @@ dragman
 donnees
 disgruntle
 dawned
+dressoirs
 denting
 defrayal
 demagogically
@@ -15087,7 +15088,6 @@ diagrammable
 disfrequent
 dogmatise
 dogmatised
-dressoirs
 dogmatizer
 dispensator
 discotheques
