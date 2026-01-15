@@ -12757,6 +12757,7 @@ awed
 argillitic
 angerona
 angers
+autofecundation
 anepia
 angetenar
 antevenient
@@ -24564,7 +24565,6 @@ anaconda
 anisated
 amober
 auxoamylase
-autofecundation
 auxocardia
 aneurismally
 auxochrome
