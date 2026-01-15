@@ -7307,7 +7307,6 @@ fleeched
 foaminess
 fixation
 foraying
-frognose
 foram
 fronds
 fearnaught
@@ -8716,6 +8715,7 @@ forehands
 functioned
 flavonols
 fortuitous
+frognose
 furrieries
 flote
 fala
