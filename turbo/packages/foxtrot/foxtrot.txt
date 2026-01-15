@@ -5730,6 +5730,7 @@ figmental
 forpass
 folksay
 frise
+frustule
 flocking
 fenmen
 flited
@@ -8898,7 +8899,6 @@ flueman
 filosus
 funambulist
 fuddling
-frustule
 footsoreness
 fanmaking
 fourre
