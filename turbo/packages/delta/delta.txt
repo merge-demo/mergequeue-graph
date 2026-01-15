@@ -15147,6 +15147,7 @@ dotish
 doitkin
 dojigger
 deprogramming
+desoxyribonuclease
 debituminization
 doketic
 dokmarok
@@ -16620,7 +16621,6 @@ dilutant
 detesting
 dragonwort
 dedolent
-desoxyribonuclease
 dragoonable
 dation
 denunciable
