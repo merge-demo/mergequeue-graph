@@ -208,7 +208,6 @@ factorials
 fanons
 fatiscence
 forborne
-futurist
 figuline
 fordoing
 faire
@@ -3686,6 +3685,7 @@ flavorlessness
 featherers
 feodal
 frousiest
+futurist
 facebread
 fillies
 families

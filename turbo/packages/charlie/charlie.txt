@@ -7723,6 +7723,7 @@ ceroplasty
 ceroplastic
 ceroplastics
 cyanocrystallin
+crematorial
 cerosin
 cerote
 chastises
@@ -28642,7 +28643,6 @@ cremations
 cremator
 crematory
 commissionate
-crematorial
 crematoriria
 crematorium
 cremators
