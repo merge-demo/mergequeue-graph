@@ -2980,7 +2980,6 @@ barophobia
 barricoes
 biuniqueness
 barrigudos
-barrikin
 babouche
 blackjack
 bromophenol
@@ -15671,6 +15670,7 @@ broadcaster
 bullyragging
 bonnetieres
 bromeliaceous
+barrikin
 bacteriologist
 brutage
 bayonet
