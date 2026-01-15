@@ -1727,6 +1727,7 @@ eyen
 etacism
 engler
 eulogisation
+enthetic
 extendedly
 epanorthoses
 enswathe
@@ -2297,7 +2298,6 @@ eyras
 elfkin
 exradius
 electroacoustics
-enthetic
 exundation
 electroanesthesia
 electroballistics
