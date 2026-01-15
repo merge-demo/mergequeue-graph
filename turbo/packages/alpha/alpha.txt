@@ -16186,6 +16186,7 @@ allometry
 antiskid
 amorphia
 apteryges
+antsigne
 aloofness
 andron
 antismoking
@@ -16478,7 +16479,6 @@ antrustion
 ants
 antsiest
 accentus
-antsigne
 alkargen
 antum
 ambulatio
