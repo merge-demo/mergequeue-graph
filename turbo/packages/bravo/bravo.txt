@@ -14103,6 +14103,7 @@ bumbaze
 brighteyes
 birdlore
 brachiosaur
+bucoliast
 brachiosaurus
 brachyphyllum
 bargainers
@@ -17321,7 +17322,6 @@ bathochromatism
 benzotrifluoride
 bahutu
 bopyrus
-bucoliast
 bunchy
 bunchier
 bunchily
