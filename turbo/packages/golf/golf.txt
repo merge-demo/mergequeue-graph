@@ -1105,6 +1105,7 @@ gestes
 goularo
 glossopharyngeal
 gormandizers
+gangsa
 gamboge
 genitives
 gymnodiniidae
@@ -7259,7 +7260,6 @@ germanification
 glomi
 gormandizes
 gundeck
-gangsa
 gapy
 gleaming
 gwerziou
