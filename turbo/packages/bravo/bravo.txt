@@ -9767,6 +9767,7 @@ buffered
 bistipulate
 bistort
 bedarkened
+blearing
 bistorts
 beetlehead
 bistred
@@ -10669,7 +10670,6 @@ bevel
 blindly
 brotulid
 begarnish
-blearing
 blearness
 bleated
 bleaty
