@@ -14017,7 +14017,6 @@ cypressed
 creepers
 coonskins
 cratemaking
-cervicovaginal
 cyprid
 cyprididae
 cypridina
@@ -29615,6 +29614,7 @@ commutableness
 columbanian
 crociate
 crocidura
+cervicovaginal
 cosinesses
 crock
 clashy
