@@ -4130,7 +4130,6 @@ gasan
 goetic
 gannetry
 gigantean
-gymnodiniaceous
 gallowses
 gerontological
 gazee
@@ -8385,6 +8384,7 @@ gunport
 gallivanting
 gradientia
 genipa
+gymnodiniaceous
 galeeny
 gyroscopically
 ghosting
