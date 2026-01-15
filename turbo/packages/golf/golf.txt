@@ -1476,6 +1476,7 @@ gaoler
 gowks
 gamma
 gerousia
+gigger
 gove
 gynocardia
 gradualness
@@ -4897,7 +4898,6 @@ glauberite
 glair
 glaire
 glosses
-gigger
 gradual
 growliness
 glaired
