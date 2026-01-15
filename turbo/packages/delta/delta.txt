@@ -3473,7 +3473,6 @@ defoliate
 defoliations
 descending
 disjunct
-debilitant
 dichroscope
 decelerating
 dehydrochlorination
@@ -15062,6 +15061,7 @@ doghead
 doghood
 doghouse
 dogie
+debilitant
 doglegs
 dicycle
 deboshed
