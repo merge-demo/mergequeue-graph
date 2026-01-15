@@ -1644,6 +1644,7 @@ gourdy
 gunnera
 geom
 greetingly
+gypsite
 groovier
 grousewards
 grosgrain
@@ -1969,7 +1970,6 @@ gaultherin
 gaunch
 gangers
 gruelly
-gypsite
 genealogically
 greywacke
 glairs
