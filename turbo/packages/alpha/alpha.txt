@@ -687,7 +687,6 @@ aphroditidae
 abortin
 antihydropin
 alkaid
-allayment
 autotoxaemia
 abortional
 antiglobulin
@@ -24563,6 +24562,7 @@ angekkok
 autosauri
 auxinically
 anaconda
+allayment
 anisated
 amober
 auxoamylase
