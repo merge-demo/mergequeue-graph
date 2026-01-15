@@ -7825,6 +7825,7 @@ croh
 cervicomuscular
 colures
 cholelithotripsy
+counterdemonstrate
 cribrous
 crotchy
 cervicothoracic
@@ -26779,7 +26780,6 @@ conversant
 counterdance
 counterdeclaration
 cucumis
-counterdemonstrate
 counterdeputation
 counterdesire
 counterdevelopment
