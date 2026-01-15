@@ -11606,6 +11606,7 @@ encephalitis
 ewte
 elumbated
 exacerbated
+electroindustrial
 effet
 excided
 enfrenzy
@@ -12746,7 +12747,6 @@ enterococcal
 epistomian
 enfetters
 emarginula
-electroindustrial
 endoplasm
 eidos
 euhemeristically
