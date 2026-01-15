@@ -10117,7 +10117,6 @@ anisette
 autolaryngoscope
 antinationally
 archecclesiastic
-amylosynthesis
 adelpholite
 alumin
 acidyl
@@ -18191,6 +18190,7 @@ aquarius
 astint
 anacusia
 adequately
+amylosynthesis
 aquascope
 asqueal
 alltud
