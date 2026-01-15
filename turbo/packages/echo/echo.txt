@@ -4484,7 +4484,6 @@ easement
 epirrheme
 encephalomyelitis
 entalent
-eery
 enrange
 ectotheca
 erucin
@@ -13201,6 +13200,7 @@ encephala
 echinite
 empyreal
 expressibility
+eery
 expiringly
 empressement
 embroglios
