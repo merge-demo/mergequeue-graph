@@ -3548,7 +3548,6 @@ defusion
 deformalize
 dingles
 dermatotome
-drawbeam
 dissheathe
 dehwar
 defuze
@@ -4539,6 +4538,7 @@ disimagine
 dupes
 demimonde
 dumpishly
+drawbeam
 demineralization
 dovetail
 demineralized
