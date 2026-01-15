@@ -6655,7 +6655,6 @@ drawarm
 dipneedle
 danders
 detonator
-deregulates
 deserving
 diabetics
 diorite
@@ -11049,6 +11048,7 @@ disappendant
 dobras
 dactyliology
 disappreciate
+deregulates
 detergents
 disappreciation
 deciatine
