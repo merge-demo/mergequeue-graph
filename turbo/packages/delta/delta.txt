@@ -11928,6 +11928,7 @@ demephitize
 duskish
 dietetical
 draftee
+drepanium
 disembarking
 dishware
 denominationally
@@ -17122,7 +17123,6 @@ drifty
 driftingly
 driftless
 driftlessness
-drepanium
 divulging
 disclose
 degenerative
