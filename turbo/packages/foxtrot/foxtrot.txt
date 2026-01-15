@@ -5088,6 +5088,7 @@ falasha
 forebespeak
 firepans
 fatherling
+forts
 fractionise
 funking
 forbidding
@@ -7336,7 +7337,6 @@ ferocious
 fluoridising
 formaldehydesulphoxylic
 fairyfloss
-forts
 foredone
 flimsiest
 filles
