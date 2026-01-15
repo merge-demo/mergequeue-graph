@@ -2045,7 +2045,6 @@ degamis
 decahedrons
 dominical
 decahydronaphthalene
-divulsion
 dramaturge
 desiatin
 disaccommodate
@@ -9879,6 +9878,7 @@ dipropargyl
 duscle
 duka
 deformational
+divulsion
 dimes
 dimetallic
 dimeter
