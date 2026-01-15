@@ -11920,6 +11920,7 @@ electrotherapist
 exalter
 exocataphoria
 ese
+empurple
 exairesis
 esthesis
 endemic
@@ -12947,7 +12948,6 @@ epistemophilia
 ecologist
 entotic
 epitonion
-empurple
 enchafe
 enhardy
 examines
