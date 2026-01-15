@@ -1601,7 +1601,6 @@ bursati
 baudronses
 bilamellate
 ballo
-brachydactylic
 blumea
 begluc
 banneret
@@ -12068,6 +12067,7 @@ boistous
 boistously
 boistousness
 backplate
+brachydactylic
 brinkmanship
 brunellia
 brocading
