@@ -968,7 +968,6 @@ bahadur
 beverage
 bahay
 bahaist
-blocs
 bahamians
 babbitter
 boated
@@ -10440,6 +10439,7 @@ bimuscular
 bugseed
 boyards
 barytostrontianite
+blocs
 blaoner
 blenk
 burinist
