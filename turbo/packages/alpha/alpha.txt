@@ -17732,7 +17732,6 @@ antiquities
 applejohn
 analogice
 amidogen
-antidotism
 apples
 applewoman
 adopts
@@ -23051,6 +23050,7 @@ ascitan
 amebas
 attacheship
 administrating
+antidotism
 astrology
 abaft
 antewar
