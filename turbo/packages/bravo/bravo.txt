@@ -5249,6 +5249,7 @@ backmost
 blastocyst
 bolters
 bioblast
+bespurred
 bastes
 bothsided
 begazing
@@ -8183,7 +8184,6 @@ bathroom
 bienvenue
 bayaderes
 burfish
-bespurred
 bier
 broid
 baleens
