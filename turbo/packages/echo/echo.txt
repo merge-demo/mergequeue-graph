@@ -5232,7 +5232,6 @@ emanator
 epitomatory
 etaerio
 excommunicated
-exactor
 editors
 endopodite
 exagitation
@@ -14070,6 +14069,7 @@ extracurriculum
 entablature
 epilobiaceae
 encephalomata
+exactor
 enfect
 effortfulness
 errantry
