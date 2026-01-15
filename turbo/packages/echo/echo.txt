@@ -9156,7 +9156,6 @@ enginelike
 everts
 exhorted
 eusuchia
-esoneural
 erotema
 edenize
 electrofuse
@@ -12346,6 +12345,7 @@ excrescencies
 exflect
 exuberant
 endower
+esoneural
 enteromyiasis
 epicleidium
 emerod
