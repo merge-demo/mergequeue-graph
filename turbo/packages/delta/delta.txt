@@ -1679,7 +1679,6 @@ dearest
 deposition
 deadeners
 dottel
-dephysicalization
 decrementless
 dehumanisation
 delineator
@@ -2627,6 +2626,7 @@ diogenes
 deforce
 dispose
 decolors
+dephysicalization
 duopsonies
 decolouration
 daedalean
