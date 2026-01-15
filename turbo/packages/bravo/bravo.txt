@@ -3413,7 +3413,6 @@ boehmenism
 bryophytic
 benzalazine
 burghership
-byrrus
 bedsores
 blushing
 bulletmaker
@@ -8004,6 +8003,7 @@ borsht
 beslipper
 bespatterer
 bicircular
+byrrus
 bitemporal
 byname
 bobsleigh
