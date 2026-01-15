@@ -311,7 +311,6 @@ astoundment
 abdominous
 articulate
 ampullulae
-abducted
 abductions
 allegro
 abductor
@@ -13187,6 +13186,7 @@ anthropomorpha
 autographal
 animalivorous
 anticreativity
+abducted
 alapa
 animalized
 andaquian
