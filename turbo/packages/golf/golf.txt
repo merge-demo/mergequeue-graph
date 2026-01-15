@@ -619,7 +619,6 @@ guineas
 gorgoniacea
 ghostweed
 gesseron
-graveside
 gloryless
 goulashes
 gurnets
@@ -8410,6 +8409,7 @@ gurging
 graith
 gheber
 graycoat
+graveside
 gravamen
 georgia
 gyves
