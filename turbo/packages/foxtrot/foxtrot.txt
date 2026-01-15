@@ -4730,7 +4730,6 @@ freethinkers
 farcies
 feuillage
 fulldo
-flag
 forestalment
 flammiferous
 furloughing
@@ -6940,6 +6939,7 @@ folliculitis
 frt
 flub
 ferthumlungur
+flag
 fobbing
 fumarase
 fun
