@@ -14941,7 +14941,6 @@ anticlimax
 attroupement
 abret
 anticlines
-anticlinoria
 amphigouri
 anticlinorium
 axised
@@ -21582,6 +21581,7 @@ abilities
 aspidiaria
 aspidinol
 aladdinize
+anticlinoria
 aspidiske
 autotypies
 aspidistra
