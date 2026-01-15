@@ -4672,7 +4672,6 @@ flannelleaf
 fixt
 furca
 flopwing
-fangs
 fummel
 furtherer
 flamboyancy
@@ -9429,6 +9428,7 @@ febricitant
 fidele
 fraternities
 fumarates
+fangs
 fritts
 fantasm
 featish
