@@ -6002,7 +6002,6 @@ acaridomatia
 amoles
 adenectomy
 acapnial
-alimenation
 alhena
 angelica
 anemophilous
@@ -8624,6 +8623,7 @@ absentment
 allegoriser
 anotto
 aeolomelodicon
+alimenation
 austenite
 applauded
 ampelosicyos
