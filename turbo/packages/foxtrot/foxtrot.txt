@@ -234,6 +234,7 @@ friezed
 fritterer
 facultize
 fulgur
+floorer
 finify
 fetials
 fopship
@@ -1433,7 +1434,6 @@ forbar
 ferreted
 fattest
 finickin
-floorer
 follow
 fanwork
 fall
