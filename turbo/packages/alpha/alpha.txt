@@ -5894,7 +5894,6 @@ archdepredator
 aggiornamenti
 antidicomarianite
 acrogenous
-agglomerate
 anychia
 amblyoscope
 agglomerates
@@ -17440,6 +17439,7 @@ applot
 airship
 adiate
 antiarchi
+agglomerate
 apothegmatist
 acy
 atriensis
