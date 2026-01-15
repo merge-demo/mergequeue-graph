@@ -6498,7 +6498,6 @@ bepimpling
 bepraiser
 benzocaine
 bituminizing
-bepretty
 bedirt
 beghard
 bejabbers
@@ -9077,6 +9076,7 @@ buzzwords
 biorhythm
 butyrins
 biorhythmicity
+bepretty
 bevellers
 bacteriophagia
 bios
