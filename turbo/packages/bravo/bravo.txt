@@ -12048,7 +12048,6 @@ bromocresol
 befrounce
 blindage
 boilerful
-boilerplate
 boilersmith
 bladdernose
 brackishness
@@ -13259,6 +13258,7 @@ baulking
 bromide
 bullydom
 blitzkriegs
+boilerplate
 beano
 boswellian
 boswelliana
