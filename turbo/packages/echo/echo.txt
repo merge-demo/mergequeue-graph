@@ -5502,7 +5502,6 @@ edessan
 enfeeblish
 effectful
 epilimnetic
-euhemerizing
 etherlike
 enfeoffing
 enfeoffment
@@ -9404,6 +9403,7 @@ eggshell
 escheats
 enamber
 eschel
+euhemerizing
 eschele
 effulging
 ecod
