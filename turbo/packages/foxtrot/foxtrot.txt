@@ -514,6 +514,7 @@ fishbone
 fakirs
 falbelo
 flavone
+fig
 fioretti
 firerooms
 frowny
@@ -3862,7 +3863,6 @@ figurings
 farleu
 fimbrillate
 fany
-fig
 flowerlet
 forfit
 flabbergastingly
