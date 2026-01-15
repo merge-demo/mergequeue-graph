@@ -4000,7 +4000,6 @@ deleteriousness
 dirge
 deletions
 disdub
-departmentize
 dehumanizing
 dealership
 dawtie
@@ -5177,6 +5176,7 @@ deathtraps
 dryopes
 distortedness
 decursion
+departmentize
 denominate
 decadent
 desmosis
