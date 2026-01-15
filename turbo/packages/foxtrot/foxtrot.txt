@@ -4350,7 +4350,6 @@ fencer
 foreconceive
 forb
 furosemide
-focuser
 forfeitable
 frate
 fibroplastic
@@ -7240,6 +7239,7 @@ foregoing
 fissuration
 fledglings
 fetisheer
+focuser
 fratricidal
 foeffment
 flares
