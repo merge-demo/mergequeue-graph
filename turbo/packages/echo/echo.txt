@@ -750,7 +750,6 @@ embryoctony
 equilibrist
 ecoute
 enforcive
-exscinding
 ecphonema
 emotes
 echinal
@@ -6266,6 +6265,7 @@ earmarking
 enrollers
 eche
 excitants
+exscinding
 examined
 etang
 exorcised
