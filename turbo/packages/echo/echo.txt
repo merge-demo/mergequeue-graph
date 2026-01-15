@@ -7807,7 +7807,6 @@ extrudes
 exorcization
 examinership
 endlessness
-embolismic
 ebulliency
 eccentrate
 enterography
@@ -10741,6 +10740,7 @@ etrier
 excelled
 eulimidae
 epicoela
+embolismic
 eulytine
 eelblenny
 eulogias
