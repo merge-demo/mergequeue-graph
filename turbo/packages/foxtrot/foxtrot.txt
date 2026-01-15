@@ -6957,7 +6957,6 @@ feeblemindedness
 fungivorous
 fadeless
 fendy
-firecracker
 frizzler
 flexographically
 faintling
@@ -11613,6 +11612,7 @@ feinschmecker
 fussbudget
 forint
 facsimile
+firecracker
 fortissimi
 farci
 fibrous
