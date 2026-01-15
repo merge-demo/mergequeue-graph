@@ -6218,6 +6218,7 @@ cauch
 cauchillo
 chester
 caucuses
+craftsmen
 concatenation
 caucusses
 caucussing
@@ -6527,7 +6528,6 @@ caviled
 canmaker
 cavilers
 cavilingly
-craftsmen
 ceraunogram
 cronkness
 conrectorship
