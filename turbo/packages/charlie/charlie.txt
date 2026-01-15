@@ -2013,6 +2013,7 @@ camions
 camisa
 camisadoes
 classicising
+clavacin
 cloddy
 camisard
 capsicins
@@ -15660,7 +15661,6 @@ clausule
 cheekily
 clausure
 claut
-clavacin
 clavae
 centres
 claval
