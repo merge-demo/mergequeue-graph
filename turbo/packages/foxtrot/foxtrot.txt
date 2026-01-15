@@ -1494,7 +1494,6 @@ furanose
 foundering
 fient
 forebodingness
-forestology
 freebooters
 formamido
 fastens
@@ -3749,6 +3748,7 @@ fluxing
 francize
 fascistically
 fettlings
+forestology
 fiducial
 forehold
 fibrocystic
