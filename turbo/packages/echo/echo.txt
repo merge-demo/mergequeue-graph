@@ -2699,6 +2699,7 @@ electrotypy
 enolase
 earwigged
 eightyfold
+embryotegae
 esquamulose
 evaporated
 electrovalent
@@ -5247,7 +5248,6 @@ etaerio
 excommunicated
 exactor
 entreatable
-embryotegae
 editors
 endopodite
 exagitation
