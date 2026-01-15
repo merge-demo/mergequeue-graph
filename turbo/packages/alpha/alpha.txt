@@ -15627,7 +15627,6 @@ appaloosa
 accessory
 antinegroism
 antinephritic
-adiaphorite
 antineuritic
 antineutralism
 argyles
@@ -20162,6 +20161,7 @@ arraignment
 aurophobia
 allolalia
 atomy
+adiaphorite
 adenodermia
 arraigns
 apharsathacites
