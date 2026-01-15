@@ -1694,7 +1694,6 @@ gros
 gastroenteritis
 glycerolysis
 galipots
-gunrunning
 girting
 gester
 gluts
@@ -8037,6 +8036,7 @@ goatbeard
 graphologist
 glycosides
 guildry
+gunrunning
 gongorism
 gan
 galempung
