@@ -3620,7 +3620,6 @@ granilla
 goglets
 glottalize
 gigantal
-gld
 grouching
 gedder
 gossipy
@@ -8477,6 +8476,7 @@ gelada
 glossingly
 guajira
 glossopalatinus
+gld
 gov
 ginglymoarthrodial
 grignet
