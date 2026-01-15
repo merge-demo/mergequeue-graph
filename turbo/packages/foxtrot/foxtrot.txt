@@ -668,6 +668,7 @@ forerib
 frissons
 formism
 flan
+forfeits
 folklorish
 furtherly
 faunistical
@@ -7203,7 +7204,6 @@ frolicks
 flathe
 flaccid
 fiscalized
-forfeits
 frizzlers
 faenas
 footpaces
