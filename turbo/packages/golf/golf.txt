@@ -6973,7 +6973,6 @@ goofiness
 grafter
 grutching
 grassflat
-goodies
 gaseousness
 guayabera
 gunnership
@@ -8045,6 +8044,7 @@ gunzian
 glassier
 gratae
 granite
+goodies
 gracy
 gypsydoms
 guttulae
