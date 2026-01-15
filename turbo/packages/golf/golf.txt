@@ -544,7 +544,6 @@ grandmammy
 grandsirs
 germanium
 gurian
-gallera
 gesneriaceae
 gogo
 gonadotrophin
@@ -2606,6 +2605,7 @@ governmentalism
 globulariaceae
 glottis
 geodete
+gallera
 gemmification
 gunpapers
 gyrohorizon

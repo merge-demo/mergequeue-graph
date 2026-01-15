@@ -2529,7 +2529,6 @@ deaminate
 drain
 dotted
 divulgater
-disregarder
 dimers
 dudgen
 drailing
@@ -16955,6 +16954,7 @@ dazedness
 domus
 denutrition
 drearing
+disregarder
 drearly
 drearness
 decimalist
