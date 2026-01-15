@@ -8567,7 +8567,6 @@ fullfil
 fissionable
 fungating
 farmsteading
-forninst
 fricative
 flexor
 fornix
@@ -10442,6 +10441,7 @@ frontstall
 forstall
 frizes
 fellah
+forninst
 ferocity
 februarius
 flaxtail
