@@ -15465,6 +15465,7 @@ brilliantwise
 brilliolette
 brills
 baculites
+batrachoid
 bigothero
 banns
 brimfullness
@@ -16986,7 +16987,6 @@ behears
 bulby
 bidens
 bulbier
-batrachoid
 biplanar
 bacteriotoxin
 bulbiest
