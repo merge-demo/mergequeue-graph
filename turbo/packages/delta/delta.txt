@@ -1507,7 +1507,6 @@ deacetylating
 doarium
 deked
 demigorge
-delphinoidea
 downer
 discourager
 deaconesses
@@ -6340,6 +6339,7 @@ duodenum
 dermosclerite
 deco
 dermotropic
+delphinoidea
 derms
 diacatholicon
 defined
