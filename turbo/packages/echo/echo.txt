@@ -7567,7 +7567,6 @@ extolment
 entoparasitic
 espinos
 euchymous
-epicoelous
 epicondyle
 excysted
 epicondylian
@@ -13820,6 +13819,7 @@ extracarpal
 extrastapedial
 extratropical
 extendible
+epicoelous
 excepted
 edeology
 editorializing
