@@ -15366,6 +15366,7 @@ caenolestes
 clapboarding
 cleidomastoid
 clapboards
+cogonal
 clapcake
 chortled
 coran
@@ -18429,7 +18430,6 @@ craftier
 coherent
 chondromata
 conspiratorially
-cogonal
 cogovernor
 cellularity
 chokey
