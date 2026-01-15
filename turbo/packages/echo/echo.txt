@@ -8312,7 +8312,6 @@ enciphers
 elev
 expressibly
 endured
-enchannel
 exercised
 emulating
 eagling
@@ -13568,6 +13567,7 @@ epochs
 expectative
 exposedness
 energies
+enchannel
 ebeneous
 exsudate
 embowelling
