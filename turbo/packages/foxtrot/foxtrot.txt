@@ -474,6 +474,7 @@ fumble
 foreclosures
 fleetful
 flutebird
+fistulose
 fuseau
 fakeer
 fissiparism
@@ -1455,7 +1456,6 @@ filago
 fireside
 faubourgs
 focussing
-fistulose
 forestial
 faulds
 faultfind
