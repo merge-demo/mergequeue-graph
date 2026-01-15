@@ -3199,7 +3199,6 @@ dictums
 dasyures
 damselflies
 dudelsack
-dashpot
 defeit
 de
 dogdom
@@ -17233,6 +17232,7 @@ dredgings
 driveway
 decrepitation
 dingoes
+dashpot
 deferrizing
 distanced
 driftweed
