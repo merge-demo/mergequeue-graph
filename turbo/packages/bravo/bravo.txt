@@ -2328,7 +2328,6 @@ bubaline
 bullrings
 braggers
 bagger
-bartholomite
 blameably
 baobab
 breloque
@@ -11578,6 +11577,7 @@ blushy
 biddy
 brierwood
 beth
+bartholomite
 bestain
 brightness
 byordinar
