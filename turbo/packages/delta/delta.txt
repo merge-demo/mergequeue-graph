@@ -7804,7 +7804,6 @@ duopod
 dishelmed
 discographies
 devolves
-dactyloid
 daylighted
 diplospondylic
 dispending
@@ -18335,6 +18334,7 @@ dasyproctidae
 disshadow
 debussing
 detonate
+dactyloid
 duodecastyle
 duodecennial
 duodecillions
