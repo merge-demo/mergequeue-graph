@@ -6890,7 +6890,6 @@ facelessness
 floatages
 fruity
 fifes
-fleme
 felafel
 fanakalo
 flintwood
@@ -11380,6 +11379,7 @@ facies
 furnish
 fluorindine
 furnishable
+fleme
 fluoroformol
 frontirostria
 forgiveably
