@@ -4988,6 +4988,7 @@ gunhouse
 gynandrosporous
 goiabada
 glykopectic
+grittier
 grotto
 galleypot
 governesshood
@@ -5760,7 +5761,6 @@ gravemaker
 galera
 galactolysis
 garbel
-grittier
 gade
 graphites
 glycogenolysis
