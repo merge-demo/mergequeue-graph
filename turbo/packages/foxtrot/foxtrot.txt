@@ -472,7 +472,6 @@ ferroprussiate
 feateous
 fumble
 foreclosures
-fleetful
 flutebird
 fistulose
 fuseau
@@ -9786,6 +9785,7 @@ fleck
 faddist
 foamy
 fretum
+fleetful
 fidget
 fluors
 fovilla
