@@ -5359,7 +5359,6 @@ encashment
 eccentrometer
 endothermal
 endothermy
-ectopatagia
 erthling
 echinocactus
 electively
@@ -5857,6 +5856,7 @@ extrazodiacal
 exacerbescence
 epidendral
 exsiccate
+ectopatagia
 engrossedly
 engrosser
 eubacteriales
