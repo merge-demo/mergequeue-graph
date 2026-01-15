@@ -6566,7 +6566,6 @@ fluorhydric
 fortuitist
 flyboats
 falconiform
-foaling
 franseria
 friary
 flunkeyism
@@ -9097,6 +9096,7 @@ furioso
 frothi
 flopover
 fuzee
+foaling
 fruitarian
 fractionalized
 ferriprussic
