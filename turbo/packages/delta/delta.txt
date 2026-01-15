@@ -194,6 +194,7 @@ daemons
 daemonurgist
 defecant
 dysgenic
+dereferences
 disciplinarianism
 daffadilly
 dicatalectic
@@ -938,7 +939,6 @@ decourt
 deboistly
 demivierge
 diachrony
-dereferences
 duskiest
 digonous
 dauts
