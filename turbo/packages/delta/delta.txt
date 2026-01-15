@@ -6628,7 +6628,6 @@ dictyotaceae
 desertfully
 deserticolous
 duction
-driers
 deletes
 doubleganger
 dianisidine
@@ -16620,6 +16619,7 @@ decorates
 dragonish
 drunkeness
 dragonroot
+driers
 dilutant
 detesting
 dragonwort
