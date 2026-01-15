@@ -5820,6 +5820,7 @@ gather
 greekish
 gedrite
 golliwog
+gardeny
 geocarpic
 gastriloquy
 ginglymoarthrodia
@@ -7657,7 +7658,6 @@ gyppery
 greenlet
 gleary
 guamuchil
-gardeny
 grader
 grouseward
 glovey
