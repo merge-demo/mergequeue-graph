@@ -6834,7 +6834,6 @@ gremmie
 gobonee
 gnomonic
 gloryingly
-gypsied
 granulomas
 gloucester
 gaffsman
@@ -6866,6 +6865,7 @@ glis
 gannet
 glibly
 goodenia
+gypsied
 gestated
 gatling
 guyed
