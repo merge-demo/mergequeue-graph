@@ -1515,6 +1515,7 @@ gaolage
 groose
 guaxima
 glandless
+gatherable
 gorlin
 gregarinidal
 grisounite
@@ -8775,7 +8776,6 @@ gorge
 greenling
 grogram
 glaserite
-gatherable
 glyceryls
 gravel
 gazpachos

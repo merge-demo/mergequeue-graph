@@ -24314,7 +24314,6 @@ creation
 crull
 creatable
 classist
-corncutting
 coarrange
 cookeite
 cooker
@@ -24882,6 +24881,7 @@ coralla
 clavodeltoid
 corallian
 corallidae
+corncutting
 corallidomous
 chestful
 congroid
