@@ -3465,6 +3465,7 @@ caldron
 caproin
 concubinate
 camptodrome
+crenelles
 causeuse
 comprehends
 craniovertebral
@@ -28693,7 +28694,6 @@ copeck
 cryochore
 chapacura
 cilice
-crenelles
 crenels
 crengle
 creophagy
