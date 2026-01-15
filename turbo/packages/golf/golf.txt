@@ -4286,6 +4286,7 @@ germicide
 gynetype
 gymnadenia
 glazieries
+glaciology
 glazings
 grieves
 gippy
@@ -4806,7 +4807,6 @@ gladhearted
 greeted
 geometroidea
 giggish
-glaciology
 guideway
 gobiesociform
 gypaetus
