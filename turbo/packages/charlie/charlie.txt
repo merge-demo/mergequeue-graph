@@ -13211,6 +13211,7 @@ cyclization
 cyclizes
 cauld
 cistrons
+chlorogenine
 coulometric
 cycloaliphatic
 cycloalkane
@@ -15068,7 +15069,6 @@ calography
 cumbent
 clabularium
 clach
-chlorogenine
 clack
 clackama
 circumtropical
