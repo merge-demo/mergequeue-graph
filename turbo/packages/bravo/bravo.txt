@@ -8541,7 +8541,6 @@ billabong
 billage
 brumes
 barricading
-bittersweetly
 billboards
 beetrooty
 beshawled
@@ -15358,6 +15357,7 @@ bisquette
 bierstuben
 boggiest
 buddhistical
+bittersweetly
 blaeness
 buggiest
 briered
