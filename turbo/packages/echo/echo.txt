@@ -5522,7 +5522,6 @@ episcopality
 ecphrasis
 endoergic
 enfevering
-emitters
 edwardeanism
 enzootic
 epicardial
@@ -10290,6 +10289,7 @@ enlink
 epiloguing
 endotrophi
 enrobes
+emitters
 eulophid
 ela
 ebullitions

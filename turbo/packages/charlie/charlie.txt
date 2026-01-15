@@ -27235,7 +27235,6 @@ counterwitness
 counterwork
 counterworker
 counterworking
-committee
 carminative
 counting
 clothespress
@@ -27503,6 +27502,7 @@ covariate
 covariates
 covassal
 conclaves
+committee
 cove
 coadunate
 courtzilite
