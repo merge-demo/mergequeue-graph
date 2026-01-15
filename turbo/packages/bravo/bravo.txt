@@ -2069,7 +2069,6 @@ babylonia
 bemock
 bottlelike
 betraise
-bankrupture
 basilissa
 blatherskites
 banksian
@@ -12361,6 +12360,7 @@ bonkers
 beplaided
 bab
 berime
+bankrupture
 band
 buckshee
 brigades
