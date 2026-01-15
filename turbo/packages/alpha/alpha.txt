@@ -4912,7 +4912,6 @@ alimented
 aucupate
 aeroelasticity
 arraigning
-aerofoils
 atmidometry
 adjourned
 amberfish
@@ -6987,6 +6986,7 @@ ayurveda
 aptitudes
 aivers
 adenodiastasis
+aerofoils
 aiwan
 annamitic
 adobo
