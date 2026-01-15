@@ -1988,7 +1988,6 @@ dermatoma
 drover
 demyelinate
 dominated
-deflection
 descloizite
 decadary
 dimethylcarbinol
@@ -12611,6 +12610,7 @@ dysyntribite
 driftfish
 deadhearted
 deodorise
+deflection
 definitise
 dephase
 disinvagination

@@ -1929,6 +1929,7 @@ federalistic
 feoffee
 forksful
 freight
+flushgate
 furling
 fileable
 friable
@@ -8796,7 +8797,6 @@ feucht
 frigorimeter
 fluidible
 flighthead
-flushgate
 forespoke
 flagellulae
 frakfurt
