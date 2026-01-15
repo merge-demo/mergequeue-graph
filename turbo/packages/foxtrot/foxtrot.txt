@@ -1909,7 +1909,6 @@ flitched
 fainly
 filicologist
 flowerlessness
-fanatics
 fascicularly
 flimsy
 forgiver
@@ -3534,6 +3533,7 @@ fath
 flaggelating
 filaments
 fistule
+fanatics
 flexibility
 formularise
 filarian
