@@ -7888,6 +7888,7 @@ exuccous
 exarchic
 eidola
 enlargement
+epeiridae
 ethonone
 euphemistic
 eclampsia
@@ -12785,7 +12786,6 @@ encounterable
 emancipative
 exospore
 endrumpf
-epeiridae
 enthusiastical
 eurycerotidae
 epomophorus
