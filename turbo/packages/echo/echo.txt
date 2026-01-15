@@ -5928,7 +5928,6 @@ enheritance
 epicondylitis
 eking
 expectorates
-enframing
 enigma
 egotism
 enigmas
@@ -9055,6 +9054,7 @@ ectasia
 epistropheus
 echevaria
 equivocations
+enframing
 educe
 erythrolein
 enteromorpha
