@@ -7355,6 +7355,7 @@ blanketmaking
 basest
 bewrayers
 biorhythmicities
+biodynamics
 bethorns
 befogs
 bolometer
@@ -8913,7 +8914,6 @@ biodegraded
 biodegrading
 biodynamical
 bridoon
-biodynamics
 buccinoid
 botherer
 blattered
