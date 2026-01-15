@@ -2436,7 +2436,6 @@ exendospermic
 engrails
 earthquaked
 exaration
-ejulation
 epidemiologies
 engladden
 elutriate
@@ -12285,6 +12284,7 @@ exemptions
 ephemerist
 extinguishers
 eviternal
+ejulation
 excerp
 exemptive
 exendospermous

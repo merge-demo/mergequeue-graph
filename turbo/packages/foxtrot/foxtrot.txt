@@ -6507,6 +6507,7 @@ fortifying
 flexuousness
 fulminant
 floggingly
+forwore
 floodboard
 fierabras
 flytail
@@ -10852,7 +10853,6 @@ fallout
 fontal
 frisky
 flagitiously
-forwore
 frondosely
 frousy
 fabledom
