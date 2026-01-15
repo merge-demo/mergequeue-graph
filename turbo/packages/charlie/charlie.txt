@@ -1302,6 +1302,7 @@ calfskin
 creatural
 calgary
 caliban
+comte
 cunea
 calaverite
 caliber
@@ -28839,7 +28840,6 @@ creta
 counterorator
 chirographic
 commander
-comte
 cretaceously
 creach
 cretacic
