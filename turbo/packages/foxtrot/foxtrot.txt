@@ -2081,7 +2081,6 @@ fogle
 federalist
 floriculture
 felicitator
-frightened
 floria
 foredefine
 fainty
@@ -10632,6 +10631,7 @@ freezingly
 friandise
 fruitbearing
 foremark
+frightened
 fusc
 frankness
 fiddlededee
