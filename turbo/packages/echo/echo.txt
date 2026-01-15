@@ -5614,6 +5614,7 @@ extispicy
 echinoderes
 elevational
 epitritic
+endergonic
 excesses
 evelyn
 exiguities
@@ -13152,7 +13153,6 @@ ectally
 elderwoman
 epiphonema
 epistlar
-endergonic
 eugenist
 ereptase
 ethnicize
