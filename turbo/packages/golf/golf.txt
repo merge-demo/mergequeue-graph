@@ -5192,6 +5192,7 @@ gerbils
 gentianose
 gieseckite
 gena
+guazzo
 geogenesis
 grottesco
 geometricism
@@ -6575,7 +6576,6 @@ gambeson
 grummets
 girons
 gimmerpet
-guazzo
 groyne
 goulan
 ghostwrite
