@@ -5003,7 +5003,6 @@ gonocheme
 granulose
 genesiology
 garavance
-glowed
 gelt
 geosynclinal
 glaum
@@ -8840,6 +8839,7 @@ gastral
 grandparenthood
 galeidae
 gardenlike
+glowed
 globe
 gnostic
 girsle
