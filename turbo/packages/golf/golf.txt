@@ -3861,7 +3861,6 @@ groszy
 gels
 gaelicization
 glumpy
-glazed
 gloweringly
 gigahertzes
 galloperdix
@@ -4087,6 +4086,7 @@ gratifiedly
 gilder
 glycerogelatin
 giraffish
+glazed
 genapper
 gimleteyed
 glutamine
