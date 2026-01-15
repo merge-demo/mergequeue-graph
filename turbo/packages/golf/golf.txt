@@ -1422,7 +1422,6 @@ grizzliest
 gipsire
 goodnight
 graphological
-gashing
 grandgore
 garancine
 geneva
@@ -5100,6 +5099,7 @@ geyan
 glycocholic
 glaga
 gasless
+gashing
 gascon
 glinting
 glaucidium
