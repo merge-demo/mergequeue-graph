@@ -3972,6 +3972,7 @@ bumpiest
 bisulphate
 backstays
 bratty
+basics
 boltspreet
 banyan
 bondon
@@ -9153,7 +9154,6 @@ booklouse
 bruted
 banksides
 biotins
-basics
 beefhead
 biogeographer
 biotypes
