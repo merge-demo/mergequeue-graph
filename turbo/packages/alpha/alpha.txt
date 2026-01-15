@@ -15140,7 +15140,6 @@ athena
 admonish
 antieducation
 antieducational
-abstr
 arkansas
 almemor
 antiegotistic
@@ -21168,6 +21167,7 @@ airth
 amniorrhea
 ambiens
 affinitative
+abstr
 arabella
 acquittal
 agriochoeridae
