@@ -3881,7 +3881,6 @@ figurato
 fionnuala
 fanwe
 foregrounds
-frequencies
 fits
 fortuitously
 fecundating
@@ -5982,6 +5981,7 @@ foolscaps
 felspars
 flacon
 fumattoria
+frequencies
 foo
 fidiculae
 ferroelectrically
