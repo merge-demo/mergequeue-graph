@@ -1580,6 +1580,7 @@ glutelin
 gripe
 glassless
 ghegish
+gaited
 gregarinoidea
 gluelikeness
 gout
@@ -5229,7 +5230,6 @@ grindery
 grissons
 gambian
 gloamings
-gaited
 gemmipara
 golgi
 golf
