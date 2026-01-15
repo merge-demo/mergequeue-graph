@@ -8082,6 +8082,7 @@ fumacious
 farceur
 floodplain
 fragilaria
+flamboyer
 formalized
 feasances
 feminines
@@ -9383,7 +9384,6 @@ forequoted
 finickiness
 frowzier
 fractionised
-flamboyer
 franticly
 folksong
 fossor
