@@ -3118,7 +3118,6 @@ disestablisher
 disbodied
 demihuman
 defamy
-delegating
 desmoneme
 delicious
 dihydrite
@@ -13761,6 +13760,7 @@ degression
 damndests
 dangering
 downlooker
+delegating
 disbarments
 dissolvingly
 darwinical
