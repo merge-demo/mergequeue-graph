@@ -5870,7 +5870,6 @@ epidendral
 exsiccate
 engrossedly
 engrosser
-endocarditic
 eubacteriales
 essayers
 echoer
@@ -12355,6 +12354,7 @@ exfoliative
 ebbman
 erodibility
 exhalents
+endocarditic
 etude
 entermise
 exhales
