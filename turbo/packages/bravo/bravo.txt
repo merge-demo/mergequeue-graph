@@ -1665,7 +1665,6 @@ bambara
 barbuts
 bestrews
 blandiloquious
-bogtrot
 boycotter
 ballsiest
 bengali
@@ -11907,6 +11906,7 @@ basinasial
 baggily
 bogach
 blabs
+bogtrot
 becrush
 berth
 bushelwoman
