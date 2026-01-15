@@ -2302,6 +2302,7 @@ galante
 gumihan
 gestant
 grosse
+giddyberry
 gripmen
 geological
 grallatorial
@@ -6730,7 +6731,6 @@ georgic
 gulash
 graminivorous
 galvanolysis
-giddyberry
 glucide
 groomy
 girlfriends
