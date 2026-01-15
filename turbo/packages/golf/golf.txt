@@ -2928,7 +2928,6 @@ geocerite
 glove
 gubernation
 greenheaded
-gallons
 glabreity
 gulley
 growlier
@@ -5806,6 +5805,7 @@ gastrodisk
 gurjara
 glowingly
 glows
+gallons
 grinny
 geometrize
 gorgeable
