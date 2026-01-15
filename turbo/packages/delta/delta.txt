@@ -11277,6 +11277,7 @@ directories
 dodginess
 downsome
 desponsage
+dustbin
 diesel
 disadvantagedness
 diptyca
@@ -11821,7 +11822,6 @@ disculpatory
 deashes
 deathwatch
 decrement
-dustbin
 dhourras
 discure
 discriminates
