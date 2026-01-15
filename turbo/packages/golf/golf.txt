@@ -3946,7 +3946,6 @@ glossoscopia
 geoty
 gads
 gorgoneioneia
-gastrological
 guested
 giggliest
 geds
@@ -4290,6 +4289,7 @@ gippy
 grads
 gluttonous
 garganeys
+gastrological
 gustativeness
 guiltsick
 gnocchetti
