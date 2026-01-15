@@ -10442,6 +10442,7 @@ ametabolic
 accidents
 ametallous
 amphicytula
+artiad
 apa
 autogenetic
 alkanna
@@ -20688,7 +20689,6 @@ atlaslike
 annunciates
 afflicts
 alumines
-artiad
 artichoke
 acidimetrical
 afghani
