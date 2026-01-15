@@ -13747,7 +13747,6 @@ bovate
 bonniness
 besmirching
 bries
-bannermen
 baldachinos
 burnable
 bejig
@@ -17050,6 +17049,7 @@ bulkheading
 bulky
 bulkier
 bulkily
+bannermen
 bitterweed
 befavour
 bihydrazine
