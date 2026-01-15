@@ -8934,7 +8934,6 @@ dichotomize
 despraise
 demographic
 demonstrably
-dub
 dail
 dihydride
 dated
@@ -9204,6 +9203,7 @@ discontented
 dieldrin
 derelict
 decahedrodra
+dub
 dieldrins
 deferred
 dielectric
