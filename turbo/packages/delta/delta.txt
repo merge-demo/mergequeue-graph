@@ -668,7 +668,6 @@ ditroite
 damon
 damosel
 drachms
-divorcement
 decapitalize
 damped
 desquamated
@@ -16751,6 +16750,7 @@ dratting
 draught
 distal
 draughtboard
+divorcement
 daub
 draughtier
 divulsive
