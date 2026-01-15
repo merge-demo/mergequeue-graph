@@ -3534,6 +3534,7 @@ brabbling
 balotade
 blue
 batfishes
+bioclimatician
 biri
 batfowl
 bassists
@@ -8891,7 +8892,6 @@ biocidal
 bookcases
 bioclimatic
 bowwoman
-bioclimatician
 bathwater
 bavoso
 blabber
