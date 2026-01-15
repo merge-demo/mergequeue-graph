@@ -17220,6 +17220,7 @@ coalescence
 cellarless
 coitions
 coalescency
+credentials
 candlesnuffer
 coalescent
 combustibility
@@ -28535,7 +28536,6 @@ countercampaign
 croomia
 cueva
 cystines
-credentials
 credently
 crawleyroot
 credenza
