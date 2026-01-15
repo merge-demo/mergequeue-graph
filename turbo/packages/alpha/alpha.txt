@@ -9707,6 +9707,7 @@ asepalous
 altiplanicie
 aphthonite
 antennule
+alisos
 anglicans
 alvar
 anecdotist
@@ -17683,7 +17684,6 @@ anopsia
 adultness
 allworthy
 alphabetizes
-alisos
 armariolum
 assoilment
 aegeriidae
