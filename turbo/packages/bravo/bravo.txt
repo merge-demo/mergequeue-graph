@@ -4998,6 +4998,7 @@ beest
 babbools
 bibation
 bindweb
+bromatology
 ballonette
 bilinguist
 boodling
@@ -9800,7 +9801,6 @@ babblingly
 bubblebow
 bisulfate
 biblioklept
-bromatology
 bocca
 bitable
 bidialectal
