@@ -9400,6 +9400,7 @@ citoyen
 clickless
 chazan
 chazanim
+chinalike
 capette
 chazans
 chazanut
@@ -10701,7 +10702,6 @@ complementarism
 chinafy
 cuapinole
 cartilages
-chinalike
 collinearity
 communicates
 cyanformic
