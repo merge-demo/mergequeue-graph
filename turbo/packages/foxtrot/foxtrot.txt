@@ -8928,7 +8928,6 @@ fiacre
 footle
 feldspath
 feverwort
-filament
 favositoid
 formally
 felty
@@ -9772,6 +9771,7 @@ fresison
 fraudless
 flavia
 fresno
+filament
 fress
 fret
 fusionism
