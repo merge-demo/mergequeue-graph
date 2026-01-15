@@ -7157,7 +7157,6 @@ dindles
 desuvre
 devoutful
 decess
-dempne
 disguisements
 duit
 deacetylation
@@ -11261,6 +11260,7 @@ deadeyes
 dimmable
 discarded
 dulceness
+dempne
 dalliers
 drainageway
 difluoride
