@@ -2723,7 +2723,6 @@ beadflush
 bemaul
 barnman
 braconids
-barnstormer
 barnstorming
 besmearing
 borages
@@ -5309,6 +5308,7 @@ beglerbeglic
 bakalai
 burka
 behew
+barnstormer
 brahmaic
 beglerbegluc
 biannulate
