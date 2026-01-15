@@ -5236,7 +5236,6 @@ epitomatory
 etaerio
 excommunicated
 exactor
-entreatable
 editors
 endopodite
 exagitation
@@ -11786,6 +11785,7 @@ elaphrium
 euryon
 exaudi
 ethenoidal
+entreatable
 exaun
 earthrise
 ectomorphy
