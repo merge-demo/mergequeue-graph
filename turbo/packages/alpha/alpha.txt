@@ -9834,7 +9834,6 @@ aspergillums
 arteriectomy
 aeroplane
 aposthia
-amanous
 antiauxin
 amante
 allured
@@ -16992,6 +16991,7 @@ airways
 abortus
 aplanogamete
 areally
+amanous
 antifermentative
 alveolars
 affreight
