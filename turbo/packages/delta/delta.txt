@@ -7291,7 +7291,6 @@ denegate
 dessa
 deplaned
 dipneumona
-demifarthing
 decarbonating
 deckings
 dishevely
@@ -11544,6 +11543,7 @@ discomposedness
 desmachymatous
 dements
 dyspnoi
+demifarthing
 drees
 dispassionately
 dipt
