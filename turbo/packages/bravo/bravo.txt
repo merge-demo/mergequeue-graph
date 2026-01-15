@@ -8295,6 +8295,7 @@ boers
 bourtrees
 bureaucratically
 bigeminum
+boroughmonger
 biconditional
 billie
 bowermaiden
@@ -13130,7 +13131,6 @@ borotungstate
 borough
 bouquetin
 biseriate
-boroughmonger
 bugged
 blaspheme
 basileis
