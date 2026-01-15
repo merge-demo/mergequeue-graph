@@ -19736,6 +19736,7 @@ acicula
 aristotype
 aristotle
 arytenoepiglottic
+astigmatometry
 amphiblestritis
 alfuro
 ambatch
@@ -22211,7 +22212,6 @@ absorbedly
 astigmatometer
 atrocoeruleus
 asthenosphere
-astigmatometry
 acheer
 arthroncus
 accruals
