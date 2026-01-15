@@ -12421,6 +12421,7 @@ dilatatory
 dampne
 dishome
 dishonor
+dodecasyllable
 distendedness
 dishonorer
 doctrinairism
@@ -14907,7 +14908,6 @@ destructive
 dodecarch
 dodecasemic
 decadi
-dodecasyllable
 discretionarily
 demonising
 dichromat
