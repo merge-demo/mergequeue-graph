@@ -9816,6 +9816,7 @@ fribbler
 friskle
 foreappointment
 fricace
+fusiliers
 fricandeaux
 fuliginously
 foozlers
@@ -10515,7 +10516,6 @@ frouziest
 flite
 foldstool
 floristry
-fusiliers
 fetichmonger
 firemen
 frowl
