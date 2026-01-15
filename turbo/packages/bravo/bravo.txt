@@ -9206,7 +9206,6 @@ beggared
 bogo
 bourbonesque
 bipeds
-bipeltate
 benettle
 bipennate
 brunches
@@ -12785,6 +12784,7 @@ byronite
 bookworm
 bookwright
 booleys
+bipeltate
 booly
 backhanding
 betatters
