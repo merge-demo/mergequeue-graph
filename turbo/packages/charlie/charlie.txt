@@ -11461,6 +11461,7 @@ chocoan
 chocolate
 chocolatey
 chine
+cinematography
 chocolates
 chocolatiere
 concentred
@@ -13775,7 +13776,6 @@ cinematically
 costotomies
 cinematizing
 cinematograph
-cinematography
 clarenceuxship
 chromocenter
 culpably
