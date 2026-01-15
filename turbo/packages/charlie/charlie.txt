@@ -16000,7 +16000,6 @@ cluppe
 cleruchies
 cardroom
 clerum
-counterindentation
 caraculs
 clerus
 chremzel
@@ -21411,6 +21410,7 @@ churchier
 concluded
 concludent
 concludently
+counterindentation
 contacting
 concluder
 cymbium
