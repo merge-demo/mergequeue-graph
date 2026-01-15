@@ -5253,7 +5253,6 @@ endorsable
 excerpt
 extravagation
 enrolles
-ethylmorphine
 excretolic
 enslaves
 endocorpuscular
@@ -11952,6 +11951,7 @@ enlist
 epithecate
 exactress
 enarthroses
+ethylmorphine
 enteromesenteric
 epistemophilic
 evaporation
