@@ -3966,6 +3966,7 @@ geoscientist
 gourdiness
 gunlaying
 garrotted
+goll
 goat
 gynostemiumia
 grubbily
@@ -6489,7 +6490,6 @@ glaciologist
 germinatively
 gonapophysial
 gabert
-goll
 gravelled
 guddling
 genetic
