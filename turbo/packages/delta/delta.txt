@@ -6070,7 +6070,6 @@ dendrometer
 deracinating
 demasculinising
 domiciliar
-deracination
 divinising
 decurring
 dispraiser
@@ -11949,6 +11948,7 @@ disembogued
 diarian
 deceases
 deliciate
+deracination
 dictionaries
 diducing
 disemboweling
