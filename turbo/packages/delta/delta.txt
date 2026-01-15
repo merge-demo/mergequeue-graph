@@ -3314,7 +3314,6 @@ donated
 definiens
 diapnoe
 derencephalocele
-dolabre
 decigram
 dartrous
 definish
@@ -14451,6 +14450,7 @@ disillusionized
 defaulter
 disjointing
 duopolist
+dolabre
 denies
 deindividualize
 dindymene
