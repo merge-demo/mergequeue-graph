@@ -1759,7 +1759,6 @@ burse
 blends
 baltimore
 bumblebeefishes
-berrugate
 bares
 baluba
 berogue
@@ -6746,6 +6745,7 @@ barracudina
 bufonid
 bushiest
 berry
+berrugate
 buchnerite
 binturong
 brotherlike
