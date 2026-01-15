@@ -4696,7 +4696,6 @@ guanacos
 gallinula
 gynodioecism
 gymnasiast
-gentilities
 gumshoe
 glucosuria
 grudgingly
@@ -10726,6 +10725,7 @@ gaddi
 grypotherium
 gustard
 guergal
+gentilities
 gustatorial
 groupie
 gustfully
