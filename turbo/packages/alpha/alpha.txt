@@ -12327,7 +12327,6 @@ anda
 arborise
 astylospongia
 analog
-andabatism
 antinous
 atheromatous
 anaclete
@@ -19477,6 +19476,7 @@ acaena
 argillaceous
 affectively
 amphipodiform
+andabatism
 armgaunt
 archwife
 argillic
