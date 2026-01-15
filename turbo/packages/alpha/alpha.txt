@@ -1147,6 +1147,7 @@ assurgency
 ankylotomy
 audace
 attractive
+autotomize
 academized
 acadialite
 alpenstocker
@@ -4252,7 +4253,6 @@ adposition
 acmispon
 azonium
 armorer
-autotomize
 alchornea
 aesculapius
 assubjugate
