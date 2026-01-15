@@ -4705,7 +4705,6 @@ democracy
 diploneural
 diethylaminoethanol
 democracies
-deemstership
 dagswain
 democrat
 dawdles
@@ -10946,6 +10945,7 @@ disaffirmance
 dheri
 dictyosiphon
 disaffirmation
+deemstership
 decidedness
 disaffirming
 dermococcus
