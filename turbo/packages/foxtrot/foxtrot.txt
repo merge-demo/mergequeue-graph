@@ -6918,7 +6918,6 @@ formeret
 filibusterous
 freeway
 finely
-foll
 facia
 fedarie
 formalisation
@@ -9146,6 +9145,7 @@ fenagles
 farrieries
 foreclosing
 foreteller
+foll
 fracturing
 federarie
 flock
