@@ -6587,7 +6587,6 @@ gluconeogenetic
 genty
 gallinula
 guesswork
-gonycampsis
 gastrohyperneuria
 guerillas
 galeass
@@ -8888,6 +8887,7 @@ gratuitously
 goniotheca
 glaucochroite
 grizard
+gonycampsis
 groundberry
 gunfight
 gressoria
