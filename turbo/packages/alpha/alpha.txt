@@ -19938,7 +19938,6 @@ arkansawyer
 armorican
 adenofibrosis
 anagnorisis
-apperceived
 animalculism
 astrocytomata
 arterialized
@@ -25139,6 +25138,7 @@ anthidium
 abhominable
 addled
 ahem
+apperceived
 apron
 antirabies
 axiomatical
