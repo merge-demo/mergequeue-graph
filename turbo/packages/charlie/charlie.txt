@@ -6339,7 +6339,6 @@ calycular
 causal
 candystick
 causality
-causalities
 causally
 cyphellate
 causate
@@ -8962,6 +8961,7 @@ continuo
 charioting
 chariotman
 collegiately
+causalities
 chondri
 chaplaincy
 chalchihuitl
