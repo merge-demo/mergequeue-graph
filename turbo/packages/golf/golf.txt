@@ -7867,6 +7867,7 @@ galvanometrical
 groom
 grammarless
 grammaticaster
+gearman
 goff
 garlandlike
 gabbais
@@ -8043,7 +8044,6 @@ gravicembali
 gravat
 gastrulas
 gunzian
-gearman
 glassier
 gratae
 granite
