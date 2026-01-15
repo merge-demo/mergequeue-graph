@@ -5853,7 +5853,6 @@ crumbs
 commercia
 categorized
 categorizer
-categorizes
 chromeplated
 cabas
 crawling
@@ -17241,6 +17240,7 @@ cleans
 crumple
 coalizer
 coalless
+categorizes
 coalmouse
 commentaries
 counterdrain
