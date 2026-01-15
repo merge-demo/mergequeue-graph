@@ -14422,6 +14422,7 @@ cipolins
 cirri
 cogit
 cirribranch
+coparcenary
 cirriferous
 colonialism
 courtezan
@@ -24492,7 +24493,6 @@ copaliferous
 copalite
 copalm
 coparcenar
-coparcenary
 cyclopropane
 comic
 coparcener
