@@ -10764,6 +10764,7 @@ amire
 anthracometric
 amyris
 amyrol
+afterfruits
 amyroot
 allodiaries
 alodiary
@@ -22570,7 +22571,6 @@ appellants
 antimilitarism
 aerogene
 adorability
-afterfruits
 aspermic
 atechnical
 atef
