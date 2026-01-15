@@ -11952,7 +11952,6 @@ arterious
 acquiesence
 arboreta
 athetoids
-afterharm
 alcaligenes
 anaphases
 anaphe
@@ -14686,6 +14685,7 @@ antiar
 antilogarithm
 apastra
 aetiotropic
+afterharm
 anthropomorphism
 alchemical
 antiarins
