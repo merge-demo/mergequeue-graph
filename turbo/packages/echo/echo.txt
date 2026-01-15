@@ -2981,6 +2981,7 @@ enallage
 elinguate
 enfield
 eleatic
+enodally
 eleoblast
 evaluate
 extine
@@ -9861,7 +9862,6 @@ enstatite
 equivalency
 encodes
 epidemical
-enodally
 encave
 electrotelethermometer
 editorial
