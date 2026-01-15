@@ -2486,7 +2486,6 @@ foamlike
 fris
 flea
 fibrinoid
-fry
 fernyear
 funs
 fernshaw
@@ -3916,6 +3915,7 @@ faulty
 farmy
 formature
 fischerite
+fry
 forebrain
 firmamental
 fraple
