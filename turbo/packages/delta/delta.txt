@@ -3541,7 +3541,6 @@ drumlin
 defunction
 deul
 disfrock
-disseminate
 diethylamine
 disenchanter
 defunctionalize
@@ -7271,6 +7270,7 @@ diffusivity
 dollies
 diaxone
 disturbor
+disseminate
 dinginess
 desiccative
 doukhobor
