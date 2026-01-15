@@ -8553,7 +8553,6 @@ cohesibility
 chancriform
 chancroid
 chrestomathic
-chainstitch
 chancroidal
 chorgi
 chandala
@@ -31678,6 +31677,7 @@ casked
 clears
 coth
 cushiness
+chainstitch
 cushing
 cushion
 claypan
