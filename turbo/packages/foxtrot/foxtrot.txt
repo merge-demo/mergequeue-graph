@@ -5799,6 +5799,7 @@ fluoridations
 fritted
 firehouse
 figgery
+functionalism
 furbishes
 flintlocks
 filemark
@@ -9468,7 +9469,6 @@ floatman
 florets
 flanneling
 fibdom
-functionalism
 faveoluli
 flambeaus
 frazzling
