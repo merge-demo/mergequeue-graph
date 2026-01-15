@@ -4228,7 +4228,6 @@ adornation
 acerbophobia
 amphibalus
 apartado
-apologizers
 affy
 argentation
 assiduity
@@ -10647,6 +10646,7 @@ amyloclastic
 assists
 aponogetonaceae
 antiredeposition
+apologizers
 annularly
 aggregations
 amylogenic
