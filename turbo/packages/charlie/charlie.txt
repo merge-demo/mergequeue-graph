@@ -9537,6 +9537,7 @@ checkpointing
 combmaking
 concionate
 checkpoints
+condense
 commonize
 cogitative
 checkrack
@@ -21611,7 +21612,6 @@ crick
 condensator
 corbeled
 crateris
-condense
 condensed
 condensedness
 condenses
