@@ -3239,7 +3239,6 @@ dapicho
 defensibleness
 downsizes
 drays
-defensibly
 defensively
 deferents
 datiscetin
@@ -11012,6 +11011,7 @@ derah
 defamingly
 dogmatising
 disanalogy
+defensibly
 deinosauria
 disanalogous
 disanchor
