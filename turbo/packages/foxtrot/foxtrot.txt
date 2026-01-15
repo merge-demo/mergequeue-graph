@@ -3990,6 +3990,7 @@ flattish
 forfeited
 forlay
 flunk
+folsom
 ferric
 furazolidone
 fluorosis
@@ -4597,7 +4598,6 @@ fibrocalcareous
 filagrees
 ferring
 flowmanostat
-folsom
 footweary
 foresaying
 formulising
