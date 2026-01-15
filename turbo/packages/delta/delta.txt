@@ -10044,7 +10044,6 @@ dauphins
 demological
 dynamograph
 dauerschlaf
-dynamometamorphic
 disseverance
 dynamometrical
 dodipole
@@ -17729,6 +17728,7 @@ disinvest
 dedifferentiation
 decanonization
 dubbins
+dynamometamorphic
 dicarbonate
 demutization
 dubio
