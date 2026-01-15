@@ -12785,7 +12785,6 @@ byronite
 bookworm
 bookwright
 booleys
-bardy
 booly
 backhanding
 betatters
@@ -17041,6 +17040,7 @@ baler
 bimahs
 binoxide
 bishoping
+bardy
 bulkage
 boldfaces
 burt
