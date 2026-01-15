@@ -2907,6 +2907,7 @@ antialbumose
 augustest
 areographically
 acrosomes
+anaphorical
 autolimnetic
 aneurysms
 anapsid
@@ -6740,7 +6741,6 @@ antemetic
 ardour
 agribusiness
 antiglare
-anaphorical
 armlocks
 airable
 avenue
