@@ -4234,6 +4234,7 @@ beauti
 beauty
 brachyphalangia
 bracing
+besmudging
 brumstone
 breadwinners
 bocaccios
@@ -13723,7 +13724,6 @@ bedmaker
 blossomtime
 boatyard
 bromocyanogen
-besmudging
 boutonnieres
 boutons
 barrelful
