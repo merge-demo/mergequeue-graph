@@ -4635,7 +4635,6 @@ gentrice
 graphophobia
 gyronny
 gamophyllous
-guamuchil
 gravitational
 gyrophoraceous
 glance
@@ -7662,6 +7661,7 @@ geodynamics
 gyppery
 greenlet
 gleary
+guamuchil
 gardeny
 grader
 grouseward
