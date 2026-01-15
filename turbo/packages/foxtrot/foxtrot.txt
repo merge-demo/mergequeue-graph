@@ -3801,7 +3801,6 @@ foxer
 filmstrips
 filo
 filose
-ferrier
 furnitureless
 foreflap
 filterableness
@@ -9939,6 +9938,7 @@ flairs
 floatingly
 fishworks
 frumentum
+ferrier
 flatlanders
 flanche
 frantic
