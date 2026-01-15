@@ -250,7 +250,6 @@ bacile
 bacillaceae
 brarow
 bacillariaceae
-baldric
 buried
 blotless
 balancedness
@@ -16320,6 +16319,7 @@ bulimic
 bossing
 bifurcal
 bubonoceze
+baldric
 brachyuranic
 bihari
 basson
