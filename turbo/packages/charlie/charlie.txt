@@ -6160,7 +6160,6 @@ celiotomy
 corrobori
 chimaeroidei
 cornfactor
-cattycornered
 cattyman
 cirl
 cinnamylidene
@@ -30673,6 +30672,7 @@ coprocessing
 cuddies
 cuddyhole
 cheero
+cattycornered
 cuddleable
 cuddled
 cuddlesome
