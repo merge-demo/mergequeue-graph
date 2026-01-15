@@ -5081,6 +5081,7 @@ fitout
 freighting
 falasha
 forebespeak
+firepans
 fatherling
 fractionise
 funking
@@ -11341,7 +11342,6 @@ fluoroid
 fustinella
 forewind
 fraxinus
-firepans
 feuds
 fiasco
 fannies
