@@ -1623,6 +1623,7 @@ fraischeur
 funfair
 favoredly
 fawned
+foregather
 fretize
 fleaseed
 fellmongery
@@ -5300,7 +5301,6 @@ faitery
 flb
 fantasque
 flutey
-foregather
 fifteen
 fumarole
 feasts
