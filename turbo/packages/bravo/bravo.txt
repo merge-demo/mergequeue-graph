@@ -4215,7 +4215,6 @@ beatnik
 beatrix
 bonging
 bonged
-beatuti
 brachet
 blockiness
 bigot
@@ -14496,6 +14495,7 @@ brancard
 briarroot
 bahan
 branchiomeric
+beatuti
 branchellion
 blattoidea
 babroot
