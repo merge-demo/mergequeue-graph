@@ -7434,7 +7434,6 @@ foy
 fossick
 fiftypenny
 feminine
-frumpier
 filipendulous
 funditores
 fantasists
@@ -10846,6 +10845,7 @@ forficate
 flaminian
 fortified
 fumblingly
+frumpier
 fallout
 fontal
 frisky
