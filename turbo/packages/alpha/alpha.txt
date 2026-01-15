@@ -577,7 +577,6 @@ albuca
 antiquarian
 abn
 agrania
-alphameric
 abnegates
 anthropomancy
 abrotanum
@@ -636,6 +635,7 @@ asparagine
 abolitionist
 aesc
 anemological
+alphameric
 arousal
 athamantin
 adherend
