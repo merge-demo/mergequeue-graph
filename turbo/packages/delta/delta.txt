@@ -11700,7 +11700,6 @@ discoach
 dioramas
 discoverable
 distilland
-disworth
 dorms
 discoverer
 diabolised
@@ -17943,6 +17942,7 @@ deputationist
 dockage
 dulcin
 dissembled
+disworth
 displeasurement
 dufrenoysite
 deallocated
