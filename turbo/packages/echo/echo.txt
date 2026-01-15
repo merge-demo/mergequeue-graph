@@ -2931,6 +2931,7 @@ equivalvular
 enricher
 exploiters
 epagomenal
+elaphebolion
 evolute
 endoplast
 etrogim
@@ -5626,7 +5627,6 @@ epithi
 exhibitorial
 exquisitism
 enframed
-elaphebolion
 ethnarch
 ellipsonic
 enfranchisements
