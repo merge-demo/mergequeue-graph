@@ -8320,7 +8320,6 @@ endiadem
 epithyme
 extacie
 eumoiriety
-eloped
 epityphlitis
 erythrosinophile
 effrenate
@@ -11074,6 +11073,7 @@ esquiredom
 encage
 entune
 emulated
+eloped
 emblemish
 eutaenia
 etheostomoid
