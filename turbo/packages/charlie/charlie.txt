@@ -17687,6 +17687,7 @@ counternoise
 cockpit
 couched
 cinchonin
+colleries
 comaking
 chemosmoic
 catan
@@ -23634,7 +23635,6 @@ carroccio
 constituted
 contrabassist
 corkwood
-colleries
 calelectrical
 contraception
 conchological
