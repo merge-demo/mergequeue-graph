@@ -8471,6 +8471,7 @@ downset
 directionize
 dodecyl
 downgrades
+dorcopsis
 diamondbacked
 debaucher
 declassify
@@ -13592,7 +13593,6 @@ dilambdodont
 disagreeably
 demicritic
 drawnet
-dorcopsis
 dissentive
 diavolo
 datakit
