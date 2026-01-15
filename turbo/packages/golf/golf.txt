@@ -4697,7 +4697,6 @@ gallinula
 gynodioecism
 gymnasiast
 gumshoe
-glucosuria
 grudgingly
 garnisheeing
 genista
@@ -10321,6 +10320,7 @@ gastroenterology
 gridder
 gloomed
 gul
+glucosuria
 gaming
 gladiest
 goldfishes
