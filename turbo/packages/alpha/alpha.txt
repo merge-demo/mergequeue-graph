@@ -18111,6 +18111,7 @@ aptiana
 aptychus
 aptitude
 aptnesses
+avouchment
 autohypnotization
 anises
 amuletic
@@ -19416,7 +19417,6 @@ anacrisis
 arsacid
 affies
 albespine
-avouchment
 assortedness
 aseptify
 anagogically
