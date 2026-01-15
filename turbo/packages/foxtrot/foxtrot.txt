@@ -2224,6 +2224,7 @@ fuliguline
 freezing
 flatcars
 fructosan
+flapjacks
 ferrara
 forlornest
 fightingly
@@ -3572,7 +3573,6 @@ fixates
 florigraphy
 forspoken
 feddan
-flapjacks
 fussle
 fairbanks
 fourniture

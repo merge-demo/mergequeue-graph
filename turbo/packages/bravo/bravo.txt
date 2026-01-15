@@ -4937,7 +4937,6 @@ beefier
 bequest
 beefiest
 beefsteak
-beeftongue
 biers
 beefwoods
 beegerite
@@ -6448,6 +6447,7 @@ bisulcate
 bulldogged
 biostratigraphy
 borderings
+beeftongue
 bergmannite
 bilati
 beothukan
