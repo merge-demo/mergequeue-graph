@@ -3628,6 +3628,7 @@ gro
 gastroenterological
 gluconeogenic
 goldest
+gastrotubotomy
 gauntleted
 gillnetting
 gonadotropic
@@ -8217,7 +8218,6 @@ gansel
 gerontotherapies
 grisard
 graphitize
-gastrotubotomy
 glacioaqueous
 goldbug
 gutturalising
