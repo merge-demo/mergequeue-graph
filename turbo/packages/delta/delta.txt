@@ -13633,6 +13633,7 @@ deliverance
 disciplinative
 disship
 disshiver
+dovehouse
 deletory
 dissiliency
 dissilient
@@ -16140,7 +16141,6 @@ dysmeromorphic
 dovecot
 dynamist
 disenchanting
-dovehouse
 dovelike
 dumbledore
 dephosphorization
