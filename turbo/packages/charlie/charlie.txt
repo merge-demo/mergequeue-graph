@@ -3902,7 +3902,6 @@ canister
 carbonitride
 cincinatti
 countertranslation
-charmfulness
 carbonization
 carbonize
 charlatanism
@@ -5022,6 +5021,7 @@ collaring
 cartware
 cabossed
 confervoid
+charmfulness
 cartwheel
 coannex
 catarrhine
