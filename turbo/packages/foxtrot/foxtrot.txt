@@ -5212,7 +5212,6 @@ farse
 fulfil
 fourling
 fleas
-fluxroot
 fratcheous
 flavid
 fluctuosity
@@ -6654,6 +6653,7 @@ frontad
 felonous
 figurism
 foeti
+fluxroot
 fumigatory
 fica
 ferbams
