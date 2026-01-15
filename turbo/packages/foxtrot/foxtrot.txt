@@ -2381,6 +2381,7 @@ forgoes
 freeloving
 futures
 footganger
+fricandoes
 fetial
 fortunetellers
 friendlier
@@ -8801,7 +8802,6 @@ fluidible
 flighthead
 flushgate
 forespoke
-fricandoes
 flagellulae
 frakfurt
 fleeringly
