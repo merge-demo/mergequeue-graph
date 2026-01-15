@@ -7317,7 +7317,6 @@ epaulement
 enstranged
 eyries
 epee
-elsin
 epeeist
 embue
 exstipulate
@@ -11595,6 +11594,7 @@ electroindustrial
 effet
 excided
 enfrenzy
+elsin
 ersatz
 ethnocentricity
 empoison
