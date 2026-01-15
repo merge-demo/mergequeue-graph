@@ -298,6 +298,7 @@ epitheliums
 enterolobium
 enantiosis
 ealderman
+emication
 endark
 espousage
 extensible
@@ -6988,7 +6989,6 @@ eggfruit
 enpia
 elastomer
 electricalize
-emication
 eglatere
 enepidermic
 eliquate
