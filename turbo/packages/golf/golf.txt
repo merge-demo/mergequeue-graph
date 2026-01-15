@@ -3815,6 +3815,7 @@ genealogies
 geodaesia
 gorger
 girosol
+gingal
 glarier
 gonapophysal
 grasps
@@ -5352,7 +5353,6 @@ guanajuatite
 gregos
 geckoid
 gruelings
-gingal
 graph
 gammadion
 gliddery
