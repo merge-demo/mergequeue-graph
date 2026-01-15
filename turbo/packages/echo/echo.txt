@@ -12056,6 +12056,7 @@ epacridaceae
 excrementive
 extrasensory
 enfolder
+exercent
 excrescency
 eccentric
 eris
@@ -12190,7 +12191,6 @@ emoluments
 execrator
 enthroning
 empiriocritical
-exercent
 ephemera
 execute
 executed
