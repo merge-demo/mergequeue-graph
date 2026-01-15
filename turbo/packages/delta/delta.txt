@@ -1461,7 +1461,6 @@ dawtit
 dawts
 deflects
 damages
-disbarred
 dedicatedly
 doublehanded
 daze
@@ -5530,6 +5529,7 @@ depatriate
 dispergation
 doornails
 deposer
+disbarred
 depauperize
 dorsal
 dyscrase
