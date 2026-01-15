@@ -6246,6 +6246,7 @@ enrober
 enrive
 eyeholes
 enroll
+expdt
 epicyclic
 enrollee
 extraorbitally
@@ -11417,7 +11418,6 @@ enlevement
 evese
 entomostraca
 entheate
-expdt
 elided
 evetide
 extirpating
