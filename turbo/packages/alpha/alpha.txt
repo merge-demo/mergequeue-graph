@@ -2979,7 +2979,6 @@ actinias
 actinic
 akene
 antitropical
-archenteron
 axtree
 aulostomi
 actiniomorpha
@@ -17626,6 +17625,7 @@ appendorontgenography
 antheximeter
 appendotome
 activist
+archenteron
 astroid
 adjoining
 appentice
