@@ -788,7 +788,6 @@ geomorphic
 gemologies
 galvanotropism
 guntub
-globulolysis
 gaulter
 ganymede
 glossolalist
@@ -6732,6 +6731,7 @@ graminivorous
 galvanolysis
 glucide
 groomy
+globulolysis
 girlfriends
 gazpacho
 gascheck
