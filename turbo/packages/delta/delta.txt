@@ -1400,7 +1400,6 @@ decephalize
 diorites
 daviesite
 deleted
-demilitarize
 dispel
 downdale
 dismain
@@ -7267,6 +7266,7 @@ discompt
 deglutinated
 dentines
 dowage
+demilitarize
 disseized
 diffusivity
 dollies
