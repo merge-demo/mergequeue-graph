@@ -2320,7 +2320,6 @@ guaranis
 gondoliere
 ge
 gagsters
-gravitation
 gingival
 guige
 gerocomy
@@ -6015,6 +6014,7 @@ gravelweed
 geminative
 guard
 gutturonasal
+gravitation
 gingerly
 goodwilly
 geranium
