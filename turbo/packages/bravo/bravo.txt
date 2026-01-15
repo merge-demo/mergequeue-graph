@@ -10670,7 +10670,6 @@ brotulid
 begarnish
 blearness
 bleated
-bleaty
 bleating
 bibliognostic
 bluejoint
@@ -17195,6 +17194,7 @@ brughs
 bestarve
 boozy
 balsamical
+bleaty
 benedictional
 bathylith
 battailant
