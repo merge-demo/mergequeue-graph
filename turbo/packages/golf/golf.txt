@@ -2555,7 +2555,6 @@ growleries
 gastrula
 gobangs
 ganch
-generalities
 grig
 grubbies
 gladsomely
@@ -6766,6 +6765,7 @@ gossiping
 geront
 gymnogyps
 gentilitial
+generalities
 geologically
 gazania
 gyrostatics
