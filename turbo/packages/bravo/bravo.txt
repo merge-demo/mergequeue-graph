@@ -978,7 +978,6 @@ bisulfite
 bullgine
 bathylitic
 biologicohumanistic
-bahisti
 brassards
 betook
 brooming
@@ -8667,6 +8666,7 @@ branners
 bimalar
 bimana
 boras
+bahisti
 bimanal
 binoxalate
 bimanous
