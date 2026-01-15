@@ -10873,6 +10873,7 @@ exmoor
 endangerer
 electromyographically
 exothermic
+exemplificator
 ethanoyl
 esthete
 electromuscular
@@ -12264,7 +12265,6 @@ evocatrix
 everlasting
 eggplant
 enfoul
-exemplificator
 egypt
 exemplified
 ergasia
