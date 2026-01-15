@@ -8878,6 +8878,7 @@ branchiopodan
 belialist
 biochemic
 bromvogel
+brattie
 boeotian
 bonedog
 bearhugs
@@ -14711,7 +14712,6 @@ bratticing
 beggarweed
 boundlessly
 bescorching
-brattie
 betrothal
 biobibliographic
 bowpots
