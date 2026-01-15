@@ -5386,6 +5386,7 @@ delim
 deschampsia
 denudating
 disordained
+defected
 discanter
 deltidial
 dissolves
@@ -10517,7 +10518,6 @@ diple
 dacryocystotome
 dipleural
 docetically
-defected
 dionysian
 dimeric
 dipleurulas

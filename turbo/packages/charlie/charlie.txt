@@ -2249,7 +2249,6 @@ caval
 camstone
 canaliculization
 camuning
-cholecystolithotripsy
 camus
 camused
 camuses
@@ -14576,6 +14575,7 @@ catholicism
 cystidium
 candescent
 cenobite
+cholecystolithotripsy
 cyath
 cystiform
 clockmutch
