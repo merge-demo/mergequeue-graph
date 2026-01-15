@@ -4031,7 +4031,6 @@ gastronome
 glonoine
 genitorial
 ghastlily
-gumtree
 guanines
 galbulus
 gileno
@@ -5491,6 +5490,7 @@ gastroparietal
 gazingly
 garring
 gentian
+gumtree
 gloams
 granadillo
 glutinously
