@@ -5004,6 +5004,7 @@ econometer
 entreasure
 encaenia
 evens
+equator
 endophragmal
 equimolal
 entomb
@@ -5347,7 +5348,6 @@ erogeny
 extradotal
 eryhtrism
 endothecial
-equator
 elaterids
 egers
 emeroid
