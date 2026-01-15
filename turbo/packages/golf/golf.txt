@@ -2612,7 +2612,6 @@ glaucine
 glamourization
 gesticular
 grisette
-gowf
 gasometrical
 glossolabial
 geiger
@@ -10175,6 +10174,7 @@ glossophobia
 geostrategist
 gurneyite
 gerusia
+gowf
 gastropathy
 granulated
 governable
