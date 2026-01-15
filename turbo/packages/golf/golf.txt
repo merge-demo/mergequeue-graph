@@ -99,6 +99,7 @@ galabia
 glandulose
 gnomology
 garbling
+garrafa
 glottalizing
 gabbai
 gadge
@@ -3755,7 +3756,6 @@ glossology
 gouges
 giantship
 glycolate
-garrafa
 gapping
 gastroesophagostomy
 gunong
