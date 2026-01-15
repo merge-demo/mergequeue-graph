@@ -7644,6 +7644,7 @@ alcyonium
 abreaction
 amplidyne
 airplaned
+annette
 antefurca
 actual
 alectorides
@@ -13485,7 +13486,6 @@ aphanapteryx
 anneloid
 agateware
 agraffee
-annette
 aob
 ahnfeltia
 annexa
