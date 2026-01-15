@@ -2527,7 +2527,6 @@ buenos
 bassetite
 bottonhook
 buckler
-barguest
 barguests
 buzylene
 baria
@@ -13591,6 +13590,7 @@ boulimia
 berate
 bornyl
 bailiffry
+barguest
 biurate
 bodying
 besand
