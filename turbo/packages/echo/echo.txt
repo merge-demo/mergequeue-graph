@@ -5826,7 +5826,6 @@ extensors
 edwardine
 eudaemonistical
 elia
-endless
 esox
 engrandize
 ebrillade
@@ -7005,6 +7004,7 @@ enepidermic
 eliquate
 excorticated
 ephods
+endless
 exclamation
 englishry
 engilded
