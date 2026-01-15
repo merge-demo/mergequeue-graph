@@ -3788,7 +3788,6 @@ embolomalerism
 epistolizing
 eglandulose
 electroplax
-expendables
 extracolumella
 endodontically
 ensindon
@@ -6636,6 +6635,7 @@ enterology
 epactal
 enterologic
 epanastrophe
+expendables
 ethionamide
 exhaled
 enteromegalia
