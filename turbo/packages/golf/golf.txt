@@ -2780,7 +2780,6 @@ gelotometer
 glottochronological
 gristly
 gabies
-gangwayed
 governably
 glassie
 gelee
@@ -7292,6 +7291,7 @@ glutaric
 gubernator
 glitches
 goldsinny
+gangwayed
 gynics
 grahams
 gnocchi
