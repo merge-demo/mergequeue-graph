@@ -732,7 +732,6 @@ dancers
 disleaving
 decreeing
 denudatory
-decostate
 dancing
 distale
 dictagraph
@@ -17348,6 +17347,7 @@ drollery
 dorts
 deynt
 drooper
+decostate
 dismays
 doggerels
 drownded
