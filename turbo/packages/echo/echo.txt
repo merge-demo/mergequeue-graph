@@ -6796,7 +6796,6 @@ eggler
 entom
 extender
 episternalia
-evocativeness
 eumenes
 ectosarcs
 elix
@@ -7352,6 +7351,7 @@ execrableness
 euclases
 eucyclic
 epeirogenesis
+evocativeness
 epiphanic
 ennobler
 eelblennies
