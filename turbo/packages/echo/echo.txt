@@ -9328,7 +9328,6 @@ endosiphon
 encrusted
 erugos
 eleocharis
-escapage
 eruptible
 eruption
 eruptional
@@ -12908,6 +12907,7 @@ engr
 eosaurus
 erne
 enticingly
+escapage
 expeditiousness
 ecchymose
 epithymetic
