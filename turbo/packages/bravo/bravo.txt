@@ -12818,7 +12818,6 @@ bibliophobia
 bondswoman
 barquest
 bootes
-burglary
 basiliscine
 blink
 barnabite
@@ -16506,6 +16505,7 @@ bordered
 bestrode
 brustle
 bridal
+burglary
 brusure
 broiders
 bentang
