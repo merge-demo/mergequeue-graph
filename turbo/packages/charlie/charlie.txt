@@ -16413,7 +16413,6 @@ cloacae
 cryptanalyzed
 cloacaline
 cents
-connellite
 cholonan
 cowage
 copart
@@ -20265,6 +20264,7 @@ commorancies
 commorient
 commorse
 costeen
+connellite
 commorth
 commot
 commotions
