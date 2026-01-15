@@ -4756,7 +4756,6 @@ frundel
 filigera
 falconers
 flagelliform
-fever
 folie
 flagellula
 flickeringly
@@ -11494,6 +11493,7 @@ flamboyant
 flotant
 fructuousness
 fashery
+fever
 furunculous
 furzeling
 furzy
