@@ -6039,7 +6039,6 @@ escroll
 eolith
 exhusband
 elastin
-evittate
 eddaic
 enlargeable
 eigenvectors
@@ -9083,6 +9082,7 @@ eschalots
 euros
 eyrer
 equitangential
+evittate
 expulse
 endoscopic
 exponential
