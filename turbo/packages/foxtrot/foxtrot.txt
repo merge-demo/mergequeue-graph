@@ -5003,7 +5003,6 @@ forepad
 flipping
 fallows
 flatbeds
-flanneling
 fungoidal
 forepaw
 ferries
@@ -9462,6 +9461,7 @@ forejudger
 forbreak
 floatman
 florets
+flanneling
 fibdom
 functionalism
 faveoluli
