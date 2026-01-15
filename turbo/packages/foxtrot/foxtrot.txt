@@ -9624,6 +9624,7 @@ fathers
 flocculous
 fourths
 floyt
+fungistatic
 freezy
 fubbed
 fromage
@@ -9893,7 +9894,6 @@ fogeater
 fevercup
 fenestrone
 formalizes
-fungistatic
 foretells
 fistfuls
 fade
