@@ -5997,7 +5997,6 @@ gazes
 gemmates
 gastroenterocolostomy
 goldbricker
-gibetting
 grin
 gentry
 gusting
@@ -6395,6 +6394,7 @@ gasterozooid
 geoponic
 goshenite
 ganefs
+gibetting
 gewgaw
 goidelic
 goldeyes
