@@ -10056,7 +10056,6 @@ cherubimical
 cherublike
 corkline
 crystalize
-calzone
 cherusci
 chervonei
 conundrumize
@@ -31810,6 +31809,7 @@ coroa
 curvity
 chocalho
 contractee
+calzone
 cutgrass
 cyathia
 cuticolor
