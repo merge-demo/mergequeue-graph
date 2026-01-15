@@ -455,7 +455,6 @@ ecclesiast
 entrada
 empasm
 exody
-extended
 endoconidium
 extorsion
 extrasensorial
@@ -1484,6 +1483,7 @@ endophytous
 egad
 elderlies
 encyclopediac
+extended
 entomophilous
 egalitarians
 evected

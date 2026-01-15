@@ -481,6 +481,7 @@ backspacing
 beedged
 beestings
 brubu
+banque
 broomier
 backspang
 betrend
@@ -12219,7 +12220,6 @@ bicarbide
 buckhound
 balustered
 backslidingness
-banque
 beld
 bolognas
 bolognese
