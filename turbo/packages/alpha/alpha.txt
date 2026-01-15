@@ -14607,7 +14607,6 @@ afterdated
 anthropophobia
 anthroposociology
 altarlet
-adoretus
 aribine
 anthroposophy
 anthropoteleoclogy
@@ -19017,6 +19016,7 @@ ageless
 aponeurology
 allottable
 aregenerative
+adoretus
 archlet
 absinthin
 archleveler
