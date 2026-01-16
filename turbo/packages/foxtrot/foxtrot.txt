@@ -4123,6 +4123,7 @@ fireback
 fumeuses
 frogleaf
 flattop
+frenula
 fusilading
 fulk
 felonry
@@ -9703,7 +9704,6 @@ forgathered
 flushing
 frenetically
 forlorner
-frenula
 frenular
 footlicker
 fornicate

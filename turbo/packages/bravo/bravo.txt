@@ -6734,7 +6734,6 @@ berret
 berrettas
 bloodred
 bhaktimarga
-barongs
 barracudina
 bufonid
 bushiest
@@ -12173,6 +12172,7 @@ biclinium
 blaff
 beaumontia
 balneum
+barongs
 beeps
 blaine
 beclasped
