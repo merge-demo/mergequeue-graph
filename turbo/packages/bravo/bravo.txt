@@ -4115,6 +4115,7 @@ beardy
 blanchimeter
 bearding
 bonita
+basiotribe
 balminess
 beslimer
 beards
@@ -6646,7 +6647,6 @@ beseemly
 boyg
 berimes
 bradypnoea
-basiotribe
 bering
 broughtas
 burghs
