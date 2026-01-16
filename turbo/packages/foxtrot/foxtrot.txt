@@ -6467,6 +6467,7 @@ fakes
 flustery
 filiciform
 fario
+forbiddance
 factionist
 fluxes
 floody
@@ -11117,7 +11118,6 @@ franca
 fetidly
 forchase
 forecarriage
-forbiddance
 fauteuils
 fedellini
 feverbush
