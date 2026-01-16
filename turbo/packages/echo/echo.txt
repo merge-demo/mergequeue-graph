@@ -2664,7 +2664,6 @@ epispadia
 electrotherapeutical
 entrep
 estampie
-escrol
 expectorating
 excitors
 enmesh
@@ -5030,6 +5029,7 @@ eleutheria
 etudes
 enunciation
 escrod
+escrol
 eavesdrop
 eclecticism
 endearingly
