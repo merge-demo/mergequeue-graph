@@ -10065,6 +10065,7 @@ erythrosin
 eidouranion
 earclip
 etheostominae
+epitonium
 elytroid
 exasperates
 esthetician
@@ -12603,7 +12604,6 @@ eustathian
 eyeserver
 exocrines
 emanative
-epitonium
 ectethmoid
 endostoma
 enriches
