@@ -4325,7 +4325,6 @@ caryatids
 caribal
 conserving
 cariban
-caribbean
 caribbeans
 chelation
 caribbee
@@ -5000,6 +4999,7 @@ criminalistics
 carpitis
 cartons
 cartoonist
+caribbean
 chrysomonadina
 cassettes
 cartouche
