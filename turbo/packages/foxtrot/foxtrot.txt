@@ -8527,6 +8527,7 @@ foeture
 fumaric
 frightment
 fanfarons
+fivepence
 frownful
 fornaxid
 foraminule
@@ -10640,7 +10641,6 @@ forblack
 flocculency
 fruitester
 fargood
-fivepence
 fitments
 forenamed
 florican
