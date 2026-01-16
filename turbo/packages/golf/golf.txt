@@ -1360,7 +1360,6 @@ gervao
 gitalin
 garlion
 gemshorn
-guess
 gesturers
 garmentmaker
 grafting
@@ -3302,6 +3301,7 @@ gula
 gabback
 geneticists
 gazaboes
+guess
 germanized
 germanizer
 germule
