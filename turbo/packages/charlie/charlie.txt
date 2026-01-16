@@ -11051,6 +11051,7 @@ chiselling
 coevolvedcoevolves
 collectable
 chiselmouth
+coquettishly
 chisels
 chisled
 clarkeites
@@ -24802,7 +24803,6 @@ coquets
 chloragogen
 coquette
 cleome
-coquettishly
 curlycue
 coquicken
 cartload
