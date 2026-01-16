@@ -3433,6 +3433,7 @@ epees
 elaeothesium
 enginemen
 excusative
+esterellite
 epistemologist
 evinces
 eductive
@@ -5236,7 +5237,6 @@ exagitation
 eskimoid
 exarteritis
 elapsoidea
-esterellite
 efik
 enchest
 emulsionize
