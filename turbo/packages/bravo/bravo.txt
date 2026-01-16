@@ -12735,6 +12735,7 @@ bepimples
 bookmarks
 bastardisation
 bookmobiles
+burrower
 baroni
 burlesk
 bookpress
@@ -16746,7 +16747,6 @@ ballett
 bucorvus
 bowknots
 billheading
-burrower
 bahama
 branchiostegidae
 blinder
