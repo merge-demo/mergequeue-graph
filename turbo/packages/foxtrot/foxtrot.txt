@@ -4463,6 +4463,7 @@ furthermost
 fleshing
 foreloop
 fishspear
+flutier
 fantocine
 fluffier
 fountainwise
@@ -10239,7 +10240,6 @@ fluidglycerate
 franklinism
 forensics
 fistulatome
-flutier
 fasher
 frolicker
 frolicking
