@@ -5384,6 +5384,7 @@ fragmentize
 forbled
 flaked
 foremade
+finicky
 frisado
 factorial
 fledgiest
@@ -9979,7 +9980,6 @@ foxite
 frilled
 fegary
 flexitime
-finicky
 fowlpox
 fopped
 flenching
