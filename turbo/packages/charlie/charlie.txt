@@ -9614,6 +9614,7 @@ cheepers
 cheepier
 cheepiest
 cheepiness
+conidium
 ceramidium
 cyathozooid
 cubiculary
@@ -30078,7 +30079,6 @@ curlings
 columbo
 chilomata
 carnivores
-conidium
 crowdedly
 circumambiencies
 cheson
