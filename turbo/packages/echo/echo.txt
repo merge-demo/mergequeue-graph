@@ -2301,6 +2301,7 @@ electroacoustics
 exundation
 electroanesthesia
 electroballistics
+endemism
 emetatrophia
 evolvulus
 electrobath
@@ -4943,7 +4944,6 @@ exomphalous
 endemicity
 epichirema
 electrofused
-endemism
 eco
 endenization
 excusator
