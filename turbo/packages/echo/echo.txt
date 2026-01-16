@@ -5817,7 +5817,6 @@ enwoven
 ekaha
 embergeese
 engramme
-engrammes
 extensors
 edwardine
 eudaemonistical
@@ -5871,6 +5870,7 @@ euthyroid
 episcopalian
 excessman
 expend
+engrammes
 enhaemospore
 epiplastron
 explees
