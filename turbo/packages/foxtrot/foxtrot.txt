@@ -417,7 +417,6 @@ flouting
 frows
 factful
 foredesk
-fusetron
 friendliwise
 festive
 flints
@@ -2684,6 +2683,7 @@ ferulic
 fitzclarence
 fissipedate
 frogeater
+fusetron
 foundational
 filaze
 fawner
