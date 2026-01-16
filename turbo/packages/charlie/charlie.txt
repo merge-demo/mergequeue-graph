@@ -9135,7 +9135,6 @@ chartreux
 centration
 chartroom
 commonefaction
-charts
 cozening
 caulite
 coderive
@@ -15133,6 +15132,7 @@ condecent
 crumbled
 clag
 clagged
+charts
 carboxydomonas
 cantala
 commandries
