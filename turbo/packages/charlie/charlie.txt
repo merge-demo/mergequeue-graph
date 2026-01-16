@@ -18221,6 +18221,7 @@ capelets
 chemicovital
 coffeehouse
 coffeehouses
+cecograph
 coffeeman
 canopid
 classico
@@ -18434,7 +18435,6 @@ cohabitancy
 calycoideous
 cohabitate
 cohabitation
-cecograph
 cohabited
 collational
 coharmonious
