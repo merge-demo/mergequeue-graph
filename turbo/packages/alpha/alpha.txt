@@ -12972,7 +12972,6 @@ adjuvants
 apologetics
 axine
 angula
-aldus
 authoriser
 angular
 angularia
@@ -24406,6 +24405,7 @@ alluded
 alembics
 auksinai
 autosyndesis
+aldus
 appreciable
 antisuffragist
 acetylenation
