@@ -16735,7 +16735,6 @@ dolichocephaly
 dult
 disjoin
 dyscratic
-draperied
 downline
 draping
 diswood
@@ -16755,6 +16754,7 @@ distal
 draughtboard
 divorcement
 daub
+draperied
 draughtier
 divulsive
 decastylos
