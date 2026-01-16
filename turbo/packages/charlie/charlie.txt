@@ -3273,7 +3273,6 @@ capitatim
 cputime
 capitation
 casimere
-capitations
 cyclotomy
 cystenchyme
 capite
@@ -5138,6 +5137,7 @@ cisatlantic
 convulsionism
 casefy
 corneter
+capitations
 counterenamel
 compeller
 chondrectomy
