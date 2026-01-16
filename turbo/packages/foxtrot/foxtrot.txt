@@ -9048,7 +9048,6 @@ fedelini
 frisure
 fenlander
 frankist
-forespeaker
 featy
 falsification
 flourisher
@@ -11121,6 +11120,7 @@ fauteuils
 fedellini
 feverbush
 fetometry
+forespeaker
 fishtail
 farle
 fosters
