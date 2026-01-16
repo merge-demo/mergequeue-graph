@@ -618,6 +618,7 @@ gazophylacium
 gemmiparously
 gnaphalioid
 gallisin
+glyceride
 gunslingers
 gillie
 geophysicist
@@ -5129,7 +5130,6 @@ grasslands
 gyrophoraceae
 graylags
 gemmy
-glyceride
 gesticulations
 glb
 gastratrophia
