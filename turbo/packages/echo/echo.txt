@@ -1797,6 +1797,7 @@ encroached
 egotheism
 epithalamy
 ergatogyny
+engouement
 elbow
 exopodite
 eigenvalues
@@ -5791,7 +5792,6 @@ embraces
 engrammic
 estrangement
 explanation
-engouement
 engoument
 encounter
 exanthema
