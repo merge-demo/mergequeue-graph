@@ -20,6 +20,7 @@ frankers
 flawy
 fashional
 fanciest
+feak
 furiouser
 febricula
 freeman
@@ -6052,7 +6053,6 @@ florisugent
 funambule
 flauntingly
 forsook
-feak
 foretriangle
 fleyland
 forecome
