@@ -1341,7 +1341,6 @@ chaucer
 calycate
 calyceraceae
 cardioparplasis
-calices
 calyces
 cathartin
 calycifloral
@@ -8194,6 +8193,7 @@ callower
 chakobu
 chakram
 carpentry
+calices
 chaksi
 chal
 complection
