@@ -397,6 +397,7 @@ equivocator
 emotiveness
 ebonized
 enfolden
+enshadow
 epact
 eutrophic
 embayed
@@ -7103,7 +7104,6 @@ edriophthalmous
 envisioning
 epistolising
 egomaniacally
-enshadow
 exoner
 episterna
 echeneidid
