@@ -9639,7 +9639,6 @@ defiliation
 dillies
 dipcoat
 dicerion
-definitive
 duodenojejunostomies
 devisee
 dika
@@ -10353,6 +10352,7 @@ dfault
 deejays
 dioxane
 dioxanes
+definitive
 demonises
 droiture
 diplosphene
