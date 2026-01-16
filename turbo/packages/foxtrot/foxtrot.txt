@@ -4753,7 +4753,6 @@ flageolets
 flagfishes
 fubsy
 forbiddenness
-figurately
 fasciculus
 fissurellidae
 feuillants
@@ -6674,6 +6673,7 @@ forecontrive
 fenner
 flingers
 flaggily
+figurately
 faintheartedly
 frontrunner
 frustrations
