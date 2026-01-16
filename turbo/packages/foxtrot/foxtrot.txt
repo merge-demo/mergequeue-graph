@@ -4983,6 +4983,7 @@ fluctuable
 faceable
 frowsier
 feathers
+fixup
 faineantise
 falsificate
 firman
@@ -6350,7 +6351,6 @@ fluctuability
 footropes
 ferriage
 foveolar
-fixup
 fluvio
 flammably
 fluoresceine
