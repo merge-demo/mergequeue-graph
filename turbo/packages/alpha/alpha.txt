@@ -10871,6 +10871,7 @@ arapaho
 acholias
 arctiidae
 ammonion
+autolysis
 ammonitess
 ammonitic
 ammonitoidea
@@ -11452,7 +11453,6 @@ arthogram
 apiphobia
 antholysis
 antisquama
-autolysis
 atrabilious
 antianaphylactogen
 americanitis

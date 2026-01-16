@@ -2505,7 +2505,6 @@ doddered
 disaccommodation
 dove
 dodders
-dubonnet
 deactivating
 declarations
 declarative
@@ -8727,6 +8726,7 @@ dinting
 defocusses
 deescalations
 diatomist
+dubonnet
 dover
 dot
 debadge
