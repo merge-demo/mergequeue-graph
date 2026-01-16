@@ -10358,6 +10358,7 @@ bowpin
 blanc
 beneath
 baltimorite
+baned
 bergomask
 bolsheviki
 bumbler
@@ -16352,7 +16353,6 @@ bevil
 backarrow
 benchmarking
 balalaikas
-baned
 brujos
 beglerbeglik
 broadways
