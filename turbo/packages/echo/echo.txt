@@ -719,6 +719,7 @@ engrossingness
 economized
 encephalopathic
 elucidated
+exitial
 esthesises
 edifice
 ensamples
@@ -10022,7 +10023,6 @@ encastered
 egrets
 ethambutol
 ethmovomerine
-exitial
 entamoebiasis
 epopoeist
 etceteras
