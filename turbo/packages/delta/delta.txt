@@ -5708,7 +5708,6 @@ disposes
 deemer
 deplumes
 dentation
-dewanee
 doliolum
 divergenge
 deoxidiser
@@ -14280,6 +14279,7 @@ defoliator
 deviationist
 donkeymen
 demulceate
+dewanee
 deb
 deviances
 dithion
