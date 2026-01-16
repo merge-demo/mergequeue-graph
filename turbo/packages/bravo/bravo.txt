@@ -986,6 +986,7 @@ baldaquin
 bobbing
 bakuninist
 besiren
+brachiferous
 baya
 brissotine
 buddh
@@ -14377,7 +14378,6 @@ boloman
 bambino
 bettors
 braincap
-brachiferous
 braincase
 blastomycosis
 braincraft
