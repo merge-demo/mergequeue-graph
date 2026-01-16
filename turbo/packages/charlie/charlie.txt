@@ -2882,7 +2882,6 @@ canonship
 canoodles
 counsinhood
 canopy
-canopid
 canalised
 canopies
 clarigate
@@ -18222,6 +18221,7 @@ chemicovital
 coffeehouse
 coffeehouses
 coffeeman
+canopid
 classico
 coffeepots
 colloidize
