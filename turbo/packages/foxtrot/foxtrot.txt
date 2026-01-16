@@ -6032,6 +6032,7 @@ frayn
 floridity
 floriscope
 fulmina
+furmities
 fetterbush
 faba
 funicule
@@ -10973,7 +10974,6 @@ firstborn
 finland
 firebolt
 fleshlier
-furmities
 flatuous
 floricin
 fumatoria
