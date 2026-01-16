@@ -2086,6 +2086,7 @@ fissipalmate
 forebodies
 facture
 finetop
+focusable
 favorless
 fleshen
 frument
@@ -6186,7 +6187,6 @@ forlana
 fatlings
 freyja
 floccules
-focusable
 fascinative
 formwork
 foundationary
