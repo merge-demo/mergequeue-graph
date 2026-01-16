@@ -4305,6 +4305,7 @@ fluorins
 fellnesses
 fasteners
 flectional
+frighten
 foreleech
 ferritin
 firms
@@ -4645,7 +4646,6 @@ figurante
 flaunched
 flections
 flexibilities
-frighten
 fumariaceae
 fragrantly
 foreby

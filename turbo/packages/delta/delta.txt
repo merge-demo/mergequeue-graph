@@ -8755,7 +8755,6 @@ declassifications
 diazin
 drayman
 death
-decrassify
 droners
 dialoguer
 deuterodome
@@ -12021,6 +12020,7 @@ duckfoot
 dromaeus
 daverdy
 dae
+decrassify
 deliveries
 diadelphic
 defail
