@@ -9045,7 +9045,6 @@ extravascular
 epenthesis
 editorialist
 erythrocytosis
-embryogony
 ectasia
 epistropheus
 echevaria
@@ -11792,6 +11791,7 @@ ectomorphy
 euglenida
 ectothermic
 exists
+embryogony
 exauthorizeexc
 evanescently
 ethoxyl
