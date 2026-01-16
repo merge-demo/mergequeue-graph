@@ -1313,6 +1313,7 @@ effeir
 eriocomi
 effeminise
 electrochronometer
+exsiccation
 especial
 explosives
 eelspear
@@ -3974,7 +3975,6 @@ explorate
 esothyropexy
 estus
 effloresce
-exsiccation
 epilamellar
 etymologise
 evangelian
