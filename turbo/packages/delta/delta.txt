@@ -4601,6 +4601,7 @@ donn
 dinic
 demisang
 dulcite
+dianoetically
 diselenid
 demisangue
 douzaines
@@ -8496,7 +8497,6 @@ deathworm
 dianilide
 disheritor
 dianite
-dianoetically
 decanormal
 dianoia
 dwarflike
