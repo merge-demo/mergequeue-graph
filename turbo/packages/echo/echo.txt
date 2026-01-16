@@ -9488,6 +9488,7 @@ eruptives
 eternalness
 escrow
 escrowing
+entremess
 esculents
 exorcize
 ethnog
@@ -12272,7 +12273,6 @@ exsequatur
 exempted
 exemption
 essenhout
-entremess
 errorless
 exemptions
 ephemerist
