@@ -2019,7 +2019,6 @@ brachydiagonal
 baniya
 baning
 bandcutter
-bhaiachara
 banisher
 banishing
 banishment
@@ -13279,6 +13278,7 @@ briquettes
 blastoidea
 botany
 bilboquet
+bhaiachara
 berakes
 birdmen
 blennies
