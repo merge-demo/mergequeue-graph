@@ -1739,7 +1739,6 @@ formican
 foreordainment
 filiality
 featherbird
-feoffors
 forfare
 foreshore
 floriferous
@@ -4699,6 +4698,7 @@ fulgor
 ferrugineous
 flabella
 flyweight
+feoffors
 frises
 facy
 factice
