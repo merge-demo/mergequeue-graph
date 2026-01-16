@@ -1000,7 +1000,6 @@ fontanges
 flamiest
 filmsets
 foreshop
-fulmina
 foreplan
 formate
 foreorder
@@ -6037,6 +6036,7 @@ flocculating
 frayn
 floridity
 floriscope
+fulmina
 fetterbush
 faba
 funicule
