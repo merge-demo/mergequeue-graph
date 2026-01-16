@@ -9675,6 +9675,7 @@ bladed
 besmiles
 boisseau
 bismerpund
+blurbs
 buoyages
 bipartisanism
 bourette
@@ -18381,7 +18382,6 @@ barycenter
 balaustre
 byronics
 betwattled
-blurbs
 buzzerphone
 buzzier
 burghermaster
