@@ -4246,7 +4246,6 @@ beautified
 bathomania
 bishopbird
 breadths
-banff
 beautiful
 blowball
 bhajan
@@ -11249,6 +11248,7 @@ bemired
 beatably
 bibliophilistic
 brancher
+banff
 bridgeable
 bescouring
 bullfight
