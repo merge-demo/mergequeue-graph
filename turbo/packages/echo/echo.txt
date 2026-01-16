@@ -2840,6 +2840,7 @@ expatiative
 evanid
 eleusinia
 explicantia
+extendible
 emasculator
 eventognath
 eleutherian
@@ -13821,7 +13822,6 @@ elating
 extracarpal
 extrastapedial
 extratropical
-extendible
 epicoelous
 excepted
 edeology
