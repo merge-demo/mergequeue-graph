@@ -1737,7 +1737,6 @@ floriferous
 freedman
 foveal
 feeded
-forecastlemen
 foresaddle
 fluphenazine
 fossildom
@@ -11022,6 +11021,7 @@ fumigated
 fierce
 flutidae
 femororotulian
+forecastlemen
 floriferously
 festal
 furzery
