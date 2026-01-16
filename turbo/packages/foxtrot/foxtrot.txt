@@ -2093,7 +2093,6 @@ forebodies
 facture
 finetop
 focusable
-favorless
 fleshen
 frument
 fayence
@@ -5051,6 +5050,7 @@ felicitated
 flareless
 fibromyectomy
 festivalgoer
+favorless
 figboy
 frother
 fuss
