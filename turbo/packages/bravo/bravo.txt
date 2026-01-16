@@ -1780,6 +1780,7 @@ brittled
 boothes
 bamalip
 basswood
+bulled
 brachistocephalic
 bamban
 buggery
@@ -15847,7 +15848,6 @@ broletto
 benzthiophen
 biders
 broncho
-bulled
 bitonality
 bromogelatin
 beamishly
