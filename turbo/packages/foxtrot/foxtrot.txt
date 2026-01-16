@@ -393,7 +393,6 @@ foresettle
 fructuous
 failings
 factors
-flabellate
 fallaway
 floozie
 fairishly
@@ -2433,6 +2432,7 @@ freebooty
 fibrously
 foh
 fingu
+flabellate
 frontwise
 foreproduct
 fermentable
