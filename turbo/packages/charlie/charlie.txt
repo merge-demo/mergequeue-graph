@@ -15510,6 +15510,7 @@ clasmatosis
 cuitle
 clasped
 cinevariety
+culicidal
 cephala
 clasper
 claspers
@@ -29423,7 +29424,6 @@ contemporizing
 crispiest
 curtelace
 crispin
-culicidal
 crispine
 crisping
 crispins
