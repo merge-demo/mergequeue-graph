@@ -2536,7 +2536,6 @@ gigmania
 gained
 guessive
 generalise
-gynandrous
 graciously
 glorifying
 gallfly
@@ -6725,6 +6724,7 @@ grouters
 gaveller
 goniodoridae
 genizah
+gynandrous
 granitized
 gametophore
 gagging
