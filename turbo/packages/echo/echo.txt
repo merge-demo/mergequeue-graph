@@ -3409,6 +3409,7 @@ exemplar
 ecliptic
 embatholithic
 enfiladed
+exhibitioner
 editorializes
 extradoses
 exteriors
@@ -8398,7 +8399,6 @@ epocha
 epollicate
 ethoses
 eponge
-exhibitioner
 ethopoetic
 extensure
 exsuction
