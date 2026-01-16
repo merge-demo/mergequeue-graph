@@ -10499,6 +10499,7 @@ connexity
 chiliahedron
 chiliarchia
 chiliast
+commeasure
 commuting
 comprehend
 chakar
@@ -19984,7 +19985,6 @@ cubbish
 conductive
 cheerily
 commeasurable
-commeasure
 commeasured
 commeddle
 commelina
