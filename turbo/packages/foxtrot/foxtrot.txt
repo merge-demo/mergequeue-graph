@@ -7071,6 +7071,7 @@ fax
 fibulare
 frocking
 filipinization
+furnariides
 flagger
 footstick
 figurant
@@ -11372,7 +11373,6 @@ firetraps
 fids
 ferromagneticism
 flashlamp
-furnariides
 flect
 facies
 furnish
