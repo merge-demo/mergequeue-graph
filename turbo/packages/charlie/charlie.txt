@@ -7113,7 +7113,6 @@ cullion
 centimo
 centimos
 chepster
-commonplaceism
 crossties
 centiplume
 carrozza
@@ -8819,6 +8818,7 @@ characine
 coercibly
 cyrillianism
 cenospecific
+commonplaceism
 characins
 charity
 castigating
