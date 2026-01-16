@@ -7674,7 +7674,6 @@ elytroplastic
 ergo
 epeirogeny
 equilibration
-ecostate
 expendability
 extrapopular
 epidemiologic
@@ -10597,6 +10596,7 @@ exchangee
 experience
 emblematically
 epimysium
+ecostate
 exodium
 elaterid
 eudaimonia

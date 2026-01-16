@@ -7377,7 +7377,6 @@ furan
 forereport
 forethrift
 forceless
-fasciolar
 flagellariaceae
 floreate
 fasciculation
@@ -9318,6 +9317,7 @@ fireguard
 foreschool
 flocci
 folcgemot
+fasciolar
 flurriment
 florilegium
 frying
