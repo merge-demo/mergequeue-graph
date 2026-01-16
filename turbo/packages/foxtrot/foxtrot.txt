@@ -3491,6 +3491,7 @@ fleches
 falcones
 fastigiate
 futtock
+foxtail
 fulgorid
 fusicladium
 filamentar
@@ -4065,7 +4066,6 @@ fendered
 flateria
 fluffy
 fraid
-foxtail
 forex
 finless
 fallopian
