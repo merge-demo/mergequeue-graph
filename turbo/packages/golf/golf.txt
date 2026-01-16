@@ -8010,6 +8010,7 @@ gunstock
 gossiper
 geta
 grandpapa
+geepound
 grunting
 geophysicists
 grotesquerie
@@ -10421,7 +10422,6 @@ gadgetries
 gnateater
 gillbird
 giller
-geepound
 graphiology
 gum
 gluiness
