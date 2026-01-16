@@ -4405,6 +4405,7 @@ aurae
 antonella
 amaryllidaceous
 acastus
+antisilverite
 almightiness
 alphanumerics
 anconeous
@@ -13225,7 +13226,6 @@ alleviant
 animist
 antigraft
 aecium
-antisilverite
 alloplasmic
 animistic
 anabatic
