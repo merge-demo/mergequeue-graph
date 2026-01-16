@@ -4463,7 +4463,6 @@ beached
 baptismal
 bestuur
 becomed
-bungs
 becometh
 becomingness
 becoresh
@@ -14164,6 +14163,7 @@ belicoseness
 bakula
 bracked
 brackened
+bungs
 buckboard
 blacken
 beseeched
