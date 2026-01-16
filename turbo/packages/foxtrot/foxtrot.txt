@@ -2117,7 +2117,6 @@ fountainous
 foreprize
 fulsome
 faculous
-favours
 foddered
 fellatrice
 fluoresage
@@ -3318,6 +3317,7 @@ fidge
 frogfoot
 fractionally
 fidgeted
+favours
 fractals
 faultage
 foilsmen
