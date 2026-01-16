@@ -13055,6 +13055,7 @@ cibarian
 cibaries
 conyrine
 cibbaria
+calorisator
 cibboria
 cybele
 coleworts
@@ -13533,7 +13534,6 @@ cafe
 colament
 cymaise
 cort
-calorisator
 cathartically
 cymaphyte
 cymaphytic
