@@ -1198,7 +1198,6 @@ expiates
 epimeric
 encyclopedically
 eductors
-enterodelous
 excursionists
 epitrite
 edwardean
@@ -11292,6 +11291,7 @@ entirety
 eagles
 exalbuminous
 evaporimeter
+enterodelous
 electrocute
 ecdysons
 epupillate
