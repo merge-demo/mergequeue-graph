@@ -3397,7 +3397,6 @@ embassy
 eustomatous
 eriometer
 eightieths
-episyllogism
 edeotomy
 eucirripedia
 enraptures
@@ -5074,6 +5073,7 @@ epilogic
 estray
 exsanguinous
 exprobratory
+episyllogism
 exsuscitate
 endocoele
 enaliosaurian
