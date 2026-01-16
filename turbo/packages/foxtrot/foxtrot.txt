@@ -8300,7 +8300,6 @@ fatherlike
 flapperish
 flatulentness
 fittiest
-fair
 foundling
 florulae
 fils
@@ -11645,6 +11644,7 @@ federational
 furbishing
 filamented
 funerealness
+fair
 forded
 foreknowing
 fusus
