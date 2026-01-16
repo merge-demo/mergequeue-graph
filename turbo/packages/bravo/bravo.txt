@@ -1517,6 +1517,7 @@ bedaubed
 balladizing
 biophore
 brutalization
+biocenotic
 brassish
 bichromated
 bezel
@@ -7668,7 +7669,6 @@ brahmany
 boe
 butterflyer
 blackflies
-biocenotic
 bescribbled
 bezils
 boyardom
