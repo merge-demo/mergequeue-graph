@@ -5405,7 +5405,6 @@ disciplinableness
 detd
 dauk
 denver
-disprover
 divagational
 disincrustion
 divineress
@@ -10447,6 +10446,7 @@ dewiest
 deda
 dotty
 diphtheric
+disprover
 denticeti
 diphtheritically
 disarraying
