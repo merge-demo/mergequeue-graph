@@ -218,7 +218,6 @@ erionite
 enmew
 esophagal
 earwigginess
-exsiccation
 emmetrope
 environs
 enhaulse
@@ -3976,6 +3975,7 @@ explorate
 esothyropexy
 estus
 effloresce
+exsiccation
 epilamellar
 etymologise
 evangelian
