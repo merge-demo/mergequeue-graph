@@ -16698,7 +16698,6 @@ antichurch
 arefaction
 avie
 aph
-antilogical
 aggers
 acaridan
 abjuration
@@ -22279,6 +22278,7 @@ altrices
 astoop
 abjoint
 amorphy
+antilogical
 aerated
 anticlassicist
 anecdotalism
