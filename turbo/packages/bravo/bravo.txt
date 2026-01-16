@@ -12432,6 +12432,7 @@ belabored
 bloodline
 bonderman
 bankera
+binder
 boii
 bogum
 bowyang
@@ -15827,7 +15828,6 @@ borism
 bargeer
 brainlessness
 brokenheartedly
-binder
 buddha
 beggarwise
 bibacious
