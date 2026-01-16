@@ -859,7 +859,6 @@ battologizing
 brecciation
 baga
 benzenoid
-blatherer
 biniodide
 biochron
 burghalpenny
@@ -5921,6 +5920,7 @@ berber
 brandenburgs
 biggety
 buffaloes
+blatherer
 beltane
 belauding
 bimetalic
