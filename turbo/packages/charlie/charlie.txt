@@ -4429,6 +4429,7 @@ ciconioid
 changeably
 confiserie
 carioles
+calendarian
 caryophyllaceae
 chaperoned
 cuvies
@@ -28620,7 +28621,6 @@ cavillation
 crypts
 cornball
 cremaster
-calendarian
 cremasterial
 cremasteric
 cremate
