@@ -8741,7 +8741,6 @@ belonged
 bruisers
 bosc
 beagling
-behests
 behinder
 barycentre
 brontozoum
@@ -15041,6 +15040,7 @@ babite
 binapthyl
 befetter
 betiding
+behests
 bicuspidal
 breenger
 babushka
