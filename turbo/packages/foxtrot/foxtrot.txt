@@ -2240,6 +2240,7 @@ filesave
 fainaiguer
 femora
 fatil
+furcately
 fain
 fenced
 fencelessness
@@ -11453,7 +11454,6 @@ forletting
 furrowlike
 forewish
 fiction
-furcately
 fissury
 ferntickle
 foulmouthedly
