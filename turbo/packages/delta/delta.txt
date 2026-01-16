@@ -6366,7 +6366,6 @@ diplotene
 disassociation
 dorsiventral
 derodidymus
-derog
 demeanour
 doronicum
 despond
@@ -9113,6 +9112,7 @@ detriment
 disdiaclasis
 disgracement
 dyingly
+derog
 didicoy
 dorymen
 digger
