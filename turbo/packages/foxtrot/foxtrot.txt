@@ -882,7 +882,6 @@ florivorous
 feverfews
 fantastication
 forold
-flyaways
 faventine
 flamfew
 fulmars
@@ -9846,6 +9845,7 @@ feterita
 fluviomarine
 fosh
 foggy
+flyaways
 fibroneuroma
 felinophobe
 formalise
