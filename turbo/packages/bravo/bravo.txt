@@ -5467,7 +5467,6 @@ battements
 basseted
 babbitts
 benjy
-behowled
 broken
 brouze
 bey
@@ -9991,6 +9990,7 @@ bayonetting
 blackwashing
 bulkin
 bizarrerie
+behowled
 bield
 broody
 barbell
