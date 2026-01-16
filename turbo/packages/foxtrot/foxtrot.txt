@@ -4206,6 +4206,7 @@ flab
 feistier
 felicide
 footsies
+familic
 fowls
 farinosely
 formed
@@ -5882,7 +5883,6 @@ flybane
 foveola
 freyr
 factitude
-familic
 frim
 frats
 forlornly
