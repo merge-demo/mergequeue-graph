@@ -9059,6 +9059,7 @@ disembattle
 dyester
 discommodity
 diluvy
+dellaring
 dictyota
 dictyotales
 dors
@@ -17542,7 +17543,6 @@ diencephalic
 druids
 dipterology
 dissimulations
-dellaring
 dielytra
 delegalizing
 doctrinaire
