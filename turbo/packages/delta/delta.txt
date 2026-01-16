@@ -2540,6 +2540,7 @@ dwined
 declasses
 dorn
 disjudication
+debind
 declass
 dimorphs
 dweller
@@ -18041,7 +18042,6 @@ dissimilating
 dull
 dillydallier
 dullard
-debind
 dipotassium
 detrusor
 dullardness
