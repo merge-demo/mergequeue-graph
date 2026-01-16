@@ -186,7 +186,6 @@ goniometry
 gluteoperineal
 guesting
 gradgrind
-golfer
 goaled
 gabarit
 gammacism
@@ -7747,6 +7746,7 @@ gonyocele
 gauby
 goasila
 gabeller
+golfer
 geogony
 graithly
 gilpey
