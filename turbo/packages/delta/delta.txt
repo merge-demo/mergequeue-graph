@@ -9908,6 +9908,7 @@ dodecatoic
 dipneustal
 dogmata
 diminisher
+decays
 dezinc
 diminishingly
 diminishment
@@ -11348,7 +11349,6 @@ disunifying
 dispensating
 dissociably
 discoherent
-decays
 diplopods
 discigerous
 discinct
