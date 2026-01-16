@@ -2287,7 +2287,6 @@ eobionts
 ensepulchre
 evangelicalness
 electrizable
-electrization
 enterohepatitis
 excavated
 epicotyl
@@ -12355,6 +12354,7 @@ extradictionary
 eurasian
 exfoliative
 ebbman
+electrization
 erodibility
 exhalents
 endocarditic
