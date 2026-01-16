@@ -5378,6 +5378,7 @@ electronvolt
 ergotization
 endowment
 ectene
+emporium
 excantation
 endpoints
 endrudge
@@ -6287,7 +6288,6 @@ ensanguine
 emancipative
 eloquent
 enlargingly
-emporium
 ergotin
 eschar
 euchred
