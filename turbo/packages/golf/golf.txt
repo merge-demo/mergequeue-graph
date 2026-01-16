@@ -787,7 +787,6 @@ galliformes
 ginneries
 goose
 gies
-gracefullest
 gandergoose
 girllikeness
 grinnellia
@@ -5809,6 +5808,7 @@ gaupus
 glissades
 greggle
 gather
+gracefullest
 greekish
 gedrite
 golliwog
