@@ -13813,6 +13813,7 @@ convoy
 cineplasty
 cineplastics
 cineradiography
+cistic
 chelingo
 credence
 cockal
@@ -30797,7 +30798,6 @@ copelidine
 culicinae
 canisiana
 coccostean
-cistic
 cloudbursts
 charonian
 contineu
