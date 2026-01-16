@@ -4819,7 +4819,6 @@ disembogue
 depthen
 decumana
 deepness
-dharna
 detickers
 demonical
 decadal
@@ -18244,6 +18243,7 @@ dungarees
 dispirem
 decempeda
 dodecafid
+dharna
 dungas
 doghearted
 dungbeck
