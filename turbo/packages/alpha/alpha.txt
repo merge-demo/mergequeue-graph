@@ -484,7 +484,6 @@ abbreviate
 amylemia
 antiscriptural
 abiuret
-abjectedness
 attriting
 aueto
 abjections
@@ -8351,6 +8350,7 @@ abey
 anthophagous
 alipterion
 amoebidae
+abjectedness
 alypum
 amarelle
 aliquots
