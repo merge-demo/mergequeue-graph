@@ -4875,7 +4875,6 @@ deigns
 diminuendo
 demonologer
 demonology
-demonologically
 disluster
 densitometers
 demonomist
@@ -12916,6 +12915,7 @@ disobeying
 delineative
 desulphuration
 disoblige
+demonologically
 dognapping
 decolorising
 disobliges
