@@ -1749,7 +1749,6 @@ diphenan
 dividend
 diphyllobothrium
 debriefs
-deathtrap
 devocalization
 drof
 deathward
@@ -14456,6 +14455,7 @@ duopolist
 dolabre
 denies
 deindividualize
+deathtrap
 dindymene
 divertibility
 donk
