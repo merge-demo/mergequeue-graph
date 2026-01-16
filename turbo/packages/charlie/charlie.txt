@@ -12417,7 +12417,6 @@ conacre
 courtroom
 chromium
 chromiums
-chromize
 crocard
 congoese
 chromizing
@@ -28765,6 +28764,7 @@ catenary
 cres
 counteraffirmation
 cresc
+chromize
 comparativeness
 cordelier
 crescendoing
