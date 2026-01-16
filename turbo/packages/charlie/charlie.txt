@@ -4025,7 +4025,6 @@ cutcheries
 cannaled
 countertierce
 choosingly
-carcinomatoid
 carcinomatosis
 carpetweed
 cellophane
@@ -7961,6 +7960,7 @@ cholecalciferol
 chab
 celibate
 chabasite
+carcinomatoid
 counterclockwise
 chabazite
 celiosalpingectomy
