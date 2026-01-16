@@ -65,6 +65,7 @@ gluemaking
 gamboler
 gogga
 gonidiophore
+gnattier
 galeenies
 garoo
 gentlemanize
@@ -3764,7 +3765,6 @@ goosepimply
 gibbous
 ganching
 gelastocoridae
-gnattier
 guarders
 ginep
 greenbark
