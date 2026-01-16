@@ -1012,7 +1012,6 @@ flashes
 fluorapatite
 fluoborid
 feeblest
-forehook
 foglietto
 fascicles
 flexuose
@@ -1725,6 +1724,7 @@ feastfully
 finny
 forayers
 fu
+forehook
 fencibles
 felonies
 feastraw
