@@ -2139,7 +2139,6 @@ grubberies
 gastnesses
 galeiform
 gynocratic
-ganglands
 guillermo
 gazette
 ginnet
@@ -6530,6 +6529,7 @@ ganglioneural
 grannom
 glaucic
 graceless
+ganglands
 galls
 goma
 glossoplegia
