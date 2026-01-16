@@ -6441,7 +6441,6 @@ fictor
 fruitages
 fissilingual
 farriery
-flatboat
 fording
 fetishists
 frosted
@@ -11182,6 +11181,7 @@ frenzelite
 forepaling
 flinter
 fullgrownness
+flatboat
 frontiersman
 fusobacteria
 foetalization
