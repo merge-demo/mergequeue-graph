@@ -6050,7 +6050,6 @@ engraulis
 eugenic
 eulachon
 elasmosaur
-ebullience
 evanesce
 epifauna
 epirrhema
@@ -8964,6 +8963,7 @@ extraplacental
 electrocardiograph
 elfin
 eristically
+ebullience
 employer
 exophthalmos
 erythema
