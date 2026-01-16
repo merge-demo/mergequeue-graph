@@ -1032,6 +1032,7 @@ flannelly
 flourishing
 farinosel
 foussa
+foredesignment
 fulfill
 floccule
 farmeress
@@ -7508,7 +7509,6 @@ ferial
 ferrocyanhydric
 foment
 feazes
-foredesignment
 forecastle
 forecastlehead
 five
