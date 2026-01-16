@@ -3178,6 +3178,7 @@ bilabial
 baptisin
 bataleur
 bashmuric
+boryl
 biperforate
 branchiomerism
 busine
@@ -16369,7 +16370,6 @@ bangup
 bioelectrogenetically
 bioelectronics
 borrowed
-boryl
 branchipus
 brushers
 burrish
