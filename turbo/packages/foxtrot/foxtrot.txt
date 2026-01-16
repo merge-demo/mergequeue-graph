@@ -1898,7 +1898,6 @@ fishable
 fingerflower
 fontanelle
 fumbling
-fustilarian
 frouze
 foism
 fruitless
@@ -8421,6 +8420,7 @@ fasels
 formee
 fluorinating
 freethinking
+fustilarian
 fulminous
 fuliginousness
 francomania
