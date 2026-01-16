@@ -4863,6 +4863,7 @@ carreton
 carri
 cetaceous
 carriageable
+cacotrichia
 carriageful
 clachans
 carriages
@@ -7939,7 +7940,6 @@ cetraric
 celeriacs
 cetrarin
 coenoecial
-cacotrichia
 cetus
 coattailed
 cevenol
