@@ -3963,7 +3963,6 @@ catonian
 caecal
 carburets
 cuffer
-cosponsored
 cataphracta
 carburetter
 calcaneoastragalar
@@ -4822,6 +4821,7 @@ carpopoditic
 coordinating
 carved
 carpoptosia
+cosponsored
 completion
 carbodiimide
 carport
