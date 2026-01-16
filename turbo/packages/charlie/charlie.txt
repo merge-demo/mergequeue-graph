@@ -9115,6 +9115,7 @@ chartering
 charterism
 charterless
 chartermaster
+circumpacific
 charters
 cryptograms
 cindered
@@ -14269,7 +14270,6 @@ circumnutated
 circumnutation
 cooperatively
 circumorbital
-circumpacific
 circulet
 ciliectomy
 composedly
