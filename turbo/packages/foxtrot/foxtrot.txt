@@ -420,6 +420,7 @@ fusetron
 friendliwise
 festive
 flints
+fogramity
 fibrotic
 festae
 fibroligamentous
@@ -2566,7 +2567,6 @@ faddishness
 feinting
 fumes
 forechase
-fogramity
 flongs
 ferrocyanate
 ferroelectric
