@@ -7119,6 +7119,7 @@ gremio
 gagtooth
 gorble
 gorblin
+glucosin
 gorcocks
 gypsylike
 gladiatorship
@@ -8630,7 +8631,6 @@ gossipping
 gerb
 grappled
 guti
-glucosin
 gulfed
 grapline
 guideposts
