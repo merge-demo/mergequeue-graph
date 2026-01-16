@@ -3876,7 +3876,6 @@ adital
 aporrhoea
 aquacades
 arthrosyrinx
-arbovirus
 analcite
 alphorns
 ayes
@@ -14317,6 +14316,7 @@ antiempirically
 angiotensin
 arabesk
 antherozoid
+arbovirus
 antherozooidal
 anthers
 anisopogonous
