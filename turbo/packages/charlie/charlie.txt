@@ -6750,7 +6750,6 @@ celemines
 celery
 cimborio
 cypres
-celerities
 celeste
 celiosalpingotomy
 centrical
@@ -15503,6 +15502,7 @@ clashes
 censures
 clashing
 clashingly
+celerities
 cormlike
 clasmatocyte
 ccoya
