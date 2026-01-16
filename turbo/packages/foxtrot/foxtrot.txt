@@ -4808,7 +4808,6 @@ feasting
 fascicular
 furnishing
 fodder
-foliums
 froebelism
 footfall
 fustigate
@@ -9011,6 +9010,7 @@ frasco
 foxbane
 foxberry
 falcular
+foliums
 fribbleism
 fractionation
 familiariser
