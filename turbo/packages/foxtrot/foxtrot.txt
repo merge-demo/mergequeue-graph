@@ -5312,6 +5312,7 @@ fatiha
 flinger
 fructuously
 fimbrilla
+forefence
 finiking
 flouncier
 fuzzines
@@ -6180,7 +6181,6 @@ fluctuational
 factioneer
 fluegelhorn
 foalfoot
-forefence
 flightily
 fairgrounds
 forlana
