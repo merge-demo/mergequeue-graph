@@ -2838,6 +2838,7 @@ cadence
 coincident
 cuprammonium
 canoing
+colonnades
 cuerpo
 canon
 churlish
@@ -20896,7 +20897,6 @@ comprecation
 compregnate
 coart
 cosmognosis
-colonnades
 carbarn
 cheesiness
 comprehender
