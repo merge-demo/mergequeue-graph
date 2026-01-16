@@ -14925,7 +14925,6 @@ cloud
 cytotropic
 castalio
 cytotropism
-cytovirin
 cinquain
 cycler
 cytozzoa
@@ -16106,6 +16105,7 @@ copple
 climaciaceous
 culturable
 climacter
+cytovirin
 cabarets
 cavettos
 climactery
