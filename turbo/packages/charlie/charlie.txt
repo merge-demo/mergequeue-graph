@@ -5409,7 +5409,6 @@ crummies
 cibolan
 corv
 casters
-ciliation
 castes
 chrysanthemin
 casteth
@@ -8271,6 +8270,7 @@ chaldean
 chiver
 caucused
 caricetum
+ciliation
 councillary
 chalder
 coholder
