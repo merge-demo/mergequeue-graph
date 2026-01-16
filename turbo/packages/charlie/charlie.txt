@@ -141,7 +141,6 @@ cardiolith
 catholici
 crudes
 cabled
-cablegram
 cablegrams
 cruors
 clinopyroxene
@@ -9450,6 +9449,7 @@ comprehensor
 cheatableness
 cheated
 cubits
+cablegram
 characterisation
 cheater
 cheatery
