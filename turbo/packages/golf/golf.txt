@@ -9274,6 +9274,7 @@ giltcup
 grockle
 goidel
 gemauve
+geissospermin
 granitoid
 groenendael
 gecko
@@ -10223,7 +10224,6 @@ geotonus
 glamourously
 genetika
 galusha
-geissospermin
 gainsays
 glaucous
 gowpin
