@@ -8,6 +8,7 @@ degradation
 dialectologist
 dabby
 dogbane
+deuce
 demerara
 drawstrings
 dermatoheteroplasty
@@ -7247,7 +7248,6 @@ defalk
 disarrest
 deteriorating
 deterioration
-deuce
 data
 dear
 dicyan
