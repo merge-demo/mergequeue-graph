@@ -2648,6 +2648,7 @@ exciples
 embiidina
 electrostriction
 ejurate
+euchology
 epitomizing
 emong
 electrosurgery
@@ -10532,7 +10533,6 @@ ergosterol
 euchlorite
 eleutherodactylus
 elbuck
-euchology
 endocrinological
 evangelistarium
 equationist
