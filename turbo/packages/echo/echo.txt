@@ -817,7 +817,6 @@ entrecote
 epop
 exulate
 ectiris
-etamines
 ectocarpus
 eriophorum
 eosinophil
@@ -3503,6 +3502,7 @@ eloquentness
 escorted
 enured
 epigonichthyidae
+etamines
 embolectomy
 enicuridae
 emboli
