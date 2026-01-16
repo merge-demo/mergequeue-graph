@@ -21719,6 +21719,7 @@ condolent
 cruiserweight
 cuna
 condoler
+coexclusive
 coaxers
 coleuses
 counterscarp
@@ -21955,7 +21956,6 @@ confidingness
 configural
 canteens
 coinsurable
-coexclusive
 clinohedrite
 configurating
 configuration
