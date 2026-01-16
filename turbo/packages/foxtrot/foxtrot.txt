@@ -3433,6 +3433,7 @@ fascisti
 freesp
 filthily
 fortunation
+flinching
 forebowline
 fartherance
 frag
@@ -4780,7 +4781,6 @@ foothills
 flagman
 fasciolaria
 fancifulness
-flinching
 floatiest
 fullwords
 faena
