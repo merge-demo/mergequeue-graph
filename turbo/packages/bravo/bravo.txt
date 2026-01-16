@@ -9643,7 +9643,6 @@ baizes
 batiste
 bisyllabic
 benefactions
-burao
 braize
 bulleting
 bisimine
@@ -11069,6 +11068,7 @@ ballyhooer
 brazilette
 bezoar
 butomaceae
+burao
 blocked
 blocker
 brid
