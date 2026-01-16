@@ -6745,6 +6745,7 @@ enjoys
 entireness
 ethologic
 evading
+enwraps
 entiris
 extinguishing
 exasperate
@@ -10700,7 +10701,6 @@ euhyostylic
 eukairite
 enfavor
 eaver
-enwraps
 exedra
 elicitory
 etherializing
