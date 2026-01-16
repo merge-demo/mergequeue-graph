@@ -2208,7 +2208,6 @@ glucolipide
 gossipiness
 gutturalised
 glucosic
-genghis
 gravific
 granth
 grotty
@@ -7969,6 +7968,7 @@ gothonic
 ganglionectomy
 globing
 glottologies
+genghis
 goldenmouthed
 gasifiable
 gainer
