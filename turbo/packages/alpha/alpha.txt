@@ -2827,7 +2827,6 @@ antiscience
 acromelalgia
 airworthier
 armorproof
-atonics
 archostenosis
 autocamping
 acromicria
@@ -4198,6 +4197,7 @@ appliqueing
 arthrodire
 antigrammatically
 adoptionist
+atonics
 apocynum
 apepsy
 acroparalysis
