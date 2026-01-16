@@ -3526,7 +3526,6 @@ gleeking
 gilt
 grogginess
 gantangs
-gigtree
 griffe
 gents
 ghastily
@@ -10860,6 +10859,7 @@ growlers
 girds
 geomagnetician
 gush
+gigtree
 gyri
 grozet
 guideress
