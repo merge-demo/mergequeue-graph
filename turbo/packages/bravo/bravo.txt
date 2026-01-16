@@ -8414,7 +8414,6 @@ biosynthetically
 balkier
 biogenous
 blackwood
-biotherapy
 bilayer
 backtrick
 burp
@@ -16682,6 +16681,7 @@ bubblelike
 bucketmaking
 basketfuls
 blithehearted
+biotherapy
 besiege
 bishopship
 basilisk
