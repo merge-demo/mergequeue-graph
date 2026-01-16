@@ -7061,6 +7061,7 @@ empanelled
 envelope
 exurbanites
 extemporaneously
+empanada
 endpaper
 envelops
 erect
@@ -13904,7 +13905,6 @@ extragastric
 elizabethan
 empressment
 epilimnial
-empanada
 exsuperate
 extirpates
 extramatrical
