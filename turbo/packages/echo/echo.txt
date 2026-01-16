@@ -1788,7 +1788,6 @@ een
 erodium
 effetely
 enamors
-eroding
 encroached
 egotheism
 epithalamy
@@ -12022,6 +12021,7 @@ extra
 entackle
 enginehouse
 ervum
+eroding
 excommunicative
 excommunicator
 expetible
