@@ -5079,6 +5079,7 @@ effaced
 expositoriness
 evanishment
 endoconidia
+ergatomorph
 edificate
 epiplanktonic
 encrustment
@@ -8569,7 +8570,6 @@ electrotherapeutic
 encompassing
 epigrammatism
 egall
-ergatomorph
 equidimensional
 equidist
 exrx
