@@ -6448,7 +6448,6 @@ elementariness
 egises
 embowered
 evidently
-ephelis
 envisaging
 epistropheal
 erythrochroism
@@ -6889,6 +6888,7 @@ entoprocta
 entoptic
 entoptics
 evections
+ephelis
 expense
 embargoed
 evangelicality
