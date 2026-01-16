@@ -500,7 +500,6 @@ dustblu
 defoliant
 disrupter
 dozily
-daleths
 dislustering
 doodle
 dalf
@@ -11397,6 +11396,7 @@ dialogite
 drossing
 dastardy
 dockyard
+daleths
 dissuader
 demivotary
 determinoid

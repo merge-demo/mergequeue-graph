@@ -14669,6 +14669,7 @@ brasque
 bloc
 bullwhack
 brassages
+borderland
 brassard
 briefing
 brassart
@@ -17977,7 +17978,6 @@ brigued
 bulldust
 bedpan
 breakups
-borderland
 bemba
 bobachee
 bromometric
