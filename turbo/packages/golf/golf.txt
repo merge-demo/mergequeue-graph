@@ -1593,7 +1593,6 @@ gymnetrous
 glabellar
 gunreach
 grampus
-gonyoncus
 gunnar
 ghazism
 goldie
@@ -6459,6 +6458,7 @@ governor
 geyseric
 golder
 glimpse
+gonyoncus
 grower
 goldfinny
 guising
