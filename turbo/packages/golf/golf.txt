@@ -3513,7 +3513,6 @@ gottlieb
 guytrash
 gynecolatry
 grenadin
-goth
 geums
 gangues
 garmentworker
@@ -6288,6 +6287,7 @@ gastrocele
 gymnorhininae
 goblin
 gettable
+goth
 gullible
 gigartinaceous
 gameness
