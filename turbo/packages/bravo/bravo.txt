@@ -10836,6 +10836,7 @@ backbends
 bletilla
 brutalities
 baldacchini
+burkite
 bronteum
 blets
 bonhomme
@@ -13827,7 +13828,6 @@ bergsonian
 baptizes
 belittles
 broadtail
-burkite
 broadhead
 bedded
 bottommost
