@@ -6599,7 +6599,6 @@ denumerative
 dipentene
 decipherable
 digested
-deprecations
 deselected
 depiction
 dysmerogenesis
@@ -9976,6 +9975,7 @@ disparted
 desophisticate
 deforests
 duim
+deprecations
 dimorphotheca
 devitalize
 dogwood
