@@ -5099,6 +5099,7 @@ flashiness
 fermerer
 famulli
 fragrancies
+fauxbourdon
 forewords
 furler
 fregit
@@ -7011,7 +7012,6 @@ fermentum
 forebodings
 fucation
 fratricelli
-fauxbourdon
 folkloristic
 forgiveness
 freakout
