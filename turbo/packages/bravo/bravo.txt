@@ -98,7 +98,6 @@ becked
 babied
 bumaloe
 bloodstock
-bisyllabism
 boddhisattva
 bonsoir
 blistering
@@ -15758,6 +15757,7 @@ brock
 bombsight
 bryonies
 brocoli
+bisyllabism
 bicycled
 bufotenine
 bavaroise
