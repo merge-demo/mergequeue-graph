@@ -1106,7 +1106,6 @@ douce
 diphtherial
 defaisance
 denudates
-dentalium
 darwinists
 declamations
 denazified
@@ -9493,6 +9492,7 @@ dinarzade
 disapproval
 diggable
 digged
+dentalium
 deuterostome
 demonstrational
 dighted
