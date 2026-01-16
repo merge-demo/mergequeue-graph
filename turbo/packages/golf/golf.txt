@@ -1923,7 +1923,6 @@ gulped
 gastromycosis
 geal
 garnetwork
-garnet
 gynecocratic
 graperoot
 garibaldi
@@ -5202,6 +5201,7 @@ groundsheet
 gale
 gleamless
 gleed
+garnet
 gramophone
 germinant
 glyptologist
