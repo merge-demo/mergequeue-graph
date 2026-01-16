@@ -11670,7 +11670,6 @@ electromer
 epiphragmal
 epileptologist
 ephraimitish
-epistemologically
 erythrolysin
 earscrew
 emphatic
@@ -13294,6 +13293,7 @@ exploratively
 ectrogeny
 eupterotidae
 estoile
+epistemologically
 espousers
 efformation
 eminences
