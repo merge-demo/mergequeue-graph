@@ -5384,7 +5384,6 @@ busheled
 bloodripeness
 briquets
 babelic
-begulf
 blastomycotic
 bakshish
 begummed
@@ -7638,6 +7637,7 @@ biogenies
 beeper
 burgling
 bewraps
+begulf
 belesprit
 bewrapt
 bewreck
