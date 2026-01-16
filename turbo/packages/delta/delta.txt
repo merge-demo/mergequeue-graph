@@ -7497,7 +7497,6 @@ dipsadinae
 doorwise
 degger
 dibase
-denitrify
 disentwine
 denda
 deusan
@@ -9586,6 +9585,7 @@ diguanide
 dihalide
 derives
 deil
+denitrify
 deadline
 differentiating
 deepmost
