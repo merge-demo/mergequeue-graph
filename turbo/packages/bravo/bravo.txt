@@ -1327,7 +1327,6 @@ bermudian
 bernoullian
 bingy
 burelage
-bedways
 bluecap
 bunks
 bacteriophagous
@@ -5386,6 +5385,7 @@ banstickle
 busheled
 bloodripeness
 briquets
+bedways
 babelic
 blastomycotic
 bakshish
