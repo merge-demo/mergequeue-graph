@@ -130,7 +130,6 @@ forefathers
 fiberizer
 fomes
 filicic
-flexive
 fackeltanz
 frill
 fumiferous
@@ -8501,6 +8500,7 @@ foramen
 forinsec
 fream
 ferrule
+flexive
 fraxetin
 futuristically
 foreseeing
