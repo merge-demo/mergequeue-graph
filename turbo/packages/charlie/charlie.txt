@@ -7724,7 +7724,6 @@ ceroplasty
 ceroplastic
 ceroplastics
 cyanocrystallin
-crematorial
 cerosin
 cerote
 chastises
@@ -9581,6 +9580,7 @@ cheders
 chedite
 confidences
 chee
+crematorial
 cheecha
 ciceronism
 cheechaco
