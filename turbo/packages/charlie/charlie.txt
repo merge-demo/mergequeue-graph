@@ -7228,6 +7228,7 @@ centrobarical
 catechist
 centrodesmus
 centrodorsal
+chondrosis
 centroids
 conte
 countervindication
@@ -11780,7 +11781,6 @@ colpohysterotomy
 chondrosin
 corporals
 conopid
-chondrosis
 chondrostean
 chondrostei
 cytosine
