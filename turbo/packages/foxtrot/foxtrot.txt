@@ -1132,7 +1132,6 @@ filiates
 farthings
 forlornness
 fubs
-footprints
 fitted
 foreguts
 flog
@@ -7719,6 +7718,7 @@ foremean
 fasciately
 followingly
 fenouillette
+footprints
 flavour
 fanbearer
 ferroprussic
