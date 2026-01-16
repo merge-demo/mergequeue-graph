@@ -5089,7 +5089,6 @@ coevolve
 colisepsis
 cerianthus
 casate
-closemouthed
 casava
 cuber
 cotans
@@ -29558,6 +29557,7 @@ cog
 criticized
 criticizers
 criticizing
+closemouthed
 criticship
 criticule
 critique
