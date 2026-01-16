@@ -4146,7 +4146,6 @@ baddishness
 bearward
 bearwort
 boanthropy
-bravadoing
 beasthood
 bacons
 biomedical
@@ -14462,6 +14461,7 @@ brahmanistic
 bathyspheres
 bagh
 babying
+bravadoing
 brakeless
 bioenergetics
 brakeload
