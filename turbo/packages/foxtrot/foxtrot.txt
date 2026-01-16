@@ -2662,7 +2662,6 @@ farcers
 falsely
 fittonia
 fluoridating
-fertilise
 foremostly
 fistular
 fertilizational
@@ -11323,6 +11322,7 @@ fps
 furfurine
 funebrious
 faujasite
+fertilise
 fuseplug
 foalhood
 fashioners
