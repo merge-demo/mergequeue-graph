@@ -4503,6 +4503,7 @@ enureses
 emplaned
 embarkation
 encephalotome
+enfevered
 edomite
 ethics
 epionynychia
@@ -7666,7 +7667,6 @@ exalt
 escurialize
 evidentiary
 erythrine
-enfevered
 epidemiography
 elytroplastic
 ergo
