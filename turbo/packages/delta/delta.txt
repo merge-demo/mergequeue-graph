@@ -13106,7 +13106,6 @@ disglory
 duce
 diactine
 dispensingly
-dispensive
 daggered
 dispeople
 daresay
@@ -16921,6 +16920,7 @@ dazzlers
 damnation
 deoxidate
 displeasingness
+dispensive
 devisability
 dobber
 doless
