@@ -3887,7 +3887,6 @@ carbonimeter
 carbonimide
 choultries
 contrastimulant
-costaea
 chinkle
 criminalness
 centrosymmetry
@@ -7823,6 +7822,7 @@ colures
 cholelithotripsy
 counterdemonstrate
 cribrous
+costaea
 crotchy
 cervicothoracic
 cervicovesical
