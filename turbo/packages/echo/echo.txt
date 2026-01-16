@@ -13269,6 +13269,7 @@ englifier
 empierce
 endophragm
 estranger
+embittered
 englishable
 evict
 eponymize
@@ -14020,7 +14021,6 @@ ectophyte
 eshin
 enripen
 escars
-embittered
 emulsin
 emmet
 extraspectral
