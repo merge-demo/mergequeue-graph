@@ -5909,6 +5909,7 @@ gewgawish
 grackle
 grogshops
 gnathobase
+gossipries
 goofs
 gambirs
 glamourizer
@@ -10629,7 +10630,6 @@ glimmerous
 grillades
 gambette
 greenly
-gossipries
 gaylies
 gnomide
 gerontologies
