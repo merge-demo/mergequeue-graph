@@ -6208,6 +6208,7 @@ erecter
 endplate
 excipule
 epistapedial
+enwrapped
 eelcatcher
 elimination
 evasively
@@ -11251,7 +11252,6 @@ eschewal
 exterrestrial
 evaporability
 emanating
-enwrapped
 ectoplasy
 extraversive
 eutaxy
