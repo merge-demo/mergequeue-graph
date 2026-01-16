@@ -229,7 +229,6 @@ bach
 bibliograph
 betonica
 bastinadoed
-bactrites
 beneception
 betrothed
 bootlaces
@@ -11834,6 +11833,7 @@ brainwashers
 brushlike
 bestowals
 bodicemaking
+bactrites
 becrowding
 beaked
 bepale
