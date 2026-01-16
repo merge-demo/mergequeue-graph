@@ -5644,6 +5644,7 @@ gothites
 grizzler
 grenat
 gaultheria
+glassweed
 gaudies
 galvanographic
 glandulous
@@ -8415,7 +8416,6 @@ gyves
 guaiacums
 gonoblastic
 goldonian
-glassweed
 guadagnini
 gavottes
 gawked
