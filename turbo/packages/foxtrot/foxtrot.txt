@@ -1950,7 +1950,6 @@ flagmaker
 fone
 feeb
 feeblemindedly
-femaleness
 flowerlike
 festshrifts
 francia
@@ -6669,6 +6668,7 @@ fluerics
 fasciculated
 formicariae
 foofaraws
+femaleness
 furrier
 freaky
 flaughtbred
