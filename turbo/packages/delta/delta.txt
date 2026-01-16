@@ -6811,7 +6811,6 @@ dissoconch
 desmachyme
 daubery
 disapostle
-dockworker
 decidingly
 dictyoceratina
 desmanthus
@@ -11153,6 +11152,7 @@ disbase
 dani
 disbeliefs
 decastere
+dockworker
 diarchic
 decemjugate
 dissociating
