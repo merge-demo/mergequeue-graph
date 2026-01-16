@@ -3169,7 +3169,6 @@ feazings
 friezes
 fibulae
 floodcock
-fishman
 furanoses
 footballist
 firma
@@ -8239,6 +8238,7 @@ forging
 furacity
 formous
 forgings
+fishman
 figgy
 freelances
 forgivable
