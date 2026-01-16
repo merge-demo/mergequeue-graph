@@ -51,7 +51,6 @@ enzyms
 excites
 exciton
 electroretinograph
-excursion
 escarped
 eremite
 exhibiter
@@ -9211,6 +9210,7 @@ educationalist
 extrapleural
 extrapolative
 element
+excursion
 embryoid
 eyestrain
 erotogenesis
