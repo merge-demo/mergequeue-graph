@@ -8513,6 +8513,7 @@ alkylidene
 afterburners
 autocoids
 astronautics
+aller
 actinotrocha
 atabal
 aborts
@@ -8698,7 +8699,6 @@ acalephan
 asterospondylic
 aerocurve
 anapterygote
-aller
 allergenic
 abouchement
 allergenicity
