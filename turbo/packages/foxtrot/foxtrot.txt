@@ -7521,7 +7521,6 @@ flagonet
 figworts
 floggers
 ficoidal
-foggier
 forecourts
 freeholding
 furuncles
@@ -10471,6 +10470,7 @@ flegm
 fluitant
 fatness
 frutescent
+foggier
 frostings
 fanzine
 finises
