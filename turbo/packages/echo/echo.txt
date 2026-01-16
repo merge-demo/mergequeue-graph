@@ -5644,6 +5644,7 @@ erysiphaceae
 ectocelic
 extranatural
 everbearing
+enigmatic
 elephanta
 eng
 esurience
@@ -9566,7 +9567,6 @@ emotionalized
 enticeable
 evoked
 esophagoplasty
-enigmatic
 embodiment
 elaboratively
 endodermal
