@@ -1611,6 +1611,7 @@ fallalery
 faniente
 favouring
 footroom
+flambeau
 floriage
 flappier
 frijol
@@ -4875,7 +4876,6 @@ fino
 fourscore
 flakiest
 forged
-flambeau
 foamier
 fixate
 fossilist
