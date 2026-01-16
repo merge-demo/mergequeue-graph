@@ -2490,6 +2490,7 @@ fernyear
 funs
 fernshaw
 fordo
+flanerie
 feck
 flavic
 freightage
@@ -11030,7 +11031,6 @@ flammulated
 fontainea
 frontolysis
 fancies
-flanerie
 fumishing
 friendliness
 fermented
