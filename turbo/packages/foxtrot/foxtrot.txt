@@ -2247,6 +2247,7 @@ fenced
 fencelessness
 forkiest
 fengite
+fussbudget
 funambulator
 fanout
 feudalisation
@@ -11609,7 +11610,6 @@ fragilely
 fermata
 fustics
 feinschmecker
-fussbudget
 forint
 facsimile
 firecracker
