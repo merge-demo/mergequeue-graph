@@ -7683,7 +7683,6 @@ florian
 freeish
 falconlike
 fretty
-furs
 forsaken
 flamelike
 formalizations
@@ -8404,6 +8403,7 @@ felonsetter
 febronian
 fique
 flaucht
+furs
 fantail
 fathercraft
 fidelia
