@@ -1266,7 +1266,6 @@ griffes
 guenon
 gapper
 glutinosity
-grimaces
 garran
 gaia
 glenwood
@@ -3249,6 +3248,7 @@ gereagle
 gleeful
 gauze
 geotropically
+grimaces
 galagala
 gaut
 gossypol
