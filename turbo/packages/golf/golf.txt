@@ -1781,7 +1781,6 @@ gynandrism
 glossolaly
 gutterblood
 gelatinotype
-grippelike
 ghyll
 glutinate
 gestalten
@@ -8782,6 +8781,7 @@ giantesses
 greensickness
 greenstone
 gimballing
+grippelike
 gange
 greenswarded
 greenware
