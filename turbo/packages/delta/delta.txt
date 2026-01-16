@@ -11342,7 +11342,6 @@ dehydrogenise
 decorement
 delimiter
 dischevel
-dentalization
 dissimulator
 disci
 diabases
@@ -16286,6 +16285,7 @@ decator
 discoloring
 downlink
 desertion
+dentalization
 downloading
 downness
 dermographic

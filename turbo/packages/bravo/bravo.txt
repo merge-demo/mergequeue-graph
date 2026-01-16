@@ -11449,7 +11449,6 @@ belzebub
 blueprint
 blancmange
 brawner
-blazingly
 bluesy
 bluesman
 bromisms
@@ -14474,6 +14473,7 @@ braky
 boatyards
 bakunda
 betray
+blazingly
 brakie
 brambleberry
 brambles
