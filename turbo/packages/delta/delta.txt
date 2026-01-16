@@ -3259,6 +3259,7 @@ disauthenticate
 dentilingual
 dullsome
 disjects
+douzaine
 dyeleaves
 deblocked
 daughterliness
@@ -13472,7 +13473,6 @@ droyl
 disobediently
 disrobement
 disrober
-douzaine
 danseur
 dunnites
 debi
