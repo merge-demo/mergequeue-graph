@@ -5596,6 +5596,7 @@ afterthought
 afterthoughts
 afterthrift
 apastron
+akontae
 armil
 anchoritically
 absorptivity
@@ -7108,7 +7109,6 @@ aknow
 aggradation
 agglomerating
 awber
-akontae
 abdominalia
 azotea
 anisotropies
