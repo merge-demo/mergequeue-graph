@@ -2063,7 +2063,6 @@ foremasthand
 felicity
 fructidor
 fumatorium
-fusibleness
 freeform
 fideistic
 fogle
@@ -6323,6 +6322,7 @@ ferments
 fumigatorium
 fpm
 frolicness
+fusibleness
 forthcomingness
 furcraeas
 favela

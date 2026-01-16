@@ -2239,7 +2239,6 @@ campstool
 camptonite
 cubicone
 camptosorus
-cabaan
 campus
 chromatic
 campusses
@@ -13298,6 +13297,7 @@ churchwarden
 cyclopedias
 cyclopentanone
 curlyhead
+cabaan
 covenanting
 candlestand
 cyclopentene
