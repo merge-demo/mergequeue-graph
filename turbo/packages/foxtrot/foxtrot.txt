@@ -1731,6 +1731,7 @@ forayers
 fu
 forehook
 fencibles
+fatlings
 felonies
 feastraw
 fledgling
@@ -6185,7 +6186,6 @@ forefence
 flightily
 fairgrounds
 forlana
-fatlings
 freyja
 floccules
 fascinative
