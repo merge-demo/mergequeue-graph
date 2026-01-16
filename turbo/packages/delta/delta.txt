@@ -8735,6 +8735,7 @@ dubonnet
 dover
 dot
 debadge
+durns
 diaporesis
 demimonk
 decime
@@ -12732,7 +12733,6 @@ diphenol
 dishonesty
 deindividualization
 domicilement
-durns
 dyslysin
 disoxidate
 diazotizing
