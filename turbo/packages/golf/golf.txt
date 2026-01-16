@@ -756,7 +756,6 @@ gansa
 gastrohysterorrhaphy
 gravitater
 gestapos
-gerim
 gunbearer
 geneura
 gerkin
@@ -8211,6 +8210,7 @@ graphemically
 gris
 genevois
 graphically
+gerim
 glorioso
 graphiological
 gemotes
