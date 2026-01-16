@@ -5227,6 +5227,7 @@ flot
 fictionist
 fissiped
 flavoured
+fusus
 fondant
 flavourful
 fieldy
@@ -11647,7 +11648,6 @@ funerealness
 fair
 forded
 foreknowing
-fusus
 feedlot
 fanion
 foretalking
