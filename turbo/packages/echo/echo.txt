@@ -7933,6 +7933,7 @@ equilobed
 epimysia
 esthesias
 expunger
+eviscerating
 enflesh
 eteocreton
 embower
@@ -11263,7 +11264,6 @@ eimer
 extrascholastic
 euphorbine
 evaporating
-eviscerating
 endoarteritis
 esophagodynia
 excursing
