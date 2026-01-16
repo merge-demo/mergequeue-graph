@@ -5436,7 +5436,6 @@ flensed
 frillers
 fallation
 fidelities
-feus
 foolscap
 furunculoid
 flesh
@@ -7574,6 +7573,7 @@ forefeelingly
 foreffelt
 fimbrillae
 flotten
+feus
 feminised
 fester
 fabular
