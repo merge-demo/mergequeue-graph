@@ -592,7 +592,6 @@ drillbit
 damfool
 div
 digenea
-dodecaheddra
 dissolver
 diwata
 decopperization
@@ -13490,6 +13489,7 @@ debenture
 ditrigonal
 dizygous
 disruddered
+dodecaheddra
 disruly
 dehepatize
 dairymaid
