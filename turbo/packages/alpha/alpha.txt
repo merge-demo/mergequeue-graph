@@ -5515,7 +5515,6 @@ argot
 aluco
 acetonylidene
 afterguard
-anaerobious
 ablins
 apophylaxis
 afterheat
@@ -16349,6 +16348,7 @@ anachronical
 anxiety
 annunciative
 aquabelle
+anaerobious
 antivenereal
 acoin
 amphilogism
