@@ -11885,7 +11885,6 @@ doux
 deathblow
 dehypnotized
 dingled
-dragoonade
 daguerreotypic
 disdein
 dardani
@@ -14697,6 +14696,7 @@ deburse
 dm
 dystectic
 divid
+dragoonade
 dandified
 dioecisms
 dorsoposterior
