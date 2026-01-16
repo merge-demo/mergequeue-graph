@@ -4385,6 +4385,7 @@ canichana
 coppers
 culvertage
 cyclase
+ceruminiferous
 confidentiality
 cyberneticists
 cobwebbed
@@ -29504,7 +29505,6 @@ crystallose
 checkerboard
 coevality
 crystallurgy
-ceruminiferous
 companion
 coroniform
 crushed
