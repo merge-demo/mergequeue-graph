@@ -11531,6 +11531,7 @@ frena
 foxfeet
 fuselages
 fuselike
+floeberg
 forecaddie
 fermentations
 faradiser
@@ -11542,7 +11543,6 @@ furlable
 fabling
 fictionize
 fards
-floeberg
 famulary
 fledgy
 folio
