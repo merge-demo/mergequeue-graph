@@ -254,6 +254,7 @@ founder
 feoffeeship
 foetors
 faders
+foamy
 firedamp
 fadge
 furfuramide
@@ -9776,7 +9777,6 @@ fattens
 foredooming
 fleck
 faddist
-foamy
 fretum
 fleetful
 fidget

@@ -4571,6 +4571,7 @@ citoler
 carnets
 carny
 coccostean
+clarinos
 capsule
 cotoxo
 clapperdudgeon
@@ -31325,7 +31326,6 @@ curdly
 curdoo
 conceivably
 cured
-clarinos
 cornix
 cureless
 corypha
