@@ -1923,7 +1923,6 @@ feteritas
 federalistic
 feoffee
 forksful
-freight
 flushgate
 furling
 fileable
@@ -8862,6 +8861,7 @@ fiques
 flitty
 ferritins
 foumart
+freight
 fodgel
 falciparum
 forayer
