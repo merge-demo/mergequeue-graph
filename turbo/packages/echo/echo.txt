@@ -6458,7 +6458,6 @@ epistropheal
 erythrochroism
 evincingly
 euphratean
-exstruct
 euphonicalness
 electromotor
 entocyst
@@ -10799,6 +10798,7 @@ extrusive
 expedients
 enthralling
 extracultural
+exstruct
 eupatorium
 ethnobiology
 eupatrids
