@@ -5316,7 +5316,6 @@ bivariate
 buroo
 beglide
 batekes
-burkers
 bor
 beglooms
 begloze
@@ -17723,6 +17722,7 @@ burnfire
 bashaws
 buckeens
 burnish
+burkers
 burnishable
 brachiorrhachidian
 burnisher
