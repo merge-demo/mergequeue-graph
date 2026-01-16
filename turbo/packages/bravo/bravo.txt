@@ -2068,6 +2068,7 @@ bottlelike
 betraise
 basilissa
 blatherskites
+brucellosis
 banksian
 blowtubes
 barreleye
@@ -16300,7 +16301,6 @@ bode
 brucellae
 bleared
 boussingaultia
-brucellosis
 barely
 biolytic
 brucia
