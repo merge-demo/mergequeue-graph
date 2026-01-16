@@ -5365,7 +5365,6 @@ glimmer
 groundswell
 generall
 glutinant
-glucosid
 gutwise
 glycaemic
 grimmer
@@ -10518,6 +10517,7 @@ goladar
 girl
 geometrina
 geodesical
+glucosid
 gratiola
 gibs
 gulix
