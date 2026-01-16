@@ -1901,6 +1901,7 @@ corbinas
 confectory
 cambodian
 calotte
+coffinmaking
 camboge
 cliffed
 contraposing
@@ -18251,7 +18252,6 @@ colpoplastic
 coffinless
 consoled
 chalcographer
-coffinmaking
 coffins
 coffled
 coarbitrator
