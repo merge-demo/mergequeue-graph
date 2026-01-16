@@ -652,6 +652,7 @@ bendable
 barfing
 bellwethers
 butchering
+basan
 boozed
 bullnecks
 biramous
@@ -15892,7 +15893,6 @@ brahminee
 berg
 bossboy
 blitzed
-basan
 bopyridian
 bromhydrate
 besprinkling
