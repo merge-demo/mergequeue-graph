@@ -7259,6 +7259,7 @@ epagomenous
 extraconstitutional
 earwig
 electro
+edmond
 epochism
 escalier
 exception
@@ -10364,7 +10365,6 @@ euphonical
 expediently
 edulcorator
 eruct
-edmond
 embrase
 exhance
 earwigging
