@@ -728,6 +728,7 @@ florigens
 featherlet
 famp
 famuli
+fictionizing
 frustrater
 fana
 feoffment
@@ -3223,7 +3224,6 @@ forestay
 forestish
 fictionized
 frankheartness
-fictionizing
 foutre
 forcene
 fireballs
