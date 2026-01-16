@@ -4966,7 +4966,6 @@ flaneurs
 flanked
 fledging
 factordom
-fribourg
 formals
 freelage
 forego
@@ -10207,6 +10206,7 @@ franconian
 finespun
 formolit
 frabous
+fribourg
 frankeniaceae
 fortuitousness
 fluorescigenous
