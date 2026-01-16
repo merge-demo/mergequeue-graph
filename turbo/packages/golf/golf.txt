@@ -8,7 +8,6 @@ googul
 gummous
 gunrooms
 gabber
-gabbers
 glandulation
 gobi
 grasswork
@@ -2867,6 +2866,7 @@ gynospore
 gyromitra
 gedunk
 geobotanic
+gabbers
 grievants
 gustation
 gradualism
