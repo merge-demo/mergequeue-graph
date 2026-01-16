@@ -10527,7 +10527,6 @@ blastosphere
 balanus
 bromal
 buttonhold
-belligerent
 badasses
 blastula
 boswellia
@@ -17333,6 +17332,7 @@ ballam
 belamy
 brontotherium
 boxier
+belligerent
 babes
 birdseed
 bargained
