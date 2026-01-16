@@ -3300,6 +3300,7 @@ furfur
 fidelio
 forebreast
 featheredge
+fonctionnaire
 fameworthy
 frist
 fruggan
@@ -10357,7 +10358,6 @@ fungite
 flusterment
 fibroplasia
 foundlings
-fonctionnaire
 fecundities
 fertilizable
 frontignan
