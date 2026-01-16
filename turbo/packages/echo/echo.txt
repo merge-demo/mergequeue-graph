@@ -1492,7 +1492,6 @@ entomophilous
 egalitarians
 evected
 egality
-examens
 exaggeratedly
 everywhere
 etch
@@ -6804,6 +6803,7 @@ etherification
 exceptionless
 epitome
 exterior
+examens
 embarque
 enameloma
 extractive
