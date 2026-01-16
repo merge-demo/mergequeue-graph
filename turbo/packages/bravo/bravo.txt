@@ -943,7 +943,6 @@ biopsychic
 belligerently
 bagsful
 bazookaman
-bassalian
 barbeled
 bravely
 beprank
@@ -9926,6 +9925,7 @@ bordelaise
 bauson
 bastardice
 bituminate
+bassalian
 bituminising
 bituminized
 burnbeat
