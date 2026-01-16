@@ -640,7 +640,6 @@ caenostylic
 commentarial
 caeoma
 chera
-cero
 clara
 cataclasis
 chinchiness
@@ -673,6 +672,7 @@ creatins
 caestuses
 caesura
 cybernated
+cero
 caesurae
 caesuric
 caf
