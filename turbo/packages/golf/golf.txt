@@ -1728,7 +1728,6 @@ gloeal
 goric
 glass
 guesses
-gamesman
 guernseys
 gaullism
 gastropexy
@@ -10357,6 +10356,7 @@ gladify
 gallivorous
 glaur
 grouseberry
+gamesman
 gelate
 garretmaster
 gynic

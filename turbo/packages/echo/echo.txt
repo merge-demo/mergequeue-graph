@@ -10641,7 +10641,6 @@ exogenic
 extentions
 euergetes
 epimyth
-embryotrophe
 eunuchs
 expediment
 easeless
@@ -12295,6 +12294,7 @@ equilucent
 exerce
 equimultiple
 exceptious
+embryotrophe
 epanisognathous
 endotracheitis
 equimolecular
