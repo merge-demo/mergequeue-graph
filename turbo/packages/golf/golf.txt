@@ -2393,7 +2393,6 @@ groomed
 gauk
 gruesomer
 gleemaiden
-gyrencephalous
 giddily
 glariest
 ganton
@@ -3547,6 +3546,7 @@ gausses
 gharnao
 gilbertian
 glossa
+gyrencephalous
 gambolled
 goniaster
 gnomelike
