@@ -8008,7 +8008,6 @@ ergs
 expilate
 ejections
 eggar
-ease
 entoconid
 enstatitic
 easements
@@ -13544,6 +13543,7 @@ eutaxie
 excitements
 enlightening
 earthquakes
+ease
 experimentor
 exuviae
 emmarbling
