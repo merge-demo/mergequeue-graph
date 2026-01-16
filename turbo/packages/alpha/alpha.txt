@@ -13668,7 +13668,6 @@ annalia
 apprenticed
 ambivalent
 anoestrum
-amygdalothripsis
 acidize
 aposporogony
 albumenising
@@ -25034,6 +25033,7 @@ awned
 angelhood
 awner
 acquires
+amygdalothripsis
 androgynary
 autotomic
 achilary
