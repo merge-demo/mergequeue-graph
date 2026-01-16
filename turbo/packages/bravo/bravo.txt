@@ -9472,7 +9472,6 @@ biotope
 battlefront
 birodo
 bisulphide
-brittling
 babingtonite
 biron
 byronesque
@@ -16848,6 +16847,7 @@ bucketman
 black
 baillonella
 buffier
+brittling
 buffiest
 blighties
 birdcalls
