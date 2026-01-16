@@ -820,7 +820,6 @@ abruptness
 apptd
 ambilogy
 algarot
-authoritatively
 additur
 abstruse
 ammiral
@@ -11792,6 +11791,7 @@ aiawong
 agreeably
 adenia
 analemma
+authoritatively
 autopotent
 aconitum
 autexousy
