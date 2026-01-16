@@ -23654,6 +23654,7 @@ autosomatognostic
 aureoled
 anemograph
 alee
+aurulent
 aureoline
 auresca
 ao
@@ -23743,7 +23744,6 @@ aurous
 aurrescu
 araphorostic
 anchtherium
-aurulent
 anagrammatical
 anisuria
 aurums
