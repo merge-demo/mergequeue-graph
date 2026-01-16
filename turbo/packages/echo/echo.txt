@@ -7735,6 +7735,7 @@ easternmost
 embolite
 expedientially
 episodes
+ergograph
 electrodynamical
 etymologies
 endophytal
@@ -8872,7 +8873,6 @@ evenhead
 euphoria
 expectorators
 entoderms
-ergograph
 epistrophic
 embitter
 emeroids
