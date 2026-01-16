@@ -21377,7 +21377,6 @@ concionatory
 cothurni
 credulously
 combfishes
-conciseness
 clocks
 cosponsor
 concision
@@ -27831,6 +27830,7 @@ conspect
 civiliser
 cp
 clitoridean
+conciseness
 contractus
 cpd
 chemurgic
