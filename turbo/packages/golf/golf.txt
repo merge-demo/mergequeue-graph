@@ -5399,7 +5399,6 @@ gangplank
 gender
 gorbelly
 glutenin
-granomerite
 groceress
 groupageness
 geared
@@ -7441,6 +7440,7 @@ goujat
 grampuses
 garrulous
 googlies
+granomerite
 grangerized
 genotype
 galenas
