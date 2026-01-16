@@ -946,6 +946,7 @@ gammerstang
 garboils
 gastropneumatic
 gokuraku
+grabhook
 gannets
 groundplot
 gammock
@@ -7597,7 +7598,6 @@ gloeosporium
 goodyness
 gemmula
 grus
-grabhook
 grabouche
 gripsack
 gigolo

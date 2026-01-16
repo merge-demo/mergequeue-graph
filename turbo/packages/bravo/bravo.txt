@@ -14783,6 +14783,7 @@ bombable
 burgheress
 baru
 brava
+buonamani
 brazil
 bylines
 backropes
@@ -15449,7 +15450,6 @@ brilliancies
 bagged
 brutally
 brilliandeer
-buonamani
 brilliant
 beheading
 branchiostege
