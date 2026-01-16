@@ -6544,6 +6544,7 @@ gleeman
 gastrologists
 gomer
 gesten
+gut
 grew
 gurrah
 gpss
@@ -10752,7 +10753,6 @@ gouge
 gerodontics
 germinator
 gerald
-gut
 grasswards
 glycerins
 giber
