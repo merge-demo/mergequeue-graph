@@ -800,6 +800,7 @@ beeline
 biometrical
 bibliotherapy
 bethorn
+bordure
 blackout
 basilidan
 building
@@ -16963,7 +16964,6 @@ begirded
 bondelswarts
 bedewoman
 buildups
-bordure
 bespeakable
 bedwarmer
 backland
