@@ -6140,6 +6140,7 @@ cattails
 cattalo
 cattaloes
 cyaniding
+colloquize
 catted
 crottels
 consubsist
@@ -13002,7 +13003,6 @@ craniates
 curies
 cyanophile
 cyanophoric
-colloquize
 chresard
 chickahominy
 cyanoplastid
