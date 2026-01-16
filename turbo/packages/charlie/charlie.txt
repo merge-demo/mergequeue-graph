@@ -14932,7 +14932,6 @@ cinquain
 cycler
 cytozzoa
 coelacanthoid
-citraconate
 cambaye
 citramontane
 cothurns
@@ -30367,6 +30366,7 @@ crusets
 calmierer
 cowpokes
 crusile
+citraconate
 chintzier
 capita
 coss
