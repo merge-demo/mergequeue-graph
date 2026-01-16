@@ -3644,7 +3644,6 @@ exscinded
 eskers
 endocrinopathic
 entangling
-eunomy
 extravert
 encolpion
 exomion
@@ -3980,6 +3979,7 @@ etymologise
 evangelian
 estrapade
 enage
+eunomy
 extirpated
 epionychia
 empexa
