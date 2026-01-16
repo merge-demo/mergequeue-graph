@@ -7877,6 +7877,7 @@ disard
 desmocyte
 dispenser
 dihydrogen
+deplume
 dewberries
 dewcap
 disbudder
@@ -11710,7 +11711,6 @@ discoverer
 diabolised
 decancellation
 discoverture
-deplume
 discradle
 delfts
 dockhands
