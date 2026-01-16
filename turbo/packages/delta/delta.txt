@@ -5209,7 +5209,6 @@ docetistic
 destructuralize
 denoting
 duplification
-deeping
 denouement
 denounce
 disputativeness
@@ -9033,6 +9032,7 @@ disillusioniser
 droukit
 diplomatist
 dictamina
+deeping
 dernier
 drinkproof
 dictaphones
