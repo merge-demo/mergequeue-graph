@@ -6358,6 +6358,7 @@ ferriage
 foveolar
 fixup
 fluvio
+flammably
 fluoresceine
 factionism
 fashionability
@@ -8021,7 +8022,6 @@ flammation
 felicitates
 fluidisation
 frustrate
-flammably
 fairies
 formentation
 facetting
