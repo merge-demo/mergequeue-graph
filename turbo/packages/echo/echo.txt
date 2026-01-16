@@ -9758,7 +9758,6 @@ essoinment
 essorant
 echiuroidea
 endorsees
-endarterial
 engrave
 encouragements
 expenthesis
@@ -12732,6 +12731,7 @@ esprove
 enthelminthes
 embryography
 exceeds
+endarterial
 exospheric
 exorbitation
 epithamia
