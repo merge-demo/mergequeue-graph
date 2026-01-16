@@ -8383,6 +8383,7 @@ enstamp
 extents
 emancipatress
 epizoic
+elytrtra
 eudaemonia
 ensigncy
 equals
@@ -10433,7 +10434,6 @@ electrodialytic
 erstwhile
 etypic
 equiponderation
-elytrtra
 enoplan
 effluviums
 ericius
