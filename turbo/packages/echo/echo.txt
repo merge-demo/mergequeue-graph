@@ -7268,6 +7268,7 @@ extraconstitutional
 earwig
 electro
 edmond
+embryoma
 epochism
 escalier
 exception
@@ -11482,7 +11483,6 @@ eunuchize
 evince
 enalid
 endlessly
-embryoma
 evincible
 ectopterygoid
 elegancies
