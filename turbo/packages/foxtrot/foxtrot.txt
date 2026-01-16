@@ -2518,7 +2518,6 @@ flunky
 favaginous
 foulmouth
 formaldehyde
-feverlike
 frondescent
 ferrelling
 fluorine
@@ -8989,6 +8988,7 @@ fared
 faultful
 fowlings
 fluvious
+feverlike
 fountained
 flashguns
 flies
