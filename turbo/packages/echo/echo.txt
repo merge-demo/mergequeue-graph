@@ -157,6 +157,7 @@ expired
 effervescent
 erotopath
 enunciations
+encodement
 earthly
 enriched
 exequy
@@ -11525,7 +11526,6 @@ ess
 extypal
 extraburghal
 elenchus
-encodement
 epiblastema
 embrittled
 errantness
