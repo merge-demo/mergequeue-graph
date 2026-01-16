@@ -4439,6 +4439,7 @@ cytogenetics
 caryophyllus
 cares
 crucifixions
+coenacted
 curite
 cutesy
 cartisane
@@ -18010,7 +18011,6 @@ coenacle
 capsidal
 collyriums
 cryptorchidism
-coenacted
 compromitting
 coenacts
 coenacula
