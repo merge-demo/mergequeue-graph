@@ -8003,6 +8003,7 @@ electrodentistry
 epibasal
 ergs
 expilate
+enteroviral
 ejections
 eggar
 entoconid
@@ -10434,7 +10435,6 @@ effluviums
 ericius
 etypically
 emblemed
-enteroviral
 etherin
 epochist
 exalate
