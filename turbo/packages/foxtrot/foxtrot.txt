@@ -5210,6 +5210,7 @@ fortemente
 fratcher
 flavoriness
 foremilks
+falcular
 faveoli
 fitful
 fierceness
@@ -9009,7 +9010,6 @@ feruling
 frasco
 foxbane
 foxberry
-falcular
 foliums
 fribbleism
 fractionation
