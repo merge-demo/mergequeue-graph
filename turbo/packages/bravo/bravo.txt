@@ -8465,6 +8465,7 @@ bosonic
 biforked
 bilgeway
 bilharzial
+barometry
 beglerbey
 bloaters
 bilharziosis
@@ -13332,7 +13333,6 @@ bebrave
 buss
 bezante
 basilosaurus
-barometry
 both
 bradyphagia
 bothered

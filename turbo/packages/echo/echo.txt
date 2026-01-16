@@ -1299,7 +1299,6 @@ edified
 effectuated
 encastage
 effectuating
-effervesced
 extenuating
 exuberate
 effectuous
@@ -12826,6 +12825,7 @@ exothermically
 eloignment
 erythrolysis
 eupomatia
+effervesced
 ern
 ecphorization
 echoic
