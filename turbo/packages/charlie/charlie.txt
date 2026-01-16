@@ -9329,7 +9329,6 @@ chaunted
 chaunter
 capillaritis
 chaunts
-contrariness
 catamarans
 chaus
 cabbalistical
@@ -29891,6 +29890,7 @@ crosse
 crossed
 crossers
 catalpas
+contrariness
 crossette
 crossfertilizable
 crossfired
