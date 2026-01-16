@@ -4138,7 +4138,6 @@ fiendishly
 fraticelli
 firebomb
 fakiness
-fairlike
 fractionlet
 faithwise
 figments
@@ -7561,6 +7560,7 @@ forestaller
 flacherie
 forjudgment
 fatimid
+fairlike
 foredoomer
 fgn
 fructuarius
