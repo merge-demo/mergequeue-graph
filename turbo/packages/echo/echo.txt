@@ -1766,7 +1766,6 @@ engravers
 entera
 embankments
 electrification
-epiblemata
 encompasser
 enable
 estimates
@@ -10797,6 +10796,7 @@ exsibilate
 echinid
 extrusive
 expedients
+epiblemata
 enthralling
 extracultural
 exstruct
