@@ -14255,7 +14255,6 @@ antiferroelectric
 automorphically
 agiotages
 anterooms
-anteroparietal
 anencephalous
 alchochoden
 ancipitous
@@ -23093,6 +23092,7 @@ asepticized
 afferently
 adjoiningness
 acetol
+anteroparietal
 adenoma
 attaints
 archsatrap
