@@ -9965,7 +9965,6 @@ cajuputs
 chequebook
 croup
 chequer
-chequered
 chequers
 creosoted
 chalukya
@@ -10612,6 +10611,7 @@ circumspection
 cashbook
 chylopoetic
 chylopoiesis
+chequered
 chilopsis
 coagulum
 chilostomatous
