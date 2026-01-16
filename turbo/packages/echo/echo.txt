@@ -5882,7 +5882,6 @@ execrators
 exaggerativeness
 epitomise
 edeitis
-externalise
 enhancing
 enharbour
 exocytosis
@@ -11405,6 +11404,7 @@ everted
 euouae
 eli
 exhaustion
+externalise
 emys
 elitists
 entodermic
