@@ -2665,7 +2665,6 @@ fittonia
 fluoridating
 foremostly
 fistular
-fertilizational
 funeral
 fallowed
 fume
@@ -7144,6 +7143,7 @@ fend
 fishified
 fishers
 fixative
+fertilizational
 fourche
 furnariidae
 fiendism
