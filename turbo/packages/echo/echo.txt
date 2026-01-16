@@ -5909,7 +5909,6 @@ enhypostasia
 estmark
 electrotheraputically
 endolemma
-exudence
 erethismic
 explanator
 ettled
@@ -9870,6 +9869,7 @@ eerily
 eluders
 exilian
 elongative
+exudence
 earmarks
 estimations
 eprosy
