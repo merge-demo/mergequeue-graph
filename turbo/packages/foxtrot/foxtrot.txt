@@ -2335,7 +2335,6 @@ firecoat
 featherstitching
 ferae
 fatal
-fairyship
 fronton
 fetations
 frauder
@@ -8388,6 +8387,7 @@ formalesque
 foistiness
 flatfootedly
 freshmanic
+fairyship
 formulize
 fierier
 flushers
