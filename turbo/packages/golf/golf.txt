@@ -3513,6 +3513,7 @@ gleeking
 gilt
 grogginess
 gantangs
+gynandrarchy
 griffe
 gents
 ghastily
@@ -7054,7 +7055,6 @@ ganglioneure
 goosegog
 guignardia
 goyle
-gynandrarchy
 gunnage
 guelphic
 giottesque
