@@ -8103,7 +8103,6 @@ azha
 arylate
 algebraical
 anjan
-antagonised
 algebraist
 algedo
 alfilerillo
@@ -20618,6 +20617,7 @@ anesthetists
 azrael
 arthrogryposis
 arbalist
+antagonised
 aedegi
 alpestral
 adulators
