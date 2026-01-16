@@ -2848,6 +2848,7 @@ diaclasis
 decubiti
 deculturate
 driverless
+domains
 decuman
 doubloons
 deperm
@@ -15321,7 +15322,6 @@ domage
 domainal
 dourines
 dummel
-domains
 dativogerundial
 dissimilatory
 diploglossata
