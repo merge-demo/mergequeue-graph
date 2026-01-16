@@ -7385,6 +7385,7 @@ corporatist
 cephalopterus
 cephaloridine
 confocal
+cranially
 cadus
 copecks
 cephalosome
@@ -30146,7 +30147,6 @@ coparallel
 calycanthaceae
 crozers
 curat
-cranially
 clinton
 crozes
 crozing
