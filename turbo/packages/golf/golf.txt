@@ -3456,7 +3456,6 @@ graphemes
 gallophobia
 gourdlike
 gallous
-gentling
 griefful
 glathsheim
 gimper
@@ -4401,6 +4400,7 @@ glidingly
 gonosomal
 gymnasiarchy
 giddy
+gentling
 gynomonoeciously
 galziekte
 galuchat
