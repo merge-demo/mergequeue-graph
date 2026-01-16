@@ -1139,7 +1139,6 @@ grammatolatry
 granuliform
 glycerophosphate
 gemmiferous
-gulf
 gestura
 gerontocracies
 gallnut
@@ -9674,6 +9673,7 @@ gametange
 gradative
 glareous
 galapee
+gulf
 guzzle
 graniform
 govt
