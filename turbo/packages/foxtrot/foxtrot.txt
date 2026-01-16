@@ -10000,7 +10000,6 @@ fringent
 frizzer
 feminacy
 fringetail
-frogskin
 fortune
 fibrocystoma
 favors
@@ -11254,6 +11253,7 @@ fourer
 funny
 fundamentality
 flagellants
+frogskin
 frumaryl
 filibusterer
 fenks
