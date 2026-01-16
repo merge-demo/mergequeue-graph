@@ -4921,6 +4921,7 @@ beefeater
 beefeaters
 baclin
 barkentines
+balsamation
 bepride
 burhinidae
 bract
@@ -10671,7 +10672,6 @@ bleats
 bleck
 bodhi
 bethreaten
-balsamation
 bestowage
 bleeped
 bleeps
