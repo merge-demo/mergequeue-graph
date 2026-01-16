@@ -5442,6 +5442,7 @@ cinchotoxine
 chapourn
 chon
 carpi
+clypeiform
 confervas
 castle
 cumacean
@@ -19220,7 +19221,6 @@ colocate
 chiquest
 colocated
 colocephali
-clypeiform
 coryph
 colocynth
 connections
