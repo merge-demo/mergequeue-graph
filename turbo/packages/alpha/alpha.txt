@@ -1329,7 +1329,6 @@ acc
 accable
 accel
 accelerable
-animalizing
 accelerando
 analgize
 argentojarosite
@@ -21537,6 +21536,7 @@ archeion
 adiaphanous
 alluvium
 axolotls
+animalizing
 astrobotany
 antityrosinase
 asperating
