@@ -8412,7 +8412,6 @@ drowned
 diallings
 dehair
 dovefoot
-deliracy
 disciplines
 deliveror
 ditties
@@ -17318,6 +17317,7 @@ dronepipe
 decurion
 devaunt
 deduct
+deliracy
 devolvement
 drony
 droningly
