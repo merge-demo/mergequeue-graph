@@ -4563,7 +4563,6 @@ germane
 gagger
 grinter
 gladiole
-garotter
 guttiferales
 genoms
 gigantopithecus
@@ -5008,6 +5007,7 @@ gatch
 grutched
 gelechia
 granules
+garotter
 guards
 gaedown
 gladliest
