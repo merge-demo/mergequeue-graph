@@ -16157,7 +16157,6 @@ cavidae
 climograph
 conversazioni
 clinamen
-clinamina
 clinandrdria
 clinch
 chromatocyte
@@ -31561,6 +31560,7 @@ curtain
 cheesemongery
 centrals
 cariamae
+clinamina
 cowlicks
 cauliflower
 cortine
