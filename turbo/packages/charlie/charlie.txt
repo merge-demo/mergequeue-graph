@@ -26733,6 +26733,7 @@ cars
 cartelization
 counterbattery
 counterbend
+curiosi
 calamitously
 cubicles
 counterblast
@@ -31398,7 +31399,6 @@ curios
 cheminee
 cartridges
 curiosa
-curiosi
 curiosities
 cremona
 curioso
