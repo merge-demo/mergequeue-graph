@@ -4968,7 +4968,6 @@ alkalizing
 aeronautic
 argentose
 agama
-anticipations
 aeronautical
 aeronomer
 amyliferous
@@ -16854,6 +16853,7 @@ alterman
 administrators
 allodialist
 apositic
+anticipations
 almeriite
 agname
 acritol
