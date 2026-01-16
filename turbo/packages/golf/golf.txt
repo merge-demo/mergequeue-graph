@@ -1103,7 +1103,6 @@ groat
 grooviness
 grannies
 gonangium
-gregorianize
 ganja
 genically
 generatively
@@ -7194,6 +7193,7 @@ gleesomely
 gaminesses
 galvanotactic
 goodnesses
+gregorianize
 gony
 grasshopperdom
 gaditan

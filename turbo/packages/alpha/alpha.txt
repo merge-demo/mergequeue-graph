@@ -171,7 +171,6 @@ arizona
 antepagments
 abave
 anaberoga
-allosematic
 apagogical
 apoembryony
 autoschediaze
@@ -9897,6 +9896,7 @@ alloquial
 argean
 algine
 acromiosternal
+allosematic
 acceptive
 amateur
 antidotal
