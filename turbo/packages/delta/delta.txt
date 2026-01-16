@@ -5669,7 +5669,6 @@ dialup
 depleteable
 ducape
 dichroite
-daftlike
 depletions
 danton
 disparities
@@ -13678,6 +13677,7 @@ degender
 disturbances
 demisemitone
 delectability
+daftlike
 dissymmetrically
 danseurs
 discoursive
