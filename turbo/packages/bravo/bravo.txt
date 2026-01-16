@@ -6374,7 +6374,6 @@ bollen
 benzofuran
 biozone
 benzoglycolic
-benzoglyoxaline
 bastioned
 benzohydrol
 benzoylated
@@ -10355,6 +10354,7 @@ bummest
 biocoenoses
 bepainting
 bowpin
+benzoglyoxaline
 blanc
 beneath
 baltimorite
