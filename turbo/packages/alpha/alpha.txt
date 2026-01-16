@@ -2341,6 +2341,7 @@ archdukes
 ambrosterol
 androcles
 acierated
+arteriectopia
 acierates
 adc
 archduxe
@@ -20471,7 +20472,6 @@ arterialize
 anticivism
 arteriarctia
 albuminous
-arteriectopia
 ananda
 arteried
 absey
