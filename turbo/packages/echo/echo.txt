@@ -6121,6 +6121,7 @@ elans
 evolvent
 enneagonal
 etymologizable
+externation
 enrolling
 endorachis
 enigua
@@ -10312,7 +10313,6 @@ epibole
 ethnogeographic
 extirpator
 embillow
-externation
 electroplaque
 ethnographer
 existently
