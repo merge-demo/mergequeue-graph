@@ -11744,6 +11744,7 @@ acnodes
 anagogic
 ambar
 aventayle
+allocutive
 apposes
 advecting
 anagrammatically
@@ -20145,7 +20146,6 @@ anodon
 arraigned
 aerosats
 allenarly
-allocutive
 alpines
 allolalic
 acanthodini
