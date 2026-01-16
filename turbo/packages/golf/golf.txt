@@ -3649,7 +3649,6 @@ grisaille
 galvanize
 gpm
 graeae
-granulations
 gangwa
 georgie
 gillnets
@@ -4331,6 +4330,7 @@ gravitated
 glittersome
 ganancial
 gigerium
+granulations
 gratifications
 glycogeny
 gashy
