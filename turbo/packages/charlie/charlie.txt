@@ -13222,6 +13222,7 @@ constableship
 cholecystopexy
 carapacial
 cyclocephaly
+coenobite
 cyclocoelic
 cyclode
 catastrophe
@@ -21143,7 +21144,6 @@ concededly
 couplets
 crash
 conceders
-coenobite
 concedes
 calchaquian
 crampfishes
