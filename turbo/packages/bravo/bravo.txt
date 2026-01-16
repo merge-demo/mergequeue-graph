@@ -14105,7 +14105,6 @@ bistipular
 blot
 bashed
 babbage
-blasters
 butsudan
 brekkle
 bumbaze
@@ -14408,6 +14407,7 @@ bicyclo
 bemocked
 bisischiadic
 brainpan
+blasters
 brainpans
 bisley
 benzedrine

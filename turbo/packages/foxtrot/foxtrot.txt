@@ -2530,6 +2530,7 @@ foulmouth
 formaldehyde
 frondescent
 fluorine
+folsom
 fiatconfirmatio
 feeler
 frugivorous
@@ -3982,7 +3983,6 @@ flattish
 forfeited
 forlay
 flunk
-folsom
 ferric
 furazolidone
 fluorosis
