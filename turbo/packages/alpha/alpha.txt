@@ -4415,6 +4415,7 @@ alphanumerics
 anconeous
 ambulators
 adulterousness
+archaeology
 afterimages
 angiotonin
 ads
@@ -5033,7 +5034,6 @@ aeroplanes
 archboutefeu
 aeroscepsy
 achromatizing
-archaeology
 anciennete
 aurum
 altumal
