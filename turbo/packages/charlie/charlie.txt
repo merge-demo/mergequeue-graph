@@ -12093,6 +12093,7 @@ clubmonger
 chout
 culturist
 chowanoc
+caneton
 chowchows
 clockwork
 chowhound
@@ -30234,7 +30235,6 @@ cruentation
 cruentous
 choop
 canzon
-caneton
 calamitean
 cruet
 clum
