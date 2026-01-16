@@ -580,7 +580,6 @@ globalize
 ginhound
 galut
 geohydrology
-gynaecocoenic
 globelet
 gladding
 gallicizer
@@ -7024,6 +7023,7 @@ gooseberry
 gimbaled
 gramash
 greenweed
+gynaecocoenic
 gismondine
 glacially
 galilees
