@@ -17564,7 +17564,6 @@ balante
 beadrow
 blayne
 boorishly
-blore
 belong
 bugle
 burgau
@@ -17675,6 +17674,7 @@ bordage
 blackfin
 blueings
 bonuses
+blore
 boomlets
 burleycue
 burlesquer
