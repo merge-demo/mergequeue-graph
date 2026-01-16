@@ -5002,7 +5002,6 @@ escobedo
 emphaticalness
 ectoproct
 endmost
-enrage
 enamellar
 exemplum
 eyelid
@@ -10569,6 +10568,7 @@ euclidian
 epicoeliac
 exhalant
 eucone
+enrage
 electrotechnic
 ecstasis
 expensing
