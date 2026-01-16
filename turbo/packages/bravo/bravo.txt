@@ -2165,7 +2165,6 @@ bricksetter
 burnishes
 bonsai
 bediapered
-brutism
 baptising
 butterless
 barleyhood
@@ -11415,6 +11414,7 @@ blears
 browbands
 blued
 basisolute
+brutism
 bluefin
 baguettes
 blaseness
