@@ -26053,6 +26053,7 @@ cosies
 circumscriber
 cosign
 convallariaceae
+cephalopodan
 concubinal
 counterfix
 christiad
@@ -31712,7 +31713,6 @@ cesuras
 carbuncled
 cotyloid
 cuspidor
-cephalopodan
 counterapse
 cusping
 cuspis
