@@ -9401,7 +9401,6 @@ birdsnest
 bungfu
 bargehouse
 borak
-befitting
 basichromatic
 bluegums
 belabours
@@ -11339,6 +11338,7 @@ bluntest
 bedcap
 bestiarianism
 blubberers
+befitting
 barabbas
 balanism
 bestialising
