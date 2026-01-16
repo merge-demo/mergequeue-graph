@@ -461,7 +461,6 @@ cinclidotus
 cassavas
 cartages
 catheretic
-cancelable
 cacumination
 coleopterous
 cacuminous
@@ -12801,6 +12800,7 @@ comburimetry
 chunkiness
 chunks
 chunner
+cancelable
 chuntered
 chrysotherapy
 chupatty
