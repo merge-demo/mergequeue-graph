@@ -1491,6 +1491,7 @@ glengarry
 gasterolichenes
 grainier
 guittonian
+gonion
 garners
 garotted
 goutish
@@ -6690,7 +6691,6 @@ goosey
 goup
 gypsine
 gassings
-gonion
 guid
 gonid
 gabeler
