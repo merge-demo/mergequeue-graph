@@ -3748,7 +3748,6 @@ chromoxylography
 caravanserial
 companeros
 caravel
-caravels
 cosen
 caraway
 counterpoison
@@ -16762,6 +16761,7 @@ connoisseurship
 cyrillic
 clove
 cytological
+caravels
 caduciaries
 crankish
 calorescent
