@@ -5156,7 +5156,6 @@ aphoria
 anamorphism
 aetomorphae
 almohade
-amphierotism
 aeviternal
 anatomicomedical
 af
@@ -23696,6 +23695,7 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
+amphierotism
 auriferous
 appreciational
 auxograph
