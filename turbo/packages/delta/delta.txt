@@ -3669,6 +3669,7 @@ dictamnus
 degust
 dasnt
 degusted
+diffusional
 disbowelled
 dregginess
 dewlaps
@@ -7649,7 +7650,6 @@ dustpan
 detestability
 deray
 drawers
-diffusional
 develops
 devels
 devenustate
