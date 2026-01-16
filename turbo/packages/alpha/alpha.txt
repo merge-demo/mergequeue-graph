@@ -3993,7 +3993,6 @@ ankuses
 acronymize
 advect
 aphaeresis
-admerveylle
 allocate
 admi
 anhydrously
@@ -10243,6 +10242,7 @@ angiolymphitis
 alloying
 analcitite
 ameiuridae
+admerveylle
 absorbition
 astringently
 ameiva

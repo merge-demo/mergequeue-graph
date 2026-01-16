@@ -1296,7 +1296,6 @@ fossoria
 fluctuous
 flarfishes
 feminophobe
-falconoid
 fatalists
 fop
 fleeced
@@ -6962,6 +6961,7 @@ fordless
 fond
 fondateur
 fonded
+falconoid
 fondest
 favilla
 fonding
