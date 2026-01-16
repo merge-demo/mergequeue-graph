@@ -6783,6 +6783,7 @@ goniums
 glanis
 gelsemin
 garbleable
+glossologist
 gesticulate
 gradate
 goniunia
@@ -10602,7 +10603,6 @@ glandaceous
 gowned
 goldenmouth
 goldsmith
-glossologist
 greenockite
 gallow
 glumose
