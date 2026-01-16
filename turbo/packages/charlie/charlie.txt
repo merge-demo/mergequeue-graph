@@ -8739,6 +8739,7 @@ chapes
 clinicians
 chapiter
 chloranaemia
+christianity
 chapitral
 collyridian
 chaplain
@@ -15754,7 +15755,6 @@ cleanout
 cleansable
 cellists
 cleanse
-christianity
 centrarchidae
 crestfallenly
 crocoite

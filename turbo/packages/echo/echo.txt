@@ -3440,7 +3440,6 @@ epistemologist
 evinces
 eductive
 ethnol
-exceptionableness
 ensepulchering
 enamels
 enthronement
@@ -12931,6 +12930,7 @@ erigible
 expatriate
 expatriating
 enthusiastic
+exceptionableness
 escalado
 emboites
 expatriatism
