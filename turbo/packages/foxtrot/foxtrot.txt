@@ -629,6 +629,7 @@ falconelle
 falsifier
 frogmouths
 foveolet
+footsoldier
 floaty
 falsifying
 falunian
@@ -5829,7 +5830,6 @@ fdtype
 fowlers
 flocced
 frustulose
-footsoldier
 filariae
 film
 feyer
