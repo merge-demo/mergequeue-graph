@@ -5538,6 +5538,7 @@ guarnerius
 gourd
 glutition
 gaminish
+gird
 greens
 gemutlichkeit
 gorses
@@ -9741,7 +9742,6 @@ gorged
 gastrodynia
 glutens
 geophagies
-gird
 gladiators
 gonimium
 grumphie
