@@ -2641,7 +2641,6 @@ caprellidae
 canescence
 chaetetes
 conversationalist
-composes
 cobbers
 chimp
 canework
@@ -29865,6 +29864,7 @@ crossbeam
 clarifications
 crossbeams
 cabots
+composes
 cosmorganic
 crossbelt
 crossbill
