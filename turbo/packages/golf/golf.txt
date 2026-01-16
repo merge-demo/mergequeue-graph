@@ -4467,7 +4467,6 @@ grantiidae
 grammontine
 gastrostaxis
 glint
-ginning
 garvance
 giraffe
 gynocardic
@@ -8076,6 +8075,7 @@ gaiters
 geomorphogeny
 giblets
 grimily
+ginning
 granophyre
 gnotobiotic
 gnathostegite

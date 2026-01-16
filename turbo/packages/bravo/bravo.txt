@@ -1846,6 +1846,7 @@ besotter
 bandeau
 betula
 bancus
+burds
 backstabber
 bandelette
 bpi
@@ -8697,7 +8698,6 @@ burler
 bimboes
 buffe
 bozine
-burds
 beliquored
 brachiolaria
 balladlike
