@@ -6541,6 +6541,7 @@ cauliculi
 cavitated
 consulter
 changefulness
+clupien
 cavity
 cavitied
 cavorted
@@ -16935,7 +16936,6 @@ creatureliness
 classis
 cachalot
 caviar
-clupien
 cenotaphs
 choledochoplasty
 consols
