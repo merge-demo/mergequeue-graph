@@ -7899,7 +7899,6 @@ footles
 fishhold
 freshing
 frumpling
-forslow
 frondesced
 forefit
 fortnightlies
@@ -11316,6 +11315,7 @@ faceted
 fictional
 fusulina
 foldless
+forslow
 fps
 furfurine
 funebrious
