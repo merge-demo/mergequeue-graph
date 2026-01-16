@@ -5723,7 +5723,6 @@ extraverted
 extemporised
 endofaradism
 enolases
-ethicize
 enteroanastomosis
 engiscope
 enigmatization
@@ -7975,6 +7974,7 @@ elitism
 epicleidian
 exorganic
 eolian
+ethicize
 endocannibalism
 embrasured
 epiotic
