@@ -5714,7 +5714,6 @@ belies
 backtracker
 believers
 benzotetrazine
-beamful
 bloomery
 blankite
 budge
@@ -17058,6 +17057,7 @@ brachiocephalic
 burrawang
 barosinusitis
 bullamacow
+beamful
 bleakly
 brodekin
 bullate
