@@ -1853,7 +1853,6 @@ glycoluril
 gossip
 gyrostabilized
 gleir
-gambles
 gazehound
 growlery
 guffaw
@@ -5498,6 +5497,7 @@ gastrorrhaphy
 gastropoda
 gustier
 genear
+gambles
 globalizing
 gisants
 growls
