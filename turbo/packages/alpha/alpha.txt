@@ -4766,7 +4766,6 @@ aftermath
 adenochondroma
 asterionella
 acarology
-autopathic
 anaretic
 antihum
 aorists
@@ -7809,6 +7808,7 @@ alchemically
 aflow
 acrylyl
 aortosclerosis
+autopathic
 auriculoid
 amarantus
 ale
