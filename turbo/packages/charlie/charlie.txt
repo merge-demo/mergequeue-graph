@@ -5073,6 +5073,7 @@ curses
 carvoeira
 carvoepra
 carwash
+cumulates
 clamatorial
 carwashes
 chider
@@ -31067,7 +31068,6 @@ contemplatively
 carnies
 cariniform
 certainties
-cumulates
 cimeliarch
 cumulatist
 choughs
