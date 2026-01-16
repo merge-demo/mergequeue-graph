@@ -2604,7 +2604,6 @@ epithelize
 exothecate
 electrophoretogram
 expansure
-exturb
 estimated
 elanet
 eave
@@ -3631,6 +3630,7 @@ emergency
 epiphloedic
 embrica
 embryectomy
+exturb
 earlet
 endogonidium
 embright
