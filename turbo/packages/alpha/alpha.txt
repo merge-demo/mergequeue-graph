@@ -5933,7 +5933,6 @@ althaea
 affinity
 aggrandizement
 aetiologist
-aprilis
 assiento
 athlete
 arborization
@@ -10136,6 +10135,7 @@ archdiocese
 ambrettolide
 arthralgia
 antiempiricist
+aprilis
 alluminor
 ardilla
 allopelagic
