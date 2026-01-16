@@ -5376,7 +5376,6 @@ firs
 freed
 fetis
 fragmentize
-flummeries
 forbled
 flaked
 foremade
@@ -8147,6 +8146,7 @@ faddle
 fraught
 flourishable
 furores
+flummeries
 formicaroid
 flockbed
 foghorn
