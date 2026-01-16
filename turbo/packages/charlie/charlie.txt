@@ -9088,7 +9088,6 @@ cirmcumferential
 charqui
 canelike
 christly
-charr
 charras
 charre
 charred
@@ -29149,6 +29148,7 @@ cinefaction
 crioceratitic
 companionably
 chirruping
+charr
 committedly
 cheque
 cranioscopist
