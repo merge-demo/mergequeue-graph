@@ -5202,7 +5202,6 @@ episiocele
 expungers
 endophyllum
 exospherical
-entrenches
 embarcadero
 edginesses
 edificative
@@ -5711,6 +5710,7 @@ eau
 educabilia
 etherolate
 emerald
+entrenches
 engirdle
 ebullient
 engrege
