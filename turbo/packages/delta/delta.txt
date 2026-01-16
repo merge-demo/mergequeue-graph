@@ -15499,7 +15499,6 @@ doncy
 dondaine
 desertedly
 done
-dogmas
 diaries
 dacryostenosis
 dihydrocuprin
@@ -15708,6 +15707,7 @@ dorbugs
 defeatist
 dorcastry
 diadermic
+dogmas
 doucet
 doria
 demiturned
