@@ -14157,7 +14157,6 @@ circumambulator
 circumanal
 circumantarctic
 circumarticular
-circumaviate
 circumaviator
 cowlike
 circumaxial
@@ -16229,6 +16228,7 @@ clinographic
 countryish
 chlamydosporic
 clinohedral
+circumaviate
 celeriac
 crewcut
 cornerman
