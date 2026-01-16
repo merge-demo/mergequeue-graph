@@ -205,7 +205,6 @@ ferrihemoglobin
 frasier
 factrix
 footmanship
-factorials
 fanons
 fatiscence
 forborne
@@ -266,6 +265,7 @@ fiduciary
 fellagha
 fluyts
 fusains
+factorials
 favi
 fatidic
 filander
