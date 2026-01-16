@@ -1028,6 +1028,7 @@ edgeboned
 erected
 eringos
 eagerly
+enhypostatic
 exsheath
 edged
 eidolon
@@ -11887,7 +11888,6 @@ exceptiousness
 exultation
 expectations
 eyr
-enhypostatic
 entrepreneurship
 epiphytes
 emissivity
