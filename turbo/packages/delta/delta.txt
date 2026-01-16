@@ -1351,6 +1351,7 @@ demissive
 diploid
 draftsperson
 doggerelize
+disgavelling
 dompt
 damagement
 dauntingness
@@ -12247,7 +12248,6 @@ dispeoplement
 deking
 delphinine
 ditone
-disgavelling
 deorsumvergence
 damndest
 deresinate
