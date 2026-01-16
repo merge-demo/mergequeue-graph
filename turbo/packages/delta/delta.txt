@@ -9661,6 +9661,7 @@ deliquesces
 defamatory
 doorcase
 dipneusti
+disharmonised
 dispense
 daphnias
 ditting
@@ -16707,7 +16708,6 @@ drammage
 dramme
 drammed
 dottler
-disharmonised
 digenic
 dramming
 dioecious
