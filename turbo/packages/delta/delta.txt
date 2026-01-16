@@ -14338,7 +14338,6 @@ decrial
 defervescent
 dittying
 denizen
-dandified
 deuteranomaly
 disadvantages
 ditto
@@ -14697,6 +14696,7 @@ deburse
 dm
 dystectic
 divid
+dandified
 dioecisms
 dorsoposterior
 devilling
