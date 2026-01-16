@@ -933,7 +933,6 @@ ecuadorian
 ecumenacy
 engraffing
 electroforming
-equilibristic
 ecumenicism
 expulser
 emerit
@@ -3549,6 +3548,7 @@ euchlaena
 encraal
 embossage
 embossed
+equilibristic
 embossing
 emulsifications
 esophagoplegia
