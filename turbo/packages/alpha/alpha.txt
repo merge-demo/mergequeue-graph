@@ -7316,7 +7316,6 @@ ariboflavinosis
 albarium
 albas
 austin
-armadillidium
 alcoved
 animalise
 africander
@@ -19024,6 +19023,7 @@ azocochineal
 alar
 abecedarian
 areae
+armadillidium
 axonopus
 actiniform
 azelate

@@ -3768,7 +3768,6 @@ dwale
 disgracia
 drillable
 dynamites
-distrain
 deice
 donning
 disseizoress
@@ -12002,6 +12001,7 @@ disencharm
 doctrix
 dotting
 disenclose
+distrain
 daint
 diammine
 decimus
