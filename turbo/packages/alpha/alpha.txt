@@ -17847,6 +17847,7 @@ alpujarra
 appositive
 accusatory
 annexed
+avoiding
 amobarbital
 apppetible
 atmans
@@ -21034,7 +21035,6 @@ ascians
 apiolin
 annexive
 apperil
-avoiding
 amphichromatic
 ascidiacea
 anyone
