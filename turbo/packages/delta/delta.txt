@@ -1655,7 +1655,6 @@ daws
 daw
 dextraural
 deamination
-deaminize
 deammonation
 deashing
 dichastic
@@ -16024,6 +16023,7 @@ driveline
 drainboard
 dockers
 doormats
+deaminize
 diacoelosis
 dekagrams
 doublette
