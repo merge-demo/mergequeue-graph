@@ -4296,6 +4296,7 @@ foddering
 fauces
 frailty
 ferrelled
+flagmen
 fluorins
 fellnesses
 fasteners
@@ -10372,7 +10373,6 @@ fatalist
 foraneous
 friller
 forecatching
-flagmen
 flags
 fitche
 footer
