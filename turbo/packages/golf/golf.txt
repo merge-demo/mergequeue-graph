@@ -1677,7 +1677,6 @@ gluts
 gambiers
 geitjie
 gelatination
-gastightness
 grudgefulness
 gryposis
 gentries
@@ -2500,6 +2499,7 @@ groundlessness
 genderless
 gamogeny
 graven
+gastightness
 gumshield
 gradatim
 gastroenterocolitis
