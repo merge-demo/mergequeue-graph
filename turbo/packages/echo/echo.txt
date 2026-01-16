@@ -2765,7 +2765,6 @@ elementalize
 ephori
 elementaloid
 emperil
-essang
 encoronate
 eluded
 embelic
@@ -10779,6 +10778,7 @@ eurodollar
 ergate
 eleanor
 expurgatory
+essang
 ethide
 estivates
 euphemizer
