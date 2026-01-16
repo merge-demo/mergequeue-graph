@@ -3069,7 +3069,6 @@ feroce
 fishtails
 flitter
 flakeboard
-foreboot
 fillmass
 fibrinose
 fibrinosis
@@ -11507,6 +11506,7 @@ fluently
 fusariose
 fanfold
 forgettingly
+foreboot
 fusariosis
 flypasts
 firebirds
