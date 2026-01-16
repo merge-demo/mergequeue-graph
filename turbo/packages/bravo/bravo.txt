@@ -370,7 +370,6 @@ bottegas
 backgame
 backgammon
 board
-barbarical
 barwares
 breaststroke
 background
@@ -12797,6 +12796,7 @@ boomable
 best
 boomah
 boo
+barbarical
 baritonal
 boomboxes
 boomed
