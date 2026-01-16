@@ -5329,7 +5329,6 @@ fascia
 flitterbat
 fruiteries
 ferulaic
-foldboater
 foreclosed
 fissured
 faconde
@@ -9056,6 +9055,7 @@ firmance
 furbishable
 foxly
 flaith
+foldboater
 foreintend
 floodable
 fetise
