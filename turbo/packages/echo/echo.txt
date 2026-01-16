@@ -2654,7 +2654,6 @@ emmanuel
 earhead
 emborder
 electrotechnician
-exports
 enfant
 eudaemonics
 engenderment
@@ -11611,6 +11610,7 @@ economics
 ew
 exacerbatingly
 expulses
+exports
 enddamaged
 exactable
 exactas
