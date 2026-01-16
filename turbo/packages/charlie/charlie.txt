@@ -10089,7 +10089,6 @@ chesses
 chessylite
 chessist
 chirimen
-chessner
 chessom
 claves
 chesstree
@@ -21192,6 +21191,7 @@ conceptualizer
 concents
 concentual
 conceptacle
+chessner
 conceptible
 cohanims
 conceptive
