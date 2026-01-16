@@ -4390,6 +4390,7 @@ gleeted
 gazer
 gorget
 grandezza
+golems
 gearcases
 gongs
 gorgoneum
@@ -8783,7 +8784,6 @@ greensickness
 greenstone
 gimballing
 gange
-golems
 greenswarded
 greenware
 giveth
