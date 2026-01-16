@@ -6959,6 +6959,7 @@ bepaid
 beslobber
 besluit
 basenjis
+brochure
 bespread
 besmile
 besmiled
@@ -15758,7 +15759,6 @@ bruyere
 beclogged
 brochophony
 brocht
-brochure
 balisier
 babblishly
 brock
