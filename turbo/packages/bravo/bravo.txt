@@ -6541,7 +6541,6 @@ brekky
 benzothiazole
 berberi
 breastrope
-bout
 biohazard
 berberid
 bricked
@@ -15480,6 +15479,7 @@ breadberry
 bodoni
 banding
 babyish
+bout
 brannerite
 bereaved
 batonnier
