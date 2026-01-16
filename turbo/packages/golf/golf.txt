@@ -722,6 +722,7 @@ germanistic
 gawn
 grissen
 gersdorffite
+grewsome
 gentianic
 gor
 gentlepeople
@@ -7699,7 +7700,6 @@ geomyid
 goldworker
 gamins
 grouf
-grewsome
 geistlich
 gos
 gliomatous
