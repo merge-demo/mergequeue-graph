@@ -3341,6 +3341,7 @@ dicot
 dayment
 distressfulness
 dullery
+defaulter
 definitor
 desulphurized
 dogmouth
@@ -14449,7 +14450,6 @@ disdeify
 daltonian
 diverters
 disillusionized
-defaulter
 disjointing
 duopolist
 dolabre
