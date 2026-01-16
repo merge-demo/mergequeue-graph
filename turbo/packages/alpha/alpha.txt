@@ -2382,7 +2382,6 @@ abortionist
 abator
 adjection
 acrospired
-anticritically
 asseverates
 acinaciform
 amorism
@@ -9429,6 +9428,7 @@ anemones
 apicad
 angiosclerotic
 autocinesis
+anticritically
 alterable
 acatery
 alterably

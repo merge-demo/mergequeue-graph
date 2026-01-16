@@ -3842,7 +3842,6 @@ eschatocol
 electroculture
 exotheca
 emigrating
-excogitating
 enflagellate
 epidotic
 enfeebled
@@ -9342,6 +9341,7 @@ eupepsia
 exacted
 escalated
 exilition
+excogitating
 eucti
 eulogistic
 elkoshite
