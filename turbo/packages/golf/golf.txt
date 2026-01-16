@@ -1862,7 +1862,6 @@ geodic
 gourmandism
 gasconading
 galacturia
-gardenwise
 gentilesse
 grabber
 gatherers
@@ -5046,6 +5045,7 @@ garrya
 gilled
 gigas
 galliots
+gardenwise
 gynaecea
 gypper
 gadinic
