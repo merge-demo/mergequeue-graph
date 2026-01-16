@@ -3464,6 +3464,7 @@ gastrologer
 genoa
 gallanting
 glasgow
+graphemes
 gallophobia
 gourdlike
 gallous
@@ -4799,7 +4800,6 @@ guardo
 glacieret
 garookuh
 glacierist
-graphemes
 gymnothorax
 gladhearted
 greeted
