@@ -7406,6 +7406,7 @@ boatings
 betread
 barnier
 bathybius
+bobcoat
 braveries
 betrothing
 betrothment
@@ -17610,7 +17611,6 @@ bulldozes
 backster
 belduque
 barricadoing
-bobcoat
 burglarproofs
 burglars
 basote
