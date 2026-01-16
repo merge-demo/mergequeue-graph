@@ -10437,7 +10437,6 @@ barytostrontianite
 blocs
 blaoner
 blenk
-burinist
 belibeled
 backyarder
 blares
@@ -13131,6 +13130,7 @@ bouquetin
 biseriate
 bugged
 blaspheme
+burinist
 basileis
 bankrupts
 borowolframic
