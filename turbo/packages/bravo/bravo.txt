@@ -2104,7 +2104,6 @@ boilinglike
 banovina
 banquet
 blindish
-bardiest
 banqueting
 beseem
 buddhistic
@@ -6031,6 +6030,7 @@ buttstrap
 blacktail
 bemuddlement
 bemuddles
+bardiest
 bemuddling
 bemurmur
 bondwoman
