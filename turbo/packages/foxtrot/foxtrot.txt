@@ -198,7 +198,6 @@ folletage
 footstock
 freedwoman
 ferns
-fazenda
 factotum
 felsitic
 ferrihemoglobin
@@ -1570,6 +1569,7 @@ funning
 froufrous
 fortyfold
 flights
+fazenda
 farcelike
 frisca
 filariidae
