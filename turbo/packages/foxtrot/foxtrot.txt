@@ -856,7 +856,6 @@ forthbrought
 fustigated
 failsafe
 farforthly
-flexing
 fellness
 farenheit
 fantasmal
@@ -4416,6 +4415,7 @@ fovent
 flogmaster
 fumishly
 fledgier
+flexing
 floppiest
 float
 frowzly
