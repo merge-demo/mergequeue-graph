@@ -7570,7 +7570,6 @@ fanciers
 flintworker
 forespeak
 freezable
-fervors
 forril
 fatalize
 farrier
@@ -11464,6 +11463,7 @@ furrure
 foreglimpse
 fin
 fluorophosphate
+fervors
 fulminuric
 ferri
 freelancing
