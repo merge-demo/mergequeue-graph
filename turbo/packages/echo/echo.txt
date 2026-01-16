@@ -1100,7 +1100,6 @@ enarm
 endopterygotic
 epacts
 elhi
-eikons
 environage
 edition
 endere
@@ -14128,6 +14127,7 @@ endarch
 evokes
 equivorous
 existentialize
+eikons
 eutrophy
 endosternite
 embusqu
