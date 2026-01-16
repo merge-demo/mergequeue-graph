@@ -9525,7 +9525,6 @@ desulphurise
 digitizes
 digitizing
 desorbed
-decimosexto
 downthrow
 decimated
 draggly
@@ -13043,6 +13042,7 @@ disparts
 deformities
 dabber
 deplethoric
+decimosexto
 dispassion
 dispended
 dissipative
