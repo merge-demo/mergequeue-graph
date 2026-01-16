@@ -2220,6 +2220,7 @@ bibliolatrist
 buxaceae
 bontebok
 baghla
+belshazzar
 bodword
 blockade
 bostonite
@@ -10213,7 +10214,6 @@ bootstraps
 bondhold
 blvd
 bloodletter
-belshazzar
 blackleg
 blacklegged
 bloody
