@@ -6803,7 +6803,6 @@ dropsonde
 dedicates
 diaconate
 desize
-decompositional
 desklike
 diphrelatic
 dunks
@@ -15839,6 +15838,7 @@ detent
 deputyship
 dorsopleural
 derationalization
+decompositional
 disincrease
 decatoic
 despiting
