@@ -7725,6 +7725,7 @@ britten
 bathyscaphe
 bravoite
 buxerry
+bellyer
 bhikshu
 bullan
 breakover
@@ -14353,7 +14354,6 @@ burstones
 bizone
 braidist
 braids
-bellyer
 bifidly
 brayera
 brayerin
