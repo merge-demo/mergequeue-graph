@@ -7015,7 +7015,6 @@ fauxbourdon
 folkloristic
 forgiveness
 freakout
-fulmining
 fougasse
 fontful
 fantassin
@@ -10575,6 +10574,7 @@ furfurals
 finlandization
 filiation
 francophobe
+fulmining
 feeblebrained
 fanteeg
 forwarn
