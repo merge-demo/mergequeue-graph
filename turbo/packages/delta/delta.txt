@@ -4528,7 +4528,6 @@ demilitarised
 dehydrogenase
 dibranchiate
 demilitarized
-dentaliidae
 disselboom
 drossiest
 demiliterate
@@ -18242,6 +18241,7 @@ decempeda
 dodecafid
 dharna
 dungas
+dentaliidae
 doghearted
 dungbeck
 demioctangular
