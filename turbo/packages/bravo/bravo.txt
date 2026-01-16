@@ -12644,6 +12644,7 @@ beguin
 bedunch
 blueth
 boodled
+baryglossia
 braccia
 bestowable
 bane
@@ -13414,7 +13415,6 @@ belowstairs
 barbarea
 bundestag
 blunts
-baryglossia
 booting
 buncombes
 bibliotheca
