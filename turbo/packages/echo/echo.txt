@@ -3692,7 +3692,6 @@ enfranchised
 echinochrome
 escobilla
 enravishingly
-embrittling
 embryulcia
 embryulculci
 exercitorial
@@ -8786,6 +8785,7 @@ egritude
 esteems
 enskyed
 embelin
+embrittling
 entempest
 empetraceous
 epistolize
