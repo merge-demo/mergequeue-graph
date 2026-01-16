@@ -2694,6 +2694,7 @@ fervence
 ferventness
 frighteningness
 floodwall
+fumage
 fishify
 fuminess
 flamant
@@ -5261,7 +5262,6 @@ fetishistic
 frightless
 fogbound
 flukes
-fumage
 fenks
 fishingly
 fluoridize
