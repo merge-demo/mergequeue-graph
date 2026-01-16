@@ -267,7 +267,6 @@ fiduciary
 fellagha
 fluyts
 fusains
-favi
 fatidic
 filander
 felsic
@@ -3327,6 +3326,7 @@ fulmined
 fiedlerite
 fifth
 flooding
+favi
 falconer
 forgetive
 firmisternia

@@ -6016,7 +6016,6 @@ bellow
 bemoan
 bookie
 bemoaned
-bauxitic
 bowenite
 boiling
 brouette
@@ -9316,6 +9315,7 @@ bifolia
 bloviating
 beany
 bawdry
+bauxitic
 baldricked
 buzuki
 birational
