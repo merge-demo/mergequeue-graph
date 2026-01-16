@@ -2080,6 +2080,7 @@ dinornithid
 disappearance
 disencumbering
 dinoflagellida
+dismasts
 decurvation
 dixiecrat
 dauphiness
@@ -16327,7 +16328,6 @@ druggeries
 dochmiac
 duchess
 discobolus
-dismasts
 dicoelous
 daven
 dismount
