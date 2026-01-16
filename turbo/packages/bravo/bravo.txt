@@ -2646,7 +2646,6 @@ botanise
 begirdle
 barkless
 battening
-bandusia
 bescorch
 beeth
 barlafumble
@@ -16126,6 +16125,7 @@ burgoo
 brassier
 bundweed
 budget
+bandusia
 bolsterers
 bratstvo
 brookweed
