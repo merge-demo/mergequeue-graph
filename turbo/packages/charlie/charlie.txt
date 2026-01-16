@@ -23920,6 +23920,7 @@ conusant
 cheremiss
 conuzee
 cicatricose
+chromatospheric
 cacological
 conv
 convalesced
@@ -29191,7 +29192,6 @@ constipate
 cryosel
 cryospheric
 criosphinx
-chromatospheric
 criosphinxes
 catrigged
 cryostat
