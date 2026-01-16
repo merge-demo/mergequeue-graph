@@ -2597,7 +2597,6 @@ greillade
 glaucine
 glamourization
 gesticular
-grisette
 gasometrical
 glossolabial
 geiger
@@ -9356,6 +9355,7 @@ goutiness
 glonoin
 gustative
 gnomists
+grisette
 gymnoderinae
 glided
 garotes
