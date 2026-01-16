@@ -10922,7 +10922,6 @@ doublethinking
 dorsoradial
 digressions
 disadvance
-disadvancing
 disbursals
 disadvantageousness
 ditetragonal
@@ -13053,6 +13052,7 @@ dipeptide
 dekastere
 desilverizing
 daughterhood
+disadvancing
 dialogical
 djinns
 deicidal
