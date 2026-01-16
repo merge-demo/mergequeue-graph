@@ -5431,7 +5431,6 @@ deoppilate
 dep
 doss
 decolouriser
-doubtfully
 deorganize
 deregister
 donation
@@ -18608,6 +18607,7 @@ dustless
 droguet
 diakonikon
 dustour
+doubtfully
 dorsalmost
 dustsheet
 dure
