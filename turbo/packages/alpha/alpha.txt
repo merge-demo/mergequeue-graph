@@ -1338,7 +1338,6 @@ aiolis
 agnized
 accelerate
 anilide
-arabize
 acceleratedly
 assidean
 annealers
@@ -11491,6 +11490,7 @@ acone
 armaments
 aloemodin
 afterturn
+arabize
 accoutring
 avengeress
 acrinyl

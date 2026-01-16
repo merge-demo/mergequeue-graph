@@ -4850,7 +4850,6 @@ bluebonnets
 brightened
 bustard
 becrusts
-berean
 bedunced
 bacchantes
 bourgeon
@@ -10031,6 +10030,7 @@ bixin
 blackfoot
 brachycnemic
 badgered
+berean
 booklets
 bouvardia
 bummock
