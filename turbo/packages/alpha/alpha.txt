@@ -10099,7 +10099,6 @@ antiphrasis
 anisette
 autolaryngoscope
 antinationally
-archecclesiastic
 adelpholite
 alumin
 acidyl
@@ -19673,6 +19672,7 @@ attitudinal
 alines
 aleyrodid
 albolite
+archecclesiastic
 attercrop
 apl
 aristae
