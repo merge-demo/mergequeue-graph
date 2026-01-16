@@ -9341,7 +9341,6 @@ cryptological
 collocations
 chaute
 carrotage
-chauve
 charmful
 consulating
 cartograph
@@ -13747,6 +13746,7 @@ congruities
 cinematheques
 cutleriales
 clodpole
+chauve
 cinematic
 comedienne
 czechoslovakian
