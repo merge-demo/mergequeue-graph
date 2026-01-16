@@ -9027,7 +9027,6 @@ gastropore
 gelder
 gallbladders
 galvanothermy
-guiles
 geohydrologic
 groomer
 grillee
@@ -9615,6 +9614,7 @@ goiter
 grizzlier
 geochemical
 guarish
+guiles
 gummite
 grandma
 gatefold
