@@ -857,6 +857,7 @@ accurse
 absconsa
 abscound
 aphakia
+apparatuses
 arbitrarily
 aftercoming
 absee
@@ -17671,7 +17672,6 @@ appreciably
 azotobacter
 aquarellist
 acidoid
-apparatuses
 agrostis
 agathology
 apicial
