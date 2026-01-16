@@ -593,6 +593,7 @@ gallinacean
 galesaurus
 guillotinism
 guilandina
+greenstick
 groundlings
 gutierrez
 gyrinidae
@@ -9170,7 +9171,6 @@ grimacers
 gooral
 gridlock
 gliss
-greenstick
 glavering
 glaucomas
 gastrodiaphanoscopy
