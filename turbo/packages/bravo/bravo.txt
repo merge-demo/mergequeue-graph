@@ -5631,6 +5631,7 @@ becuffed
 billyer
 barristerial
 backspacefile
+batonnier
 brominated
 bathrobe
 busheller
@@ -15484,7 +15485,6 @@ babyish
 bout
 brannerite
 bereaved
-batonnier
 bindheimite
 bystander
 brimly
