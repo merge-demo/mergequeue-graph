@@ -7231,6 +7231,7 @@ dimetric
 detenue
 decussorium
 desulfurize
+disprizing
 detenues
 dephlegmator
 deter
@@ -18456,7 +18457,6 @@ duplicious
 danner
 duality
 duplicitously
-disprizing
 dol
 disquisitionary
 duplified
