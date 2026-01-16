@@ -8196,6 +8196,7 @@ antarctalia
 alias
 aleutians
 assassins
+aqualunger
 amora
 alibied
 ambiverts
@@ -18131,7 +18132,6 @@ aquagreen
 anatomise
 absenteeism
 aqualung
-aqualunger
 apogee
 absurdities
 augmentationer
