@@ -6193,6 +6193,7 @@ anhingas
 aposepalous
 aplanobacter
 antecedency
+ailanthic
 agon
 agonal
 athetize
@@ -8743,7 +8744,6 @@ antiperistatically
 amblosis
 arachidonic
 allhallows
-ailanthic
 alliance
 anthracic
 actorship
