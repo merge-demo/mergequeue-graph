@@ -270,7 +270,6 @@ anchovy
 abdicant
 abhorrence
 abdications
-anthropomorphizing
 adze
 amphistyly
 aphenoscope
@@ -5348,6 +5347,7 @@ abuseful
 affrayers
 affraying
 affrays
+anthropomorphizing
 admeasured
 affranchise
 adiadokokinesi
