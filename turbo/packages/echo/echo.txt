@@ -2552,7 +2552,6 @@ enhaloed
 embryonate
 epitomising
 earthworms
-electronically
 engraftation
 exclaimed
 ecad
@@ -8574,6 +8573,7 @@ essancias
 endophytically
 eyebolts
 eumerogenesis
+electronically
 endocarp
 estrogen
 equidistribution

@@ -13139,7 +13139,6 @@ antiromance
 animacule
 animadversional
 almuten
-animadverted
 animadverter
 analgene
 anthracyl
@@ -22597,6 +22596,7 @@ ateloprosopia
 acoenaesthesia
 axifera
 acquisitiveness
+animadverted
 apoaconitine
 acridophagus
 amphigaea
