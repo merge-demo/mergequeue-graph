@@ -3138,7 +3138,6 @@ embalms
 eloise
 epidermidalization
 exocoelom
-epigonousepigons
 entheasm
 euphenics
 elongation
@@ -7457,6 +7456,7 @@ ekphory
 euda
 ephraimite
 exocoetidae
+epigonousepigons
 extensively
 estrins
 estall
