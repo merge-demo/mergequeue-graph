@@ -2416,7 +2416,6 @@ guativere
 graphotypic
 geologian
 gesticulation
-graduator
 goas
 gype
 grograms
@@ -2457,6 +2456,7 @@ gimble
 gonopodial
 gemmology
 globality
+graduator
 gnathidium
 glabrate
 girt
