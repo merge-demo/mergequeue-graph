@@ -891,7 +891,6 @@ bagful
 baggagemaster
 bedamning
 brachydome
-baggager
 benzidin
 benzalcohol
 beffroy
@@ -6932,6 +6931,7 @@ beshroud
 brachiostrophosis
 bigmitt
 borlase
+baggager
 bundook
 bellis
 borele
