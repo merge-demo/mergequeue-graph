@@ -9756,6 +9756,7 @@ composal
 colourable
 chekist
 connaraceae
+conveneries
 chekker
 collegers
 chelate
@@ -23973,7 +23974,6 @@ communaliser
 convened
 convener
 counterexcommunication
-conveneries
 chayma
 conveners
 convenience
