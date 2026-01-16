@@ -7230,7 +7230,6 @@ catechist
 centrodesmus
 centrodorsal
 centroids
-cyanophilous
 conte
 countervindication
 centromere
@@ -15044,6 +15043,7 @@ cater
 cixo
 cize
 cyclographer
+cyanophilous
 congenially
 combine
 carposperm
