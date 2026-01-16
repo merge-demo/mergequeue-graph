@@ -4701,6 +4701,7 @@ cabmen
 centrospermae
 carouse
 caroused
+cherubimical
 carousels
 carp
 carpaine
@@ -10051,7 +10052,6 @@ composers
 cherubim
 cajoleries
 cherubimic
-cherubimical
 cherublike
 corkline
 crystalize
