@@ -4138,7 +4138,6 @@ fatling
 fenchyl
 feezed
 fireboy
-flying
 fiendishly
 fraticelli
 firebomb
@@ -7330,6 +7329,7 @@ fairyfloss
 foredone
 flimsiest
 filles
+flying
 faeces
 fat
 forbborne
