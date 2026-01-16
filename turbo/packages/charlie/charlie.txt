@@ -1110,7 +1110,6 @@ choppin
 crossbarred
 calcinate
 calcinator
-calcine
 coherently
 candareen
 cytherea
@@ -24416,6 +24415,7 @@ carapaxes
 caracals
 crusadoes
 chupatti
+calcine
 cooperation
 cuissart
 cilioscleral
