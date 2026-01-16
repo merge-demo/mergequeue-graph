@@ -10175,7 +10175,6 @@ emmarbled
 electrotelegraphic
 externals
 escargotieres
-esperantic
 esophagomycosis
 envenomation
 ethician
@@ -12123,6 +12122,7 @@ ejam
 eloper
 ebonite
 ensorcerize
+esperantic
 erpetologist
 eg
 eyelike
