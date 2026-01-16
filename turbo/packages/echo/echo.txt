@@ -6483,7 +6483,6 @@ endostosis
 ephyra
 exactly
 extratension
-entail
 entomophthora
 exponentials
 endurant
@@ -7691,6 +7690,7 @@ erythraea
 epirogeny
 epidermic
 epidermical
+entail
 enteroplasty
 erechtheus
 electropolish
