@@ -6416,7 +6416,6 @@ frivoled
 frogeye
 fluoaluminate
 femorocaudal
-fainted
 flatcap
 fairs
 fistulariidae
@@ -10081,6 +10080,7 @@ fiberizing
 flyover
 flintifying
 franion
+fainted
 foretopman
 fructuary
 footlight
