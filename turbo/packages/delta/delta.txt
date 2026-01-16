@@ -1281,6 +1281,7 @@ desmids
 dossil
 dermoptera
 deti
+diplopy
 distressfully
 dandyism
 disking
@@ -4982,7 +4983,6 @@ deposed
 dinamode
 decussion
 delustered
-diplopy
 duellers
 diazid
 drouked
