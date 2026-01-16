@@ -8880,6 +8880,7 @@ eyers
 ergostat
 eddie
 entelam
+extrajudicial
 experimentally
 ergoted
 explosible
@@ -11170,7 +11171,6 @@ enspheres
 electroacoustically
 econometrist
 evanesces
-extrajudicial
 etuis
 elver
 extatic
