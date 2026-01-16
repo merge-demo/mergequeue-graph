@@ -697,7 +697,6 @@ adversely
 abortive
 afebrile
 abortiveness
-allegorising
 american
 animadversion
 antiaesthetic
@@ -12609,6 +12608,7 @@ anesthesimeter
 axiomatizations
 aktistete
 anesthesiology
+allegorising
 anesthesiologies
 aasvogel
 angelophany

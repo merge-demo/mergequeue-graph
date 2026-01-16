@@ -2845,7 +2845,6 @@ barotraumas
 barotropic
 barouchette
 bioecologic
-barouni
 baroxyton
 benignantly
 beebread
@@ -3957,6 +3956,7 @@ bastardizations
 borborygm
 beachcombers
 beachdrops
+barouni
 biliment
 bowed
 bumpiest
