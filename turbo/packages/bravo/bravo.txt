@@ -4291,6 +4291,7 @@ boggish
 bathyscaph
 battledore
 bacterious
+bremia
 bebreech
 bigeminy
 backcourtman
@@ -8292,7 +8293,6 @@ beachiest
 balkiness
 bixa
 boundingly
-bremia
 bewrayer
 besnuff
 bigeminies
