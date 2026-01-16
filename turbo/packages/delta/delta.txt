@@ -10681,7 +10681,6 @@ dingar
 dumbnesses
 diaculum
 depit
-dormin
 demurs
 dippier
 dipping
@@ -15661,6 +15660,7 @@ detective
 discased
 distemperance
 dopey
+dormin
 decrements
 doper
 disbarring
