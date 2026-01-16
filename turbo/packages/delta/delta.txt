@@ -10451,7 +10451,6 @@ dourly
 dishonesties
 diphthongally
 disenable
-dipneust
 dismortgaged
 dimyarian
 dispost
@@ -14902,6 +14901,7 @@ dodecaphonic
 diverts
 dodecaphonism
 demibastion
+dipneust
 dehumidifiers
 destructive
 dodecarch
