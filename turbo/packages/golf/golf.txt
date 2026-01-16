@@ -3525,7 +3525,6 @@ gluconeogenesis
 grugru
 gunslinging
 geo
-gloats
 glunched
 gymkhana
 grudgery
@@ -6409,6 +6408,7 @@ goitrogenic
 galibi
 garbing
 glossopteris
+gloats
 glassman
 glossotherium
 gobiesocid
