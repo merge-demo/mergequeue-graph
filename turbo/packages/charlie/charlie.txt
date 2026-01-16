@@ -16833,7 +16833,6 @@ cerebralgia
 clubhaul
 correctant
 cupflower
-confirmity
 conred
 caravanned
 cahokia
@@ -29906,6 +29905,7 @@ crosshand
 crosshatches
 capillation
 cogwheel
+confirmity
 coadjutator
 crosshatching
 crosshauling
