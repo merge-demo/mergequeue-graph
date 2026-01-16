@@ -376,6 +376,7 @@ dasher
 daymark
 doupion
 daimiate
+deviancies
 daimiel
 davallia
 daimyo
@@ -9810,7 +9811,6 @@ dynamometamorphism
 diluvia
 disarmament
 disillusionizer
-deviancies
 diamicton
 defacers
 darnings
