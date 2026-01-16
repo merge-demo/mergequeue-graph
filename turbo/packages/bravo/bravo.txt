@@ -9575,6 +9575,7 @@ bhutia
 bromides
 bumbledom
 bronchomycosis
+bedim
 bahut
 blastomata
 biscutate
@@ -14802,7 +14803,6 @@ breacher
 beanfeaster
 breachers
 belonite
-bedim
 bulborectal
 breachful
 briefcases
