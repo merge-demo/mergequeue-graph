@@ -6149,6 +6149,7 @@ bushlands
 bravo
 bisexuals
 benefices
+benzein
 blackthorn
 balsamweed
 baccarat
@@ -6334,7 +6335,6 @@ begalling
 begrace
 benzols
 buffalofishes
-benzein
 bellyfish
 besnowed
 blinks
