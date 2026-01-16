@@ -1488,6 +1488,7 @@ fila
 flutings
 fetcher
 furibund
+fumy
 flunkeyish
 furanose
 foundering
@@ -11624,7 +11625,6 @@ funestal
 finestiller
 forehew
 fustigatory
-fumy
 friendship
 foliaceous
 fetlow
