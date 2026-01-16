@@ -25380,7 +25380,6 @@ comprising
 cornfields
 cheroots
 cornflag
-countersiege
 cornflower
 cornflowers
 corngrower
@@ -30293,6 +30292,7 @@ convoluted
 cycad
 closest
 clamberer
+countersiege
 crunch
 confused
 cepolidae
