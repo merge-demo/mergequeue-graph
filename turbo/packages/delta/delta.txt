@@ -13015,7 +13015,6 @@ disparageable
 dingies
 disparagement
 disparagements
-documenting
 daleth
 disparate
 disparation
@@ -14428,6 +14427,7 @@ diversifier
 diversiflorate
 diversiform
 dachshunde
+documenting
 dutiful
 desmotomy
 diversisporous
