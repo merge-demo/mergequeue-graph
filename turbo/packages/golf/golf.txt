@@ -3018,7 +3018,6 @@ gibbed
 gyrostatically
 gromet
 genii
-giraffidae
 gorra
 globulins
 gastromyces
@@ -7632,6 +7631,7 @@ gatecrasher
 gleaminess
 geospiza
 gradationally
+giraffidae
 grandeza
 goals
 germinancy
