@@ -6647,6 +6647,7 @@ gingivectomy
 gash
 grandioso
 gopak
+glissandos
 genocides
 gonfalcon
 glossopyrosis
@@ -10164,7 +10165,6 @@ grazioso
 grooper
 guato
 gunboat
-glissandos
 genres
 guidepost
 glossophobia
