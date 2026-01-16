@@ -7496,6 +7496,7 @@ albuminize
 arrested
 anchovies
 adaptor
+alethopteroid
 albuminofibrin
 albuminoid
 abstract
@@ -7946,7 +7947,6 @@ alethopteis
 afterword
 acritical
 amatungula
-alethopteroid
 archidium
 alethoscope
 amulae
