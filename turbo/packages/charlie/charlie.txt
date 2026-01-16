@@ -3054,7 +3054,6 @@ cantraip
 cantraps
 chares
 curlyheads
-capitonidae
 centrales
 cantrip
 cantus
@@ -12382,6 +12381,7 @@ canthectomy
 chevroned
 cocineras
 confederater
+capitonidae
 cnidophobia
 culebra
 chromatopsia
