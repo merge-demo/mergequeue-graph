@@ -6572,6 +6572,7 @@ fiends
 floristically
 fingerstone
 fascioliasis
+fringetail
 feelies
 flagrante
 flapperism
@@ -10001,7 +10002,6 @@ fruitier
 fringent
 frizzer
 feminacy
-fringetail
 fortune
 fibrocystoma
 favors
