@@ -6485,7 +6485,6 @@ bumbled
 blowiness
 backstrip
 bepart
-beacher
 bepimpling
 bepraiser
 benzocaine
@@ -11223,6 +11222,7 @@ beaker
 boder
 backage
 burkes
+beacher
 batterfang
 brazenness
 bracts
