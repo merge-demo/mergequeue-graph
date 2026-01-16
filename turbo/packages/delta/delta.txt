@@ -3343,7 +3343,6 @@ distemperer
 downweight
 dicot
 dayment
-distressfulness
 dullery
 defaulter
 definitor
@@ -6495,6 +6494,7 @@ dolichosoma
 dunged
 diadromous
 dispositionally
+distressfulness
 dissevering
 determinate
 dactylogram
