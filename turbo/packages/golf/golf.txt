@@ -7827,6 +7827,7 @@ gerents
 gulaman
 goosander
 gooroo
+gaywings
 grumble
 gurlet
 gasometric
@@ -9402,7 +9403,6 @@ glycerolize
 grottoes
 gelatose
 grandeeism
-gaywings
 geryonidae
 galloptious
 glycocholate
