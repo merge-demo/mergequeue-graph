@@ -1178,7 +1178,6 @@ fallals
 fungistatically
 fascine
 ferreous
-fishmeals
 furring
 fascintatingly
 flavopurpurin
@@ -9050,6 +9049,7 @@ fenlander
 frankist
 featy
 falsification
+fishmeals
 flourisher
 firmance
 furbishable
