@@ -11552,6 +11552,7 @@ couchee
 cholecystectasia
 cholecystectomy
 clammier
+coronoid
 chimachima
 countermeasure
 cholecystenterorrhaphy
@@ -12896,7 +12897,6 @@ carroming
 cucullus
 clodpolls
 critism
-coronoid
 cleidocranial
 chute
 clangorously
