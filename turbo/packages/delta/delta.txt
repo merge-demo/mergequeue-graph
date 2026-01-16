@@ -818,7 +818,6 @@ daneweed
 daneweeds
 detections
 dactyliomancy
-diabrotic
 deduced
 dangerousness
 distention
@@ -17550,6 +17549,7 @@ dictatorialness
 disvaluing
 decolour
 disassimilation
+diabrotic
 dynamiter
 drumliest
 desisting
