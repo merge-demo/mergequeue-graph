@@ -1344,7 +1344,6 @@ garlandless
 ganocephalan
 guillotiner
 greenalite
-galvanist
 geoside
 glomerulus
 galloner
@@ -5346,6 +5345,7 @@ gloaters
 glistered
 gigge
 gemmary
+galvanist
 gritrock
 gillotype
 gilts
