@@ -5387,6 +5387,7 @@ castellans
 cinerararia
 chaufer
 castellate
+ciphony
 castellation
 castellatus
 creolization
@@ -13336,7 +13337,6 @@ chasers
 centaurium
 ceration
 coformulator
-ciphony
 consubstantiationist
 capon
 czarism

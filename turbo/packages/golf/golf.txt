@@ -8536,7 +8536,6 @@ gressorious
 glasslike
 geisha
 graveolent
-gymnoderinae
 gozzan
 gramineae
 graverobbing
@@ -9361,6 +9360,7 @@ goutiness
 glonoin
 gustative
 gnomists
+gymnoderinae
 glided
 garotes
 gumi
