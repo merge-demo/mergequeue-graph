@@ -1671,7 +1671,6 @@ gastrodermal
 gastrodermis
 gulfweed
 galeopithecus
-gastroduodenitis
 guadua
 gastroduodenostomy
 gastritis
@@ -5174,6 +5173,7 @@ gonystylaceous
 gracility
 geognosist
 gleamily
+gastroduodenitis
 gabble
 gharial
 gleamingly
