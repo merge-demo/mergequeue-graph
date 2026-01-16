@@ -120,7 +120,6 @@ cellblocks
 cabineting
 codshead
 cabinetmaking
-capacitated
 cabinetted
 coumalic
 chordophone
@@ -7075,6 +7074,7 @@ combinedly
 codex
 centerpunch
 crackdown
+capacitated
 centesimal
 couplers
 crosscurrented
