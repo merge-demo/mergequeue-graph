@@ -6423,6 +6423,7 @@ benzothiodiazole
 bergamiol
 bumpering
 backcloth
+blastophitic
 barangay
 biternate
 benzothiofuran
@@ -14469,7 +14470,6 @@ boatyards
 bakunda
 betray
 brakie
-blastophitic
 brambleberry
 brambles
 branchy
