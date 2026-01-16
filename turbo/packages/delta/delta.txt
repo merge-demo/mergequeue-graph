@@ -13919,7 +13919,6 @@ deflagrations
 distillery
 dynamogeneses
 deodand
-daemonian
 discoboli
 disdainous
 dachs
@@ -16513,6 +16512,7 @@ davis
 dervishlike
 despatcher
 darii
+daemonian
 dilucidate
 disdainable
 diomedes
