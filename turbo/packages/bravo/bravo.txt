@@ -337,7 +337,6 @@ bistetrazole
 bradoons
 bourree
 bacteroideae
-bellybuttons
 baccarats
 bathychrome
 backdrop
@@ -7958,6 +7957,7 @@ bicarbureted
 bicarburetted
 binucleated
 beanbag
+bellybuttons
 bicaudate
 baphia
 birthdays
