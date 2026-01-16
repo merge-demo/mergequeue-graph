@@ -7369,7 +7369,6 @@ derogatoriness
 detn
 defibrillating
 dowagerism
-dwine
 drogoman
 dadayag
 dijudication
@@ -12042,6 +12041,7 @@ disenmesh
 dibrom
 derf
 donut
+dwine
 deacon
 disensanity
 dismayedness

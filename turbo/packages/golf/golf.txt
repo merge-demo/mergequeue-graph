@@ -8016,7 +8016,6 @@ grunting
 geophysicists
 grotesquerie
 guglia
-gruesomely
 greenishness
 gambiae
 gusted
@@ -8915,6 +8914,7 @@ grainage
 ganglier
 giddies
 giros
+gruesomely
 geoducks
 gemming
 ghess
