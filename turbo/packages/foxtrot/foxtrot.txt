@@ -225,6 +225,7 @@ faculties
 faunistically
 fringy
 functionaries
+fimbles
 fulimart
 frostbound
 friezed
@@ -10001,7 +10002,6 @@ fringent
 frizzer
 feminacy
 fringetail
-fimbles
 frogskin
 fortune
 fibrocystoma
