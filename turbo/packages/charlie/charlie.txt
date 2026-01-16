@@ -11551,7 +11551,6 @@ contestation
 cleavingly
 chold
 cholecyanine
-couchee
 cholecystectasia
 cholecystectomy
 clammier
@@ -27057,6 +27056,7 @@ croupily
 clerking
 counterprotection
 counterpull
+couchee
 counterpuncture
 counterpush
 counterquartered
