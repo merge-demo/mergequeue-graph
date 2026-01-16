@@ -520,6 +520,7 @@ firerooms
 frowny
 foresense
 falco
+fally
 fermentive
 fusarole
 forgivableness
@@ -3737,7 +3738,6 @@ fibula
 fjorgyn
 fogyish
 fulls
-fally
 filliped
 fascinatingly
 fluxing
