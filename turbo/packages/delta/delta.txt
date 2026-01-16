@@ -16039,7 +16039,6 @@ devilmonger
 dodgeful
 diminishable
 dropsied
-doubloon
 doublures
 diaphote
 doaty
@@ -18613,6 +18612,7 @@ dustsheet
 dure
 djasakid
 dissonantly
+doubloon
 denudational
 dusttight
 dustuk
