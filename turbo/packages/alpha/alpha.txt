@@ -4858,7 +4858,6 @@ aerocraft
 arbutes
 aspheterize
 ab
-amas
 arkwright
 aerodermectasia
 aerodynamically
@@ -14991,6 +14990,7 @@ aljama
 anticonventional
 anticor
 anticorona
+amas
 anticorrosiveness
 animose
 alsatia
