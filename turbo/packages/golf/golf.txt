@@ -7632,7 +7632,6 @@ guardianless
 geomantic
 gradated
 gatecrasher
-gestureless
 gleaminess
 geospiza
 gradationally
@@ -8878,6 +8877,7 @@ gyroceracone
 genappe
 guesthouses
 greyfly
+gestureless
 gregau
 guarantine
 glycerination
