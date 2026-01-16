@@ -1454,7 +1454,6 @@ acclamator
 arrowheaded
 acclimatable
 acclimatement
-attires
 alewhap
 acclimates
 acclimatisation
@@ -11171,6 +11170,7 @@ addictive
 analgesis
 alpinely
 adsorb
+attires
 amphiboles
 affliction
 axometric
