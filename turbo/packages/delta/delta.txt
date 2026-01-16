@@ -3824,7 +3824,6 @@ demagnetizable
 deficiency
 dermalgia
 dubitative
-dolose
 discreate
 dimwit
 defoams
@@ -3989,6 +3988,7 @@ delegates
 delegateship
 dermographism
 darst
+dolose
 digressiveness
 dibasicity
 dialing
