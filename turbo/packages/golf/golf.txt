@@ -2022,6 +2022,7 @@ gel
 gelatiniform
 gases
 gaveled
+ghastfulness
 gibbosities
 gangrenes
 gnomologic
@@ -7558,7 +7559,6 @@ grinagog
 gypsying
 gowked
 gambet
-ghastfulness
 glucolysis
 gruntle
 geophyte
