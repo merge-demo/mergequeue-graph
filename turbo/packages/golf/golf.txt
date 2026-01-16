@@ -1321,7 +1321,6 @@ gargler
 gynecologies
 greeting
 gargoyley
-grimier
 gested
 gheleem
 galium
@@ -5436,6 +5435,7 @@ gluing
 gladful
 goethite
 gentlest
+grimier
 grill
 garancin
 gilenyie
