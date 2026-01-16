@@ -9704,7 +9704,6 @@ beadrolls
 blaewort
 bizes
 benj
-bicolored
 boondogglers
 ballywrack
 bisques
@@ -15850,6 +15849,7 @@ bromogelatin
 beamishly
 bromamide
 brininess
+bicolored
 barrows
 besomer
 blite
