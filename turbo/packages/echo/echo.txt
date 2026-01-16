@@ -10484,7 +10484,6 @@ electricans
 esoanhydride
 extirpations
 exemplifications
-electrometry
 effusing
 entreatingly
 euboean
@@ -10656,6 +10655,7 @@ easternism
 eugenically
 eugenie
 eugenism
+electrometry
 epikouros
 elatedness
 erioglaucine
