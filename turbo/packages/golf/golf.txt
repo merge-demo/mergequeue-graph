@@ -1111,6 +1111,7 @@ graptolitic
 gallants
 guillotining
 gwyniad
+gladded
 granet
 giddier
 grotesco
@@ -7921,7 +7922,6 @@ grandad
 gnomically
 gentilization
 gey
-gladded
 gallantly
 goodwillie
 grandads
