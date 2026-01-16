@@ -259,7 +259,6 @@ automative
 aba
 apodictic
 aggraded
-anthranoyl
 apocryphon
 abashing
 admonition
@@ -14878,6 +14877,7 @@ aliquant
 ameliorate
 aphotic
 anticyclone
+anthranoyl
 arthroempyema
 alkarsin
 ankylodactylia
