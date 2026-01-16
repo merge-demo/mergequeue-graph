@@ -5540,6 +5540,7 @@ expediences
 evangel
 extratympanic
 experiential
+enomania
 empathetically
 enduringness
 estimably
@@ -12480,7 +12481,6 @@ educatory
 enneadic
 electrifying
 electroosmosis
-enomania
 escarbuncle
 esophagotomy
 enrollees
