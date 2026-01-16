@@ -1499,7 +1499,6 @@ gaolage
 groose
 guaxima
 glandless
-gatherable
 gorlin
 gregarinidal
 grisounite
@@ -6405,6 +6404,7 @@ goitral
 guam
 gamboges
 galuth
+gatherable
 gaine
 grasswidowhood
 goitrogenic
