@@ -9489,6 +9489,7 @@ eternalness
 escrow
 escrowing
 esculents
+exorcize
 ethnog
 esculin
 expansively
@@ -14105,7 +14106,6 @@ extricable
 extricably
 egbo
 ericad
-exorcize
 emissile
 eustatically
 enzymically
