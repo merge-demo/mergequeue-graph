@@ -6492,6 +6492,7 @@ entail
 entomophthora
 exponentials
 endurant
+epibolism
 ended
 entangledness
 endotrachelitis
@@ -12708,7 +12709,6 @@ etchers
 exalted
 exophthalmia
 embloom
-epibolism
 exenterating
 exophthalmus
 euonymus
