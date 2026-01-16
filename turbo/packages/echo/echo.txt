@@ -1292,7 +1292,6 @@ euryphagous
 epimachinae
 entomologists
 extrapolating
-episynaloephe
 effectors
 effectress
 encapsulate
@@ -3992,6 +3991,7 @@ eyeblack
 expresser
 elucidations
 emphysema
+episynaloephe
 endobronchitis
 emphyteutic
 emolumentary

@@ -3183,7 +3183,6 @@ geotropy
 guardant
 glossolabiolaryngeal
 gametoid
-ganglial
 gooier
 gie
 gastrocnemian
@@ -4003,6 +4002,7 @@ grandness
 gutturals
 gerundive
 gushingly
+ganglial
 graybacks
 grossierete
 garter
