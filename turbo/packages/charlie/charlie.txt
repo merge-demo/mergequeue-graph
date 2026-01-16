@@ -11843,7 +11843,6 @@ choristers
 calashes
 chorai
 choral
-choralcelo
 causeway
 chorale
 carmagnoles
@@ -18631,6 +18630,7 @@ coadmitting
 coinstantaneously
 centrolinead
 causeful
+choralcelo
 coinstantaneousness
 coinsurance
 coinsurer
