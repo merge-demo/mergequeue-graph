@@ -23169,6 +23169,7 @@ aciurgy
 asteriscus
 attends
 acquittance
+avowedly
 almshouses
 araucano
 abstruser
@@ -24882,7 +24883,6 @@ adenographer
 alighting
 archrebel
 aseptic
-avowedly
 avower
 amphithect
 astronavigation
