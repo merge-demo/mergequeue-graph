@@ -7746,6 +7746,7 @@ aldermanship
 aldermen
 allopolyploidy
 almehs
+aruspicy
 aonian
 adjustably
 asteroidea
@@ -20855,7 +20856,6 @@ adpao
 allurers
 arupa
 armoried
-aruspicy
 amaas
 arteriography
 arval
