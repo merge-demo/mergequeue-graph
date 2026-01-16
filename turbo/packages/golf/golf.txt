@@ -5450,7 +5450,6 @@ guipure
 guilds
 groundskeep
 glisk
-gastruran
 grangerising
 gemmier
 gluttery
@@ -5636,6 +5635,7 @@ genitals
 gnatlike
 glissando
 ginglymodian
+gastruran
 grandsons
 grafts
 grumes
