@@ -7784,6 +7784,7 @@ desires
 dadburned
 decolourising
 depopulative
+dissava
 dyak
 devoir
 destabilizing
@@ -15701,7 +15702,6 @@ downbye
 dorask
 dorbeetle
 deflectors
-dissava
 dorbel
 dorbugs
 defeatist
