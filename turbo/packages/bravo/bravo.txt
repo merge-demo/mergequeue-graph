@@ -8014,7 +8014,6 @@ bick
 bicycler
 bluebooks
 bisiliac
-bickerer
 bailsman
 bakehouses
 breathalyse
@@ -13043,6 +13042,7 @@ bordering
 bemantle
 balangay
 bolster
+bickerer
 blousing
 borders
 bagpipe
