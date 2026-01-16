@@ -5707,6 +5707,7 @@ eau
 educabilia
 etherolate
 emerald
+echar
 entrenches
 engirdle
 ebullient
@@ -7086,7 +7087,6 @@ ensophic
 epicyesis
 eild
 exclusions
-echar
 estanciero
 eudaemonism
 everyday
