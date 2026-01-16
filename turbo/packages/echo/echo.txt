@@ -4839,7 +4839,6 @@ elepaio
 excitoglandular
 empoisons
 ebulliometer
-exoperidium
 endoderm
 enculturation
 ergatandromorph
@@ -11865,6 +11864,7 @@ excelsior
 eventfulness
 earthily
 emotivism
+exoperidium
 excentric
 eumeromorphic
 essenic
