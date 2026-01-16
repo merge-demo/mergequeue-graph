@@ -7833,7 +7833,6 @@ dogsleds
 deckhands
 diadochokinesis
 dyothelism
-dwelling
 dil
 devour
 devourers
@@ -10327,6 +10326,7 @@ disassimilate
 dioscurian
 disenfranchised
 diazoanhydride
+dwelling
 discrimination
 dictronics
 diosmosed
