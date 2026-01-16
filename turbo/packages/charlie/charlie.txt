@@ -2546,6 +2546,7 @@ circumcinct
 candlemaker
 candlemaking
 candlemas
+compresence
 crewel
 childproof
 cacqueteuse
@@ -20908,7 +20909,6 @@ campership
 coleoptile
 chenopodiaceous
 collegiums
-compresence
 compresent
 cai
 compress
