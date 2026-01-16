@@ -4825,7 +4825,6 @@ gigantize
 greenings
 goiterogenic
 gladfulness
-galaxian
 geck
 glaiks
 glaciates
@@ -10837,6 +10836,7 @@ gyrofrequency
 genethlialogical
 girderage
 gyrograph
+galaxian
 guttar
 guaiacum
 guzul
