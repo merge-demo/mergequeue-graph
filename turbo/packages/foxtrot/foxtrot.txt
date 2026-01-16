@@ -5889,6 +5889,7 @@ foveola
 freyr
 factitude
 frim
+factorizing
 frats
 forlornly
 fructiferous
@@ -10918,7 +10919,6 @@ filtration
 flavorful
 forge
 formalins
-factorizing
 ferreiro
 foreshadows
 fub
