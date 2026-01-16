@@ -5882,7 +5882,6 @@ edeitis
 externalise
 enhancing
 enharbour
-electrometallurgy
 exocytosis
 endsweep
 enharden
@@ -12231,6 +12230,7 @@ elshin
 exsurge
 exch
 endosteal
+electrometallurgy
 enchases
 expertized
 encommon
