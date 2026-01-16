@@ -13898,7 +13898,6 @@ costive
 cinofoil
 cynogenealogy
 craping
-canonistic
 caviars
 cyathos
 cleek
@@ -30095,6 +30094,7 @@ crowding
 crowdle
 chromatrope
 cingulated
+canonistic
 crower
 crowers
 conductors
