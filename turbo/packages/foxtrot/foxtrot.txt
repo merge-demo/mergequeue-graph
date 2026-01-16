@@ -8429,6 +8429,7 @@ formazan
 formel
 furiant
 foresinger
+fecundities
 formelt
 ferritic
 filmsetter
@@ -10360,7 +10361,6 @@ fungite
 flusterment
 fibroplasia
 foundlings
-fecundities
 fertilizable
 frontignan
 fucate
