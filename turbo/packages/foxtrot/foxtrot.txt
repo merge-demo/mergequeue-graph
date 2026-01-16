@@ -2526,7 +2526,6 @@ favaginous
 foulmouth
 formaldehyde
 frondescent
-ferrelling
 fluorine
 fiatconfirmatio
 feeler
@@ -10313,6 +10312,7 @@ friendless
 foxinesses
 fosterers
 fraternise
+ferrelling
 forrarder
 fruitlessly
 faithfully
