@@ -8359,7 +8359,6 @@ earplug
 equestrial
 egency
 exodontics
-espontoon
 enwreathe
 entertain
 ethylenation
@@ -13049,6 +13048,7 @@ expellees
 echinospermum
 expellent
 entrancing
+espontoon
 egueiite
 evaluations
 expermentized
