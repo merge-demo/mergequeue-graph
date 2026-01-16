@@ -3516,6 +3516,7 @@ frightful
 foulsome
 filamentary
 flannelleaves
+fanlight
 fishfall
 flagrancy
 frowziness
@@ -8773,7 +8774,6 @@ fetchers
 flotages
 flotillas
 fossage
-fanlight
 female
 fidel
 fearable
