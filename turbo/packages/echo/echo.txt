@@ -5063,7 +5063,6 @@ eupanorthidae
 ectozoan
 epitomical
 emuls
-embracingness
 encysted
 electrosensitive
 emanatistic
@@ -9237,6 +9236,7 @@ elayl
 erratas
 erratic
 erratically
+embracingness
 enantiomorphic
 elite
 eulogist
