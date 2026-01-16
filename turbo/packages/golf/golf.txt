@@ -7606,6 +7606,7 @@ gravispheric
 gyn
 gowlan
 gunsel
+growing
 graphic
 giovanni
 gracilis
@@ -10828,7 +10829,6 @@ gyved
 gigunu
 guvacine
 goatland
-growing
 grammatic
 greengrocery
 greenbackism
