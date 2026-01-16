@@ -9286,7 +9286,6 @@ biprong
 baseball
 baume
 bongoist
-begloomed
 befit
 bleezy
 bobsled
@@ -14564,6 +14563,7 @@ brandiron
 buddle
 bimaculate
 billhooks
+begloomed
 blume
 buri
 buggyman
