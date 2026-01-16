@@ -6976,7 +6976,6 @@ daphnia
 dinoflagellate
 docility
 dumbfoundment
-despitefully
 desalinizes
 despitefulness
 disray
@@ -9266,6 +9265,7 @@ disambiguations
 daikering
 daguerreotyper
 dietaries
+despitefully
 deosculate
 disploding
 declinal
