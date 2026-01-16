@@ -5752,7 +5752,6 @@ budgeree
 bullous
 barnyards
 biocellate
-bascology
 bunn
 bioluminescence
 bulak
@@ -11014,6 +11013,7 @@ beweeping
 botryopterid
 blitzkrieging
 brache
+bascology
 backstairs
 bladelike
 bargello
