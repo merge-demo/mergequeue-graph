@@ -2993,7 +2993,6 @@ gravipause
 gaggle
 glorias
 groped
-guardedness
 guaiacol
 gaulding
 ginglymoidal
@@ -7036,6 +7035,7 @@ genyantrum
 greasiest
 gare
 genealogist
+guardedness
 gooseboy
 goschen
 gliffing
