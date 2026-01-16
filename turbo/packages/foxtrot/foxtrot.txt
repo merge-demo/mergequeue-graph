@@ -967,6 +967,7 @@ fluorids
 frape
 fastigiums
 forkers
+froom
 formalizer
 fillagreed
 fardage
@@ -5113,7 +5114,6 @@ foretooth
 floccular
 fellifluous
 furbelows
-froom
 flatlands
 fiberized
 flavoprotein
