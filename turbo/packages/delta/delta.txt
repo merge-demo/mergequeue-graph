@@ -1008,7 +1008,6 @@ daringness
 dit
 darings
 dithematic
-darius
 doubleprecision
 dark
 dinkeys
@@ -10870,6 +10869,7 @@ debaucheries
 doddart
 debaters
 deconcentrate
+darius
 disjuncts
 desalting
 disculpate
