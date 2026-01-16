@@ -2762,7 +2762,6 @@ feis
 flanges
 fortescure
 fascisms
-ferrimagnet
 festy
 festilogies
 feddans
@@ -10160,6 +10159,7 @@ farce
 foxchop
 fetologies
 furdel
+ferrimagnet
 famines
 fending
 foggages
