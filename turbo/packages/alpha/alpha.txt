@@ -7249,7 +7249,6 @@ alarm
 assumably
 alarmclock
 alexanders
-abamps
 alarmedly
 audivise
 alarmingly
@@ -7784,6 +7783,7 @@ antigalactic
 aldol
 assured
 afterfall
+abamps
 apaestically
 accidentarily
 adipescent
