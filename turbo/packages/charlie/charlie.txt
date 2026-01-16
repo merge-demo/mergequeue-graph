@@ -3588,6 +3588,7 @@ capucine
 capulet
 capulin
 caputium
+cabined
 caque
 condemnor
 chewiest
@@ -8145,7 +8146,6 @@ calliophone
 cyprus
 conduceability
 chairborne
-cabined
 copartners
 circumitineration
 choriomas
