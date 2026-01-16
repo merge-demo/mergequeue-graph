@@ -6916,6 +6916,7 @@ charros
 cementer
 cementification
 cyborgs
+copperplate
 cementin
 catapuce
 carane
@@ -7859,7 +7860,6 @@ cuttle
 cipolin
 cuscohygrine
 cessible
-copperplate
 cyclorrhaphous
 clinician
 cession
