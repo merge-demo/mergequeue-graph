@@ -7959,7 +7959,6 @@ extrusion
 eyebath
 epinyctis
 enheritage
-ensconced
 energumenon
 expressly
 epinikia
@@ -8837,6 +8836,7 @@ englue
 exiler
 encumbrancer
 epilegomenon
+ensconced
 eventuation
 electrooptically
 erer
