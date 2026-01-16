@@ -2635,7 +2635,6 @@ fabric
 falanaka
 freshes
 fluocerite
-frumpling
 ferrumination
 fluviatic
 father
@@ -7904,6 +7903,7 @@ flammivomous
 footles
 fishhold
 freshing
+frumpling
 forslow
 frondesced
 forefit
