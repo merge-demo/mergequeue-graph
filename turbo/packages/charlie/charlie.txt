@@ -12340,7 +12340,6 @@ chromatician
 chromaticness
 chromatid
 conuses
-chromatin
 caucasoids
 chromatype
 chromatist
@@ -17606,6 +17605,7 @@ coxofemoral
 coccosteid
 conducibleness
 cisalpinism
+chromatin
 compinge
 creativeness
 coccosteus
