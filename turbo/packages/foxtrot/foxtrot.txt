@@ -5293,7 +5293,6 @@ feasts
 filial
 fant
 forcepslike
-foulmouthedly
 flimflam
 focusses
 fldxt
@@ -11459,6 +11458,7 @@ fiction
 furcately
 fissury
 ferntickle
+foulmouthedly
 furrure
 foreglimpse
 fin
