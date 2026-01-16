@@ -3487,7 +3487,6 @@ eproboscidea
 explementary
 endow
 encarpi
-esker
 embodiers
 embodies
 elevens
@@ -11200,6 +11199,7 @@ ethine
 electropuncture
 evangelic
 endoplastron
+esker
 evangelically
 erector
 enamellers
