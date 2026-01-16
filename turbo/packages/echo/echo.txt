@@ -185,7 +185,6 @@ earthquaken
 ethylthioether
 evicting
 expediting
-equinoctially
 eten
 entincture
 electropolar
@@ -5346,6 +5345,7 @@ edges
 ethylidene
 evicted
 engorges
+equinoctially
 envolupen
 evocatory
 excercise
