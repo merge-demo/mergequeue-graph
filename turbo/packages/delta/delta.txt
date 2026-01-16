@@ -2263,6 +2263,7 @@ decemfoliate
 demotion
 dousers
 dominiums
+dinaric
 decemplex
 dissocialize
 doused
@@ -18272,7 +18273,6 @@ disputant
 dumbfounder
 deanery
 diagrammeter
-dinaric
 dogged
 duplicidentata
 desmopyknosis
