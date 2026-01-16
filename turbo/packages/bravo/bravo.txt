@@ -4217,6 +4217,7 @@ bowls
 boudoir
 beaucoup
 beaued
+bulkheading
 bowdlerizing
 brl
 besmudges
@@ -17041,7 +17042,6 @@ boldfaces
 burt
 bailed
 bulkhead
-bulkheading
 bulky
 bulkier
 bulkily
