@@ -8677,7 +8677,6 @@ fuzziness
 frumpish
 fosset
 fid
-frisette
 fraudulence
 finalist
 ferther
@@ -11339,6 +11338,7 @@ fellic
 fibroma
 footsores
 fluoroid
+frisette
 fustinella
 forewind
 fraxinus

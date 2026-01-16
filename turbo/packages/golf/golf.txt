@@ -5258,7 +5258,6 @@ glister
 grenier
 glibnesses
 glyceria
-grangerite
 genialize
 grunts
 guardsmen
@@ -6994,6 +6993,7 @@ glossopode
 gallerian
 guaconize
 glad
+grangerite
 gossipry
 garrat
 giddybrain
