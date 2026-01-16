@@ -6142,7 +6142,6 @@ dowsabels
 destructivism
 dereistic
 derelicts
-demast
 droshkies
 dolours
 decrepitness
@@ -7870,6 +7869,7 @@ diffluence
 distemonous
 dewaters
 dermobranchiata
+demast
 drofland
 disard
 desmocyte

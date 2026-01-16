@@ -11322,7 +11322,6 @@ chalcophanite
 chloroformic
 conged
 cubica
-chondrarsenite
 chromicizing
 chloroforms
 coloniser
@@ -19380,6 +19379,7 @@ correspondingly
 chantable
 colorers
 cinerea
+chondrarsenite
 carpocervical
 colorfastness
 chailletiaceae
