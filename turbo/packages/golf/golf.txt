@@ -2650,7 +2650,6 @@ gudgeoned
 glow
 germantown
 globulicidal
-genetika
 gurgeon
 gathering
 greatest
@@ -10221,6 +10220,7 @@ groundsel
 gastradenitis
 geotonus
 glamourously
+genetika
 galusha
 geissospermin
 gainsays
