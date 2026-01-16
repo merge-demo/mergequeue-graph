@@ -3774,7 +3774,6 @@ hexmmuxr
 hexmsx
 hexnavlfppmx
 hexojmp
-hexpkzcsatz
 hexpmkmxdgsx
 hexq
 hexqp
@@ -7865,6 +7864,7 @@ hmrsyimlborbqveg
 hmrumfosgplrd
 hmruoaz
 hmrw
+hexpkzcsatz
 hmrxdtyib
 hmrzahplciu
 hmsalboogdafe
