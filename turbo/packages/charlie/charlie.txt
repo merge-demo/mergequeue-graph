@@ -11277,7 +11277,6 @@ cynocephalus
 chesterbed
 chlormethane
 chrysidella
-chloroacetone
 childe
 conservation
 chloroamide
@@ -31432,6 +31431,7 @@ cantharidal
 curlylocks
 cadew
 colback
+chloroacetone
 concinnated
 clotho
 curmudgeonly
