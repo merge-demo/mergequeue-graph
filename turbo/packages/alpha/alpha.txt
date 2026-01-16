@@ -6938,7 +6938,6 @@ appropriately
 akron
 anagrammatised
 aberrator
-adores
 aith
 aithochroi
 acceleratingly
@@ -24505,6 +24504,7 @@ autovivisection
 apricots
 aniselike
 arteriagra
+adores
 abattoir
 apologal
 ag
