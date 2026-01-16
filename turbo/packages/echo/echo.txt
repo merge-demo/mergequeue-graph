@@ -1539,6 +1539,7 @@ eggrolls
 eggs
 emplastra
 excerptive
+evocating
 encyclopedial
 eupeptically
 ensconces
@@ -11511,7 +11512,6 @@ evangeline
 emprize
 endosteitis
 edital
-evocating
 ensign
 engendered
 enkerchief
