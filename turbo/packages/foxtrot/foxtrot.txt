@@ -6913,6 +6913,7 @@ folliculated
 fauna
 firepink
 finjan
+forril
 fluidifying
 fruitfully
 floriated
@@ -7559,7 +7560,6 @@ fanciers
 flintworker
 forespeak
 freezable
-forril
 fatalize
 farrier
 fossula
