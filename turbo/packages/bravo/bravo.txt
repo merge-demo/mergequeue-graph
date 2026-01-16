@@ -6593,6 +6593,7 @@ berets
 berewick
 biunity
 banquettes
+buchnera
 bergall
 bergamasche
 bergamask
@@ -16393,7 +16394,6 @@ bandyman
 bedravel
 bielbrief
 biscayen
-buchnera
 brunelliaceous
 barrowist
 battology
