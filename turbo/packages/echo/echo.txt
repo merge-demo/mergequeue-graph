@@ -7441,7 +7441,6 @@ exorbitantly
 enfortune
 earthmover
 esterify
-endeign
 eugenia
 epidiascopic
 effluency
@@ -8889,6 +8888,7 @@ explosible
 encephalomalaxis
 ergotism
 ergotizing
+endeign
 erichthoid
 ewder
 ergotoxine
