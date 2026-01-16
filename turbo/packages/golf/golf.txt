@@ -1949,7 +1949,6 @@ gauleiter
 grated
 gapes
 grasser
-gulonic
 grossing
 gaultherin
 gaunch
@@ -3862,6 +3861,7 @@ geckotid
 gobian
 gordyaean
 gonozooid
+gulonic
 graupel
 genioplasty
 genetrix
