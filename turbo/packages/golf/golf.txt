@@ -722,7 +722,6 @@ gooranut
 galvanised
 germanistic
 gawn
-gladdest
 grissen
 gersdorffite
 gentianic
@@ -8255,6 +8254,7 @@ gimp
 gospel
 ginglyform
 goaler
+gladdest
 grippingness
 giardiasis
 gre
