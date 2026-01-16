@@ -14847,7 +14847,6 @@ decumbently
 docudramas
 document
 documentable
-documental
 delimer
 dactylose
 decrepid
@@ -18552,6 +18551,7 @@ deviltries
 denuding
 dourahs
 debars
+documental
 duros
 drouks
 despaired

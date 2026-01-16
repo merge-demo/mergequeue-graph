@@ -4354,7 +4354,6 @@ bely
 blowze
 bonspiels
 bombola
-bechuana
 bespousing
 bellhops
 beclang
@@ -18334,6 +18333,7 @@ baragouin
 bunkums
 buttressed
 bradypodidae
+bechuana
 breviped
 buttresslike
 bromiodide
