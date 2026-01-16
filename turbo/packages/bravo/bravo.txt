@@ -3244,6 +3244,7 @@ bote
 blottesquely
 babbling
 biotechnological
+betty
 basilic
 bantingize
 bedouin
@@ -15102,7 +15103,6 @@ bibber
 besaint
 brett
 brachymetropic
-betty
 brickwork
 blisterweed
 bradawl
