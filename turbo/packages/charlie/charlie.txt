@@ -21500,7 +21500,6 @@ concourse
 cliqueless
 confessions
 calycle
-climacterical
 celestialize
 concresce
 concrescence
@@ -22318,6 +22317,7 @@ congregational
 closeout
 caterwauling
 congregationalism
+climacterical
 cosmogony
 congregationalist
 circumnavigated
