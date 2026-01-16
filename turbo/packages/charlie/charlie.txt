@@ -14480,7 +14480,6 @@ ciscoes
 cise
 cyclose
 comprisable
-checkrail
 cephaloplegic
 ciseaux
 courante
@@ -25580,6 +25579,7 @@ corporalism
 calippic
 corporality
 cristivomer
+checkrail
 colugos
 corporalities
 cytostatically

@@ -3563,6 +3563,7 @@ foreskirt
 fixates
 florigraphy
 forspoken
+fasnacht
 feddan
 fussle
 fairbanks
@@ -5650,7 +5651,6 @@ freestyle
 fishwife
 flinkite
 fluffer
-fasnacht
 ferratin
 footpound
 folioliferous
