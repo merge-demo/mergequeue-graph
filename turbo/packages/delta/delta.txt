@@ -1332,7 +1332,6 @@ draconism
 dauke
 dorsigerous
 disorder
-dault
 docetic
 dysteleologically
 departure
@@ -6525,6 +6524,7 @@ distomiasis
 discourages
 descort
 debruise
+dault
 dosa
 dolorimetry
 deraign
