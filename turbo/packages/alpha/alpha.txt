@@ -13415,7 +13415,6 @@ awny
 ankush
 astringe
 aristulate
-autotomic
 archphylarch
 ankusha
 anomala
@@ -25037,6 +25036,7 @@ angelhood
 awner
 acquires
 androgynary
+autotomic
 achilary
 akala
 awnless
