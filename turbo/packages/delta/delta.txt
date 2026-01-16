@@ -8258,7 +8258,6 @@ draped
 disputableness
 diagonal
 diagonalizable
-diagonalization
 diagnosing
 duel
 denude
@@ -17009,6 +17008,7 @@ distendedly
 disordered
 damkjernite
 dreks
+diagonalization
 demipesade
 devirilize
 dundrearies
