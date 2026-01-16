@@ -3988,6 +3988,7 @@ bonyfish
 believer
 beacons
 buoyancy
+benward
 beadeye
 beader
 bellmaker
@@ -7907,7 +7908,6 @@ brey
 blockhouse
 byron
 bibliophil
-benward
 barff
 bulbomembranous
 byzantium
