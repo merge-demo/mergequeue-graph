@@ -14451,7 +14451,6 @@ amyloid
 aequiculi
 anthrahydroquinone
 aarrgh
-anthramine
 aphesis
 anthranyl
 afterswarming
@@ -16685,6 +16684,7 @@ affiche
 acariatre
 akrteria
 ammonic
+anthramine
 attachment
 apetalous
 armisonant
