@@ -7437,6 +7437,7 @@ dervish
 damn
 doggereled
 doebird
+designation
 detrude
 darbha
 dinotherian
@@ -16636,7 +16637,6 @@ debiteuse
 deathbeds
 dragstaff
 drone
-designation
 dilettantes
 dragsters
 demisovereign
