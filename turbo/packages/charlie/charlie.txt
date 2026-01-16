@@ -10214,6 +10214,7 @@ cotesian
 chloasmata
 camacan
 chiasmas
+choroidoretinitis
 chiasmata
 cavesson
 crapaudine
@@ -12021,7 +12022,6 @@ cyanacetic
 chinless
 chorographically
 coronene
-choroidoretinitis
 choroids
 chorology
 cylloses
