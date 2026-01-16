@@ -10936,7 +10936,6 @@ chirograph
 chirographers
 crl
 consideratively
-chirography
 candlelighted
 chirographical
 chirolas
@@ -28459,6 +28458,7 @@ countertenors
 chromotypic
 creaseless
 creasers
+chirography
 creases
 creashaks
 chevachie
