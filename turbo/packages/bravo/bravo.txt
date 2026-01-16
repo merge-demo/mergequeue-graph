@@ -4582,6 +4582,7 @@ bedarkening
 bedaub
 ballplayer
 barks
+bolelia
 besuit
 bundeli
 borborus
@@ -9838,7 +9839,6 @@ bitewing
 beryx
 based
 backswording
-bolelia
 balladry
 bebleed
 brail
