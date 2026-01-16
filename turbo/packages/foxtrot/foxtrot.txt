@@ -5251,7 +5251,6 @@ flawing
 flabbergasted
 footloose
 flawlessness
-fangy
 foamed
 frangulinic
 flings
@@ -8932,6 +8931,7 @@ fableist
 fabricate
 flabellarium
 fourragere
+fangy
 flutter
 fermila
 fiefdoms
