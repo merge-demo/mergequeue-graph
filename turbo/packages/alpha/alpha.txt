@@ -1347,6 +1347,7 @@ accelerates
 alinotum
 accelerative
 aboiteaux
+antigun
 adiaphanousness
 azote
 aug
@@ -19814,7 +19815,6 @@ auriculars
 adaptivity
 armariumaria
 armatoles
-antigun
 arsphenamine
 armatures
 albation
