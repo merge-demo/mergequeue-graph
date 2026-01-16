@@ -982,7 +982,6 @@ genre
 grivet
 gilgamesh
 grouting
-gagmen
 galloped
 ganched
 gonotokont
@@ -1987,6 +1986,7 @@ gaurs
 gravitative
 glamourous
 gaussage
+gagmen
 gaskings
 girth
 gageite
