@@ -3282,7 +3282,6 @@ basidiophore
 bourn
 brattle
 bastardising
-benzols
 bandaite
 babbler
 bloodiest
@@ -6329,6 +6328,7 @@ bifarious
 bipolarize
 begalling
 begrace
+benzols
 buffalofishes
 benzein
 bellyfish
