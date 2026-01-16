@@ -5216,7 +5216,6 @@ begad
 bedders
 boskopoid
 boarcite
-basification
 breadboards
 barkeeps
 begar
@@ -12952,6 +12951,7 @@ brack
 betulaceae
 bushelage
 ballades
+basification
 bikhaconitine
 boozes
 boozier
