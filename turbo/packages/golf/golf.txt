@@ -6345,7 +6345,6 @@ gippo
 gollywobbler
 gambelli
 gympie
-garnitures
 gustables
 gorilline
 gofer
@@ -7785,6 +7784,7 @@ gillstoup
 gauchely
 glycolipine
 gargoylish
+garnitures
 gisant
 gospeler
 geococcyx
