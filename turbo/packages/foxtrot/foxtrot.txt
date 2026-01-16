@@ -2575,6 +2575,7 @@ fingerbreadth
 fattier
 ferrogoslarite
 forcet
+functionalities
 franked
 foud
 fossicked
@@ -9718,7 +9719,6 @@ ferijee
 fishweir
 frequentest
 feldspar
-functionalities
 frapp
 fallacies
 falchion
