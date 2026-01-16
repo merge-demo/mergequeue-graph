@@ -2752,7 +2752,6 @@ gadhelic
 gung
 granulitic
 gippers
-grabbled
 garbs
 garnished
 gelotometer
@@ -10452,6 +10451,7 @@ gittite
 gastronomically
 gummaking
 gjetost
+grabbled
 gallotannic
 gelatine
 gentleheartedly
