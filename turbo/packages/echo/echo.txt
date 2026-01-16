@@ -8439,6 +8439,7 @@ evangelistaries
 easterlies
 eprise
 epimorpha
+exaltation
 endures
 epsilons
 extravasate
@@ -11677,7 +11678,6 @@ emphatic
 escolar
 enfolding
 eventualities
-exaltation
 erenow
 enterocoele
 endocarditis
