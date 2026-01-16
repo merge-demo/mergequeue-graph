@@ -5382,6 +5382,7 @@ gremmy
 glucosaemia
 glimmering
 garveys
+guffer
 grebo
 glyn
 galatotrophic
@@ -10125,7 +10126,6 @@ grassers
 galavanting
 glia
 gipsyhead
-guffer
 glaziers
 guggle
 glottologic
