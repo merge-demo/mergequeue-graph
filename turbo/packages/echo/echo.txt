@@ -2755,7 +2755,6 @@ equipartition
 epidiplosis
 eighteenmo
 economicalness
-erect
 empalement
 elementalistic
 extrathoracic
@@ -7062,6 +7061,7 @@ exurbanites
 extemporaneously
 endpaper
 envelops
+erect
 euphorbiaceous
 enduing
 encarnalise
