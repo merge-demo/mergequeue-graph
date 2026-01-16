@@ -5355,7 +5355,6 @@ flechettes
 flecked
 forkhead
 fleckering
-franco
 fosterhood
 flecky
 fosterite
@@ -9946,6 +9945,7 @@ fragment
 formularizer
 forcers
 frigolabile
+franco
 fumigate
 feloniousness
 frigoric
