@@ -14264,6 +14264,7 @@ butyne
 byword
 boarding
 buglosses
+bailpiece
 braehead
 bulblet
 bronchiogenic
@@ -16661,7 +16662,6 @@ bovey
 bacchuslike
 buckboards
 bathycolpian
-bailpiece
 bloodspiller
 busker
 banalness

@@ -17766,6 +17766,7 @@ assorters
 annuloida
 apinae
 antidora
+arecas
 acylated
 archipallial
 archiepiscopally
@@ -19264,7 +19265,6 @@ albified
 areasoner
 areca
 arecain
-arecas
 atmolyzer
 automatonta
 agitatedly
