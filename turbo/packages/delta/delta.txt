@@ -7221,7 +7221,6 @@ daguilla
 darklings
 delubrum
 deverbative
-desolately
 disnatured
 dux
 detente
@@ -15541,6 +15540,7 @@ dilator
 diascord
 demodulator
 drummers
+desolately
 donnas
 defeasible
 dereligionize
