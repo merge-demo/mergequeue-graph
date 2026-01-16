@@ -13669,6 +13669,7 @@ dandyishly
 dognapper
 disjoins
 doucin
+dispromise
 degases
 dissymmetric
 degender
@@ -16603,7 +16604,6 @@ denotations
 dialuric
 decorations
 deionization
-dispromise
 dragonesque
 daphnis
 dorados

@@ -65,7 +65,6 @@ gluemaking
 gamboler
 gogga
 gonidiophore
-galeenies
 garoo
 gentlemanize
 greffe
@@ -8421,6 +8420,7 @@ gavottes
 gawked
 grumphy
 glossoepiglottic
+galeenies
 gauntree
 gratifiable
 guaco
