@@ -9044,6 +9044,7 @@ butterier
 bisegment
 berrettino
 backfire
+brinny
 biophotophone
 bemire
 brickmaking
@@ -10588,7 +10589,6 @@ bransle
 blatting
 blattodea
 blattoid
-brinny
 boresomely
 besayle
 blastomas
