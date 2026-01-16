@@ -2807,7 +2807,6 @@ glottalite
 gloiopeltis
 gentiobiose
 guardianess
-gait
 gentlemanlikeness
 gossan
 gybing
@@ -6646,6 +6645,7 @@ gonidangium
 graver
 gonepoiesis
 gingivectomy
+gait
 gash
 grandioso
 gopak
