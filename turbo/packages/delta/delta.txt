@@ -1250,6 +1250,7 @@ disserve
 datelining
 datemark
 disenter
+departements
 dentalise
 dhoolies
 drink
@@ -5913,7 +5914,6 @@ depriorize
 disorderedness
 deprivable
 degrader
-departements
 dimethylnitrosamine
 deceiver
 disconcerts
