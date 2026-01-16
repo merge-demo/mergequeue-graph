@@ -11597,6 +11597,7 @@ ersatz
 ethnocentricity
 empoison
 exclosure
+enteradenography
 emollition
 exacerbates
 empaneled
@@ -11770,7 +11771,6 @@ engrid
 ewerer
 experimented
 empocket
-enteradenography
 erraticness
 exasperatingly
 exauctorate
