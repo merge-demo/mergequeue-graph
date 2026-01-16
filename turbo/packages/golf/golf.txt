@@ -3829,6 +3829,7 @@ gigelira
 gaolerness
 gold
 granthi
+granulitization
 gell
 galanas
 giftwrapping
@@ -5032,7 +5033,6 @@ glassful
 grapplers
 gloxinia
 glasshouses
-granulitization
 gateaux
 gasts
 glued
