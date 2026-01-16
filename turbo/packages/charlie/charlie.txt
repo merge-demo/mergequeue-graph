@@ -3221,6 +3221,7 @@ cawquaw
 carmetta
 chinoiserie
 caboclos
+castigable
 capilli
 capilliculture
 cogracious
@@ -5415,7 +5416,6 @@ chrysanthemin
 casteth
 crossbench
 castice
-castigable
 confederates
 constatation
 coxiest
