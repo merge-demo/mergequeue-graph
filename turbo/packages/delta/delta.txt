@@ -3978,7 +3978,6 @@ domiculture
 dysrhythmia
 delegate
 doorsill
-dispossessory
 delegates
 delegateship
 dermographism
@@ -18595,6 +18594,7 @@ dustbins
 dustcart
 devocalisation
 distance
+dispossessory
 dustcover
 diatonicism
 dustee

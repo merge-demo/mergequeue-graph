@@ -7305,7 +7305,6 @@ eparchies
 eternization
 equinoctial
 eparterial
-emasculations
 experiencible
 epaulement
 enstranged
@@ -13671,6 +13670,7 @@ encomiendas
 eject
 enphytotic
 enramada
+emasculations
 erratum
 epistolizable
 exteriorness
