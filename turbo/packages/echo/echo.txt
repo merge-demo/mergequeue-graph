@@ -6699,7 +6699,6 @@ esthesioneurosis
 ectopistes
 elusions
 esparcet
-exsuperate
 exophoria
 exhilarate
 enthral
@@ -13906,6 +13905,7 @@ elizabethan
 empressment
 epilimnial
 empanada
+exsuperate
 extirpates
 extramatrical
 exculpating
