@@ -11308,6 +11308,7 @@ chalcophanite
 chloroformic
 conged
 cubica
+chondrarsenite
 chromicizing
 chloroforms
 coloniser
@@ -11688,7 +11689,6 @@ contabescent
 cuffle
 commissionary
 chondral
-chondrarsenite
 cholesteric
 chondre
 chondrenchyma
