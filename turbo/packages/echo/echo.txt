@@ -3009,7 +3009,6 @@ eggfish
 elixir
 enwall
 ecblastesis
-exhortatory
 elixiviate
 excerptor
 ensheathes
@@ -8837,6 +8836,7 @@ exiler
 encumbrancer
 epilegomenon
 ensconced
+exhortatory
 eventuation
 electrooptically
 erer
