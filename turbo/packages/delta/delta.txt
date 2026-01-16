@@ -12913,7 +12913,6 @@ delving
 deorientalize
 disobeying
 delineative
-dustiness
 desulphuration
 disoblige
 dognapping
@@ -13486,6 +13485,7 @@ disponed
 disrooted
 dissertated
 dialectologer
+dustiness
 demicircle
 disrooting
 debenture
