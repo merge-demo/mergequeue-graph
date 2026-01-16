@@ -25767,7 +25767,6 @@ conciliating
 cataleptize
 corroborative
 corroboratively
-corroborator
 chrism
 cathedratically
 corroboratory
@@ -27959,6 +27958,7 @@ cradles
 cradlesongs
 cradling
 cryesthesia
+corroborator
 craft
 craftiest
 calycanthus
