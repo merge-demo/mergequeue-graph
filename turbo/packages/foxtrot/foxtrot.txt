@@ -3347,7 +3347,6 @@ fanioned
 folily
 feeless
 foreyards
-fusilades
 fastigate
 flirtling
 forcut
@@ -11316,6 +11315,7 @@ fictional
 fusulina
 foldless
 forslow
+fusilades
 fps
 furfurine
 funebrious
