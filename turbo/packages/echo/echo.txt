@@ -6946,7 +6946,6 @@ exiting
 effecting
 excisor
 encauma
-entrelac
 emetically
 epilogued
 escalops
@@ -7145,6 +7144,7 @@ etheostoma
 equalizer
 enwove
 embira
+entrelac
 entender
 epistasis
 euphonym
