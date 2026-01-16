@@ -356,7 +356,6 @@ gaussian
 grilses
 gleen
 gerontologic
-gangetic
 governingly
 goosegrass
 gastrohepatitis
@@ -3691,6 +3690,7 @@ glumelike
 gothish
 ghostish
 gelatigenous
+gangetic
 gracilescent
 gussying
 goggling
