@@ -1717,6 +1717,7 @@ dispensations
 defensibility
 deaspiration
 degree
+dilutely
 dihely
 depersonalization
 daredevilry
@@ -9792,7 +9793,6 @@ dinosaur
 dolphinfishes
 dilutedly
 duelist
-dilutely
 draffish
 diagonality
 decertified
