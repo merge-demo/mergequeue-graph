@@ -1451,7 +1451,6 @@ glovemaker
 guidebookish
 geophagous
 glossagra
-ghenting
 grossart
 generical
 grillages
@@ -5675,6 +5674,7 @@ gilbertianism
 glossalgy
 glossarize
 grieffully
+ghenting
 gnathonize
 gahrwali
 guggling
