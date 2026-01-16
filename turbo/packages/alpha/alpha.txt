@@ -5275,7 +5275,6 @@ affinition
 apostrophe
 affinitive
 affirmable
-asiaticism
 affirmably
 aplysia
 achaetous
@@ -11430,6 +11429,7 @@ apodosis
 ampullary
 ampullate
 aqueoigneous
+asiaticism
 amphioxus
 ampulliform
 affrightfully
