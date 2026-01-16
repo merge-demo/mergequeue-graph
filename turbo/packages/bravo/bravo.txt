@@ -828,7 +828,6 @@ bunny
 baklawa
 bonnetmen
 blubberhead
-bunkery
 balefulness
 bodieron
 beduke
@@ -5036,6 +5035,7 @@ bisphenoid
 bostal
 brawest
 brachiofaciolingual
+bunkery
 beltcourse
 bigotedly
 befalling
