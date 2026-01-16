@@ -4542,6 +4542,7 @@ carbine
 carnallite
 chartaceous
 colluvies
+chameleons
 churchshot
 carnalness
 conidial
@@ -14771,7 +14772,6 @@ caseless
 conjecturableness
 cytoblastemous
 cytochemistry
-chameleons
 chararas
 cytochrome
 cytoclasis
