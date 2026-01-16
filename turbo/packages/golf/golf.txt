@@ -1430,7 +1430,6 @@ gorcock
 genitourinary
 gleam
 gats
-garsil
 gymnasiums
 graviers
 governless
@@ -2597,6 +2596,7 @@ glottis
 geodete
 gallera
 gemmification
+garsil
 gunpapers
 gyrohorizon
 greillade
