@@ -4280,6 +4280,7 @@ empowering
 extraterritoriality
 enterable
 endothelioid
+exurbs
 esture
 elytroclasia
 expulsive
@@ -9659,7 +9660,6 @@ esprit
 enterorrhexis
 esq
 existence
-exurbs
 evacue
 euselachii
 esquisse
