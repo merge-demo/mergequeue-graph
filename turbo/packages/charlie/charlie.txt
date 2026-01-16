@@ -12527,6 +12527,7 @@ cadjan
 cranemen
 chromotypy
 cynegetics
+chiarooscuros
 chromotypography
 chromotypographic
 chromotropy
@@ -14746,7 +14747,6 @@ councilwomen
 cocinero
 choroiditis
 curatel
-chiarooscuros
 cityness
 cotyle
 citynesses
