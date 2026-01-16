@@ -2689,6 +2689,7 @@ foundational
 filaze
 fawner
 frizziness
+forlet
 fervence
 ferventness
 frighteningness
@@ -9574,7 +9575,6 @@ flytime
 forte
 floggingly
 firemaster
-forlet
 freeholdership
 feeders
 falcata
