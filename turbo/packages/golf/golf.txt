@@ -103,7 +103,6 @@ glottalizing
 gabbai
 gadge
 gunja
-gynobaseous
 genevas
 goldthread
 goodnaturedness
@@ -9364,6 +9363,7 @@ grannyknot
 garnishry
 gloved
 galenobismutite
+gynobaseous
 glaymore
 gorgonize
 gelatinized
