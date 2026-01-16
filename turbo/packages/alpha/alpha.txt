@@ -6789,7 +6789,6 @@ airdrome
 airdromes
 airdrop
 advertizing
-apart
 airdropping
 aired
 anabolic
@@ -7814,6 +7813,7 @@ adoze
 arctia
 alea
 aleak
+apart
 aleatory
 archcorsair
 aleatoric
