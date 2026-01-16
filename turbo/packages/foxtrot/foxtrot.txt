@@ -3190,7 +3190,6 @@ feracious
 fusilade
 flutterers
 flavourer
-flotages
 fringiness
 foods
 fogman
@@ -8771,6 +8770,7 @@ favorably
 falcinellus
 frailes
 fetchers
+flotages
 flotillas
 fossage
 fanlight
