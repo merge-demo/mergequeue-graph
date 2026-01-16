@@ -4383,7 +4383,6 @@ gloriam
 gleeted
 gazer
 gorget
-grandezza
 golems
 gearcases
 gongs
@@ -5663,6 +5662,7 @@ gallophile
 gristliest
 greenlandman
 gnomonia
+grandezza
 gastrophrenic
 glossal
 glycerize
