@@ -6701,6 +6701,7 @@ danaid
 desiderated
 demikindred
 diacoustics
+denies
 dropforge
 desideration
 deoxidant
@@ -14451,7 +14452,6 @@ disillusionized
 disjointing
 duopolist
 dolabre
-denies
 deindividualize
 deathtrap
 dindymene
