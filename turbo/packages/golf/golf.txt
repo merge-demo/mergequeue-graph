@@ -1274,6 +1274,7 @@ ged
 gavall
 goethites
 gromatical
+graptolithina
 gyrator
 glyphographer
 gumpus
@@ -1859,7 +1860,6 @@ glycoluril
 gossip
 gyrostabilized
 gleir
-graptolithina
 gambles
 gazehound
 growlery
