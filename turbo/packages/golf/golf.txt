@@ -632,7 +632,6 @@ guideline
 gramineal
 geodetic
 gweducs
-grottowork
 gardencraft
 glutathione
 gallomaniac
@@ -8105,6 +8104,7 @@ greekist
 grassplat
 gallet
 graustark
+grottowork
 grindelia
 gastrostomize
 gristmill
