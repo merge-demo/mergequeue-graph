@@ -4574,7 +4574,6 @@ coacervating
 citoler
 carnets
 carny
-coccostean
 clarinos
 capsule
 cotoxo
@@ -30796,6 +30795,7 @@ culicifuge
 copelidine
 culicinae
 canisiana
+coccostean
 cistic
 cloudbursts
 charonian
