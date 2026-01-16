@@ -10401,6 +10401,7 @@ diphenylenimine
 ditcher
 dug
 divider
+dammara
 diphenylhydantoin
 dogmatic
 diodon
@@ -15971,7 +15972,6 @@ dumfounds
 dermestidae
 dotterels
 ducato
-dammara
 dottier
 dragonnade
 dia
