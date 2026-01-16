@@ -4942,7 +4942,6 @@ bandy
 beek
 balkers
 bioclimatologies
-beekeepers
 beekeeping
 bedight
 bosher
@@ -12343,6 +12342,7 @@ bodysuits
 breakfasting
 bookmarker
 bumbarge
+beekeepers
 bombillas
 bacchantic
 blan
