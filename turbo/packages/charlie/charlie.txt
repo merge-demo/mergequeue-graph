@@ -5348,7 +5348,6 @@ cynodont
 cassowary
 cassowaries
 carotidean
-commonty
 cassumunar
 cellarers
 cast
@@ -27226,6 +27225,7 @@ counterweight
 counterweighted
 counterweights
 counterwheel
+commonty
 counterwilling
 counterwitness
 counterwork
