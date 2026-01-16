@@ -20,7 +20,6 @@ eadios
 entradas
 euthytropic
 electrobiologist
-eagerness
 ephraitic
 eclipse
 exemplificational
@@ -8694,6 +8693,7 @@ enamorate
 eradications
 enjoyed
 elastometry
+eagerness
 enhallow
 electroencephalograph
 equisided

@@ -8775,6 +8775,7 @@ diestruses
 deftness
 dj
 dinettes
+disclosive
 diabolized
 dansant
 dictations
@@ -11406,7 +11407,6 @@ determinoid
 debug
 discloser
 dialectologically
-disclosive
 disclosure
 diplomaed
 duplicitous
