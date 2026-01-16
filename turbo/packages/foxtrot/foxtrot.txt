@@ -755,6 +755,7 @@ flurries
 faraday
 fibrilliferous
 footbreadth
+falangist
 fanatism
 fabricating
 farcilite
@@ -5212,7 +5213,6 @@ fortemente
 fratcher
 flavoriness
 foremilks
-falangist
 faveoli
 fitful
 fierceness
