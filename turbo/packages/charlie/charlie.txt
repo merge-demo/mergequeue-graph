@@ -14717,7 +14717,6 @@ citherns
 cithren
 city
 citybuster
-citicorp
 canamary
 closen
 culler
@@ -28796,6 +28795,7 @@ cines
 crescentlike
 crescentoid
 crescents
+citicorp
 crescively
 clarinettist
 confederatio
