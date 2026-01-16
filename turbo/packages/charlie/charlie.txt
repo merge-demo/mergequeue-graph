@@ -478,6 +478,7 @@ cadaver
 capronic
 cadaverin
 cormus
+costeaning
 cadaverous
 cadaverously
 cadavers
@@ -20856,7 +20857,6 @@ conspirational
 compositor
 compositors
 cashed
-costeaning
 colluder
 coacted
 compositure
