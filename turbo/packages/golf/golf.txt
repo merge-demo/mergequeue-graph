@@ -304,6 +304,7 @@ gargoylism
 gonk
 gaminesque
 gaist
+guide
 gladstonianism
 gulpingly
 grantsmanship
@@ -10154,7 +10155,6 @@ grown
 grandstands
 gabs
 gallnuts
-guide
 glueyness
 gigglement
 gaydiang
