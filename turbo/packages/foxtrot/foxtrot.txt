@@ -5849,6 +5849,7 @@ facsimilize
 fates
 flexity
 feague
+floral
 fangas
 flinted
 ferrichloride
@@ -5983,7 +5984,6 @@ fetich
 fourierist
 flitchplate
 favelidium
-floral
 floralize
 floras
 furnaced
