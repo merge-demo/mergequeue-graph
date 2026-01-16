@@ -1231,7 +1231,6 @@ epigrammatise
 eelcake
 elsewheres
 exposition
-episomal
 evaluation
 endopleuritic
 efflation
@@ -4317,6 +4316,7 @@ expostulator
 eulogistical
 espouse
 espichellite
+episomal
 espadrille
 enamours
 episperm
