@@ -5440,7 +5440,6 @@ frequentness
 flensed
 frillers
 fallation
-fidelities
 foolscap
 furunculoid
 forbids
@@ -10329,6 +10328,7 @@ fezziwig
 fidding
 formicaries
 foremen
+fidelities
 fantoddish
 fibreware
 forswore
