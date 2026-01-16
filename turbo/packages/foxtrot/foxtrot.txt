@@ -5294,6 +5294,7 @@ feasts
 filial
 fant
 forcepslike
+frutex
 flimflam
 focusses
 fldxt
@@ -10746,7 +10747,6 @@ faithlessly
 footraces
 folious
 firedragon
-frutex
 fruticetum
 fecklessness
 foreinclined
