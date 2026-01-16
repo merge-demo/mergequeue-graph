@@ -371,7 +371,6 @@ detruss
 daymares
 disseizes
 diarists
-discoloured
 dasher
 daymark
 doupion
@@ -1473,6 +1472,7 @@ disinherison
 dipropellant
 deuteroplasm
 dories
+discoloured
 dispulp
 deckhouses
 dazes
