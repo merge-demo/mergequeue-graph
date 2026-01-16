@@ -4240,7 +4240,6 @@ grumpiness
 gibblegabbler
 graveclothes
 goatlike
-gigantesque
 grousing
 gumlike
 gabfests
@@ -6697,6 +6696,7 @@ gluttonies
 gynaecologic
 guaiol
 gastrocentrous
+gigantesque
 glycolyl
 glimed
 geer
