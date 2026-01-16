@@ -6339,6 +6339,7 @@ asunder
 antisepsin
 aerage
 apolegamic
+anemometric
 anamorphoses
 anacoluttha
 anticlassicism
@@ -9114,7 +9115,6 @@ allhallow
 abhorring
 alky
 aristogenetic
-anemometric
 antacid
 alluvious
 assortative
