@@ -79,7 +79,6 @@ akhara
 abecedary
 aband
 abandon
-androecial
 amphipods
 abandoned
 abandoner
@@ -6107,6 +6106,7 @@ albata
 agouty
 avianized
 aglycon
+androecial
 altair
 aeonian
 asphodels

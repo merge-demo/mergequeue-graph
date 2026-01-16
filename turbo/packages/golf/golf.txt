@@ -6214,7 +6214,6 @@ gamopetalae
 gp
 galactophagist
 glucosamine
-goaty
 glissade
 gonfalons
 gastroenteroanastomosis
@@ -9775,6 +9774,7 @@ gravemaking
 griffin
 greatheartedly
 gonadectomizing
+goaty
 gruntles
 granter
 galvanotropic
