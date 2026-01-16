@@ -6544,7 +6544,6 @@ djin
 designator
 diota
 daedal
-descriptivism
 doddies
 descrive
 descure
@@ -8358,6 +8357,7 @@ dialysability
 diastolic
 dimerizing
 dermamycosis
+descriptivism
 diminutal
 deplanes
 dialysable
