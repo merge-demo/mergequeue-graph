@@ -3124,6 +3124,7 @@ baseburner
 basecourt
 betokener
 boosting
+bear
 boneset
 baselevel
 biradiate
@@ -12694,7 +12695,6 @@ boohooing
 biaswise
 bidialectalism
 blowholes
-bear
 bungarus
 beautifier
 boroughmongering
