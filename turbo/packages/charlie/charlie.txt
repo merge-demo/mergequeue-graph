@@ -17073,7 +17073,6 @@ coachwise
 cully
 coachwright
 coact
-coacting
 constituently
 coaction
 coactive
@@ -25129,6 +25128,7 @@ corevolve
 cryometer
 chlorophyllaceous
 cardmaking
+coacting
 corruptedly
 colitis
 corfiote
