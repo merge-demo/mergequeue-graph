@@ -576,6 +576,7 @@ electrodynamics
 effable
 endophyllaceae
 estancia
+equipt
 emblematize
 echoing
 echoism
@@ -13314,7 +13315,6 @@ exorcisms
 explosively
 enolization
 explosiveness
-equipt
 electromyograph
 elusively
 eyepoints
