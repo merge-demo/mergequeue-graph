@@ -2436,6 +2436,7 @@ benzpinacone
 bums
 bareca
 briar
+bristlecone
 barefaced
 bombacaceous
 baulk
@@ -3797,7 +3798,6 @@ bazzite
 browsing
 bescorched
 balancer
-bristlecone
 bauckie
 beerish
 benzole
