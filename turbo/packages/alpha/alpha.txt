@@ -2764,6 +2764,7 @@ arrestant
 acrostolia
 amebian
 amnion
+axones
 artarin
 acrobates
 amontillado
@@ -5138,7 +5139,6 @@ audition
 aethionema
 arsenides
 aetiologies
-axones
 administerial
 arrivisme
 anglemeter
