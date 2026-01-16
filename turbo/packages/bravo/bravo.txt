@@ -10086,6 +10086,7 @@ bewhiskered
 blabbering
 blabbermouths
 blabbing
+bandaid
 blabmouth
 bravadoism
 bludgeoneer
@@ -14400,7 +14401,6 @@ bemocked
 bisischiadic
 brainpan
 brainpans
-bandaid
 bisley
 benzedrine
 bodeword
