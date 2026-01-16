@@ -2176,7 +2176,6 @@ armatoli
 acholous
 arsylene
 acholuric
-arctogaeal
 alguazil
 assessionary
 achondritic
@@ -5607,6 +5606,7 @@ aftervision
 afterwale
 amnesics
 afterward
+arctogaeal
 afterwise
 afterwit
 afterwork
