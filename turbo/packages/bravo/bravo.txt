@@ -2851,7 +2851,6 @@ benignantly
 beebread
 binaurally
 bawrel
-bioscopies
 buttonmold
 barbery
 barrabora
@@ -6387,6 +6386,7 @@ benzoinated
 borize
 blas
 brinishness
+bioscopies
 burely
 barfy
 benzonaphthol
