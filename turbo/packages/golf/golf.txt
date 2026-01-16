@@ -7101,6 +7101,7 @@ gopherberry
 guernsey
 gopherberries
 garbologist
+guerrila
 goatherd
 gothics
 graphologic
@@ -10131,7 +10132,6 @@ guglet
 goldenhair
 gynecocracy
 galways
-guerrila
 gurgling
 guller
 glareless
