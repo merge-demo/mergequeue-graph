@@ -5395,7 +5395,6 @@ defected
 discanter
 deltidial
 dissolves
-diplomatics
 disc
 denuder
 dermolysis
@@ -7314,6 +7313,7 @@ diphenylenimide
 detorsion
 deashed
 disagreed
+diplomatics
 disvulnerability
 determiner
 diameters
