@@ -1155,7 +1155,6 @@ gantleted
 gripier
 grouses
 gery
-goninidia
 gastrogastrotomy
 genin
 genio
@@ -4960,6 +4959,7 @@ germanic
 greatmouthed
 grolier
 greensward
+goninidia
 glebeless
 grippe
 gammed
