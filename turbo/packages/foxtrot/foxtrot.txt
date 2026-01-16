@@ -8511,7 +8511,6 @@ foreanswer
 forehatchway
 flusterate
 figs
-fumaroles
 fandom
 flatwashes
 fortification
@@ -11110,6 +11109,7 @@ frizzed
 frostbit
 febres
 fearlessness
+fumaroles
 fisticuffs
 franca
 fetidly
