@@ -2030,6 +2030,7 @@ fidleys
 flitch
 farouche
 fourpounder
+flamenship
 ferngrower
 fibrolipoma
 frontspiece
@@ -11048,7 +11049,6 @@ frictionizing
 funambulatory
 fedia
 foggiest
-flamenship
 frontality
 funambuloes
 fixups
