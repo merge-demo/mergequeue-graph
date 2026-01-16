@@ -2964,6 +2964,7 @@ barrets
 blindeyes
 boundaries
 boobishness
+bodysurf
 blobby
 benedicts
 barricadoes
@@ -8676,7 +8677,6 @@ bimanal
 binoxalate
 bimanous
 bradsot
-bodysurf
 bournless
 bimanually
 breechloading
