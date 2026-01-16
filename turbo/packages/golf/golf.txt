@@ -5733,6 +5733,7 @@ goings
 gleeds
 gish
 grimmish
+grugous
 gloomy
 grapsoid
 gymnoplast
@@ -9696,7 +9697,6 @@ greased
 gyarung
 gallinuline
 geminal
-grugous
 gastroplication
 gasoliery
 goodish
