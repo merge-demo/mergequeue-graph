@@ -825,7 +825,6 @@ deniable
 dearths
 dulcorate
 della
-decile
 dopesters
 dalaga
 danglin
@@ -3646,6 +3645,7 @@ dysteleological
 degorge
 dibromid
 degradative
+decile
 degraded
 degradement
 dozing
