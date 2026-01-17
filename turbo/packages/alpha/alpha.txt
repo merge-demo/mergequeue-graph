@@ -5446,7 +5446,6 @@ amalgams
 atharvan
 arrange
 abstractionism
-assegai
 afrikanderdom
 ascher
 afrit
@@ -15221,6 +15220,7 @@ atomies
 antifire
 anacoenoses
 amylogens
+assegai
 antiflattering
 accordantly
 antiflatulent
