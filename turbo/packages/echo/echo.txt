@@ -754,6 +754,7 @@ enabling
 embryoctony
 equilibrist
 ecoute
+enwallow
 enforcive
 ecphonema
 emotes
@@ -7107,7 +7108,6 @@ embarment
 epistemonic
 eucaryote
 extraequilibrium
-enwallow
 excandescence
 earthshine
 endymion
