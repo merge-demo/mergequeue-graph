@@ -10840,6 +10840,7 @@ aleyard
 acrisius
 artly
 antitrypsin
+annexion
 ankaramite
 ammoniated
 ammoniating
@@ -13469,7 +13470,6 @@ alette
 annexationism
 annexationist
 annexations
-annexion
 abnormalise
 avoidless
 atrophic
