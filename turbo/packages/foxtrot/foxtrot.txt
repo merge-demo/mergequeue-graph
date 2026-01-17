@@ -6849,6 +6849,7 @@ fattiest
 farewell
 fiery
 friability
+flecks
 flourished
 fossilise
 frecked
@@ -8589,7 +8590,6 @@ floury
 fumarases
 fluotantalic
 foredid
-flecks
 fir
 fittings
 ferretto
