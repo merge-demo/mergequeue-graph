@@ -2730,7 +2730,6 @@ gaedelian
 grooms
 genoise
 gentiopicrin
-girding
 gorgers
 gunfire
 greenflies
@@ -7835,6 +7834,7 @@ gerents
 gulaman
 goosander
 gooroo
+girding
 gaywings
 grumble
 gurlet
