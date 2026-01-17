@@ -7803,7 +7803,6 @@ fidgetiness
 feedstuffs
 figulated
 forepaws
-flingdust
 foveolets
 furcellate
 friaries
@@ -8297,6 +8296,7 @@ fossilizable
 familyish
 forhow
 ficoidaceae
+flingdust
 facelift
 funniest
 favuses
