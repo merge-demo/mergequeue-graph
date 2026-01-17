@@ -7635,6 +7635,7 @@ epopt
 equinal
 eumenid
 enemylike
+extracollegiate
 epithalamus
 encefalon
 enringed
@@ -8148,7 +8149,6 @@ estadio
 elegances
 excorticate
 electrolysis
-extracollegiate
 exulting
 eons
 epitendineum
