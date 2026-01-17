@@ -1374,7 +1374,6 @@ antistimulant
 amintor
 acceptance
 axisymmetrical
-absorbent
 athalline
 achylia
 abevacuation
@@ -16466,6 +16465,7 @@ anesthetically
 aphelinus
 acrochordidae
 anuretic
+absorbent
 anury
 arthrogenous
 arctoidea
