@@ -11531,6 +11531,7 @@ cordovans
 crossosoma
 catagenesis
 chola
+circinus
 costoxiphoid
 cholaemia
 cholalic
@@ -22100,7 +22101,6 @@ conformingly
 conformist
 confusably
 conformists
-circinus
 cerule
 chlorine
 confound
