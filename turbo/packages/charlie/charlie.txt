@@ -3519,7 +3519,6 @@ cabman
 capsulogenous
 cataphyllum
 callus
-capsulolenticular
 capsulopupillary
 chromospheres
 capsulorrhaphy
@@ -8335,6 +8334,7 @@ challies
 challiho
 challihos
 chatino
+capsulolenticular
 cessionaries
 challis
 challises
