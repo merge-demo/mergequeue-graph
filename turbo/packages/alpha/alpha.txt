@@ -10135,7 +10135,6 @@ argine
 ambrosiate
 analgia
 affords
-altarwise
 ambrosine
 ambsace
 ambsaces
@@ -10418,6 +10417,7 @@ amphicytula
 artiad
 apa
 autogenetic
+altarwise
 alkanna
 abbeys
 axonic
