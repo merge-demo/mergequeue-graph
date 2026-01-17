@@ -380,6 +380,7 @@ fiercen
 ferrymen
 furoid
 fearer
+fiscs
 filicauline
 forbid
 fairfieldite
@@ -6712,7 +6713,6 @@ fictive
 filipina
 fremt
 fomalhaut
-fiscs
 folliculin
 fanny
 fuchsinophil
