@@ -12282,6 +12282,7 @@ ancistrocladaceous
 ancistroid
 ancodont
 aerified
+astrophotometry
 anubing
 ancoly
 ancome
@@ -17037,7 +17038,6 @@ apocha
 automorphic
 apochromatism
 archimorula
-astrophotometry
 albus
 ascitic
 auriscalp
