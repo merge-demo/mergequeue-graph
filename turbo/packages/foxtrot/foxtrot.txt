@@ -2156,7 +2156,6 @@ ferruginean
 farrowed
 fliskiest
 faery
-fondants
 flooey
 frontpiece
 fatbird
@@ -10298,6 +10297,7 @@ fingering
 forecourt
 feaze
 foss
+fondants
 footcandles
 forewarning
 fiaunt
