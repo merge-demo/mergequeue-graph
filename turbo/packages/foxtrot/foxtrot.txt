@@ -5780,7 +5780,6 @@ firehouse
 figgery
 functionalism
 furbishes
-flintlocks
 filemark
 farts
 ferr
@@ -7819,6 +7818,7 @@ findings
 foreplay
 feudally
 fratricides
+flintlocks
 fencible
 flits
 frolicked

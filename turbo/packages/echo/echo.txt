@@ -10748,6 +10748,7 @@ emer
 endogalvanism
 eucnemidae
 excursions
+emotiometabolic
 exercitant
 extemporaneity
 elasticate
@@ -10925,7 +10926,6 @@ eyebeams
 eupittonic
 euplexoptera
 err
-emotiometabolic
 embalmer
 excess
 exdie
