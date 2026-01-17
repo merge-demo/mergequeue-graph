@@ -4378,7 +4378,6 @@ filibranchiate
 fascistic
 fiancees
 feirie
-franchise
 fleta
 fishfinger
 footgear
@@ -9905,6 +9904,7 @@ fleabane
 formated
 feceris
 fortuitism
+franchise
 forsythias
 ferromagnetism
 furze
