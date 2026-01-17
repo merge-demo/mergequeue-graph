@@ -2765,7 +2765,6 @@ drawhorse
 despited
 dearies
 dives
-dihydrate
 dahomeyan
 decrassified
 daun
@@ -9962,6 +9961,7 @@ demonstratability
 disbecome
 discographical
 dirigomotor
+dihydrate
 dermohemia
 divinable
 dinothere
