@@ -616,7 +616,6 @@ extuberate
 epizoites
 ecstatics
 eclating
-excitancy
 etymonic
 ellipses
 earful
@@ -7604,6 +7603,7 @@ ecclesia
 eccentricities
 elapse
 eoliths
+excitancy
 enterohelcosis
 epiparodos
 epicortical
