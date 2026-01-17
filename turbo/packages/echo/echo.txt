@@ -6549,7 +6549,6 @@ eurygnathous
 elocution
 enwrapment
 enlinking
-ectocarpaceous
 emm
 epodes
 episcopalians
@@ -11159,6 +11158,7 @@ embottle
 electragist
 exonuclease
 endospermic
+ectocarpaceous
 evaluated
 ecumenicist
 ethereal
