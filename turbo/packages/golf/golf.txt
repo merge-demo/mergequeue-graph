@@ -2222,6 +2222,7 @@ grisled
 genette
 gekkonid
 gibers
+gulfing
 gallivanter
 gristle
 gossipmongering
@@ -8367,7 +8368,6 @@ glucofrangulin
 gedecktwork
 gheraoes
 geast
-gulfing
 geoblast
 gaize
 guru
