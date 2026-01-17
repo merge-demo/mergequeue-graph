@@ -3514,7 +3514,6 @@ frightful
 foulsome
 filamentary
 fanlight
-fishfall
 flagrancy
 frowziness
 fath
@@ -11743,6 +11742,7 @@ fatherland
 followings
 factorage
 fumados
+fishfall
 fuzees
 fauvette
 fenchol
