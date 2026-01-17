@@ -8106,7 +8106,6 @@ expensilation
 ensanguined
 enaction
 enkolpia
-enseel
 extratabular
 episcopalianism
 endangium
@@ -12353,6 +12352,7 @@ esoneural
 enteromyiasis
 epicleidium
 emerod
+enseel
 expoliate
 extradictionary
 eurasian
