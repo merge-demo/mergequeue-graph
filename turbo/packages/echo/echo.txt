@@ -2007,6 +2007,7 @@ effranchisement
 eyeshot
 excussing
 evangelican
+epichorial
 embreathement
 eskimo
 etruscans
@@ -3364,7 +3365,6 @@ embargoes
 endocrinologist
 eavedropper
 embark
-epichorial
 embarkations
 epitomize
 eucharistized
