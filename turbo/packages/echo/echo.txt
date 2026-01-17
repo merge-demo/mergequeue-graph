@@ -4397,7 +4397,6 @@ enthymeme
 e
 espacement
 ejaculation
-encaptive
 ethenic
 exhilarative
 encarnalised
@@ -5357,6 +5356,7 @@ esquiline
 empyreum
 eophyte
 encashment
+encaptive
 eccentrometer
 endothermal
 endothermy
