@@ -15219,6 +15219,7 @@ atomies
 antifire
 anacoenoses
 amylogens
+arrand
 assegai
 antiflattering
 accordantly
@@ -20152,7 +20153,6 @@ arraying
 areaway
 arrays
 agdistis
-arrand
 arrangeable
 arrangement
 arrayals
