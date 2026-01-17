@@ -2179,7 +2179,6 @@ foute
 flashet
 fiducia
 fats
-fratercula
 flabellifoliate
 farmhouse
 felts
@@ -11504,6 +11503,7 @@ flouncy
 fluently
 fusariose
 fanfold
+fratercula
 forgettingly
 fusariosis
 flypasts
