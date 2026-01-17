@@ -7045,7 +7045,6 @@ gasserian
 geomantical
 genyantrum
 greasiest
-gare
 genealogist
 gallops
 guardedness
@@ -8510,6 +8509,7 @@ groupers
 gayal
 grata
 geomorphological
+gare
 geotectonically
 guardian
 geognostical
