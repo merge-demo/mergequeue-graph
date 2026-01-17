@@ -690,7 +690,6 @@ fizzier
 folliculina
 fireman
 filemot
-floccing
 funkier
 flannelmouths
 fatiguing
@@ -5439,6 +5438,7 @@ frequentness
 flensed
 frillers
 fallation
+floccing
 foolscap
 furunculoid
 forbids
