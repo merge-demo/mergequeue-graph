@@ -5399,6 +5399,7 @@ farolito
 flyblown
 forager
 fiendliness
+florimanist
 fashion
 frolickly
 forseek
@@ -11737,7 +11738,6 @@ foliiform
 flneur
 foresin
 fremdly
-florimanist
 finitely
 flanking
 fatherland
