@@ -904,7 +904,6 @@ extravagated
 exarillate
 eyelashes
 efreet
-ensisternal
 equipping
 endowments
 endorsements
@@ -11807,6 +11806,7 @@ eplot
 externization
 enviably
 ejectives
+ensisternal
 electromagnetically
 equibalance
 epirrhematic
