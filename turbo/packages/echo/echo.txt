@@ -4442,6 +4442,7 @@ enneadianome
 ezekiel
 encastre
 encastrement
+enterocoel
 encaustically
 emotionalizing
 efferent
@@ -7796,7 +7797,6 @@ epicarps
 exoerythrocytic
 epigone
 epithelium
-enterocoel
 exarchate
 ejaculator
 eddish
