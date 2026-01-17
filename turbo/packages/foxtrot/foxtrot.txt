@@ -3911,7 +3911,6 @@ fry
 forebrain
 firmamental
 fraple
-french
 ferrocyanogen
 falsehearted
 furrowed
@@ -9703,6 +9702,7 @@ frenchwomen
 frenetical
 fideicommissioner
 frigorifical
+french
 forgathered
 flushing
 frenetically
