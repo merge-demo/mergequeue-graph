@@ -16693,7 +16693,6 @@ besiege
 bishopship
 basilisk
 bilaan
-babelish
 buckhounds
 bucklum
 backstair
@@ -17645,6 +17644,7 @@ blockish
 boris
 britchel
 belady
+babelish
 blowier
 barrelfish
 bellipotent
