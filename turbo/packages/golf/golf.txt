@@ -299,6 +299,7 @@ grainy
 gargoylism
 gonk
 gaminesque
+gypsology
 gaist
 guide
 gladstonianism
@@ -4482,7 +4483,6 @@ galactemia
 gawcey
 gorry
 graveless
-gypsology
 gymnotokous
 glib
 gulp

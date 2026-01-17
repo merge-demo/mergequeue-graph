@@ -2228,7 +2228,6 @@ conuropsis
 circumfusile
 capotes
 campshed
-campsheeting
 campsite
 compasser
 campsites
@@ -6845,6 +6844,7 @@ casketing
 cocoonery
 cementers
 cellular
+campsheeting
 caloris
 carbonatization
 cellulated
