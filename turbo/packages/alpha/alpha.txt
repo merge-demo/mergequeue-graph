@@ -16830,7 +16830,6 @@ abastral
 autotypic
 affamish
 antiunion
-aphrodisiacs
 annule
 aphrodisiomania
 aphrodisiomaniac
@@ -23936,6 +23935,7 @@ admonishing
 authorised
 assumer
 adenoidal
+aphrodisiacs
 authoritarian
 authoritarians
 awarn
