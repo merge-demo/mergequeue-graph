@@ -16643,6 +16643,7 @@ dilettantes
 dragsters
 demisovereign
 doctoress
+dunkled
 drayage
 drayhorse
 dipteraceous
@@ -18285,7 +18286,6 @@ duckboards
 diseuse
 demonian
 dustcloths
-dunkled
 discipline
 discalceate
 diacoca
