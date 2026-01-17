@@ -9359,6 +9359,7 @@ close
 catery
 coelacanth
 countertree
+compatriot
 chauvinism
 chauvinist
 chauvinistic
@@ -15299,7 +15300,6 @@ clandestinely
 clandestineness
 clanfellow
 caddo
-compatriot
 crowdie
 critturs
 coexist
