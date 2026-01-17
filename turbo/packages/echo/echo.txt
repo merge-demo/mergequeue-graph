@@ -10803,7 +10803,6 @@ entrepots
 euonymy
 epilogues
 exochorda
-exsibilate
 echinid
 extrusive
 expedients
@@ -11833,6 +11832,7 @@ eulogized
 enacts
 equationism
 expenders
+exsibilate
 excarnificate
 entoproctous
 ecdysone
