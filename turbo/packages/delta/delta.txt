@@ -4134,7 +4134,6 @@ delists
 delit
 demonstratorship
 dob
-delitescent
 dispiece
 deliverer
 disincorporate
@@ -8841,6 +8840,7 @@ dibranch
 duftery
 defiguration
 dozinesses
+delitescent
 draglines
 dropperful
 dovens
