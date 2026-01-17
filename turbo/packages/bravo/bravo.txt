@@ -355,6 +355,7 @@ backfills
 bequeath
 backfires
 brontolite
+buttling
 brume
 bradypepsy
 backfiring
@@ -7764,7 +7765,6 @@ bustee
 bingey
 baying
 brunella
-buttling
 bhungi
 blameableness
 boulangerite
