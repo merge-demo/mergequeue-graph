@@ -11812,6 +11812,7 @@ barcas
 benefactrixes
 boccie
 backstring
+biscanism
 baron
 bluefish
 bocconia
@@ -17862,7 +17863,6 @@ bine
 busbar
 busbars
 bibliopegic
-biscanism
 bicultural
 bused
 brisks
