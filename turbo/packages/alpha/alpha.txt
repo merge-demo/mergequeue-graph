@@ -5785,6 +5785,7 @@ aquatinter
 adducent
 amberjack
 aviation
+anthropol
 acrocephalia
 analyticity
 abducentes
@@ -14506,7 +14507,6 @@ anobing
 allylate
 anthropographic
 ascenseur
-anthropol
 anthropolatry
 antigraphy
 askesis

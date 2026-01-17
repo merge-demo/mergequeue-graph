@@ -4936,7 +4936,6 @@ graunt
 gantry
 grouselike
 gauging
-gymnospermal
 gallantize
 gyrenes
 gingelis
@@ -6497,6 +6496,7 @@ gariba
 galvanocautery
 golly
 gleanings
+gymnospermal
 glucolipine
 gamete
 grotian
