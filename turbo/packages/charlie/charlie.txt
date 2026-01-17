@@ -1766,6 +1766,7 @@ christless
 coyer
 calumniators
 calumnious
+cursive
 calumniously
 canephor
 calusa
@@ -31527,7 +31528,6 @@ coelenteron
 cursitate
 creirgist
 coadjute
-cursive
 conveyal
 cursives
 chorused
