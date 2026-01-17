@@ -13351,6 +13351,7 @@ amlacra
 amphitheatral
 anisotrope
 anisotropically
+albumoses
 anencephalotrophia
 anystidae
 aloin
@@ -23129,7 +23130,6 @@ aleikum
 amblyaphia
 attemptable
 arthurian
-albumoses
 anthroponym
 astonishingness
 antinode
