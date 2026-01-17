@@ -1290,7 +1290,6 @@ dandyism
 disking
 datsuns
 duplify
-disband
 demigardebras
 dissyllabize
 dentition
@@ -5255,6 +5254,7 @@ dilettanteish
 degressively
 downhearted
 darkener
+disband
 dentalia
 dentalism
 dodoes
