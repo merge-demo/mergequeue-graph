@@ -7361,6 +7361,7 @@ befogs
 bolometer
 bethroot
 blackbirds
+brawny
 besogne
 bamboche
 bigmouthed
@@ -16585,7 +16586,6 @@ bubblement
 bubbler
 bubblers
 bullshitting
-brawny
 bubbletop
 banderoled
 brisky
