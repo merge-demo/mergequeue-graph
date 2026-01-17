@@ -9334,6 +9334,7 @@ despouse
 dressers
 differenced
 differences
+dominate
 dryad
 destroyable
 dunces
@@ -12403,7 +12404,6 @@ dong
 disheir
 dicynodon
 diplophyte
-dominate
 dishelms
 disher
 durability
