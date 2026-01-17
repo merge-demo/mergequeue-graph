@@ -3624,7 +3624,6 @@ deduce
 deglutinating
 disgracive
 dermatoplasty
-demodicidae
 dawish
 diploic
 deprogrammer
@@ -14794,6 +14793,7 @@ docketing
 dantophily
 diocesian
 dockets
+demodicidae
 dyphone
 dockhand
 dockhouse
