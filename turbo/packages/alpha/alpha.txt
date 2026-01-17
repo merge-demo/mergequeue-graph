@@ -673,7 +673,6 @@ aboral
 abord
 aboriginality
 anhydrosis
-aborigines
 abort
 alderfly
 aborted
@@ -3052,6 +3051,7 @@ apercu
 actinometricy
 areche
 adelops
+aborigines
 autochton
 agonia
 actinomycete
