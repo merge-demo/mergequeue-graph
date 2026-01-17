@@ -7354,7 +7354,6 @@ bunglers
 bacteririum
 balaenoptera
 bocklogged
-berretta
 bullidae
 bilbies
 bunker
@@ -7697,6 +7696,7 @@ bescribbled
 bezils
 boyardom
 babished
+berretta
 batfowls
 billywix
 baldricwise
