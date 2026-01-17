@@ -4620,6 +4620,7 @@ boden
 bedtick
 bedchair
 bacchic
+batterfang
 butterine
 bedchairs
 bellowing
@@ -11247,7 +11248,6 @@ boder
 backage
 burkes
 beacher
-batterfang
 brazenness
 bracts
 bf
