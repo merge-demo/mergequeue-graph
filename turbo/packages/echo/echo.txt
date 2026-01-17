@@ -2880,6 +2880,7 @@ enthrall
 erzahler
 epitheliomuscular
 eyewear
+exteriors
 elevenses
 eleventeenth
 evernia
@@ -3406,7 +3407,6 @@ enfiladed
 exhibitioner
 editorializes
 extradoses
-exteriors
 enteropneustan
 embed
 electrosynthetic
