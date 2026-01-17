@@ -3041,6 +3041,7 @@ geomorphologically
 glycopexis
 geonavigation
 gizmos
+geoglossaceae
 gaolbird
 gaga
 geadephagous
@@ -7843,7 +7844,6 @@ gasometric
 guttide
 grovelled
 gtc
-geoglossaceae
 gun
 guhayna
 gond
