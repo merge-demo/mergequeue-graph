@@ -7600,7 +7600,6 @@ brisbane
 bewilderment
 bewitched
 boughed
-bewitcher
 bioaccumulation
 barbion
 bryological
@@ -16421,6 +16420,7 @@ bewearying
 balsamum
 bridgeless
 bellibone
+bewitcher
 backfired
 bps
 banditry

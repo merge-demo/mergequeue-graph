@@ -1952,7 +1952,6 @@ falsum
 fooyoung
 flagmaker
 fone
-feeb
 feeblemindedly
 flowerlike
 festshrifts
@@ -6039,6 +6038,7 @@ fulmina
 furmities
 fetterbush
 faba
+feeb
 funicule
 flavoring
 filmgoing
