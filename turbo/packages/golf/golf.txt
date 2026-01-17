@@ -6484,7 +6484,6 @@ gangrenate
 gapeworms
 gurry
 glycols
-grit
 guirlande
 graduatical
 ghazel
@@ -9239,6 +9238,7 @@ grahamite
 grist
 growthiness
 gluttons
+grit
 glucagon
 gyroceran
 gemeled
