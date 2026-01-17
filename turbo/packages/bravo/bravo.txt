@@ -11770,7 +11770,6 @@ bacteriopurpurin
 barrens
 bucephala
 biology
-beringleted
 backed
 bobstays
 berreaving
@@ -14845,6 +14844,7 @@ bemitered
 beefishness
 backscratching
 breadearning
+beringleted
 barracoon
 basigamy
 basipetally
