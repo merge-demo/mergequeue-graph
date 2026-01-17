@@ -1482,6 +1482,7 @@ boroglycerate
 barras
 beeches
 ball
+bacchanalias
 bushtit
 ballad
 bibliomaniacal
@@ -6602,7 +6603,6 @@ berenice
 bereshith
 beresite
 beret
-bacchanalias
 brangler
 berets
 berewick
