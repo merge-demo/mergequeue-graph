@@ -2792,7 +2792,6 @@ drivellingly
 dari
 decresc
 desalination
-delphinus
 duodecahedron
 decrescent
 deknight
@@ -15814,6 +15813,7 @@ diacetic
 deluge
 dissertations
 demidome
+delphinus
 discomforting
 dorsimeson
 devolatilization
