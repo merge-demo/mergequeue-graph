@@ -8553,7 +8553,6 @@ discontiguous
 diaphones
 demilitarising
 dexterously
-drys
 deflex
 diaphony
 diaphysial
@@ -9492,6 +9491,7 @@ domically
 daintrel
 digestment
 dittography
+drys
 debenzolize
 desiliconize
 discussable
