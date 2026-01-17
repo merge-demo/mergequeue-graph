@@ -23077,7 +23077,6 @@ arkosic
 antimatter
 ataxics
 antiquarians
-acholic
 attainders
 asfast
 attainment
@@ -24928,6 +24927,7 @@ awakeningly
 awaking
 automotor
 archform
+acholic
 arseniosiderite
 ankylose
 adroit
