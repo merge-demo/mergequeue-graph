@@ -1099,6 +1099,7 @@ fam
 finkel
 fellatrixes
 fudgy
+franticness
 fishling
 fastback
 farfetched
@@ -8838,7 +8839,6 @@ foul
 frotted
 fogger
 finesse
-franticness
 fervorless
 foulder
 fiberizer
