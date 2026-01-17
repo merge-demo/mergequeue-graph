@@ -905,7 +905,6 @@ gobioid
 gymnonoti
 gusseted
 goosebird
-gez
 gharial
 gelatinizability
 genome
@@ -7260,6 +7259,7 @@ gingernut
 gemination
 gorgoneion
 gammas
+gez
 gromyl
 gormand
 gemmingia
