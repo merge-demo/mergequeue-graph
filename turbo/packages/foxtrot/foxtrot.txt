@@ -4686,6 +4686,7 @@ fougue
 feathermonger
 fratchety
 fijian
+fistnote
 fulgor
 flabella
 flyweight
@@ -6281,7 +6282,6 @@ filoselle
 flummer
 frigidoreceptor
 flickerproof
-fistnote
 funori
 fettling
 fusionism
