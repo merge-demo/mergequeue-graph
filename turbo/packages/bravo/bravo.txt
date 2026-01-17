@@ -10968,7 +10968,6 @@ barretors
 blowhards
 blustered
 blinkers
-bael
 bellhop
 batement
 benchmar
@@ -12673,6 +12672,7 @@ bec
 bolivares
 bunion
 booger
+bael
 blancher
 bonilass
 benefactresses
