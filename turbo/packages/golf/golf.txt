@@ -1438,7 +1438,6 @@ garnishee
 glovemaker
 guidebookish
 geophagous
-glossagra
 grossart
 generical
 grillages
@@ -9974,6 +9973,7 @@ glycerinated
 gendarmerie
 goodbys
 glycolide
+glossagra
 guillevat
 guggled
 gubbins
