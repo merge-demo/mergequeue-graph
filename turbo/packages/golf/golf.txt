@@ -226,7 +226,6 @@ guarder
 greatens
 gradefinder
 gratiano
-gaiassa
 gelasimus
 guidman
 grandsir
@@ -2983,6 +2982,7 @@ gentilhomme
 galleon
 goldenknop
 gorgoniacean
+gaiassa
 gaps
 goatherdess
 guildsmen
