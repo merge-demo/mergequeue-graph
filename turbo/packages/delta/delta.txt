@@ -8844,6 +8844,7 @@ dozinesses
 delitescent
 draglines
 dropperful
+discomycetous
 dovens
 dibstone
 doziness
@@ -11517,7 +11518,6 @@ deuteropathic
 discomfortingly
 discomforts
 discomycete
-discomycetous
 druggy
 dirham
 dunciad
