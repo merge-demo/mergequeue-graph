@@ -7211,7 +7211,6 @@ electrocatalytic
 encephalomere
 epidemiology
 energetics
-eccaleobion
 ensealed
 eopalaeozoic
 egocentrically
@@ -10094,6 +10093,7 @@ epiloguize
 euphausiacea
 ethereality
 epiboly
+eccaleobion
 etherealization
 extrusible
 electrochemistry
