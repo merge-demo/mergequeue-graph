@@ -6418,7 +6418,6 @@ encroachment
 extensionless
 embroideries
 elvira
-ensorceled
 encephalometer
 earfuls
 encheck
@@ -7396,6 +7395,7 @@ ebulliate
 endogenously
 extraperiodic
 extracurricular
+ensorceled
 exercise
 elohimic
 enfile
