@@ -1612,7 +1612,6 @@ boiguacu
 ballonne
 bewrays
 ballooners
-bickering
 brattier
 bricklayer
 balloonflower
@@ -15526,6 +15525,7 @@ bakery
 bibliopegistic
 bringers
 bodega
+bickering
 bringeth
 brushiness
 botanophilist
