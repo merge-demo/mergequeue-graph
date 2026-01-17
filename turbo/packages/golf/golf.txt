@@ -310,7 +310,6 @@ grandstand
 greed
 galjoen
 gaudful
-glanderous
 gourami
 gadolinium
 grognard
@@ -3782,6 +3781,7 @@ greyhound
 gratefulness
 greyling
 greenbugs
+glanderous
 greenland
 gulancha
 gorblimey
