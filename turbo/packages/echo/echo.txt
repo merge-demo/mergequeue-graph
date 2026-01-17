@@ -2688,6 +2688,7 @@ electrotype
 entosphenoid
 electrotypy
 enolase
+entree
 earwigged
 eightyfold
 embryotegae
@@ -5841,7 +5842,6 @@ extrasensible
 extravagence
 engraver
 expalpate
-entree
 engysseismology
 ethiops
 episyntheton
