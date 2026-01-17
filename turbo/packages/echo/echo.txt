@@ -5715,7 +5715,6 @@ eau
 educabilia
 etherolate
 emerald
-echar
 entrenches
 engirdle
 ebullient
@@ -13720,6 +13719,7 @@ equiaxe
 ergocalciferol
 externs
 endothelioblastoma
+echar
 exhaustedness
 eclats
 elocular
