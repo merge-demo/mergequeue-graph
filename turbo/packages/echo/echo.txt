@@ -921,7 +921,6 @@ electrological
 efform
 epoxied
 entada
-ecttypal
 equates
 emanatory
 exeresis
@@ -5491,6 +5490,7 @@ experimentalism
 edentulate
 episporangium
 enfatico
+ecttypal
 enfeeblements
 exorcising
 experimenting
