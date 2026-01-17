@@ -3556,6 +3556,7 @@ fractabling
 foreskirt
 fixates
 florigraphy
+fistlike
 forspoken
 fasnacht
 feddan
@@ -4658,7 +4659,6 @@ flopwing
 fummel
 furtherer
 flamboyancy
-fistlike
 fizgig
 fizgigs
 figaro
