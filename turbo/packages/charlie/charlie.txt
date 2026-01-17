@@ -15402,7 +15402,6 @@ conducement
 clare
 corrodible
 clarence
-civilizational
 clarences
 clarenceux
 clarendon
@@ -26864,6 +26863,7 @@ contest
 counterguard
 counterguerilla
 catchpollery
+civilizational
 courtless
 coraciiformes
 counterhaft
