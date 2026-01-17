@@ -8504,6 +8504,7 @@ clow
 chemosterilants
 chanced
 categorical
+cheniller
 chanceful
 cadrans
 chancefulness
@@ -17728,7 +17729,6 @@ cocopan
 cocoroot
 choup
 cocotte
-cheniller
 cocottes
 cocobolo
 condemnate
