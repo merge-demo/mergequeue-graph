@@ -4224,7 +4224,6 @@ fireplug
 firepot
 foreflank
 forebooms
-flots
 frangipanni
 floridians
 fusarium
@@ -7389,6 +7388,7 @@ floreate
 fasciculation
 fey
 fasti
+flots
 figgum
 fille
 fans
