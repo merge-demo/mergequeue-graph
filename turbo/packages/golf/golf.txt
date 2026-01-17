@@ -4420,6 +4420,7 @@ gleba
 gluttony
 galloman
 gaultherine
+gooseneck
 gipon
 gaetulan
 gunlayer
@@ -8205,7 +8206,6 @@ gelatinise
 geometricize
 grandfatherless
 gestative
-gooseneck
 graphemically
 gris
 genevois
