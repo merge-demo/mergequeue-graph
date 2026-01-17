@@ -17280,7 +17280,6 @@ adamantoid
 anemometrographic
 aporhyolite
 allanites
-apnoeas
 autobiographal
 actinidiaceae
 asserting
@@ -22582,6 +22581,7 @@ affeeror
 agentess
 addicts
 anisoleucocytosis
+apnoeas
 ateliotic
 atelo
 atelocephalous
