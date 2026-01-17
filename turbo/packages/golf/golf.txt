@@ -2934,6 +2934,7 @@ gunks
 guardingly
 gusts
 gurkha
+gastroplenic
 gollop
 guapilla
 gibes
@@ -4630,7 +4631,6 @@ ghafir
 geobiology
 gematrical
 galli
-gastroplenic
 getmjlkost
 guttery
 gyrovagues
