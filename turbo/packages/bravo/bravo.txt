@@ -3338,7 +3338,6 @@ besotment
 basitting
 basiventral
 beudantite
-basked
 bachel
 basketballer
 bison
@@ -12602,6 +12601,7 @@ boogeyman
 balance
 bonnnes
 bionomist
+basked
 bonorum
 bisector
 bagatelle
