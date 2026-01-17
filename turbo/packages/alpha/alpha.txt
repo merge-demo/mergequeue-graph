@@ -11920,6 +11920,7 @@ allergen
 ananta
 astraea
 antimasquerade
+autoptically
 anticriticalness
 altarist
 anammonide
@@ -24346,7 +24347,6 @@ autopsies
 ambrose
 archprophet
 abaters
-autoptically
 aeromancy
 attractionally
 alpinists
