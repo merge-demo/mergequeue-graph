@@ -6687,7 +6687,6 @@ folksily
 flame
 felted
 fogless
-frounced
 fogo
 frescoists
 fighters
@@ -6715,6 +6714,7 @@ featherbed
 fluorescent
 forspeaking
 flamming
+frounced
 foiningly
 feasant
 forjudged
