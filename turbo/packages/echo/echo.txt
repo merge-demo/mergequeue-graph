@@ -887,6 +887,7 @@ eschewing
 expeditionary
 enures
 emperies
+ethine
 extrastate
 episedia
 encomiastic
@@ -11204,7 +11205,6 @@ eradiated
 evangeliarium
 enalyron
 enforcers
-ethine
 electropuncture
 evangelic
 endoplastron
