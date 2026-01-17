@@ -5648,6 +5648,7 @@ cd
 choufleur
 coedited
 catamarenan
+cottagers
 catamites
 chickenhearted
 catamiting
@@ -26496,7 +26497,6 @@ conductory
 chuckstone
 coopt
 cottager
-cottagers
 cottars
 cahuy
 cottas
