@@ -87,7 +87,6 @@ governeress
 goop
 gluey
 guidelines
-gallops
 grutten
 gadabouts
 gualaca
@@ -7042,6 +7041,7 @@ genyantrum
 greasiest
 gare
 genealogist
+gallops
 guardedness
 gooseboy
 goschen
