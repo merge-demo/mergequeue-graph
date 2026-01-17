@@ -10805,7 +10805,6 @@ endoprocta
 euodic
 entrepots
 euonymy
-epilogues
 exochorda
 echinid
 extrusive
@@ -13570,6 +13569,7 @@ exsiccatae
 elucidate
 exsiccating
 ergusia
+epilogues
 exsolving
 epochs
 expectative
