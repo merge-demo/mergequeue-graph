@@ -9451,7 +9451,6 @@ cubits
 cablegram
 characterisation
 cheater
-cheatery
 campulitropous
 copyrights
 cussword
@@ -18750,6 +18749,7 @@ clavichords
 colchis
 crispily
 catadioptric
+cheatery
 cochaired
 caesarists
 cookouts
