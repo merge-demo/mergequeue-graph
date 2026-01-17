@@ -2630,6 +2630,7 @@ exemplarity
 ethnocentrism
 electrosmosis
 excelling
+exordial
 exegetist
 enquiries
 electrosteel
@@ -9041,7 +9042,6 @@ evocatively
 etnean
 europeans
 enbranglement
-exordial
 eyases
 electrotherapeutics
 entergogenic
