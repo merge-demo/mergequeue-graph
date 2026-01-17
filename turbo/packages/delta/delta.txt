@@ -6123,7 +6123,6 @@ deregulation
 deregulationize
 dicolic
 deregulations
-dichromatism
 drumloid
 ducatoon
 deregulatory
@@ -18597,6 +18596,7 @@ devocalisation
 distance
 dispossessory
 dustcover
+dichromatism
 diatonicism
 dustee
 dusters
