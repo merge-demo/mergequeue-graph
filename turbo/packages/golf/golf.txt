@@ -4550,7 +4550,6 @@ gilim
 gobbledygook
 graphometry
 glim
-galloper
 goobers
 germane
 gagger
@@ -8471,6 +8470,7 @@ goalie
 gorily
 grinnie
 galactonic
+galloper
 gratulation
 globefish
 grappler
