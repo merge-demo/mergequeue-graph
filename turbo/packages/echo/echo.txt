@@ -2964,7 +2964,6 @@ extraovate
 eliminable
 etymologizing
 eradiation
-eliminate
 etiologies
 embind
 explait
@@ -13888,6 +13887,7 @@ etamine
 exosmosis
 emollient
 endolymphangial
+eliminate
 extradited
 extradomestic
 ecchymoma
