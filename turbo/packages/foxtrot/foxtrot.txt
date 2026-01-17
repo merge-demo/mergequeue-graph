@@ -8457,7 +8457,6 @@ flong
 flunkeyite
 fuzztail
 formularizing
-frontierman
 fumado
 frow
 figment
@@ -11021,6 +11020,7 @@ fierce
 flutidae
 femororotulian
 forecastlemen
+frontierman
 floriferously
 festal
 furzery
