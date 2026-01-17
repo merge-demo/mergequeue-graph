@@ -3896,7 +3896,6 @@ gladatorial
 gigatons
 gastroschisis
 gastrosoph
-genetical
 geoduck
 geminates
 gemmily
@@ -8342,6 +8341,7 @@ grandparental
 genonema
 glenoid
 gasket
+genetical
 geophytic
 gnarling
 gnar
