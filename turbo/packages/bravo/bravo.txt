@@ -7715,7 +7715,6 @@ behypocrite
 bridging
 bhagavat
 bedimmed
-bivouacking
 bookrack
 bigamized
 bugre
@@ -11654,6 +11653,7 @@ bryologist
 bosket
 boatage
 barspoon
+bivouacking
 boatbuilding
 boathouse
 boffos
