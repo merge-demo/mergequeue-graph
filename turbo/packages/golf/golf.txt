@@ -2147,7 +2147,6 @@ grossness
 gerontine
 gdinfo
 golfings
-gds
 gaycat
 gastrotomy
 grainer
@@ -6875,6 +6874,7 @@ gelatinoid
 graticulate
 glis
 gannet
+gds
 glibly
 goodenia
 gypsied
