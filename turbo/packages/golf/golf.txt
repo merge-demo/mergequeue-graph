@@ -390,6 +390,7 @@ galangin
 grond
 golundauze
 gavot
+glimed
 gaoled
 glaive
 glossophagine
@@ -6710,7 +6711,6 @@ guaiol
 gastrocentrous
 gigantesque
 glycolyl
-glimed
 geer
 gride
 graphitic
