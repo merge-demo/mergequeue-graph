@@ -8192,7 +8192,6 @@ autocatalepsy
 adermia
 arpeggioed
 anthropogenist
-amishgo
 alichino
 amphipneusta
 aluminise
@@ -12635,6 +12634,7 @@ aleuron
 arrayan
 aesopic
 archbeadle
+amishgo
 advene
 allochroite
 algosis
