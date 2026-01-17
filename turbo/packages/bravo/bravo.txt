@@ -2517,6 +2517,7 @@ brachyoura
 barge
 bergere
 bult
+bobbiner
 bargelike
 beet
 bargellos
@@ -7817,7 +7818,6 @@ biarcuate
 barrulee
 braise
 breccia
-bobbiner
 bluings
 bezzling
 blenches
