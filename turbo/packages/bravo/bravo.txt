@@ -2321,6 +2321,7 @@ bromidic
 botryomyces
 betokened
 budgerygah
+biternate
 bebite
 backyards
 barbariousness
@@ -6446,7 +6447,6 @@ bergamiol
 backcloth
 blastophitic
 barangay
-biternate
 benzothiofuran
 burs
 benzothiophene
