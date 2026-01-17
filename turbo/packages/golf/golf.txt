@@ -1538,7 +1538,6 @@ graecomania
 gazump
 grimgribber
 gastrologist
-goatpox
 gasper
 grounder
 gazetting
@@ -8222,6 +8221,7 @@ graphitize
 glacioaqueous
 goldbug
 gutturalising
+goatpox
 gnosticism
 greater
 gallowsmaker
