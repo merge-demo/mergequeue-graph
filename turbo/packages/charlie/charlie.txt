@@ -10202,7 +10202,6 @@ compurgatory
 carps
 chamomilla
 chorisepalous
-chiarooscuro
 chiaroscuros
 chuvash
 coulis
@@ -17214,6 +17213,7 @@ choya
 coalfield
 coalfitter
 cyanines
+chiarooscuro
 coalholes
 catacrotism
 coaly
