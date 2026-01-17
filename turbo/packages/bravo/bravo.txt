@@ -5933,7 +5933,6 @@ brandenburgs
 biggety
 buffaloes
 blatherer
-beltane
 belauding
 barquest
 bimetalic
@@ -8801,6 +8800,7 @@ bassirilievi
 backrests
 binervate
 benders
+beltane
 bines
 bimarine
 bineweed
