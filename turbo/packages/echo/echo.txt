@@ -6367,7 +6367,6 @@ epist
 enunciator
 eluvivia
 elapid
-ensemble
 engastrimyth
 engrained
 evaluator
@@ -7998,6 +7997,7 @@ epipanies
 expectorations
 endovasculitis
 exsanguious
+ensemble
 euthenist
 equuleus
 encoop
