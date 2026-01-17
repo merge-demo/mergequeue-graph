@@ -318,7 +318,6 @@ elfship
 euboic
 eastling
 embetter
-eruditionist
 escots
 engaze
 eastman
@@ -10596,6 +10595,7 @@ eledone
 enterpriseless
 epiplopexy
 egoizer
+eruditionist
 eutechnic
 eucrite
 enthusiasticalness
