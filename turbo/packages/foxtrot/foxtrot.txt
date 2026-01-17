@@ -1239,6 +1239,7 @@ firmitude
 frigidity
 fenders
 flexural
+fragmentizer
 flinched
 fatuities
 feodatory
@@ -6805,7 +6806,6 @@ fikery
 feuille
 florula
 farrisite
-fragmentizer
 foretold
 fasces
 fructifier
