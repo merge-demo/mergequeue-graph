@@ -2120,7 +2120,6 @@ ceilingward
 chieftaincies
 circumnuclear
 captivator
-campanular
 campanulariae
 campanularidae
 campanulatae
@@ -3046,6 +3045,7 @@ cerebrational
 centauri
 confronts
 cantraip
+campanular
 cantraps
 chares
 curlyheads
