@@ -10420,6 +10420,7 @@ equalities
 endothelium
 etiolated
 etiology
+enteradenographic
 europeanism
 enlacing
 etiologist
@@ -12917,7 +12918,6 @@ earstones
 electropuncturing
 evzone
 epinine
-enteradenographic
 extraprostatic
 eyrir
 esmayle
