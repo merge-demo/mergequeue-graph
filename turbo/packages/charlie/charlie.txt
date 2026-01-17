@@ -11430,7 +11430,6 @@ choanosome
 choate
 cautioned
 chobie
-cabinetry
 cudeigh
 choca
 coalfish
@@ -16877,6 +16876,7 @@ coachwhip
 clucking
 clue
 cleanlier
+cabinetry
 continuations
 clued
 clueing
