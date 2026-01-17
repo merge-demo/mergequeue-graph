@@ -2029,6 +2029,7 @@ banyuls
 baniva
 browis
 brittonic
+bubale
 blepharohematidrosis
 begetting
 breadmaking
@@ -18164,7 +18165,6 @@ bosses
 biogenase
 butyrometer
 barometrically
-bubale
 barrio
 butyrometric
 botchwork
