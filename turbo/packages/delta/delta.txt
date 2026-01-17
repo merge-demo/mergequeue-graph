@@ -14641,7 +14641,6 @@ divulsing
 divvy
 derating
 depressing
-diallel
 docmac
 dixain
 decentre
@@ -17240,6 +17239,7 @@ driftweed
 degged
 drivewell
 driving
+diallel
 disclamatory
 drizzles
 drunkeries
