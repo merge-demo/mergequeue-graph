@@ -2170,7 +2170,6 @@ folkmoot
 falsities
 forane
 felonwort
-falutin
 flatterdock
 fraudproof
 fligger
@@ -10826,6 +10825,7 @@ fanatical
 fulfiller
 flambeaux
 fumose
+falutin
 fulfillment
 flus
 flavorous
