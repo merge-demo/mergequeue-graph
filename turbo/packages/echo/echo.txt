@@ -1212,6 +1212,7 @@ exstemporal
 eme
 extrascripturality
 epit
+euthyneural
 enneastyle
 eel
 electrosherardizing
@@ -2042,7 +2043,6 @@ elaphurus
 enology
 expedites
 enjoyers
-euthyneural
 eulogises
 elapine
 endysis
