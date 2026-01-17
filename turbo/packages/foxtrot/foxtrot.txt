@@ -2175,6 +2175,7 @@ fraudproof
 fligger
 fallibilism
 foretypified
+fanaloka
 fogyisms
 formulae
 fadme
@@ -9159,7 +9160,6 @@ filenames
 fifteenths
 frija
 fixive
-fanaloka
 fasciotomy
 forwearied
 foggers
