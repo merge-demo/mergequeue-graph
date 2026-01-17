@@ -5320,7 +5320,6 @@ becurry
 blueheads
 bethesdas
 burrer
-bivariate
 buroo
 beglide
 batekes
@@ -7450,6 +7449,7 @@ bedeviling
 bulbar
 bebeerine
 bifidities
+bivariate
 brew
 barbeau
 bookstack
