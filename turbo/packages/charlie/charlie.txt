@@ -8277,7 +8277,6 @@ chaleh
 chalybeate
 chalybes
 chalice
-chancelry
 chaliced
 chalicosis
 chalicothere
@@ -26777,6 +26776,7 @@ catamite
 calcareobituminous
 cubomancy
 columnization
+chancelry
 counterdifficulty
 commiserate
 coldest
