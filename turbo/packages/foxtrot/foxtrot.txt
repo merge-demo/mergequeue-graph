@@ -4046,6 +4046,7 @@ flindersia
 freefd
 finitism
 finitive
+foreyear
 fingerberry
 felapton
 formants
@@ -10710,7 +10711,6 @@ forecount
 forbore
 frumpishly
 fanciness
-foreyear
 follyer
 fructified
 fascistize
