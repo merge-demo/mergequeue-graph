@@ -13171,6 +13171,7 @@ campshot
 cyclamens
 cyclamine
 cyclane
+cakra
 cataphonic
 clin
 craftsmanlike
@@ -20091,7 +20092,6 @@ commented
 commenter
 commenting
 commentitious
-cakra
 cyanogen
 cavernicolous
 characterologist
