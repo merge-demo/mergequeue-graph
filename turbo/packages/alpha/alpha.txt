@@ -4982,6 +4982,7 @@ anthropopathia
 armrest
 amphisbaenid
 argentate
+acaridan
 auriculate
 admissibleness
 aeropathy
@@ -16691,7 +16692,6 @@ arefaction
 avie
 aph
 aggers
-acaridan
 abjuration
 asserters
 agre
