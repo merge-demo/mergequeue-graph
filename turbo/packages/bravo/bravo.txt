@@ -7718,7 +7718,6 @@ behavioral
 bhangi
 bhara
 bevy
-bharal
 basaltiform
 bombilla
 bhat
@@ -12726,6 +12725,7 @@ breviate
 barrenwort
 beaux
 barging
+bharal
 bimetallist
 ballant
 booklear
