@@ -5421,6 +5421,7 @@ deodorizes
 drawees
 detesters
 discoast
+disyoking
 dibutyrate
 deoppilant
 deceives
@@ -12632,7 +12633,6 @@ dargsman
 daynet
 decupled
 devel
-disyoking
 degradational
 disjasked
 disjaskit
