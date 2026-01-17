@@ -1998,7 +1998,6 @@ dynapolis
 denehole
 dentello
 dimble
-defaecate
 dysphasia
 dictation
 dacryocele
@@ -13229,6 +13228,7 @@ distempered
 dyspneas
 ducat
 determinator
+defaecate
 draftman
 desexualization
 dorsocephalad
