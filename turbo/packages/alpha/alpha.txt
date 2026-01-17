@@ -1247,7 +1247,6 @@ ambitus
 acarina
 acrasy
 acarine
-awaiters
 acarines
 achromasia
 alacritous
@@ -1934,6 +1933,7 @@ attentional
 aotus
 acetylid
 acetylizable
+awaiters
 aversive
 anamirtin
 acetylization
