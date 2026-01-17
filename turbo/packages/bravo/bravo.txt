@@ -7198,6 +7198,7 @@ byelorussia
 blastomeric
 bur
 bestiarian
+bimodule
 bestiarist
 bestock
 bestow
@@ -8730,7 +8731,6 @@ buoyancies
 battish
 breezily
 bubblingly
-bimodule
 bimong
 buckeroo
 bimonthlies
