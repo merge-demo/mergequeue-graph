@@ -2583,6 +2583,7 @@ autogeneal
 aljamiah
 ancestrial
 arctomys
+affrontedness
 acouometer
 azocoralline
 antihelminthic
@@ -5360,7 +5361,6 @@ affydavy
 acid
 affrightment
 affronted
-affrontedness
 anidiomatic
 adenose
 affronts
