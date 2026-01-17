@@ -7451,6 +7451,7 @@ epidiascopic
 effluency
 ephor
 elaeosaccharum
+ectodactylism
 encounterer
 ekphory
 euda
@@ -7640,7 +7641,6 @@ encircling
 extroversion
 epicuticular
 entomotomist
-ectodactylism
 enoughs
 eustele
 eugenol
