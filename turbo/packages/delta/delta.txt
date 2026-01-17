@@ -10434,7 +10434,6 @@ disinflame
 dow
 douzainier
 diplomatism
-duenna
 dashikis
 demibath
 diphonia
@@ -13680,6 +13679,7 @@ degender
 disturbances
 demisemitone
 delectability
+duenna
 daftlike
 dissymmetrically
 danseurs
