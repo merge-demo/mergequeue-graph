@@ -1344,7 +1344,6 @@ endochylous
 exhortation
 eleutherodactyli
 epithecium
-embolden
 emphrensy
 expirator
 ethnocentrically
@@ -4751,6 +4750,7 @@ ethnolinguist
 ensnarements
 encoding
 effectivity
+embolden
 embrocate
 ergasterion
 enbusshe
