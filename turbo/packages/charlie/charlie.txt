@@ -9003,6 +9003,7 @@ circumrotated
 condition
 charityless
 columboid
+covillager
 caridoid
 cloaks
 comus
@@ -27581,7 +27582,6 @@ cocain
 campilan
 cloiochoanitic
 caterwauled
-covillager
 covine
 clinquant
 censes
