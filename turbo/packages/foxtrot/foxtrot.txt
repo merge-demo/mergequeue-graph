@@ -6098,6 +6098,7 @@ flounder
 frowardness
 faraway
 faciata
+folding
 flourish
 fermion
 foully
@@ -9020,7 +9021,6 @@ fribbleism
 fractionation
 familiariser
 forenent
-folding
 friesish
 funnellike
 fenter
