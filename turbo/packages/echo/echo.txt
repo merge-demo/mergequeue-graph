@@ -1281,6 +1281,7 @@ exhilarated
 exumbrellar
 effect
 endocardiac
+excecate
 exopeptidase
 effective
 euryphagous
@@ -2748,7 +2749,6 @@ equangular
 explorations
 ebracteate
 eurithermophilic
-excecate
 elytrous
 eutropic
 equipartition
