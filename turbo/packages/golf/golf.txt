@@ -525,7 +525,6 @@ guinde
 gigsman
 gives
 geoffroyine
-gyrowheel
 gluten
 gliomas
 germproof
@@ -10207,6 +10206,7 @@ gladdon
 goundou
 gimbaljawed
 groundneedle
+gyrowheel
 generaliser
 grippers
 guzzled
