@@ -1958,7 +1958,6 @@ acetyltropeine
 animize
 acetylurea
 atheromata
-analyse
 armorial
 acetins
 acardite
@@ -5831,6 +5830,7 @@ ageisms
 antiturnpikeism
 arithmetical
 atteal
+analyse
 agelast
 agelaus
 agelessness
