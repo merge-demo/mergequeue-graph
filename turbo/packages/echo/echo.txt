@@ -756,6 +756,7 @@ emotes
 echinal
 euomphalid
 ecrase
+entifical
 enclitic
 escort
 extense
@@ -8310,7 +8311,6 @@ epithetic
 effortlessness
 encumberingly
 epithetically
-entifical
 excurvature
 epithets
 enterocolostomy
