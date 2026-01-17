@@ -2768,6 +2768,7 @@ artarin
 acrobates
 amontillado
 acrobatical
+anacamptic
 acrobatism
 actinotherapeutic
 alveolites
@@ -24665,7 +24666,6 @@ achaemenidae
 avenida
 aveniform
 astatic
-anacamptic
 avenolith
 avshar
 aventails
