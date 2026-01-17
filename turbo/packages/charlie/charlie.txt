@@ -1972,7 +1972,6 @@ carlovingian
 countervolition
 cidaroida
 cetiosaurus
-camerated
 cameration
 camery
 camerier
@@ -4346,6 +4345,7 @@ carica
 caricaceae
 chenica
 countermeet
+camerated
 cribbings
 caricaceous
 cotemporaneous
