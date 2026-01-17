@@ -7359,6 +7359,7 @@ fenestellae
 festiveness
 floodlighting
 forbiddingly
+fanglet
 farfels
 fewnes
 flatworms
@@ -8924,7 +8925,6 @@ favositoid
 formally
 felty
 fourier
-fanglet
 fourierism
 fourneau
 filly
