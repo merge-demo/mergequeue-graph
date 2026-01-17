@@ -2247,7 +2247,6 @@ barbara
 barbary
 baculiferous
 blastier
-bast
 ballism
 bridgebote
 barbarianizing
@@ -5666,6 +5665,7 @@ belecture
 burbush
 belemnitic
 bairnlier
+bast
 belemnoid
 belayed
 bambinos
