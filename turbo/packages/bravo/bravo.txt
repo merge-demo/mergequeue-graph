@@ -333,7 +333,6 @@ boiloffs
 bistetrazole
 bradoons
 bourree
-bacteroideae
 baccarats
 bathychrome
 backdrop
@@ -5135,6 +5134,7 @@ bromhidrosis
 ballota
 bloodthirstiness
 baubling
+bacteroideae
 banco
 befools
 bridgeport
