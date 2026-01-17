@@ -2076,6 +2076,7 @@ aches
 achesoun
 acheulean
 accustoms
+alcyones
 acumens
 achy
 absconds
@@ -6128,7 +6129,6 @@ asymtotically
 aglyphodont
 algodonite
 awaken
-alcyones
 adversaria
 aglitter
 aspartokinase
