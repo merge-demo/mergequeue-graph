@@ -664,6 +664,7 @@ beletter
 bronchocavernous
 bynames
 bkpr
+biocontrol
 backbitten
 boigid
 bacterized
@@ -3766,7 +3767,6 @@ batture
 bielded
 barasingha
 blackening
-biocontrol
 basialveolar
 begger
 bobflies
