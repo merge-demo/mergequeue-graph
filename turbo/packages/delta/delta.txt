@@ -5308,7 +5308,6 @@ deadheadism
 dentelure
 duftry
 dealable
-dorsoventrad
 derider
 dorsimesal
 disblame
@@ -15622,6 +15621,7 @@ declasse
 dugong
 dietist
 doormaker
+dorsoventrad
 digitorium
 doormen
 demonetised
