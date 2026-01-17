@@ -12699,6 +12699,7 @@ chudic
 charnels
 chuet
 chueta
+consubstantiality
 compellation
 chufas
 cinenchymatous
@@ -29336,7 +29337,6 @@ cryptolith
 cryptology
 conspiracies
 callas
-consubstantiality
 cryptomere
 cryptomerous
 chrysogen
