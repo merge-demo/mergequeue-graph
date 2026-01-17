@@ -6323,6 +6323,7 @@ benzamine
 badinerie
 biblic
 billbroking
+burbly
 barrer
 butment
 brike
@@ -17491,7 +17492,6 @@ burblers
 blueweeds
 backstopping
 battlefields
-burbly
 bonnie
 bantling
 bedip
