@@ -2831,6 +2831,7 @@ blithefully
 buffaloback
 bejazz
 bedarken
+biplanar
 bruta
 beisa
 baroswitch
@@ -16988,7 +16989,6 @@ blandishers
 behears
 bulby
 bulbier
-biplanar
 bacteriotoxin
 bulbiest
 buettneria
