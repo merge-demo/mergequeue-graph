@@ -1796,7 +1796,6 @@ banterer
 boswellized
 bowmen
 balloonet
-bedsprings
 bambute
 babylonism
 blackheart
@@ -3808,6 +3807,7 @@ bondoc
 baboon
 bazzite
 browsing
+bedsprings
 bescorched
 balancer
 bauckie
