@@ -6896,6 +6896,7 @@ goa
 gooders
 goodheartedness
 goody
+gercrow
 giganticide
 geomalism
 glowers
@@ -7079,7 +7080,6 @@ garnetberry
 grumpily
 ginnery
 gentiledom
-gercrow
 grottos
 galletas
 grassmen
