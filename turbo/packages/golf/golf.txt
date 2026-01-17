@@ -4670,6 +4670,7 @@ granges
 gooder
 gourmandise
 gibbsite
+gormands
 gauping
 glazen
 galavanting
@@ -5322,7 +5323,6 @@ gonopod
 generalisation
 gyrencephalate
 goiters
-gormands
 ganoses
 gipsyism
 geotechnics
