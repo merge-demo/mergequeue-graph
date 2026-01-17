@@ -15860,7 +15860,6 @@ antipodal
 antipode
 antimensia
 anchorwise
-antipodic
 autocoprophagous
 argufied
 antipoetical
@@ -20590,6 +20589,7 @@ afterhand
 acidulates
 arthrocleisis
 abear
+antipodic
 atomizer
 arthrodymic
 analytic
