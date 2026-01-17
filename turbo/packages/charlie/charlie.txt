@@ -5355,7 +5355,6 @@ cynodont
 cassowary
 cassowaries
 carotidean
-cassumunar
 cellarers
 cast
 castable
@@ -6860,6 +6859,7 @@ cellulin
 contangoes
 cuddly
 conscientiousness
+cassumunar
 curares
 cytologist
 cellulofibrous
