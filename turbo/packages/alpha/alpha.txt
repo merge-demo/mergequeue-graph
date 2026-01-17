@@ -731,7 +731,6 @@ anglicized
 aptote
 animine
 antivaccination
-abrade
 angaralite
 accourt
 aphid
@@ -5068,6 +5067,7 @@ amphidiploidy
 attainting
 aerotherapy
 ash
+abrade
 arridge
 abthanage
 agronomic
