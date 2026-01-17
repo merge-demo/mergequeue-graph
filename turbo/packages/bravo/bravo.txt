@@ -2421,7 +2421,6 @@ bilaterality
 betowel
 bowditch
 blinkering
-bromoiodide
 besmirch
 bodyguards
 birefringent
@@ -17228,6 +17227,7 @@ bierstube
 boucles
 bebannered
 bullweed
+bromoiodide
 brulyie
 bromindigo
 bullwhipping
