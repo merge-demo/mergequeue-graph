@@ -2498,7 +2498,6 @@ emesidae
 enserfs
 entoiled
 eternity
-electrolytically
 exuviates
 ephemeromorph
 ensete
@@ -13622,6 +13621,7 @@ esopgi
 englishwomen
 expurgates
 empedoclean
+electrolytically
 effossion
 elinvar
 epiphytically
