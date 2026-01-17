@@ -1405,6 +1405,7 @@ apellous
 aproned
 accessary
 accessaries
+arthrology
 anesthesiometer
 accessarily
 autarkic
@@ -22723,7 +22724,6 @@ athletes
 areologically
 achenodium
 agkistrodon
-arthrology
 antioptimistically
 archy
 agribusinesses
