@@ -5440,7 +5440,6 @@ bilch
 baviere
 balai
 bandying
-bandura
 beheaded
 beheader
 beheira
@@ -12142,6 +12141,7 @@ baedekers
 bonesets
 baalshem
 burbots
+bandura
 burly
 bedamp
 benzofluorene
