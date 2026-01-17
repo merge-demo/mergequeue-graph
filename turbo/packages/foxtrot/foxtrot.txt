@@ -880,6 +880,7 @@ foreguts
 finked
 flowage
 funli
+funneling
 flakes
 flavicant
 forkman
@@ -4893,7 +4894,6 @@ fourteens
 flamen
 flamandization
 firefanged
-funneling
 firmware
 fulcraceous
 flagarie
