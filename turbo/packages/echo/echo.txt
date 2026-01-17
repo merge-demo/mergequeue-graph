@@ -1547,7 +1547,6 @@ envigor
 exogeny
 enterate
 exaggeratedness
-euosmite
 enterokinetic
 eglamore
 eglandular
@@ -6371,6 +6370,7 @@ eluvivia
 elapid
 engastrimyth
 engrained
+euosmite
 evaluator
 electrocontractility
 enanguish
