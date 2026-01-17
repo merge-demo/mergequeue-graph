@@ -17071,7 +17071,6 @@ aeolicism
 agranulocyte
 auk
 apodal
-arvel
 aphorism
 apodedeipna
 acrotarsium
@@ -19054,6 +19053,7 @@ archipelagoes
 availingly
 athetizing
 ammocoete
+arvel
 archoverseer
 archpall
 anana
