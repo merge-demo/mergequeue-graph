@@ -9381,7 +9381,6 @@ bimah
 brachiotomy
 bituminise
 bromopikrin
-britannia
 birdglue
 bilgiest
 bisulfid
@@ -15739,6 +15738,7 @@ bolder
 blithesomeness
 brocardic
 bardee
+britannia
 brocatelle
 beowulf
 brocatello
