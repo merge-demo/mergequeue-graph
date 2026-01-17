@@ -3763,7 +3763,6 @@ batture
 bielded
 barasingha
 blackening
-basialveolar
 begger
 bobflies
 battute
@@ -14613,6 +14612,7 @@ brank
 brankie
 blurry
 branks
+basialveolar
 bronchi
 brankursine
 branles
