@@ -12527,6 +12527,7 @@ bilberries
 boneshaker
 bridesman
 bidets
+bloating
 backbeat
 benetnasch
 befavor
@@ -18314,7 +18315,6 @@ buttony
 bluenosed
 brink
 buttoning
-bloating
 banked
 beths
 bioelectricities
