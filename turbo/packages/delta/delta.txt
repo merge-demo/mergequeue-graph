@@ -2676,7 +2676,6 @@ decompress
 decompresses
 detectaphone
 demiplacate
-dogies
 dcollet
 dhurnas
 dishonourer
@@ -11537,6 +11536,7 @@ downton
 dunker
 dovekie
 dearsenicator
+dogies
 discommodities
 disubstituted
 discandy
