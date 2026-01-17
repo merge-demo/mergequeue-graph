@@ -646,7 +646,6 @@ derbukka
 dioptoscopy
 decoyman
 dextroversion
-dinoflagellata
 deploitation
 damnify
 dearth
@@ -10247,6 +10246,7 @@ dioctophyme
 deave
 distritbuted
 defaulting
+dinoflagellata
 diodontidae
 dioecy
 dislodged
