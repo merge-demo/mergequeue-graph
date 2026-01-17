@@ -10211,6 +10211,7 @@ coulis
 chias
 cheesecakes
 chiasma
+clumplike
 cotesian
 chloasmata
 camacan
@@ -14219,7 +14220,6 @@ chattation
 circumfluous
 cardiological
 ceratobatrachinae
-clumplike
 crepehanger
 ccesser
 circumforaneous
