@@ -2127,7 +2127,6 @@ fellatrice
 fluoresage
 frigate
 fletch
-faujdar
 fuchsite
 fosterling
 freelovism
@@ -3445,6 +3444,7 @@ foreseason
 foreconsider
 fallback
 fighteress
+faujdar
 fatigation
 fighting
 formboard
