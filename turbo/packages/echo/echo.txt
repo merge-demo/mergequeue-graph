@@ -9496,6 +9496,7 @@ esculents
 exorcize
 ethnog
 esculin
+extratropical
 expansively
 essences
 eugenesis
@@ -13822,7 +13823,6 @@ ethnography
 elating
 extracarpal
 extrastapedial
-extratropical
 epicoelous
 excepted
 edeology
