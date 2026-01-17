@@ -11083,6 +11083,7 @@ abatic
 achakzai
 amylolytic
 ampangabeite
+abditive
 archsin
 anchisaurus
 accessor
@@ -21377,7 +21378,6 @@ amphoras
 azobacter
 acroter
 asyndeton
-abditive
 asyndetons
 artesonado
 acacin
