@@ -5153,6 +5153,7 @@ careys
 caseharden
 capsaicin
 callosity
+composite
 casehardening
 candida
 casey
@@ -20853,7 +20854,6 @@ canst
 composer
 composita
 chromous
-composite
 composited
 compositely
 composites
