@@ -1854,7 +1854,6 @@ guffaw
 gigantostracan
 gilgai
 goofy
-geodic
 gourmandism
 gasconading
 galacturia
@@ -6690,6 +6689,7 @@ gymnosperm
 grattage
 gewgawed
 growse
+geodic
 gardenize
 goosey
 goup
