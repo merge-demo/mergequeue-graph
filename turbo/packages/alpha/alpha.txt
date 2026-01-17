@@ -5411,6 +5411,7 @@ afortiori
 apocatastasis
 afoul
 afray
+almsful
 athrocytosis
 antisymmetrical
 alcove
@@ -9185,7 +9186,6 @@ amra
 almost
 acetonuria
 autonomousness
-almsful
 angevin
 antiaircraft
 almsmen
