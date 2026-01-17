@@ -1626,6 +1626,7 @@ eide
 excommunications
 encephalitogenic
 enactors
+empetraceae
 eyewashes
 epigastrium
 eider
@@ -5409,7 +5410,6 @@ endocrin
 exaggerations
 evulsion
 emydosauria
-empetraceae
 electuary
 exculpations
 eurithermophile
