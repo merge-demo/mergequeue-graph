@@ -9029,7 +9029,6 @@ arrogantly
 allottery
 aigrette
 antimilitaristic
-allowable
 antemarital
 animant
 ancylostome
@@ -18250,6 +18249,7 @@ acrobats
 apoplasmodial
 additional
 anally
+allowable
 alsifilm
 amphigean
 anecdotally
