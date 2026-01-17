@@ -8554,6 +8554,7 @@ eskimauan
 extraparenchymal
 equiaxed
 edificable
+electrocauteries
 equate
 eburnification
 enharmonic
@@ -13028,7 +13029,6 @@ existentially
 esophagectomy
 ergotic
 estafette
-electrocauteries
 ethos
 elites
 engrapple
