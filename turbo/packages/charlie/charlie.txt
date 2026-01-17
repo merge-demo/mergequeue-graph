@@ -10060,7 +10060,6 @@ cherusci
 chervonei
 conundrumize
 chervontsi
-chesapeake
 caboche
 cumidin
 complier
@@ -28293,6 +28292,7 @@ curtnesses
 cratchins
 crate
 crateman
+chesapeake
 clitic
 cratemen
 criss
