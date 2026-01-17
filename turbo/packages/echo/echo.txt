@@ -1981,7 +1981,6 @@ eburine
 epilate
 ektexine
 elabor
-episternite
 evictees
 emulsic
 equisonant
@@ -13243,6 +13242,7 @@ envine
 edacity
 endocranium
 ephebeum
+episternite
 envisioned
 explicably
 expensive
