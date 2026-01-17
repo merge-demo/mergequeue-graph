@@ -1462,6 +1462,7 @@ fairtime
 fantasie
 fractureproof
 filago
+frameable
 fireside
 faubourgs
 focussing
@@ -9436,7 +9437,6 @@ featish
 farming
 felid
 femininism
-frameable
 frequenting
 fraudfully
 fyces
