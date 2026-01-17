@@ -6335,7 +6335,6 @@ cryingly
 causa
 causae
 cycles
-cabrie
 calycular
 causal
 candystick
@@ -29878,6 +29877,7 @@ capiatur
 curriculums
 crossbow
 crossbows
+cabrie
 culgee
 cladoselache
 crossbreds
