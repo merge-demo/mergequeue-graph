@@ -3010,7 +3010,6 @@ ashrafi
 aphasias
 antireligious
 actinocrinite
-actinodielectric
 actinodromous
 actinoelectrically
 antigenic
@@ -15603,6 +15602,7 @@ alopeke
 actus
 avowry
 appaloosa
+actinodielectric
 accessory
 antinegroism
 antinephritic
