@@ -3445,7 +3445,6 @@ fraternisation
 fecundity
 fleeches
 fingerable
-frostfishes
 foreseason
 foreconsider
 fallback
@@ -5699,6 +5698,7 @@ fungous
 fuzzball
 frontlessly
 furnage
+frostfishes
 frequentation
 fractuosity
 fels
