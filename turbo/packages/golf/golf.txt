@@ -6216,6 +6216,7 @@ guestimate
 gavotting
 galloway
 glue
+gatehouse
 glucosidase
 gonne
 greaves
@@ -10095,7 +10096,6 @@ garrulus
 ghostwrote
 galactodensimeter
 grammarian
-gatehouse
 gekkonoid
 gonfaloniership
 gasoscope
