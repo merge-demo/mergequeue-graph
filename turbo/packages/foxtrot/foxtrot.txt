@@ -70,7 +70,6 @@ faceharden
 flagships
 flecken
 facellite
-felonious
 furthers
 flysch
 fordeal
@@ -3626,6 +3625,7 @@ filigrane
 furlana
 frangula
 fannier
+felonious
 foregoneness
 fanes
 frayn
