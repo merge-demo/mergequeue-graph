@@ -8549,6 +8549,7 @@ chancing
 chancito
 crapes
 chanco
+comminative
 clearing
 crosstree
 cohesibility
@@ -20139,7 +20140,6 @@ centrally
 conceited
 congealable
 canewise
-comminative
 cloddish
 comminator
 commingled
