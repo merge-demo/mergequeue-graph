@@ -10158,7 +10158,6 @@ chevrolet
 chevrolets
 chlorodized
 chevron
-chiropatagium
 charioteer
 cronied
 chevronwise
@@ -18439,6 +18438,7 @@ calycoideous
 cohabitate
 cohabitation
 cohabited
+chiropatagium
 collational
 coharmonious
 coharmonize
