@@ -470,6 +470,7 @@ genny
 gyms
 gemmation
 gerontogeous
+glaucophanite
 gonopoietic
 gerberas
 gastroanastomosis
@@ -5115,7 +5116,6 @@ gutturine
 gentlehearted
 goldylocks
 gyps
-glaucophanite
 goldcrest
 gimpiest
 gundogs
