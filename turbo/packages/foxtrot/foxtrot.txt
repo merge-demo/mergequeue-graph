@@ -3208,6 +3208,7 @@ fictionalize
 fourcher
 foots
 friers
+feterita
 frostwort
 flexionless
 fuchsone
@@ -9853,7 +9854,6 @@ forepointer
 flapdragon
 feridgi
 forefelt
-feterita
 fluviomarine
 fosh
 foggy
