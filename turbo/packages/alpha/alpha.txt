@@ -3563,6 +3563,7 @@ arpent
 ajivas
 adelantado
 adelante
+alecithic
 asterella
 adelarthra
 alectryon
@@ -4108,7 +4109,6 @@ appendectomies
 adnascent
 adnate
 absolvent
-alecithic
 antimonopoly
 adjudicates
 avell
