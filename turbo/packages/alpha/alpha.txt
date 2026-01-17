@@ -5782,6 +5782,7 @@ agates
 autoturning
 antenave
 appal
+abscissae
 aquatinter
 adducent
 amberjack
@@ -14818,7 +14819,6 @@ aminoplastic
 avowers
 antichloristic
 antichlorotic
-abscissae
 antievangelical
 attinge
 autoplasties

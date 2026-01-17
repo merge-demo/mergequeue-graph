@@ -6273,6 +6273,7 @@ gasogenes
 gobiid
 gobylike
 granadilla
+goustrous
 gnashed
 gobinism
 galactolipin
@@ -8740,7 +8741,6 @@ gambit
 glucosuric
 games
 glom
-goustrous
 galeus
 gobbin
 germling
