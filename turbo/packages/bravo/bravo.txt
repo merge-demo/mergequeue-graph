@@ -8402,6 +8402,7 @@ bubs
 burbankian
 bannerfish
 believability
+burgle
 bijwoner
 beanie
 brethrenism
@@ -13392,7 +13393,6 @@ bisulc
 beothuk
 boltant
 bothway
-burgle
 bunched
 bediapers
 botocudo
