@@ -13952,7 +13952,6 @@ depolymerization
 distn
 dystocia
 dourade
-dogwatch
 diaetetae
 det
 deval
@@ -16336,6 +16335,7 @@ dismount
 divergently
 discinoid
 downsizing
+dogwatch
 defensible
 discontinuable
 dichord
