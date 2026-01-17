@@ -1669,7 +1669,6 @@ gamed
 gommier
 garlanded
 gibson
-gros
 gastroenteritis
 glycerolysis
 glossiest
@@ -6278,6 +6277,7 @@ gyroidal
 grundyist
 galop
 genion
+gros
 governessy
 gid
 gobbles
