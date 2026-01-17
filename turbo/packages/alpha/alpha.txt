@@ -11084,7 +11084,6 @@ ariki
 amovable
 acronarcotic
 abatic
-amove
 achakzai
 amylolytic
 ampangabeite
@@ -19254,6 +19253,7 @@ awabi
 adventurish
 arduousness
 apathia
+amove
 astrocaryum
 ardurous
 animated
