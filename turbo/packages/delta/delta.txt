@@ -3718,6 +3718,7 @@ delegated
 dehkan
 durmasts
 decimate
+designate
 dehonestation
 disoccupied
 dehorn
@@ -14841,7 +14842,6 @@ doorbells
 dharmashastra
 doctrinarity
 dotant
-designate
 doctrinate
 doctrines
 delinition
