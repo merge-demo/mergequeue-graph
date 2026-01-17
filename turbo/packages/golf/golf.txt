@@ -2489,6 +2489,7 @@ golds
 gotch
 glunches
 gastroalbuminorrhea
+glibnesses
 gerontoxon
 gubbin
 gigacycle
@@ -5258,7 +5259,6 @@ guarea
 gorgelet
 glister
 grenier
-glibnesses
 glyceria
 grangerite
 genialize
