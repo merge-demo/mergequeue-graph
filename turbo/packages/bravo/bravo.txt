@@ -123,6 +123,7 @@ biological
 balsamaceous
 boarder
 boomer
+bentinck
 biriani
 berengarianism
 babirusas
@@ -6876,7 +6877,6 @@ bisannual
 bluegills
 birlers
 beshake
-bentinck
 bendel
 bloodwite
 beryllosis
