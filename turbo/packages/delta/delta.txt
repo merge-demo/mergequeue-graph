@@ -2658,7 +2658,6 @@ debrief
 decomposers
 daddocky
 decomposure
-digne
 dogwatches
 decompoundable
 diffractional
@@ -7230,6 +7229,7 @@ desulfurize
 disprizing
 detenues
 dephlegmator
+digne
 deter
 deterged
 desertlike
