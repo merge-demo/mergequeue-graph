@@ -2677,6 +2677,7 @@ gemarist
 gigantocyte
 genioglossal
 gastroenterologists
+groupthink
 ganodont
 geoteuthis
 genioglossus
@@ -6915,7 +6916,6 @@ geochemically
 goodishness
 grallatores
 gastight
-groupthink
 gynecomorphous
 glyoxyl
 goodlier
