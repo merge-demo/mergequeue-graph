@@ -2037,7 +2037,6 @@ beamage
 bronzer
 baptanodon
 benefitted
-banjorine
 banjuke
 bv
 beflecking
@@ -5419,6 +5418,7 @@ behaviored
 betravel
 behaviorists
 behavioural
+banjorine
 brachioradial
 biweeklies
 brisling
