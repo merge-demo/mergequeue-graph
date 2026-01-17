@@ -6362,7 +6362,6 @@ grouty
 geotectology
 gunarchy
 gossaniferous
-gog
 gamin
 graymill
 gugal
@@ -10094,6 +10093,7 @@ ghostwrote
 galactodensimeter
 grammarian
 gekkonoid
+gog
 gonfaloniership
 gasoscope
 goalage
