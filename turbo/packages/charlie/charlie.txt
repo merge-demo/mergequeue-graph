@@ -16374,6 +16374,7 @@ coverers
 cantonese
 cannonballing
 carnosity
+contrade
 chlamydozoa
 complotment
 cosmetician
@@ -25306,7 +25307,6 @@ coidentity
 chaplainship
 cornbole
 cornbottle
-contrade
 clistocarp
 commemorating
 causeways
