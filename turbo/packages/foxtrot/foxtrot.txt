@@ -1333,7 +1333,6 @@ fallowness
 frictionally
 fineleaf
 fyttes
-famose
 flyable
 factionally
 frantically
@@ -11542,6 +11541,7 @@ fictionize
 fards
 famulary
 fledgy
+famose
 folio
 fretfully
 ferociousness
