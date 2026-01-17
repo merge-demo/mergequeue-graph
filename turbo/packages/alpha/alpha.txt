@@ -3653,7 +3653,6 @@ andorra
 adenopharyngeal
 adenophlegmon
 appulsively
-antestature
 adenophora
 abscissas
 avianizing
@@ -10775,6 +10774,7 @@ anteinitial
 amities
 amitotic
 azotizes
+antestature
 anormality
 acrolith
 amitrole
