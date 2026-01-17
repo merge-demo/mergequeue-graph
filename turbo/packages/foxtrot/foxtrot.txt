@@ -3468,7 +3468,6 @@ forjaskit
 forpined
 finnic
 fluible
-fluctuated
 fended
 fustanella
 federary
@@ -7727,6 +7726,7 @@ flabelliform
 forsaker
 foremasts
 foremean
+fluctuated
 fasciately
 followingly
 fenouillette
