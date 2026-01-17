@@ -9624,6 +9624,7 @@ especialness
 esperantido
 extrapatriarchal
 enclosing
+eocarboniferous
 emissaries
 epicycles
 espy
@@ -10573,7 +10574,6 @@ euphroes
 enteria
 entosternal
 escallops
-eocarboniferous
 elixation
 earthiness
 euchrome
