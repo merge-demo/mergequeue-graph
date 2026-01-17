@@ -7669,7 +7669,6 @@ dioecism
 daddock
 depredable
 deviation
-dementias
 deviationism
 diting
 disunified
@@ -10815,6 +10814,7 @@ drier
 debunkment
 diletant
 dashwheel
+dementias
 diadematoida
 desmidiaceous
 digit
