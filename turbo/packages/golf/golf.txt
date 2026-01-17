@@ -4325,7 +4325,6 @@ gozill
 gemstone
 galaxies
 gliriformia
-gravestead
 glossata
 gravewards
 globules
@@ -7039,6 +7038,7 @@ gallops
 guardedness
 gooseboy
 goschen
+gravestead
 gliffing
 galenic
 glassworkers
