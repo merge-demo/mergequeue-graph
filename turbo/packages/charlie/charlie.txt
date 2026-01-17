@@ -17675,7 +17675,6 @@ conquer
 charmeuse
 cockaigne
 cunjer
-carboloy
 counternoise
 cockpit
 couched
@@ -21337,6 +21336,7 @@ conchostraca
 corotated
 computed
 conchs
+carboloy
 conchubar
 cryptonymic
 coplots
