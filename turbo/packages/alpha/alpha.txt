@@ -21815,7 +21815,6 @@ alloeotic
 asses
 appetibility
 auguries
-aenigma
 anionics
 antimethod
 antifertilizer
@@ -22440,6 +22439,7 @@ astrometeorology
 aforenamed
 apprend
 asterina
+aenigma
 allegorization
 astrometry
 agric
