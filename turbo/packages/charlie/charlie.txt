@@ -12593,7 +12593,6 @@ crom
 citolers
 chronometers
 countercultures
-chronometric
 chronometrically
 chronon
 choppily
@@ -12980,6 +12979,7 @@ cyanobenzene
 crepitating
 clothify
 clough
+chronometric
 curpel
 cyanochroia
 cyanocobalamin
