@@ -9263,7 +9263,6 @@ bombycinous
 brrr
 bring
 bipyridyl
-birgand
 bougainvillia
 biangulated
 broadsides
@@ -11971,6 +11970,7 @@ brinded
 bogyism
 bogyman
 broncobusters
+birgand
 bandagers
 birmingham
 bbls
