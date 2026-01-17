@@ -5549,7 +5549,6 @@ blockline
 biosome
 breastfeeding
 bejewelling
-backstamp
 bejezebel
 bessera
 butcherdom
@@ -6690,6 +6689,7 @@ berkeleianism
 berkelium
 berkovets
 berkovtsi
+backstamp
 bedull
 bayesian
 browsability
