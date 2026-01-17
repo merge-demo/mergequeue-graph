@@ -1782,7 +1782,6 @@ gynandrism
 glossolaly
 gutterblood
 gelatinotype
-ghyll
 glutinate
 gestalten
 granodioritic
@@ -4471,6 +4470,7 @@ gorgio
 groovy
 gays
 grubbers
+ghyll
 galactemia
 gawcey
 gorry
