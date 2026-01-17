@@ -7136,7 +7136,6 @@ gorblin
 glucosin
 gorcocks
 gypsylike
-gladiatorship
 grasscut
 guayaba
 greenfly
@@ -8569,6 +8568,7 @@ glutton
 gravida
 gynecomasty
 garcons
+gladiatorship
 ganoidal
 gitana
 grandada
