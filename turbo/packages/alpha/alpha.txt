@@ -1650,6 +1650,7 @@ accrued
 accruement
 accruer
 anatta
+animalian
 adiabatic
 accrues
 accruing
@@ -6487,7 +6488,6 @@ ahir
 alternant
 autunian
 affiancing
-animalian
 anthemed
 atrienses
 asphalted

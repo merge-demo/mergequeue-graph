@@ -27767,7 +27767,6 @@ craw
 coxae
 coeloscope
 coxalgy
-crepusculum
 coxalgias
 cholents
 curatorship
@@ -31091,6 +31090,7 @@ countershading
 chawed
 cun
 cunarder
+crepusculum
 capeadors
 cunctative
 cunctator
