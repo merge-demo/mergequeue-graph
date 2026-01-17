@@ -2272,6 +2272,7 @@ glamor
 genecologic
 glimpses
 granulocytopoiesis
+gunkholed
 geitonogamy
 gonostyle
 geomoroi
@@ -5744,7 +5745,6 @@ grugous
 gloomy
 grapsoid
 gymnoplast
-gunkholed
 gossypose
 gonotheca
 gravemaker
