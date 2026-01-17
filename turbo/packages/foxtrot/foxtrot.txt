@@ -2381,7 +2381,6 @@ frondage
 feriation
 falsedad
 flinting
-flexors
 fricandeau
 folksiness
 foredating
@@ -5889,6 +5888,7 @@ factorizing
 frats
 forlornly
 fructiferous
+flexors
 fibroblastic
 flannelflower
 fineable
