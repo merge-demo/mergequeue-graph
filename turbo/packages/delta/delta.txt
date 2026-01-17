@@ -6631,7 +6631,6 @@ defatigated
 duendes
 dustband
 dipped
-dictyotaceae
 desertfully
 deserticolous
 duction
@@ -10505,6 +10504,7 @@ danging
 discorder
 derangeable
 delaminate
+dictyotaceae
 diphaser
 divinize
 dihydrocupreine
