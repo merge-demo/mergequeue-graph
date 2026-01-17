@@ -6952,7 +6952,6 @@ gruppetto
 gamut
 gilgie
 galoshed
-gorgonise
 gigglers
 grinds
 glyconeogenesis
@@ -10737,6 +10736,7 @@ gavage
 galloot
 garnish
 gournard
+gorgonise
 gagers
 groggy
 gustiest
