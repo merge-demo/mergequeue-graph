@@ -5950,7 +5950,6 @@ echinoderidae
 effulges
 expeditated
 ejectors
-epheboi
 englute
 enjail
 escaped
@@ -13216,6 +13215,7 @@ expiscation
 enrheum
 ekphorias
 enzooty
+epheboi
 explainable
 expropriated
 explainableness
