@@ -4416,7 +4416,6 @@ encarnalizing
 encarpa
 encarpus
 endrin
-enworthy
 entirely
 eudemonistically
 ectorganism
@@ -13916,6 +13915,7 @@ elations
 eledoisin
 extincting
 ephymnium
+enworthy
 engineer
 etheria
 esthesio
