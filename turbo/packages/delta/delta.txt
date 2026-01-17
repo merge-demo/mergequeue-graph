@@ -2384,7 +2384,6 @@ dubitante
 disownment
 diplontic
 dismantlement
-disequalizer
 dayakker
 deciduity
 daver
@@ -7861,6 +7860,7 @@ diffluence
 distemonous
 dewaters
 dermobranchiata
+disequalizer
 demast
 drofland
 disard
