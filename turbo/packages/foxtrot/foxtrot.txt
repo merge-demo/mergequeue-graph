@@ -89,7 +89,6 @@ facetely
 falsest
 fondue
 furfuroid
-fingerprints
 facetiae
 foxiest
 facilitations
@@ -4595,6 +4594,7 @@ foolfish
 fitters
 foxery
 fifo
+fingerprints
 formazyl
 francophilism
 fungistatic
