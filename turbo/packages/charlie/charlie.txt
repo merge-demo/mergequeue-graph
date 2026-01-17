@@ -8882,7 +8882,6 @@ carbolised
 candylike
 cunni
 cryptanalyst
-cremains
 cochylis
 charadrius
 charango
@@ -11920,6 +11919,7 @@ cerites
 cohanim
 cruces
 cosmochemistry
+cremains
 choreoid
 crocidolite
 chorepiscopal
