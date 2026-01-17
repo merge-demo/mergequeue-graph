@@ -4613,6 +4613,7 @@ gammarid
 gentility
 gunlocks
 gaudy
+genuine
 guerinet
 glossitic
 guttersnipish
@@ -8096,7 +8097,6 @@ gastrin
 gauzes
 gapeworm
 graduality
-genuine
 gulch
 grayhound
 gastrochaenidae
