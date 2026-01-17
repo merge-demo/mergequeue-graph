@@ -146,7 +146,6 @@ gaelic
 gynostegia
 gs
 graveman
-gallicole
 guy
 gentisin
 gratelike
@@ -2700,6 +2699,7 @@ gilbertese
 genyplasty
 glashan
 globularness
+gallicole
 glandule
 gravitons
 gamey
