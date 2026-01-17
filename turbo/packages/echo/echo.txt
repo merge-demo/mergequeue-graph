@@ -776,7 +776,6 @@ eolotropic
 emotionalization
 electrobus
 encaged
-exadverso
 endosulfan
 earthmaking
 exodus
@@ -3634,6 +3633,7 @@ epigrammatist
 endura
 euploids
 eruptiveness
+exadverso
 exscinded
 eskers
 endocrinopathic
