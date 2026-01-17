@@ -3979,6 +3979,7 @@ forechoose
 furcula
 forestalled
 flammant
+ferronickel
 friese
 flattish
 forfeited
@@ -10230,7 +10231,6 @@ fennecs
 flamingoes
 fohat
 foundationed
-ferronickel
 flavedos
 froideur
 froise
