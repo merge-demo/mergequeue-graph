@@ -8417,7 +8417,6 @@ abiegh
 alkalinized
 arite
 antilog
-avogram
 anticausotic
 aschaffite
 adulatory
@@ -14291,6 +14290,7 @@ amugis
 anthemia
 archebiosis
 archflatterer
+avogram
 anthemion
 anthemis
 aecidiomycetes
