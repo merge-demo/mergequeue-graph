@@ -6021,6 +6021,7 @@ escroll
 eolith
 exhusband
 elastin
+elasmobranchiate
 eddaic
 enlargeable
 eigenvectors
@@ -12772,7 +12773,6 @@ erwinia
 employable
 exorcizement
 encodings
-elasmobranchiate
 enmask
 exorcizer
 epiceratodus
