@@ -299,7 +299,6 @@ cacimbos
 caciques
 cosmolined
 countenances
-construers
 customable
 cornflakes
 caciquism
@@ -4461,6 +4460,7 @@ carissa
 campshedding
 conelrads
 cucullated
+construers
 caritative
 carity
 caritive
