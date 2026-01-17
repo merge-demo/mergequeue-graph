@@ -5653,6 +5653,7 @@ benjoin
 bloodstones
 besped
 beldams
+bronchotome
 bacchar
 bilify
 biobibliographies
@@ -16040,7 +16041,6 @@ bysacki
 bestrewing
 bowess
 bronchotyphus
-bronchotome
 belucki
 bronchotracheal
 bozos
