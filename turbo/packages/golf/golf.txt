@@ -6622,7 +6622,6 @@ glassine
 gaed
 goncalo
 gyrectomy
-geminating
 girlery
 globulysis
 glycosuria
@@ -8904,6 +8903,7 @@ gambas
 glauconitic
 ghostified
 griquaite
+geminating
 grouchiness
 glomerella
 governail
