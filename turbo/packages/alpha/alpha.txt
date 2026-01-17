@@ -11729,7 +11729,6 @@ autohemotherapy
 anaglypta
 aldim
 azomethine
-armorbearer
 appetizement
 acacatechin
 ablator
@@ -22379,6 +22378,7 @@ autoscopy
 accreting
 astrodome
 astrogated
+armorbearer
 apikorsim
 astrogating
 agreeing
