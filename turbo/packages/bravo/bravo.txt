@@ -14881,7 +14881,6 @@ berms
 beefs
 bingies
 beanpoles
-bloodthirstier
 breadwinning
 breakability
 bilith
@@ -15342,6 +15341,7 @@ bardolph
 bursa
 batrachidae
 bridgetin
+bloodthirstier
 brailled
 benzidine
 beefily
