@@ -12061,7 +12061,6 @@ extrasensory
 enfolder
 exercent
 excrescency
-eccentric
 eris
 eximiously
 enfoldment
@@ -13640,6 +13639,7 @@ extensibility
 euphemization
 epilemma
 extensions
+eccentric
 eggcup
 environmentalist
 expansometer
