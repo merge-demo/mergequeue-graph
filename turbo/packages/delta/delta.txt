@@ -16472,6 +16472,7 @@ dirhinous
 disjointness
 dishonourable
 debag
+dropwise
 dasyprocta
 domesticities
 diagramming
@@ -17415,7 +17416,6 @@ decream
 dropsies
 distomatidae
 degustation
-dropwise
 despairer
 dropwort
 damlike
