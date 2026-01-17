@@ -8087,7 +8087,6 @@ anjan
 algebraist
 algedo
 alfilerillo
-antitropal
 arrowheads
 algerian
 algerienne
@@ -23464,6 +23463,7 @@ anguishous
 autoepilation
 auftakt
 antidictionary
+antitropal
 apomict
 augend
 antiantidote

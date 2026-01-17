@@ -7042,6 +7042,7 @@ foodful
 fulfilled
 fribby
 fatalities
+franger
 foreknow
 flowk
 fosie
@@ -7834,7 +7835,6 @@ foreshots
 furfuraldehyde
 facings
 flenses
-franger
 farnesols
 floppers
 firestorm
