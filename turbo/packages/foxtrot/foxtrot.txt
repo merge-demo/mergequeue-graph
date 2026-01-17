@@ -5295,6 +5295,7 @@ fifteen
 fumarole
 feasts
 filial
+furloughed
 forcepslike
 frutex
 flimflam
@@ -8464,7 +8465,6 @@ forked
 formica
 foolishly
 fasciculate
-furloughed
 fitty
 formicate
 filix
