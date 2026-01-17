@@ -111,7 +111,6 @@ equisetaceae
 engobe
 egotistically
 eartab
-exodermal
 eparch
 euphonised
 echinoderma
@@ -2299,6 +2298,7 @@ elfkin
 exradius
 electroacoustics
 exundation
+exodermal
 electroanesthesia
 electroballistics
 endemism
