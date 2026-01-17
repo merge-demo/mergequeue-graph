@@ -7434,6 +7434,7 @@ boatings
 betread
 barnier
 bathybius
+brontogram
 bobcoat
 braveries
 betrothing
@@ -12022,7 +12023,6 @@ bunkhouse
 biogens
 bohora
 benny
-brontogram
 bebop
 bombarded
 bohunk
