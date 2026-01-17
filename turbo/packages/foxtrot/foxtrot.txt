@@ -5533,6 +5533,7 @@ fratch
 flybys
 forfault
 floodlet
+flinter
 fiendlike
 folkvangr
 flockowner
@@ -11177,7 +11178,6 @@ forcipal
 fireplugs
 frenzelite
 forepaling
-flinter
 flatboat
 frontiersman
 fusobacteria
