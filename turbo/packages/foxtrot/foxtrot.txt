@@ -1313,7 +1313,6 @@ focimetry
 foxtails
 flutework
 fructivorous
-fatbird
 fatefully
 fanaticise
 findability
@@ -2162,6 +2161,7 @@ faery
 fondants
 flooey
 frontpiece
+fatbird
 fructiferously
 ferrous
 felony
