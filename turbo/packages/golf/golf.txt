@@ -7869,7 +7869,6 @@ groom
 grammarless
 grammaticaster
 gearman
-goff
 garlandlike
 gabbais
 gurdle
@@ -8985,6 +8984,7 @@ grievous
 gearbox
 germinating
 galingale
+goff
 guaranteed
 gradgrindish
 glander

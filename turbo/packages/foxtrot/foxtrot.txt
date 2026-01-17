@@ -5769,7 +5769,6 @@ flamingly
 flittermouse
 familiarization
 fellowship
-fathmur
 flitters
 frequents
 flankwise
@@ -7420,6 +7419,7 @@ freemen
 flagginess
 forcipation
 flutelike
+fathmur
 forcipressure
 foy
 fossick
