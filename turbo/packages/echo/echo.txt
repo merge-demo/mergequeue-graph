@@ -759,7 +759,6 @@ ecphonema
 emotes
 echinal
 euomphalid
-egger
 ecrase
 enclitic
 escort
@@ -1410,6 +1409,7 @@ electromassage
 effluviviums
 efflux
 expressionlessly
+egger
 endoenteritis
 erythroclastic
 erythroscope
