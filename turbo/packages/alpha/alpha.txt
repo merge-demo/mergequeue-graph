@@ -13731,7 +13731,6 @@ anomodontia
 airplot
 anomoeomery
 anticommercially
-anomophyllous
 anaerobic
 anomouran
 anomphalous
@@ -15579,6 +15578,7 @@ antimoral
 antimoralism
 avale
 abogados
+anomophyllous
 armadillo
 ailurophile
 aquage
