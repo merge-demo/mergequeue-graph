@@ -6444,7 +6444,6 @@ cardinalist
 curarizes
 cavalier
 choregic
-cation
 contraorbitally
 clinandria
 cavalieri
@@ -10068,6 +10067,7 @@ chesapeake
 caboche
 cumidin
 complier
+cation
 cheselip
 coxocerite
 cyclogram
