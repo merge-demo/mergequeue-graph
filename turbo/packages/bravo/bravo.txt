@@ -9998,7 +9998,6 @@ bivalvian
 bivariant
 baddock
 bivascular
-bismuthyl
 binodous
 brahmic
 barrenness
@@ -13036,6 +13035,7 @@ blether
 bacilliculture
 borboridae
 baroneting
+bismuthyl
 beslow
 borborygmatic
 biggin
