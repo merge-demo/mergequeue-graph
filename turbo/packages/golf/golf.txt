@@ -3321,6 +3321,7 @@ goatsfoot
 gaetulian
 gomorrean
 gaging
+goasila
 gonydial
 glanditerous
 gahnite
@@ -7751,7 +7752,6 @@ galvanizations
 gnathism
 gonyocele
 gauby
-goasila
 gabeller
 golfer
 geogony

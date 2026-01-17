@@ -7060,6 +7060,7 @@ disallowed
 destines
 dz
 dollhood
+defensed
 diplacanthus
 democratically
 dermophyte
@@ -16579,7 +16580,6 @@ descensories
 dentical
 draggletailed
 deuteromycetes
-defensed
 deepsome
 dissembly
 draghound
