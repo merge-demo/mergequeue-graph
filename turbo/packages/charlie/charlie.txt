@@ -3096,6 +3096,7 @@ capability
 charks
 capable
 capableness
+connotational
 clayoquot
 challengingly
 cirque
@@ -7081,7 +7082,6 @@ centesimo
 caelus
 chicaned
 conciliated
-connotational
 centesm
 centetid
 cacology
