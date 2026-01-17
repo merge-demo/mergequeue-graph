@@ -10913,7 +10913,6 @@ blindfolded
 bismuth
 bassus
 budding
-butterbush
 blindfoldedness
 birdied
 bemoon
@@ -13943,6 +13942,7 @@ bacteriuria
 boxful
 bleed
 brussels
+butterbush
 bullring
 boxhauled
 brierberry
