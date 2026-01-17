@@ -19757,7 +19757,6 @@ arithmography
 azulejos
 aggressiveness
 arithmomancy
-arivaipa
 amphoral
 anhistous
 amortized
@@ -25196,6 +25195,7 @@ asprete
 ascupart
 abusiveness
 axonophora
+arivaipa
 artillerists
 alborada
 amentula
