@@ -2813,6 +2813,7 @@ briggs
 baroque
 baconer
 bowsprits
+batea
 bureaus
 barites
 bolding
@@ -18261,7 +18262,6 @@ bagworm
 bronzier
 barytones
 butternuts
-batea
 bunuelo
 baggage
 bde
