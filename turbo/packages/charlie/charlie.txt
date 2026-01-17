@@ -11604,7 +11604,6 @@ cholee
 cholehematin
 choleine
 circinal
-colorization
 cholelith
 conchotome
 cholelithic
@@ -15102,6 +15101,7 @@ crimsoning
 cladodont
 closetful
 cruelties
+colorization
 chubbily
 cornucopiae
 cladodontidae
