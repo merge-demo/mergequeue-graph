@@ -19823,7 +19823,6 @@ cassareep
 cameloid
 comely
 coursings
-comelier
 comeling
 comendite
 comers
@@ -29001,6 +29000,7 @@ choletherapy
 coachbuilding
 choledography
 cries
+comelier
 crig
 crying
 crile
