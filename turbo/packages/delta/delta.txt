@@ -5282,6 +5282,7 @@ decorators
 dreamers
 discomposing
 dentate
+dictery
 disrange
 dentatoangulate
 droud
@@ -18254,7 +18255,6 @@ dishonorable
 dumbfish
 doxologize
 djakarta
-dictery
 dipody
 diabolification
 darts
