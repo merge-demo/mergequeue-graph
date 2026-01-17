@@ -3519,7 +3519,6 @@ dagobas
 desmomyaria
 dufoil
 drapery
-drowsiest
 defrauds
 defrocked
 dubbed
@@ -5466,6 +5465,7 @@ disportive
 diaphragm
 dogtrot
 dudishness
+drowsiest
 dolichos
 digging
 darlingly
