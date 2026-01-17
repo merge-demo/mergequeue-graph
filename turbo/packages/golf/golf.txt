@@ -1478,6 +1478,7 @@ glumly
 gunmaker
 gymnarchus
 gluconate
+grazing
 galosh
 guacamole
 gastrulae
@@ -6518,7 +6519,6 @@ grasshopper
 gayest
 gorinesses
 gymnasium
-grazing
 gymnasia
 groundage
 groundably

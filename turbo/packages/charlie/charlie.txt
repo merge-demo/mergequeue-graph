@@ -5,6 +5,7 @@ cephalad
 caatinga
 cab
 caba
+cain
 chorionic
 cajaput
 craniopharyngioma
@@ -839,7 +840,6 @@ cayman
 carboniferous
 caimans
 caymans
-cain
 caynard
 clydesdale
 chidingness
