@@ -3398,7 +3398,6 @@ glossolaryngeal
 globularia
 gourmets
 gerrymander
-gorgons
 girls
 goldwater
 grubbed
@@ -8636,6 +8635,7 @@ grappled
 guti
 gulfed
 grapline
+gorgons
 guideposts
 goldfielder
 gaslight
