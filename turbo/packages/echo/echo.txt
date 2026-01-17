@@ -1908,7 +1908,6 @@ eyeleted
 enabled
 echinulate
 estoppal
-eurypterid
 elaphe
 essenical
 ejected
@@ -10062,6 +10061,7 @@ endoparasitism
 epipolize
 englishing
 epinglette
+eurypterid
 escharine
 echidnidae
 enneastylos

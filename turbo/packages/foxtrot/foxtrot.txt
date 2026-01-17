@@ -5822,7 +5822,6 @@ funebre
 farding
 flabby
 fastigia
-fdtype
 fowlers
 flocced
 frustulose
@@ -10835,6 +10834,7 @@ flavorous
 ferule
 fulfillments
 fennici
+fdtype
 fulfullment
 functionless
 fontanels
