@@ -3835,7 +3835,6 @@ guls
 gucked
 groszy
 gels
-gaelicization
 glumpy
 gloweringly
 gigahertzes
@@ -7020,6 +7019,7 @@ gentil
 gumshoes
 glazier
 glamorizes
+gaelicization
 grillade
 gerundially
 grindle
