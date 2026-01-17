@@ -1324,7 +1324,6 @@ earthiest
 effendis
 empty
 efferents
-effervescency
 eights
 epode
 encloser
@@ -13495,6 +13494,7 @@ epidural
 episiorrhagia
 exsanguinating
 exauthorize
+effervescency
 exposing
 ethmoidal
 eudaemonic
