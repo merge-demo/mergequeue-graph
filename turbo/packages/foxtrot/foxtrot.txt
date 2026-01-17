@@ -1832,6 +1832,7 @@ fluidify
 featurelessness
 featureliness
 furrows
+flche
 figureheadship
 fellahin
 feudalize
@@ -10432,7 +10433,6 @@ frontspieces
 fleet
 fwd
 fisted
-flche
 frontstall
 forstall
 frizes
