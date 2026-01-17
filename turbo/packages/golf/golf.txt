@@ -1927,6 +1927,7 @@ glorifiers
 gauffered
 grayfishes
 glottologist
+gortonite
 groundwave
 garvie
 gonorrhoeic
@@ -7297,7 +7298,6 @@ goofing
 gamostelic
 garcon
 gastraea
-gortonite
 gauffer
 graphiologist
 glutaric
