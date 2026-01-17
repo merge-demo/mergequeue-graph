@@ -1138,7 +1138,6 @@ edplot
 emplore
 edrioasteroidea
 epipany
-electrotyped
 epaulette
 ejaculators
 expectancies
@@ -1617,6 +1616,7 @@ enterobacterium
 eyah
 embliss
 erythrite
+electrotyped
 equating
 earthpea
 encyclopedism
