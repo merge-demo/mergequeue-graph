@@ -10975,7 +10975,6 @@ amoebocyte
 amoebogeniae
 amoebula
 amoy
-apinoid
 ampelitic
 amok
 amoke
@@ -17523,6 +17522,7 @@ acanthodea
 appealingly
 agruif
 ambidextrousness
+apinoid
 acuter
 archaicness
 appearer
