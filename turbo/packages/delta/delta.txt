@@ -10930,6 +10930,7 @@ datolite
 diallist
 deuterocone
 dispenses
+dorsipinal
 disforestation
 doublethinking
 dorsoradial
@@ -15826,7 +15827,6 @@ dorsimeson
 devolatilization
 disyllabize
 deducibly
-dorsipinal
 dorsocaudad
 dorsocentral
 diminishing
