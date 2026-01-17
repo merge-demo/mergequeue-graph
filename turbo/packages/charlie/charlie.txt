@@ -15089,6 +15089,7 @@ cladocarpous
 cladocera
 collarband
 commissionerships
+clathraceae
 constituent
 cacumen
 chipling
@@ -15571,7 +15572,6 @@ conima
 curdlers
 classwork
 clastics
-clathraceae
 clathraceous
 clathraria
 cathidine
