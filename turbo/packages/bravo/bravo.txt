@@ -4582,7 +4582,6 @@ bedaub
 ballplayer
 barks
 bolelia
-besuit
 bundeli
 borborus
 bedaubing
@@ -11229,6 +11228,7 @@ bandhava
 bizonia
 bestrapped
 blotchiness
+besuit
 buckeye
 becudgeled
 beaker
