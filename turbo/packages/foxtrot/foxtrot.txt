@@ -4336,7 +4336,6 @@ feebler
 foraramina
 fylfots
 froppish
-foreacquaint
 fencer
 foreconceive
 forb
@@ -11620,6 +11619,7 @@ fylgja
 fosite
 funestal
 finestiller
+foreacquaint
 forehew
 fustigatory
 fumy
