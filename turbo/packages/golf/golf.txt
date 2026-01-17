@@ -55,7 +55,6 @@ gelatinousness
 glucosidic
 goofball
 gatherum
-gibbon
 glauconia
 griller
 gluemaking
@@ -65,6 +64,7 @@ gonidiophore
 gnattier
 galeenies
 garoo
+gibbon
 gentlemanize
 gaumy
 greffe
