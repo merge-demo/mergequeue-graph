@@ -6432,7 +6432,6 @@ embolismus
 eurypteroidea
 ensoul
 ensouled
-ecru
 evolutes
 ectodermic
 enlister
@@ -8077,6 +8076,7 @@ erminois
 esterifying
 electrophotomicrography
 epicoelia
+ecru
 encephalothlipsis
 electrovection
 enbibe
