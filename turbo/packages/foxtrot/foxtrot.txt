@@ -2018,7 +2018,6 @@ freshens
 farmers
 fieldwards
 fathomage
-fradicin
 frogger
 fantasticly
 faineant
@@ -7052,6 +7051,7 @@ fullness
 formfeeds
 footful
 foolhardiness
+fradicin
 fabulousness
 foolhardiship
 foredeck
