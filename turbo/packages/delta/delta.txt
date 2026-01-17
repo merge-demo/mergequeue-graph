@@ -911,6 +911,7 @@ decks
 dap
 dapedius
 disburdens
+dissectional
 danio
 dokimastic
 daphni
@@ -11483,7 +11484,6 @@ disuniform
 denominator
 daps
 demerse
-dissectional
 disconformity
 disseminates
 demiparallel
