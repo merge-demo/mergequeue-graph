@@ -10894,7 +10894,6 @@ clerk
 chipproof
 crucifying
 clocher
-chypre
 cariacine
 chipwood
 chiquito
@@ -19231,6 +19230,7 @@ chiquest
 colocated
 colocephali
 coryph
+chypre
 colocynth
 complainingly
 connections
