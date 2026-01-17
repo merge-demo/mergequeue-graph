@@ -4697,6 +4697,7 @@ galeae
 gowland
 gitanos
 gite
+gladify
 gonarthritis
 gnawn
 gitim
@@ -10349,7 +10350,6 @@ gruffily
 gigabytes
 geum
 goadlike
-gladify
 gallivorous
 glaur
 grouseberry
