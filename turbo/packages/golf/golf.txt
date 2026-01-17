@@ -6880,7 +6880,6 @@ gitterns
 guttiferae
 gombay
 gehenna
-guglio
 gangliomata
 graftonite
 gammacismus
@@ -7082,6 +7081,7 @@ grassmen
 gregorianist
 germanist
 galactodendron
+guglio
 gedanken
 grumly
 granum
