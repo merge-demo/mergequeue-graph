@@ -15523,7 +15523,6 @@ conquinine
 classed
 cyclicism
 classers
-classfellow
 classy
 contrastably
 classicalism
@@ -27965,6 +27964,7 @@ cradling
 cryesthesia
 corroborator
 craft
+classfellow
 craftiest
 calycanthus
 conferencing
