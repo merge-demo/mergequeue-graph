@@ -4505,6 +4505,7 @@ gambrel
 gills
 graminiform
 gerbille
+gaisling
 gigantomachia
 gawp
 globoids
@@ -7743,7 +7744,6 @@ geography
 gonystylaceae
 goldbugs
 grantable
-gaisling
 gladkaite
 gematriot
 grafted
