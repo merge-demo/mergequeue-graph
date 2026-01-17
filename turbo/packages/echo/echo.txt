@@ -2772,7 +2772,6 @@ evasive
 exclamations
 enjeopard
 extricates
-endomixis
 ecthyma
 ephebeibeia
 engarble
@@ -7899,6 +7898,7 @@ epizootiology
 epinikion
 epilogical
 entomophaga
+endomixis
 eurystomatous
 emitter
 eatery
