@@ -6271,6 +6271,7 @@ flawless
 fluked
 fertilisability
 fuliginosity
+featly
 fluent
 flukeworm
 follicle
@@ -9176,7 +9177,6 @@ fie
 forgivers
 fascinatress
 freeborn
-featly
 fragmentariness
 fragmentist
 foundries
