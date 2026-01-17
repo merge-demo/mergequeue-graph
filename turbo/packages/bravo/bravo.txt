@@ -10645,7 +10645,6 @@ bleach
 branchiosaurus
 bullheadedly
 bluebutton
-bleachable
 bartramia
 beworrying
 becloud
@@ -13383,6 +13382,7 @@ boondoggler
 buckety
 boundlessness
 blasted
+bleachable
 backshift
 bothrenchyma
 bluenoses
