@@ -4629,7 +4629,6 @@ futharcs
 filmgoer
 faust
 fulani
-faeroe
 fells
 ferrotungsten
 fulica
@@ -10046,6 +10045,7 @@ foretaste
 foamiest
 fiercly
 footnotes
+faeroe
 fetalism
 flammability
 fellowed
