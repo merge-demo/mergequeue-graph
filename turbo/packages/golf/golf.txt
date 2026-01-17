@@ -2161,7 +2161,6 @@ galea
 goniostat
 goldfinches
 galliards
-glistening
 glisters
 gebbie
 guardians
@@ -10367,6 +10366,7 @@ glancing
 geneki
 gordiid
 gullery
+glistening
 grasshook
 gingerwort
 grike
