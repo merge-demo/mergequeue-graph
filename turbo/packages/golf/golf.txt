@@ -3974,6 +3974,7 @@ gouter
 gesticulates
 gansey
 ginnier
+galesaur
 gubbings
 gellert
 gastrogenous
@@ -8925,7 +8926,6 @@ groove
 gingras
 gabbing
 grandparent
-galesaur
 gaffe
 gigi
 gladelike

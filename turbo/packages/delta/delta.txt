@@ -1829,7 +1829,6 @@ daylilies
 dreepiness
 debeige
 douzepers
-downwarp
 declinograph
 dewberry
 doorstead
@@ -2604,6 +2603,7 @@ deoxygenation
 decodon
 disfriar
 diswarrened
+downwarp
 decoherence
 dirndl
 duramatral
