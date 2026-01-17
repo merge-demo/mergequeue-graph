@@ -5863,6 +5863,7 @@ braggingly
 buttstock
 batholith
 bidactyle
+beswelter
 beefin
 bypaths
 beerocracy
@@ -7258,7 +7259,6 @@ bestuds
 besully
 borith
 beswarm
-beswelter
 bisque
 bethuel
 balti

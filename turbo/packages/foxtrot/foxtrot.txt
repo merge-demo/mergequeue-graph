@@ -102,7 +102,6 @@ frangi
 fibrinous
 frilling
 friendly
-futharc
 finbacks
 finnickier
 faciation
@@ -6442,6 +6441,7 @@ futhorks
 fernbird
 furiosa
 fumagine
+futharc
 fouquieriaceous
 flightful
 foulness
