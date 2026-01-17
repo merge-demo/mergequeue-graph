@@ -7847,6 +7847,7 @@ anthotropism
 alveola
 alecup
 alefs
+anteinitial
 ambary
 astringes
 abby
@@ -10764,7 +10765,6 @@ alterableness
 amitate
 antighostism
 abandonments
-anteinitial
 amities
 amitotic
 azotizes
