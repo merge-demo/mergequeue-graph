@@ -1660,7 +1660,6 @@ calomorphic
 cynanchum
 contemporaneity
 circularities
-calool
 calophyllum
 comminutor
 chettik
@@ -6281,6 +6280,7 @@ caulicolous
 customed
 controversed
 conche
+calool
 caulinar
 caulinary
 ceroplast
