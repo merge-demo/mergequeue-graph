@@ -3052,6 +3052,7 @@ enshrine
 emetia
 exhaustible
 excreters
+epentheses
 exor
 esthetes
 endarterium
@@ -7367,7 +7368,6 @@ exsanguineous
 epiblasts
 epenla
 edgings
-epentheses
 exotic
 eleotrid
 experiencing
