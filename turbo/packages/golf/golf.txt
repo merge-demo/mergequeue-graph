@@ -2791,7 +2791,6 @@ glovelike
 gathers
 gazettal
 gormless
-glottalite
 gloiopeltis
 gentiobiose
 gentlemanlikeness
@@ -3582,6 +3581,7 @@ ghastliness
 ghatwazi
 goadster
 grumblesome
+glottalite
 ghauts
 galilei
 genarcha
