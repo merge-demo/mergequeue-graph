@@ -11342,7 +11342,6 @@ amphithura
 amphipnous
 ayuntamientos
 aniba
-apochae
 amphibian
 autoclasis
 attaste
@@ -20840,6 +20839,7 @@ asia
 anhydroxime
 aquintocubitalism
 acetosity
+apochae
 arum
 annapurna
 archdisturber
