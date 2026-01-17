@@ -13193,6 +13193,7 @@ caryota
 cyclic
 cyclical
 cyclizing
+cistron
 cyclically
 cyclicalness
 cyclide
@@ -14676,7 +14677,6 @@ cystourethritis
 chirurgy
 calyxes
 cystourethrography
-cistron
 cypraea
 cassiduloidea
 cistronic
