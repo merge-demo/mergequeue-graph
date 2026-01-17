@@ -12217,7 +12217,6 @@ epiphanizing
 extralateral
 elevener
 erodable
-edriasteroidea
 ergotine
 eskuara
 ephemerides
@@ -12553,6 +12552,7 @@ etiogenic
 eranist
 extinction
 envious
+edriasteroidea
 envied
 enherit
 epistolist
