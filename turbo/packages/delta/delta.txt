@@ -5626,6 +5626,7 @@ depictment
 dandilly
 depictors
 depicture
+dreadly
 distract
 debe
 diopsidic
@@ -16885,7 +16886,6 @@ dreading
 demonstrandum
 distemperment
 descriptory
-dreadly
 dreadlocks
 dreadnought
 disport
