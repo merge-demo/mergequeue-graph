@@ -6610,6 +6610,7 @@ endermically
 enuring
 exhedrae
 enterology
+exogenously
 epactal
 enterologic
 epanastrophe
@@ -12653,7 +12654,6 @@ exogen
 earldom
 esophagostomy
 encratism
-exogenously
 examplar
 exogyra
 enterogram
