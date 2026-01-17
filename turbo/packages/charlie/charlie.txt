@@ -588,6 +588,7 @@ catalineta
 caducean
 caducecei
 caducei
+cinofoil
 caduceus
 coinhabitant
 caduciary
@@ -13897,7 +13898,6 @@ cynoclept
 cynocrambaceous
 cynodictis
 costive
-cinofoil
 cynogenealogy
 craping
 caviars
