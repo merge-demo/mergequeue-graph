@@ -8672,7 +8672,6 @@ depolarizing
 diethylethanolamine
 diastereoisomerism
 dodges
-dysphoria
 druid
 deoxyribose
 dismayed
@@ -11934,6 +11933,7 @@ demephitize
 duskish
 dietetical
 draftee
+dysphoria
 drepanium
 disembarking
 dishware

@@ -6822,6 +6822,7 @@ facemaking
 friarhood
 fistiness
 floridities
+fotmal
 fodda
 foozler
 fraudulency
@@ -8826,7 +8827,6 @@ freeholder
 folia
 fleuron
 fibrinoplastic
-fotmal
 folkvang
 forum
 furbelow
