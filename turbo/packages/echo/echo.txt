@@ -1879,7 +1879,6 @@ eulogically
 expulsion
 ethnics
 electrophotographic
-entomofauna
 eisegetical
 erasing
 enhat
@@ -9466,6 +9465,7 @@ eogaean
 euryalean
 enghosted
 excurved
+entomofauna
 eupneas
 essayistic
 esca

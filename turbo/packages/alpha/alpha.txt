@@ -8548,6 +8548,7 @@ alkahestic
 admonishment
 allantoidean
 allantoides
+attenuated
 allantoin
 afterings
 analyzer
@@ -12513,7 +12514,6 @@ anemographically
 anemologic
 anticonfederationist
 anemometrically
-attenuated
 amanuenses
 anemometrographically
 alfilaria
