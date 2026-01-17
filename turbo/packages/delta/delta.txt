@@ -6525,7 +6525,6 @@ deraign
 describability
 dobra
 dulciloquy
-degradedness
 dichlorhydrin
 described
 divorce
@@ -7582,6 +7581,7 @@ discernible
 drou
 doublewidth
 diddikai
+degradedness
 darking
 darwinistic
 deva
