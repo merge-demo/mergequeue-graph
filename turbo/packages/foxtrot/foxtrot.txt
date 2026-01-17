@@ -2618,7 +2618,6 @@ frivol
 filigreed
 ferio
 farandmen
-foraminated
 folkfree
 ferruginating
 fulful
@@ -8501,6 +8500,7 @@ formosity
 fidley
 flailing
 firehall
+foraminated
 falsie
 flatwise
 foramen
