@@ -4080,7 +4080,6 @@ glosts
 genetor
 gompholobium
 geoglossum
-gyropilot
 galaxiidae
 geelbek
 gemological
@@ -4719,6 +4718,7 @@ genethliatic
 gendarme
 giantlike
 ganglander
+gyropilot
 greenwood
 gonimolobe
 germanophobia
