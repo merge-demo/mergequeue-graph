@@ -607,7 +607,6 @@ eclaircissement
 epeus
 echeneidoid
 enchant
-enneaeteric
 empyreumatic
 epipaleolithic
 emblic
@@ -4906,6 +4905,7 @@ endeavour
 endamaging
 estreated
 ericeticolous
+enneaeteric
 exilable
 effacer
 emulsifiable
