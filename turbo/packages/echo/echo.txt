@@ -2419,7 +2419,6 @@ essentialize
 electionary
 evoker
 electroendosmosis
-encipher
 epoist
 enslavements
 exterminist
@@ -11403,6 +11402,7 @@ ependymary
 encolour
 everted
 euouae
+encipher
 eli
 exhaustion
 externalise
