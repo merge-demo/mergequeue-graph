@@ -4169,6 +4169,7 @@ discharger
 dags
 deadlatch
 deloo
+doubloon
 deloul
 decocted
 deloused
@@ -18613,7 +18614,6 @@ dustsheet
 dure
 djasakid
 dissonantly
-doubloon
 denudational
 dusttight
 dustuk
