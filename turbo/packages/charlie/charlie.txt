@@ -18408,6 +18408,7 @@ cathedral
 cognominated
 cognomination
 cognoscent
+confusedness
 changeling
 castelli
 cognoscente
@@ -22169,7 +22170,6 @@ confusability
 circummured
 confusedly
 carnalized
-confusedness
 confuser
 chickee
 confusion

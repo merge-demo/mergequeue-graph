@@ -1194,6 +1194,7 @@ genesiacal
 griot
 gradations
 globular
+gunnage
 guestive
 guttate
 garfishes
@@ -7065,7 +7066,6 @@ gelidity
 ganglioneure
 goosegog
 goyle
-gunnage
 guelphic
 giottesque
 glaces
