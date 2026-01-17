@@ -6524,7 +6524,6 @@ entelechies
 entomologic
 engorging
 entendre
-epidermophytosis
 extravagating
 exciter
 entente
@@ -8557,6 +8556,7 @@ exceptant
 eskimauan
 extraparenchymal
 equiaxed
+epidermophytosis
 edificable
 electrocauteries
 equate
