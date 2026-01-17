@@ -3119,7 +3119,6 @@ gnathobasic
 gnast
 galumphing
 garial
-grangousier
 galena
 gestures
 gastroelytrotomy
@@ -8491,6 +8490,7 @@ gilders
 grivets
 glaze
 glands
+grangousier
 golfing
 graveclod
 gonfalon
