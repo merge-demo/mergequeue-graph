@@ -10509,7 +10509,6 @@ chiliadron
 chiliads
 calcaneocuboid
 connexity
-chiliahedron
 chiliarchia
 chiliast
 commeasure
@@ -15998,6 +15997,7 @@ cardroom
 clerum
 caraculs
 clerus
+chiliahedron
 chremzel
 clethraceous
 crinoid
