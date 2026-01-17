@@ -3878,7 +3878,6 @@ butterers
 barnacles
 bullpouts
 babus
-bawdrics
 bawdries
 boreal
 bawl
@@ -4900,6 +4899,7 @@ breakstone
 bloomage
 backspeer
 bomarea
+bawdrics
 beechwood
 bright
 bourbons
