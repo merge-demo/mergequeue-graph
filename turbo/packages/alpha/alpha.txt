@@ -3447,7 +3447,6 @@ antroversion
 addible
 addicent
 antiknocks
-acculturate
 acanthopomatous
 addictedness
 addicting
@@ -8838,6 +8837,7 @@ audiometries
 alderliefest
 adermin
 alids
+acculturate
 allochiria
 adaptionism
 alcoves
