@@ -4525,7 +4525,6 @@ barricaded
 burnsides
 batata
 balushai
-becudgels
 bosons
 bilixanthin
 bakongo
@@ -17099,6 +17098,7 @@ bugseed
 byepath
 bequeather
 bulletheadedness
+becudgels
 baptornis
 bayard
 bromian
