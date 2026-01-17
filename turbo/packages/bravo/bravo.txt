@@ -2538,7 +2538,6 @@ barguests
 buzylene
 baria
 bedouse
-blameful
 baboodom
 bucca
 beflowers
@@ -11654,6 +11653,7 @@ boaster
 boastfully
 boastfulness
 baits
+blameful
 bacchus
 boasts
 bisexuous
