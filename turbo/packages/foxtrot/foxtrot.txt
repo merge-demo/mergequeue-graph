@@ -10801,7 +10801,6 @@ foveation
 foredestined
 fleeten
 fucinita
-freesilverite
 featliness
 frivoller
 forclose
@@ -11436,6 +11435,7 @@ furrily
 frigage
 frostless
 fathoms
+freesilverite
 fetichlike
 fusible
 fluorbenzene
