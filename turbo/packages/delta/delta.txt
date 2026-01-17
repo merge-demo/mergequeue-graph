@@ -3508,7 +3508,6 @@ deuterostomata
 deforse
 diplomatic
 dinitrotoluene
-disapproving
 defrayable
 disembarrassment
 dismissable
@@ -17874,6 +17873,7 @@ duecentist
 derbies
 debutante
 destituteness
+disapproving
 dysmenorrhagia
 desentimentalize
 doctrine

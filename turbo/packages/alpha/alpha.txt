@@ -20160,7 +20160,6 @@ agdistis
 arrand
 arrangeable
 arrangement
-agoge
 arrayals
 away
 auscultated
@@ -22270,6 +22269,7 @@ ariette
 astonishment
 altrices
 astoop
+agoge
 abjoint
 amorphy
 antilogical
