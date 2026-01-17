@@ -14351,7 +14351,6 @@ amasesis
 antinovels
 anthol
 anodes
-apiaceous
 aniseikonia
 antholite
 anthological
@@ -17634,6 +17633,7 @@ appertained
 acrose
 appertainment
 auditory
+apiaceous
 apolaustic
 antiagglutination
 algorisms
