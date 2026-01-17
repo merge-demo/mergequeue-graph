@@ -2854,7 +2854,6 @@ formol
 feltyfare
 fisty
 finable
-foresails
 figworm
 fungid
 familistery
@@ -4043,6 +4042,7 @@ frimaire
 foramination
 festoony
 fimetic
+foresails
 fermentation
 flindersia
 freefd
