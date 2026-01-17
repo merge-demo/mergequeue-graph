@@ -1375,7 +1375,6 @@ fatiguesome
 fishbones
 fidate
 fella
-fatima
 fruticeous
 flaxdrop
 filecard
@@ -3934,6 +3933,7 @@ fermentor
 fruitcakey
 frenziedly
 frightfulness
+fatima
 foreshown
 funneled
 farcical
