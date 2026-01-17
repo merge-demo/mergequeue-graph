@@ -2977,7 +2977,6 @@ gavialis
 gelly
 galvanocauteries
 gentlefolk
-gambusia
 guatambu
 greasiness
 glitnir
@@ -5288,6 +5287,7 @@ gangsters
 gammaroid
 goodman
 globularly
+gambusia
 gutturalism
 gingals
 glaived
