@@ -1827,7 +1827,6 @@ gousty
 gadabout
 goloshes
 geographize
-gossypium
 gatemaker
 gladfully
 glyconics
@@ -1883,6 +1882,7 @@ geniohyoid
 generalists
 gerbillus
 germaniums
+gossypium
 gummites
 groundable
 gowd
