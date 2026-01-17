@@ -3776,6 +3776,7 @@ hexmmuxr
 hexmsx
 hexnavlfppmx
 hexojmp
+hocm
 hexpmkmxdgsx
 hexq
 hexqp
@@ -6635,7 +6636,6 @@ hjjmgkyne
 hjjncdsxfl
 hjjpu
 hjspokl
-hocm
 hjjwbisq
 hhmbxfb
 hjkakxkrtaafa
