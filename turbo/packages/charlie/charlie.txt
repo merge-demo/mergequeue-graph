@@ -6721,7 +6721,6 @@ cuculla
 celation
 cheapjack
 celature
-celeb
 capicha
 clition
 crutch
@@ -26256,6 +26255,7 @@ costectomies
 costed
 coinmaker
 condylopod
+celeb
 cokeney
 coxopodite
 clutters
