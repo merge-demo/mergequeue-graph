@@ -6352,6 +6352,7 @@ amoeba
 akhund
 anamorphote
 anecdotists
+avunculate
 ametrometer
 agriculturist
 aftergood
@@ -23254,7 +23255,6 @@ attitudinizes
 attn
 ascidium
 accroach
-avunculate
 antibubonic
 anthropidae
 angolan
