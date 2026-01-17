@@ -4130,7 +4130,6 @@ frenula
 fusilading
 fulk
 felonry
-flexed
 fatling
 fenchyl
 feezed
@@ -10191,6 +10190,7 @@ forslack
 froghood
 finn
 fractures
+flexed
 frailer
 falcated
 flaming
