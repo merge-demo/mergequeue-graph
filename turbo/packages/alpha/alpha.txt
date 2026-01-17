@@ -4739,7 +4739,6 @@ aepyceros
 aisleless
 artolatry
 aepyornithidae
-aepyornithiformes
 aggrieves
 alycompaine
 aeq
@@ -8856,6 +8855,7 @@ ambilevous
 azurous
 adscititiously
 amakebe
+aepyornithiformes
 anetic
 allocyanine
 antireform

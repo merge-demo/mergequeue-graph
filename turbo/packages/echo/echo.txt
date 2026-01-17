@@ -7402,7 +7402,6 @@ elohimic
 enfile
 erratical
 ecchondrotome
-emboliform
 ephestia
 enregistering
 emphatical
@@ -12322,6 +12321,7 @@ exercitorian
 effront
 efs
 elaidate
+emboliform
 effigurate
 eulogizers
 erythroglucin
