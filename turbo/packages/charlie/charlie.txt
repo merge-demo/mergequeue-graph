@@ -5195,7 +5195,6 @@ carida
 contek
 cashbooks
 caesural
-cambism
 cravo
 cavendish
 continuando
@@ -24801,6 +24800,7 @@ cimcumvention
 casketlike
 clausum
 costers
+cambism
 certificating
 chromic
 coquetry
