@@ -7399,7 +7399,6 @@ flots
 figgum
 fille
 fans
-footmen
 ferrocerium
 forwarder
 fruitlet
@@ -9322,6 +9321,7 @@ fluoresces
 frankenstein
 franker
 funerally
+footmen
 fastidiousness
 fireguard
 foreschool
