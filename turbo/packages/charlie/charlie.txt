@@ -4384,7 +4384,6 @@ coppers
 culvertage
 cyclase
 ceruminiferous
-confidentiality
 cyberneticists
 cobwebbed
 carillonneur
@@ -16586,6 +16585,7 @@ crooner
 cosponsorships
 circut
 clonos
+confidentiality
 clonothrix
 carangus
 clonus
