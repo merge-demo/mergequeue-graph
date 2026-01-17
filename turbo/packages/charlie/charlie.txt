@@ -16931,7 +16931,6 @@ clunked
 clunkers
 corregidors
 crowner
-clunking
 clunter
 coutille
 clupanodonic
@@ -27828,6 +27827,7 @@ cozens
 cyclometers
 cozes
 cerebroside
+clunking
 cozie
 conspect
 civiliser
