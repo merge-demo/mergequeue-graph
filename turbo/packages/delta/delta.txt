@@ -2685,6 +2685,7 @@ disuniter
 decongestant
 deltoidei
 deconsecrate
+diageotropism
 duels
 dareful
 deconsecrated
@@ -12514,7 +12515,6 @@ disempower
 dispersoidological
 disimprison
 dentinitis
-diageotropism
 diopsidae
 daube
 dysmerogenetic
