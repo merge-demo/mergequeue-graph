@@ -5178,6 +5178,7 @@ anticommunist
 afenil
 autochanger
 adiaphory
+approx
 afetal
 agomensin
 apyrexia
@@ -20134,7 +20135,6 @@ audibertia
 ambassy
 arbalister
 ametabolism
-approx
 array
 arrayal
 archmystagogue
