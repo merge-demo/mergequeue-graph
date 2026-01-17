@@ -848,6 +848,7 @@ greensick
 gamboling
 glareolidae
 geonim
+gamone
 gwine
 geezers
 gernitz
@@ -8071,7 +8072,6 @@ gybes
 glandularly
 gasiform
 gribane
-gamone
 gaiters
 geomorphogeny
 giblets
