@@ -9729,7 +9729,6 @@ cankeredly
 cimex
 chromotype
 cataphonics
-cheiranthus
 cheirogaleus
 cheirography
 cheirolin
@@ -12392,6 +12391,7 @@ chromatosis
 chromaturia
 calciphilic
 chromazurine
+cheiranthus
 chromdiagnosis
 complication
 clangorousness
