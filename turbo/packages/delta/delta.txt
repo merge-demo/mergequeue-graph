@@ -10742,7 +10742,6 @@ drools
 discomfiture
 dipsomaniac
 dietotherapeutics
-dipsomaniacs
 diestrual
 dipsopathy
 deutonephron
@@ -12705,6 +12704,7 @@ dyslexics
 disentrancement
 dreadfully
 drury
+dipsomaniacs
 dracaena
 dissimilarity
 dendric
