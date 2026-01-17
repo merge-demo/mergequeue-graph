@@ -3099,7 +3099,6 @@ freres
 foursomes
 fogbank
 foreshow
-fairylike
 fountainheads
 fibrocement
 frenzies
@@ -5770,6 +5769,7 @@ filmer
 flamingly
 flittermouse
 familiarization
+fairylike
 fellowship
 flitters
 frequents
