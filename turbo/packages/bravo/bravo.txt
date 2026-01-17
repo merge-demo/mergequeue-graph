@@ -4370,6 +4370,7 @@ blackhearted
 benzotrifuran
 bilingualism
 becircled
+biont
 botfly
 beck
 bowman
@@ -17695,7 +17696,6 @@ behove
 bracteolate
 bismosol
 butteriness
-biont
 beanos
 braconid
 bankeress
