@@ -9631,7 +9631,6 @@ espy
 espial
 electrocoagulation
 escrows
-espinal
 electrogalvanic
 expressmen
 enters
@@ -10515,6 +10514,7 @@ eudaemony
 eucharistic
 eucharistically
 esthesiogenic
+espinal
 earthfall
 ephthalite
 empaper
