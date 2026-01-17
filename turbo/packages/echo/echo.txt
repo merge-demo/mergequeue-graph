@@ -565,7 +565,6 @@ eurythermic
 ecclesiastes
 electrostatically
 ecophene
-excommunicates
 electromeric
 elocutionize
 extraperineal
@@ -6718,6 +6717,7 @@ evacuation
 ellfish
 ediface
 extrinsical
+excommunicates
 enthusiasms
 elaborator
 entrechat
