@@ -4645,7 +4645,6 @@ flexibilities
 fumariaceae
 fragrantly
 foreby
-fructescence
 frivolizing
 fibroreticulate
 fortitudes
@@ -9994,6 +9993,7 @@ foralite
 flee
 flatwork
 fantod
+fructescence
 franchiser
 fryer
 foollike
