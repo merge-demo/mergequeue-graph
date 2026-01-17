@@ -4300,6 +4300,7 @@ carfuffle
 capiteaux
 camauros
 carfuffling
+crescive
 carful
 congregationalize
 carga
@@ -18397,7 +18398,6 @@ conveyancer
 cognized
 cognizes
 cognizing
-crescive
 cognizor
 cognomens
 claught
