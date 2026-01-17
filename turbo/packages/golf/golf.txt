@@ -6040,6 +6040,7 @@ ganevs
 guerre
 gabbroid
 gallocyanin
+grizard
 gymnocarpic
 giesel
 gunate
@@ -8889,7 +8890,6 @@ grenadierial
 gratuitously
 goniotheca
 glaucochroite
-grizard
 gonycampsis
 groundberry
 gunfight
