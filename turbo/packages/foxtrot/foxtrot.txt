@@ -5220,7 +5220,6 @@ fictionist
 fissiped
 flavoured
 fusus
-fondant
 flavourful
 fieldy
 flavourless
@@ -10027,6 +10026,7 @@ fleshling
 fibrosis
 fablemonger
 faddish
+fondant
 fait
 featherhead
 flabbiest
