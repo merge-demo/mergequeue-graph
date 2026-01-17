@@ -1765,7 +1765,6 @@ grouchiest
 gossypine
 gastropulmonic
 granitic
-globously
 gambados
 guiba
 guaycuruan
@@ -2640,6 +2639,7 @@ gurgeon
 gadling
 gathering
 greatest
+globously
 gonotocont
 guaraguao
 gospodipoda
