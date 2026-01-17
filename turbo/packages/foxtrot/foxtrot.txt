@@ -976,6 +976,7 @@ fibrinogenetic
 fabrile
 fruitling
 farceuses
+fuchsin
 flenched
 facetiousness
 fluorids
@@ -11345,7 +11346,6 @@ fannies
 fenagler
 ferlied
 flustrine
-fuchsin
 forfended
 furmenty
 foreassign
