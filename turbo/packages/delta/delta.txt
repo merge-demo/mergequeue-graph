@@ -4355,7 +4355,6 @@ demarchy
 dinical
 dextrotartaric
 demaree
-dying
 detenu
 discomedusoid
 demarked
@@ -9511,6 +9510,7 @@ deuterostome
 demonstrational
 dighted
 dighter
+dying
 digraphic
 dynamogeny
 dialysers
