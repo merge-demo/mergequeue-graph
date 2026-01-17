@@ -886,6 +886,7 @@ emperies
 ethine
 extrastate
 episedia
+exotropia
 encomiastic
 endosporous
 eriodictyon
@@ -9169,7 +9170,6 @@ elates
 embryophyte
 electrographite
 empiricism
-exotropia
 enclasp
 egomaniac
 eroticizing
