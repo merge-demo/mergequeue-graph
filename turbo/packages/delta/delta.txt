@@ -5315,6 +5315,7 @@ disblame
 daraf
 diaphoretic
 displaced
+distylar
 denticle
 dentiferous
 desegmented
@@ -15082,7 +15083,6 @@ dogeless
 dogmatical
 dogmatically
 danube
-distylar
 diagrammable
 disfrequent
 dogmatise
