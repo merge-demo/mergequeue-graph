@@ -1241,6 +1241,7 @@ groff
 gonorrhea
 gravures
 grogged
+gillnetting
 galactostasis
 gooding
 gonglike
@@ -3608,7 +3609,6 @@ gluconeogenic
 goldest
 gastrotubotomy
 gauntleted
-gillnetting
 gonadotropic
 genearch
 ghostdom
