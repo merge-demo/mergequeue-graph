@@ -2819,7 +2819,6 @@ fibrointestinal
 ficus
 fluidly
 floorman
-fishhouse
 ferrozirconium
 floodlights
 fideicommiss
@@ -10053,6 +10052,7 @@ friskin
 friskiness
 frisking
 friskingly
+fishhouse
 frisks
 frondiform
 feudatary
