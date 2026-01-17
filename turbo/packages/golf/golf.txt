@@ -6309,7 +6309,6 @@ gauster
 globetrotters
 geochemists
 glossalgia
-geophysics
 gruneritization
 goblins
 goldenpert
@@ -6545,6 +6544,7 @@ glossoplegia
 granduncles
 gromwell
 gamelans
+geophysics
 gleeman
 gastrologists
 gomer
