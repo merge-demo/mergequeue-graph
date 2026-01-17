@@ -1178,7 +1178,6 @@ footy
 farthingdeal
 frays
 footfeed
-fascinator
 ferous
 flowerless
 flouters
@@ -11044,6 +11043,7 @@ faunological
 flinty
 fellatrices
 fangless
+fascinator
 flycatcher
 foreboot
 frictionizing
