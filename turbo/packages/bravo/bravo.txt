@@ -4243,6 +4243,7 @@ beauty
 brachyphalangia
 bracing
 besmudging
+bogeymen
 brumstone
 breadwinners
 bocaccios
@@ -11951,7 +11952,6 @@ bogeyman
 broommaker
 bloomiest
 branchiopneustic
-bogeymen
 brut
 bawke
 betweens
