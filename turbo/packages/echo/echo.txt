@@ -2498,7 +2498,6 @@ ephemeromorph
 ensete
 entozoic
 euphausiidae
-extraconstellated
 ethnobotanic
 enounce
 endopterygote
@@ -10033,6 +10032,7 @@ ethambutol
 ethmovomerine
 entamoebiasis
 epopoeist
+extraconstellated
 etceteras
 ethanediol
 erianthus
