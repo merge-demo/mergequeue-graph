@@ -4878,7 +4878,6 @@ demonomist
 draisene
 demonopolize
 defervescence
-demonry
 detractory
 dubiosities
 depopulating
@@ -15552,6 +15551,7 @@ deathlessly
 discriminatingly
 donovan
 dons
+demonry
 deltahedron
 donsie
 deflocculent
