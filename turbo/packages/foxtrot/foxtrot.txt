@@ -799,6 +799,7 @@ fecundize
 fluorines
 financing
 flunker
+feudal
 folkloric
 footworn
 fulmen
@@ -2517,7 +2518,6 @@ fuzzily
 faldworth
 foremeant
 footsore
-feudal
 functionize
 faired
 fastballs
