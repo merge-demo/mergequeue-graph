@@ -6036,7 +6036,6 @@ eupepsias
 emydinae
 ecumenicalism
 erotization
-exposer
 eluant
 edinburgh
 escheated
@@ -11794,6 +11793,7 @@ exaun
 earthrise
 ectomorphy
 euglenida
+exposer
 ectothermic
 exists
 embryogony
