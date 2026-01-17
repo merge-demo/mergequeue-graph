@@ -6060,6 +6060,7 @@ cathryn
 coversine
 cathud
 catydid
+chemizo
 continuos
 cyclicity
 catiline
@@ -9865,7 +9866,6 @@ coenactor
 countess
 chawer
 chemitypy
-chemizo
 colligated
 chastizer
 curiological
