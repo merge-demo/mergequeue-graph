@@ -4536,6 +4536,7 @@ accumulable
 adversities
 abranchial
 aliptes
+antagonizer
 axotomous
 advertence
 advertently
@@ -5249,7 +5250,6 @@ alpenhorn
 affiliating
 apery
 anagenetical
-antagonizer
 ampitheater
 attackable
 anapterygotous
