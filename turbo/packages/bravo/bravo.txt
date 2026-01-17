@@ -3390,6 +3390,7 @@ bassanite
 biotechnics
 bassetta
 blockbuster
+bulleted
 bays
 bandstands
 basiophthalmous
@@ -17092,7 +17093,6 @@ bulldozed
 bulldozing
 beduck
 bullet
-bulleted
 bugseed
 byepath
 bequeather
