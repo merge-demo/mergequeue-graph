@@ -5263,6 +5263,7 @@ geometries
 glycerin
 gamelan
 gromil
+guineaman
 glycerite
 gigmanism
 gymnadeniopsis
@@ -8761,7 +8762,6 @@ gallate
 griming
 gonapod
 galactagoguic
-guineaman
 gawkers
 glaumrie
 gregarianism
