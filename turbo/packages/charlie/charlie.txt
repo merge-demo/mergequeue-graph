@@ -6115,6 +6115,7 @@ cli
 catoptric
 canaan
 clippable
+cubbyhouse
 catoptrically
 curtise
 catoptrite
@@ -30510,7 +30511,6 @@ contraclockwise
 counterweighed
 cubby
 cavin
-cubbyhouse
 cubbing
 codein
 choiring
