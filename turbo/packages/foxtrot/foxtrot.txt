@@ -2816,7 +2816,6 @@ flaxiest
 fumigation
 forehood
 firsthand
-folacins
 finlander
 fumigatories
 fcomp
@@ -8051,6 +8050,7 @@ fumer
 flusterated
 frippet
 forejudged
+folacins
 forenews
 faunistic
 foyboat
