@@ -10215,6 +10215,7 @@ emotionalistic
 elzevirian
 elaborates
 extruders
+eligibilities
 evansite
 epanorthosis
 errsyn
@@ -10827,7 +10828,6 @@ earache
 educes
 echini
 embassiate
-eligibilities
 endostomata
 envineyard
 elaeoblastic
