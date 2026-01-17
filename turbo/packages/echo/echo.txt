@@ -1538,6 +1538,7 @@ encyclopedial
 eupeptically
 ensconces
 enervates
+englute
 erosible
 encampment
 epinasty
@@ -5953,7 +5954,6 @@ echinoderidae
 effulges
 expeditated
 ejectors
-englute
 enjail
 escaped
 emetomorphine
