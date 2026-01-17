@@ -1389,7 +1389,6 @@ depositing
 dartoid
 david
 definitised
-defroster
 davidian
 davidic
 davidical
@@ -6937,6 +6936,7 @@ dorsointercostal
 dichasial
 didgeridoo
 disimmure
+defroster
 decarbonylated
 dilection
 deiphobus
