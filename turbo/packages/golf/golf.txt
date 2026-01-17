@@ -3707,7 +3707,6 @@ granaries
 guttur
 guayacan
 graduations
-gurdy
 ghuz
 glabellae
 griffons
@@ -9229,6 +9228,7 @@ goliard
 graphitoid
 grisly
 glagolitic
+gurdy
 gravigrade
 grahamite
 grist
