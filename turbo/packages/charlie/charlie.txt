@@ -20492,7 +20492,6 @@ compartmentalization
 celliferous
 chappaul
 chrysenic
-compartmented
 centenionalis
 corundum
 composition
@@ -22454,6 +22453,7 @@ conisance
 cattery
 cinnamonroot
 coniums
+compartmented
 chickies
 conj
 conjective
