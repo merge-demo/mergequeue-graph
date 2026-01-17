@@ -3111,7 +3111,6 @@ flamefishes
 finnick
 faring
 fulminancy
-fadeaways
 freshwater
 fibroferrite
 firewarden
@@ -3421,6 +3420,7 @@ frontoethmoid
 friedcake
 frazzle
 fantasist
+fadeaways
 fifteens
 faithless
 fiftieth
