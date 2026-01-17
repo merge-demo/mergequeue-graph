@@ -7550,6 +7550,7 @@ felicities
 fanfare
 factual
 fandangos
+footrope
 fleshquake
 foredefeated
 frankheartedness
@@ -8548,7 +8549,6 @@ frogtongue
 futurities
 fasciation
 ferules
-footrope
 favourless
 foxhole
 frankhearted
