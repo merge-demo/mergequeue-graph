@@ -20436,7 +20436,6 @@ antitypes
 acceptableness
 appeared
 adaptively
-anaglyphoscope
 argylls
 autosymnoia
 alme
@@ -22261,6 +22260,7 @@ angioparalysis
 approacher
 anvasser
 adeption
+anaglyphoscope
 amsath
 anaesthesia
 ariette
