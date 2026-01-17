@@ -3864,6 +3864,7 @@ gulonic
 graupel
 genioplasty
 genetrix
+gemological
 gateworks
 glaciological
 graders
@@ -4082,7 +4083,6 @@ gompholobium
 geoglossum
 galaxiidae
 geelbek
-gemological
 geggee
 gimmickery
 gendering
