@@ -20971,6 +20971,7 @@ arter
 anticlea
 arseno
 ascaridiasis
+anisomerous
 alexine
 archeologian
 affects
@@ -21645,7 +21646,6 @@ acheilous
 anteflected
 alkalizes
 acetometrically
-anisomerous
 assayable
 afterpotential
 assayed
