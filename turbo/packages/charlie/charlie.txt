@@ -11683,7 +11683,6 @@ cushier
 cholos
 choloscopy
 cholterheaded
-choltry
 chirrups
 creekstuff
 cholum
@@ -19331,6 +19330,7 @@ colophons
 coloppe
 chrimsel
 coloproctitis
+choltry
 coloptosis
 colopuncture
 coloquintid
