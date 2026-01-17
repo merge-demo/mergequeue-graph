@@ -121,7 +121,6 @@ genotypicity
 goatfish
 gadroon
 giher
-ginete
 gastly
 gazogene
 gypsyhood
@@ -309,6 +308,7 @@ galvanomagnetic
 grandstand
 greed
 galjoen
+ginete
 gaudful
 gourami
 gadolinium
