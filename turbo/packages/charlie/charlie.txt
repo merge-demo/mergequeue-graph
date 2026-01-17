@@ -5477,6 +5477,7 @@ calin
 calyptriform
 castrati
 compendent
+cornuated
 castrensial
 cerebellopontile
 clodpoles
@@ -25434,7 +25435,6 @@ cornua
 comdt
 cornual
 compulsory
-cornuated
 crystalwort
 coelastraceae
 cornubianite
