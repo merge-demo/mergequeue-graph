@@ -1432,6 +1432,7 @@ guild
 garbages
 gulfy
 grosgrained
+gemutlich
 gainward
 glossarial
 gidjee
@@ -7690,7 +7691,6 @@ getter
 gynandrophore
 gaspy
 gaw
-gemutlich
 gerontism
 gest
 graduands
