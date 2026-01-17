@@ -4968,7 +4968,6 @@ gunhouse
 gynandrosporous
 goiabada
 glykopectic
-grittier
 grotto
 galleypot
 governesshood
@@ -7937,6 +7936,7 @@ gheg
 gadolinic
 glairy
 gainless
+grittier
 greenhorn
 gauzily
 granddaughter
