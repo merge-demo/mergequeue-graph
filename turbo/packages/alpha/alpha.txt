@@ -11496,6 +11496,7 @@ anisettes
 acetoin
 ascospore
 anapnoeic
+anticholinergic
 alenu
 amusers
 abbatical
@@ -22233,7 +22234,6 @@ argumentativeness
 astogeny
 aglutition
 arrestees
-anticholinergic
 astomia
 astone
 allylamine
