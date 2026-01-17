@@ -1515,7 +1515,6 @@ geotonic
 gangland
 grouse
 galoped
-gavelage
 guiro
 giftwrap
 gripers
@@ -10621,6 +10620,7 @@ gracelessness
 gunshop
 gulches
 gunsmithing
+gavelage
 grossification
 grank
 gunstocker
