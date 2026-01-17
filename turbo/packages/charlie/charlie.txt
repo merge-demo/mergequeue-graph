@@ -10974,7 +10974,6 @@ chiroplasty
 churchgo
 commenceable
 chiropody
-cheekish
 chiropodial
 chiropodic
 chiropodical
@@ -24831,6 +24830,7 @@ coryzas
 coracle
 cruciate
 coracobrachial
+cheekish
 clipeus
 calcimeter
 coracobrachialis
