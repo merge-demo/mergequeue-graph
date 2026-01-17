@@ -4729,7 +4729,6 @@ alveolarly
 ambrotype
 aeolist
 aeolus
-anacrustically
 aeonicaeonist
 aeonist
 aphrodisia
@@ -11130,6 +11129,7 @@ arca
 amperian
 amphistomum
 attenuation
+anacrustically
 allotypically
 awakings
 antiorthodoxly
