@@ -7368,7 +7368,6 @@ emprise
 ethidene
 enantiomorphously
 echinochloa
-epenetic
 everglade
 explosion
 ensculpture
@@ -11136,6 +11135,7 @@ episome
 extipulate
 executing
 euphemiously
+epenetic
 evacuants
 earthdrake
 exophagous
