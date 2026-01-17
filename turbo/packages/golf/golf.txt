@@ -766,7 +766,6 @@ goutwort
 groupings
 gladsomer
 gawkily
-geometrically
 graywether
 glome
 galvanotherapy
@@ -7490,6 +7489,7 @@ gymnotidae
 gordon
 greenleaf
 geostrategic
+geometrically
 gaet
 galilean
 gelatinizable
