@@ -2433,6 +2433,7 @@ fractur
 frizzle
 fingered
 frisco
+ferrugineous
 farandola
 flutterable
 frazer
@@ -4695,7 +4696,6 @@ feathermonger
 fratchety
 fijian
 fulgor
-ferrugineous
 flabella
 flyweight
 feoffors
