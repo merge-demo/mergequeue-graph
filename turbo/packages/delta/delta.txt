@@ -11713,7 +11713,6 @@ discoach
 dioramas
 discoverable
 distilland
-dorms
 discoverer
 diabolised
 decancellation
@@ -16272,6 +16271,7 @@ darlingtonia
 domboc
 dildoes
 dca
+dorms
 decentralization
 downier
 dorsoventrality
