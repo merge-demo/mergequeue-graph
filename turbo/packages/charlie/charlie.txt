@@ -11483,7 +11483,6 @@ choired
 choirlike
 conoidally
 choristoma
-coheads
 circularizer
 choirman
 conspirers
@@ -18572,6 +18571,7 @@ clerkhood
 coin
 cephalopod
 coyly
+coheads
 crowders
 corralled
 connex
