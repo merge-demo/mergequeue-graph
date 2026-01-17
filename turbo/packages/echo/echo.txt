@@ -3197,7 +3197,6 @@ eluating
 ernesse
 enambush
 esotery
-extraschool
 eluctate
 elude
 equant
@@ -5875,6 +5874,7 @@ entocalcaneal
 euthyroid
 episcopalian
 excessman
+extraschool
 expend
 engrammes
 enhaemospore
