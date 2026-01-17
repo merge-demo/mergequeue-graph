@@ -4893,6 +4893,7 @@ beebee
 biophysical
 bradystalsis
 bewpers
+beerage
 backspier
 beechen
 beechnut
@@ -5332,7 +5333,6 @@ brokenly
 baidar
 breviers
 beglue
-beerage
 barbola
 begnaw
 biharmonic
