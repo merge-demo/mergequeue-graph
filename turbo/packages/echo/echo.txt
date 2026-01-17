@@ -3126,6 +3126,7 @@ eloins
 etioporphyrin
 explorativeness
 embalms
+esu
 eloise
 epidermidalization
 exocoelom
@@ -8577,7 +8578,6 @@ electronically
 endocarp
 estrogen
 equidistribution
-esu
 exect
 embrasuring
 eutaxic
