@@ -6569,7 +6569,6 @@ frothily
 floodway
 fiends
 floristically
-fingerstone
 fascioliasis
 fringetail
 feelies
@@ -10105,6 +10104,7 @@ fissiparously
 frittering
 fuchi
 frivolity
+fingerstone
 freakier
 frivolities
 froughy

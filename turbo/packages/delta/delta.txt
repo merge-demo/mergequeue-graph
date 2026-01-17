@@ -4989,7 +4989,6 @@ demonstratedly
 divisibly
 dramaturgical
 dename
-denaries
 denarinarii
 deluder
 dropshots
@@ -17836,6 +17835,7 @@ daydreamer
 drinkable
 darktown
 darrell
+denaries
 dorper
 ductor
 ductules
