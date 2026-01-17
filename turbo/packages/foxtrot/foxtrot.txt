@@ -10721,7 +10721,6 @@ fringelike
 faenus
 flam
 flotsams
-frampold
 fideisms
 frumps
 forcedly
@@ -11755,6 +11754,7 @@ forstraught
 flipped
 fertilitate
 fianna
+frampold
 forloin
 fullhearted
 fellowred
