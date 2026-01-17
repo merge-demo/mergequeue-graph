@@ -15697,7 +15697,6 @@ cannas
 clavicorn
 clavicornes
 clavicotomy
-clavicular
 clavicularium
 claviculate
 chrysohermidin
@@ -19481,6 +19480,7 @@ colourifics
 cisterna
 crociary
 corposant
+clavicular
 colourist
 centure
 chilblain
