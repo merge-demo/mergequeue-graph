@@ -956,7 +956,6 @@ exocardia
 emasculating
 enthymematic
 ensaffron
-endomitotic
 excrementary
 edaphology
 etymological
@@ -5999,6 +5998,7 @@ eurhythmics
 ectodermoidal
 enumerates
 enkidu
+endomitotic
 ekatantalum
 enterospasm
 empaler
