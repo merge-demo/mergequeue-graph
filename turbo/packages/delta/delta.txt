@@ -8169,7 +8169,6 @@ dedentition
 dicotylous
 damocles
 decalcified
-disbind
 deywoman
 dermalith
 diaconal
@@ -8259,6 +8258,7 @@ diagonals
 degelation
 deducting
 diagonalwise
+disbind
 denudate
 demonization
 diagonic
