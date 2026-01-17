@@ -2549,7 +2549,6 @@ etrogs
 electron
 elastins
 exenteration
-escapeful
 ethchlorvynol
 everest
 evaporator
@@ -11538,6 +11537,7 @@ embrittled
 errantness
 ennoy
 evocator
+escapeful
 evoe
 ensilaging
 exoculating
