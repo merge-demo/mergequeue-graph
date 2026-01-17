@@ -3701,6 +3701,7 @@ gess
 ghoulishly
 gastrocystis
 gyse
+granivore
 galvanoplastics
 granaries
 guttur
@@ -8070,7 +8071,6 @@ ghain
 genteelish
 gesning
 gentlewoman
-granivore
 gybes
 glandularly
 gasiform
