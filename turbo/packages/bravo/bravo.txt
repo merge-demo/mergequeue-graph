@@ -4976,6 +4976,7 @@ beylik
 bemoaning
 beerhouse
 beerhouses
+bearbind
 breech
 breastband
 barbecueing
@@ -17253,7 +17254,6 @@ blepharolithiasis
 bumblepuppy
 bedriveled
 barriness
-bearbind
 blamably
 bawlers
 bimethyl
