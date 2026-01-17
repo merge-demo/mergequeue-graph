@@ -12439,7 +12439,6 @@ backcast
 begloom
 bonbons
 batell
-barker
 bareboats
 bureaux
 banisterine
@@ -16369,6 +16368,7 @@ beglerbeglik
 betons
 broadways
 beachmaster
+barker
 brulee
 breathily
 beknottedness
