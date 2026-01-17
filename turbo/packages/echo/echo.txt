@@ -4648,7 +4648,6 @@ exceptionability
 evolutionize
 endemics
 electromagnets
-encyclopedic
 ebauche
 erpetology
 exacerbating
@@ -5314,6 +5313,7 @@ epicrystalline
 encoring
 endosteomata
 enwingly
+encyclopedic
 excarnate
 endeavoring
 enmagazine
