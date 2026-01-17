@@ -6454,7 +6454,6 @@ gidgee
 guary
 goldentop
 glochideous
-gorgonized
 governor
 geyseric
 golder
@@ -7796,6 +7795,7 @@ geococcyx
 glomming
 garlandry
 glucase
+gorgonized
 gunline
 glozingly
 genecor
