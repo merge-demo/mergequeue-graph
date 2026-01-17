@@ -16277,7 +16277,6 @@ clio
 cresses
 canterer
 clipboard
-clipboards
 clypeastridea
 chicky
 clypeastrina
@@ -27960,6 +27959,7 @@ camerlengos
 celeomorphic
 catharize
 clinoclase
+clipboards
 cradles
 cradlesongs
 cradling
