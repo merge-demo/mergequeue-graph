@@ -2468,6 +2468,7 @@ cancroid
 clientele
 contuse
 crystallitic
+carder
 cancrum
 cancrums
 cand
@@ -19096,7 +19097,6 @@ colliquable
 colliquate
 collyria
 collyrite
-carder
 collyrium
 cedes
 cystocyte
