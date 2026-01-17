@@ -315,6 +315,7 @@ flusker
 futureness
 fagaceae
 firesafe
+fuzzed
 fessed
 fittage
 fornicatory
@@ -8594,7 +8595,6 @@ foredid
 fir
 fittings
 ferretto
-fuzzed
 finnochio
 functionate
 fingerfishes
