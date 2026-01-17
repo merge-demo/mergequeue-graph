@@ -915,7 +915,6 @@ gambia
 garblings
 gyrocompass
 garnishable
-grittiness
 gemeinschaften
 guidership
 gelsemiumia
@@ -4012,6 +4011,7 @@ grisettes
 gelatines
 gilliflower
 grocery
+grittiness
 gastronome
 glonoine
 genitorial
