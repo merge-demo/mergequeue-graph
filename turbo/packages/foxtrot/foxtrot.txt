@@ -833,6 +833,7 @@ florilege
 faucial
 fumingly
 faun
+fumigating
 fenny
 frogeyes
 formfitting
@@ -8047,7 +8048,6 @@ forestries
 firebrats
 furnitures
 forenames
-fumigating
 flecnode
 fiendfully
 ferrochromium
