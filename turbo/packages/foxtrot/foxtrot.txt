@@ -3172,6 +3172,7 @@ furanoses
 footballist
 firma
 feministic
+flappet
 fauns
 ficaries
 flouse
@@ -5009,7 +5010,6 @@ forthgoing
 fibrocrystalline
 flappable
 frankalmoin
-flappet
 fermions
 figlike
 fishline
