@@ -799,7 +799,6 @@ gimlet
 gambade
 garrotting
 gastroenteritic
-gambang
 gastrular
 grazer
 glaceing
@@ -4983,6 +4982,7 @@ goofed
 ganders
 gallingness
 grovels
+gambang
 gonocheme
 granulose
 genesiology
