@@ -5701,6 +5701,7 @@ exceptionality
 engined
 ending
 excusability
+elkdom
 engage
 etymologic
 exampless
@@ -12557,7 +12558,6 @@ envied
 enherit
 epistolist
 entryman
-elkdom
 eft
 eucosia
 exmeridian
