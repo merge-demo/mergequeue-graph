@@ -13359,7 +13359,6 @@ cunoniaceous
 concurrency
 cyclostomes
 cyclostomi
-cedent
 cyclothymiac
 cocci
 contractile
@@ -19029,6 +19028,7 @@ colleted
 colletes
 colletia
 chalkstone
+cedent
 colletin
 colleting
 comintern
