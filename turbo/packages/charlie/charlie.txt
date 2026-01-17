@@ -13146,7 +13146,6 @@ chiaroscuro
 clon
 ciceronianisms
 ciceronianist
-compellability
 colluviums
 clavellate
 ciceronianize
@@ -19776,6 +19775,7 @@ combustion
 combustious
 combustive
 combusts
+compellability
 captained
 combwise
 catapulting
