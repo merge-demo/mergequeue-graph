@@ -2460,6 +2460,7 @@ firelocks
 fascinatedly
 foulage
 farthermost
+foveiform
 frayne
 firn
 fumbulator
@@ -6796,7 +6797,6 @@ forewonted
 freelancer
 folderols
 foreheater
-foveiform
 fjelds
 fiddlebrained
 freeing
