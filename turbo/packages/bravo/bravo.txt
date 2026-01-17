@@ -578,6 +578,7 @@ bacon
 balkar
 boffola
 baubee
+barbitos
 balisaur
 baconian
 benzalacetone
@@ -12182,7 +12183,6 @@ bemuzzle
 bisognio
 boarishness
 bureaucracies
-barbitos
 biclinium
 blaff
 balneum
