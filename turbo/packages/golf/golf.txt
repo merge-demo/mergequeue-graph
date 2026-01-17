@@ -7900,6 +7900,7 @@ generic
 gramophonic
 garreteer
 gruelling
+gasifiable
 gametangium
 goi
 gounau
@@ -7980,7 +7981,6 @@ globing
 glottologies
 genghis
 goldenmouthed
-gasifiable
 gainer
 gervao
 guttee
