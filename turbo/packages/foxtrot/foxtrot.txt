@@ -5063,6 +5063,7 @@ forelay
 flinches
 forewent
 faldistory
+frisure
 fidejussion
 fecundated
 flavaniline
@@ -9055,7 +9056,6 @@ filterer
 fleabanes
 fourberie
 fedelini
-frisure
 fenlander
 frankist
 featy
