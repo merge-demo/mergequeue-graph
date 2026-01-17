@@ -8813,7 +8813,6 @@ endarteritis
 estrones
 erectopatent
 entophytic
-equiprobabilist
 eternities
 egyptologic
 enjeopardy
@@ -9562,6 +9561,7 @@ egocentristic
 encephaloma
 enchasers
 esoethmoiditis
+equiprobabilist
 eudipleural
 exornation
 energiser
