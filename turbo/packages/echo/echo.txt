@@ -5705,6 +5705,7 @@ engineman
 epitheliolysis
 eudidymite
 egalites
+exserts
 engineries
 embrace
 eau
@@ -11237,7 +11238,6 @@ earwort
 epidictical
 encrotchet
 embryologist
-exserts
 earthquake
 exundate
 ectoloph
