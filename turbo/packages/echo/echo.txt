@@ -108,7 +108,6 @@ earrings
 eaves
 excrementally
 exsculptate
-equisetaceae
 engobe
 egotistically
 eartab
@@ -3623,6 +3622,7 @@ elaidic
 emergency
 epiphloedic
 embrica
+equisetaceae
 embryectomy
 exturb
 earlet
