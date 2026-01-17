@@ -5779,6 +5779,7 @@ euchre
 enterons
 enhedge
 encrinal
+eer
 episode
 enray
 ephoi
@@ -7023,7 +7024,6 @@ entoiling
 enunciability
 etymologer
 euphemous
-eer
 ebonising
 eleemosynar
 enunciated
