@@ -6570,7 +6570,6 @@ booming
 birotation
 blotter
 bluff
-betons
 blastular
 bere
 butterbox
@@ -16360,6 +16359,7 @@ benchmarking
 balalaikas
 brujos
 beglerbeglik
+betons
 broadways
 beachmaster
 brulee
