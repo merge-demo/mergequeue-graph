@@ -10066,7 +10066,6 @@ fennec
 functions
 fishpound
 flavours
-fritz
 furnisher
 foozling
 fremontia
@@ -10774,6 +10773,7 @@ fulgentness
 fanaticize
 flittermice
 films
+fritz
 freehandedness
 fjeld
 flagstaffs
