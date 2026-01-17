@@ -6223,6 +6223,7 @@ gregor
 garrisoned
 gastrimargy
 guillotinade
+gregorianist
 gamopetalae
 gp
 galactophagist
@@ -7089,7 +7090,6 @@ gentiledom
 grottos
 galletas
 grassmen
-gregorianist
 germanist
 galactodendron
 guglio
