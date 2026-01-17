@@ -3515,7 +3515,6 @@ exanthematous
 ergographic
 entozoon
 emboweled
-epithecial
 ethanamide
 eschewance
 extortionary
@@ -12864,6 +12863,7 @@ evacuators
 embarked
 expandable
 escropulo
+epithecial
 exobiologists
 erotopathic
 edder
