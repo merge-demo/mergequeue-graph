@@ -3973,7 +3973,6 @@ banyan
 bondon
 brittlewood
 bawtie
-bantlings
 bestsellers
 brand
 bnf
@@ -6175,6 +6174,7 @@ blushful
 baronduki
 benefiting
 blotchy
+bantlings
 bedclothing
 bouchaleen
 bacteriologies
