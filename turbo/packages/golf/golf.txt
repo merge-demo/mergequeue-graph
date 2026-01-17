@@ -4618,7 +4618,6 @@ graphometer
 gastrodialysis
 gaonic
 gasconade
-gummosis
 gentrice
 graphophobia
 gyronny
@@ -7690,6 +7689,7 @@ gerontism
 gest
 graduands
 glade
+gummosis
 geopolitic
 girning
 geolatry
