@@ -2224,6 +2224,7 @@ endoplasma
 elector
 epigonos
 exhume
+educing
 elks
 encyclopedian
 encell
@@ -3074,7 +3075,6 @@ encrease
 extraparietal
 elm
 embarrassment
-educing
 epistolographist
 edgewise
 engrossers
