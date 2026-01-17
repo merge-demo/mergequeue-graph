@@ -5490,7 +5490,6 @@ cormorants
 conchobor
 cutaneal
 casuistically
-cyclopedia
 casuistry
 catpipe
 colic
@@ -12204,6 +12203,7 @@ carapa
 chattelized
 cupbearers
 chrysome
+cyclopedia
 chrysomyia
 chrysomonadales
 copihues

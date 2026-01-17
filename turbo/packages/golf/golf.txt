@@ -5424,6 +5424,7 @@ gluing
 gladful
 goethite
 gentlest
+gyrovagi
 grimier
 grill
 garancin
@@ -5500,7 +5501,6 @@ globalizing
 gisants
 growls
 groggeries
-gyrovagi
 gently
 gump
 grassfinch
