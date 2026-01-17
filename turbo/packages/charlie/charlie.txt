@@ -137,7 +137,6 @@ cataclysm
 cable
 cablecast
 cardiolith
-catholici
 crudes
 cabled
 cablegrams
@@ -1219,6 +1218,7 @@ causativeness
 cestuses
 cecily
 caledonite
+catholici
 clape
 confections
 cacosplanchnia
