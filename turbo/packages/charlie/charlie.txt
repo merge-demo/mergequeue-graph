@@ -5689,7 +5689,6 @@ catarrhal
 col
 catarrhina
 charlie
-catarrhous
 catarrhs
 coburgher
 catasarka
@@ -8623,6 +8622,7 @@ coendou
 couching
 channeling
 clubbish
+catarrhous
 channelize
 crumber
 corresponder
