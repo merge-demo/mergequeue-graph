@@ -5812,7 +5812,6 @@ desistance
 depots
 dasyure
 dictating
-deprave
 disanagrammatize
 doxologizing
 dreidel
@@ -10375,6 +10374,7 @@ definitive
 demonises
 droiture
 diplosphene
+deprave
 dioxy
 defecate
 discourtship
