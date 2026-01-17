@@ -16439,6 +16439,7 @@ cuon
 clockmaking
 crewer
 clockwatcher
+clusterberry
 cingulum
 clockwise
 clockworked
@@ -16944,7 +16945,6 @@ clusia
 clusiaceae
 clusterings
 clusiaceous
-clusterberry
 chlorosilicate
 chancer
 chorio
