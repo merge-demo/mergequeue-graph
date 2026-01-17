@@ -5948,6 +5948,7 @@ floorcloths
 fumid
 fluidizing
 folkways
+foliot
 foreplays
 fawny
 fluidrachm
@@ -6841,7 +6842,6 @@ fierasferidae
 foliose
 flachery
 flittingly
-foliot
 floribunda
 forthby
 ferritungstite
