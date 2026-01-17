@@ -7113,6 +7113,7 @@ grottoed
 generalia
 gonothecae
 garnett
+guardianless
 gnathostomatous
 grundyism
 gamecock
@@ -7629,7 +7630,6 @@ gears
 glancingly
 guenons
 geologist
-guardianless
 geomantic
 gradated
 gleaminess
