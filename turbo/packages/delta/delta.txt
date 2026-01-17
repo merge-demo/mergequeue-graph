@@ -2471,7 +2471,6 @@ darkened
 decitizenize
 decivilize
 dateline
-deckel
 deporte
 debased
 ditchdown
@@ -12235,6 +12234,7 @@ despoticly
 deviators
 dysfunctions
 disfurnish
+deckel
 deport
 disfurnished
 dangerless
