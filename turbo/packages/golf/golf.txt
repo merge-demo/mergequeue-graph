@@ -2858,6 +2858,7 @@ groggier
 gallerylike
 gigmanhood
 gravediggers
+gudge
 guddled
 gynospore
 gyromitra
@@ -10041,7 +10042,6 @@ gisler
 guerdoner
 greatheart
 grandnephew
-gudge
 gospelers
 gonidiferous
 gadflies
