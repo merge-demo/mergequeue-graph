@@ -15042,6 +15042,7 @@ astrose
 anasarcas
 attestant
 anticrochet
+amulets
 antipewism
 anticularia
 antidactyl
@@ -19960,7 +19961,6 @@ abbreviated
 acrasins
 alexander
 armpiece
-amulets
 ananthropism
 aramis
 avengement
