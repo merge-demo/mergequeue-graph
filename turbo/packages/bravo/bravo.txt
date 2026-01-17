@@ -1857,6 +1857,7 @@ banderol
 banderole
 bindings
 brigading
+baroscope
 banders
 broadlings
 befogging
@@ -9363,7 +9364,6 @@ brabbles
 bewrathed
 brinish
 bonsela
-baroscope
 brockets
 baleless
 bushi
