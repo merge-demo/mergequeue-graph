@@ -3728,6 +3728,7 @@ embrues
 ennuied
 executive
 edificial
+excarnation
 exceeding
 embruing
 enfranchises
@@ -9128,7 +9129,6 @@ epizoarian
 equiponderancy
 ermiline
 epidemy
-excarnation
 ermined
 erminee
 enleague
