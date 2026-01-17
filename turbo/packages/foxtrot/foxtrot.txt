@@ -5304,6 +5304,7 @@ focusses
 fldxt
 foolhardier
 frower
+filtrability
 frugalism
 featherweight
 flayflint
@@ -10637,7 +10638,6 @@ frankness
 fiddlededee
 fruitfuller
 frogstool
-filtrability
 facultate
 fegatella
 fickly
