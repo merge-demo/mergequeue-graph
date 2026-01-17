@@ -18658,6 +18658,7 @@ crafty
 conourish
 corporales
 cointensity
+collectibility
 cointer
 cointerest
 cointerred
@@ -18983,7 +18984,6 @@ collected
 cranberry
 ctenoidean
 constables
-collectibility
 collectible
 collection
 cinnamon
