@@ -6835,6 +6835,7 @@ cellose
 cognizance
 coadunative
 counterreconnaissance
+croak
 casketing
 cocoonery
 cementers
@@ -21981,7 +21982,6 @@ confinity
 chivying
 californicus
 clitoromaniac
-croak
 corelative
 cytocyst
 confirmable
