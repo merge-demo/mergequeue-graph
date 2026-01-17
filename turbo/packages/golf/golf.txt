@@ -4268,6 +4268,7 @@ glaciology
 glazings
 grieves
 gippy
+gool
 grads
 gluttonous
 garganeys
@@ -7654,7 +7655,6 @@ girdler
 gunsmithery
 graded
 gorgonlike
-gool
 gnathometer
 guachamaca
 geira
