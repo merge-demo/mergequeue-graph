@@ -2645,7 +2645,6 @@ birdhouses
 bilges
 botanise
 begirdle
-barkless
 battening
 bescorch
 beeth
@@ -13155,6 +13154,7 @@ bouquetin
 biseriate
 bugged
 blaspheme
+barkless
 burinist
 basileis
 bankrupts
