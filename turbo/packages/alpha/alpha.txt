@@ -3302,6 +3302,7 @@ apx
 amblychromatic
 anomurous
 agawam
+anisopteran
 adactylous
 ametabola
 adad
@@ -13346,7 +13347,6 @@ antilogies
 allegretto
 aspca
 agamont
-anisopteran
 absolvitory
 abrading
 antecedent
