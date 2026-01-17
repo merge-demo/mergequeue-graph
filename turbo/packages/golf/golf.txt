@@ -376,7 +376,6 @@ graphium
 gorefish
 gangrenous
 grinded
-gunsmith
 goniometrical
 guyer
 galactosis
@@ -6783,6 +6782,7 @@ geologically
 gazania
 gyrostatics
 genal
+gunsmith
 genros
 gondola
 goniums
