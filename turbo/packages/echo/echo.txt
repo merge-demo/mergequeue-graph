@@ -8501,7 +8501,6 @@ equalitarianism
 essee
 extratorrid
 ethmoiditis
-epiphysis
 elain
 effluvivia
 estheriidae
@@ -10702,6 +10701,7 @@ embrangled
 eugubine
 entoderm
 emeerate
+epiphysis
 epitomizer
 emplacement
 euhemerist
