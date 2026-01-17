@@ -4552,7 +4552,6 @@ carnaria
 carnassial
 carnate
 ctimo
-corupay
 cordialize
 carnation
 carnationist
@@ -22255,6 +22254,7 @@ congestible
 congesting
 congestion
 calk
+corupay
 congestive
 conceitedly
 conglaciate
