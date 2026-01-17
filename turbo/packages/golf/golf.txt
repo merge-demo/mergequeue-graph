@@ -3078,7 +3078,6 @@ groaned
 geophilid
 galvanoscopic
 granula
-gymnasisia
 groined
 glucosine
 gelatinity
@@ -10859,6 +10858,7 @@ gweeon
 girds
 geomagnetician
 gush
+gymnasisia
 gigtree
 gyri
 grozet
