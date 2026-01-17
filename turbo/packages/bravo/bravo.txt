@@ -9036,7 +9036,6 @@ bize
 bitentaculate
 busheler
 barbershop
-burnouts
 boldface
 brev
 biophagism
@@ -16074,6 +16073,7 @@ broaden
 brontology
 bollards
 barbiturates
+burnouts
 bearpaw
 burgessdom
 brontosauruses
