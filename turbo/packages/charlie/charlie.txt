@@ -11812,7 +11812,6 @@ contradictories
 catechisms
 chopdar
 cyprinoidea
-connation
 clarina
 chopins
 coinquinate
@@ -13665,6 +13664,7 @@ colleges
 cytomorphology
 cinches
 crankcase
+connation
 coots
 cinching
 cincholoipon
