@@ -9796,7 +9796,6 @@ ethnographist
 extincteur
 econometrician
 eatables
-entrance
 enanthema
 estats
 eternise
@@ -11461,6 +11460,7 @@ ekistics
 eventuates
 epizooties
 evidential
+entrance
 embryologically
 evidentially
 epencephalons
