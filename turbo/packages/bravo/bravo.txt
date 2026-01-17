@@ -7156,6 +7156,7 @@ biologist
 brightly
 barricades
 bessel
+bonhomies
 bessemerize
 bessemerized
 bugleweed
@@ -12535,7 +12536,6 @@ beaus
 bedposts
 burseeds
 biham
-bonhomies
 boni
 burtonize
 boniata
