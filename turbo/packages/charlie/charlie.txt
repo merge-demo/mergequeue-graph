@@ -2050,6 +2050,7 @@ complementally
 cropper
 capitalizer
 chicomecoatl
+coinventor
 cypresses
 cruelize
 colonial
@@ -15965,7 +15966,6 @@ clerihews
 consence
 clerisies
 certifiably
-coinventor
 carryovers
 cobstone
 clerkdom
