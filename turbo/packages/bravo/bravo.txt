@@ -8172,7 +8172,6 @@ bielding
 brunts
 bewinter
 benzopinacone
-byrlaw
 blimpish
 beloeilite
 busybodied
@@ -10040,6 +10039,7 @@ brabagious
 brodyaga
 benign
 bixin
+byrlaw
 blackfoot
 brachycnemic
 badgered
