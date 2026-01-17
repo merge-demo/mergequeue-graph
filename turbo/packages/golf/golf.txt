@@ -42,7 +42,6 @@ gabioned
 glutamate
 gmelina
 grawls
-grammes
 gabions
 gunfires
 genotypically
@@ -1634,6 +1633,7 @@ gypsite
 groovier
 grousewards
 grosgrain
+grammes
 gumlikeness
 geode
 goyish

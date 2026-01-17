@@ -1672,7 +1672,6 @@ forebrace
 flacourtiaceous
 forgrow
 fearedly
-fadeaways
 frisker
 fearedness
 fluidizes
@@ -3111,6 +3110,7 @@ flamefishes
 finnick
 faring
 fulminancy
+fadeaways
 freshwater
 fibroferrite
 firewarden
