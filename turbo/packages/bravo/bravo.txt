@@ -4951,6 +4951,7 @@ boatel
 bandy
 beek
 balkers
+barbell
 bioclimatologies
 beekeeping
 bedight
@@ -10003,7 +10004,6 @@ bizarrerie
 behowled
 bield
 broody
-barbell
 bn
 baroscopical
 bargainor
