@@ -1732,6 +1732,7 @@ deplete
 decumaria
 deathlessness
 deathlikeness
+diversities
 deathliness
 deathrates
 deathsman
@@ -18407,7 +18408,6 @@ doubtedly
 disembarkment
 demilune
 demonstrable
-diversities
 duopsonistic
 devota
 defrauder
