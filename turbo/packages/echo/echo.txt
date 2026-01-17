@@ -3714,6 +3714,7 @@ endiaper
 erugation
 electroendosmotic
 economite
+eversive
 eyelast
 eolipile
 episiohematoma
@@ -11760,7 +11761,6 @@ epithelioid
 extracorpuscular
 euripidean
 ekphore
-eversive
 epimerise
 extrospective
 exorcises
