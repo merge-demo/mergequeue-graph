@@ -5829,6 +5829,7 @@ feminology
 funebre
 farding
 flabby
+finement
 fastigia
 fowlers
 flocced
@@ -10583,7 +10584,6 @@ fanteeg
 freakouts
 filmslide
 fibrination
-finement
 fuzzes
 fulgent
 fuddler
