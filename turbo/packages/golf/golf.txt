@@ -4165,6 +4165,7 @@ geomagnetic
 gimped
 gimpier
 guarache
+gastrectasis
 guidable
 galactolytic
 gliosa
@@ -6329,7 +6330,6 @@ goatsucker
 graplines
 gamic
 greentail
-gastrectasis
 gonake
 grotesqueries
 gradating
