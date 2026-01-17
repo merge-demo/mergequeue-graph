@@ -10811,7 +10811,6 @@ devex
 deificatory
 direful
 direfully
-dirempt
 direness
 drusy
 dolly
@@ -13424,6 +13423,7 @@ decedents
 disquisitions
 disquisitor
 disquisitional
+dirempt
 dismarble
 deepfreezed
 disform
