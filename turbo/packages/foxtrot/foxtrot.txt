@@ -7464,7 +7464,6 @@ fourbagger
 fluellin
 fillip
 fogou
-forgivably
 freenesses
 foreassurance
 forecabin
@@ -8899,6 +8898,7 @@ fragged
 fossicker
 flueman
 filosus
+forgivably
 funambulist
 fuddling
 footsoreness
