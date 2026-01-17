@@ -2846,6 +2846,7 @@ foolfishes
 fibroglia
 furunculosis
 flatwares
+flamefish
 formol
 feltyfare
 fisty
@@ -6224,7 +6225,6 @@ friendlike
 frankeniaceous
 fecit
 fanfaronading
-flamefish
 fluidified
 fluoarsenate
 folium
