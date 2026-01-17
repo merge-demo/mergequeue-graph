@@ -1301,7 +1301,6 @@ dumpings
 diastaltic
 decoloured
 daubreite
-degaussing
 dobsons
 dinitro
 densified
@@ -9040,6 +9039,7 @@ distichiasis
 dictational
 dictatory
 dorsals
+degaussing
 dictyodromous
 deafest
 dictyogen
