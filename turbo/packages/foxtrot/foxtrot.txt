@@ -2260,7 +2260,6 @@ forgetters
 fenchene
 favn
 feluccas
-fastigated
 ficoid
 facaded
 florentinism
@@ -2781,6 +2780,7 @@ fuddlebrained
 forgivingness
 featness
 festinated
+fastigated
 festinating
 festination
 forgettery
