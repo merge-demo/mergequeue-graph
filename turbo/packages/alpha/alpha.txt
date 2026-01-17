@@ -11681,6 +11681,7 @@ anaemotropy
 adrad
 anaeretic
 ambulacrum
+ambiences
 acerbity
 astrometeorologist
 adages
@@ -22054,7 +22055,6 @@ asepticism
 anteprostate
 astable
 aedeagus
-ambiences
 apologists
 astay
 aegithognathism
