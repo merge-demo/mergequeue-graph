@@ -1205,7 +1205,6 @@ gimmicking
 glanders
 garrisonian
 glossectomies
-guatusan
 galegine
 gratulate
 guilelessness
@@ -1775,6 +1774,7 @@ gonadial
 genealogizer
 gastroscopist
 gavelled
+guatusan
 gasterosteid
 gynandrism
 glossolaly
