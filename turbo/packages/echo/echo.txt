@@ -1981,6 +1981,7 @@ epidemics
 ektenes
 expeditious
 excitableness
+eburine
 epilate
 ektexine
 elabor
@@ -7509,7 +7510,6 @@ epicedian
 epicedium
 entropies
 entopterygoid
-eburine
 exogastrically
 eduardo
 enddamage
