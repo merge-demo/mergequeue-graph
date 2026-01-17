@@ -9613,6 +9613,7 @@ entangleable
 equipper
 epenthesize
 epacris
+encourage
 elaeagnus
 enfrai
 esparsette
@@ -12222,7 +12223,6 @@ elevener
 erodable
 edriasteroidea
 ergotine
-encourage
 eskuara
 ephemerides
 emmental
