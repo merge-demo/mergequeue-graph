@@ -3295,7 +3295,6 @@ grr
 gulps
 genoblast
 galvanofaradization
-glottalization
 gyneccia
 gipsyesque
 geepounds
@@ -8118,6 +8117,7 @@ girandole
 granulary
 guidebooks
 glyoxalin
+glottalization
 gobs
 gorsedd
 galactic
