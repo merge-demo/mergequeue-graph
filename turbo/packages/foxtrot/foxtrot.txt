@@ -1745,6 +1745,7 @@ featherbird
 forfare
 foreshore
 freedman
+fluoroscope
 foveal
 feeded
 foresaddle
@@ -11011,7 +11012,6 @@ forcipate
 falafel
 fumets
 fumiest
-fluoroscope
 frivolist
 fossilizes
 fillets
