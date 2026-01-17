@@ -4350,7 +4350,6 @@ gyniatries
 gambias
 gynaecomorphous
 glottitis
-gowdnook
 grindings
 groundhog
 gink
@@ -9269,6 +9268,7 @@ grobian
 gesithcund
 gravies
 gigabyte
+gowdnook
 gigglesome
 groceryman
 goitre
