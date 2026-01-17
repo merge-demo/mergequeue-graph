@@ -4359,6 +4359,7 @@ encadre
 ender
 emphasised
 electrobioscopy
+episcopality
 endoparasite
 environmentally
 enfacing
@@ -5505,7 +5506,6 @@ ethions
 enfettering
 enophthalmos
 expandability
-episcopality
 ecphrasis
 endoergic
 enfevering
