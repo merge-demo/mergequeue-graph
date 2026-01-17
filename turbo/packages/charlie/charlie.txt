@@ -13818,6 +13818,7 @@ cistic
 chelingo
 credence
 cockal
+certiorari
 clons
 carmele
 caeca
@@ -24231,7 +24232,6 @@ courser
 cosonant
 convolvulic
 convolvulinic
-certiorari
 cholecystoduodenostomy
 constraining
 curval
