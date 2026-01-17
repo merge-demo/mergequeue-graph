@@ -12754,7 +12754,6 @@ dehydratase
 doggrels
 disordinated
 dispensability
-dorsilateral
 dislocating
 dissemblingly
 dantesque
@@ -15406,6 +15405,7 @@ digestedness
 deforestation
 detoxify
 dragonet
+dorsilateral
 djebel
 disanoint
 dolichoprosopic
