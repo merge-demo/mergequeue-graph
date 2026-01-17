@@ -6333,7 +6333,6 @@ flummoxes
 fubsier
 farmhouses
 foppy
-flatlings
 flowchart
 flagpole
 fontes
@@ -11403,6 +11402,7 @@ flushboard
 feasor
 flocculose
 furniture
+flatlings
 flummoxing
 frustrable
 footlicking
