@@ -5010,7 +5010,6 @@ flaperon
 flippantly
 forthgoing
 fibrocrystalline
-flappable
 frankalmoin
 flappet
 fermions
@@ -11423,6 +11422,7 @@ fettering
 forebemoaned
 founte
 fortunetell
+flappable
 flagellators
 fallibleness
 formfeed
