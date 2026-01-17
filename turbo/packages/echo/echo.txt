@@ -3883,6 +3883,7 @@ endexine
 emissory
 emitting
 entamebas
+eluviation
 electropathic
 effigy
 endocrinologies
@@ -10780,7 +10781,6 @@ elaborating
 emoting
 euskera
 esterases
-eluviation
 epitactic
 encumber
 engrafts
