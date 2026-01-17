@@ -347,6 +347,7 @@ formulariser
 fawniest
 formagenic
 fetes
+flashing
 famulative
 flaggelate
 fivish
@@ -3603,7 +3604,6 @@ frisbees
 farmable
 fridstool
 frictionlessly
-flashing
 faintishness
 fielder
 floatsman
