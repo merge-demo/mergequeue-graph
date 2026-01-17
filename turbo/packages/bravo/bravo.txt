@@ -2279,7 +2279,6 @@ bedizens
 butted
 bummil
 burgherdom
-bindoree
 broadsheet
 brier
 bianco
@@ -15318,6 +15317,7 @@ budtime
 bridgebuilder
 bridgehead
 bridgemaking
+bindoree
 blinis
 bayous
 bejan
