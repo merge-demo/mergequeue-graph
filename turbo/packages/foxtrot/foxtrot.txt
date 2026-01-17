@@ -8258,6 +8258,7 @@ farmings
 flagellaria
 fractious
 feists
+forayer
 flump
 forehoof
 frontlets
@@ -8868,7 +8869,6 @@ foumart
 freight
 fodgel
 falciparum
-forayer
 filister
 founded
 foutra
