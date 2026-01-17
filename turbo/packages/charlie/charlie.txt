@@ -3889,7 +3889,6 @@ choultries
 contrastimulant
 chinkle
 criminalness
-centrosymmetry
 carbonisable
 carbonise
 capernaism
@@ -12123,6 +12122,7 @@ conjecturalist
 copeognatha
 chresmology
 chrestomathics
+centrosymmetry
 chrestomathies
 celluliferous
 chria
