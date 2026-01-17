@@ -4597,6 +4597,7 @@ foxery
 fifo
 formazyl
 francophilism
+fungistatic
 firked
 factorizations
 fullnesses
@@ -9619,7 +9620,6 @@ foresides
 fathers
 fourths
 floyt
-fungistatic
 freezy
 fubbed
 fromage
