@@ -9855,7 +9855,6 @@ chemiotropic
 chemiotropism
 crinet
 cryptogenic
-chemisette
 chemism
 choosy
 chemisorb
@@ -27866,6 +27865,7 @@ crabbily
 crabbing
 crabcatcher
 cytohyaloplasm
+chemisette
 concerting
 crunchy
 crabeating
