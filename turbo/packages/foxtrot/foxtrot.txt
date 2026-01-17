@@ -4489,7 +4489,6 @@ fabulist
 fingernails
 flammule
 filleul
-fuddles
 francophobia
 flagging
 favissa
@@ -8819,6 +8818,7 @@ fostered
 fator
 figeter
 fluidities
+fuddles
 flickers
 fatty
 ferrotypes
