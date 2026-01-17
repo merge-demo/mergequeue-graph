@@ -784,7 +784,6 @@ diapnotic
 dermoidal
 dispiteously
 dandis
-discursory
 dandisette
 decoyer
 dandizette
@@ -7182,6 +7181,7 @@ diaphorase
 diemaking
 detaches
 dicast
+discursory
 dynamis
 demijohns
 demulsifying
