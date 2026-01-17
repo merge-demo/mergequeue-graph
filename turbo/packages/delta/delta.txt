@@ -3080,6 +3080,7 @@ disennoble
 defacing
 defacto
 defade
+dispelling
 dichlamydeous
 defaillance
 defaitiste
@@ -17759,7 +17760,6 @@ duboisine
 duc
 dibutyrin
 disconsolate
-dispelling
 ducally
 drunt
 discriminous
