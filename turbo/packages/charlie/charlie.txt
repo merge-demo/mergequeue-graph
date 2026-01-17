@@ -2631,6 +2631,7 @@ canepin
 cooser
 ciphonies
 cheeseflower
+chemicodynamic
 cursaro
 coign
 camelopardel
@@ -9827,7 +9828,6 @@ chemicoastrological
 chokra
 chemicobiologic
 collocates
-chemicodynamic
 caliches
 chemicoluminescent
 cyclostome
