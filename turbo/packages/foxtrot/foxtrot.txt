@@ -1549,7 +1549,6 @@ funk
 fuselage
 fauvisms
 foreprepare
-fodderer
 filechar
 ferruminate
 faucitis
@@ -9786,6 +9785,7 @@ followup
 fretten
 firedamps
 fragmentary
+fodderer
 fattens
 foredooming
 fleck
