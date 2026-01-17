@@ -2128,6 +2128,7 @@ decanery
 decanes
 diabolify
 decangular
+dermotropic
 daedalus
 decently
 decanonize
@@ -6336,7 +6337,6 @@ dermophobe
 duodenum
 dermosclerite
 deco
-dermotropic
 delphinoidea
 derms
 diacatholicon
