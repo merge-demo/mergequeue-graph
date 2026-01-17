@@ -7641,7 +7641,6 @@ alcoholdom
 abbrev
 alcoholemia
 alcoholically
-appetition
 anaudia
 appendicocaecostomy
 autoprothesis
@@ -19970,6 +19969,7 @@ astrologe
 absentia
 antidumping
 araliophyllum
+appetition
 applauding
 aryballos
 azlons
