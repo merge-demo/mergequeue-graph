@@ -7143,6 +7143,7 @@ foosterer
 footfarer
 falsework
 footfault
+ferociousness
 fricassees
 flimflammery
 footfolk
@@ -11545,7 +11546,6 @@ fledgy
 famose
 folio
 fretfully
-ferociousness
 footlessly
 fetting
 fusiform
