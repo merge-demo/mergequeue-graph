@@ -5932,6 +5932,7 @@ buffaloes
 blatherer
 beltane
 belauding
+barquest
 bimetalic
 belter
 beraked
@@ -12831,7 +12832,6 @@ betalk
 boomkin
 bibliophobia
 bondswoman
-barquest
 bootes
 basiliscine
 blink
