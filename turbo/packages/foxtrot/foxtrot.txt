@@ -6308,6 +6308,7 @@ frags
 fluidity
 fuzzy
 funicle
+filosus
 flack
 futural
 fullback
@@ -8893,7 +8894,6 @@ fountain
 fragged
 fossicker
 flueman
-filosus
 forgivably
 funambulist
 fuddling
