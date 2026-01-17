@@ -4651,7 +4651,6 @@ bedemen
 bens
 beleapt
 buxus
-bedevilling
 barbershops
 borities
 bargee
@@ -10944,6 +10943,7 @@ brede
 blindweed
 blindworm
 backscratcher
+bedevilling
 blackamoor
 bumps
 biloquist
