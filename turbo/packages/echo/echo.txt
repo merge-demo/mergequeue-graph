@@ -7948,7 +7948,6 @@ eteocreton
 embower
 expander
 epinaos
-eirack
 embox
 estab
 eliminand
@@ -10921,6 +10920,7 @@ endore
 epipteric
 eulogies
 envy
+eirack
 echinops
 euphuize
 eupyrion
