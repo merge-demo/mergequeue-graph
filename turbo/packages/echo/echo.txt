@@ -4334,7 +4334,6 @@ eremacausis
 esoenteritis
 exotically
 embrasure
-enantiomorph
 encratic
 equinovarus
 electrolyzer
@@ -5411,6 +5410,7 @@ exaggerations
 evulsion
 emydosauria
 electuary
+enantiomorph
 exculpations
 eurithermophile
 emplastrum
