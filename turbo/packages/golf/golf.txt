@@ -3001,7 +3001,6 @@ guaiacol
 gaulding
 ginglymoidal
 gregarinosis
-geogenic
 gyrally
 grudgekin
 garboil
@@ -5140,6 +5139,7 @@ gesticulator
 grumbled
 glossocomon
 guavas
+geogenic
 genipap
 gemman
 gassiest
