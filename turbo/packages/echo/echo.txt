@@ -10185,7 +10185,6 @@ executives
 ethernet
 extrahazardous
 emancipation
-escrowed
 emmarbled
 electrotelegraphic
 externals
@@ -13616,6 +13615,7 @@ experientially
 esopgi
 englishwomen
 expurgates
+escrowed
 empedoclean
 electrolytically
 effossion
