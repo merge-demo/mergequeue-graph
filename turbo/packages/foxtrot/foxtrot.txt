@@ -4139,7 +4139,6 @@ firebomb
 fakiness
 fractionlet
 faithwise
-figments
 figuredly
 forthrights
 firebox
@@ -6004,6 +6003,7 @@ fontange
 forgab
 forespeech
 frontooccipital
+figments
 flanker
 fictionise
 fluoresce
