@@ -2915,6 +2915,7 @@ catacombs
 cackled
 cantaloup
 careerer
+crocodylus
 cantaloupes
 catboat
 cantando
@@ -29652,7 +29653,6 @@ cognizer
 chemosterilant
 convulsiveness
 cotingid
-crocodylus
 chronol
 carrat
 counteraffirm
