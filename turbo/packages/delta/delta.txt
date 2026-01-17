@@ -1080,6 +1080,7 @@ darsonval
 deontology
 disbanding
 dartagnan
+distomatous
 darters
 dearticulation
 dartled
@@ -2449,7 +2450,6 @@ decipherability
 dooryards
 dand
 doctrinarily
-distomatous
 deucing
 disintegrative
 decipherably
