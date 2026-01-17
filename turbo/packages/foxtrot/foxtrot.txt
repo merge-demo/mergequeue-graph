@@ -571,6 +571,7 @@ faradized
 famine
 fll
 filiety
+foretasting
 fussed
 folklorism
 forjudger
@@ -8085,7 +8086,6 @@ floatation
 favouredness
 foretaster
 forefin
-foretasting
 fretsaw
 falisci
 forewrought
