@@ -865,7 +865,6 @@ elle
 ectoplastic
 elusiveness
 enucleation
-endore
 evilspeaker
 encourager
 ectoproctous
@@ -10914,6 +10913,7 @@ euphues
 epipedometry
 epilogizing
 evenwise
+endore
 entomologising
 epipteric
 eulogies
