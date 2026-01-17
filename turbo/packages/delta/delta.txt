@@ -3339,7 +3339,6 @@ duddery
 destiny
 domesticable
 datiscoside
-distemperer
 downweight
 dicot
 dayment
@@ -12948,6 +12947,7 @@ disomatic
 dermostosis
 degreeing
 docilities
+distemperer
 discolor
 disaffectedness
 differed
