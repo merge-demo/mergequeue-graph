@@ -1685,6 +1685,7 @@ dupability
 disadvantage
 dignity
 disentrain
+dextrogyre
 dispond
 duckstone
 distringas
@@ -3570,7 +3571,6 @@ degener
 declaredness
 depredations
 dripping
-dextrogyre
 dinosauric
 dinornithiformes
 degenerate
