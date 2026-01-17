@@ -4141,6 +4141,7 @@ delit
 demonstratorship
 dob
 delitescent
+dispiece
 deliverer
 disincorporate
 deliveress
@@ -10960,7 +10961,6 @@ deepwaterman
 decapoda
 dulcinea
 disafforestment
-dispiece
 duly
 dragsaw
 disagree

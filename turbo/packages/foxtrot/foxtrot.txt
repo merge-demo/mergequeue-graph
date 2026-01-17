@@ -6482,7 +6482,6 @@ falter
 frauds
 facility
 filagreeing
-forgie
 farweltered
 fip
 fusulas
@@ -11581,6 +11580,7 @@ fthm
 fusionist
 forlanas
 freity
+forgie
 floscular
 fissional
 foregallery
