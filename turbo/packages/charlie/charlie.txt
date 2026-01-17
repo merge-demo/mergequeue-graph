@@ -1695,7 +1695,6 @@ calappa
 curelessly
 calorifics
 caricography
-ceraunia
 calorifier
 calorimetry
 calorimetrically
@@ -20406,6 +20405,7 @@ crampedness
 categorizations
 cincinnus
 compactly
+ceraunia
 conciliatingly
 chondrodynia
 catabolize
