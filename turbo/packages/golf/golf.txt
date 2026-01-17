@@ -1348,7 +1348,6 @@ galloner
 garnisheement
 glorifier
 gonochoristic
-gervao
 gitalin
 garlion
 gemshorn
@@ -7977,6 +7976,7 @@ genghis
 goldenmouthed
 gasifiable
 gainer
+gervao
 guttee
 glouts
 goodhap
