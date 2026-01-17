@@ -2505,6 +2505,7 @@ fastus
 fingers
 flerry
 fudging
+falconers
 fainthearted
 femorocele
 faction
@@ -4738,7 +4739,6 @@ foulminded
 fellowshipped
 frundel
 filigera
-falconers
 flagelliform
 folie
 flagellula
