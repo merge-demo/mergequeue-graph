@@ -10597,7 +10597,6 @@ domer
 discogastrula
 deaminized
 diauli
-decompressing
 dissatisfying
 diplomats
 dysporomorph
@@ -11747,6 +11746,7 @@ declarant
 didler
 derogatively
 dioscorine
+decompressing
 discrepancies
 dimatis
 dedendum
