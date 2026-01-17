@@ -6109,6 +6109,7 @@ buyout
 babyolatry
 bendies
 bends
+ballahou
 bendwise
 begay
 balaneutics
@@ -10291,7 +10292,6 @@ blacktree
 befleaed
 befoulers
 blackwater
-ballahou
 blackweed
 brachycerous
 bladderet
