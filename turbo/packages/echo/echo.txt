@@ -7636,7 +7636,6 @@ encefalon
 enringed
 engagingly
 ectocrine
-envying
 espece
 epicuticle
 encircling
@@ -7877,6 +7876,7 @@ epileny
 endopeptidase
 exotospore
 entomeric
+envying
 exuccous
 exarchic
 eidola
