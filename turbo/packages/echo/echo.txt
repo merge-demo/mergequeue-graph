@@ -1618,6 +1618,7 @@ entrez
 enterobacterium
 eyah
 embliss
+erythrite
 equating
 earthpea
 encyclopedism
@@ -8991,7 +8992,6 @@ erythric
 edituate
 eteocretes
 edriophthalma
-erythrite
 emaciating
 enfeeblement
 exponent
