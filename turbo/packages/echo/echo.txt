@@ -4719,7 +4719,6 @@ existent
 exodos
 episcopacy
 estranging
-endosmosic
 ebulliometry
 epistler
 entomophytous
@@ -13929,6 +13928,7 @@ eruditeness
 eliminatory
 entortill
 extorter
+endosmosic
 ectoderm
 eburnated
 electee
