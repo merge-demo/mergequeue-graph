@@ -3616,6 +3616,7 @@ carabiniere
 carabinieri
 cotrespasser
 choosable
+cerebroscope
 caraboa
 caaba
 cinques
@@ -7608,7 +7609,6 @@ cerebropsychosis
 calade
 coincidentally
 cerebrosclerosis
-cerebroscope
 codewords
 cerebrose
 campanula
