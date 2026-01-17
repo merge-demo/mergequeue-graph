@@ -4359,6 +4359,7 @@ caricatura
 caricatural
 caricature
 chud
+chlorotrifluoroethylene
 caricaturing
 caricaturist
 contaminator
@@ -10915,7 +10916,6 @@ chirking
 conglobating
 chirks
 contrariety
-chlorotrifluoroethylene
 chirmed
 chirming
 chirms
