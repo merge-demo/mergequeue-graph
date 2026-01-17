@@ -1584,7 +1584,6 @@ favored
 feasibilities
 favorer
 foresty
-ferrash
 fleecelike
 fourstrand
 falsettist
@@ -3063,6 +3062,7 @@ forfeitableness
 festology
 flagged
 firerooms
+ferrash
 fooler
 feroce
 fishtails
