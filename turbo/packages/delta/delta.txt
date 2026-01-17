@@ -9224,6 +9224,7 @@ drosophilidae
 debarkation
 disilluded
 dundees
+drawtongs
 discolour
 decorament
 dollface
@@ -16861,7 +16862,6 @@ deadlock
 durwan
 disceptation
 diminutival
-drawtongs
 dehumanizes
 disacryl
 deaired
