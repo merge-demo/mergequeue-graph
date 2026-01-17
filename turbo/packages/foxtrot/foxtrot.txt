@@ -1046,7 +1046,6 @@ farinosel
 foussa
 foredesignment
 fulfill
-floccule
 farmeress
 fireling
 flerrying
@@ -2752,6 +2751,7 @@ fellinic
 felineness
 fesses
 flaunche
+floccule
 facetiation
 friendlily
 festally

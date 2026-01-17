@@ -783,6 +783,7 @@ galvanothermometer
 ggr
 galliformes
 ginneries
+giambeux
 goose
 gies
 gandergoose
@@ -10379,7 +10380,6 @@ gainsome
 gargoyled
 gallflower
 garbanzos
-giambeux
 gunda
 griddles
 glycyls
