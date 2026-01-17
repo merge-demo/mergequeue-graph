@@ -1174,7 +1174,6 @@ flouters
 fantasied
 fistulize
 fibularia
-freelovism
 fallals
 fungistatically
 fascine
@@ -2131,6 +2130,7 @@ fletch
 faujdar
 fuchsite
 fosterling
+freelovism
 flagstone
 fluer
 fidepromissor

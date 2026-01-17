@@ -3563,6 +3563,7 @@ degames
 deganglionate
 dystome
 degasify
+disorients
 duco
 doubletree
 decussately
@@ -12998,7 +12999,6 @@ disorientate
 dottrel
 didric
 diastematomyelia
-disorients
 dysoxidation
 dollarfishes
 disoxygenation
