@@ -4938,7 +4938,6 @@ endellionite
 eucephalous
 emigates
 electrocorticogram
-envy
 extirpative
 equinia
 engraphic
@@ -10918,6 +10917,7 @@ evenwise
 entomologising
 epipteric
 eulogies
+envy
 echinops
 euphuize
 eupyrion
