@@ -1680,7 +1680,6 @@ disperser
 dismissive
 dears
 dottard
-dipleiodoscope
 dupability
 disadvantage
 dignity
@@ -11414,6 +11413,7 @@ diplomaed
 duplicitous
 downstream
 didache
+dipleiodoscope
 dingus
 dullhead
 disclusion
