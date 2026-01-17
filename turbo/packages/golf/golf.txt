@@ -2381,6 +2381,7 @@ geminid
 geminous
 gratinating
 gestating
+glad
 gemma
 gardeners
 gemmating
@@ -7002,7 +7003,6 @@ geir
 glossopode
 gallerian
 guaconize
-glad
 gossipry
 garrat
 giddybrain
