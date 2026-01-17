@@ -7569,7 +7569,6 @@ gruntle
 geophyte
 gamash
 gowdnie
-goalie
 gaspiness
 grangeriser
 geothlypis
@@ -8468,6 +8467,7 @@ gadzooks
 gushet
 gomphosis
 goatishness
+goalie
 gorily
 grinnie
 galactonic
