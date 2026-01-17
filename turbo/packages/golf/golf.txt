@@ -106,6 +106,7 @@ goldthread
 goodnaturedness
 glassily
 greengill
+glossolaryngeal
 grillers
 gofferer
 geezer
@@ -3398,7 +3399,6 @@ galleting
 gyromancy
 gentisate
 geometrized
-glossolaryngeal
 globularia
 gourmets
 gerrymander
