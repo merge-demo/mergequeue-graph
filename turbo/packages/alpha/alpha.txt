@@ -7191,6 +7191,7 @@ antonomasia
 aren
 antiwhite
 allotting
+asterisked
 antirevolutionary
 accresce
 alamode
@@ -10753,7 +10754,6 @@ archegay
 albumin
 affa
 antiphthisical
-asterisked
 amissible
 amissing
 amita
