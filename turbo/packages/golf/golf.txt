@@ -4381,6 +4381,7 @@ gutted
 ghaut
 gluer
 graces
+galeage
 griffinage
 gytling
 globulousness
@@ -10779,7 +10780,6 @@ gandered
 gignitive
 gamesomely
 guttated
-galeage
 gorki
 gazelles
 gawky
