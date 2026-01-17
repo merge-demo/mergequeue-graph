@@ -1730,6 +1730,7 @@ baronial
 baloskion
 bulbels
 baladine
+baratte
 balsaminaceae
 balsamine
 become
@@ -6320,7 +6321,6 @@ billbroking
 barrer
 butment
 brike
-baratte
 benzanthracene
 boxboard
 bestowed
