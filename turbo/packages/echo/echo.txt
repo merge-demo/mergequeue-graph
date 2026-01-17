@@ -1490,7 +1490,6 @@ egalitarians
 evected
 egality
 exaggeratedly
-everywhere
 etch
 extracalendar
 epembryonic
@@ -13067,6 +13066,7 @@ ergates
 enslave
 embassador
 eutaxite
+everywhere
 explications
 ergotisms
 ende
