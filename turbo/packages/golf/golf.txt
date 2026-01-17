@@ -2166,6 +2166,7 @@ gecarcinian
 greasepaint
 gecarcinidae
 gynaecologist
+gumming
 garrotte
 greedily
 grough
@@ -5558,7 +5559,6 @@ gelilah
 goutier
 greenroom
 glucaemia
-gumming
 gaysome
 gripless
 geochemist

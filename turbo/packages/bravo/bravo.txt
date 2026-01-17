@@ -1848,7 +1848,6 @@ bandeau
 betula
 bancus
 burds
-backstabber
 bandelette
 bpi
 banderma
@@ -7220,6 +7219,7 @@ beveled
 buckjump
 bongrace
 bauta
+backstabber
 bute
 bituminised
 balearic
