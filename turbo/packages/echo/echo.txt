@@ -2881,6 +2881,7 @@ epitheliomuscular
 eyewear
 elevenses
 eleventeenth
+evernia
 eleventh
 evicts
 excitation
@@ -11542,7 +11543,6 @@ exoculating
 erethizon
 estrange
 endites
-evernia
 expressman
 equipartisan
 evoking
