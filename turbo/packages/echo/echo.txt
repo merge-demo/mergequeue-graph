@@ -2664,6 +2664,7 @@ exdelicto
 epispadia
 electrotherapeutical
 entrep
+eliphalet
 estampie
 expectorating
 excitors
@@ -2988,7 +2989,6 @@ extern
 encorpore
 economy
 eliot
-eliphalet
 elbowroom
 excrementize
 eviscerate
