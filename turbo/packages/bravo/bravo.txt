@@ -5112,6 +5112,7 @@ beflap
 beflea
 bream
 brainier
+biter
 belching
 borderers
 boussingaultite
@@ -16354,7 +16355,6 @@ balalaikas
 brujos
 beglerbeglik
 broadways
-biter
 beachmaster
 brulee
 breathily
