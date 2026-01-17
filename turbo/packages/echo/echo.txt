@@ -4865,7 +4865,6 @@ english
 erythroneocytosis
 encumbrous
 evolves
-eyednesses
 enterocoelic
 exsanguination
 electrodialysis
@@ -6429,6 +6428,7 @@ exercisable
 ensorcellment
 ensorrow
 encumberment
+eyednesses
 endometriosis
 embolismus
 eurypteroidea
