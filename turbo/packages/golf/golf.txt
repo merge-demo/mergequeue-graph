@@ -5026,6 +5026,7 @@ gv
 gustful
 gularis
 garland
+genteelism
 ganged
 gret
 glassful
@@ -7040,7 +7041,6 @@ gismondine
 glacially
 galilees
 gasserian
-genteelism
 geomantical
 genyantrum
 greasiest

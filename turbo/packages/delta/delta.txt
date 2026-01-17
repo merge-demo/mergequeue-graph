@@ -9928,6 +9928,7 @@ disingenuous
 digitule
 discursus
 denticulation
+delving
 daintily
 drossiness
 dawnlight
@@ -12915,7 +12916,6 @@ disnew
 drachmae
 drawspan
 danglingly
-delving
 deorientalize
 disobeying
 delineative
