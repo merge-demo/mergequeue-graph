@@ -5851,6 +5851,7 @@ bellyman
 biunique
 biogenetical
 balopticon
+bumpering
 bellmaking
 banquo
 baronship
@@ -6434,7 +6435,6 @@ bitripartite
 bregmata
 benzothiodiazole
 bergamiol
-bumpering
 backcloth
 blastophitic
 barangay
