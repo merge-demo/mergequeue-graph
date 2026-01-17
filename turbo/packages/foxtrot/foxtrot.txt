@@ -3871,7 +3871,6 @@ feckless
 figurato
 fionnuala
 fanwe
-foregrounds
 fits
 fortuitously
 fecundating
@@ -5475,6 +5474,7 @@ flacker
 feminization
 fleshmonger
 fcy
+foregrounds
 flagfall
 fletcherism
 frontignac
