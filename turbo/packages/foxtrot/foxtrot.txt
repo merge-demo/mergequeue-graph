@@ -4738,6 +4738,7 @@ fashionize
 foreranks
 foulminded
 fellowshipped
+fossa
 frundel
 filigera
 falconers
@@ -7676,7 +7677,6 @@ firth
 firm
 fellmonger
 fleawort
-fossa
 fidessa
 flinchingly
 foreignly
