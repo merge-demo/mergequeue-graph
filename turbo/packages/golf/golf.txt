@@ -794,7 +794,6 @@ gamashes
 goombay
 gastrospasm
 glycosidase
-gonydeal
 graf
 gimlet
 gambade
@@ -826,6 +825,7 @@ granose
 gnarring
 gramp
 gramary
+gonydeal
 gamblesomeness
 greenback
 genseng
