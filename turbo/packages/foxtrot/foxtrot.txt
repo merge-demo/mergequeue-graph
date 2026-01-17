@@ -1263,6 +1263,7 @@ fama
 favella
 forevouch
 femalize
+frederica
 footwall
 fearful
 flatten
@@ -3403,7 +3404,6 @@ fender
 featliest
 forniciform
 forwards
-frederica
 foreside
 fieriness
 fierte
