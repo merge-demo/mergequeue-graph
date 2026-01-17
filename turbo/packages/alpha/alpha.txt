@@ -4434,7 +4434,6 @@ adure
 andia
 allergia
 anticomplement
-australic
 antipuritan
 adust
 adustion
@@ -15240,6 +15239,7 @@ antifouling
 autobasidiomycetes
 austere
 arborolatry
+australic
 apicilar
 adarticulation
 antifowl
