@@ -11814,7 +11814,6 @@ chopins
 coinquinate
 converter
 choplogic
-choplogical
 chadors
 choregi
 chalazoidite
@@ -27743,6 +27742,7 @@ corkscrews
 connecters
 cowshed
 cowsheds
+choplogical
 cowshot
 capitellar
 camorristi
