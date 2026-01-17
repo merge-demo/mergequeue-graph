@@ -6867,7 +6867,6 @@ exarchal
 elasticize
 escudos
 embonpoint
-ephoric
 eighteenths
 exuviable
 ebullitive
@@ -6950,6 +6949,7 @@ entrec
 escalin
 exiting
 effecting
+ephoric
 excisor
 encauma
 emetically
