@@ -4484,7 +4484,6 @@ becram
 braid
 becramp
 blackmail
-barbone
 bursicle
 blenniidae
 bucklers
@@ -16817,6 +16816,7 @@ buildings
 budmash
 biorythmic
 bridegrooms
+barbone
 borrow
 barranco
 ballate
