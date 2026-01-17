@@ -9730,7 +9730,6 @@ fallacies
 falchion
 fessways
 foolhardiest
-fatigability
 fishworm
 farfel
 flenches
@@ -11203,6 +11202,7 @@ failles
 flamethrowers
 fieldsman
 fetoplacental
+fatigability
 fungosities
 funic
 footlers
