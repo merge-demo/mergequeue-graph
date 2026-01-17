@@ -11115,7 +11115,6 @@ atoxyl
 acetamids
 ariosi
 ampelotherapy
-abstractiveness
 ascidioidea
 amper
 amatory
@@ -19732,6 +19731,7 @@ acrostichal
 aristologist
 aristophanic
 arteriorrhexis
+abstractiveness
 actinocutitis
 antimartyr
 aristotelean
