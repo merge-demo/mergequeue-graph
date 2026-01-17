@@ -4920,6 +4920,7 @@ dicrostonyx
 defailment
 displeased
 duranta
+deriv
 demoralized
 demoralizers
 draughty
@@ -7072,7 +7073,6 @@ disincentive
 destinism
 dockyardman
 decretion
-deriv
 drowsed
 dissuasions
 deterrently
