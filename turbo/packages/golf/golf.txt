@@ -888,6 +888,7 @@ goffer
 ghatti
 gymnophiona
 guerrilla
+gossipping
 gerontomorphosis
 grillwork
 gotha
@@ -8632,7 +8633,6 @@ genethliacs
 granma
 gentlemanly
 grapnel
-gossipping
 gerb
 grappled
 guti
