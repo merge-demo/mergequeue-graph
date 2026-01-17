@@ -8812,7 +8812,6 @@ abidance
 absorption
 atturn
 adelina
-anglophobes
 autoimmunization
 asthmatics
 accentors
@@ -9575,6 +9574,7 @@ altun
 alimentary
 anchoretism
 autoharp
+anglophobes
 accountableness
 alture
 altus
