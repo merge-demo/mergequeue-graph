@@ -25,7 +25,6 @@ feak
 furiouser
 febricula
 freeman
-floodlet
 fourchee
 fieldmen
 fibrolitic
@@ -5532,6 +5531,7 @@ flyby
 fratch
 flybys
 forfault
+floodlet
 fiendlike
 folkvangr
 flockowner
