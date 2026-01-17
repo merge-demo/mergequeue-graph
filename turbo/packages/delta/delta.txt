@@ -4628,7 +4628,6 @@ demiss
 dryopithecid
 demivolt
 disprobative
-demystify
 deus
 demystification
 demurring
@@ -16033,6 +16032,7 @@ driveline
 drainboard
 dockers
 doormats
+demystify
 deaminize
 diacoelosis
 dekagrams
