@@ -17032,7 +17032,6 @@ acouophonia
 apjohnite
 ables
 apocarp
-amaethon
 apocentric
 anthropomorphic
 acroscleroderma
@@ -24397,6 +24396,7 @@ autosymbolical
 autosymbolically
 airplaning
 antiquarianism
+amaethon
 anthracometer
 ambushing
 autosyn
