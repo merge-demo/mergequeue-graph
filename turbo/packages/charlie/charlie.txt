@@ -13186,6 +13186,7 @@ coralbells
 cyclecars
 causals
 crosspatch
+colloquialisms
 cyclers
 cyclesmith
 castoridae
@@ -14091,7 +14092,6 @@ circulated
 cochleas
 cellulosities
 circocele
-colloquialisms
 codecree
 circue
 circuit
