@@ -20778,7 +20778,6 @@ complied
 campodea
 compliment
 cricketings
-coenesthesis
 coalyard
 conite
 complimental
@@ -29533,6 +29532,7 @@ criterional
 creolin
 cerealist
 crith
+coenesthesis
 crithidia
 crithomancy
 critic
