@@ -5210,7 +5210,6 @@ concordatum
 cocentric
 cashiered
 chenopodium
-cashiering
 cashierment
 cashkeeper
 crows
@@ -29816,6 +29815,7 @@ cropplecrown
 crops
 cropshin
 cropsick
+cashiering
 cropweed
 calorimeters
 casekeeper
