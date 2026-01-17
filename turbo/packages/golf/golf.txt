@@ -5222,6 +5222,7 @@ gambian
 gloamings
 gemmipara
 golgi
+graphitoidal
 golf
 geniculate
 gab
@@ -7914,7 +7915,6 @@ geophagia
 generalist
 gouged
 geochemistry
-graphitoidal
 granary
 greases
 glecoma
