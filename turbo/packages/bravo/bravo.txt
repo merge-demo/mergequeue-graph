@@ -8161,7 +8161,6 @@ bateaux
 bieldy
 brawlier
 bossa
-bellicoseness
 bielding
 brunts
 bewinter
@@ -17719,6 +17718,7 @@ blastophaga
 bemuzzled
 bott
 bewinged
+bellicoseness
 beknit
 burnfire
 bashaws
