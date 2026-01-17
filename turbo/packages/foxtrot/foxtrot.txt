@@ -1177,7 +1177,6 @@ farthingdeal
 frays
 footfeed
 ferous
-flowerless
 flouters
 fantasied
 fistulize
@@ -2182,6 +2181,7 @@ flashet
 fiducia
 fats
 flabellifoliate
+flowerless
 farmhouse
 felts
 forthtell
