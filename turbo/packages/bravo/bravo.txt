@@ -5925,7 +5925,6 @@ batswing
 blitzkrieg
 butterroot
 belast
-berber
 brandenburgs
 biggety
 buffaloes
@@ -11123,6 +11122,7 @@ backbreaking
 barbero
 beshrouds
 berengena
+berber
 bidpai
 blomstrandine
 blond
