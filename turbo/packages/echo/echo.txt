@@ -2255,6 +2255,7 @@ eudiometry
 enchantments
 exormia
 enbloc
+elementalistically
 eyelets
 endolymph
 excretal
@@ -3908,7 +3909,6 @@ estruate
 earthbound
 excommunicators
 emollients
-elementalistically
 emoloa
 endosymbiosis
 excretitious
