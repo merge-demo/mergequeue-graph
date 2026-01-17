@@ -4152,6 +4152,7 @@ deinsularize
 depopulations
 decylenic
 delocalised
+dressmaker
 delocalize
 dermoreaction
 decrustation
@@ -14450,7 +14451,6 @@ depreciatory
 demeter
 diversory
 disfiguringly
-dressmaker
 dimethylamine
 divert
 dioptrometer
