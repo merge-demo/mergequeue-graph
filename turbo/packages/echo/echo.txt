@@ -9530,7 +9530,6 @@ eyesalve
 exannulate
 endosmotic
 ergastoplasmic
-enchytraeidae
 emigree
 euchromatic
 embarrassed
@@ -10558,6 +10557,7 @@ egged
 ethylenic
 ephectic
 eckehart
+enchytraeidae
 ethmose
 ethrog
 erotomania
