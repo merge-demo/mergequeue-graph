@@ -1555,6 +1555,7 @@ gassed
 gypsumed
 gastritic
 grana
+gymnasisiums
 gentlemens
 gasser
 glutelin
@@ -7317,7 +7318,6 @@ genys
 gordolobo
 gaseity
 grizzles
-gymnasisiums
 gospels
 greatcoats
 gildship
