@@ -1603,7 +1603,6 @@ florae
 fiddlebow
 forereaching
 floppies
-faffle
 funambulo
 flatlander
 functionating
@@ -7710,6 +7709,7 @@ facer
 fanfaronade
 flower
 flanes
+faffle
 firearms
 foremast
 fritters
