@@ -380,7 +380,6 @@ brewery
 bovarist
 bashkir
 bevelling
-bossy
 borings
 backhoe
 bake
@@ -5176,6 +5175,7 @@ befoulment
 biacuminate
 befraught
 befreight
+bossy
 befountained
 borosilicic
 baddish
