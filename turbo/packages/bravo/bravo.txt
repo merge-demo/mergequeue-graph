@@ -9773,6 +9773,7 @@ biophysicochemical
 bystreet
 bistres
 boeotarch
+brickwall
 brights
 borg
 bewitching
@@ -12377,7 +12378,6 @@ biskop
 baskets
 bomble
 blackbutt
-brickwall
 boombox
 beget
 bluishness
