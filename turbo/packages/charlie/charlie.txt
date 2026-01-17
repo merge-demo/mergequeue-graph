@@ -7967,7 +7967,6 @@ chaa
 cholecalciferol
 chab
 celibate
-chabasite
 carcinomatoid
 counterclockwise
 chabazite
@@ -25827,6 +25826,7 @@ convolutive
 curted
 chenopodiaceae
 correctorship
+chabasite
 corruptful
 catecholamine
 clawback
