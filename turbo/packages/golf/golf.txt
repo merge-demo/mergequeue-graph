@@ -3447,7 +3447,6 @@ gaveler
 geometers
 gudgeons
 gowl
-gelatinated
 gastrologer
 genoa
 gallanting
@@ -4510,6 +4509,7 @@ gamb
 grapey
 geest
 gomutis
+gelatinated
 gambrel
 gills
 graminiform
