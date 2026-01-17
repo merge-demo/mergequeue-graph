@@ -4914,6 +4914,7 @@ gamines
 genethliacon
 gladioluses
 ginney
+genipa
 groundwards
 glamors
 geldable
@@ -8387,7 +8388,6 @@ gunport
 gallivanting
 gradientia
 gypsydom
-genipa
 gymnodiniaceous
 galeeny
 gyroscopically
