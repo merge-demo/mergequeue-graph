@@ -5562,6 +5562,7 @@ andiroba
 absolute
 afters
 amphibrach
+antelude
 allomerism
 attentat
 apholate
@@ -5953,7 +5954,6 @@ aneurism
 ashily
 ardeidae
 antroscopy
-antelude
 alpestrian
 aggregateness
 antiagglutinin
