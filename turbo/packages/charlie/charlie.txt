@@ -18326,7 +18326,6 @@ cestraciontes
 culminant
 cogitabund
 cheviot
-cogitabundly
 cogitabundous
 creamcups
 cogitant
@@ -28924,6 +28923,7 @@ cryanesthesia
 criant
 carbonigenous
 corke
+cogitabundly
 cuphea
 corallorhiza
 crib
