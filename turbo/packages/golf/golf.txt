@@ -4157,7 +4157,6 @@ gleesome
 ganef
 gulflike
 geniculum
-gossy
 gymnotus
 gutling
 geomagnetic
@@ -7401,6 +7400,7 @@ gadean
 geniohyoglossus
 gaiety
 gassit
+gossy
 gregariniform
 gepeoo
 grantsmen
