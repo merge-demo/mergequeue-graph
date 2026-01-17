@@ -1993,7 +1993,6 @@ drover
 demyelinate
 dominated
 descloizite
-decadary
 dimethylcarbinol
 depaysee
 demagnify
@@ -10504,6 +10503,7 @@ discorder
 derangeable
 delaminate
 diphaser
+decadary
 divinize
 dihydrocupreine
 dipyrenous
