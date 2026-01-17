@@ -5396,6 +5396,7 @@ egretta
 easterly
 eaglelike
 esthetology
+eclectism
 endure
 endurer
 enduringly
@@ -11004,7 +11005,6 @@ extravagant
 emolliate
 eurypterus
 emption
-eclectism
 eurite
 ethered
 echinostomatidae
