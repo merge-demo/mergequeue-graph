@@ -2793,7 +2793,6 @@ etymol
 epipubic
 exampleless
 ecodeme
-eleomargaric
 encephalon
 epipolic
 entoptical
@@ -12845,6 +12844,7 @@ evangelistship
 efecks
 exoticist
 encircled
+eleomargaric
 exoterically
 erythremomelalgia
 equity
