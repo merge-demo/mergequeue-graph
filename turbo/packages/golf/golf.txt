@@ -3056,7 +3056,6 @@ greylags
 gucki
 geocline
 grits
-gipping
 geophagism
 gopura
 gemels
@@ -10845,6 +10844,7 @@ gasworker
 grailer
 gunpaper
 gymnasiarch
+gipping
 genesiurgic
 galianes
 gunneress
