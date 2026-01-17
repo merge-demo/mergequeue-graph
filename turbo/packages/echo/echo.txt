@@ -5640,6 +5640,7 @@ eucalypts
 enfree
 exordiums
 exposable
+epispinal
 eligibly
 erysiphaceae
 ectocelic
@@ -7854,7 +7855,6 @@ endolaryngeal
 expertizing
 edgingly
 emancipist
-epispinal
 electrolyses
 enchantresses
 elephancy
