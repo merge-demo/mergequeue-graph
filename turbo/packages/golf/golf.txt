@@ -4959,6 +4959,7 @@ germanic
 greatmouthed
 grolier
 greensward
+gothonic
 goninidia
 glebeless
 grippe
@@ -7967,7 +7968,6 @@ getups
 grippy
 grandiosity
 gudok
-gothonic
 ganglionectomy
 globing
 glottologies
