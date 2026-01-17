@@ -4506,6 +4506,7 @@ gypster
 grandniece
 gamb
 grapey
+geest
 gomutis
 gambrel
 gills
@@ -7424,7 +7425,6 @@ gaudery
 galen
 gruffiest
 googly
-geest
 gougers
 gadids
 galbulidae
