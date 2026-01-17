@@ -5408,7 +5408,6 @@ begummed
 biolite
 barbacoa
 behallow
-bowldering
 bedin
 betwit
 behammer
@@ -16742,6 +16741,7 @@ bountyless
 bicameralist
 bucku
 babehood
+bowldering
 buckwagon
 boodie
 buckwheatlike
