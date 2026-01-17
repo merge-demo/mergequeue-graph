@@ -8289,7 +8289,6 @@ bluegill
 bekerchief
 bawdiest
 broodingly
-butterflyfish
 biblists
 beak
 bookling
@@ -16271,6 +16270,7 @@ balun
 boosted
 bedighted
 bilithon
+butterflyfish
 brownness
 blackit
 boreens
