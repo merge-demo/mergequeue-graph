@@ -518,7 +518,6 @@ gisement
 gruffing
 graff
 galivants
-geneticism
 gleamiest
 growthful
 guruship
@@ -5462,6 +5461,7 @@ gandhism
 glaciating
 galet
 gemellus
+geneticism
 guipure
 guilds
 groundskeep
