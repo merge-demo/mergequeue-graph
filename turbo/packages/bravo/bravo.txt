@@ -7488,7 +7488,6 @@ bowne
 besant
 boldu
 burtree
-bully
 berhymed
 burd
 bistre
@@ -13014,6 +13013,7 @@ barbecued
 bombarde
 bibles
 baptismally
+bully
 boraginaceous
 borago
 bedamn
