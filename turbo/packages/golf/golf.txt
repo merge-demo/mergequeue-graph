@@ -7914,7 +7914,6 @@ graphitoidal
 granary
 greases
 glecoma
-gorst
 gunating
 gesith
 gaberloonie
@@ -10594,6 +10593,7 @@ garbanzo
 gallbladder
 glossmeter
 gadidae
+gorst
 geohydrologist
 gourmetism
 glandaceous
