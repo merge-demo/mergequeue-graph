@@ -12448,6 +12448,7 @@ actinides
 argante
 androsphinx
 androsporangium
+aerophotography
 autostethoscope
 arteriology
 androsterone
@@ -17069,7 +17070,6 @@ ammoniac
 anthroponomical
 armband
 aeolicism
-aerophotography
 agranulocyte
 auk
 apodal
