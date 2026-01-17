@@ -9575,7 +9575,6 @@ esophago
 esophagogastroscopy
 esophagometer
 emotionalized
-enticeable
 evoked
 esophagoplasty
 embodiment
@@ -10482,6 +10481,7 @@ ettle
 ecclesiolatry
 eucgia
 endocytosis
+enticeable
 eightpenny
 enologies
 exorbitant
