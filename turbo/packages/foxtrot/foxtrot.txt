@@ -475,7 +475,6 @@ flutebird
 fistulose
 fuseau
 fakeer
-fissiparism
 fretting
 featherleaf
 fetiferous
@@ -6046,6 +6045,7 @@ frecken
 faculty
 fingerhook
 fleckier
+fissiparism
 forgeman
 footpace
 figurial
