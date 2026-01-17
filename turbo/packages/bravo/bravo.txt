@@ -3388,7 +3388,6 @@ bassa
 balaenicipites
 basiphobia
 besilver
-buccheros
 branchiopulmonate
 bassalia
 bootable
@@ -6517,6 +6516,7 @@ benzocaine
 bituminizing
 bedirt
 beghard
+buccheros
 bejabbers
 bepuffed
 beetleheaded
