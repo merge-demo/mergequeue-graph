@@ -4203,6 +4203,7 @@ guimpes
 gasteralgia
 garrisoning
 gilty
+guarded
 gluttonise
 gynantherous
 gonadectomized
@@ -6478,7 +6479,6 @@ glossopodium
 garrupa
 gannister
 gastraead
-guarded
 guanare
 gangrenate
 gapeworms
