@@ -12912,7 +12912,6 @@ babka
 bump
 bursectomy
 brachigerous
-byssogenous
 bureaucratese
 boot
 big
@@ -15747,6 +15746,7 @@ bardee
 brocatelle
 beowulf
 brocatello
+byssogenous
 blaubok
 billionths
 bleaches
