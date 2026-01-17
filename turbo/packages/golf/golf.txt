@@ -1290,7 +1290,6 @@ gyrene
 garetta
 gnawingly
 gargalize
-guttles
 grump
 gerendum
 government
@@ -5952,6 +5951,7 @@ gazogenes
 galactopathy
 grubs
 ginkgoes
+guttles
 gelosie
 geoemtry
 gastroparesis
