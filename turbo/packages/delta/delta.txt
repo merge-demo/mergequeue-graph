@@ -387,6 +387,7 @@ daimyo
 dawdlers
 dihydrated
 dreadness
+deaconhood
 dadap
 daimyos
 drinkers
@@ -9009,7 +9010,6 @@ depeach
 dicots
 disembed
 depravate
-deaconhood
 dermatoplast
 dicoumarol
 distantness
