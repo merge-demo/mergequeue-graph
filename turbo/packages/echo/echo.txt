@@ -4630,7 +4630,6 @@ encyclopedias
 ekoi
 entanglers
 entablement
-energico
 euphoniad
 embezzled
 electrophonically
@@ -5130,6 +5129,7 @@ endothermically
 epimeride
 enounced
 elephants
+energico
 economists
 entocoele
 ergotist

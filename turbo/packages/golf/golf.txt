@@ -2439,7 +2439,6 @@ galravage
 ghettoed
 glycocoll
 geographers
-gemologist
 glacionatant
 gloaming
 gaiting
@@ -8870,6 +8869,7 @@ garboard
 grieved
 gateless
 gyroceracone
+gemologist
 genappe
 guesthouses
 greyfly
