@@ -12447,6 +12447,7 @@ bankera
 binder
 boii
 bogum
+bedcovers
 bowyang
 bedriddenness
 bz
@@ -17776,7 +17777,6 @@ base
 braiders
 burrhead
 burrheaded
-bedcovers
 biserrate
 bundists
 burrheadedness
