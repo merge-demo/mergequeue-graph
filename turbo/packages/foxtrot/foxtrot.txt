@@ -6215,6 +6215,7 @@ factotums
 farmerish
 felloes
 freewheelers
+forwardest
 farmtown
 fizzles
 firnismalerei
@@ -7639,7 +7640,6 @@ fano
 fiesta
 forehandedness
 fellingbird
-forwardest
 flowering
 fishergirl
 fixedness
