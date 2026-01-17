@@ -10016,7 +10016,6 @@ bivocalized
 buffos
 bivoluminous
 bivouaced
-bivouacked
 balaphon
 bodes
 bouilli
@@ -10583,6 +10582,7 @@ blats
 bygones
 blatta
 blackbreast
+bivouacked
 biostrome
 boltheader
 bachelorship
