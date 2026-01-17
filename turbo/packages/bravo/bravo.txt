@@ -3622,7 +3622,6 @@ bridelace
 banilad
 bathukolpian
 bathvillite
-baglike
 brooklet
 bookmobile
 besought
@@ -4745,6 +4744,7 @@ bandlimited
 bedlamps
 boottopping
 betitle
+baglike
 benitoite
 butcherliness
 badmash
