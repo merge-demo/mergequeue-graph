@@ -4871,7 +4871,6 @@ ashes
 abrasiveness
 allody
 anthoecology
-abnormous
 afrogaea
 artworks
 ambitionist
@@ -15221,6 +15220,7 @@ antifire
 anacoenoses
 amylogens
 arrand
+abnormous
 assegai
 antiflattering
 accordantly
