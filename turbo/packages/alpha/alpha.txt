@@ -18645,7 +18645,6 @@ archaeologer
 adding
 adiathermal
 artemisic
-adoral
 archaeologic
 amylases
 archaeological
@@ -21500,6 +21499,7 @@ aspers
 adenosarcoma
 asperse
 abecedaries
+adoral
 agapeically
 asperser
 astrochronological
