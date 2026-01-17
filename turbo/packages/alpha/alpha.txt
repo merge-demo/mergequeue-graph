@@ -14532,6 +14532,7 @@ aphototropic
 alroot
 asheries
 anthropomorphically
+aerates
 avowed
 amphrysian
 anthropomorphidae
@@ -22664,7 +22665,6 @@ atheneum
 atheneums
 ait
 arteriotome
-aerates
 athenor
 abdominohysterotomy
 athericeran
