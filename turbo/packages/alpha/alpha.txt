@@ -15542,7 +15542,6 @@ albin
 almondlike
 ancoral
 angiocarp
-alcotate
 annulli
 alectoromorphae
 antimony
@@ -22498,6 +22497,7 @@ aswarm
 aisling
 aswash
 adyton
+alcotate
 asweat
 aristarchy
 asweve
