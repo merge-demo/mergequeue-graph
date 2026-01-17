@@ -4362,7 +4362,6 @@ flechette
 funt
 floorshifts
 frenums
-fishbowls
 forky
 fisheyes
 forecomingness
@@ -9183,6 +9182,7 @@ featly
 fragmentariness
 fragmentist
 foundries
+fishbowls
 faucals
 fidalgo
 forsakes
