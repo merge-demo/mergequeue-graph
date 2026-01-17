@@ -11469,7 +11469,6 @@ epizooties
 evidential
 entrance
 embryologically
-evidentially
 epencephalons
 erin
 etouffe
@@ -12713,6 +12712,7 @@ eelback
 earcockle
 energizing
 exophasic
+evidentially
 etchers
 exalted
 exophthalmia
