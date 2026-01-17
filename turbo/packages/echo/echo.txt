@@ -4162,6 +4162,7 @@ everyman
 empresses
 emprint
 emprises
+employes
 epinastically
 emprison
 euphausiid
@@ -7386,7 +7387,6 @@ ephas
 erythrolytic
 enchaining
 excepts
-employes
 elenctic
 escapers
 entanglement
