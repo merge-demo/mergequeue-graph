@@ -7463,7 +7463,6 @@ grabbier
 grunerite
 gourmandizer
 grapplement
-gomerals
 gists
 geodesy
 gimleting
@@ -9662,6 +9661,7 @@ gastroscopy
 gascons
 gowaned
 gorgonaceous
+gomerals
 globalist
 gruelers
 glossography
