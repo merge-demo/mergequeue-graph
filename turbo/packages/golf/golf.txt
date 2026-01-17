@@ -2789,7 +2789,6 @@ gormless
 glottalite
 gloiopeltis
 gentiobiose
-guardianess
 gentlemanlikeness
 gossan
 gybing
@@ -7135,6 +7134,7 @@ gile
 gore
 gorebill
 gordioid
+guardianess
 gearboxes
 gored
 gores
