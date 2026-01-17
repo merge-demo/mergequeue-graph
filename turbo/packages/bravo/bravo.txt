@@ -308,6 +308,7 @@ backberend
 backbite
 beeman
 burgeon
+beers
 baize
 backbitingly
 bother
@@ -5006,7 +5007,6 @@ bouchon
 bombycilla
 breakfasters
 beerpull
-beers
 beest
 babbools
 bibation
