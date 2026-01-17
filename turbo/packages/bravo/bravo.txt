@@ -636,7 +636,6 @@ becomings
 betterness
 biscuitmaking
 blinds
-bacteriologists
 breird
 burnoose
 berkowitz
@@ -9906,6 +9905,7 @@ baffed
 blepharodiastasis
 bismer
 blockers
+bacteriologists
 bailiffwick
 bewhisper
 bassinets
