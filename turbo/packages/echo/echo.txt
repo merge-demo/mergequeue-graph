@@ -2454,6 +2454,7 @@ eupolyzoa
 eleve
 exegete
 ellipsoids
+enantiomer
 eurythmical
 enstatite
 electrogasdynamics
@@ -4063,7 +4064,6 @@ ethmophysal
 eichhornia
 entoilment
 emplaster
-enantiomer
 elevating
 equiponderated
 emplastic
