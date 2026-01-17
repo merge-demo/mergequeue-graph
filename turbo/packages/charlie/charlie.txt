@@ -22707,7 +22707,6 @@ counterevidence
 cryosphere
 conquerer
 conquerers
-conqueress
 conquering
 coenure
 conquerment
@@ -23559,6 +23558,7 @@ contingential
 clapwort
 contingently
 contingentness
+conqueress
 criollos
 cathead
 contact

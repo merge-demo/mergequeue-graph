@@ -7038,6 +7038,7 @@ epapophysial
 evejar
 estivage
 emulsible
+easternmost
 estuous
 edicule
 equiprobability
@@ -7727,7 +7728,6 @@ encephalogram
 equispatial
 entomophthoraceae
 exotisms
-easternmost
 embolite
 expedientially
 episodes
