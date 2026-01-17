@@ -3782,6 +3782,7 @@ cheerios
 civilist
 carbazole
 carbeen
+copemates
 carbene
 cantorian
 carbide
@@ -16091,7 +16092,6 @@ coextending
 coccogonales
 crystallochemistry
 cliffhanging
-copemates
 cardamons
 costuming
 clifflike
