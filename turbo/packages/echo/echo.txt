@@ -828,7 +828,6 @@ endophytic
 efficient
 electrolyser
 excrementous
-enchair
 elong
 ethology
 ectodermosis
@@ -2851,6 +2850,7 @@ estoppels
 eleutherophobia
 elaphomycetaceae
 easygoingness
+enchair
 encephalalgia
 eleutherozoa
 euhemeristic
