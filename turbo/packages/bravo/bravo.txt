@@ -11797,6 +11797,7 @@ bookshops
 boccarella
 bodings
 boccaro
+burdenous
 bobsleding
 bocce
 bugbears
@@ -17515,7 +17516,6 @@ bakuninism
 blasty
 bacteriocyte
 bookrest
-burdenous
 bleep
 bulbocapnine
 backwardly

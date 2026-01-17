@@ -1676,6 +1676,7 @@ gester
 gluts
 gambiers
 geitjie
+groof
 gelatination
 grudgefulness
 gryposis
@@ -1999,7 +2000,6 @@ grithman
 gauzy
 galatae
 goitrogenicity
-groof
 gainsayers
 glacon
 gonna
