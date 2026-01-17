@@ -3687,6 +3687,7 @@ alphabetist
 ashier
 anachoret
 alimenting
+avigate
 attempre
 adenotomic
 adenous
@@ -5005,7 +5006,6 @@ assumptions
 abnormalist
 awaft
 accentuable
-avigate
 abv
 aerophysics
 areolation
