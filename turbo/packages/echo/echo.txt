@@ -3277,7 +3277,6 @@ eobiont
 emanatism
 euphorias
 explanatoriness
-equipaga
 embassade
 emanatist
 epical
@@ -13743,6 +13742,7 @@ enemata
 epitrochoidal
 ectosphere
 extincted
+equipaga
 enterostomies
 editable
 encephalomeningitis
