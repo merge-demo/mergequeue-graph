@@ -8685,7 +8685,6 @@ gawkishly
 goosing
 gree
 glean
-gismondite
 ginglymus
 gutterling
 gimcracks
@@ -9709,6 +9708,7 @@ girlfriend
 gruyere
 gasterosteidae
 gratefully
+gismondite
 gorfly
 gundygut
 guardage
