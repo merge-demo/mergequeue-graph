@@ -647,6 +647,7 @@ faltere
 flavored
 frequenter
 frithsoken
+figuring
 falx
 further
 fortyfives
@@ -7258,7 +7259,6 @@ fenestrate
 failance
 furazan
 freesheet
-figuring
 fiants
 freshment
 femereil
