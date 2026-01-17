@@ -13339,7 +13339,6 @@ bebrave
 buss
 bezante
 basilosaurus
-both
 bradyphagia
 bothered
 bester
@@ -14789,6 +14788,7 @@ brazenfacedness
 bicaudal
 bargh
 brazens
+both
 brazer
 brazers
 brows
