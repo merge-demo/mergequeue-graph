@@ -3013,6 +3013,7 @@ eggfish
 elixir
 enwall
 ecblastesis
+englishing
 elixiviate
 excerptor
 ensheathes
@@ -10060,7 +10061,6 @@ ensepulcher
 exode
 endoparasitism
 epipolize
-englishing
 epinglette
 eurypterid
 escharine
