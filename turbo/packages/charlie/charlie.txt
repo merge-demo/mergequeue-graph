@@ -1087,6 +1087,7 @@ cordials
 combs
 creeling
 calcicolous
+curdiness
 calcicosis
 collyrie
 calciferol
@@ -31319,7 +31320,6 @@ considerately
 commemorize
 circumoral
 claudent
-curdiness
 curdled
 cottabus
 critchfield
