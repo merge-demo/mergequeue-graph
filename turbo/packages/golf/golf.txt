@@ -1777,7 +1777,6 @@ gavelled
 gasterosteid
 gynandrism
 glossolaly
-gutterblood
 gelatinotype
 glutinate
 gestalten
@@ -3920,6 +3919,7 @@ glossoscopia
 geoty
 gads
 gorgoneioneia
+gutterblood
 guested
 giggliest
 geds

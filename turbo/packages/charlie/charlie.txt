@@ -8085,6 +8085,7 @@ costarring
 conjugational
 carryalls
 chaffinch
+colourfast
 caressable
 climatical
 camelion
@@ -30739,7 +30740,6 @@ cuif
 cuifs
 cuinage
 cuing
-colourfast
 cuirassed
 catachrestical
 cuirasses
