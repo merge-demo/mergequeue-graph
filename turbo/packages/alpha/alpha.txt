@@ -15101,6 +15101,7 @@ aspherical
 anoplanthus
 antidromically
 apparance
+atalayas
 antidrug
 anemotropic
 applied
@@ -22952,7 +22953,6 @@ appositional
 apis
 alose
 atria
-atalayas
 atrial
 antipodeans
 atrible
