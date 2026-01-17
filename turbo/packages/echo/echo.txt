@@ -7828,6 +7828,7 @@ epigamic
 ephod
 enterolith
 elbowed
+enactable
 elbower
 epigrammatizing
 endaortitis
@@ -12542,7 +12543,6 @@ electrocapillarity
 enzymology
 exculpative
 extoolitic
-enactable
 esonarthex
 enameler
 electrofusion
