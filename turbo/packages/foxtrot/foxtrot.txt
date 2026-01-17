@@ -4854,6 +4854,7 @@ foldedly
 frumpy
 fives
 fibrinate
+fungian
 fellage
 forbears
 freedmen
@@ -11157,7 +11158,6 @@ fungation
 fungia
 fremdness
 flyblowing
-fungian
 felspar
 fungibility
 fadeout
