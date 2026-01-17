@@ -1192,6 +1192,7 @@ forfex
 filicineae
 fraying
 friponerie
+flagpoles
 focalize
 funder
 fifths
@@ -9386,7 +9387,6 @@ fossor
 freeloading
 fluoridate
 freewheeling
-flagpoles
 furacana
 flammed
 franz
