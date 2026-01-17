@@ -5659,6 +5659,7 @@ bilify
 biobibliographies
 belderroot
 bodgie
+bletting
 beleaguering
 bongar
 badgeless
@@ -9132,7 +9133,6 @@ bionomical
 biostatic
 biostatical
 buffleheaded
-bletting
 banc
 beefburger
 bhaktas
