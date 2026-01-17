@@ -9972,7 +9972,6 @@ chenopods
 cajuputs
 chequebook
 croup
-chequer
 chequers
 creosoted
 chalukya
@@ -15392,6 +15391,7 @@ cautio
 cabins
 claptraps
 culbuter
+chequer
 claque
 candescently
 calipering
