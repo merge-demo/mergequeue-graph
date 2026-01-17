@@ -5328,7 +5328,6 @@ batekes
 bor
 beglooms
 begloze
-brokenly
 baidar
 breviers
 beglue
@@ -9544,6 +9543,7 @@ baister
 bicipitous
 boarfish
 barbacoan
+brokenly
 bisagre
 basidium
 belays
