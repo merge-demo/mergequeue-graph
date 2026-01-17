@@ -24771,7 +24771,6 @@ copter
 cyclomania
 clausilia
 concert
-cabbing
 copula
 cheechakos
 coroscopy
@@ -31389,6 +31388,7 @@ chocked
 croutons
 curio
 curiolofic
+cabbing
 culinarily
 chemotropic
 camoufleurs
