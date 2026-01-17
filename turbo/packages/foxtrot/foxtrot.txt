@@ -5680,6 +5680,7 @@ flosculariidae
 flirtatiousness
 fundament
 floodwater
+fungicidal
 fitroot
 flurry
 flippancies
@@ -11163,7 +11164,6 @@ fungibility
 fadeout
 fideists
 farmer
-fungicidal
 fungicidally
 fungicides
 fungicolous
