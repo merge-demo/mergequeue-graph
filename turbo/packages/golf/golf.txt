@@ -45,7 +45,6 @@ grawls
 gabions
 gunfires
 genotypically
-gableboard
 groats
 graperies
 gangue
@@ -9175,6 +9174,7 @@ greenhornism
 gripment
 grimacers
 gooral
+gableboard
 gridlock
 gliss
 glavering
