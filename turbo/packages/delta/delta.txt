@@ -8350,7 +8350,6 @@ dialin
 dialiness
 dilution
 descensional
-divinify
 dialypetalous
 diplumbic
 dichotomization
@@ -12005,6 +12004,7 @@ dotting
 disenclose
 distrain
 daint
+divinify
 diammine
 decimus
 domicella
