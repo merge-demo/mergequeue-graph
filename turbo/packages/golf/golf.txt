@@ -365,6 +365,7 @@ galactophoritis
 gutwort
 gingerin
 grade
+gemmula
 gilet
 gildedness
 gantlets
@@ -7596,7 +7597,6 @@ greengroceries
 gloeosporium
 grinders
 goodyness
-gemmula
 grus
 grabouche
 gripsack
