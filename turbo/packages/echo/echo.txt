@@ -9373,6 +9373,7 @@ epidemiographist
 enfamous
 edestin
 erythrogenesis
+emplacement
 erysipelas
 eyehole
 extraordinarily
@@ -10695,7 +10696,6 @@ entoderm
 emeerate
 epiphysis
 epitomizer
-emplacement
 euhemerist
 erichthus
 exothecium
