@@ -3173,6 +3173,7 @@ gorgerin
 geotilla
 grigs
 geotropy
+galvanical
 guardant
 glossolabiolaryngeal
 gametoid
@@ -3247,7 +3248,6 @@ gaut
 gossypol
 gyral
 gaelicist
-galvanical
 gustatory
 giddiest
 ghoster
