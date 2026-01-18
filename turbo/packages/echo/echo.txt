@@ -2115,7 +2115,6 @@ electrosurgical
 endleaf
 enfoil
 enterobiliary
-exterminatress
 enanthematous
 eisteddfodism
 epoxy
@@ -11951,6 +11950,7 @@ emirs
 ensilages
 exothermicity
 endurance
+exterminatress
 enlist
 epithecate
 exactress
