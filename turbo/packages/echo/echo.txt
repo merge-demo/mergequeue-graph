@@ -11090,6 +11090,7 @@ espies
 esquiredom
 encage
 entune
+eponymous
 emulated
 eloped
 emblemish
@@ -13435,7 +13436,6 @@ embitterer
 erogate
 ethanal
 ethnodicy
-eponymous
 electrotechnical
 expurge
 employless
