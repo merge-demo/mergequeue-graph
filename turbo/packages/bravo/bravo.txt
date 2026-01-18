@@ -1919,7 +1919,6 @@ bandanas
 bergama
 bandogs
 bediademed
-barken
 bandoleer
 breadstuffs
 burlesquely
@@ -18126,6 +18125,7 @@ birchism
 butcheress
 butchery
 backstabbing
+barken
 betulinamaric
 biogas
 bedfordshire
