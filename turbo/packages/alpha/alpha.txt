@@ -18164,7 +18164,6 @@ algeria
 aquaplane
 accustomed
 artware
-allegoricalness
 allodiary
 astigmatically
 alivincular
@@ -22792,6 +22791,7 @@ autecisms
 atis
 apostatized
 atlantal
+allegoricalness
 amated
 accomodate
 akepiros
