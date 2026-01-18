@@ -7156,7 +7156,6 @@ glistering
 geometrise
 glycuronid
 guans
-gaffs
 glycid
 gross
 glycolylurea
@@ -10781,6 +10780,7 @@ gamesomely
 guttated
 gorki
 gazelles
+gaffs
 gawky
 gaddang
 gesellschaften
