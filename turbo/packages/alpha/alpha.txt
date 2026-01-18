@@ -264,6 +264,7 @@ anchovy
 abdicant
 abhorrence
 abdications
+angaralite
 asouth
 adze
 amphistyly
@@ -725,7 +726,6 @@ alternize
 anglicized
 animine
 antivaccination
-angaralite
 accourt
 aphid
 abdominohysterectomy
