@@ -9918,7 +9918,6 @@ ascolichenes
 adminiculate
 abducens
 anticlastic
-auricled
 amativeness
 arcing
 artificious
@@ -11297,6 +11296,7 @@ abri
 arts
 apronless
 articular
+auricled
 aleck
 aik
 antimasks
