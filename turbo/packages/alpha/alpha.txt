@@ -21953,6 +21953,7 @@ aeriest
 anatripsis
 alderling
 austerus
+angiosporous
 associativeness
 appending
 amplify
@@ -25401,5 +25402,4 @@ antifeudalist
 attractively
 antiradiant
 ashpan
-angiosporous
 geronimo
