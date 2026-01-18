@@ -4753,7 +4753,6 @@ benitoite
 butcherliness
 badmash
 bangs
-bedlams
 bienseance
 bedlar
 bazoo
@@ -13328,6 +13327,7 @@ benadryl
 bridgeman
 botcheries
 botcherly
+bedlams
 bitterbump
 botchy
 botchily
