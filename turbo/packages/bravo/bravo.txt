@@ -13943,6 +13943,7 @@ butterbush
 bullring
 boxhauled
 brierberry
+bracteose
 bundle
 boxhauling
 boxhauls
@@ -14192,7 +14193,6 @@ bracon
 bedquilt
 bushwife
 bracteole
-bracteose
 biblically
 bestowal
 baikerite
