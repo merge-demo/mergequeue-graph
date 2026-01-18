@@ -6686,7 +6686,6 @@ danaid
 desiderated
 demikindred
 diacoustics
-denies
 dropforge
 desideration
 deoxidant
@@ -8981,6 +8980,7 @@ deprivement
 dicing
 dhow
 dicynodontia
+denies
 diclinous
 distortionless
 deify
