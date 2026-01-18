@@ -58,7 +58,6 @@ gatherum
 glauconia
 griller
 gluemaking
-gamboler
 greywether
 gogga
 gonidiophore
@@ -7720,6 +7719,7 @@ galvayning
 grenelle
 gauloiserie
 guld
+gamboler
 grenadier
 gynecicgynecidal
 glycinin
