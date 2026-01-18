@@ -13922,7 +13922,6 @@ cynophilist
 chilognath
 chemoreceptivities
 cynophobe
-cynophobia
 counterchange
 cynopithecidae
 cynopithecoid
@@ -27504,6 +27503,7 @@ coveys
 covelline
 covellite
 certie
+cynophobia
 conceptualistic
 corpus
 cocas
