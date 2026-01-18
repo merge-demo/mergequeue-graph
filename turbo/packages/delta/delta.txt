@@ -12252,7 +12252,6 @@ deliberativeness
 dossiere
 demoniacism
 drubbing
-desegregate
 dysadaptation
 demoralizing
 dispeoplement
@@ -12487,6 +12486,7 @@ dexterity
 defy
 deboise
 demesne
+desegregate
 dislimb
 dicalcium
 discontinuations

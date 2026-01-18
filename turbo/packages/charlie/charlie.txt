@@ -18531,6 +18531,7 @@ coiffeur
 coiffeurs
 coiffeuses
 coiffured
+civilizedness
 ceroxylon
 coiffures
 coiffuring
@@ -20772,7 +20773,6 @@ complicated
 complicatedly
 carburan
 carterly
-civilizedness
 cytode
 complicative
 cheapskate
