@@ -11853,6 +11853,7 @@ colonialising
 contend
 chordal
 cosharer
+costated
 chordamesodermal
 chordamesodermic
 chordate
@@ -26233,7 +26234,6 @@ costarred
 continentaler
 chuffiness
 costata
-costated
 cloacas
 congrio
 cedron
