@@ -1950,7 +1950,6 @@ acetyltropeine
 animize
 acetylurea
 atheromata
-armorial
 acetins
 acardite
 almeries
@@ -4148,6 +4147,7 @@ adonai
 adoniad
 agrarianize
 adonin
+armorial
 adonis
 adonist
 arterialization
