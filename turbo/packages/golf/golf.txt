@@ -2674,6 +2674,7 @@ geniculately
 geniculation
 granule
 gemarist
+glaciological
 gigantocyte
 genioglossal
 gastroenterologists
@@ -3858,7 +3859,6 @@ genioplasty
 genetrix
 gemological
 gateworks
-glaciological
 graders
 gonotome
 grippier
