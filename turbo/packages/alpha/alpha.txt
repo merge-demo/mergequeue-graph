@@ -16819,7 +16819,6 @@ ancienter
 approve
 anlet
 auxiliary
-ambrosiac
 aphra
 aphrodesiac
 abastral
@@ -17793,6 +17792,7 @@ afterhours
 appointer
 agapornis
 adherently
+ambrosiac
 archpatron
 analysand
 aliamenta
