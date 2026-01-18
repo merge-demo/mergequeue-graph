@@ -1231,6 +1231,7 @@ fixator
 fissure
 foredoing
 firmitude
+falcinellus
 frigidity
 fenders
 flexural
@@ -8777,7 +8778,6 @@ featherstitch
 feoffing
 flunks
 favorably
-falcinellus
 frailes
 fetchers
 flotages
