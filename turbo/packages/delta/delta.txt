@@ -9614,6 +9614,7 @@ despot
 dihydroergotamine
 destructs
 diplexer
+dubby
 dissight
 dipoles
 dexterous
@@ -13981,7 +13982,6 @@ deys
 daubed
 distomes
 distomidae
-dubby
 deturb
 doorposts
 derrid
