@@ -8135,7 +8135,6 @@ foreverness
 fellowshiping
 foreview
 foregoes
-foederatus
 franzy
 fingerprinted
 florulent
@@ -10435,6 +10434,7 @@ forstall
 frizes
 fellah
 forninst
+foederatus
 ferocity
 februarius
 flaxtail
