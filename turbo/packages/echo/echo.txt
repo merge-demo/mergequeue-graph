@@ -6836,7 +6836,6 @@ ermine
 exults
 epidermoidal
 educability
-entomologist
 entomologize
 entrap
 entomologized
@@ -10206,6 +10205,7 @@ etesian
 epanodos
 exantlate
 editorials
+entomologist
 ensporia
 externalisation
 exoticity
