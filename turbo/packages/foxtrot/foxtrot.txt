@@ -3703,7 +3703,6 @@ fatshedera
 fosse
 fribblish
 foujdary
-fourierian
 flavorousness
 fluoroscopists
 fake
@@ -6848,6 +6847,7 @@ flourished
 fossilise
 frecked
 flioma
+fourierian
 folky
 fibromyxosarcoma
 fidejussory
