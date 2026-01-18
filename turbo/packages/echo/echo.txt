@@ -5486,7 +5486,6 @@ ectocarpic
 excitate
 equiformity
 enzymosis
-enervation
 ethnically
 ensnarers
 enetophobia
@@ -11858,6 +11857,7 @@ eparchate
 enteroparesis
 espinillo
 enfranchisement
+enervation
 extbook
 embowing
 ergonomically
