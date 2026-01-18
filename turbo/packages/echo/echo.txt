@@ -9356,7 +9356,6 @@ excerptible
 excresce
 escalope
 erlking
-enchiladas
 engraced
 expatriates
 embryogenic
@@ -13233,6 +13232,7 @@ ethize
 explement
 envine
 edacity
+enchiladas
 endocranium
 ephebeum
 episternite
