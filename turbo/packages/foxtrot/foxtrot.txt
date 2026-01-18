@@ -4456,6 +4456,7 @@ furthermost
 fleshing
 foreloop
 fishspear
+festal
 fantocine
 fluffier
 fountainwise
@@ -11018,7 +11019,6 @@ femororotulian
 forecastlemen
 frontierman
 floriferously
-festal
 furzery
 foresights
 fora
