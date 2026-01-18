@@ -4960,7 +4960,6 @@ grolier
 greensward
 gothonic
 goninidia
-glebeless
 grippe
 gammed
 giulio
@@ -6454,6 +6453,7 @@ gordian
 grandmaternal
 galleine
 gasification
+glebeless
 guatemalans
 gynecomania
 generalizable
