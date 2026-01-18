@@ -4414,7 +4414,6 @@ gobby
 giobertite
 grazierdom
 grainsickness
-gosplan
 gammelost
 graminology
 gommelin
@@ -7954,6 +7953,7 @@ glossina
 goniatitid
 ghettoize
 gynecologic
+gosplan
 getups
 grippy
 grandiosity
