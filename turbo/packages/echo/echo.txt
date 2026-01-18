@@ -10216,6 +10216,7 @@ epanorthosis
 errsyn
 experiences
 embedded
+expellees
 excavators
 ethyldichloroarsine
 emphraxis
@@ -13042,7 +13043,6 @@ erythrocarpous
 ecstasies
 euge
 enterochirurgia
-expellees
 echinospermum
 expellent
 entrancing
