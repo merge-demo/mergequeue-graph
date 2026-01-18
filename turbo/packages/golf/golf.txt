@@ -3593,7 +3593,6 @@ gogos
 grewhound
 ghees
 gladen
-guanylic
 granilla
 goglets
 glottalize
@@ -3814,6 +3813,7 @@ gigelira
 gaolerness
 gold
 granthi
+guanylic
 granulitization
 gell
 galanas
