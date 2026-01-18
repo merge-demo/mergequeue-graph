@@ -10442,7 +10442,6 @@ devinct
 disinflame
 dow
 douzainier
-diplomatism
 dashikis
 demibath
 diphonia
@@ -15887,6 +15886,7 @@ deboning
 delighting
 discounts
 doser
+diplomatism
 datura
 dogproof
 dosing
