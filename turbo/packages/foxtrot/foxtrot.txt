@@ -2230,6 +2230,7 @@ fightingly
 forhale
 flesher
 feticidal
+floatages
 forgetting
 fracture
 filtrated
@@ -6877,7 +6878,6 @@ folklores
 fp
 fow
 facelessness
-floatages
 fruity
 fifes
 felafel
