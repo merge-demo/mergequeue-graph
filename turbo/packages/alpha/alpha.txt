@@ -12750,7 +12750,6 @@ accountants
 ashpit
 anginose
 anginous
-adenectomies
 apocenter
 adventism
 agglutination
@@ -21488,6 +21487,7 @@ asperity
 anthrol
 associationist
 abdicating
+adenectomies
 asperly
 acupuncturation
 autotransplantation
