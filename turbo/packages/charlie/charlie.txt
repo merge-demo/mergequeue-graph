@@ -21289,6 +21289,7 @@ concessionaire
 concessional
 chausseemeile
 concessions
+canvassing
 concessit
 craniate
 concessiveness
@@ -31162,7 +31163,6 @@ conscripts
 cupellers
 centrode
 cupfulfuls
-canvassing
 cupid
 cupidinous
 cupidities
