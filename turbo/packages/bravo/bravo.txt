@@ -11,7 +11,6 @@ baals
 browning
 bloodalley
 bryozoans
-buddhi
 bowstringing
 bistratose
 beneficences
@@ -12503,6 +12502,7 @@ bonefish
 broodier
 bellyflaught
 barcarolle
+buddhi
 biennially
 brakier
 bloomerism
