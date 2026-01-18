@@ -3486,6 +3486,7 @@ fictionalizes
 fisetin
 farness
 fermentology
+flews
 fraternity
 fleches
 falcones
@@ -5189,7 +5190,6 @@ flytrap
 flatnose
 flavescent
 funguses
-flews
 farse
 fulfil
 fourling
