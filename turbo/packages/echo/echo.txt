@@ -842,7 +842,6 @@ erythrocytolysin
 electrocution
 encomiastical
 endophyte
-entailed
 ectomorph
 ectoparasite
 exemptionist
@@ -5483,6 +5482,7 @@ ethnically
 ensnarers
 enetophobia
 enfaces
+entailed
 earthshattering
 elizabethans
 experimentalism
