@@ -8137,7 +8137,6 @@ goatling
 granulet
 gorgonising
 gemsboks
-gallies
 granulization
 gliff
 ghastful
@@ -8977,6 +8976,7 @@ grievous
 gearbox
 germinating
 galingale
+gallies
 goff
 guaranteed
 gradgrindish
