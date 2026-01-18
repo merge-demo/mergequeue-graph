@@ -4272,7 +4272,6 @@ electrochemical
 electromobile
 entangle
 exosmoses
-echiniform
 exospores
 enacting
 ers
@@ -7266,6 +7265,7 @@ encharnel
 emigres
 eristics
 etherealize
+echiniform
 excursiveness
 emulous
 eimeria
