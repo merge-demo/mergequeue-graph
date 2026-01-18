@@ -2062,6 +2062,7 @@ extrovertedness
 extirpateo
 expropriatory
 enent
+evokes
 emma
 emblematist
 enclosable
@@ -14123,7 +14124,6 @@ extrorse
 extrospect
 expurgatorial
 endarch
-evokes
 equivorous
 existentialize
 eikons
