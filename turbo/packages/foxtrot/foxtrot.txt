@@ -2128,7 +2128,6 @@ fountainous
 foreprize
 fulsome
 faculous
-foddered
 fellatrice
 fluoresage
 frigate
@@ -8771,6 +8770,7 @@ flancard
 fecundation
 foxie
 fixedly
+foddered
 firebombing
 forgers
 filletster
