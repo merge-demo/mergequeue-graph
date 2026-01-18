@@ -9668,7 +9668,6 @@ foreigns
 fideicommissum
 firmly
 firebrat
-frenatae
 frenched
 flamenco
 furiously
@@ -10297,6 +10296,7 @@ fondants
 footcandles
 forewarning
 fiaunt
+frenatae
 fraenula
 floodlighted
 fluoridized
