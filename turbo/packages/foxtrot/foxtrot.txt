@@ -5013,6 +5013,7 @@ fishline
 fosses
 fetialis
 foveated
+footbaths
 fezes
 freir
 foreseers
@@ -6425,7 +6426,6 @@ floretty
 fisherboat
 feltman
 fanflower
-footbaths
 feneration
 forweary
 flummery
