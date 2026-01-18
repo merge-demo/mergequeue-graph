@@ -2618,7 +2618,6 @@ barkbound
 bamoth
 betterments
 barkcutter
-balsameaceous
 breastbones
 bifronted
 bhaiyachara
@@ -3089,6 +3088,7 @@ brahman
 bacterization
 breachy
 barwal
+balsameaceous
 bannack
 blague
 bullary
