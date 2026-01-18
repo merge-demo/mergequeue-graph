@@ -3164,6 +3164,7 @@ dimitting
 defectless
 declaratives
 defectlessness
+digesture
 delegatory
 dislevelment
 descendible
@@ -9492,7 +9493,6 @@ desiliconize
 discussable
 digestor
 decide
-digesture
 dinarzade
 disapproval
 diggable
