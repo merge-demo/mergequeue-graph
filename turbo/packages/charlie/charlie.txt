@@ -8428,7 +8428,6 @@ coarbiter
 cauligenous
 champagneless
 champagning
-chockman
 champagnize
 cardiogenic
 champagnized
@@ -30510,6 +30509,7 @@ cubanite
 cubatory
 contraclockwise
 counterweighed
+chockman
 cubby
 cavin
 cubbing
