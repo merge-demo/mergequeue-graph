@@ -926,7 +926,6 @@ fibry
 fezes
 foreperiod
 farawayness
-firmland
 fennelflower
 fanums
 ferine
@@ -5528,6 +5527,7 @@ forecited
 fluorite
 fascicle
 fibbing
+firmland
 felon
 flirtigig
 fungic
