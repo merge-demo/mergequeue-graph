@@ -9373,7 +9373,6 @@ epidemiographist
 enfamous
 edestin
 erythrogenesis
-escapees
 erysipelas
 eyehole
 extraordinarily
@@ -11964,6 +11963,7 @@ epitaphist
 epiploon
 eelcatcher
 excitations
+escapees
 escapes
 eastbound
 eulogists
