@@ -10779,6 +10779,7 @@ emoting
 euskera
 esterases
 epitactic
+empyemas
 encumber
 engrafts
 embracer
@@ -12642,7 +12643,6 @@ esrogim
 exogamies
 ephete
 enuretic
-empyemas
 emissarium
 exogen
 earldom
