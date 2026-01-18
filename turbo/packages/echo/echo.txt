@@ -10684,7 +10684,6 @@ endopleural
 euripus
 erebus
 euglenoid
-exolve
 electrotypic
 evenworthy
 ecossaise
@@ -11612,6 +11611,7 @@ empaneled
 enhances
 enforcibility
 electrolytes
+exolve
 ecbatic
 embordering
 epulosis
