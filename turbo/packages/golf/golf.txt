@@ -3161,6 +3161,7 @@ grannam
 gaddis
 glossiness
 glottological
+gorgerin
 geotilla
 grigs
 geotropy
@@ -10054,7 +10055,6 @@ gyneconitis
 grabens
 gumshoed
 gonomere
-gorgerin
 gigabits
 gibblegable
 guerrillas
