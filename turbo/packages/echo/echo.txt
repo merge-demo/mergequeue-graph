@@ -4368,6 +4368,7 @@ encadre
 ender
 emphasised
 electrobioscopy
+encratism
 episcopality
 endoparasite
 environmentally
@@ -12645,7 +12646,6 @@ emissarium
 exogen
 earldom
 esophagostomy
-encratism
 examplar
 exogyra
 enterogram
