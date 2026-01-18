@@ -2151,6 +2151,7 @@ grossness
 gerontine
 gdinfo
 golfings
+gamelang
 gaycat
 gastrotomy
 grainer
@@ -6763,7 +6764,6 @@ ganocephala
 gonionia
 genericness
 guib
-gamelang
 glaciers
 ganam
 gestatorial
