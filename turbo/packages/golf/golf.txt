@@ -3475,6 +3475,7 @@ gesticulant
 grueller
 goloch
 gentiin
+gotos
 girlish
 gagman
 gagee
@@ -8607,7 +8608,6 @@ gambol
 goslarite
 gregge
 guidwilly
-gotos
 goldanged
 glomus
 gimbaling
