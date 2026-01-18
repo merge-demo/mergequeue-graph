@@ -2786,7 +2786,6 @@ baronetize
 ballistocardiographic
 benzeneazobenzene
 bedcase
-brachyurous
 backbencher
 barong
 befilch
@@ -15848,6 +15847,7 @@ belittled
 battiks
 broletti
 bi
+brachyurous
 broletto
 benzthiophen
 biders
