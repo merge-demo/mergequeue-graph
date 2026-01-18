@@ -3785,6 +3785,7 @@ chlorpikrin
 cheerios
 civilist
 carbazole
+chromogen
 carbeen
 copemates
 carbene
@@ -12434,7 +12435,6 @@ chromocratic
 capetonian
 chromoctye
 chromodermatosis
-chromogen
 chromogene
 chromogenesis
 cingulate
