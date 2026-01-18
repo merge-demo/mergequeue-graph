@@ -3452,6 +3452,7 @@ fatigation
 fighting
 formboard
 figo
+fulwa
 foraminifer
 favillae
 fumaroid
@@ -6904,7 +6905,6 @@ fragmented
 fishback
 fogs
 formyls
-fulwa
 fideicommission
 formeret
 filibusterous
