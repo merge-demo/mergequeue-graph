@@ -14424,6 +14424,7 @@ analepsis
 adiaphonon
 albuminone
 antagonizable
+apparance
 antiprelatism
 abecedarium
 anthracosaurus
@@ -15104,7 +15105,6 @@ artotypy
 aspherical
 anoplanthus
 antidromically
-apparance
 atalayas
 antidrug
 anemotropic
