@@ -7515,7 +7515,6 @@ betwine
 befingered
 betwixt
 bancales
-binned
 beneaped
 brachypodine
 booteries
@@ -17167,6 +17166,7 @@ bullion
 balkanization
 bullyrag
 butcherly
+binned
 bullyragger
 booklice
 balantidial
