@@ -5385,7 +5385,6 @@ alfridary
 antiloemic
 autogiro
 aecia
-avail
 afire
 aflagellar
 acapnias
@@ -20066,6 +20065,7 @@ appetize
 anaphoras
 anaplasis
 apophyses
+avail
 ambrosial
 allomerizing
 albainn
