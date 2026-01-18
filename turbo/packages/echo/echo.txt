@@ -4035,7 +4035,6 @@ embroils
 epitheca
 elses
 enamelers
-ecstasize
 exterminated
 empiricalness
 engorgement
@@ -8842,6 +8841,7 @@ ecuelling
 epitheloid
 enkernel
 ecospecifically
+ecstasize
 esthesiometer
 eremuri
 ethnoflora
