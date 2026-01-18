@@ -5082,6 +5082,7 @@ furnishment
 furculae
 flashiness
 fermerer
+fichteanism
 famulli
 fragrancies
 forewords
@@ -9066,7 +9067,6 @@ formity
 follows
 furtum
 fortresses
-fichteanism
 filters
 fantasias
 fortifies
