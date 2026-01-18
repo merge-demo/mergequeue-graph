@@ -294,7 +294,6 @@ gummier
 glossophora
 gaintwist
 grypanian
-giglot
 geobotany
 gypper
 ganjas
@@ -3609,6 +3608,7 @@ gedder
 gossipy
 gro
 gastroenterological
+giglot
 gluconeogenic
 goldest
 gastrotubotomy
