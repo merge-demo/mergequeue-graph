@@ -3420,7 +3420,6 @@ geggery
 glamourize
 greyware
 gesturist
-geothermic
 girdingly
 goaled
 gynecic
@@ -9380,6 +9379,7 @@ grosso
 gowans
 gabriel
 grizzled
+geothermic
 genocide
 genesis
 grothine
