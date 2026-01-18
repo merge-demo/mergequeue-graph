@@ -7208,6 +7208,7 @@ excrescences
 expunge
 electronegativity
 eoith
+endogenies
 eoiths
 entamebae
 eradicably
@@ -11018,7 +11019,6 @@ earings
 euangiotic
 epipial
 eyne
-endogenies
 elderwomen
 enrollments
 episcopacies
