@@ -4549,7 +4549,6 @@ frutices
 flaunted
 fossilized
 fool
-feigned
 fingery
 flippance
 forestwards
@@ -11415,6 +11414,7 @@ furfuraceously
 furred
 frieze
 frowstiest
+feigned
 fettering
 forebemoaned
 founte
