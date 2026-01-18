@@ -8492,7 +8492,6 @@ graveclod
 gonfalon
 genl
 gult
-gibaro
 gregarinina
 graffias
 garum
@@ -9497,6 +9496,7 @@ glenn
 generalizer
 gloving
 glycidic
+gibaro
 gundelow
 ganoidean
 grouser
