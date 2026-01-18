@@ -10302,6 +10302,7 @@ enrobes
 emitters
 eulophid
 ela
+elicited
 ebullitions
 exsiccated
 ethnocracy
@@ -13190,7 +13191,6 @@ expirations
 extirpate
 exaspidean
 extruded
-elicited
 elapinae
 emphatically
 embale
