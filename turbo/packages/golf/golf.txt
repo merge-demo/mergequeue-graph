@@ -6408,7 +6408,6 @@ gongorist
 geostationary
 grieshoch
 gaols
-glycogenetic
 girlchild
 goitral
 guam
@@ -9696,6 +9695,7 @@ gasoliery
 goodish
 girlfriend
 gruyere
+glycogenetic
 gasterosteidae
 gratefully
 gismondite

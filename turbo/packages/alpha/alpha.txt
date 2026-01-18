@@ -13219,7 +13219,6 @@ accretionary
 amaltas
 anilidic
 allude
-animo
 archchampion
 antipathic
 academizing
@@ -13516,6 +13515,7 @@ attributal
 annoyances
 anthropopathy
 antefact
+animo
 aster
 appeasing
 avenin
