@@ -10067,6 +10067,7 @@ dynamometrical
 dodipole
 dirls
 dogfight
+disjune
 dilatable
 dislustring
 dynamophone
@@ -12091,7 +12092,6 @@ denizened
 demerits
 disentitled
 didelphine
-disjune
 diurnals
 disentitlement
 dudishly
