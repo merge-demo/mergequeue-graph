@@ -3937,7 +3937,6 @@ alpiniaceae
 anteporch
 adjured
 amygdalotome
-aristotelism
 absconding
 adjures
 aspersorium
@@ -21360,6 +21359,7 @@ accompletive
 asymptotes
 achromophilous
 antimitotic
+aristotelism
 asymtote
 aggrievement
 asymtotic
