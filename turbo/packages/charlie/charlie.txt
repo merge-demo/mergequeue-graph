@@ -2272,7 +2272,6 @@ canadian
 coagulase
 canadianize
 compassionable
-catchwords
 counterlathing
 centaurus
 canadine
@@ -22310,6 +22309,7 @@ congratulational
 costumire
 congratulations
 congratulatory
+catchwords
 congree
 commandant
 congregable
