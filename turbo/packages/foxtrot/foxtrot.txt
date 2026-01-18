@@ -3853,7 +3853,6 @@ farsang
 firmnesses
 frizzles
 fanglomerate
-figurings
 farleu
 fimbrillate
 fany
@@ -5857,6 +5856,7 @@ frogged
 furandi
 flockiest
 frankliniana
+figurings
 forbysening
 fisherfolk
 faultfinding
