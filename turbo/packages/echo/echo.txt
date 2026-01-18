@@ -3940,7 +3940,6 @@ emotivity
 epileptology
 exorability
 epitases
-empaistic
 exilarch
 embroglio
 empale
@@ -6766,6 +6765,7 @@ entitatively
 entitle
 elixed
 evangelistarion
+empaistic
 enculturating
 eggheads
 entitling

@@ -3387,7 +3387,6 @@ decarboxylase
 decolorisation
 disadorn
 donet
-deflector
 dichlorvos
 devitrifying
 deflesh
@@ -12068,6 +12067,7 @@ demantoid
 dijudicated
 disensure
 disentail
+deflector
 deprecatively
 disentangle
 dissensious
