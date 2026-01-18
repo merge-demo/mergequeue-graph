@@ -884,7 +884,6 @@ dermotherm
 daguerrean
 dripproof
 dieting
-demency
 disincrustant
 decrescendo
 dandling
@@ -13639,6 +13638,7 @@ diagrydium
 dissever
 disseverment
 dimethylketone
+demency
 dissheathed
 daddums
 dosimetrist
