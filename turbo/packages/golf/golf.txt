@@ -2744,6 +2744,7 @@ gorgers
 gunfire
 greenflies
 gauger
+goodsome
 guestchamber
 gorraf
 gipped
@@ -9978,7 +9979,6 @@ gunwale
 grills
 glazer
 gubernatrix
-goodsome
 geophysically
 gogglier
 graveness
