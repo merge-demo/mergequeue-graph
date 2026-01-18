@@ -1154,6 +1154,7 @@ educatable
 educatedness
 electrolyzable
 eudiometric
+episternalia
 educates
 engrainedly
 egrimony
@@ -6790,7 +6791,6 @@ entoil
 eggler
 entom
 extender
-episternalia
 eumenes
 ectosarcs
 elix

@@ -2129,7 +2129,6 @@ chondrosarcomata
 campanulous
 cowbells
 campbell
-campbellisms
 campbellites
 cixiid
 cambuscan
@@ -11749,6 +11748,7 @@ cytomegalic
 conduplication
 chondroitic
 chondroitin
+campbellisms
 cucurbitaceae
 chondromatous
 chondromyces
