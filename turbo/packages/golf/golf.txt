@@ -4262,7 +4262,6 @@ gorgonia
 gemmuliferous
 gyneolater
 guinfo
-germicide
 gynetype
 gymnadenia
 glazieries
@@ -8843,6 +8842,7 @@ groundedly
 gneisses
 gyrosyn
 guardfully
+germicide
 greylag
 groundout
 gynandromorphy
