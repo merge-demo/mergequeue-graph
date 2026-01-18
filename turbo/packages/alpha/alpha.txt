@@ -2078,7 +2078,6 @@ aches
 achesoun
 acheulean
 accustoms
-alcyones
 acumens
 achy
 absconds
@@ -3076,6 +3075,7 @@ autacoid
 amphibolia
 aswing
 allantoinuria
+alcyones
 anhydrous
 abidingly
 associators
