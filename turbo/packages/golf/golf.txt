@@ -1501,6 +1501,7 @@ gorlin
 gregarinidal
 grisounite
 grote
+guerilla
 genapping
 geratology
 gasman
@@ -3143,7 +3144,6 @@ gypsywort
 geoscopic
 geosphere
 gapless
-guerilla
 geochronologist
 guardiancy
 germina
