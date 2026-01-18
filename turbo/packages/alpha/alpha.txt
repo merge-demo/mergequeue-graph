@@ -8655,7 +8655,6 @@ allocution
 anemology
 alleleu
 allelic
-allelism
 axonemal
 argyrite
 almes
@@ -19139,6 +19138,7 @@ auryl
 akenes
 archspirit
 aquadag
+allelism
 arachnites
 amphigoric
 ashiness
