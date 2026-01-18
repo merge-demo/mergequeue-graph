@@ -4655,7 +4655,6 @@ demitted
 denticulately
 dilutive
 duties
-dipterologist
 demiurgeous
 downswings
 dropkicker
@@ -10232,6 +10231,7 @@ dinted
 dintless
 ducal
 degradedly
+dipterologist
 dermoskeleton
 distaste
 doura
