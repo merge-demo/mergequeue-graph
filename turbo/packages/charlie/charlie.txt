@@ -15352,7 +15352,6 @@ chiricahua
 coembedded
 camelhair
 curnie
-clanswoman
 cyanole
 chrysalidal
 characteristics
@@ -22252,6 +22251,7 @@ congesting
 congestion
 calk
 corupay
+clanswoman
 congestive
 conceitedly
 conglaciate
