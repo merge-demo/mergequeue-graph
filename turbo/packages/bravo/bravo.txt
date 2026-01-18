@@ -5077,7 +5077,6 @@ biloculine
 beferned
 befetished
 bandoline
-bilingual
 balefire
 biocatalyst
 basenet
@@ -6757,6 +6756,7 @@ bori
 betimes
 berossos
 beround
+bilingual
 bendability
 berreaves
 berret
