@@ -2703,7 +2703,6 @@ genyophrynidae
 granularity
 gingers
 gascoign
-geek
 gilbertese
 genyplasty
 globularness
@@ -3962,6 +3961,7 @@ germanish
 galvanograph
 gteau
 geared
+geek
 girlishness
 guttula
 gildable
