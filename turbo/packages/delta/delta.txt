@@ -5888,6 +5888,7 @@ dispossessing
 deep
 dowy
 draggily
+dispels
 disincrust
 depressomotor
 dunniewassel
@@ -11867,7 +11868,6 @@ discussion
 dominations
 dietzeite
 drumfires
-dispels
 disulphone
 dromomania
 dinned
