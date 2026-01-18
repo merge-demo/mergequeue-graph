@@ -6630,7 +6630,6 @@ gaed
 goncalo
 gyrectomy
 girlery
-globulysis
 glycosuria
 gonorrheic
 gurglingly
@@ -9600,6 +9599,7 @@ grumium
 glaucodote
 geests
 goiter
+globulysis
 grizzlier
 geochemical
 guarish
