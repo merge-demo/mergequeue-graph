@@ -14869,7 +14869,6 @@ alkarsin
 ankylodactylia
 armer
 anticyclones
-abaculi
 anticynical
 asway
 anticipant
@@ -18580,6 +18579,7 @@ aedoeology
 acondylous
 amaga
 achaemenid
+abaculi
 aelodicon
 anthrone
 arales
