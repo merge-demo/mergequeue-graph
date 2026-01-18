@@ -4657,7 +4657,6 @@ buxus
 barbershops
 borities
 bargee
-bedevilment
 bescarf
 bioplasmic
 betsileos
@@ -9635,6 +9634,7 @@ brince
 bishopdom
 baptists
 bilateral
+bedevilment
 bacterium
 bishopling
 bandboxy
