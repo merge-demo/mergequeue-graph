@@ -242,7 +242,6 @@ eleutheromorph
 evensong
 electropsychrometer
 eulamellibranchia
-excrementitial
 emendately
 electroballistically
 elevenfold
@@ -8615,6 +8614,7 @@ edentulous
 extractively
 enframe
 europiums
+excrementitial
 electrodynamometer
 elinguating
 ectal
