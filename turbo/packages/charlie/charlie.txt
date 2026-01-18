@@ -17804,7 +17804,6 @@ codens
 carburating
 cruise
 casheen
-coder
 counterponderate
 crible
 comprehended
@@ -22868,6 +22867,7 @@ coxcombically
 conservativeness
 commoves
 chittering
+coder
 choisya
 contemporarily
 collapsable
