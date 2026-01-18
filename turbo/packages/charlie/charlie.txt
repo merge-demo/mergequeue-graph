@@ -13413,6 +13413,7 @@ cyesis
 cif
 countergage
 camerawork
+cnidocil
 cig
 cigarette
 cystenchyma
@@ -17004,7 +17005,6 @@ cnidarian
 cnidian
 crayoned
 cnidoblast
-cnidocil
 cobbed
 coexplosion
 cortisone
