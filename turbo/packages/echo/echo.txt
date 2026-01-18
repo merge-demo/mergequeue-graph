@@ -9135,6 +9135,7 @@ episplenitis
 exumbrella
 esrog
 ermanrich
+elpidite
 endotheca
 entailer
 equiponderancy
@@ -10568,7 +10569,6 @@ exhibitory
 epiclidal
 equibiradiate
 esprits
-elpidite
 equiprobable
 euphroes
 enteria
