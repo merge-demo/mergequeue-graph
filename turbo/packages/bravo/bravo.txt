@@ -2585,6 +2585,7 @@ baryon
 brio
 baryphonia
 bootie
+bebait
 bronzesmith
 banzai
 baris
@@ -10357,7 +10358,6 @@ beode
 behaviorally
 bidarkee
 brachering
-bebait
 bummest
 bepainting
 bowpin

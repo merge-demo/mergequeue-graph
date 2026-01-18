@@ -5844,7 +5844,6 @@ gedact
 galvanoplastic
 grundel
 graham
-gadger
 gate
 gymnosporangium
 gynoecium
@@ -8520,6 +8519,7 @@ graveolent
 gozzan
 gramineae
 graverobbing
+gadger
 ghettoization
 gravers
 gigsmen
