@@ -1428,7 +1428,6 @@ ethmovomer
 environic
 emeline
 ergonomic
-ethiopian
 epanorthotic
 emunct
 exenteritis
@@ -4492,6 +4491,7 @@ encephalomyelitis
 entalent
 enrange
 ectotheca
+ethiopian
 erucin
 encephalomyocarditis
 emancipate
