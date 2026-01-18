@@ -941,7 +941,6 @@ duskiest
 digonous
 dauts
 detachers
-directives
 dewed
 dures
 dithyrambus
@@ -1338,6 +1337,7 @@ daunt
 daunted
 dhobies
 daunters
+directives
 daffy
 dipentine
 demissive
