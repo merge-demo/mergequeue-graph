@@ -8576,7 +8576,6 @@ devourer
 diapirs
 diaplases
 disk
-dinosaurian
 destroying
 doormaking
 deorsumversion
@@ -14003,6 +14002,7 @@ disannul
 disciplinant
 deoxidation
 distorter
+dinosaurian
 druggister
 distorting
 dactylioglyphy
