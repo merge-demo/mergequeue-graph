@@ -6549,7 +6549,6 @@ dermol
 danburite
 desdemona
 desecrated
-dilemmatical
 dipole
 dockize
 disematism
@@ -16091,6 +16090,7 @@ doughier
 drawlingness
 doughiness
 dwindle
+dilemmatical
 dowress
 denshire
 daimonistic
