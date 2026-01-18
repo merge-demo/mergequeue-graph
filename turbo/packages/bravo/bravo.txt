@@ -4711,7 +4711,6 @@ butylenes
 bedimming
 borotungstic
 bordereaux
-birlings
 bedimple
 bulllike
 bluegown
@@ -18218,6 +18217,7 @@ bandages
 bushwhacks
 blackwort
 beshod
+birlings
 bourran
 blabbers
 butterfish
