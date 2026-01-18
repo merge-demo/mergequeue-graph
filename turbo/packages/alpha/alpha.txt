@@ -1012,7 +1012,6 @@ abtruse
 aquitanian
 affluxes
 abstractive
-athenianly
 antimethodic
 anablepses
 amyloidal
@@ -21260,6 +21259,7 @@ analemmata
 archoplasma
 assentor
 ashkey
+athenianly
 archantagonist
 ashling
 appraised
