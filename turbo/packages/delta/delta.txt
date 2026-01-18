@@ -7754,6 +7754,7 @@ detailism
 diglyph
 devisor
 dowie
+diamondize
 devitalizes
 drawler
 dribblers
@@ -15870,7 +15871,6 @@ doggerel
 demonesses
 deoxidizer
 dossiers
-diamondize
 dorty
 doko
 daikers
