@@ -1022,7 +1022,6 @@ geophilous
 guttle
 glanduliferous
 gully
-geognostic
 ganger
 guesten
 genthite
@@ -6415,6 +6414,7 @@ girlchild
 goitral
 guam
 gamboges
+geognostic
 galuth
 gatherable
 gaine
