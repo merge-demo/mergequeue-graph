@@ -2607,7 +2607,6 @@ ferromanganese
 ferrometer
 filagreed
 fameflower
-ferronatrite
 follis
 fluorouracil
 financiere
@@ -9791,6 +9790,7 @@ filthiness
 fluorenyl
 freddy
 fennoman
+ferronatrite
 fondaco
 freudist
 friar

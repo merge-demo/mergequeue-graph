@@ -21490,7 +21490,6 @@ circumundulation
 concordance
 concordancer
 commands
-colons
 curliewurly
 cardiophobia
 concordances
@@ -28125,6 +28124,7 @@ counteracquittance
 cranioclast
 cussos
 celebrities
+colons
 cranioclasty
 craniofacial
 craniognomic
