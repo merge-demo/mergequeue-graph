@@ -6119,7 +6119,6 @@ gyroma
 grades
 greit
 greatly
-gnathostomous
 gustoes
 gypsoplast
 gnathostome
@@ -9141,6 +9140,7 @@ gradins
 gristmilling
 gladstone
 gamogenetic
+gnathostomous
 globigerinas
 glassfish
 gripey
