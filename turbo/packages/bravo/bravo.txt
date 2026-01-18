@@ -13006,7 +13006,6 @@ boraginaceous
 borago
 bedamn
 boran
-boranes
 bradyteleocinesia
 baccillla
 bevomit
@@ -16092,6 +16091,7 @@ bio
 bcd
 blitzbuggy
 baseboard
+boranes
 bassetted
 bothersome
 belittler
