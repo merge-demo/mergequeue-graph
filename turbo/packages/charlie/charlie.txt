@@ -5047,7 +5047,6 @@ competer
 crofterization
 carvage
 carval
-carve
 cannabinol
 carvene
 coronad
@@ -20756,6 +20755,7 @@ complexus
 cydippida
 comply
 compliableness
+carve
 classicizing
 compliances
 compliancy
