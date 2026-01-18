@@ -4467,7 +4467,6 @@ grufted
 gyromele
 gangliitis
 gorgio
-groovy
 gays
 grubbers
 ghyll
@@ -5227,6 +5226,7 @@ gammer
 gawkier
 gadslid
 genial
+groovy
 grenade
 goatish
 gullet
