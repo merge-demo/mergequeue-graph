@@ -9537,7 +9537,6 @@ freightyard
 forwalk
 foolmonger
 fluorid
-fogginess
 flatette
 figureless
 final
@@ -11260,6 +11259,7 @@ farces
 frabjous
 fernando
 fallaciously
+fogginess
 flatters
 furanoid
 fricandeaus
