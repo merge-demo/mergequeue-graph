@@ -13075,7 +13075,6 @@ cybernion
 cibol
 conjugacy
 curtailments
-cibola
 cibolero
 cibols
 columnea
@@ -14583,6 +14582,7 @@ cystis
 circulates
 cystitides
 cystitis
+cibola
 chumped
 coz
 carburant
