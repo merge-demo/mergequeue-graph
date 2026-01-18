@@ -6073,7 +6073,6 @@ frondeur
 fortnights
 fervidity
 freighter
-frettation
 feistiest
 filical
 fatheaded
@@ -6377,6 +6376,7 @@ formularization
 flathead
 furanoside
 flagelliferous
+frettation
 floatmaker
 fireworm
 fatiguabilities
