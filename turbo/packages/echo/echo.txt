@@ -8363,6 +8363,7 @@ errands
 epistolography
 epitrachelia
 estrum
+erpetoichthys
 exceedable
 englory
 earplug
@@ -11377,7 +11378,6 @@ ergamine
 eyebree
 epichoric
 euxanthone
-erpetoichthys
 escaladed
 embanking
 evangelising
