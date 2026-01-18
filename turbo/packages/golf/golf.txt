@@ -8425,7 +8425,6 @@ ghetchoo
 girondism
 ganderteeth
 gratified
-gaseous
 greenbacker
 gossampine
 gratis
@@ -10541,6 +10540,7 @@ girdering
 galleting
 grateman
 grilling
+gaseous
 guillemot
 graverobber
 gimpy
