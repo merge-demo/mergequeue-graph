@@ -13820,6 +13820,7 @@ cynghanedd
 catalysis
 cingle
 cauchemar
+cutin
 cingula
 chazzan
 chorei
@@ -31822,7 +31823,6 @@ cutiduris
 cuties
 cacemphaton
 cytotoxic
-cutin
 cutinise
 coliiformes
 cretic
