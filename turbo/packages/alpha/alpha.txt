@@ -2915,7 +2915,6 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics
 albugineous
 acrostichoid
 acrostichum
@@ -17077,6 +17076,7 @@ arthrobranchia
 ammoniac
 anthroponomical
 armband
+aerobatics
 aeolicism
 agranulocyte
 auk
