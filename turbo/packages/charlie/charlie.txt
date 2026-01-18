@@ -11592,7 +11592,6 @@ circinal
 cholelith
 conchotome
 cholelithic
-cholelithotomy
 ciliotomy
 chastising
 counterbore
@@ -26749,6 +26748,7 @@ cuttles
 cramberry
 cerophilous
 counterconditioning
+cholelithotomy
 countercoupe
 countercourant
 countercry
