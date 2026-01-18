@@ -12933,7 +12933,6 @@ autogamies
 amphitheccia
 antialbumid
 affirmant
-anguilloid
 aristol
 averil
 achievement
@@ -22847,6 +22846,7 @@ arya
 atmometric
 allheal
 asherah
+anguilloid
 atmosphereful
 anatomization
 apachite
