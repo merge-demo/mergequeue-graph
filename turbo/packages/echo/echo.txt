@@ -8395,7 +8395,6 @@ edemic
 emblossom
 exulceration
 epinasties
-exchange
 electrizer
 evisceration
 egyptianize
@@ -10125,6 +10124,7 @@ exacerbations
 exheredation
 emballonurid
 eupion
+exchange
 exemplifier
 endive
 earstone
