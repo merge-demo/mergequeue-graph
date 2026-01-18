@@ -2294,6 +2294,7 @@ evangelicalness
 electrizable
 enterohepatitis
 excavated
+embioptera
 epicotyl
 errorful
 energy
@@ -3174,7 +3175,6 @@ emission
 epiphanized
 everything
 extruding
-embioptera
 efficaciousness
 errability
 epiparasite
