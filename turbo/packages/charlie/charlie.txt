@@ -120,7 +120,6 @@ cladophyllum
 cellblocks
 cabineting
 codshead
-cabinetmaking
 cabinetted
 coumalic
 chordophone
@@ -17181,6 +17180,7 @@ cantic
 coaid
 coaita
 coak
+cabinetmaking
 coakum
 coalas
 chimmesyan
