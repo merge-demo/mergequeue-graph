@@ -5695,7 +5695,6 @@ biogeochemical
 bibliotaph
 backboneless
 beleper
-bobs
 bicycle
 bridegroomship
 barkpeeling
@@ -7443,6 +7442,7 @@ bathybius
 bobcoat
 braveries
 betrothing
+bobs
 betrothment
 betroths
 bromine
