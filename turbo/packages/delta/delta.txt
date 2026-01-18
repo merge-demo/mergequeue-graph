@@ -15044,7 +15044,6 @@ disbutton
 decnet
 drysalteries
 doggers
-dilogarithm
 dentonasal
 democratized
 doggy
@@ -15959,6 +15958,7 @@ dishmop
 deglutination
 dl
 debacles
+dilogarithm
 dauntlessness
 denaturational
 desuete
