@@ -19153,7 +19153,6 @@ anciens
 arcifera
 arcifinious
 alluvion
-arciform
 archoptosis
 asexualise
 antialien
@@ -20190,6 +20189,7 @@ arrenotoky
 arrentation
 appendiculata
 arreption
+arciform
 attributional
 arrest
 arrestation
