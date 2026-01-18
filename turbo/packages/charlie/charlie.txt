@@ -7031,7 +7031,6 @@ centauromachia
 centenar
 constringent
 chronicles
-carrefour
 carroches
 cheap
 choledochostomy
@@ -7632,6 +7631,7 @@ ceremonialist
 ceremonialize
 ceremonialness
 counterlocking
+carrefour
 contrabass
 chimblies
 caquetio
