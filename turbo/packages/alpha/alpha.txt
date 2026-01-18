@@ -4295,7 +4295,6 @@ adrenotropic
 anatosaurus
 ambitendencies
 ambled
-alarums
 afterbrain
 adrian
 adriatic
@@ -25355,6 +25354,7 @@ acker
 azotemia
 arbiter
 azotemias
+alarums
 ankylosis
 acinaceous
 azotemic
