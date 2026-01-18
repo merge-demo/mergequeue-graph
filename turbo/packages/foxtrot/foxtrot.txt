@@ -6241,6 +6241,7 @@ fouettee
 fluxer
 forewisdom
 fingerwork
+fluvio
 frisian
 fluidist
 festers
@@ -6355,7 +6356,6 @@ fluctuability
 footropes
 ferriage
 foveolar
-fluvio
 flammably
 fluoresceine
 factionism
