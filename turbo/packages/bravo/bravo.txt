@@ -11150,7 +11150,6 @@ blunker
 blandness
 brawniest
 benevolently
-brotan
 broguing
 bipenniform
 bespit
@@ -14074,6 +14073,7 @@ brachydodromous
 boc
 boding
 binzuru
+brotan
 brachydomatic
 brevetcies
 biomechanics
