@@ -6965,6 +6965,7 @@ enrobers
 entrer
 eucrasia
 entresols
+exedra
 endocardial
 entrant
 extractors
@@ -10708,7 +10709,6 @@ euhyostylic
 eukairite
 enfavor
 eaver
-exedra
 elicitory
 etherializing
 equiformal
