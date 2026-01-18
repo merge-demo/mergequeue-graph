@@ -5026,7 +5026,6 @@ ganged
 gret
 glassful
 grapplers
-gloxinia
 glasshouses
 gateaux
 gasts
@@ -8973,6 +8972,7 @@ grievance
 gantlines
 grievances
 grievous
+gloxinia
 gearbox
 germinating
 galingale
