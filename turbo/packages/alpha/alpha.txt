@@ -3150,6 +3150,7 @@ alkalifiable
 acclimatation
 aloelike
 actinostereoscopy
+animated
 auchenia
 actipylea
 activate
@@ -19259,7 +19260,6 @@ apathia
 amove
 astrocaryum
 ardurous
-animated
 amphipneust
 acetylglycine
 areach
