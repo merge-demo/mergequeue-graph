@@ -1049,6 +1049,7 @@ brees
 bunglings
 bailiaries
 botargos
+baldoquin
 bailiffs
 blennorrhea
 billons
@@ -16465,7 +16466,6 @@ beggable
 besmell
 brevetting
 brumal
-baldoquin
 bises
 bullhorn
 bellwood
