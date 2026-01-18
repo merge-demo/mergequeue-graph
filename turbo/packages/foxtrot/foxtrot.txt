@@ -3944,6 +3944,7 @@ footsteps
 founders
 focalise
 forfends
+fergusonite
 fingerer
 flaunch
 flory
@@ -4092,7 +4093,6 @@ felicitously
 foresightless
 fungusy
 frostation
-fergusonite
 featherbrain
 fattable
 forgery
