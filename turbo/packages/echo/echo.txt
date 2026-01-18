@@ -7232,6 +7232,7 @@ eorhyolite
 extinguishable
 eos
 earshot
+epimyth
 etonian
 ectozoon
 eosate
@@ -10650,7 +10651,6 @@ eudoxian
 exogenic
 extentions
 euergetes
-epimyth
 eunuchs
 expediment
 easeless
