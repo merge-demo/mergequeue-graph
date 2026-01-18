@@ -7195,7 +7195,6 @@ centrifuging
 coffeehousing
 centring
 centrings
-clivia
 chalazogam
 confiture
 codebreak
@@ -14517,6 +14516,7 @@ circumstanced
 cubicontravariant
 cystalgia
 cystamine
+clivia
 commatism
 cysteamine
 cystectasia
