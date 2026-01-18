@@ -3505,7 +3505,6 @@ greaselessness
 gatewayman
 girlfully
 gossans
-gaunter
 gracile
 gawish
 gibbsites
@@ -5957,6 +5956,7 @@ graylag
 geodesics
 gazogenes
 galactopathy
+gaunter
 grubs
 ginkgoes
 guttles
