@@ -10446,7 +10446,6 @@ equiponderation
 enoplan
 effluviums
 ericius
-etypically
 emblemed
 etherin
 epochist
@@ -12962,6 +12961,7 @@ exclusion
 equipartile
 epicyclical
 expected
+etypically
 eucharises
 embathe
 expectedness
