@@ -3599,7 +3599,6 @@ figurize
 filibusterers
 fourble
 fomento
-freddie
 foundered
 ferroinclave
 fence
@@ -6727,6 +6726,7 @@ fluorescent
 forspeaking
 frounced
 foiningly
+freddie
 feasant
 forjudged
 flashboard
