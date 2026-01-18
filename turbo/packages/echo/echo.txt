@@ -4922,7 +4922,6 @@ enthronise
 exigenter
 ethnogeographical
 entoplastron
-endeavourer
 encouragement
 endeavouring
 egression
@@ -9805,6 +9804,7 @@ eatables
 enanthema
 estats
 eternise
+endeavourer
 elenchtical
 exact
 estrich
