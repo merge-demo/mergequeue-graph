@@ -4438,7 +4438,6 @@ cartisane
 cheeks
 concettist
 caryopilite
-caryopsis
 caripuna
 cariri
 caririan
@@ -21672,6 +21671,7 @@ clerically
 condylure
 compriest
 chondria
+caryopsis
 counterpressure
 coodle
 cimolite
