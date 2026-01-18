@@ -22046,6 +22046,7 @@ cassandras
 conflexure
 censor
 chromatophilia
+contraption
 codes
 circumlental
 conflict
@@ -23739,7 +23740,6 @@ contrapositives
 contrapposto
 contrappostos
 contraproposal
-contraption
 contraptions
 contraptious
 capacitator
