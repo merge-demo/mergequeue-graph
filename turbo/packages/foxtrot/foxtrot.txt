@@ -2497,7 +2497,6 @@ fordo
 flanerie
 feck
 flavic
-freightage
 fawningness
 fortunize
 fluters
@@ -3088,6 +3087,7 @@ frontispiece
 fortifyingly
 frozen
 frenching
+freightage
 faddiness
 fisherboy
 ferngale
