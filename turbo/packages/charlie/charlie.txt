@@ -26949,6 +26949,7 @@ carburizing
 countermoved
 casebound
 cerebralist
+chesboll
 countermure
 carlylese
 countermutiny
@@ -27111,7 +27112,6 @@ countersympathy
 carburet
 countersink
 colical
-chesboll
 countersinks
 countersleight
 countersnarl
