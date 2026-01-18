@@ -2717,7 +2717,6 @@ electees
 edentate
 envoi
 eleemosynary
-etymology
 emetic
 engorge
 egos
@@ -8856,6 +8855,7 @@ excursively
 episcopalism
 embossers
 eelworms
+etymology
 enteron
 erewhile
 erewhiles
