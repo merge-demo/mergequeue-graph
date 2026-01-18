@@ -1144,6 +1144,7 @@ bankman
 bountree
 bairnwort
 baisemain
+baittle
 besmears
 benedictine
 bushwa
@@ -1154,7 +1155,6 @@ baitfish
 buffeter
 ballard
 baiting
-baittle
 baywoods
 bothriocidaris
 bodhisat
