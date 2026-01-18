@@ -130,7 +130,6 @@ fomes
 filicic
 fackeltanz
 frill
-fumiferous
 flashforwards
 feedhead
 fibre
@@ -5916,6 +5915,7 @@ fiercest
 foolhardily
 falseface
 fireworks
+fumiferous
 freer
 fraudlessness
 freehand
