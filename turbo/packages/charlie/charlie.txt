@@ -4797,7 +4797,6 @@ carpogenous
 crewels
 choanoflagellata
 cowlings
-carpoidea
 chalcidid
 carpolith
 confides
@@ -9409,6 +9408,7 @@ chawstick
 catering
 citoyen
 clickless
+carpoidea
 chazan
 chazanim
 chinalike
