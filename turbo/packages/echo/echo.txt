@@ -2292,6 +2292,7 @@ eobionts
 ensepulchre
 evangelicalness
 electrizable
+epiploic
 enterohepatitis
 excavated
 embioptera
@@ -5459,7 +5460,6 @@ eosinophilia
 elasmosaurus
 esterifiable
 excitive
-epiploic
 energizes
 electroscopic
 entwists

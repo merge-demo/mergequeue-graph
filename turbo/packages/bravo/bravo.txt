@@ -9545,6 +9545,7 @@ bis
 borussian
 bachelorize
 besputter
+buplever
 baister
 bicipitous
 boarfish
@@ -17465,7 +17466,6 @@ buntine
 brawlie
 bipinnatiparted
 buphthalmum
-buplever
 buprestidae
 backspins
 berzelianite
