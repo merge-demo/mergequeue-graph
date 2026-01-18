@@ -6226,7 +6226,6 @@ endplate
 excipule
 epistapedial
 enwrapped
-eelcatcher
 elimination
 evasively
 electrofishing
@@ -11961,6 +11960,7 @@ epistemophilic
 evaporation
 epitaphist
 epiploon
+eelcatcher
 excitations
 escapes
 eastbound
