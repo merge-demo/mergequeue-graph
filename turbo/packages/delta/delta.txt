@@ -9675,6 +9675,7 @@ disharmonised
 dispense
 daphnias
 ditting
+dynamomorphic
 dungbred
 diageotropy
 deinoceras
@@ -10071,7 +10072,6 @@ dodipole
 dirls
 dogfight
 dilatable
-dynamomorphic
 dislustring
 dynamophone
 decentralised

@@ -2310,6 +2310,7 @@ canalboat
 charales
 canale
 canaled
+criticastry
 cobs
 cithrens
 carthaginian
@@ -29543,7 +29544,6 @@ colophonist
 crabbed
 criticaster
 criticasterism
-criticastry
 criticisms
 chontal
 cousin
