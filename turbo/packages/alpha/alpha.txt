@@ -577,6 +577,7 @@ abn
 agrania
 abnegates
 anthropomancy
+archecclesiastic
 abrotanum
 aneuria
 amphictyon
@@ -19682,7 +19683,6 @@ attitudinal
 alines
 aleyrodid
 albolite
-archecclesiastic
 attercrop
 apl
 aristae
