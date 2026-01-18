@@ -13005,7 +13005,6 @@ cyanoplatinite
 cooperative
 cyanoplatinous
 cyanose
-cyanoses
 chemitype
 cyanosite
 cyanotic
@@ -20830,6 +20829,7 @@ components
 compony
 comportable
 comportance
+cyanoses
 comported
 circleting
 carded
