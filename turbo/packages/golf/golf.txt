@@ -2797,7 +2797,6 @@ gnathoplasty
 genuflection
 gallates
 galactophlysis
-graminous
 gypseian
 geraniales
 gentlemouthed
@@ -3973,6 +3972,7 @@ gesticulates
 gansey
 ginnier
 galesaur
+graminous
 gellert
 gastrogenous
 grounds
