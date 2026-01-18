@@ -8223,6 +8223,7 @@ archie
 acquaintedness
 alienability
 agouara
+anthraconite
 ascetta
 alienabilities
 airfields
@@ -16389,7 +16390,6 @@ ashwort
 antiwear
 abiological
 amictus
-anthraconite
 araneoidea
 affiliates
 antiwedge
