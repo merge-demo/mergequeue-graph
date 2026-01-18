@@ -15389,6 +15389,7 @@ canneries
 claques
 claqueur
 conducement
+capaciously
 clare
 corrodible
 clarence
@@ -28523,7 +28524,6 @@ crebrous
 creche
 creda
 cavillingness
-capaciously
 credal
 chihuahua
 chevronel
