@@ -2216,7 +2216,6 @@ foals
 feminineness
 feudee
 freshmanhood
-fikie
 flours
 fiscus
 firebombs
@@ -4480,6 +4479,7 @@ flinder
 fontinalis
 fabulist
 fingernails
+fikie
 flammule
 filleul
 francophobia
