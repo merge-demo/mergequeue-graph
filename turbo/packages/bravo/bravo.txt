@@ -1535,7 +1535,6 @@ burger
 bersiamite
 bulbiform
 bdl
-bouton
 backsword
 ballastic
 ballata
@@ -15408,6 +15407,7 @@ brigatry
 brigetty
 beliquoring
 buglewort
+bouton
 bekick
 burgensic
 brevete
