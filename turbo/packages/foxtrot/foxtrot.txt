@@ -4342,6 +4342,7 @@ fylfots
 froppish
 fencer
 foreconceive
+fossicking
 forb
 furosemide
 forfeitable
@@ -5533,7 +5534,6 @@ flinter
 fiendlike
 folkvangr
 flockowner
-fossicking
 firefight
 forgette
 fader
