@@ -5501,7 +5501,6 @@ becapping
 beylic
 birdwoman
 bowieful
-briefly
 boort
 bringdown
 bawty
@@ -16611,6 +16610,7 @@ bewitchful
 bracings
 buccaneer
 buccaneerish
+briefly
 buccaning
 beraunite
 boatbills
