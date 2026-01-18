@@ -766,6 +766,7 @@ coordinators
 consonantising
 caggy
 conjurors
+custodes
 cagy
 cagier
 cecil
@@ -26863,7 +26864,6 @@ commensurableness
 counterhypothesis
 corflambo
 chandrakhi
-custodes
 counteridea
 cotquean
 choirgirl
