@@ -2641,6 +2641,7 @@ gurgeon
 gadling
 gathering
 greatest
+gastropodan
 globously
 gonotocont
 guaraguao
@@ -7666,7 +7667,6 @@ granters
 gladly
 gardebras
 glozed
-gastropodan
 guardhouses
 gradiometric
 gaup
