@@ -10,7 +10,6 @@ airbrasive
 acromyodous
 alkalimetric
 anisotropy
-anaitis
 ataxy
 anidrosis
 adipolysis
@@ -14360,6 +14359,7 @@ anthol
 anodes
 aniseikonia
 antholite
+anaitis
 anthological
 anthologically
 anthologies
