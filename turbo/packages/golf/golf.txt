@@ -3089,6 +3089,7 @@ gelatinity
 grassie
 gumdrops
 gomuti
+galvayning
 gymnocidium
 gastful
 grayouts
@@ -7719,7 +7720,6 @@ gonys
 gandhi
 gloea
 gutturopalatine
-galvayning
 grenelle
 gauloiserie
 guld
