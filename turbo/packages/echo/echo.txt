@@ -2879,6 +2879,7 @@ enthrall
 erzahler
 epitheliomuscular
 eyewear
+encashment
 exteriors
 elevenses
 eleventeenth
@@ -5356,7 +5357,6 @@ explicators
 esquiline
 empyreum
 eophyte
-encashment
 encaptive
 eccentrometer
 exceptive
