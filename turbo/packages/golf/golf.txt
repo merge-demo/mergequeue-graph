@@ -5233,7 +5233,6 @@ gullet
 gelsemiums
 glenohumeral
 genomes
-grouted
 garnets
 guitarfish
 gliadine
@@ -6160,6 +6159,7 @@ genovino
 gazetteers
 groveling
 goal
+grouted
 griffithite
 galactophore
 goniatite
