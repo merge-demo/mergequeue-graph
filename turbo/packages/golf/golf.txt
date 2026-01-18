@@ -8195,7 +8195,6 @@ gelatinise
 geometricize
 grandfatherless
 gestative
-graphemically
 gris
 genevois
 graphically
@@ -10383,6 +10382,7 @@ gullies
 gems
 groans
 girandola
+graphemically
 goujon
 gullying
 gothism
