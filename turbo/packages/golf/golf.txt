@@ -5862,7 +5862,6 @@ gallywasp
 gyle
 glucinium
 genteelest
-germfree
 gadder
 guadalcazarite
 goldfinch
@@ -5968,6 +5967,7 @@ grossulariaceous
 gluemaker
 giliak
 glutinative
+germfree
 granuloadipose
 gingelies
 giftedness
