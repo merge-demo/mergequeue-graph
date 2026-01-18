@@ -10096,7 +10096,6 @@ antiluetic
 aspirin
 atmological
 aggadic
-archaeopithecus
 anaheim
 amboina
 amboinas
@@ -12726,6 +12725,7 @@ aulophyte
 advocateship
 anthropogenous
 awed
+archaeopithecus
 argillitic
 angerona
 angers
