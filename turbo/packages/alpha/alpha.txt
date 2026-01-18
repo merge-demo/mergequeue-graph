@@ -4799,7 +4799,6 @@ addnl
 aero
 ausones
 aspermatism
-aeroballistic
 aerobate
 aerobatic
 arsenism
@@ -17861,6 +17860,7 @@ aheap
 albizzia
 afteroar
 appaloosas
+aeroballistic
 amelioratively
 appraises
 appraising
