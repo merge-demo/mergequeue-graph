@@ -1063,6 +1063,7 @@ gonyalgia
 gambesons
 gentlewomanhood
 gipsology
+gardenless
 gomphiasis
 gradus
 grays
@@ -5858,7 +5859,6 @@ gipsylike
 glucinums
 gangflower
 giggle
-gardenless
 gardon
 griddled
 gasfiring
