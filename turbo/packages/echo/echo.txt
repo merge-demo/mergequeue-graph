@@ -5436,6 +5436,7 @@ energetic
 estradiot
 electrochronographic
 extrinsicality
+effervescible
 eleutherophyllous
 earmark
 extoll
@@ -9606,7 +9607,6 @@ esurine
 enlarging
 estuarian
 espadon
-effervescible
 ewer
 endoblast
 encense
