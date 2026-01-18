@@ -964,6 +964,7 @@ exorbital
 earthwork
 explosibility
 encapsules
+empanelled
 euthanasic
 enterocinetic
 epoxide
@@ -7059,7 +7060,6 @@ extemporizing
 envaye
 episcenia
 excerpting
-empanelled
 envelope
 exurbanites
 extemporaneously
