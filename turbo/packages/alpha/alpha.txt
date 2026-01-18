@@ -2466,7 +2466,6 @@ aclinic
 atrabilar
 antigene
 acmaeidae
-acmatic
 asparagus
 amphisbaenidae
 anargyroi
@@ -13309,6 +13308,7 @@ aquilawood
 artifacts
 albatross
 artery
+acmatic
 aproning
 anisomyarian
 anisomyodous
