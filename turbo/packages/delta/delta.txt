@@ -1522,7 +1522,6 @@ diddlers
 denture
 dynamisms
 dupondius
-dedoggerelize
 deacons
 demobilizes
 diphygenic
@@ -2765,6 +2764,7 @@ decrassified
 daun
 draughtiness
 dian
+dedoggerelize
 dreche
 druggist
 docudrama
