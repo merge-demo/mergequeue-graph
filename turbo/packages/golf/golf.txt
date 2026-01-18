@@ -847,7 +847,6 @@ grandam
 glutinous
 gymnoblastic
 gilberts
-greensick
 gamboling
 geonim
 gamone
@@ -10077,6 +10076,7 @@ guyot
 galahs
 gastropods
 garrulus
+greensick
 ghostwrote
 galactodensimeter
 grammarian
