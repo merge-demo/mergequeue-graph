@@ -6396,6 +6396,7 @@ bink
 businesswomen
 benzodiazole
 burdener
+bepimpled
 benzofulvene
 bollen
 benzofuran
@@ -7942,7 +7943,6 @@ byzantium
 bilipyrrhin
 bibliopolar
 biathlon
-bepimpled
 brash
 bargains
 bibliopole
