@@ -5111,6 +5111,7 @@ befittingness
 behoof
 boundedness
 beflag
+bogyman
 bamboo
 binits
 basilicon
@@ -11953,7 +11954,6 @@ boggling
 bessarabian
 brinded
 bogyism
-bogyman
 broncobusters
 birgand
 bandagers
