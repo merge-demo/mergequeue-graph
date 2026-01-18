@@ -7735,7 +7735,6 @@ bhagavat
 bedimmed
 bookrack
 bigamized
-bugre
 bagleaves
 byproducts
 bulbotuber
@@ -16246,6 +16245,7 @@ browless
 baritones
 botonnee
 bundy
+bugre
 baalist
 bestink
 buzzbomb
