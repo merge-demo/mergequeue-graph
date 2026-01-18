@@ -450,6 +450,7 @@ ecclesiast
 entrada
 empasm
 exody
+explicit
 endoconidium
 extorsion
 extrasensorial
@@ -8046,7 +8047,6 @@ expositor
 epiglottidean
 embroiderers
 epiphloeum
-explicit
 etherize
 essoign
 emotional
