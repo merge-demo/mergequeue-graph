@@ -7663,6 +7663,7 @@ falsified
 flawful
 finnack
 fasciated
+fairness
 formal
 fernier
 frayproof
@@ -9957,7 +9958,6 @@ frigotherapy
 fibrosities
 fencings
 fliest
-fairness
 fossilising
 frijole
 footprint
