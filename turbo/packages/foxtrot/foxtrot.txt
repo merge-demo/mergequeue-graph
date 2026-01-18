@@ -7552,7 +7552,6 @@ females
 filtrate
 felicities
 fanfare
-factual
 fandangos
 footrope
 fleshquake
@@ -9307,6 +9306,7 @@ fortypenny
 fecaloid
 fatuitousness
 frankalmoign
+factual
 filibustrous
 fellowly
 futurize
