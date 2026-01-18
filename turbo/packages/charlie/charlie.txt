@@ -2789,7 +2789,6 @@ crystallographically
 convally
 cannonaded
 cohorts
-cannonading
 cannonarchy
 chimere
 cannonballed
@@ -9839,6 +9838,7 @@ cupriferous
 chemiotropic
 chemiotropism
 crinet
+cannonading
 cryptogenic
 chemism
 choosy
