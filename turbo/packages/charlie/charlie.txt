@@ -5870,7 +5870,6 @@ catenation
 catenative
 capomo
 compositorial
-catenoid
 catenulate
 cacozyme
 capuli
@@ -14410,6 +14409,7 @@ cirrhose
 cipolins
 cirri
 cogit
+catenoid
 cirribranch
 coparcenary
 cirriferous
