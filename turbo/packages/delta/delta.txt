@@ -2042,7 +2042,6 @@ dramaturge
 desiatin
 disaccommodate
 downhanging
-decay
 dewools
 dadding
 dramas
@@ -5635,6 +5634,7 @@ dragees
 discommodate
 dispiritedness
 depilating
+decay
 depilatories
 deists
 discos
