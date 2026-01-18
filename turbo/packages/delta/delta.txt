@@ -4114,7 +4114,6 @@ decimator
 dipodidae
 discomfited
 dolling
-datelined
 darnedest
 delirium
 deleaded
@@ -5522,6 +5521,7 @@ decays
 disproven
 depascent
 debilitation
+datelined
 disrepute
 depasture
 depatriate
