@@ -3978,7 +3978,6 @@ gesticulates
 gansey
 ginnier
 galesaur
-gubbings
 gellert
 gastrogenous
 grounds
@@ -3991,6 +3990,7 @@ ganglial
 graybacks
 grossierete
 garter
+gubbings
 glochidium
 galabiya
 georgium
