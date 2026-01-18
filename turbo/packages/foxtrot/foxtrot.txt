@@ -1405,7 +1405,6 @@ frith
 figitidae
 fatnesses
 furaciousness
-fatshedera
 forges
 fatsia
 formy
@@ -3701,6 +3700,7 @@ fillmore
 frankfold
 forwear
 fiscally
+fatshedera
 fosse
 fribblish
 foujdary
