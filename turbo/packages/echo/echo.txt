@@ -3662,6 +3662,7 @@ envenom
 eternised
 exergues
 embryological
+enhydrinae
 endocoeliac
 embosking
 entify
@@ -6007,7 +6008,6 @@ endomitotic
 ekatantalum
 enterospasm
 empaler
-enhydrinae
 evenminded
 empiry
 eyrie

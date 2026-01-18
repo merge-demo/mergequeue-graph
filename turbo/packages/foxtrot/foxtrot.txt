@@ -6977,6 +6977,7 @@ fonding
 fondle
 frayings
 fondled
+flunkeyite
 fondles
 fainter
 formalazine
@@ -8455,7 +8456,6 @@ factorized
 formatter
 floridans
 flong
-flunkeyite
 fuzztail
 formularizing
 fumado
