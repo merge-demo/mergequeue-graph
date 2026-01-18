@@ -4358,7 +4358,6 @@ embryons
 evacuates
 enations
 euripos
-enbrave
 eggheadedness
 embar
 egotize
@@ -11494,6 +11493,7 @@ elegancies
 epicurean
 elastometer
 emcee
+enbrave
 encheiria
 erotylid
 exhaling
