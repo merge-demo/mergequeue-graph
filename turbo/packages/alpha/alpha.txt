@@ -6299,6 +6299,7 @@ agrauleum
 agariciform
 agreation
 attemptability
+alkali
 androcephalous
 ambushes
 ambuscados
@@ -8399,7 +8400,6 @@ arabana
 arcadia
 annoys
 alcoholometrical
-alkali
 alkalies
 alkaligenous
 alkaline
