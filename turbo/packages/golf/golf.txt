@@ -1373,7 +1373,6 @@ grabbles
 gorb
 gastrostegal
 gravitometer
-garnetter
 glyconeogenetic
 guttular
 gamily
@@ -9665,6 +9664,7 @@ graphologies
 griphe
 gametange
 gradative
+garnetter
 glareous
 galapee
 gulf

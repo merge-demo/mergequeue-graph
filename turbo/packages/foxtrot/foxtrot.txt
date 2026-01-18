@@ -2674,7 +2674,6 @@ funeral
 fallowed
 fume
 fantoccini
-foremelt
 feasing
 ferulaceous
 ferular
@@ -9696,6 +9695,7 @@ fretworks
 flexile
 flaccidness
 frenchwomen
+foremelt
 frenetical
 fideicommissioner
 frigorifical
