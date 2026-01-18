@@ -517,7 +517,6 @@ enzymologist
 eclipsises
 entosthoblast
 echinococcosis
-epedaphic
 epithelioceptor
 edgy
 enciphered
@@ -6832,6 +6831,7 @@ eelskin
 ealdorman
 erythrozincite
 emanations
+epedaphic
 epituberculosis
 ermine
 exults
