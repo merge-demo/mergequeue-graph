@@ -2375,7 +2375,6 @@ forgoes
 freeloving
 futures
 footganger
-fricandoes
 fetial
 fortunetellers
 freq
@@ -5159,6 +5158,7 @@ frivolers
 foreclaw
 formalin
 fuchsia
+fricandoes
 familarity
 frumpery
 funest
