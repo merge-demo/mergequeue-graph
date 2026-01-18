@@ -7109,7 +7109,6 @@ clairvoyancies
 centner
 carunculate
 centners
-centones
 centonism
 capitals
 centonization
@@ -22016,6 +22015,7 @@ cynebot
 confiscate
 countertrend
 crois
+centones
 chookies
 count
 confiscates
