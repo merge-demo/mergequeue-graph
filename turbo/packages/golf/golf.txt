@@ -4178,7 +4178,6 @@ gabbiness
 gobbing
 gastornis
 gynaeconitis
-geysers
 gaillard
 gynandria
 gladiators
@@ -4686,6 +4685,7 @@ garnisheeing
 genista
 galeae
 gowland
+geysers
 gitanos
 gite
 gladify
