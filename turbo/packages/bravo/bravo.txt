@@ -11900,7 +11900,6 @@ brulyies
 boerhavia
 becrown
 boethian
-boffins
 brackmard
 boffs
 bondholding
@@ -14104,6 +14103,7 @@ berlinite
 burkites
 behaviour
 bogusness
+boffins
 brachiopoda
 baldy
 beltene
