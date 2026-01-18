@@ -4215,7 +4215,6 @@ familic
 fowls
 farinosely
 formed
-firepinks
 fireplace
 fiendishness
 fraist
@@ -5689,6 +5688,7 @@ frontis
 farced
 fleuronnee
 fungous
+firepinks
 fuzzball
 frontlessly
 furnage
