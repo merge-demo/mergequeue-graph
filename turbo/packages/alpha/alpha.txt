@@ -4359,7 +4359,6 @@ apparels
 anachronistically
 apoxyomenos
 alcae
-adenoids
 agaristidae
 adstipulator
 aduana
@@ -16655,6 +16654,7 @@ asyndeta
 atelectatic
 alternipinnate
 assizement
+adenoids
 araby
 apertness
 acetomorphine
