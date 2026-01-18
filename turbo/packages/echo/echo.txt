@@ -6970,6 +6970,7 @@ entrer
 eucrasia
 entresols
 endocardial
+entrant
 extractors
 embladder
 electrotitration
@@ -9212,7 +9213,6 @@ embryogenesis
 eaters
 erythrozyme
 enweaved
-entrant
 evocators
 ethnolinguistic
 epizzoa
