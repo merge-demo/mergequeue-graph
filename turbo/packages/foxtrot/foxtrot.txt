@@ -5033,7 +5033,6 @@ flagboat
 flossa
 felicitated
 flareless
-fibromyectomy
 festivalgoer
 favorless
 figboy
@@ -9928,6 +9927,7 @@ ferrier
 flatlanders
 flanche
 frantic
+fibromyectomy
 favor
 frigidly
 federatist
