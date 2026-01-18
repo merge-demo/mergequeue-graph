@@ -12489,7 +12489,6 @@ deboise
 demesne
 dislimb
 dicalcium
-disyllabized
 discontinuations
 discourteousness
 disconform
@@ -15233,6 +15232,7 @@ downing
 defamers
 dolisie
 deny
+disyllabized
 dolite
 dolium
 darogha
