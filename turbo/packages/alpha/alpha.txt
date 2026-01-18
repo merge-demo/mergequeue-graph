@@ -565,6 +565,7 @@ aconitia
 airscrew
 acusector
 actinulae
+antifogmatic
 apioidal
 ashantee
 ashlers
@@ -16507,7 +16508,6 @@ arquated
 antioxidant
 anxiously
 anxiousness
-antifogmatic
 accountment
 abbesses
 agalactia
