@@ -3135,7 +3135,6 @@ dialings
 doat
 defeasibility
 dacryohelcosis
-dingey
 doorbell
 dinnery
 defeated
@@ -6464,6 +6463,7 @@ disencumber
 diffusedly
 deranged
 descanted
+dingey
 descants
 discourtesies
 diastatic
