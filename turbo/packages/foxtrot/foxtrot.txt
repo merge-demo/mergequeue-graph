@@ -4325,7 +4325,6 @@ frustrates
 frankable
 fourflusher
 fellows
-forgetter
 forewomen
 foresleeve
 finagle
@@ -9671,6 +9670,7 @@ foreigns
 fideicommissum
 firmly
 firebrat
+forgetter
 frenatae
 frenched
 flamenco
