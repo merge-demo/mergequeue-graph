@@ -5323,7 +5323,6 @@ fleams
 fittier
 futuristic
 fraughting
-feedbin
 fettles
 flanken
 feebleness
@@ -9952,6 +9951,7 @@ fragment
 formularizer
 forcers
 frigolabile
+feedbin
 franco
 fumigate
 feloniousness
