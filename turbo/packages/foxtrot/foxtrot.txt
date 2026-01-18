@@ -5457,6 +5457,7 @@ forbarred
 fratching
 foraged
 fleshy
+felly
 fillet
 ferally
 fettuccine
@@ -11248,7 +11249,6 @@ flagellants
 frogskin
 frumaryl
 filibusterer
-felly
 forrit
 facilitates
 funster
