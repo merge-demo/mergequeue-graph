@@ -8889,6 +8889,7 @@ flotative
 flu
 fountain
 fragged
+freesias
 fossicker
 flueman
 forgivably
@@ -10954,7 +10955,6 @@ fluework
 fallfish
 firmless
 fisc
-freesias
 frigidaire
 furors
 forgettable
