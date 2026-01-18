@@ -14205,6 +14205,7 @@ antennal
 achech
 argalas
 autolavage
+aponia
 appliableness
 admissible
 avion
@@ -22296,7 +22297,6 @@ astragalocalcaneal
 algums
 alkalinuria
 adz
-aponia
 aurated
 alcibiades
 antiquates
