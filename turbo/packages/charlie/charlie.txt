@@ -24568,7 +24568,6 @@ cognomen
 chook
 copycat
 citywide
-copycatting
 creedite
 cyclopaedias
 calembour
@@ -25701,6 +25700,7 @@ correspondences
 correspondency
 correspondent
 composedness
+copycatting
 correspondential
 correspondently
 citators
