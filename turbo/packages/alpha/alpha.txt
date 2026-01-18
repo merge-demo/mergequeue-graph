@@ -90,7 +90,6 @@ accessional
 arruague
 abandonment
 accelerator
-archicantor
 antipriestcraft
 abaptiston
 acknow
@@ -18855,6 +18854,7 @@ ancientism
 alamodality
 ambush
 achromatophil
+archicantor
 autumnally
 aeriferous
 antimonarch
