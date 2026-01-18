@@ -3589,6 +3589,7 @@ antimonite
 adelphian
 adelphic
 adelphous
+anaphylactic
 adipsous
 azole
 assedat
@@ -11691,7 +11692,6 @@ anaerobiosis
 anaerobiotic
 anaerobium
 avanti
-anaphylactic
 angulating
 anaesthesis
 abeltree
