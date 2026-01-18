@@ -637,6 +637,7 @@ geodetic
 gweducs
 gardencraft
 glutathione
+goutiness
 gallomaniac
 gallon
 gonapophysis
@@ -9344,7 +9345,6 @@ glamorize
 goggliest
 gwen
 glareola
-goutiness
 glonoin
 gustative
 gnomists
