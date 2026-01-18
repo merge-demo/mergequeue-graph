@@ -9809,6 +9809,7 @@ babblingly
 bubblebow
 bisulfate
 biblioklept
+blastoporphyritic
 bocca
 bitable
 bidialectal
@@ -10284,7 +10285,6 @@ ballsy
 blacktongue
 byroniana
 blacktops
-blastoporphyritic
 barking
 beholden
 blacktree
