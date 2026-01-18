@@ -1117,6 +1117,7 @@ fudgy
 franticness
 fishling
 fastback
+foliage
 farfetched
 fleerish
 faussebraie
@@ -8348,7 +8349,6 @@ forklike
 forswornness
 finickily
 foundations
-foliage
 fossilological
 forlain
 fatten
