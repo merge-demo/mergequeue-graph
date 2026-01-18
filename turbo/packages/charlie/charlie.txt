@@ -23852,6 +23852,7 @@ contrives
 control
 controling
 controllable
+camerlengos
 controllably
 controller
 churner
@@ -27950,7 +27951,6 @@ counterselection
 cognosce
 cradlemaker
 cradlemate
-camerlengos
 celeomorphic
 catharize
 clinoclase
