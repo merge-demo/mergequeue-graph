@@ -487,6 +487,7 @@ gymnospore
 genyoplasty
 glossoncus
 gospelize
+glashan
 gravitationally
 gemmery
 geelhout
@@ -2704,7 +2705,6 @@ gascoign
 geek
 gilbertese
 genyplasty
-glashan
 globularness
 gallicole
 glandule
