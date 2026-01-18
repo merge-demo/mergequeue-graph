@@ -10430,6 +10430,7 @@ frontsman
 frontspieces
 fleet
 fwd
+faced
 fisted
 frontstall
 forstall
@@ -11683,7 +11684,6 @@ flare
 flybane
 flyleaves
 fagaceous
-faced
 flippancy
 fanlights
 furil
