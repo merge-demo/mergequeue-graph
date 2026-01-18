@@ -8839,7 +8839,6 @@ groundedly
 gneisses
 gyrosyn
 guardfully
-germicide
 greylag
 groundout
 gynandromorphy
@@ -10668,6 +10667,7 @@ geocentricism
 glyceryl
 grove
 glyphographic
+germicide
 generalty
 glycerols
 gurnard
