@@ -6409,7 +6409,6 @@ farmed
 facsimileing
 foppish
 farset
-fluorimetric
 fluorobenzene
 fructifies
 frizing
@@ -6521,6 +6520,7 @@ fricasseed
 flutterboard
 faucal
 fluotantalate
+fluorimetric
 flutteriness
 flagrate
 fluttering
