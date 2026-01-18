@@ -9685,7 +9685,6 @@ extraorganismal
 exceptional
 empathize
 embacle
-exhibitional
 european
 essart
 esse
@@ -14153,6 +14152,7 @@ enigmatology
 escapists
 engystomatidae
 episcopising
+exhibitional
 entredeux
 extrusory
 eof
