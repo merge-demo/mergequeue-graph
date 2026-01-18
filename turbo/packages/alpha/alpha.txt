@@ -19986,7 +19986,6 @@ aborsement
 afterclap
 armseye
 actuators
-abatjour
 aals
 amasta
 armure
@@ -23329,6 +23328,7 @@ anodynes
 ablation
 atua
 atule
+abatjour
 appetitiveness
 atune
 athenee
