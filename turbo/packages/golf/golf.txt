@@ -3465,7 +3465,6 @@ gimper
 girny
 grudger
 gynandromorphism
-gephyrean
 gemul
 gewgawry
 gyrfalcon
@@ -7160,6 +7159,7 @@ glycid
 gross
 glycolylurea
 gorgeret
+gephyrean
 gangrenescent
 gorgia
 girly
