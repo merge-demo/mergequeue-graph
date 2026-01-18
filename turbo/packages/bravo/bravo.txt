@@ -6764,6 +6764,7 @@ bushiest
 berry
 berrugate
 buchnerite
+bathyscaphe
 binturong
 brotherlike
 banshee
@@ -7754,7 +7755,6 @@ bheestie
 beblot
 bespangles
 britten
-bathyscaphe
 bravoite
 buxerry
 bellyer
