@@ -2528,7 +2528,6 @@ edits
 elections
 euonymous
 endosmose
-egremoigne
 encomiologic
 expeditely
 escadrilles
@@ -7434,6 +7433,7 @@ eigne
 extrafocal
 electronographic
 eyess
+egremoigne
 extracivically
 endangering
 eumorphous
