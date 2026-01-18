@@ -1830,7 +1830,6 @@ eileen
 epictetian
 eurygnathism
 epexegesis
-epicentra
 expletives
 executant
 executrix
@@ -7399,6 +7398,7 @@ excepts
 elenctic
 escapers
 entanglement
+epicentra
 ebulliate
 endogenously
 extraperiodic
