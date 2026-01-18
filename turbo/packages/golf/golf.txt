@@ -3896,6 +3896,7 @@ gastrosoph
 geoduck
 geminates
 gemmily
+gephyrophobia
 gyroceras
 gleeting
 gipsy
@@ -5547,7 +5548,6 @@ georgical
 gadus
 geodetical
 goffle
-gephyrophobia
 glycerizine
 grandames
 gconvert
