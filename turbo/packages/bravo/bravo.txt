@@ -5006,7 +5006,6 @@ beerpull
 beest
 babbools
 bibation
-bindweb
 bromatology
 ballonette
 bilinguist
@@ -13976,6 +13975,7 @@ bluecup
 bolometrically
 bensel
 boxwoods
+bindweb
 bozo
 basher
 bonesetter
