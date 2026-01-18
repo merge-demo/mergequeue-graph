@@ -7828,7 +7828,6 @@ gulaman
 goosander
 gooroo
 girding
-gaywings
 grumble
 gurlet
 gasometric
@@ -10339,6 +10338,7 @@ grot
 glebal
 guarana
 gaums
+gaywings
 gulfweeds
 greenlandish
 gadgety
