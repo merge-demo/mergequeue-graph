@@ -9854,7 +9854,6 @@ flapdragon
 feridgi
 forefelt
 fluviomarine
-fosh
 foggy
 flyaways
 fibroneuroma
@@ -10070,6 +10069,7 @@ fennec
 functions
 fishpound
 flavours
+fosh
 furnisher
 foozling
 fremontia
