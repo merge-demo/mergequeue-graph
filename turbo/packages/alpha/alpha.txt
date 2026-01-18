@@ -12385,6 +12385,7 @@ aloofe
 andrias
 acervuli
 associatively
+arcus
 anticourt
 anisotropic
 androclinia
@@ -14632,7 +14633,6 @@ appet
 androsphinges
 antiaggressionist
 antienergistic
-arcus
 antiaggressiveness
 apatela
 antialbumin
