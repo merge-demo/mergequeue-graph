@@ -6247,6 +6247,7 @@ errant
 edaphic
 enows
 electrotechnology
+eponymize
 euryscope
 extrapyramidal
 ecclesiastry
@@ -13270,7 +13271,6 @@ estranger
 embittered
 englishable
 evict
-eponymize
 ensheath
 epignathous
 eyedroppers
