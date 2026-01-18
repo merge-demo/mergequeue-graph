@@ -4565,7 +4565,6 @@ disorienting
 dellies
 disroof
 debentured
-disavows
 disgust
 dackers
 demipique
@@ -7775,6 +7774,7 @@ devoir
 destabilizing
 devoirs
 dholes
+disavows
 devolatilised
 dosimetries
 dryrot
