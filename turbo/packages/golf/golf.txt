@@ -5475,6 +5475,7 @@ goldilocks
 glisten
 guttering
 glimmery
+glottid
 gigeria
 glisteringly
 gorblimy
@@ -10090,7 +10091,6 @@ gog
 gonfaloniership
 gasoscope
 goalage
-glottid
 gazetteer
 gonystylus
 goldenfleece
