@@ -6677,7 +6677,6 @@ elongations
 enterprize
 expertising
 entosclerite
-eulogiser
 ecrevisse
 epulis
 espundia
@@ -8787,6 +8786,7 @@ etherized
 eurylaimi
 extime
 enterozoan
+eulogiser
 el
 emulative
 ectoskeleton
