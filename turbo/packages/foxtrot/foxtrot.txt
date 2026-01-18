@@ -1650,7 +1650,6 @@ fipenny
 four
 fdnames
 farmhands
-fundamentalists
 forthcut
 faddisms
 flamboyantly
@@ -6939,6 +6938,7 @@ fostership
 flusherman
 fee
 follily
+fundamentalists
 feeblemindedness
 fungivorous
 fadeless
