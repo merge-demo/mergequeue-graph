@@ -1319,6 +1319,7 @@ fop
 fleeced
 former
 focimetry
+felstones
 foxtails
 flutework
 fructivorous
@@ -3022,7 +3023,6 @@ frostflower
 frenchen
 fissioned
 forensical
-felstones
 friendlies
 fibbers
 fustin
