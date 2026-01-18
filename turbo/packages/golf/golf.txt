@@ -2105,7 +2105,6 @@ grubbiness
 guarantors
 galidia
 ganodus
-gormaw
 guarabu
 gazeboes
 guestship
@@ -5646,6 +5645,7 @@ grumes
 glorying
 gatemen
 gant
+gormaw
 gothites
 grizzler
 grenat
