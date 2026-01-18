@@ -4958,6 +4958,7 @@ eco
 endenization
 excusator
 ecarte
+edema
 escritorial
 equipollentness
 ensilaged
@@ -13163,7 +13164,6 @@ escapisms
 espiegleries
 epigynous
 enhancive
-edema
 endognathal
 edriophthalmic
 eurhodol
