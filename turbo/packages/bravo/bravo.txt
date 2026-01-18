@@ -12971,6 +12971,7 @@ buttermilk
 banausic
 bipennated
 bombycillidae
+belime
 bandersnatch
 briseis
 branchery
@@ -13515,7 +13516,6 @@ briquette
 bouch
 blacksmith
 boucharde
-belime
 baccae
 blackbrush
 barometrography
