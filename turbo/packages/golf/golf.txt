@@ -8651,7 +8651,6 @@ gapers
 gavelet
 gisel
 greaved
-grossulaceous
 gigartinales
 gummic
 gonocalycine
@@ -10042,6 +10041,7 @@ garnering
 gongman
 galette
 gossypols
+grossulaceous
 guerison
 guerites
 gage

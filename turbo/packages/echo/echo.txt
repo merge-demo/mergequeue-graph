@@ -3413,7 +3413,6 @@ epichristian
 engrail
 evacuate
 eventide
-embellisher
 embellishers
 eutelegenic
 encheason
@@ -3455,6 +3454,7 @@ evelight
 emblazoned
 emblazoner
 emblazonments
+embellisher
 elastic
 etherialising
 escandalize
