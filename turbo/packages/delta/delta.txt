@@ -12020,7 +12020,6 @@ diammine
 decimus
 domicella
 distichous
-disendow
 dagoes
 desmodus
 disenfranchisement
@@ -16345,6 +16344,7 @@ discontinuable
 dichord
 dovetails
 daylight
+disendow
 deplumate
 disarmature
 downslide
