@@ -221,6 +221,7 @@ goldcup
 glagolitsa
 greys
 gooks
+glyconian
 gravelstone
 gags
 gonoecium
@@ -1981,7 +1982,6 @@ girth
 gageite
 gonadotrope
 granville
-glyconian
 gleefully
 goosewing
 gaspingly
