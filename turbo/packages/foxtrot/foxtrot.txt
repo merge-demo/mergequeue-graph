@@ -5480,6 +5480,7 @@ frontignac
 fieri
 fervours
 finnan
+fusional
 fletchers
 furrower
 furnit
@@ -7498,7 +7499,6 @@ fleshbrush
 frivoler
 foreboom
 foredooms
-fusional
 filterers
 forebush
 foreburton
