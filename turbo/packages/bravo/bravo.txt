@@ -912,6 +912,7 @@ biacromial
 bechanced
 bagmaker
 berrettino
+brushite
 bagnes
 bastnaesite
 breakaway
@@ -11603,7 +11604,6 @@ becomma
 badgeman
 baggageman
 boa
-brushite
 budgeted
 bisontine
 boarded
