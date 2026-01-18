@@ -2325,7 +2325,6 @@ bizet
 bromidic
 botryomyces
 betokened
-budgerygah
 biternate
 bebite
 backyards
@@ -7669,6 +7668,7 @@ beeper
 burgling
 bewraps
 backstage
+budgerygah
 begulf
 belesprit
 bewrapt
