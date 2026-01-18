@@ -6081,7 +6081,6 @@ glutaeous
 guttie
 gibbled
 grisset
-grume
 gnaws
 gramineous
 gneiss
@@ -9666,6 +9665,7 @@ gulf
 guzzle
 graniform
 govt
+grume
 ghanaians
 gypsophilous
 groundwood
