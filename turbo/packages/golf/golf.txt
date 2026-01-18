@@ -1054,6 +1054,7 @@ ganglioid
 ganglioma
 gangliomas
 ganglionate
+goiterogenic
 ganglionated
 gymnoconia
 gift
@@ -4809,7 +4810,6 @@ gleg
 gigantize
 greenings
 grakle
-goiterogenic
 gladfulness
 geck
 gallipots
