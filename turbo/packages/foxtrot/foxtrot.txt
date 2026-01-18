@@ -2382,6 +2382,7 @@ footganger
 fricandoes
 fetial
 fortunetellers
+freq
 friendlier
 frondage
 feriation
@@ -10527,7 +10528,6 @@ fierily
 frowners
 fatlike
 faciend
-freq
 frowsily
 footslogging
 famishment
