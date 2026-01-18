@@ -1197,6 +1197,7 @@ globular
 gunnage
 guestive
 guttate
+geophilidae
 garfishes
 glaux
 gimcrackery
@@ -5592,7 +5593,6 @@ glochid
 geranial
 gemology
 garnice
-geophilidae
 gondolet
 golfers
 glossocomium
