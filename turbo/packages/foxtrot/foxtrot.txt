@@ -3004,7 +3004,6 @@ ferrotype
 fulgurantly
 fortepiano
 flukily
-forasmuch
 foreman
 floodage
 flogster
@@ -4000,6 +3999,7 @@ forefaces
 feute
 fallible
 foredawn
+forasmuch
 fissural
 frettiest
 feudalise

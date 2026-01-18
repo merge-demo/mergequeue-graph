@@ -11733,6 +11733,7 @@ discradle
 delfts
 dockhands
 detectable
+drawlingness
 dantonesque
 dyscrasic
 discussions
@@ -16095,7 +16096,6 @@ doughhead
 doughy
 derabbinize
 doughier
-drawlingness
 doughiness
 dwindle
 dilemmatical
