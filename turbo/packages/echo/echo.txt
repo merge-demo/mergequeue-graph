@@ -5031,7 +5031,6 @@ enunciation
 escrod
 escrol
 eavesdrop
-eclecticism
 endearingly
 ectropium
 exemptible
@@ -8536,6 +8535,7 @@ epibenthos
 easts
 exclusively
 epichoristic
+eclecticism
 equative
 electre
 eburneous
