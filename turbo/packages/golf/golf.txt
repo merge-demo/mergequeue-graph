@@ -4321,7 +4321,6 @@ gastrocoloptosis
 ginglymodi
 gozill
 gemstone
-galaxies
 glossata
 gravewards
 globules
@@ -8793,6 +8792,7 @@ gadid
 gandhian
 glimpsers
 grandchildren
+galaxies
 gelatinochloride
 gunslinger
 garbles
