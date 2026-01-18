@@ -5974,7 +5974,6 @@ euonym
 endotheliulia
 enjoiners
 extravillar
-exigence
 electrodesiccate
 electricalness
 embolomerism
@@ -12881,6 +12880,7 @@ expansile
 expansionism
 englyn
 esotropic
+exigence
 expansionist
 expansionistic
 enserf
