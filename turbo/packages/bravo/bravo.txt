@@ -13402,6 +13402,7 @@ bedeswoman
 bartisans
 bulgier
 birles
+basils
 beaver
 botryllus
 bucketer
@@ -16536,7 +16537,6 @@ bisellium
 bisonant
 brutely
 blindstitch
-basils
 bruteness
 befilleted
 brutify
