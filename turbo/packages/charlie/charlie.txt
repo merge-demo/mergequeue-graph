@@ -2819,6 +2819,7 @@ canoeist
 canoeload
 canoes
 cardiogenesis
+casimeres
 cryptoanalyst
 cukes
 canoewood
@@ -15221,7 +15222,6 @@ cywydd
 clamatory
 cartooned
 clutterer
-casimeres
 cricks
 catholicise
 clambake
