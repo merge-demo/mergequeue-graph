@@ -5710,7 +5710,6 @@ engineman
 epitheliolysis
 eudidymite
 egalites
-exserts
 engineries
 embrace
 eau
@@ -10242,6 +10241,7 @@ eo
 exactingly
 eudorina
 epicurish
+exserts
 estafet
 evectic
 economical
