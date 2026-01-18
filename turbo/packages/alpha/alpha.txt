@@ -7545,7 +7545,6 @@ acardiac
 ainus
 ascophyllum
 anastomos
-astragal
 alcazaba
 apophonic
 anisomeles
@@ -20147,6 +20146,7 @@ alpines
 allolalic
 acanthodini
 arraignment
+astragal
 aurophobia
 allolalia
 atomy
