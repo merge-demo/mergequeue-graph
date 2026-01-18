@@ -9508,6 +9508,7 @@ feudalising
 feudalizing
 findfault
 fullers
+floorage
 forche
 footstall
 foliated
@@ -10921,7 +10922,6 @@ foehn
 flexure
 field
 fetal
-floorage
 fadridden
 fack
 francs
