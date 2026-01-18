@@ -10799,7 +10799,6 @@ bakership
 boul
 bavin
 baulkier
-birthrate
 bergamo
 branchiate
 blepharochromidrosis
@@ -18270,6 +18269,7 @@ berryman
 basque
 brickmason
 badan
+birthrate
 burweed
 bencher
 broadaxe
