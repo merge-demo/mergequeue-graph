@@ -1554,7 +1554,6 @@ fauteuil
 fussy
 foreteach
 farrow
-forepayment
 festival
 flowcontrol
 fishbowl
@@ -3170,6 +3169,7 @@ friezes
 fibulae
 floodcock
 furanoses
+forepayment
 footballist
 firma
 feministic
