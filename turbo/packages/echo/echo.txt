@@ -3674,7 +3674,6 @@ extratellurian
 ecklein
 effluvium
 enterotomy
-enantiotropic
 elucidators
 embryophore
 educations
@@ -4210,6 +4209,7 @@ enterochlorophyll
 empuzzle
 eosinophilous
 eerie
+enantiotropic
 empirically
 epicurism
 euascomycetes
