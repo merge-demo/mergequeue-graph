@@ -3659,7 +3659,6 @@ degust
 dasnt
 degusted
 diffusional
-disbowelled
 dregginess
 dewlaps
 dehache
@@ -14827,6 +14826,7 @@ doctorial
 disadjust
 doctorially
 doctoring
+disbowelled
 doctorize
 distinctness
 distributive
