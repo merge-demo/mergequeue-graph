@@ -5118,7 +5118,6 @@ braconidae
 beflagging
 babery
 bentwood
-biquadrantal
 beflannel
 bureaucrat
 beflap
@@ -10922,6 +10921,7 @@ bescoured
 braciolas
 biorbital
 blindness
+biquadrantal
 bignoniad
 bombers
 bookful
