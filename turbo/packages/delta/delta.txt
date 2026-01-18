@@ -1165,7 +1165,6 @@ dezinced
 daimios
 diploconical
 dimera
-dianoetical
 dade
 detrited
 drawfile
@@ -8133,6 +8132,7 @@ displeasuring
 disembodied
 duodenoscopy
 decommissions
+dianoetical
 diacetin
 damager
 descenders
