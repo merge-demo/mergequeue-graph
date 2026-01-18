@@ -6153,6 +6153,7 @@ gyre
 grommet
 garters
 gadfly
+geochronologic
 geelbec
 gadsbud
 gauche
@@ -10788,7 +10789,6 @@ gutterspout
 ghostlily
 grandfatherhood
 gadoidea
-geochronologic
 gareth
 gynomonoecious
 gilbert
