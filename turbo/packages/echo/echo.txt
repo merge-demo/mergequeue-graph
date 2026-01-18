@@ -7596,7 +7596,6 @@ effectless
 entocnemial
 eventfully
 engines
-elne
 exactest
 extrafascicular
 extratelluric
@@ -8224,6 +8223,7 @@ entozoa
 epigenist
 exulcerate
 enweave
+elne
 eleostearate
 epistlers
 epistolarian
