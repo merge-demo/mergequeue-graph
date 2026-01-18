@@ -20568,7 +20568,6 @@ anginophobia
 academe
 adoptive
 amie
-arthrectomy
 alae
 acroteria
 acousmata
@@ -21726,6 +21725,7 @@ algogenic
 anconad
 assegaiing
 americanized
+arthrectomy
 assegaing
 arcubos
 autofermentation
