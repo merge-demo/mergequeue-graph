@@ -6269,7 +6269,6 @@ agrammatism
 authorized
 agrammatologia
 annattos
-americaward
 agranuloplastic
 abelite
 anatomised
@@ -16265,6 +16264,7 @@ anaplasm
 amasser
 altininck
 apophthegm
+americaward
 appere
 antitheism
 antitheist
