@@ -1621,6 +1621,7 @@ gaskin
 grists
 grants
 gamobium
+gawby
 glossophytia
 gastroxynsis
 gourdy
@@ -8380,7 +8381,6 @@ gyroscopically
 ghosting
 gaucherie
 gastrothecal
-gawby
 grebe
 gizzards
 gulping
