@@ -2639,7 +2639,6 @@ canescence
 chaetetes
 conversationalist
 cobbers
-chimp
 canework
 chuckling
 capitare
@@ -8629,6 +8628,7 @@ commiseration
 chitlins
 chibol
 channelled
+chimp
 channelling
 commiseratingly
 channelure
