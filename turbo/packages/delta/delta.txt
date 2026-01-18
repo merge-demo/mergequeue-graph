@@ -3160,7 +3160,6 @@ draughtily
 defectible
 defecting
 dezincified
-distaff
 doleance
 dunnish
 doltishness
@@ -5703,6 +5702,7 @@ divergenge
 deoxidiser
 demonland
 depoetize
+distaff
 deconsider
 depoh
 decd
