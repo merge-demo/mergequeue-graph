@@ -7264,7 +7264,6 @@ dentines
 dowage
 demilitarize
 disseized
-diffusivity
 dollies
 diaxone
 disturbor
@@ -16784,6 +16783,7 @@ disreputation
 diarrhoeic
 disorganized
 drawback
+diffusivity
 drawbar
 disposability
 desisted
