@@ -8555,7 +8555,6 @@ exceptant
 eskimauan
 extraparenchymal
 equiaxed
-epidermophytosis
 edificable
 electrocauteries
 equate
@@ -8624,6 +8623,7 @@ equilibrious
 extraliminal
 estimating
 eighteens
+epidermophytosis
 erectly
 equilibriums
 etherialization
