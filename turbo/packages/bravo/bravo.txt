@@ -1528,7 +1528,6 @@ basted
 batterdock
 ballads
 balete
-baralipton
 bramble
 bloodmonger
 blackware
@@ -16427,6 +16426,7 @@ brainache
 bedazzling
 bromthymol
 bouffes
+baralipton
 bitonal
 bruno
 bryanthus
