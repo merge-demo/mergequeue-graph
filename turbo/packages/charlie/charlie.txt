@@ -2578,7 +2578,6 @@ candling
 cynically
 campaniles
 candollea
-candolleaceae
 candolleaceous
 carangid
 chlorotrifluoromethane
@@ -27241,6 +27240,7 @@ closelipped
 caravanner
 countrify
 counterpoles
+candolleaceae
 crebrity
 countrification
 complies
