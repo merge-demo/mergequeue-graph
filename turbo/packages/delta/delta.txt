@@ -2393,7 +2393,6 @@ dorsiparous
 deciliter
 druidry
 destituent
-doodads
 dispelled
 donny
 dripstick
@@ -14127,6 +14126,7 @@ dilettanteship
 distritos
 debitor
 dolomization
+doodads
 dystrophia
 dystrophic
 dubbers
