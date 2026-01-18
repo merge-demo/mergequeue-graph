@@ -1775,7 +1775,6 @@ genealogizer
 gastroscopist
 gavelled
 guatusan
-gasterosteid
 gynandrism
 glossolaly
 gelatinotype
@@ -7948,6 +7947,7 @@ glimmerite
 gleization
 gregaloid
 gyniolatry
+gasterosteid
 gulas
 grandfathers
 gerontophilia
