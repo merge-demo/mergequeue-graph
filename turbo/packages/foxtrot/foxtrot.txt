@@ -5048,6 +5048,7 @@ felter
 forvay
 flarer
 fescue
+folklike
 funorin
 fiendliest
 foursquarely
@@ -6876,7 +6877,6 @@ foreword
 flammeous
 fitly
 fidepromission
-folklike
 feasible
 fallace
 folklores
