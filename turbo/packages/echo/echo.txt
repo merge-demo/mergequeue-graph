@@ -1263,6 +1263,7 @@ epithalamion
 encircler
 endogenesis
 enteroid
+epsomite
 epyllia
 epicranius
 enfelon
@@ -12583,7 +12584,6 @@ enterocolitis
 eaglestone
 earthpeas
 embrawn
-epsomite
 euphon
 excecation
 eunuchry
