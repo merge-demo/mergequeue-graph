@@ -5418,6 +5418,7 @@ apocatastasis
 afoul
 afray
 almsful
+astonish
 athrocytosis
 antisymmetrical
 alcove
@@ -22246,7 +22247,6 @@ allylamine
 apennine
 algometry
 astonies
-astonish
 amerindians
 autonomical
 annualize
