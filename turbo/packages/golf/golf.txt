@@ -6446,7 +6446,6 @@ geneses
 gallivanted
 gouger
 guineapig
-golden
 gordian
 grandmaternal
 galleine
@@ -10393,6 +10392,7 @@ glottic
 gaucheness
 gayish
 greypate
+golden
 generalisable
 gangwayman
 graciousness
