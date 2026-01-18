@@ -1263,7 +1263,6 @@ gaia
 glenwood
 granage
 ged
-gavall
 goethites
 gromatical
 graptolithina
@@ -3309,6 +3308,7 @@ givingness
 genethliacism
 gang
 grooverhead
+gavall
 glossologies
 guha
 gerundial
