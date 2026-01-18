@@ -314,6 +314,7 @@ dissuasiveness
 dollfaced
 daybill
 disinteress
+depluming
 dourine
 dalasi
 daybooks
@@ -12008,7 +12009,6 @@ disenchant
 dowd
 disenchantments
 disenchantress
-depluming
 difforme
 disencharm
 doctrix
