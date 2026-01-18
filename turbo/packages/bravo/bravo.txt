@@ -12635,7 +12635,6 @@ blithers
 bookworms
 battycake
 bleekbok
-beshadows
 bonze
 butterhead
 bonzer
@@ -15253,6 +15252,7 @@ bumpology
 bummery
 brickle
 bulbospinal
+beshadows
 bricklike
 blennoid
 byroads
