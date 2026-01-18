@@ -3035,6 +3035,7 @@ cantoral
 cantoria
 cardsharps
 calabooses
+catacorner
 crystallographic
 cantoris
 cantors
@@ -5533,7 +5534,6 @@ cataclysmically
 crowboot
 cpm
 cyanamide
-catacorner
 ceaselessly
 clacked
 catacoustics
