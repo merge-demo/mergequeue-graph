@@ -10769,6 +10769,7 @@ consequents
 casinet
 chinkara
 chinker
+conducta
 chinkerinchee
 cholocyanine
 chinky
@@ -15070,7 +15071,6 @@ characterizations
 cladanthous
 cladding
 couplet
-conducta
 chlorophyceous
 conidia
 clade
