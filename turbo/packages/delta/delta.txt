@@ -2298,7 +2298,6 @@ dewatering
 decentralizing
 daphne
 defensory
-dishwash
 dismounted
 diagraphs
 dekaparsec
@@ -3039,6 +3038,7 @@ deerstalking
 deerweed
 dollyway
 deescalate
+dishwash
 dyehouse
 deeses
 deepfrozen
