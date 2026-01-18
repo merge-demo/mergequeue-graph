@@ -3002,7 +3002,6 @@ canticle
 carne
 campesino
 canticles
-conquerableness
 conceptualistically
 cantilating
 cantilene
@@ -15200,6 +15199,7 @@ choosableness
 clairsentient
 confrontationism
 conceder
+conquerableness
 chondrophyte
 clairvoyances
 contraposaune
