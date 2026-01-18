@@ -6517,7 +6517,6 @@ gymnasia
 groundage
 groundably
 gospelmonger
-gallivat
 goniatitoid
 glycogenosis
 geanticlinal
@@ -8601,6 +8600,7 @@ gaufrettes
 glucose
 geometrizing
 graziers
+gallivat
 gravidate
 gullied
 gambol
