@@ -6684,7 +6684,6 @@ garterless
 guttler
 grint
 gibbet
-gulae
 growable
 gromatic
 geochronometry
@@ -10655,6 +10654,7 @@ gametogony
 gladius
 gyric
 goatsbane
+gulae
 galp
 gurgoyle
 glaiketness
