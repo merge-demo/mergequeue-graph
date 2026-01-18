@@ -3845,7 +3845,6 @@ acetabuliform
 adipinic
 autotransplant
 antiplethoric
-adipocellulose
 adipocere
 adipoceriform
 adipoid
@@ -6629,6 +6628,7 @@ aikane
 aldazin
 automatictacessing
 aikido
+adipocellulose
 amatories
 anarcestean
 ably
