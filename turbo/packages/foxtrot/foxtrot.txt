@@ -4123,6 +4123,7 @@ fluorometry
 freeheartedly
 fireback
 fumeuses
+forestation
 frogleaf
 flattop
 frenula
@@ -8008,7 +8009,6 @@ fanfoot
 fieldie
 favoured
 fredricite
-forestation
 faceup
 fructiculture
 fractiously
