@@ -8930,6 +8930,7 @@ achievers
 allopathic
 autoicous
 anticoagulan
+anomalously
 actiniaria
 adlerian
 allopathically
@@ -22566,7 +22567,6 @@ ataxophemia
 ambitions
 apolitical
 abbassi
-anomalously
 ayre
 appellants
 antimilitarism
