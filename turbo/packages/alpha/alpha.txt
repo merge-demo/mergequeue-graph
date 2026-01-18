@@ -3066,7 +3066,6 @@ ambreate
 actinomyxidiida
 aliyos
 adfreeze
-actinomorphic
 amphitrichous
 azotise
 arsonate
@@ -18564,6 +18563,7 @@ apostrophise
 androseme
 arborous
 arborvitaes
+actinomorphic
 arcticwards
 amidine
 arrises
