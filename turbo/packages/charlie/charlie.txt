@@ -18214,7 +18214,6 @@ cantinas
 carbonari
 coffeegrowing
 cladothrix
-cuss
 capelets
 chemicovital
 coffeehouse
@@ -20181,6 +20180,7 @@ commissure
 confederacy
 chalcidic
 commissurotomies
+cuss
 commit
 commitment
 curiouser
