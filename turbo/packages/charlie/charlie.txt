@@ -25554,7 +25554,6 @@ coroutines
 clericum
 corp
 corpn
-corpora
 corporacy
 corporacies
 calcic
@@ -26632,6 +26631,7 @@ countability
 cellos
 corbels
 curtlax
+corpora
 ciliolum
 countably
 coccyges
