@@ -7535,7 +7535,6 @@ anthropocentricity
 alcaldes
 alcaldeship
 aristoi
-affectingly
 altaite
 allegiant
 autoclastic
@@ -22348,6 +22347,7 @@ astrobiologies
 adret
 alrighty
 angiolymphoma
+affectingly
 afterdrops
 astrochemistry
 aurignacian
