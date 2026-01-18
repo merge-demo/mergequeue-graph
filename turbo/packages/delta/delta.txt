@@ -6836,6 +6836,7 @@ dryobalanops
 dragnet
 deadflat
 deltic
+drammed
 domesticative
 derivative
 desmopathology
@@ -7382,7 +7383,6 @@ dicyclist
 diadochian
 domesday
 discussed
-drammed
 downgone
 dischargee
 detoxication
