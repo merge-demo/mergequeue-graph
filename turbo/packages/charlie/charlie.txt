@@ -23117,6 +23117,7 @@ cephidae
 constantinopolitan
 catechumenate
 canvassed
+coruscate
 constantly
 constantness
 constitutionalization
@@ -26389,7 +26390,6 @@ cothouse
 cothurn
 cothurnus
 coticed
-coruscate
 colleter
 cleating
 chlorprophenpyridamine
