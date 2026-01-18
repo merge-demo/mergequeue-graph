@@ -1184,6 +1184,7 @@ feller
 figeaters
 flyblows
 fatbird
+favors
 footy
 farthingdeal
 frays
@@ -10004,7 +10005,6 @@ fogram
 frizzer
 feminacy
 fortune
-favors
 fringilline
 freedom
 frothsome
