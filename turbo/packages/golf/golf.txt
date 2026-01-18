@@ -4159,7 +4159,6 @@ gymnotus
 gutling
 geomagnetic
 gimped
-gimpier
 guarache
 gastrectasis
 guidable
@@ -5616,6 +5615,7 @@ gatling
 gyrators
 genicular
 grunth
+gimpier
 gerunds
 gloomily
 gloomings
