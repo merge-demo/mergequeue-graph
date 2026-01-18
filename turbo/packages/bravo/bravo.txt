@@ -3812,7 +3812,6 @@ benzole
 beauish
 beatrice
 befleck
-bronchoplegia
 bauhinias
 baul
 beshear
@@ -8741,6 +8740,7 @@ bottomry
 backlashed
 brule
 barhopping
+bronchoplegia
 bimetals
 bolsters
 bullishness
