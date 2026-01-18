@@ -2815,7 +2815,6 @@ circumscribe
 carajura
 cursitor
 cannulating
-chinafish
 colius
 canoeist
 canoeload
@@ -17483,6 +17482,7 @@ coboundless
 cobourg
 cueca
 coinitial
+chinafish
 cobridgehead
 chrysostomic
 chimneyhead
