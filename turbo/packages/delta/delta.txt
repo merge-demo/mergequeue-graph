@@ -3066,7 +3066,6 @@ defacer
 danes
 dentiscalp
 desole
-delible
 designated
 degradand
 delightfully
@@ -12894,6 +12893,7 @@ driftway
 dyebeck
 demerited
 dromond
+delible
 dismissal
 dismissed
 distemperate
