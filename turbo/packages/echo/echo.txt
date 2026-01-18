@@ -1768,7 +1768,6 @@ encompasser
 enable
 estimates
 entresse
-eocene
 elliott
 earplugs
 excrement
@@ -7696,6 +7695,7 @@ enforcer
 execrably
 epipleurae
 etiological
+eocene
 ephapse
 everyness
 erythraea
