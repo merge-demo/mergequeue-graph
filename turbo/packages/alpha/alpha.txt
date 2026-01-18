@@ -7111,7 +7111,6 @@ allophore
 akroter
 akroteria
 arithmetization
-aktistetae
 aku
 akule
 appalto
@@ -10151,6 +10150,7 @@ atropinism
 alkalimetrically
 anisogamy
 aminded
+aktistetae
 avulsion
 artotyrite
 ambulator
