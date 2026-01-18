@@ -945,6 +945,7 @@ faradisation
 fluosilicic
 fimbrilliferous
 faradised
+foreheaded
 flether
 furfural
 fardo
@@ -10091,7 +10092,6 @@ foreknee
 fe
 fulciform
 fortuitus
-foreheaded
 fissiparously
 frittering
 fuchi
