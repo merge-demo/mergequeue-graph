@@ -1460,6 +1460,7 @@ currents
 calyptrata
 cheapener
 carretela
+chogset
 calyptratae
 calyptrimorphous
 coracoscapular
@@ -11451,7 +11452,6 @@ chocolatiere
 concentred
 choctaw
 choga
-chogset
 cussed
 choy
 choiceful

@@ -3851,7 +3851,6 @@ feces
 frustulum
 flet
 fleshpots
-forewoman
 fieldball
 farsang
 firmnesses
@@ -9731,6 +9730,7 @@ fishweir
 frequentest
 feldspar
 frapp
+forewoman
 fallacies
 falchion
 fessways
