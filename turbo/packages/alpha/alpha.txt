@@ -8471,7 +8471,6 @@ aroid
 alkenyl
 alkes
 awreck
-amyloidoses
 alkyd
 anniversalily
 apitong
@@ -14896,6 +14895,7 @@ antliate
 angeles
 anticyclically
 anticity
+amyloidoses
 anticytolysin
 almsgiving
 alphorn
