@@ -19982,7 +19982,6 @@ azlons
 abdat
 armplate
 agamas
-angkhak
 azans
 aborsement
 afterclap
@@ -22462,6 +22461,7 @@ anodynic
 astronomy
 analgen
 aphototropism
+angkhak
 astronomical
 ajenjo
 acylate
