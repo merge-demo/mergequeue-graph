@@ -6962,7 +6962,6 @@ grasseye
 grapevine
 gages
 goodwives
-gartering
 germander
 grasswidow
 garrigue
@@ -10610,6 +10609,7 @@ gascromh
 guildite
 gunpoints
 gloomiest
+gartering
 ghoul
 gunpower
 gasping
