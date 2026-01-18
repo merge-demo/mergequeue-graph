@@ -11898,6 +11898,7 @@ euploeinae
 emotionalist
 enragement
 earthenware
+exogyra
 expurgation
 ephidrosis
 excerebration
@@ -12642,7 +12643,6 @@ exogen
 earldom
 esophagostomy
 examplar
-exogyra
 enterogram
 effusion
 exognathite
