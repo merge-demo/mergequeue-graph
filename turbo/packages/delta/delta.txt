@@ -982,6 +982,7 @@ diazoamino
 darers
 dargah
 dagos
+dirling
 dargo
 ding
 dignitaries
@@ -15310,7 +15311,6 @@ dialler
 diffuse
 diasporas
 dolphin
-dirling
 diospyros
 dolphinfish
 dolphinlike
