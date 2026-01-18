@@ -7939,7 +7939,6 @@ aspirators
 askapart
 alawi
 amaranths
-altarpiece
 apprizer
 acutilinguae
 argasid
@@ -21655,6 +21654,7 @@ amorist
 assayers
 aphorists
 assaying
+altarpiece
 androgens
 adenectopic
 assailableness
