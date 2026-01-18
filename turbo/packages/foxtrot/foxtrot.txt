@@ -6724,7 +6724,6 @@ fuchsinophil
 featherbed
 fluorescent
 forspeaking
-flamming
 frounced
 foiningly
 freddie
@@ -9050,6 +9049,7 @@ farcied
 famed
 fords
 filterer
+flamming
 fleabanes
 fourberie
 fedelini
