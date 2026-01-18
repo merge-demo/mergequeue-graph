@@ -7243,7 +7243,6 @@ centrosphere
 crevassed
 cylinderer
 cancrizans
-centum
 colorcaster
 cancellate
 catarinite
@@ -17259,6 +17258,7 @@ chronist
 coamings
 caryophyllous
 couter
+centum
 comprehensives
 conflux
 cussedly
