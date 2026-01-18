@@ -1471,7 +1471,6 @@ clave
 chicks
 calistheneum
 commercializes
-calisthenics
 calite
 calyx
 coecal
@@ -8239,6 +8238,7 @@ comas
 chalcography
 caucho
 corticium
+calisthenics
 chalcographic
 chalcographical
 chalcographist
