@@ -3930,7 +3930,6 @@ agonied
 aphidian
 alarmed
 argentamide
-adjunctively
 adjunctly
 analogia
 admissory
@@ -8892,6 +8891,7 @@ achromatizable
 astroalchemist
 agnathostomatous
 allantoid
+adjunctively
 admired
 alloyage
 athermancy
