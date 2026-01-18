@@ -4979,7 +4979,6 @@ feathers
 fixup
 faineantise
 falsificate
-firman
 fenianism
 forepad
 flipping
@@ -8753,6 +8752,7 @@ face
 fitchy
 forgemen
 faradization
+firman
 fiberglass
 floret
 forechurch
