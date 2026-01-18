@@ -3706,7 +3706,6 @@ depot
 domitic
 delegated
 dehkan
-durmasts
 decimate
 designate
 dehonestation
@@ -14498,6 +14497,7 @@ dihelios
 decoupling
 delly
 deckhouse
+durmasts
 degauss
 diphyzooid
 devitaminize
