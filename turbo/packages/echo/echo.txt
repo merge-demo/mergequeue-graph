@@ -1794,7 +1794,6 @@ ergatogyny
 engouement
 elbow
 exopodite
-eigenvalues
 evaginated
 effervescive
 ensouling
@@ -3833,6 +3832,7 @@ entrapment
 easiness
 emanated
 exemplarily
+eigenvalues
 effeminacy
 exallotriote
 euryclea
