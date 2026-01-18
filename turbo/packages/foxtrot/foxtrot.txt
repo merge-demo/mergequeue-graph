@@ -6547,7 +6547,6 @@ fissions
 fo
 fuciphagous
 foalfoots
-flavorers
 ficula
 futurism
 flossier
@@ -7399,6 +7398,7 @@ figgum
 fille
 fans
 ferrocerium
+flavorers
 forwarder
 fruitlet
 filicides
