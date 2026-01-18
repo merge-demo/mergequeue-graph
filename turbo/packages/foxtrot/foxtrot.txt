@@ -6912,6 +6912,7 @@ finely
 facia
 fedarie
 formalisation
+foretrace
 forbode
 fastball
 foxlike
@@ -8112,7 +8113,6 @@ fretless
 ferberite
 fructuosity
 fossilology
-foretrace
 forecastleman
 fountful
 frequentable
