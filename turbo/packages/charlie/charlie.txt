@@ -13598,7 +13598,6 @@ compressure
 cimicoid
 conformableness
 calcaneonavicular
-cymiferous
 cymlin
 cymlings
 cymlins
@@ -23105,6 +23104,7 @@ clysmian
 corymbs
 constablewick
 constabular
+cymiferous
 constabularies
 comminute
 coccolithophoridae
