@@ -2078,6 +2078,7 @@ floria
 foredefine
 fainty
 fesapo
+framea
 filletlike
 fear
 firmers
@@ -9227,7 +9228,6 @@ freckling
 fungate
 frangipani
 frizers
-framea
 framer
 frames
 forename
