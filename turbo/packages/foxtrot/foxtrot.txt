@@ -869,6 +869,7 @@ fawn
 fragilities
 fantasying
 falterer
+frenular
 forthbrought
 fustigated
 failsafe
@@ -9706,7 +9707,6 @@ forgathered
 flushing
 frenetically
 forlorner
-frenular
 footlicker
 fornicate
 friends
