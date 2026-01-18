@@ -285,6 +285,7 @@ forebar
 fistnotes
 flambeed
 floosies
+frippery
 felicitations
 flumdiddle
 fiqh
@@ -6658,7 +6659,6 @@ feted
 flyblow
 flores
 fogdogs
-frippery
 fairways
 fraileros
 fogdom
