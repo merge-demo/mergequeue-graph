@@ -7647,7 +7647,6 @@ baric
 beechy
 beeyard
 bollandist
-brog
 bullocks
 borne
 butanones
@@ -8126,6 +8125,7 @@ bouillone
 breezelike
 bdle
 bendaying
+brog
 branches
 byronian
 blooper
