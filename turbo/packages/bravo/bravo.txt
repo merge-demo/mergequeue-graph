@@ -8631,7 +8631,6 @@ backscatters
 byrlady
 batteau
 buhrmill
-barragon
 baldacchino
 behind
 burgees
@@ -17628,6 +17627,7 @@ burgomasters
 bullfighting
 burgomastership
 burgundy
+barragon
 bishareen
 burhel
 bombic
