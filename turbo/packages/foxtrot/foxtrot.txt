@@ -1172,7 +1172,6 @@ florulas
 facials
 fiberization
 frumety
-feroher
 fidelis
 flax
 farinacious
@@ -4053,6 +4052,7 @@ fingerberry
 fissionable
 featurish
 felapton
+feroher
 formants
 foppishness
 finitude
