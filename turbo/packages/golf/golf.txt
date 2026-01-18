@@ -421,7 +421,6 @@ galatea
 galateas
 glucogenesis
 galbula
-gelding
 glidewort
 gimleted
 galaxes
@@ -5457,6 +5456,7 @@ gandhism
 glaciating
 galet
 gemellus
+gelding
 geneticism
 guipure
 guilds
