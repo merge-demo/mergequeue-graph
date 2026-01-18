@@ -27536,7 +27536,6 @@ cerberean
 covercle
 coprolalia
 carangidae
-covered
 coverer
 campfire
 coverings
@@ -27794,6 +27793,7 @@ checkouts
 coupee
 coxswain
 coxswained
+covered
 comrade
 crawlingly
 cervicodorsal
