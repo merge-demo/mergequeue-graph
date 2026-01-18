@@ -16048,6 +16048,7 @@ boubous
 brisance
 brahmanaspati
 bludgeoning
+biflorate
 border
 bishoprics
 bronk
@@ -16546,7 +16547,6 @@ bathorse
 bargeese
 barbarianize
 brownish
-biflorate
 backbiters
 bushmen
 botrydium
