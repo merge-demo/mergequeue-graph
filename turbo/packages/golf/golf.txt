@@ -1256,7 +1256,6 @@ gradings
 golliwogg
 greasers
 galliardly
-griffes
 guenon
 gapper
 glutinosity
@@ -8647,6 +8646,7 @@ gastronomical
 gests
 grizzliness
 groynes
+griffes
 gratae
 gapeseed
 greatness
