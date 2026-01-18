@@ -1940,6 +1940,7 @@ awaiters
 aversive
 anamirtin
 acetylization
+avenges
 ammonization
 airflows
 aviso
@@ -8243,7 +8244,6 @@ auctors
 antisera
 antisiccative
 athermous
-avenges
 alienigenate
 acetannin
 augmentative
