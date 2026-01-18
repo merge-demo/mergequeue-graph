@@ -6627,7 +6627,6 @@ doubleganger
 dianisidine
 deplump
 draughtswoman
-desertification
 dodecahedric
 deserting
 drabs
@@ -10412,6 +10411,7 @@ diastoles
 diphenylene
 dessus
 despend
+desertification
 dustlessness
 decodable
 diphenylenimine
