@@ -5822,6 +5822,7 @@ arctan
 alarbus
 agaze
 agallop
+arrived
 agedness
 agee
 aerugos
@@ -9902,7 +9903,6 @@ airsheet
 amateurs
 amateurship
 archimperialism
-arrived
 anacoenosis
 alumstone
 amornings
