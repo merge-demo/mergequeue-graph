@@ -8216,7 +8216,6 @@ cercarias
 chalazoin
 candytuft
 charvet
-chalcanth
 chalcedony
 cusconine
 calabrasella
@@ -27456,6 +27455,7 @@ coaeval
 contemnibly
 cuprous
 couxia
+chalcanth
 citrous
 chronicity
 covalences
