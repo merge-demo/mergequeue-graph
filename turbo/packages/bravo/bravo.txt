@@ -10157,7 +10157,6 @@ beatitudes
 browsers
 blackcaps
 biscayan
-bejeweled
 blanketflower
 barysilite
 blackcod
@@ -10835,6 +10834,7 @@ bhikku
 banished
 blethe
 bromomethane
+bejeweled
 bibliopolic
 balate
 blethered
