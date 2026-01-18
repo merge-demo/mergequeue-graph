@@ -5428,7 +5428,6 @@ farkleberry
 fluozirconic
 fernbrake
 ferreter
-flora
 funniness
 frequentness
 flensed
@@ -6427,6 +6426,7 @@ fanflower
 feneration
 forweary
 flummery
+flora
 filth
 folkcraft
 frenchize
