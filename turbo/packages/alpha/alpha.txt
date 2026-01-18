@@ -1909,6 +1909,7 @@ acetylative
 autograft
 allochthonous
 amenders
+apomixis
 arguer
 acetylbenzoic
 aldehydase
@@ -17220,7 +17221,6 @@ anthropomorphotheist
 acescent
 ankylosing
 almira
-apomixis
 apomorphia
 ahmadi
 acropetal
