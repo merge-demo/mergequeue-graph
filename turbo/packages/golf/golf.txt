@@ -3937,7 +3937,6 @@ graduated
 geoscientist
 gourdiness
 gunlaying
-garrotted
 goll
 goat
 gynostemiumia
@@ -7511,6 +7510,7 @@ gangs
 glitzy
 glabellous
 gryllus
+garrotted
 gubernaculum
 grigri
 germanical
