@@ -19589,7 +19589,6 @@ coextensiveness
 capanne
 coregence
 columellia
-columelliaceae
 columna
 columnal
 camphors
@@ -20182,6 +20181,7 @@ commit
 commitment
 curiouser
 commitments
+columelliaceae
 commits
 calycoid
 chutist
