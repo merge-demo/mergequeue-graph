@@ -848,7 +848,6 @@ gymnoblastic
 gilberts
 greensick
 gamboling
-glareolidae
 geonim
 gamone
 gwine
@@ -7782,6 +7781,7 @@ gaucie
 greeny
 grubworm
 gulleys
+glareolidae
 gayness
 glims
 gillstoup
