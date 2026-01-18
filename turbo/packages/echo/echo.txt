@@ -4660,7 +4660,6 @@ efficience
 everybody
 epilog
 esthematology
-epanaphora
 electroencephalographs
 egomania
 enmuffle
@@ -12790,6 +12789,7 @@ exostra
 ebullition
 engraves
 elementary
+epanaphora
 exostrae
 exoteric
 exoterica
