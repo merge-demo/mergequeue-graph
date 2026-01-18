@@ -19521,6 +19521,7 @@ colstaff
 cnidogenous
 congresswoman
 chasid
+comandante
 coltishly
 coltlike
 calicos
@@ -21403,7 +21404,6 @@ chimpanzees
 concludable
 copyrighted
 castleward
-comandante
 convalesce
 churchier
 concluded
