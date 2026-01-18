@@ -2574,6 +2574,7 @@ gomerel
 giveaway
 gibbing
 glires
+gn
 guetare
 generative
 glabbella
@@ -3810,7 +3811,6 @@ gonococcic
 gigelira
 gaolerness
 gold
-gn
 granthi
 guanylic
 granulitization

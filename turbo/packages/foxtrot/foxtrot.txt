@@ -3023,6 +3023,7 @@ feoffers
 footwears
 feldspathoid
 frostflower
+frontally
 frenchen
 fissioned
 forensical
@@ -8946,7 +8947,6 @@ flutter
 fermila
 fiefdoms
 foreshadower
-frontally
 fourrageres
 fox
 fears
