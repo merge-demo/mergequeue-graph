@@ -22795,6 +22795,7 @@ chaetangium
 crouches
 cycadofilicale
 cytology
+crine
 cartway
 catnapped
 crinid
@@ -30759,7 +30760,6 @@ cuisine
 coaxingly
 castelet
 cuisines
-crine
 chummy
 cuisse
 canonical
