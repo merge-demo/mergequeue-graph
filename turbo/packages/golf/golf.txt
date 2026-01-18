@@ -7172,7 +7172,6 @@ galvayne
 grabbers
 geobotanical
 gnawable
-gloryful
 granate
 generalship
 gospoda
@@ -10555,6 +10554,7 @@ gyneocracy
 gatewaymen
 grasset
 gunmetal
+gloryful
 guacico
 guebre
 grecoue
