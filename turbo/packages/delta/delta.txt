@@ -506,7 +506,6 @@ disrupter
 dozily
 doodle
 dalf
-daliance
 dalibarda
 dismantler
 dalle
@@ -16537,6 +16536,7 @@ ditheism
 diagrammatic
 demoralise
 draftings
+daliance
 diesinker
 disinterred
 dallop
