@@ -5774,6 +5774,7 @@ barnyards
 biocellate
 bunn
 bioluminescence
+bystander
 bulak
 bufo
 bellbird
@@ -15491,7 +15492,6 @@ bout
 brannerite
 bereaved
 bindheimite
-bystander
 brimly
 bifollicular
 banshees
