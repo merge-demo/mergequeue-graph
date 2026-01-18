@@ -5668,7 +5668,6 @@ eflagelliferous
 eppie
 extraventricular
 extras
-episcopalism
 egotisticalness
 enatic
 emerson
@@ -8853,6 +8852,7 @@ eventuation
 electrooptically
 erer
 excursively
+episcopalism
 embossers
 eelworms
 enteron
