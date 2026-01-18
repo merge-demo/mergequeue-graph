@@ -2675,6 +2675,7 @@ granule
 gemarist
 glaciological
 gigantocyte
+gyrencephalic
 genioglossal
 gastroenterologists
 groupthink
@@ -3657,7 +3658,6 @@ gallinae
 gnathite
 goalmouth
 gherkins
-gyrencephalic
 galah
 geodetically
 glumelike
