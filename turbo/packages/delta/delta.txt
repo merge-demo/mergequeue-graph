@@ -441,6 +441,7 @@ deities
 dorsad
 dhourra
 discoursers
+dinichthyid
 dairous
 dais
 defog
@@ -2321,7 +2322,6 @@ deceptive
 deceptively
 dermatologic
 deceptiveness
-dinichthyid
 deafnesses
 dextrotropic
 decerebrate
