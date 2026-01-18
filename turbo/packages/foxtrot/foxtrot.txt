@@ -1467,7 +1467,6 @@ fatuoid
 fatuus
 frankly
 fairtime
-fantasie
 fractureproof
 filago
 frameable
@@ -7609,6 +7608,7 @@ forefield
 factitiousness
 foreorlop
 flimsilyst
+fantasie
 flustroid
 forefinger
 figary
