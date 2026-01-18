@@ -1837,7 +1837,6 @@ goloshes
 geographize
 gatemaker
 gladfully
-glyconics
 gerhardtite
 gregory
 grandfer
@@ -3675,6 +3674,7 @@ gothish
 ghostish
 gelatigenous
 gangetic
+glyconics
 gracilescent
 gussying
 goggling
