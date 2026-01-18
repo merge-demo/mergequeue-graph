@@ -6209,7 +6209,6 @@ dermasurgery
 dedolomitization
 dermatagra
 dermatophagus
-diaphragmatically
 desiccator
 dizaine
 dermatatrophia
@@ -13227,6 +13226,7 @@ dinnerless
 distempered
 dyspneas
 ducat
+diaphragmatically
 determinator
 defaecate
 draftman
