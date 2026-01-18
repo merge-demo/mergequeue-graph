@@ -1023,7 +1023,6 @@ calas
 chronologies
 colourtype
 cohoba
-calascione
 cydonia
 calastic
 calathea
@@ -16011,6 +16010,7 @@ clever
 cowberries
 cleverer
 cleverish
+calascione
 clevis
 columbous
 condylome
