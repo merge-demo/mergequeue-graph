@@ -6247,6 +6247,7 @@ dweeble
 debat
 doldrums
 diact
+dancy
 dermatoneurosis
 dustuck
 disprize
@@ -7559,7 +7560,6 @@ deuton
 deutonymph
 danli
 distingu
-dancy
 debated
 diverging
 detersion
