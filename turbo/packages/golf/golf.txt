@@ -536,6 +536,7 @@ geeldikkop
 galipoidin
 guzzles
 galleins
+gymnosperm
 gomphocarpus
 getters
 gnetaceous
@@ -6690,7 +6691,6 @@ growable
 gromatic
 geochronometry
 gibbergunyah
-gymnosperm
 grattage
 gewgawed
 growse
