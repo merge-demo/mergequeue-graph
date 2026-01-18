@@ -4047,6 +4047,7 @@ finitism
 finitive
 foreyear
 fingerberry
+fissionable
 felapton
 formants
 foppishness
@@ -8558,7 +8559,6 @@ fornicatrix
 fieldman
 frameshift
 fullfil
-fissionable
 fungating
 farmsteading
 fricative
