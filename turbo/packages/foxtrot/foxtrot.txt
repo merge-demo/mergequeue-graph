@@ -4258,6 +4258,7 @@ foreordains
 fendable
 flunkyism
 fastuous
+floors
 febrifuges
 filacer
 facsimilist
@@ -11381,7 +11382,6 @@ furnishes
 fiddles
 flams
 functionlessness
-floors
 frosk
 feater
 forksmith
