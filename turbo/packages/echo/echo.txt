@@ -5862,7 +5862,6 @@ ewest
 extrazodiacal
 exacerbescence
 epidendral
-exsiccate
 ectopatagia
 engrossedly
 engrosser
@@ -11151,6 +11150,7 @@ embroiderer
 exiguousness
 ensiform
 extractibility
+exsiccate
 ectatic
 evacuator
 evaded
