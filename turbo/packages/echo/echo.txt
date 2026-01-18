@@ -11063,7 +11063,6 @@ electors
 expunging
 endosome
 edo
-egoity
 exulceratory
 empower
 ekacaesium
@@ -14078,6 +14077,7 @@ entoplastral
 epigastral
 embryoscopic
 equilibrative
+egoity
 ebonize
 explicits
 entwinement
