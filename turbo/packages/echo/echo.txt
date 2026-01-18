@@ -2929,7 +2929,6 @@ embarrassments
 eyewinks
 elicitation
 elicitor
-estafa
 equivalvular
 enricher
 exploiters
@@ -7218,6 +7217,7 @@ emulsification
 exsector
 electrocatalytic
 encephalomere
+estafa
 epidemiology
 energetics
 ensealed
