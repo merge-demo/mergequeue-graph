@@ -5666,7 +5666,6 @@ againsay
 against
 avellano
 ancillae
-affatuate
 againstand
 albuginitis
 antilens
@@ -19731,6 +19730,7 @@ arteriorrhexis
 abstractiveness
 actinocutitis
 antimartyr
+affatuate
 aristotelean
 aristotelianism
 acicula
