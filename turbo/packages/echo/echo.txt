@@ -556,6 +556,7 @@ eccentrical
 ecstatical
 epigynum
 excision
+encapsuling
 esophagoscopy
 eurypelma
 eurythermic
@@ -4384,7 +4385,6 @@ encapsulation
 emitted
 encapsuled
 enure
-encapsuling
 endurability
 encaptivate
 essence
