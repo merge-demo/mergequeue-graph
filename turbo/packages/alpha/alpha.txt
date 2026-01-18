@@ -5153,7 +5153,6 @@ aphoria
 anamorphism
 aetomorphae
 almohade
-aeviternal
 anatomicomedical
 af
 avernal
@@ -12031,6 +12030,7 @@ anarthrousness
 avionics
 anas
 athumia
+aeviternal
 anasa
 aralkylated
 arteriosclerosis
