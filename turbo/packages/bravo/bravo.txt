@@ -5660,6 +5660,7 @@ bocher
 busks
 boraciferous
 benjoin
+bhungini
 bloodstones
 besped
 beldams
@@ -5978,7 +5979,6 @@ beadlike
 bionomy
 broads
 belute
-bhungini
 begirdles
 belvedere
 bluewood
