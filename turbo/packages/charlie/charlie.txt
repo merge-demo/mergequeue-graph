@@ -12523,7 +12523,6 @@ chromotypographic
 chromotropy
 chromotropic
 commonplaceness
-cradleboard
 concepts
 chromotropism
 cultus
@@ -28014,6 +28013,7 @@ crayoning
 crayonist
 crayonists
 chalkosideric
+cradleboard
 citizenized
 cinnamomic
 concoctor
