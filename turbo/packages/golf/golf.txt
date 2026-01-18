@@ -3073,7 +3073,6 @@ gleanable
 gali
 gubat
 grouts
-gibbol
 glossarist
 garo
 groaned
@@ -6499,6 +6498,7 @@ gonapophysial
 gabert
 gravelled
 guddling
+gibbol
 genetic
 glaikitness
 gariba

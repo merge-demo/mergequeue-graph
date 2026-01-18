@@ -3129,6 +3129,7 @@ actinozoan
 autohybridization
 actins
 abstractness
+anabata
 archigonocyte
 ascendance
 antimonous
@@ -21611,7 +21612,6 @@ aprilesque
 anice
 antecedes
 aspiringly
-anabata
 anakoluthia
 aspises
 aloed
