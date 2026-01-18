@@ -4332,6 +4332,7 @@ because
 blateration
 beccabunga
 billfish
+brimfullness
 beefer
 blatch
 birrettas
@@ -15479,7 +15480,6 @@ baculites
 batrachoid
 bigothero
 banns
-brimfullness
 brongniardite
 blazon
 brodeglass
