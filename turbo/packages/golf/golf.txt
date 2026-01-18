@@ -4142,6 +4142,7 @@ glaswegian
 gibbeted
 gasolenes
 gelofre
+gammas
 genealogy
 gollar
 gaspergou
@@ -7254,7 +7255,6 @@ gribble
 gingernut
 gemination
 gorgoneion
-gammas
 gez
 gromyl
 gormand
