@@ -1238,7 +1238,6 @@ groups
 goodship
 galligaskin
 groff
-gonorrhea
 gravures
 grogged
 gillnetting
@@ -2230,6 +2229,7 @@ galactase
 gastrotome
 grifts
 gefulltefish
+gonorrhea
 gonidiogenous
 glumiferous
 gehlenite
