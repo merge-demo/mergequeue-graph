@@ -5234,7 +5234,6 @@ bergamots
 befurred
 begabled
 bowla
-begad
 bedders
 boskopoid
 boarcite
@@ -13153,6 +13152,7 @@ blaspheme
 barkless
 burinist
 basileis
+begad
 bankrupts
 borowolframic
 barometrograph
