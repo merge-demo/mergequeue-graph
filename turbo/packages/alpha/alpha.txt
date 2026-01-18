@@ -5446,7 +5446,6 @@ africanoid
 affrettando
 astartian
 aeroview
-asseverative
 amalgams
 atharvan
 arrange
@@ -23732,6 +23731,7 @@ actiad
 aurited
 ankee
 aurobromide
+asseverative
 anesis
 auroch
 answer
