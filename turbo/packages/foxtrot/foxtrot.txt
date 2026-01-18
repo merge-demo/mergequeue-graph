@@ -1216,7 +1216,6 @@ forgo
 filatures
 friths
 fannon
-fascista
 fright
 fund
 fluoroscopy
@@ -9315,6 +9314,7 @@ fellowly
 futurize
 fluoresces
 frankenstein
+fascista
 franker
 funerally
 footmen
