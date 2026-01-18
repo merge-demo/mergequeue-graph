@@ -3320,6 +3320,7 @@ dahlin
 deergrass
 definitiones
 disregards
+departement
 definitions
 dormant
 dilatant
@@ -15636,7 +15637,6 @@ deponent
 doorstone
 daggers
 dissembler
-departement
 directable
 doorstop
 devotionality
