@@ -1056,7 +1056,6 @@ edification
 exfigure
 earock
 equipoised
-evaluates
 envined
 edificatory
 epimerize
@@ -5907,6 +5906,7 @@ ephemeron
 exclave
 esophagogastrostomy
 eftest
+evaluates
 ethmonasal
 enheart
 exantlation
