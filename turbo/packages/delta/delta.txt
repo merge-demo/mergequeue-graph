@@ -9790,7 +9790,6 @@ dimetria
 distends
 dromos
 dilo
-differentially
 disenamour
 detonators
 descendant
@@ -12486,6 +12485,7 @@ dexterity
 defy
 deboise
 demesne
+differentially
 desegregate
 dislimb
 dicalcium
