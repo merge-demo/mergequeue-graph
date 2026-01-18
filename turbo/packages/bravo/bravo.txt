@@ -3640,6 +3640,7 @@ bolting
 batistes
 beastly
 batlet
+bookroom
 batlike
 bifanged
 buyides
@@ -12470,7 +12471,6 @@ botryopteris
 bawhorse
 bondmen
 bondminder
-bookroom
 bawdrick
 bierbalk
 bondship
