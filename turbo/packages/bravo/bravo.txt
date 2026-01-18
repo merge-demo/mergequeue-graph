@@ -9421,7 +9421,6 @@ belabours
 biophotometer
 bullyhuff
 brattach
-bathman
 balustrades
 benedictus
 bebotch
@@ -15756,6 +15755,7 @@ brochettes
 burble
 bigfoot
 brambly
+bathman
 beamster
 biliferous
 bandmasters
