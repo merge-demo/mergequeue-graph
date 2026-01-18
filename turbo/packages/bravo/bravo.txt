@@ -12436,7 +12436,6 @@ bastardly
 bonderize
 belabored
 bloodline
-bonderman
 bankera
 binder
 boii
@@ -13081,6 +13080,7 @@ bangling
 brewers
 bowlmaker
 branders
+bonderman
 bedusk
 belfry
 boresight
