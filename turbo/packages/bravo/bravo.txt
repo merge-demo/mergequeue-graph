@@ -4602,7 +4602,6 @@ bigeminate
 bedazzle
 blared
 bylina
-banters
 bilker
 baloskionaceae
 ballbuster
@@ -9768,6 +9767,7 @@ basifugal
 buffered
 bistipulate
 bistort
+banters
 bedarkened
 blearing
 bistorts
