@@ -7441,7 +7441,6 @@ detruncation
 damneder
 dodgery
 detrusion
-detumescence
 dynasticism
 deposal
 detune
@@ -9201,6 +9200,7 @@ dentinoma
 dieing
 deprovincialize
 dagged
+detumescence
 dramshops
 derat
 dyeings
