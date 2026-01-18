@@ -11935,7 +11935,6 @@ diplostemonous
 depthing
 doorba
 discompose
-dramatizes
 downrange
 domes
 digestion
@@ -12472,6 +12471,7 @@ dishwashings
 dibromobenzene
 doglegged
 dard
+dramatizes
 drissel
 dragbolt
 disoccupying
