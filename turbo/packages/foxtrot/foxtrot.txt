@@ -299,7 +299,6 @@ fertilization
 forehall
 flanderkin
 festively
-frescoist
 forthputting
 foaming
 fats
@@ -4345,6 +4344,7 @@ finagle
 feebler
 foraramina
 fylfots
+frescoist
 froppish
 fencer
 fusibility

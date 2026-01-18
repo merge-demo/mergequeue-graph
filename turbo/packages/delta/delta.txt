@@ -15753,6 +15753,7 @@ desolator
 dormeuse
 dormice
 dormilona
+duodecane
 dormitive
 dormitories
 dissenting
@@ -16367,7 +16368,6 @@ defilade
 defrost
 downstrokes
 downtake
-duodecane
 dewret
 destructionism
 downthrown
