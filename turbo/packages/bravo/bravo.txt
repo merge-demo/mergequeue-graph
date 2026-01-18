@@ -11052,6 +11052,7 @@ between
 bloats
 brachygnathous
 byelorussian
+brachistochronous
 berlin
 blob
 bimetallic
@@ -14338,7 +14339,6 @@ bikini
 bounciness
 brahmanism
 brahmanist
-brachistochronous
 brahmanize
 benched
 breve
