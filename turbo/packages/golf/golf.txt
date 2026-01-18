@@ -2816,6 +2816,7 @@ glassite
 gifture
 grittier
 geolinguistics
+guignol
 garewaite
 grandpap
 gentrices
@@ -9296,7 +9297,6 @@ ghosted
 gigmaness
 geosyncline
 gnathalgia
-guignol
 glopnen
 gerland
 groins
