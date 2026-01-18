@@ -9727,6 +9727,7 @@ bisques
 bedpad
 betokening
 bissabol
+brinjaul
 birdmouthed
 bacchante
 byssal
@@ -16290,7 +16291,6 @@ browst
 bdellouridae
 barogram
 brickmaker
-brinjaul
 bottlehead
 browzer
 bombycid
