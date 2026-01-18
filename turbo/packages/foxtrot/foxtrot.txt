@@ -2255,7 +2255,6 @@ forgetters
 fenchene
 favn
 feluccas
-ficoid
 facaded
 florentinism
 fimble
@@ -7807,6 +7806,7 @@ fractionisation
 fungify
 favorite
 fligged
+ficoid
 focusing
 fatiguable
 fellen
