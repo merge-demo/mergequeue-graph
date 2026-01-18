@@ -12570,7 +12570,6 @@ affectability
 anubis
 anepigraphous
 algae
-amorists
 anepithymia
 awnlike
 ardennite
@@ -15694,6 +15693,7 @@ aplobasalt
 angriest
 antipacifists
 adenosarcomas
+amorists
 aaliis
 aquaphobia
 antipapistical
