@@ -2163,6 +2163,7 @@ friskest
 frontiers
 folkmoot
 falsities
+featliest
 forane
 felonwort
 flatterdock
@@ -3396,7 +3397,6 @@ flatbed
 fenbank
 fraternalist
 fender
-featliest
 forniciform
 forwards
 foreside
