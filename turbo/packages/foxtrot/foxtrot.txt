@@ -5628,6 +5628,7 @@ forbearant
 finite
 flancards
 friended
+fordone
 fuzz
 firking
 fountains
@@ -7944,7 +7945,6 @@ frize
 felicitousness
 flaunty
 fourscorth
-fordone
 forget
 funnelwise
 familiarised
