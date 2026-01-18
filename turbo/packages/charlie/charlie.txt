@@ -10072,7 +10072,6 @@ chipchap
 chessdom
 chesser
 cabinda
-chesses
 chessylite
 chessist
 chirimen
@@ -12358,6 +12357,7 @@ chromatophile
 chromatophilic
 changemaker
 chromatophilous
+chesses
 chromatophobia
 chromatophore
 carpel

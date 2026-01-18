@@ -11209,6 +11209,7 @@ enalyron
 enforcers
 electropuncture
 evangelic
+easting
 endoplastron
 esker
 evangelically
@@ -12430,7 +12431,6 @@ exigently
 exhilaratingly
 encasserole
 endite
-easting
 epifaunas
 exhortations
 elatery
