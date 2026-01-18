@@ -2188,6 +2188,7 @@ campi
 campy
 chrysology
 campier
+campward
 campiest
 campylite
 campylometer
@@ -2238,7 +2239,6 @@ camptosorus
 campus
 chromatic
 campusses
-campward
 chametz
 cerebrotomy
 camshach
