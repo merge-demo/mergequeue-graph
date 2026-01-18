@@ -898,7 +898,6 @@ forold
 faventine
 flamfew
 fulmars
-fingerlet
 furfooz
 foundationlessness
 froglike
@@ -8732,6 +8731,7 @@ frenzic
 fleshiness
 forellenstein
 forwarded
+fingerlet
 faceless
 fusilly
 fungo
