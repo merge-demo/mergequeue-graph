@@ -3642,6 +3642,7 @@ entangling
 extravert
 encolpion
 exomion
+enigmatist
 excogitates
 engarment
 emaciated
@@ -5947,7 +5948,6 @@ eluvial
 exquisite
 etourderie
 ephphatha
-enigmatist
 enigmatographer
 emotionality
 exempts
