@@ -10666,6 +10666,7 @@ bleating
 bibliognostic
 bluejoint
 bejesus
+byword
 bipunctual
 biotics
 brainwashes
@@ -14264,7 +14265,6 @@ biographize
 brads
 brainsickness
 butyne
-byword
 boarding
 buglosses
 bailpiece
