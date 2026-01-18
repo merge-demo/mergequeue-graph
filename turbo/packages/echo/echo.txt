@@ -6163,6 +6163,7 @@ entocondyloid
 elision
 ennoblement
 ennoblements
+exanimate
 euryhaline
 ennobling
 embarren
@@ -14159,7 +14160,6 @@ eof
 examinations
 ecdysiast
 ethmopalatine
-exanimate
 extubation
 engouee
 encinctured
