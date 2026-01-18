@@ -11240,7 +11240,6 @@ flit
 flakeless
 famble
 featherwork
-funnels
 fourer
 funny
 fundamentality
@@ -11722,6 +11721,7 @@ fratority
 futurologist
 funebrous
 futurologists
+funnels
 filibustered
 flatland
 floodlilit
