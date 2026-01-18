@@ -10150,6 +10150,7 @@ diploids
 daddle
 demihigh
 dingeing
+disorganic
 dissociated
 dorsoventrally
 duraquara
@@ -17212,7 +17213,6 @@ diastrophism
 direst
 deermeat
 decumbence
-disorganic
 demitasse
 dustpans
 driveled
