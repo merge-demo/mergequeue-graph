@@ -4909,6 +4909,7 @@ defecter
 diacrisis
 dicrostonyx
 defailment
+dolichocercic
 displeased
 duranta
 deriv
@@ -16441,7 +16442,6 @@ draughthouse
 dichotomousness
 disgregated
 dates
-dolichocercic
 decidement
 derivately
 defogger
