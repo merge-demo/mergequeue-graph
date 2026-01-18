@@ -1715,7 +1715,6 @@ accurst
 authorisable
 actinotherapy
 animadvert
-accusants
 advowsons
 aerical
 accusatively
@@ -11120,6 +11119,7 @@ amper
 amatory
 assientist
 adjacency
+accusants
 ascots
 analects
 achromatized
