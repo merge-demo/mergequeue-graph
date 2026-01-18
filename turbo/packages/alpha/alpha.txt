@@ -14139,7 +14139,6 @@ antennula
 agapae
 antiegoistically
 antenodal
-angelic
 antenumber
 adrostal
 antenuptial
@@ -18416,6 +18415,7 @@ aranzada
 acceding
 asoak
 ankylotia
+angelic
 arapahos
 azorian
 adversant
