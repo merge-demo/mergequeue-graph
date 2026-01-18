@@ -13403,6 +13403,7 @@ cydonium
 cie
 cierge
 cierzo
+chamberletted
 cainogenesis
 certificator
 comeuppance
@@ -23124,7 +23125,6 @@ camorrista
 constat
 caretaken
 chuddahs
-chamberletted
 constate
 curettement
 confers
