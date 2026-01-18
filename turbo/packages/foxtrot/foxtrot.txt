@@ -1235,7 +1235,6 @@ fasherie
 fusilier
 fashing
 fleeted
-factorylike
 fritt
 fiddley
 forediscern
@@ -7267,6 +7266,7 @@ filefish
 frache
 fenestral
 fagald
+factorylike
 finchbacked
 forsaking
 fishyard

@@ -1910,7 +1910,6 @@ garibaldi
 gnomesque
 gear
 guideship
-galactosuria
 goalkeepers
 gushy
 goriness
@@ -3137,6 +3136,7 @@ gordonia
 gelasian
 germanophobe
 ghostship
+galactosuria
 gnomon
 gutturalizing
 gramoches
