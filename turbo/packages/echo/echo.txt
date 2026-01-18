@@ -5066,7 +5066,6 @@ ectozoan
 epitomical
 emuls
 encysted
-electrosensitive
 emanatistic
 epilogic
 estray
@@ -5666,6 +5665,7 @@ erotism
 entrough
 expectorants
 eustacies
+electrosensitive
 emendator
 eflagelliferous
 eppie
