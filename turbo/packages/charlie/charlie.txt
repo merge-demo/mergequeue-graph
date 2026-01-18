@@ -5167,7 +5167,6 @@ cackle
 cacogastric
 casemaking
 casemates
-casemented
 casements
 copolar
 caseolysis
@@ -12998,6 +12997,7 @@ cyanophyceous
 crunchingness
 cryogens
 curcumas
+casemented
 craniates
 curies
 cyanophile
