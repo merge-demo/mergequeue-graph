@@ -157,7 +157,6 @@ abaton
 asperggilli
 anhinga
 alloyed
-apar
 abattised
 antiracism
 azurites
@@ -1389,6 +1388,7 @@ arabesquerie
 anglican
 anticompetitive
 amadavat
+apar
 acceptors
 antifreezes
 acervuline
