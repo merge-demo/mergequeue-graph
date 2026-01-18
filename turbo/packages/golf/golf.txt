@@ -2316,7 +2316,6 @@ gelatinizer
 gradates
 giornatate
 gadbee
-gavials
 guaiacols
 goloe
 gibbartas
@@ -3277,6 +3276,7 @@ gelotoscopy
 glent
 grabbable
 glosseme
+gavials
 gula
 gabback
 geneticists
