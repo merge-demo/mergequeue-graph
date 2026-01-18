@@ -2787,6 +2787,7 @@ elenchic
 elves
 elenchize
 ecthlipsis
+ecdemite
 eath
 electrocutes
 effeminately
@@ -6938,7 +6939,6 @@ entre
 elwood
 entreasuring
 enforcingly
-ecdemite
 easily
 entreatful
 eclipsing

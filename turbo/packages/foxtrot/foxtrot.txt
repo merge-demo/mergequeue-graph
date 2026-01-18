@@ -8644,7 +8644,6 @@ ferroprint
 forth
 freesia
 flatfooted
-flaunters
 fryers
 funiculate
 furicane
@@ -10744,6 +10743,7 @@ frustum
 fb
 frutage
 faithlessly
+flaunters
 footraces
 folious
 firedragon
