@@ -3850,6 +3850,7 @@ eschatocol
 electroculture
 exotheca
 emigrating
+extrajudicial
 enflagellate
 epidotic
 enfeebled
@@ -8898,7 +8899,6 @@ eyers
 ergostat
 eddie
 entelam
-extrajudicial
 experimentally
 ergoted
 explosible
