@@ -10033,7 +10033,6 @@ expecting
 emergent
 encastered
 egrets
-ethambutol
 ethmovomerine
 entamoebiasis
 epopoeist
@@ -11621,6 +11620,7 @@ exports
 enddamaged
 exactable
 exactas
+ethambutol
 ergastoplasm
 elaterite
 epileptogenic
