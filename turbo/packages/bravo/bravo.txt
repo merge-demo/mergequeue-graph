@@ -4927,7 +4927,6 @@ bonnne
 brevets
 beefburgers
 backchat
-beefeater
 beefeaters
 baclin
 barkentines
@@ -17792,6 +17791,7 @@ baroneted
 blinkered
 backing
 bounce
+beefeater
 bejabers
 bearnaise
 bandeng
