@@ -5877,7 +5877,6 @@ flogs
 fermis
 foeticidal
 fluviovolcanic
-flybane
 foveola
 freyr
 factitude
@@ -11682,6 +11681,7 @@ fusarial
 forelands
 finikin
 flare
+flybane
 flyleaves
 fagaceous
 faced
