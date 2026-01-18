@@ -3109,7 +3109,6 @@ agrionia
 antifeudal
 actinost
 auctioned
-actinostereoscopy
 azthionium
 avowableness
 arthrodia
@@ -3154,6 +3153,7 @@ abrazitic
 alkalifiable
 acclimatation
 aloelike
+actinostereoscopy
 auchenia
 actipylea
 activate
