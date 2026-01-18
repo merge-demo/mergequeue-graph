@@ -2114,7 +2114,6 @@ guarabu
 gazeboes
 guestship
 gen
-glumiferous
 gorkun
 galla
 gaudete
@@ -2232,6 +2231,7 @@ gastrotome
 grifts
 gefulltefish
 gonidiogenous
+glumiferous
 gehlenite
 goblet
 gratuity
