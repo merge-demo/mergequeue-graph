@@ -682,6 +682,7 @@ bombo
 bungey
 biannual
 begall
+buccogingival
 bronchiolitis
 bathyesthesia
 baculine
@@ -16634,7 +16635,6 @@ butte
 bavius
 booty
 bachelors
-buccogingival
 boother
 brember
 balza
