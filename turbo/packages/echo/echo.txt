@@ -5362,6 +5362,7 @@ eophyte
 encashment
 encaptive
 eccentrometer
+exceptive
 endothermal
 endothermy
 erthling
@@ -8060,7 +8061,6 @@ explicit
 etherize
 essoign
 emotional
-exceptive
 empowerment
 equicrural
 electrooculogram
