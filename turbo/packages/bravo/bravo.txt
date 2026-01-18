@@ -11908,7 +11908,6 @@ browner
 bilio
 bellowers
 betutored
-bewrought
 bloodshedder
 basinasial
 baggily
@@ -18014,6 +18013,7 @@ barrelhead
 barbotte
 babbitt
 busk
+bewrought
 barlock
 bicornuous
 bromise
