@@ -5615,6 +5615,7 @@ afunctional
 autocystoplasty
 anticorrosion
 afwillite
+ammophilous
 afzelia
 apsychia
 adjustable
@@ -11559,7 +11560,6 @@ appositions
 adenophyllous
 aulas
 anabolism
-ammophilous
 accinging
 amethysts
 albuminise
