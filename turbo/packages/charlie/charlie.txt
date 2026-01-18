@@ -12680,7 +12680,6 @@ countervail
 crape
 chudic
 charnels
-chuet
 chueta
 consubstantiality
 compellation
@@ -30029,6 +30028,7 @@ complaintive
 crottle
 crouch
 crouchant
+chuet
 chilognathan
 collare
 crouchback
