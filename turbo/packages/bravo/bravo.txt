@@ -6057,7 +6057,6 @@ butyral
 botaniser
 bemurmure
 bemurmuring
-bittier
 befooled
 bemuses
 bol
@@ -14461,6 +14460,7 @@ betrayals
 breamed
 biometrist
 becivet
+bittier
 braireau
 broadhearted
 braises
