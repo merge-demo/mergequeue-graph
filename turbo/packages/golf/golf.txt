@@ -5082,6 +5082,7 @@ ginnel
 gourmander
 geyan
 glycocholic
+granitize
 glaga
 gasless
 gashing
@@ -5781,7 +5782,6 @@ globoid
 gingivitis
 geobotanically
 garblers
-granitize
 gosling
 gratters
 gigamaree

@@ -11137,6 +11137,7 @@ amphanthia
 amphanthium
 ampherotokous
 adjutancies
+amendableness
 antirationality
 araeometer
 amphetamines
@@ -11319,7 +11320,6 @@ aglycons
 anilin
 aniliid
 amphithecia
-amendableness
 almacen
 amphithecium
 abjures
