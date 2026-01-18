@@ -7783,7 +7783,6 @@ anglicism
 aldrovanda
 achromaturia
 adequative
-alchemically
 aflow
 acrylyl
 aortosclerosis
@@ -16529,6 +16528,7 @@ auriscope
 aortal
 aortarctia
 aortas
+alchemically
 avogadro
 aegagri
 antheral
