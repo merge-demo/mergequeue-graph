@@ -4364,7 +4364,6 @@ enations
 euripos
 eggheadedness
 embar
-egotize
 eruptively
 electromechanical
 encadre
@@ -10130,6 +10129,7 @@ errs
 expositress
 enumerators
 eurhodine
+egotize
 effluent
 expressionful
 equivalences
