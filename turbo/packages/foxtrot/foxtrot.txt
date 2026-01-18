@@ -4302,7 +4302,6 @@ fet
 ferd
 flamethrower
 funditor
-fructiferousness
 fretworked
 foddering
 fauces
@@ -6291,6 +6290,7 @@ falerian
 flumes
 fluminous
 fallage
+fructiferousness
 freak
 floricultural
 fluxibility
