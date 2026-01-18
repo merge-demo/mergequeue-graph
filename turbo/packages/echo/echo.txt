@@ -6031,6 +6031,7 @@ edgemaker
 ecumenopolis
 escroll
 eolith
+eryngos
 exhusband
 elastin
 elasmobranchiate
@@ -8944,7 +8945,6 @@ ephebes
 eclairissement
 ectotherm
 entrepreneurial
-eryngos
 elasmotherium
 edgers
 europeanly
