@@ -3006,6 +3006,7 @@ faintheartedness
 forma
 fiars
 fiascos
+fetticus
 ferricyanogen
 ferrotype
 fulgurantly
@@ -7874,7 +7875,6 @@ feuilletonistic
 fasten
 fork
 floes
-fetticus
 forewarned
 feiseanna
 featherworker
