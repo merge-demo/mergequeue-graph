@@ -727,7 +727,6 @@ anodendron
 aver
 alternize
 anglicized
-aptote
 animine
 antivaccination
 angaralite
@@ -12123,6 +12122,7 @@ appels
 anathematizer
 angularly
 antihumanist
+aptote
 anatheme
 anatidae
 anatifer
