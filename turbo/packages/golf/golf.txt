@@ -2426,6 +2426,7 @@ gesticulation
 goas
 gype
 grograms
+ghostwritten
 glutch
 gekkones
 gimels
@@ -8316,7 +8317,6 @@ glucuronidase
 giansar
 glaciated
 gynosporangium
-ghostwritten
 geomagnetics
 gentes
 gastrojejunostomies
