@@ -3279,6 +3279,7 @@ fungus
 finesser
 forevermore
 foreward
+flaith
 flyting
 flasket
 foreconscious
@@ -9057,7 +9058,6 @@ flourisher
 firmance
 furbishable
 foxly
-flaith
 foldboater
 foreintend
 floodable
