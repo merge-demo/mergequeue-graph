@@ -3842,7 +3842,6 @@ doer
 deirid
 deis
 deisidaimonia
-disquieting
 deism
 decentred
 deistical
@@ -6400,6 +6399,7 @@ daniglacial
 doxology
 derrises
 deruinate
+disquieting
 derust
 decameronic
 dispathy
