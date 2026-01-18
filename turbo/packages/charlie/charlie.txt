@@ -629,6 +629,7 @@ costume
 crimpers
 circumscript
 coralline
+cavefish
 caenostyly
 caesalpinia
 caenostylic
@@ -6480,7 +6481,6 @@ compares
 crankly
 canell
 cupholder
-cavefish
 cavey
 chromoscope
 cavekeeper
