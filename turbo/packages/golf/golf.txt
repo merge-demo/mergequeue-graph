@@ -2274,7 +2274,6 @@ glimpses
 granulocytopoiesis
 gunkholed
 geitonogamy
-gonostyle
 geomoroi
 grange
 granulosa
@@ -2483,6 +2482,7 @@ gotch
 glunches
 gastroalbuminorrhea
 glibnesses
+gonostyle
 gerontoxon
 gubbin
 gigacycle
