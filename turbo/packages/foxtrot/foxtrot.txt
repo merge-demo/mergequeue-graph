@@ -1001,6 +1001,7 @@ feats
 faretta
 financialist
 foresaid
+fimbriation
 foldable
 fervid
 fishing
@@ -2797,7 +2798,6 @@ ftncmd
 foxtailed
 fotch
 filao
-fimbriation
 frazzles
 filace
 fixations
