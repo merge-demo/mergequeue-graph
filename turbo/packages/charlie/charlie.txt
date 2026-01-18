@@ -6740,6 +6740,7 @@ celebs
 celemin
 coilyear
 celemines
+consignificator
 celery
 cimborio
 cypres
@@ -22936,7 +22937,6 @@ chob
 consignificant
 consignification
 consignificative
-consignificator
 cylindroidal
 causse
 consigning
