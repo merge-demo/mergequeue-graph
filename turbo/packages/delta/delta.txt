@@ -1795,7 +1795,6 @@ debarment
 debarrance
 duryl
 debarring
-drummock
 delectible
 dispiteous
 detubation
@@ -4340,6 +4339,7 @@ demarcation
 demarcatordemarcators
 demarchy
 dinical
+drummock
 dextrotartaric
 demaree
 detenu
