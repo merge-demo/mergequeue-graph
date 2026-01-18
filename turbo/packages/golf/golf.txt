@@ -3953,7 +3953,6 @@ gravic
 gloomier
 gorgedly
 gastrology
-gnomological
 guatuso
 gearksutite
 gonepoietic
@@ -7278,6 +7277,7 @@ gundeck
 gapy
 gleaming
 gwerziou
+gnomological
 gavelman
 glassblowing
 glossotomies
