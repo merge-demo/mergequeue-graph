@@ -2255,7 +2255,6 @@ funambulator
 fanout
 feudalisation
 frolics
-filigerous
 fayalite
 funnymen
 fathering
@@ -6323,6 +6322,7 @@ fasciculately
 flunkyize
 forefingers
 ferments
+filigerous
 fumigatorium
 fpm
 frolicness
