@@ -4008,7 +4008,6 @@ akolouthia
 anergy
 adminicular
 accounted
-adminiculation
 attical
 accessioning
 acetaldehyde
@@ -14581,6 +14580,7 @@ anthropophagist
 accoutred
 anthropophagite
 amoebous
+adminiculation
 allophonic
 auric
 amandine
