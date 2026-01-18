@@ -13958,7 +13958,6 @@ cionorrhaphia
 conciliates
 cognitum
 cions
-cioppinos
 cipango
 cyperaceae
 chiliarch
@@ -20786,6 +20785,7 @@ cricketings
 coalyard
 conite
 complimental
+cioppinos
 complimentally
 complimentarily
 complimentariness
