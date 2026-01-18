@@ -4621,7 +4621,6 @@ gyrophoraceous
 glance
 gringophobia
 ghafir
-geobiology
 gematrical
 galli
 getmjlkost
@@ -7658,6 +7657,7 @@ glovey
 gradient
 galey
 greybeard
+geobiology
 goatishly
 grease
 general
