@@ -5481,6 +5481,7 @@ deutomala
 department
 devilism
 discontiguousness
+descrial
 departmental
 disrobers
 dozinesses
@@ -12655,7 +12656,6 @@ delegant
 dertrotheca
 defaultant
 descendentalist
-descrial
 dodgeries
 duplicidentate
 dechemicalization

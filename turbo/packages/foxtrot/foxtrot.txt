@@ -3641,6 +3641,7 @@ funnelling
 fertilised
 foreglow
 finedrawing
+faltering
 fluxweed
 federalize
 filings
@@ -8196,7 +8197,6 @@ ferrated
 forficulidae
 forfoughten
 finestra
-faltering
 forgat
 flavines
 footwork
