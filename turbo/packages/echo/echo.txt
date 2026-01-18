@@ -2718,7 +2718,6 @@ envoi
 eleemosynary
 emetic
 engorge
-egos
 enditing
 erythrocyte
 evangelary
@@ -2858,6 +2857,7 @@ encephalalgia
 euhemeristic
 ensorcel
 endew
+egos
 empark
 eleutherozoan
 encyrtid
