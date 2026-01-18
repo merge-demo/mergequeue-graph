@@ -7755,7 +7755,6 @@ bullaries
 bheestie
 beblot
 bespangles
-britten
 bravoite
 buxerry
 bellyer
@@ -12736,6 +12735,7 @@ beheld
 biometrician
 bunyoro
 bookmakers
+britten
 bidarka
 begarie
 baguet
