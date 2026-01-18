@@ -2580,6 +2580,7 @@ gazetteerage
 gomerel
 giveaway
 gibbing
+glires
 guetare
 generative
 glabbella
@@ -9076,7 +9077,6 @@ glaucomys
 greund
 glumal
 girdling
-glires
 gladiatorism
 goatherds
 glads
