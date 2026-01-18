@@ -6797,6 +6797,7 @@ badian
 bookery
 bersagliere
 brittles
+borism
 bin
 boeotia
 berserks
@@ -15828,7 +15829,6 @@ balsamer
 bemires
 bimaculated
 biocentric
-borism
 bargeer
 brainlessness
 brokenheartedly
