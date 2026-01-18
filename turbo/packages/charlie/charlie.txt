@@ -24204,7 +24204,6 @@ carboxypeptidase
 convoked
 centigram
 convolutedly
-convoluting
 convolution
 convolutional
 convolutions
@@ -26871,6 +26870,7 @@ choirgirl
 copperization
 counterideal
 circumambience
+convoluting
 counterimagination
 cuitled
 counterimpulse
