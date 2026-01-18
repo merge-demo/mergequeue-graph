@@ -415,6 +415,7 @@ factful
 foredesk
 friendliwise
 festive
+fluxional
 flints
 fogramity
 fibrotic
@@ -10423,7 +10424,6 @@ foreadvice
 frontotemporal
 forestian
 frontsman
-fluxional
 frontspieces
 fleet
 fwd
