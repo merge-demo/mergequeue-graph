@@ -3045,6 +3045,7 @@ burgesses
 bartizans
 bourkha
 beigel
+balkingly
 belee
 beckons
 brimmers
@@ -13656,7 +13657,6 @@ bloodsucker
 bande
 binocs
 blendcorn
-balkingly
 bielenite
 boys
 benzdioxdiazine
