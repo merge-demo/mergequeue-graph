@@ -3581,7 +3581,6 @@ felinity
 floorway
 files
 fiddle
-filesniff
 freijo
 fazing
 foreroom
@@ -7659,6 +7658,7 @@ furriness
 forspeak
 favourers
 forehoofs
+filesniff
 fewter
 forehooves
 forpit

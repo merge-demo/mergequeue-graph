@@ -7173,7 +7173,6 @@ gospoda
 gillotage
 granuloma
 gonomery
-geniuses
 geelbeck
 grassier
 galactophorous
@@ -7687,6 +7686,7 @@ geopolitic
 girning
 geolatry
 gunpowderous
+geniuses
 globus
 geomyid
 goldworker
