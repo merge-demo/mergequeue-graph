@@ -2315,7 +2315,6 @@ forbysen
 fens
 fluctuates
 furrowless
-frangipane
 fritter
 fensive
 flippest
@@ -3533,6 +3532,7 @@ fnese
 filaricidal
 filariids
 forechoice
+frangipane
 flagellative
 foody
 funding
