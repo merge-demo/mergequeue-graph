@@ -1374,6 +1374,7 @@ earl
 electrodialyses
 electrometrically
 expandedness
+exocarps
 emetins
 epidote
 exterous
@@ -9697,7 +9698,6 @@ extraorganismal
 exceptional
 empathize
 embacle
-exocarps
 exhibitional
 european
 essart
