@@ -2079,6 +2079,7 @@ conli
 campaign
 clotheshorses
 campaigners
+cowinner
 campaigns
 colostric
 campana
@@ -27676,7 +27677,6 @@ cowiest
 carnage
 cowing
 carcinosarcomata
-cowinner
 cowish
 copsole
 circumdate
