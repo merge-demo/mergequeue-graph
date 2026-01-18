@@ -3998,7 +3998,6 @@ gynostegium
 gabendum
 genesic
 ginorite
-giantish
 glum
 gurney
 grisettes
@@ -4212,6 +4211,7 @@ gubbo
 gnu
 gynecocracies
 goby
+giantish
 gynecocrat
 gunshots
 gleamed
