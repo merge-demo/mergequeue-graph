@@ -7348,7 +7348,6 @@ bannet
 bigly
 bugi
 bethesda
-beneplacit
 biangular
 boatels
 babirussa
@@ -11545,6 +11544,7 @@ blunket
 brutalism
 blunnen
 blunt
+beneplacit
 befuddlements
 blunthearted
 bonaire
