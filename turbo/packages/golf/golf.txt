@@ -7688,7 +7688,6 @@ gummosis
 geopolitic
 girning
 geolatry
-galvanized
 gunpowderous
 globus
 geomyid
@@ -8198,6 +8197,7 @@ graphiological
 gemotes
 gynaecocrat
 gelders
+galvanized
 gastroplasty
 getic
 gansel
