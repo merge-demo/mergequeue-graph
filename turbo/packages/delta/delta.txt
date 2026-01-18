@@ -12780,7 +12780,6 @@ diaschisma
 discloud
 dislodgment
 docimasy
-doily
 disloyal
 disencourage
 determents
@@ -15816,6 +15815,7 @@ dorsiflex
 does
 dorsiflexion
 deuteron
+doily
 detects
 defreeze
 diacetic
