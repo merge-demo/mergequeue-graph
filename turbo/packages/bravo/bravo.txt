@@ -8584,7 +8584,6 @@ billety
 billets
 bucare
 brainlike
-bassaris
 berylline
 brauneberger
 brachysm
@@ -13534,6 +13533,7 @@ bibliophile
 bra
 burdening
 baling
+bassaris
 bootleg
 binucleolate
 ballutes
