@@ -6646,6 +6646,7 @@ dollmaker
 droplight
 decadianome
 drawarm
+datum
 dipneedle
 danders
 detonator
@@ -16444,7 +16445,6 @@ dwaible
 delirate
 diachyma
 drabbler
-datum
 difflugia
 downtimes
 dunnesses
