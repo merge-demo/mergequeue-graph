@@ -5998,6 +5998,7 @@ formulized
 flabbiness
 filarious
 fresco
+fierce
 fermorite
 flightiness
 finger
@@ -11013,7 +11014,6 @@ frivolist
 fossilizes
 fillets
 fumigated
-fierce
 flutidae
 femororotulian
 forecastlemen

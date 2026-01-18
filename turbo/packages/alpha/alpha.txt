@@ -4560,6 +4560,7 @@ advices
 atomatic
 antas
 advisableness
+altiscope
 amidon
 anicca
 adiaphorism
@@ -14785,7 +14786,6 @@ apodous
 anticatarrhal
 afernan
 audiometry
-altiscope
 anticaustic
 affreighter
 anticensorial
