@@ -4547,6 +4547,7 @@ glim
 goobers
 germane
 gagger
+gynobaseous
 grinter
 gladiole
 guttiferales
@@ -9360,7 +9361,6 @@ grannyknot
 garnishry
 gloved
 galenobismutite
-gynobaseous
 glaymore
 gorgonize
 gelatinized
