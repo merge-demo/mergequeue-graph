@@ -2362,6 +2362,7 @@ canap
 consummator
 cabriole
 cubitocutaneous
+cytostromatic
 celtologist
 compliments
 canapina
@@ -14898,7 +14899,6 @@ creaks
 chupak
 cytostomal
 cordwood
-cytostromatic
 compromised
 cytotactic
 cerebroganglion
