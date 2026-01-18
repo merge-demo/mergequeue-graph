@@ -445,7 +445,6 @@ dairous
 dais
 defog
 disinthrall
-disposal
 dibs
 drenchers
 dimyaric
@@ -18395,6 +18394,7 @@ damsons
 deepfreezing
 dorrs
 divulgers
+disposal
 detracting
 duogravure
 decelerations
