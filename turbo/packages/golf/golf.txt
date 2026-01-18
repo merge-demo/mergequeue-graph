@@ -5579,6 +5579,7 @@ goller
 giantesque
 grithbreach
 grime
+gitano
 girdlecake
 grossular
 grabman
@@ -9775,7 +9776,6 @@ galeate
 grutch
 galeche
 gumfield
-gitano
 grylle
 gonothecal
 gobstick
