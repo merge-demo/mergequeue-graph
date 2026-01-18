@@ -4736,6 +4736,7 @@ gaullist
 gotta
 gomeril
 galleta
+gunjah
 genarch
 glar
 gypsy
@@ -10527,7 +10528,6 @@ gudesakes
 gentamicin
 gunge
 germinability
-gunjah
 gaucheries
 genisaro
 glyceraldehyde

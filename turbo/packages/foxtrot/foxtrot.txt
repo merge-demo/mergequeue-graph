@@ -1266,7 +1266,6 @@ fassalite
 fastbacks
 frigor
 flatdom
-faradism
 futteret
 fama
 favella
@@ -9332,6 +9331,7 @@ flurriment
 florilegium
 frying
 formularisation
+faradism
 foretimed
 fritillaria
 federator
