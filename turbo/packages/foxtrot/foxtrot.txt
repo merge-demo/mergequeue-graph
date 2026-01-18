@@ -6973,6 +6973,7 @@ frayings
 fondled
 fondles
 fainter
+formulize
 formalazine
 fumant
 flannels
@@ -8386,7 +8387,6 @@ foistiness
 flatfootedly
 freshmanic
 fairyship
-formulize
 fierier
 flushers
 fatheadedly
