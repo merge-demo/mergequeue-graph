@@ -1314,6 +1314,7 @@ balanorrhagia
 balanta
 bescorn
 bottine
+benignities
 balantidic
 balaos
 baroquely
@@ -10516,7 +10517,6 @@ broke
 blastomyces
 bainie
 blastomycete
-benignities
 beadsmen
 buchonite
 blastoneuropore
