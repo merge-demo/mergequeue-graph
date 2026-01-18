@@ -743,7 +743,6 @@ abrahamidae
 abrahamite
 alazor
 aedicula
-alpiniaceae
 abramis
 apeling
 abrase
@@ -3935,6 +3934,7 @@ adjunctively
 adjunctly
 analogia
 admissory
+alpiniaceae
 anteporch
 adjured
 amygdalotome

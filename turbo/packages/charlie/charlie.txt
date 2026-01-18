@@ -7800,7 +7800,6 @@ coruscation
 coronatorial
 cervicapra
 cervicectomy
-cyanided
 caenogenesis
 cichloid
 cerviciplex
@@ -15516,6 +15515,7 @@ clasped
 cinevariety
 culicidal
 cephala
+cyanided
 clasper
 claspers
 cestoidea
