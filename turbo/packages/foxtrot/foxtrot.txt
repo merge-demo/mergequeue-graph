@@ -2357,7 +2357,6 @@ friarly
 funerary
 floorward
 favel
-femineity
 frightener
 futchell
 fanhouse
@@ -6407,6 +6406,7 @@ freshish
 farmed
 facsimileing
 foppish
+femineity
 farset
 fluorobenzene
 fructifies
