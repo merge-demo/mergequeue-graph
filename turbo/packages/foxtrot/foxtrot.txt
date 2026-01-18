@@ -2253,7 +2253,6 @@ fathering
 fsiest
 fustee
 footfalls
-forgetters
 fenchene
 favn
 feluccas
@@ -7795,6 +7794,7 @@ finns
 filterman
 furiousity
 flittered
+forgetters
 fruitwood
 falcial
 fidgetiness
