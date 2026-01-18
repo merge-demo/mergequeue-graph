@@ -4788,7 +4788,6 @@ fracticipita
 faunus
 fishberries
 flinthead
-franchisers
 fleay
 fainer
 foil
@@ -8727,6 +8726,7 @@ flogged
 followership
 forester
 foeless
+franchisers
 fossule
 filthify
 fiddlers
