@@ -15736,6 +15736,7 @@ broadsword
 bamangwato
 bromethyl
 broadenings
+beno
 betorcin
 bolder
 blithesomeness
@@ -15883,7 +15884,6 @@ bluntly
 butyls
 bindingly
 bucolic
-beno
 battered
 bloodstainedness
 babiism
