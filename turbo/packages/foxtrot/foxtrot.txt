@@ -3891,6 +3891,7 @@ fumigators
 fusinist
 fluoridated
 fullage
+folios
 frostproof
 frolicsomely
 fustianize
@@ -6831,7 +6832,6 @@ fraudulency
 freemartin
 foreporch
 fonnish
-folios
 faradizes
 fierasferidae
 foliose
