@@ -109,7 +109,6 @@ eaves
 excrementally
 exsculptate
 engobe
-egotistically
 eartab
 eparch
 euphonised
@@ -10743,6 +10742,7 @@ enclaret
 endorsee
 extort
 ephemeran
+egotistically
 eigenvector
 emer
 endogalvanism

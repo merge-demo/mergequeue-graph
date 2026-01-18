@@ -599,7 +599,6 @@ dehydroretinol
 develin
 drawboy
 devotionalism
-demifusion
 designfully
 dextrose
 dvigu
@@ -16902,6 +16901,7 @@ distortable
 desilvered
 dichromate
 damewort
+demifusion
 displacing
 deemphasis
 dreamiest
