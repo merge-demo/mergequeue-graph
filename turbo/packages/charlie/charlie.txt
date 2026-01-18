@@ -27146,7 +27146,6 @@ countertally
 countertaste
 camarine
 countertechnicality
-countertendency
 cavalry
 carcasses
 cataspilite
@@ -28755,6 +28754,7 @@ civetone
 crepon
 crept
 canters
+countertendency
 circaetus
 compendiary
 cavitate
