@@ -188,6 +188,7 @@ goaled
 gabarit
 gammacism
 groschen
+greenheaded
 gelled
 garred
 going
@@ -2912,7 +2913,6 @@ glitter
 gabbled
 geocerite
 glove
-greenheaded
 glabreity
 gulley
 growlier
