@@ -1745,7 +1745,6 @@ deathtime
 diverticular
 dhotis
 diphenan
-dividend
 diphyllobothrium
 debriefs
 devocalization
@@ -13250,6 +13249,7 @@ disponent
 doges
 downloadable
 disserved
+dividend
 disponge
 diacetate
 digynia
