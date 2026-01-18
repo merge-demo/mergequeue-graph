@@ -19862,7 +19862,6 @@ agnomen
 allotropes
 acapsular
 adeptest
-acquereur
 armies
 again
 abthainry
@@ -24090,6 +24089,7 @@ anabaena
 alphabetical
 adventurously
 accretive
+acquereur
 among
 atomizers
 antiblack
