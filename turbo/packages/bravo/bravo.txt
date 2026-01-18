@@ -6235,6 +6235,7 @@ benisons
 bombay
 benitier
 baguio
+bipinnatifid
 benjamin
 benjaminite
 bound
@@ -12428,7 +12429,6 @@ bareboats
 bureaux
 banisterine
 bond
-bipinnatifid
 bless
 bondar
 bockerel
