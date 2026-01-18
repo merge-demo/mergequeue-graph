@@ -5216,7 +5216,6 @@ gourding
 guardianships
 girouette
 gleys
-gynecopathic
 grindery
 grissons
 gambian
@@ -9395,6 +9394,7 @@ gelatose
 grandeeism
 geryonidae
 galloptious
+gynecopathic
 glycocholate
 gunneraceae
 gamble
