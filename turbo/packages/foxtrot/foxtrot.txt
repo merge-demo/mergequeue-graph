@@ -3239,7 +3239,6 @@ foppery
 flaught
 filbert
 freit
-furciferine
 fifteenthly
 fireburn
 fomenting
@@ -5225,6 +5224,7 @@ flavourous
 flockier
 fideicommissa
 foretrysail
+furciferine
 frostbird
 fockle
 fabricable
