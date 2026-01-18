@@ -729,7 +729,6 @@ gersdorffite
 grewsome
 gentianic
 gor
-gentlepeople
 galactotherapy
 gambling
 gugglet
@@ -7305,6 +7304,7 @@ grahams
 gnocchi
 griddlecake
 goyetian
+gentlepeople
 gambled
 ganglion
 gyrostatic
