@@ -9624,7 +9624,6 @@ dihydroxyacetone
 defaceable
 dihydroxysuccinic
 dulse
-digitise
 dalasis
 decretals
 disasterly
@@ -11173,6 +11172,7 @@ disproportions
 demultiplexed
 dodecagon
 deprecatoriness
+digitise
 dammaret
 disbelievers
 diphosphid
