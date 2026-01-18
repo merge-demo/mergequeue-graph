@@ -4953,7 +4953,6 @@ bairnliness
 beneficial
 badchan
 bouncing
-bitriseptate
 braggite
 boatel
 bandy
@@ -16607,6 +16606,7 @@ bubinga
 bougainvillea
 bacillary
 bubonocele
+bitriseptate
 bewitchful
 bracings
 buccaneer
