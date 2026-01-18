@@ -732,7 +732,6 @@ exuvium
 ecotype
 ecotipically
 ecotypically
-ecotonal
 enclaved
 ecaudate
 epizootiologic
@@ -13534,6 +13533,7 @@ eyass
 extrafloral
 exscriptural
 execrating
+ecotonal
 extemporarily
 exscutellate
 extravagancy
