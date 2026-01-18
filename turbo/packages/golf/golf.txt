@@ -7331,7 +7331,6 @@ grainless
 gossamered
 galega
 gossamers
-galloglass
 geochronometric
 glareole
 ghee
@@ -8094,6 +8093,7 @@ grassplat
 gallet
 graustark
 grottowork
+galloglass
 grindelia
 gastrostomize
 gristmill
