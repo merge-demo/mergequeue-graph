@@ -1994,6 +1994,7 @@ elabrate
 endocrinotherapy
 epigaea
 erythrosine
+erminois
 epitrophy
 encurl
 exophasia
@@ -8084,7 +8085,6 @@ elegant
 epipterous
 epipubis
 expostulations
-erminois
 esterifying
 electrophotomicrography
 epicoelia
