@@ -2912,6 +2912,7 @@ flagonless
 flyboy
 fingian
 farinha
+figaro
 furazane
 frustums
 fencing
@@ -4656,7 +4657,6 @@ furtherer
 flamboyancy
 fizgig
 fizgigs
-figaro
 feta
 fairyish
 forsake
