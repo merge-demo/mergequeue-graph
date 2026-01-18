@@ -1541,6 +1541,7 @@ guara
 graecomania
 gazump
 grimgribber
+glossiness
 gastrologist
 gasper
 grounder
@@ -3166,7 +3167,6 @@ grangerism
 graip
 grannam
 gaddis
-glossiness
 glottological
 gorgerin
 geotilla
