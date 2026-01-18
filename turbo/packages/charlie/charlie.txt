@@ -11374,6 +11374,7 @@ chloroprene
 creature
 chloroquine
 coronas
+confronte
 camagon
 cyclamates
 counterpillar
@@ -25519,7 +25520,6 @@ coronets
 coronetted
 crushability
 coronettee
-confronte
 coronetty
 coronagraphic
 coronilla
