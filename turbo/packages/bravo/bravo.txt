@@ -7015,7 +7015,6 @@ bronzite
 bespouses
 boxhaul
 behaviorism
-boma
 besnowing
 besognier
 besoil
@@ -15214,6 +15213,7 @@ buzziest
 bellowsmaker
 bloater
 breastplough
+boma
 blunted
 brushman
 blockheadedness
