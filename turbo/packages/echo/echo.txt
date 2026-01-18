@@ -9215,7 +9215,6 @@ eaters
 erythrozyme
 enweaved
 entrant
-extirpate
 evocators
 ethnolinguistic
 epizzoa
@@ -13190,6 +13189,7 @@ exotica
 eremophyte
 emmantle
 expirations
+extirpate
 exaspidean
 extruded
 elicited
