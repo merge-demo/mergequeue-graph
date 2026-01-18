@@ -3338,7 +3338,6 @@ firmisternia
 fieldish
 funereality
 flatfoot
-fattener
 footstone
 fibromatous
 fossores
@@ -11727,6 +11726,7 @@ filibustered
 flatland
 floodlilit
 futwa
+fattener
 fete
 feeblehearted
 floramor
