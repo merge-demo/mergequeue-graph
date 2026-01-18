@@ -24200,7 +24200,6 @@ carboxypeptidase
 convoked
 centigram
 convolutedly
-crinoidal
 convoluting
 convolution
 convolutional
@@ -29486,6 +29485,7 @@ crystallogeny
 crystallogenical
 cymbiform
 confliction
+crinoidal
 chawle
 cageot
 cloak
