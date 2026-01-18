@@ -13484,7 +13484,6 @@ ethnomusicology
 enterparlance
 epidural
 episiorrhagia
-exsanguinating
 exauthorize
 effervescency
 exposing
@@ -13891,6 +13890,7 @@ extradomestic
 ecchymoma
 extradosed
 entireties
+exsanguinating
 environments
 ectobronchium
 eucalyptus
