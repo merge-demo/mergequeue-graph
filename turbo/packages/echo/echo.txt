@@ -10929,6 +10929,7 @@ exdie
 egoize
 editorializer
 equability
+equiradical
 eggnogs
 epipelagic
 ends
@@ -11904,7 +11905,6 @@ excerebration
 extraphysical
 eudaemonistically
 excursory
-equiradical
 epikeia
 epithelia
 equestrienne
