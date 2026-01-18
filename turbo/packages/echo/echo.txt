@@ -2501,6 +2501,7 @@ eviration
 efferently
 emesidae
 enserfs
+ensigns
 entoiled
 eternity
 exuviates
@@ -12209,7 +12210,6 @@ enneahedrons
 engarb
 episynthetic
 excur
-ensigns
 epiphanizing
 extralateral
 elevener
