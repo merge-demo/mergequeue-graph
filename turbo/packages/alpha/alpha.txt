@@ -1118,6 +1118,7 @@ abuttals
 abetting
 allegros
 abwab
+anova
 anthropomorph
 aureateness
 ac
@@ -12468,7 +12469,6 @@ ajowan
 anecdote
 anecdotes
 anecdotic
-anova
 aluminiform
 aegagropile
 appealed
