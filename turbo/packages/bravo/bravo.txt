@@ -16072,6 +16072,7 @@ babesiosis
 broaden
 brontology
 bollards
+bolty
 burnouts
 bearpaw
 burgessdom
@@ -17961,7 +17962,6 @@ bookbinding
 byssinosis
 bedot
 blackheartedness
-bolty
 bemoult
 bronzelike
 bushwhacked
