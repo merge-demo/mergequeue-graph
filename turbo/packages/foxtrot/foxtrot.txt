@@ -5057,7 +5057,6 @@ fiendliest
 foursquarely
 forelay
 flinches
-forewent
 faldistory
 frisure
 fidejussion
@@ -10084,6 +10083,7 @@ firstly
 fluviometer
 fiberizing
 flyover
+forewent
 flintifying
 franion
 fainted
