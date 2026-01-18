@@ -4594,7 +4594,6 @@ carnival
 carnivalesque
 contrastimulation
 carnivals
-carnivoral
 carnivore
 carnivorism
 cordialness
@@ -17224,6 +17223,7 @@ coalification
 cephalostyle
 ctenodipterini
 clinopinacoidal
+carnivoral
 coalifies
 coalifying
 coalite

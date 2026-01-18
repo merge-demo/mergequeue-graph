@@ -8733,6 +8733,7 @@ bloodbath
 blackly
 bullethead
 betoss
+borzoi
 brachycephalies
 bottomry
 backlashed
@@ -13182,7 +13183,6 @@ borty
 britannica
 borwort
 bumper
-borzoi
 brachiopod
 bastardised
 boschneger
