@@ -3806,7 +3806,6 @@ calamodendron
 cribbling
 carbohydrase
 cannibalism
-clatsop
 cardioncus
 carbohydrate
 cardiotrophia
@@ -19100,6 +19099,7 @@ colliquable
 colliquate
 collyria
 collyrite
+clatsop
 carder
 collyrium
 cedes
