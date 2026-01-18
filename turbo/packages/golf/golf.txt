@@ -2124,6 +2124,7 @@ gaviae
 gentianaceae
 goodyism
 grazie
+gladiola
 garth
 grubberies
 gastnesses
@@ -4839,7 +4840,6 @@ glozes
 gyrotheca
 gimme
 grandstanding
-gladiola
 granatite
 goldurns
 goatly
