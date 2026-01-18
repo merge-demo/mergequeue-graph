@@ -4675,7 +4675,6 @@ cholangitis
 companero
 chwana
 contrary
-comptoir
 centerline
 carotinemia
 cronying
@@ -14637,6 +14636,7 @@ cystoproctostomy
 cystopteris
 cystoptosis
 cystopus
+comptoir
 cystoradiography
 cragged
 cairo
