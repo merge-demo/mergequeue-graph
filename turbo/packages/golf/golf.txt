@@ -6574,6 +6574,7 @@ gandoura
 goumier
 gastropod
 ghettos
+gynaecologic
 grassant
 grouplet
 grappas
@@ -6706,7 +6707,6 @@ guid
 gonid
 gabeler
 gluttonies
-gynaecologic
 guaiol
 gastrocentrous
 gigantesque
