@@ -7020,6 +7020,7 @@ entwines
 epinikian
 enzymolytic
 encompassed
+experiencer
 enumerability
 epris
 expansionary
@@ -8514,7 +8515,6 @@ enteromere
 equatable
 epiphanised
 eudaemons
-experiencer
 ecclesiasticize
 essentializing
 echinated
