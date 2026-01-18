@@ -7589,6 +7589,7 @@ botflies
 brainworker
 banagos
 beweeper
+brethren
 beneficent
 beweeps
 bombilate
@@ -16085,7 +16086,6 @@ bigamize
 bronze
 bonducs
 bhotia
-brethren
 bannered
 bronzewing
 buybacks
