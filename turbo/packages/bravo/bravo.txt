@@ -6778,6 +6778,7 @@ busulfan
 busying
 berrichonne
 bandleader
+bunodont
 bosquet
 bridgebuilding
 berrier
@@ -17454,7 +17455,6 @@ browny
 bunnia
 bicoloured
 bunnies
-bunodont
 brickleness
 bacteroid
 bunoselenodont
