@@ -3350,6 +3350,7 @@ absentee
 atresic
 atelets
 andean
+annularia
 allosyndesis
 argestes
 antihierarchic
@@ -13575,7 +13576,6 @@ annular
 antihierarchical
 algy
 annulary
-annularia
 arrowing
 adjourning
 aquarist
