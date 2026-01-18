@@ -4732,7 +4732,6 @@ emeried
 epencephalon
 emboite
 erosiveness
-enscrolling
 elucubration
 elator
 enclosures
@@ -9705,6 +9704,7 @@ epicoelar
 extraterritorial
 essedones
 eisoptrophobia
+enscrolling
 endocarps
 extollers
 essency
