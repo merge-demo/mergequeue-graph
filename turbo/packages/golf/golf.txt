@@ -2624,6 +2624,7 @@ graal
 guardlike
 gymnosophist
 genethlic
+gentil
 glossopetra
 goatee
 gelating
@@ -7023,7 +7024,6 @@ goofily
 goops
 gamelote
 gladioli
-gentil
 gumshoes
 glazier
 glamorizes
