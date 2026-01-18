@@ -3571,6 +3571,7 @@ bastinadoes
 beckoning
 bridgekeeper
 balon
+bateaux
 barricade
 byronish
 brushy
@@ -8181,7 +8182,6 @@ bespreading
 blossomed
 bivalencies
 bloodbird
-bateaux
 bieldy
 brawlier
 bossa
