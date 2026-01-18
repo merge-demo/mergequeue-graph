@@ -7381,7 +7381,6 @@ gastromalacia
 gamelike
 gasolineless
 gleds
-gastrohysterectomy
 genecology
 geometroid
 gothamite
@@ -8407,6 +8406,7 @@ georgia
 gyves
 guaiacums
 gonoblastic
+gastrohysterectomy
 goldonian
 guadagnini
 gavottes
