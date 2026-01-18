@@ -2895,7 +2895,6 @@ fomentations
 fulham
 foregahger
 featherweights
-frumpiness
 flaughts
 flutiest
 fanciable
@@ -9480,6 +9479,7 @@ frontways
 footling
 finiteness
 filea
+frumpiness
 fringier
 finiglacial
 flavonol
