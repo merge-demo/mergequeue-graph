@@ -3754,6 +3754,7 @@ dor
 dwale
 disgracia
 drillable
+dishumour
 dynamites
 deice
 donning
@@ -9595,7 +9596,6 @@ dihedron
 dhootie
 dodecatemory
 discipleship
-dishumour
 diplobacterium
 disruption
 dihybridism
