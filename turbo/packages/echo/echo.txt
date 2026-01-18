@@ -2821,6 +2821,7 @@ extrarhythmical
 eosins
 exrupeal
 europhium
+eloquently
 eagre
 elephantoid
 elephantoidal
@@ -6351,7 +6352,6 @@ endangiitis
 enshield
 evolution
 endostitis
-eloquently
 ebbed
 eavesdrip
 episcopize
