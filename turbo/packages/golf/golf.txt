@@ -1859,7 +1859,6 @@ gentilesse
 grabber
 gatherers
 gemlike
-galumph
 gooma
 gamenesses
 grecale
@@ -6803,6 +6802,7 @@ girders
 girded
 gentlemanism
 glossodynamometer
+galumph
 goodwill
 gibel
 gravilea

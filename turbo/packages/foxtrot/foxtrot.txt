@@ -3387,7 +3387,6 @@ filarial
 frillier
 feminality
 fierasferoid
-farcie
 fungible
 floc
 flecker
@@ -8408,6 +8407,7 @@ forpine
 freethink
 firepan
 fictitiously
+farcie
 felonsetter
 febronian
 fique
