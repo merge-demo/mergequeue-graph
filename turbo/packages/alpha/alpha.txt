@@ -6215,7 +6215,6 @@ adjutantship
 aegerian
 aerolitics
 agonic
-agonise
 agonistarch
 ackee
 agonistics
@@ -6771,6 +6770,7 @@ aortae
 agrimonia
 airdate
 avowing
+agonise
 animally
 afterband
 affable
