@@ -2970,6 +2970,7 @@ gondite
 gavialis
 gelly
 galvanocauteries
+gravimetric
 gentlefolk
 guatambu
 greasiness
@@ -5851,7 +5852,6 @@ griddled
 gasfiring
 grandesque
 glycogenous
-gravimetric
 glutamates
 goliards
 gallinaceous
