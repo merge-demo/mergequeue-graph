@@ -3744,7 +3744,6 @@ deia
 deadpanner
 dyostyle
 dor
-dwale
 disgracia
 drillable
 dishumour
@@ -7170,6 +7169,7 @@ dynamis
 demijohns
 dunked
 demulsifying
+dwale
 decadactylous
 detainal
 destructionist
