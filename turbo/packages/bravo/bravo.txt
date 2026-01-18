@@ -2545,7 +2545,6 @@ bariatrician
 banderilla
 bemused
 burmite
-brillolette
 barid
 bronchostenosis
 bereaving
@@ -16693,6 +16692,7 @@ bubblelike
 bucketmaking
 blithehearted
 biotherapy
+brillolette
 besiege
 bishopship
 basilisk
