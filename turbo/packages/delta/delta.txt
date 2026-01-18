@@ -2018,6 +2018,7 @@ dothidella
 daimen
 duplicitas
 dichloramin
+diaphony
 decagram
 dourness
 decagrams
@@ -8549,7 +8550,6 @@ diaphones
 demilitarising
 dexterously
 deflex
-diaphony
 diaphysial
 derisiveness
 diaphonic
