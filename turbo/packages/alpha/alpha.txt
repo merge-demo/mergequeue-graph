@@ -521,7 +521,6 @@ axolemma
 abjurement
 abjurer
 abjurers
-abkari
 amerism
 abkhasian
 ashtrays
@@ -6415,6 +6414,7 @@ agrotype
 aurochloride
 anthotaxy
 anerly
+abkari
 arguta
 aggravate
 asthenopia
