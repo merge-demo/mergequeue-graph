@@ -2248,6 +2248,7 @@ endothys
 electricize
 emphasizes
 electriferous
+eviscerated
 energumen
 epilating
 extortions
@@ -10419,7 +10420,6 @@ estruation
 etymologization
 edentalous
 eurypteroid
-eviscerated
 eloinment
 embryoniferous
 etymon
