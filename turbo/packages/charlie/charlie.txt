@@ -9659,7 +9659,6 @@ cheesemaker
 cheesemaking
 cheesemongering
 cheeseparer
-canaster
 cerebrasthenic
 caravaning
 counseling
@@ -28091,6 +28090,7 @@ cinder
 cichoriaceae
 cranelike
 cautionry
+canaster
 cholesterinuria
 cranet
 craneway
