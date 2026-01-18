@@ -1796,6 +1796,7 @@ gastrovascular
 gthite
 goala
 gulleries
+gorhen
 gainspeaker
 grummeter
 geebong
@@ -10762,7 +10763,6 @@ gutbucket
 ganoin
 gloam
 graminin
-gorhen
 gimbals
 gallium
 glamourie
