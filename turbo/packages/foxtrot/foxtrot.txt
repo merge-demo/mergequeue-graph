@@ -921,6 +921,7 @@ fissipedial
 fantigue
 freighters
 fibry
+fezes
 foreperiod
 farawayness
 firmland
@@ -5013,7 +5014,6 @@ fosses
 fetialis
 foveated
 footbaths
-fezes
 freir
 foreseers
 frsiket
