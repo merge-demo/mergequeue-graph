@@ -3196,6 +3196,7 @@ goodwily
 gloppen
 grammies
 geraniums
+greatly
 gebur
 galoping
 giron
@@ -6117,7 +6118,6 @@ gnomologist
 gyroma
 grades
 greit
-greatly
 gustoes
 gypsoplast
 gnathostome
