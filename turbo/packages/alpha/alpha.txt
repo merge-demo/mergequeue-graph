@@ -11745,7 +11745,6 @@ annuation
 androgenesis
 alts
 arbitrators
-anagrammatism
 anagrammatizing
 anagrams
 acidifiant
@@ -13010,6 +13009,7 @@ angwich
 aphorismic
 archly
 anhaemolytic
+anagrammatism
 agios
 antiprism
 ataraxics
