@@ -1191,6 +1191,7 @@ gaplessness
 gildhall
 gastroatrophia
 genesiacal
+gymnogenous
 griot
 gradations
 globular
@@ -5238,7 +5239,6 @@ guitarfish
 gliadine
 galvanism
 geomedicine
-gymnogenous
 gurish
 glaucophane
 garish
