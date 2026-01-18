@@ -7016,6 +7016,7 @@ chink
 centauric
 checkline
 centauridium
+checkrowing
 centauries
 constructure
 centauromachy
@@ -9533,7 +9534,6 @@ conoy
 checkrowed
 checkrower
 copycats
-checkrowing
 consummatively
 checkrows
 computational
