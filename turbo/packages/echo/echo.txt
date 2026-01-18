@@ -2412,7 +2412,6 @@ entophytal
 espinel
 eucalyptography
 erythematous
-euphausid
 epitaxial
 etherate
 earthnut
@@ -4272,6 +4271,7 @@ extirpation
 epicarides
 ejectment
 exaltedness
+euphausid
 electrochemical
 electromobile
 entangle
