@@ -733,7 +733,6 @@ gambling
 gugglet
 galvanizers
 gripple
-goaling
 galvanizing
 gemmiferousness
 gunner
@@ -4060,6 +4059,7 @@ gamekeeper
 gaufer
 gudget
 glorification
+goaling
 goneoclinic
 gipsywort
 gulgul
