@@ -8467,7 +8467,6 @@ alkedavy
 alkekengi
 alkene
 aroid
-alkenyl
 alkes
 awreck
 amyloidoses
@@ -21249,6 +21248,7 @@ academial
 ashimmer
 ambarella
 apostacy
+alkenyl
 airworthiness
 algarsife
 ashing
