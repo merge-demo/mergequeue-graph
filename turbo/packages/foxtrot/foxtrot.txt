@@ -3561,6 +3561,7 @@ fasnacht
 feddan
 fussle
 fairbanks
+fluorindine
 fourniture
 flashover
 fardels
@@ -11370,7 +11371,6 @@ flashlamp
 flect
 facies
 furnish
-fluorindine
 furnishable
 fleme
 fluoroformol
