@@ -5237,7 +5237,6 @@ editors
 endopodite
 exagitation
 eskimoid
-exarteritis
 elapsoidea
 efik
 enchest
@@ -9457,6 +9456,7 @@ escorts
 escot
 endbrain
 emperor
+exarteritis
 eogaean
 euryalean
 enghosted
