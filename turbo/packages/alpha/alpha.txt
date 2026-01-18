@@ -2003,7 +2003,6 @@ astel
 alfoncino
 acerin
 acetophenone
-amphodiplopia
 autecy
 anticipatory
 arterial
@@ -18992,6 +18991,7 @@ abstention
 archaeostomatous
 ageratum
 archival
+amphodiplopia
 atopic
 archiver
 archjockey
