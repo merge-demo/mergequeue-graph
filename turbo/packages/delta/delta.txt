@@ -3208,7 +3208,6 @@ drunkards
 demoniac
 defenceable
 dekle
-doftberry
 defencive
 dents
 defend
@@ -16683,6 +16682,7 @@ detach
 drinking
 despondent
 doruck
+doftberry
 disturbers
 diablo
 drakelet
