@@ -2811,7 +2811,6 @@ enseat
 enleen
 electroluminescent
 explicans
-evenhanded
 enaluron
 elephantiasis
 elymi
@@ -9870,6 +9869,7 @@ ectophloic
 estimable
 empiricists
 electrobiologically
+evenhanded
 electrologist
 endothrix
 estimate
