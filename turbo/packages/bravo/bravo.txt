@@ -3047,7 +3047,6 @@ bopping
 burgesses
 bartizans
 bourkha
-beigel
 balkingly
 belee
 beckons
@@ -7088,6 +7087,7 @@ bannerette
 bespeak
 bodyless
 biggings
+beigel
 bimorphs
 bushing
 bedswerver
