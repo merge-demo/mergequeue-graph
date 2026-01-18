@@ -707,7 +707,6 @@ goldney
 genteelness
 gals
 galtrap
-gianthood
 gastroenterologically
 galumphs
 guebucu
@@ -796,6 +795,7 @@ gamashes
 goombay
 gastrospasm
 glycosidase
+gianthood
 graf
 gimlet
 gambade
