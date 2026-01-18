@@ -1254,7 +1254,6 @@ extraditable
 ecorche
 eblis
 eucairite
-eleonorite
 eoghanacht
 epinephrin
 epigramme
@@ -9691,6 +9690,7 @@ esse
 evangelizing
 elementarism
 embryol
+eleonorite
 escopette
 external
 epicoelar
