@@ -9552,6 +9552,7 @@ cumulant
 conoy
 checkrowed
 checkrower
+copycats
 checkrowing
 consummatively
 checkrows
@@ -24566,7 +24567,6 @@ copybooks
 cognomen
 chook
 copycat
-copycats
 citywide
 copycatting
 creedite
