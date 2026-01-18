@@ -13800,7 +13800,6 @@ bowdlerising
 bemaddening
 bedfellowship
 basquine
-baseplate
 bemuffle
 bramblebush
 blabberer
@@ -18356,6 +18355,7 @@ beery
 bounding
 bro
 buxom
+baseplate
 bacopa
 bonteboks
 brookiest
