@@ -4050,6 +4050,7 @@ finitive
 foreyear
 fingerberry
 fissionable
+featurish
 felapton
 formants
 foppishness
@@ -4183,7 +4184,6 @@ ferfathmur
 felonries
 foothold
 flittermmice
-featurish
 froe
 fidicinales
 fetus
