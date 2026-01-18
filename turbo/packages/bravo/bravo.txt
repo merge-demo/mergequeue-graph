@@ -8727,6 +8727,7 @@ barrett
 beseeching
 beaverite
 bulldoggish
+baseball
 bloodbath
 blackly
 bullethead
@@ -9301,7 +9302,6 @@ biprism
 burgaudine
 blackguardism
 biprong
-baseball
 baume
 bongoist
 befit
