@@ -4338,7 +4338,6 @@ ginhouse
 gooselike
 gelidiaceae
 gangrene
-gallanilide
 gyniatries
 gambias
 gynaecomorphous
@@ -9443,6 +9442,7 @@ grapple
 glorified
 gasolinic
 gauntness
+gallanilide
 grassiest
 gluish
 guaharibo
