@@ -3036,7 +3036,6 @@ greensauce
 gamelin
 genepi
 gluttonized
-gerate
 grangerised
 geomorphologically
 glycopexis
@@ -3514,6 +3513,7 @@ grenadin
 geums
 gangues
 garmentworker
+gerate
 ganglions
 gymnorhina
 geomagnetist
