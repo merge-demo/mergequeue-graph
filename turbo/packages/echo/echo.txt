@@ -299,7 +299,6 @@ extensible
 exserting
 extortionate
 expedient
-ebon
 embrew
 eradicate
 esotericism
@@ -1607,6 +1606,7 @@ egurgitated
 eheu
 explanatively
 elchee
+ebon
 effusions
 exotoxin
 ehretiaceae
