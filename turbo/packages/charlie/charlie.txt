@@ -5322,7 +5322,6 @@ cassiopeium
 cladrastis
 cramps
 cassis
-cumbha
 crampy
 courtling
 cassiterite
@@ -18555,6 +18554,7 @@ coyish
 coleseeds
 chrometophobia
 coyishness
+cumbha
 conculcation
 cunner
 characterstring
