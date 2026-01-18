@@ -15527,7 +15527,6 @@ brineless
 backsaws
 bakery
 bibliopegistic
-bringers
 bodega
 bickering
 bringeth
@@ -18394,6 +18393,7 @@ biaxal
 buzzing
 bogard
 brachials
+bringers
 brachygrapher
 buzzingly
 bothlike
