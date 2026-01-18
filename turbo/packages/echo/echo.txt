@@ -4500,6 +4500,7 @@ encephalophyma
 ethynylation
 entoptoscope
 emigrationist
+experimentalist
 electrical
 encapsulated
 empales
@@ -11195,7 +11196,6 @@ expilation
 exostracism
 endover
 electrotonicity
-experimentalist
 epibolies
 evangeliaries
 endocycle
