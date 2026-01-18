@@ -3607,6 +3607,7 @@ colorist
 chauri
 carabine
 carabiner
+comsomol
 carabineros
 claik
 carabines
@@ -21078,7 +21079,6 @@ chargfaires
 coms
 comsat
 clostridial
-comsomol
 competingly
 cray
 countertheory
