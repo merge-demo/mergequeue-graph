@@ -10075,6 +10075,7 @@ filmset
 frithy
 firstly
 fluviometer
+furdel
 fiberizing
 flyover
 flintifying
@@ -10159,7 +10160,6 @@ feebly
 farce
 foxchop
 fetologies
-furdel
 ferrimagnet
 famines
 fending
