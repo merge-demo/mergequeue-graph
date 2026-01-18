@@ -2136,7 +2136,6 @@ gunships
 geheimrat
 gantlopes
 guayaberas
-gurjan
 griffith
 gastropulmonary
 graphostatics
@@ -2886,6 +2885,7 @@ gruesomeness
 gayety
 gadders
 geocentric
+gurjan
 gadwell
 gutterlike
 grandnieces
