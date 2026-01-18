@@ -1401,7 +1401,6 @@ espoused
 ethnicon
 exaggeratory
 enols
-execratory
 ebbing
 euskaldun
 electromassage
@@ -10596,6 +10595,7 @@ eruditionist
 eutechnic
 eucrite
 enthusiasticalness
+execratory
 ergatandry
 electroendosmose
 electrotherapies
