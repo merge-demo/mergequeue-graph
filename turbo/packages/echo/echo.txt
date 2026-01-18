@@ -6699,6 +6699,7 @@ epistrophy
 enthelminthic
 exungulate
 effume
+enclosers
 ectosomal
 extratarsal
 esthesioneurosis
@@ -8107,7 +8108,6 @@ endangium
 elvet
 engineered
 encanthis
-enclosers
 elutriation
 ebenales
 embowelment
