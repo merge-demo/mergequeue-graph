@@ -8508,6 +8508,7 @@ dinked
 diapause
 diapauses
 donaries
+doglegs
 decarburize
 dodecastylos
 divinations
@@ -15075,7 +15076,6 @@ doghood
 doghouse
 dogie
 debilitant
-doglegs
 dicycle
 deboshed
 doglike
