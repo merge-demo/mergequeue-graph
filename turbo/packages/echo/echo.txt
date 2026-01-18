@@ -2942,6 +2942,7 @@ ennoblers
 ethid
 externalising
 elicitors
+electropneumatic
 eloined
 endonuclear
 elicits
@@ -7755,7 +7756,6 @@ excitative
 entassment
 enlighteningly
 emblematic
-electropneumatic
 expectably
 elementality
 encyclopaedize
