@@ -11933,6 +11933,7 @@ depthing
 doorba
 discompose
 downrange
+dictyosome
 domes
 digestion
 disembarked
@@ -17851,7 +17852,6 @@ drawlatch
 ductwork
 drosky
 duculinae
-dictyosome
 decurve
 dermoblast
 definable
