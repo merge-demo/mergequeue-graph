@@ -24577,7 +24577,6 @@ copycutter
 ctenacanthus
 cindie
 crankles
-copydesk
 copier
 cerebrogalactose
 copies
@@ -26675,6 +26674,7 @@ counteractivity
 columbium
 choked
 counterintelligence
+copydesk
 counterexpostulation
 counteradvance
 colossuswise
