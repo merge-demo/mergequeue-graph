@@ -3305,6 +3305,7 @@ fruggan
 fullmouthedly
 fissurella
 fulcra
+fissuration
 fleshlike
 flon
 forsung
@@ -7235,7 +7236,6 @@ financiery
 fatstocks
 fluorogen
 foregoing
-fissuration
 fledglings
 fetisheer
 focuser
