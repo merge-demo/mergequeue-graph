@@ -8625,6 +8625,7 @@ dias
 discriminoid
 depertible
 dermatographia
+dikdiks
 denitrifying
 discourtesy
 diffused
@@ -16600,7 +16601,6 @@ denunciate
 dragonade
 denotative
 donjon
-dikdiks
 derout
 denotations
 dialuric
