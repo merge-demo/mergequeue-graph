@@ -10341,7 +10341,6 @@ gadgety
 gruffily
 gigabytes
 geum
-goadlike
 gallivorous
 glaur
 grouseberry
@@ -10639,6 +10638,7 @@ galvanocauterization
 grittle
 guppies
 galee
+goadlike
 gnomed
 gastroperiodynia
 gurged
