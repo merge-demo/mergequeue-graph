@@ -23754,6 +23754,7 @@ auscultascope
 adzes
 andropetalar
 academic
+aurivorous
 auscultates
 athrong
 auscultating
@@ -25224,7 +25225,6 @@ atrocha
 abscisse
 amoralize
 axwise
-aurivorous
 aeon
 antecessor
 axwort
