@@ -6300,6 +6300,7 @@ dermis
 drawbores
 dendrologist
 dea
+decilitre
 diaplasis
 dejectory
 dermobranchiate
@@ -16897,7 +16898,6 @@ dreamhole
 dreamy
 dipladenia
 discriminations
-decilitre
 distortable
 desilvered
 dichromate
