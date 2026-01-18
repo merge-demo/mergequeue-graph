@@ -9604,7 +9604,6 @@ geochemical
 guarish
 guiles
 gummite
-grandma
 gatefold
 guisarme
 goodsire
@@ -10735,6 +10734,7 @@ graille
 gavage
 galloot
 garnish
+grandma
 gournard
 gorgonise
 gagers
