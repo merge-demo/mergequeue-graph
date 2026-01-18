@@ -15486,7 +15486,6 @@ clarts
 clash
 clashee
 controlling
-cojones
 clasher
 cleistogenous
 cogeneration
@@ -21463,6 +21462,7 @@ comediennes
 chelingos
 concoctive
 choco
+cojones
 celestialized
 crowfoot
 congius
