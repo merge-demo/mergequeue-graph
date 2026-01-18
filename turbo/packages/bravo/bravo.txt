@@ -2445,7 +2445,6 @@ bristlecone
 barefaced
 bombacaceous
 baulk
-bonete
 bradenhead
 byres
 bugaboos
@@ -7796,6 +7795,7 @@ bursarship
 balcon
 babylonian
 batrachospermum
+bonete
 bravure
 barytas
 buckeyed
