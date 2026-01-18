@@ -3882,7 +3882,6 @@ epiglottis
 endexine
 emissory
 emitting
-entamebas
 eluviation
 electropathic
 effigy
@@ -13353,6 +13352,7 @@ emotionalising
 emergence
 erogenous
 ethnogeographically
+entamebas
 egyptize
 emporiria
 epicorolline
