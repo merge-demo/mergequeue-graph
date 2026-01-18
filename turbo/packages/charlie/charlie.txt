@@ -12936,7 +12936,6 @@ citrean
 cyanid
 collects
 casel
-circumhorizontal
 continentality
 cyanides
 cyanidrosis
@@ -15457,6 +15456,7 @@ capuches
 clarke
 coachs
 celestialness
+circumhorizontal
 clarkias
 conga
 coapostate
