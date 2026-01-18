@@ -4338,7 +4338,6 @@ embrasure
 encratic
 equinovarus
 electrolyzer
-exceptions
 encephalosclerosis
 evisite
 endoplastule
@@ -8075,6 +8074,7 @@ epiplasmic
 exhausting
 epiploce
 exacum
+exceptions
 epiplocele
 epiploitis
 enthuse
