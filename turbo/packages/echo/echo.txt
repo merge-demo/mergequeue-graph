@@ -1992,7 +1992,6 @@ endocrinotherapy
 epigaea
 erythrosine
 erminois
-epitrophy
 encurl
 exophasia
 emersion
@@ -11119,6 +11118,7 @@ embanked
 eutrophication
 externalised
 expiating
+epitrophy
 eutropous
 expergefacient
 evocation
