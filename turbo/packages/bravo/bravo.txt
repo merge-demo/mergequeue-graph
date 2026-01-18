@@ -2939,7 +2939,6 @@ butlerdom
 bankweed
 bendays
 barefacedness
-bearers
 bioenvironmentaly
 blind
 benefactor
@@ -4429,6 +4428,7 @@ bathyseism
 beclaw
 besieged
 balm
+bearers
 behavior
 bayeta
 brandering

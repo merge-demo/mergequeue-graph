@@ -411,6 +411,7 @@ flouting
 frows
 fivesome
 factful
+figworts
 foredesk
 friendliwise
 festive
@@ -7540,7 +7541,6 @@ fodientia
 forecommend
 foreconclude
 flagonet
-figworts
 floggers
 ficoidal
 forecourts
