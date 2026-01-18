@@ -761,7 +761,6 @@ fibrilliferous
 footbreadth
 falangist
 fanatism
-fabricating
 farcilite
 flybelt
 frozenness
@@ -7363,6 +7362,7 @@ flatworms
 floatplane
 foreprise
 frost
+fabricating
 fattened
 fierding
 foraramens

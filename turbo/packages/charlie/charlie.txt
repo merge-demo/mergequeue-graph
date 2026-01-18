@@ -10411,7 +10411,6 @@ chiffonier
 chiffoniers
 cochlear
 cooncan
-cementing
 cryptometer
 chiffonnieres
 conchinin
@@ -14772,6 +14771,7 @@ citizenly
 citizenry
 callithump
 corruptibleness
+cementing
 cascan
 citizens
 cytoanalyzer
