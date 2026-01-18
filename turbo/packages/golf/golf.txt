@@ -779,6 +779,7 @@ ganymede
 glossolalist
 gutter
 gluck
+gerendum
 gutturize
 galvanothermometer
 ggr
@@ -1289,7 +1290,6 @@ garetta
 gnawingly
 gargalize
 grump
-gerendum
 government
 geeing
 gephyrocercy
