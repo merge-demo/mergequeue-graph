@@ -3070,6 +3070,7 @@ gleanable
 gali
 gubat
 grouts
+grisettes
 glossarist
 garo
 groaned
@@ -3998,7 +3999,6 @@ genesic
 ginorite
 glum
 gurney
-grisettes
 gelatines
 gilliflower
 grocery
