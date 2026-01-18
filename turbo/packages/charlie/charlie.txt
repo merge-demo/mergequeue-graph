@@ -10786,6 +10786,7 @@ conditionals
 chinnier
 chinniest
 chino
+cryophoric
 clorargyrite
 cohelpership
 ceaseless
@@ -29399,7 +29400,6 @@ chorographic
 cryptozoic
 cryptozoite
 cryptozonate
-cryophoric
 corbeille
 crazedness
 crypturi
