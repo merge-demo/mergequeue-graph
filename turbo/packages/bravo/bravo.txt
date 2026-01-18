@@ -613,6 +613,7 @@ beggiatoa
 bacteriochlorophyll
 bacteriocin
 broomsticks
+betrothal
 bostangi
 bastiment
 bacteriodiagnosis
@@ -14726,7 +14727,6 @@ bratticing
 beggarweed
 boundlessly
 bescorching
-betrothal
 biobibliographic
 bowpots
 bowlings
