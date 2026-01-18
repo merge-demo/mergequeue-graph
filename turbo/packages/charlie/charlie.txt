@@ -11228,6 +11228,7 @@ chloridellidae
 chlorides
 covers
 chloridic
+corage
 chloridized
 collochemistry
 chemotropism
@@ -28748,7 +28749,6 @@ creping
 crepis
 cevennian
 crepitated
-corage
 cutesiest
 chelae
 crumblings
