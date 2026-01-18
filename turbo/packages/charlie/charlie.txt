@@ -3834,7 +3834,6 @@ catamount
 carbolizes
 carbolizing
 carmelite
-caladium
 carboluria
 chrisma
 carbomethene
@@ -30244,6 +30243,7 @@ calamitean
 cruet
 clum
 cruety
+caladium
 creepie
 cucurbit
 cruets

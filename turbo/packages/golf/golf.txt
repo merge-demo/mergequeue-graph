@@ -814,7 +814,6 @@ gambeered
 glauke
 greenlandite
 gastrostenosis
-genets
 glucosane
 ghurry
 gastrocolic
@@ -2928,6 +2927,7 @@ glideless
 gynaecocracies
 gunfighters
 genecological
+genets
 gyniatry
 goldurnedest
 grazable
