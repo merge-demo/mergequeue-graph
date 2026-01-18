@@ -8544,7 +8544,6 @@ chancroidal
 chorgi
 chandala
 chandelle
-chandelling
 cascades
 chandleress
 cerebrorachidian
@@ -21653,6 +21652,7 @@ condigness
 condignity
 chromatopathia
 condignly
+chandelling
 comethers
 condylar
 chichis
