@@ -1307,6 +1307,7 @@ gateward
 gibbered
 groomers
 gas
+greekery
 galilee
 gorging
 gargler
@@ -9420,7 +9421,6 @@ gymnodontes
 gluttingly
 geonic
 gotchy
-greekery
 grounden
 gallybeggar
 gradable
