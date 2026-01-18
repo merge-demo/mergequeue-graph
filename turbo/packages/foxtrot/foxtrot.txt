@@ -6671,6 +6671,7 @@ fogdogs
 fairways
 fraileros
 fogdom
+frittata
 fogfruit
 fibrins
 fruiteress
@@ -11191,7 +11192,6 @@ fippence
 futuric
 fasciolae
 fictil
-frittata
 farads
 firer
 failles
