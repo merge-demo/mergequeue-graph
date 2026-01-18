@@ -18589,7 +18589,6 @@ arbusta
 analytics
 arbutean
 anthropomorphite
-abrogates
 abbotship
 alarmisms
 amboyna
@@ -24223,6 +24222,7 @@ autology
 aporosa
 autological
 antiatheist
+abrogates
 alalite
 autoluminescent
 ahistoric
