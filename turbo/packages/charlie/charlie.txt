@@ -4754,7 +4754,6 @@ cyclicality
 cyanogenamide
 coindicate
 carphiophiops
-carpholite
 ceiler
 calonyction
 carphology
@@ -7612,6 +7611,7 @@ coreveller
 collarets
 cerements
 crestal
+carpholite
 cucuyo
 coiffing
 cyclings
