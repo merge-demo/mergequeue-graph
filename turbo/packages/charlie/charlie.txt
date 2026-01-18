@@ -1024,7 +1024,6 @@ caprelline
 calappidae
 calas
 chronologies
-colourtype
 cohoba
 cydonia
 calastic
@@ -12861,6 +12860,7 @@ churingas
 churl
 curmurring
 churlier
+colourtype
 corrugations
 cowslip
 churlishness
