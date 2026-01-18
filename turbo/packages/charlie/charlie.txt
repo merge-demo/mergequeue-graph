@@ -2860,6 +2860,7 @@ commutability
 catapult
 carboxyhemoglobin
 cetorhinoid
+chapt
 canonizer
 canonizes
 canonizing
@@ -18829,7 +18830,6 @@ cranial
 chiaroscurist
 cervelliere
 colies
-chapt
 cathecting
 curvilinearity
 corymbiform
