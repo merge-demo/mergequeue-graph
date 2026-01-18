@@ -986,6 +986,7 @@ ganched
 gonotokont
 goner
 gerodontology
+grammaticalness
 granddads
 gundi
 gramercy
@@ -9128,7 +9129,6 @@ gratings
 gareh
 galvanometric
 gunnen
-grammaticalness
 gazeful
 grusinian
 gonococcoid
