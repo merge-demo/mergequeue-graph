@@ -8042,7 +8042,6 @@ goodies
 gracy
 gypsydoms
 guttulae
-geminiflorous
 gybe
 gruffness
 gravels
@@ -10655,6 +10654,7 @@ gasolines
 gametogony
 gladius
 gyric
+geminiflorous
 goatsbane
 galp
 gurgoyle
