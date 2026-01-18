@@ -5450,7 +5450,6 @@ asseverative
 amalgams
 atharvan
 arrange
-abstractionism
 afrikanderdom
 ascher
 afrit
@@ -8653,6 +8652,7 @@ autochthon
 argyrythrose
 aeroelastics
 anoxidative
+abstractionism
 allocution
 anemology
 alleleu
