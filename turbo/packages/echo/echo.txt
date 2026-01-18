@@ -4982,7 +4982,6 @@ eumitotic
 echinocereus
 epichindrotic
 epidendron
-endia
 equerry
 endings
 elapsing
@@ -8332,6 +8331,7 @@ estivated
 exclusory
 endiadem
 epithyme
+endia
 extacie
 eumoiriety
 epityphlitis
