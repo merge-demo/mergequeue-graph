@@ -11302,6 +11302,7 @@ entirety
 eagles
 exalbuminous
 evaporimeter
+entrails
 enterodelous
 electrocute
 ecdysons
@@ -14141,7 +14142,6 @@ enlard
 entocuneiform
 excussion
 endearment
-entrails
 epitaphic
 evensongs
 encomium
