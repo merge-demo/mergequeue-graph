@@ -3532,6 +3532,7 @@ deul
 disfrock
 diethylamine
 disenchanter
+dropline
 defunctionalize
 defusion
 deformalize
@@ -16098,7 +16099,6 @@ doughty
 duomo
 diphthonged
 ditherer
-dropline
 doughtier
 dockside
 designfulness
