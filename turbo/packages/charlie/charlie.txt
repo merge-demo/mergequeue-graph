@@ -1142,6 +1142,7 @@ chromatosphere
 calcite
 carollers
 cuppers
+chardock
 cloddiness
 calcitic
 calcitrant
@@ -17277,7 +17278,6 @@ coappeared
 coappearing
 contaminable
 cruor
-chardock
 colloids
 casual
 coapprentice
