@@ -4822,6 +4822,7 @@ englished
 eulogizes
 externalize
 expectorator
+empaneled
 electroed
 exportable
 episcopolatry
@@ -11604,7 +11605,6 @@ exclosure
 enteradenography
 emollition
 exacerbates
-empaneled
 enhances
 enforcibility
 electrolytes
