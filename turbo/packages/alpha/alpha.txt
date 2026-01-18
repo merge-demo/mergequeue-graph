@@ -3474,6 +3474,7 @@ aequipalpia
 accusable
 antimissile
 attapulgite
+apological
 afterwort
 azoths
 alex
@@ -5489,7 +5490,6 @@ acrostichic
 aftercooler
 autocollimate
 ack
-apological
 almoning
 aftercrop
 acanthodian
