@@ -11368,7 +11368,6 @@ changelessly
 chlorophora
 cameralist
 chloropicrin
-chloroplast
 chloroplastic
 chloroplasts
 cosmonautics
@@ -17889,6 +17888,7 @@ codpitchings
 cods
 cephalanthus
 codswallop
+chloroplast
 coueism
 channels
 coedit
