@@ -4042,7 +4042,6 @@ deliquescence
 divertila
 delictual
 drearisome
-disobeyed
 delieret
 degrain
 despicably
@@ -12452,6 +12451,7 @@ douching
 dislocable
 diastematic
 dishrags
+disobeyed
 dunfish
 dishtowels
 deciduate
