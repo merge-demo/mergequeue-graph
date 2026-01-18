@@ -616,6 +616,7 @@ earful
 excruciatingness
 empiricist
 empetrum
+electropoion
 ecphorable
 embryogeny
 eyestones
@@ -13968,7 +13969,6 @@ epimer
 eozoonal
 endokaryogamy
 enface
-electropoion
 escheatage
 equicurve
 ectophytic
