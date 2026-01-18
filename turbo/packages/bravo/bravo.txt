@@ -4413,7 +4413,6 @@ briskness
 bakeboard
 bonzian
 bepress
-barrable
 breechclout
 booleans
 butyrousness
@@ -14527,6 +14526,7 @@ branchiest
 blizz
 branchiferous
 birthrates
+barrable
 broma
 binman
 branchiness
