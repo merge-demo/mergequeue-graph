@@ -2071,7 +2071,6 @@ glottology
 guilefully
 gawgaw
 goldenseal
-gillian
 governments
 graminological
 gratingly
@@ -9629,6 +9628,7 @@ glace
 gowfer
 gerardia
 gangbang
+gillian
 generals
 genital
 grudging
