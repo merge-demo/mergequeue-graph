@@ -10612,6 +10612,7 @@ angelicas
 arccosine
 avoider
 angiospermic
+awshar
 agraffe
 arenulous
 apostoile
@@ -18299,7 +18300,6 @@ arabiyeh
 apparel
 acquisitum
 adjunct
-awshar
 arability
 arabinic
 arabinosic
