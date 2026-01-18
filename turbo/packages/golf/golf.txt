@@ -265,6 +265,7 @@ gizmo
 glyph
 gumminess
 grapta
+gammers
 graziery
 geoplagiotropism
 grenada
@@ -5244,7 +5245,6 @@ gurish
 glaucophane
 garish
 galoubet
-gammers
 glooming
 guaranies
 guarea
