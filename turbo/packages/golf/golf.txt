@@ -2490,7 +2490,6 @@ gubbin
 gigacycle
 garlanding
 gittith
-genderer
 grenado
 gnaeus
 giffgaff
@@ -6634,6 +6633,7 @@ gruntingly
 glassine
 gaed
 goncalo
+genderer
 gyrectomy
 girlery
 glycosuria
