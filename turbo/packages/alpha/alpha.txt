@@ -7126,7 +7126,6 @@ alabarch
 aidmanmen
 alabaster
 atellan
-aphizog
 alabastrian
 alabastrine
 aortographic
@@ -10766,6 +10765,7 @@ amitotic
 azotizes
 antestature
 anormality
+aphizog
 acrolith
 amitrole
 amitular
