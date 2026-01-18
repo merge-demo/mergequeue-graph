@@ -249,7 +249,6 @@ abbreviates
 achariaceous
 atmiatry
 abbreviation
-abc
 angiohypotonia
 abcoulomb
 abietineous
@@ -6194,6 +6193,7 @@ antecedency
 ailanthic
 agon
 agonal
+abc
 athetize
 aurorae
 azygoses
