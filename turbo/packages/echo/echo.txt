@@ -5373,7 +5373,6 @@ engirdles
 enfester
 ed
 emigrants
-empathetic
 eightsman
 example
 esexual
@@ -12944,6 +12943,7 @@ expectancy
 endotherm
 ephebea
 epistemophilia
+empathetic
 ecologist
 entotic
 epitonion
