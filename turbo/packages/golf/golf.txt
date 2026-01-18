@@ -5347,7 +5347,6 @@ guanajuatite
 gregos
 geckoid
 gruelings
-graph
 gammadion
 gliddery
 gloaters
@@ -9538,6 +9537,7 @@ ghostism
 goster
 graphical
 glamorized
+graph
 geodynamical
 guidage
 groveller
