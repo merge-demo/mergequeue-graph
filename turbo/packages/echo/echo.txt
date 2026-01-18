@@ -5270,7 +5270,6 @@ endosclerite
 extrahepatic
 eurybathic
 eucopepoda
-endogamy
 excudate
 endoscope
 endoscopes
@@ -12470,6 +12469,7 @@ entomophthorous
 examiner
 exiguously
 exilarchate
+endogamy
 extemporariness
 expiated
 erionite
