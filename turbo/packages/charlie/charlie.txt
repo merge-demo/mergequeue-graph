@@ -2422,7 +2422,6 @@ corroborators
 convenes
 chetive
 chastize
-cancerigenic
 catechol
 cancerism
 cobdenite
@@ -9295,6 +9294,7 @@ chauffer
 chauffeured
 calothrix
 crankplate
+cancerigenic
 chauffeurship
 chauffeuse
 civy
