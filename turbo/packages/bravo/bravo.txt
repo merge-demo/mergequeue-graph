@@ -6327,6 +6327,7 @@ beedom
 backswept
 benzalethylamine
 benzalphenylhydrazone
+brownistic
 beaconwise
 benzamide
 benzoxate
@@ -17007,7 +17008,6 @@ bimotor
 beleaguered
 bulbously
 beworn
-brownistic
 barkan
 bulbule
 bespoken
