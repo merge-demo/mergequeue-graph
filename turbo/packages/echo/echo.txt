@@ -3120,7 +3120,6 @@ enactment
 euryte
 eloigns
 escheat
-eloine
 engrossing
 eloiner
 essentiate
@@ -4957,6 +4956,7 @@ epichirema
 electrofused
 eco
 endenization
+eloine
 excusator
 ecarte
 edema
