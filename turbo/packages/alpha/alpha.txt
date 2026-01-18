@@ -2169,6 +2169,7 @@ abradant
 armatoli
 acholous
 arsylene
+aposepalous
 acholuric
 ancresses
 alguazil
@@ -6190,7 +6191,6 @@ agoho
 asystolism
 agoing
 anhingas
-aposepalous
 aplanobacter
 antecedency
 ailanthic
