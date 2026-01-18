@@ -1688,7 +1688,6 @@ graders
 gelatination
 grudgefulness
 gulancha
-gryposis
 gentries
 gastrophilite
 grandly
@@ -3508,6 +3507,7 @@ gracile
 gawish
 gibbsites
 gumbotils
+gryposis
 galumphs
 gapo
 gleeking

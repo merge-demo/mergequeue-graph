@@ -1344,7 +1344,6 @@ demissive
 diploid
 draftsperson
 doggerelize
-disgavelling
 dompt
 damagement
 dauntingness
@@ -8117,6 +8116,7 @@ disventure
 delineate
 domesticized
 deepener
+disgavelling
 diacaustic
 diamminonitrate
 diapasons
