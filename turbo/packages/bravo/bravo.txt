@@ -865,7 +865,6 @@ billikin
 bacillar
 bezique
 bagasses
-berceaunette
 badhan
 bruxisms
 beflags
@@ -7517,6 +7516,7 @@ birefraction
 befoolment
 betwine
 befingered
+berceaunette
 betwixt
 bancales
 beneaped
