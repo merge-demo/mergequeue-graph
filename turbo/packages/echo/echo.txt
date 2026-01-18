@@ -6100,6 +6100,7 @@ embelia
 ereptic
 espringal
 enlodge
+elderwood
 equilater
 episkotister
 estuary
@@ -9911,7 +9912,6 @@ epicentrum
 equicellular
 electroosmotically
 estrayed
-elderwood
 epididymodeferential
 ebraick
 estral
