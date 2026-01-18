@@ -1586,6 +1586,7 @@ gayals
 gl
 graphology
 gunz
+glycyrrhiza
 goodeniaceous
 geulah
 galavant
@@ -3150,7 +3151,6 @@ geraniaceae
 griffado
 gazon
 gabler
-glycyrrhiza
 grangerism
 graip
 grannam
