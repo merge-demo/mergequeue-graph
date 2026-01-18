@@ -1394,6 +1394,7 @@ gossipee
 gipsying
 guilloche
 greenless
+gladiolas
 gola
 garret
 grizzliest
@@ -8423,7 +8424,6 @@ greenbacker
 gossampine
 gunflint
 grad
-gladiolas
 gales
 gorbit
 grocerdom
