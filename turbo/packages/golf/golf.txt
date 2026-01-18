@@ -2969,6 +2969,7 @@ gaolering
 geographies
 gemmologists
 galliardness
+glyptograph
 geoids
 gloriole
 gastrostomy
@@ -7374,7 +7375,6 @@ glochidial
 gestor
 glomerule
 gilthead
-glyptograph
 gallach
 gynostemia
 groupable
