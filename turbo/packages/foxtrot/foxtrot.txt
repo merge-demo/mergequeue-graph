@@ -5512,7 +5512,6 @@ forestays
 favellae
 flexion
 foreclosable
-ferdiad
 fleecer
 foraminiferous
 flirtish
@@ -11208,6 +11207,7 @@ fistulae
 fennecs
 foreday
 furzed
+ferdiad
 funiculars
 funiform
 fount

@@ -991,7 +991,6 @@ dignitaries
 derequisition
 dolomitise
 disproportionate
-drest
 darics
 devwsor
 darien
@@ -12929,6 +12928,7 @@ disobeying
 delineative
 desulphuration
 disoblige
+drest
 demonologically
 dognapping
 decolorising
