@@ -2130,7 +2130,6 @@ acroteral
 achilous
 achylous
 amakosa
-alts
 adawlut
 arend
 apiculate
@@ -11746,6 +11745,7 @@ aneles
 appaumee
 annuation
 androgenesis
+alts
 arbitrators
 anagrammatism
 anagrammatizing
