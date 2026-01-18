@@ -613,7 +613,6 @@ fumishness
 falsehood
 flosculet
 frazil
-fertility
 faintingly
 festschriften
 fluctiferous
@@ -7499,6 +7498,7 @@ forebush
 foreburton
 fameless
 forecast
+fertility
 fallaciousness
 forestarling
 foams
