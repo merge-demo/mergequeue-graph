@@ -928,7 +928,6 @@ gawkishness
 gatewise
 guelphism
 greedy
-germal
 gelototherapy
 garaging
 gammarine
@@ -3896,6 +3895,7 @@ geomorphy
 gnoff
 gladatorial
 gigatons
+germal
 gastroschisis
 galaxias
 gastrosoph
