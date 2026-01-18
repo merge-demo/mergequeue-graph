@@ -9959,7 +9959,6 @@ demonstratability
 disbecome
 discographical
 dirigomotor
-dihydrate
 dermohemia
 divinable
 dinothere
@@ -10161,6 +10160,7 @@ dinghee
 dinghies
 disple
 desition
+dihydrate
 deutoxide
 diachaenium
 drillability
