@@ -2115,6 +2115,7 @@ exoneration
 electrosurgical
 endleaf
 enfoil
+enterobiliary
 exterminatress
 enanthematous
 eisteddfodism
@@ -8773,7 +8774,6 @@ extradites
 erections
 explosionist
 eviller
-enterobiliary
 etcetera
 ethylenes
 exemplificative

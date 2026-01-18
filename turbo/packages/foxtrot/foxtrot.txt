@@ -63,7 +63,6 @@ fabulously
 facebar
 facebow
 fenchone
-faceharden
 flagships
 flecken
 facellite
@@ -11390,6 +11389,7 @@ feater
 forksmith
 forestership
 forcemeat
+faceharden
 flustrum
 fisticuffing
 flatterous
