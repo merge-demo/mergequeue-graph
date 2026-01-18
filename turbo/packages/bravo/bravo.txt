@@ -6505,6 +6505,7 @@ bugology
 banxring
 boccaro
 bepiece
+betinge
 bolshie
 boca
 bumbled
@@ -7405,7 +7406,6 @@ bastionet
 ballgowns
 blotching
 bridgeward
-betinge
 betire
 betis
 byproduct
