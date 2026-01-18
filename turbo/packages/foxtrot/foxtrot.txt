@@ -547,6 +547,7 @@ fragmentising
 filicites
 froggy
 fatstock
+factorability
 frenchily
 falters
 fronts
@@ -1024,7 +1025,6 @@ formate
 foreorder
 fenester
 flustrating
-factorability
 forweend
 flashes
 fluorapatite
