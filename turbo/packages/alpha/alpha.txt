@@ -17703,7 +17703,6 @@ appleblossom
 appled
 arillodium
 airborne
-allopaths
 argils
 avignonese
 acetoarsenite
@@ -19517,6 +19516,7 @@ acad
 arsonic
 anecdotal
 argonautid
+allopaths
 argonne
 argons
 argosy
