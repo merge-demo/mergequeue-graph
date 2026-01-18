@@ -5116,7 +5116,6 @@ chondrosamine
 cascadite
 cascalho
 cascalote
-calenturist
 coagulant
 compsognathus
 cascaras
@@ -25230,6 +25229,7 @@ crake
 choledochectomy
 corystoid
 corita
+calenturist
 calesa
 cephaldemae
 corium
