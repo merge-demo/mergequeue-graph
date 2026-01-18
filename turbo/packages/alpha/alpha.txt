@@ -1771,7 +1771,6 @@ anemia
 apochromatic
 acedy
 acedias
-abbreviature
 agalloch
 astigmia
 ammonitiferous
@@ -15184,6 +15183,7 @@ aberrometer
 amil
 arachnoidea
 arctocephalus
+abbreviature
 airframe
 aseptically
 antifebrin
