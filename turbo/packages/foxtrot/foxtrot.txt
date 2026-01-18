@@ -10278,7 +10278,6 @@ frazed
 fluormeter
 ferrates
 farnesses
-factor
 frenziedness
 forleaving
 foundationless
@@ -11584,6 +11583,7 @@ foregallery
 fussbudgety
 fevers
 filtrates
+factor
 fussers
 faradic
 fargite
