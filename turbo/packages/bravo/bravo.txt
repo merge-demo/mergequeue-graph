@@ -1781,7 +1781,6 @@ bamalip
 basswood
 bulled
 brachistocephalic
-bamban
 buggery
 bambochade
 bosuns
@@ -17355,6 +17354,7 @@ boardmen
 boudeuse
 bottleneck
 badged
+bamban
 bundles
 bipaliidae
 benzantialdoxime
