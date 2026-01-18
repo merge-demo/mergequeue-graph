@@ -9314,7 +9314,6 @@ endosiphon
 encrusted
 erugos
 eleocharis
-eruptible
 eruption
 eruptional
 ellen
@@ -13145,6 +13144,7 @@ embolomycotic
 extracathedral
 emulsify
 efoveolate
+eruptible
 enterauxe
 epanaleptic
 experting
