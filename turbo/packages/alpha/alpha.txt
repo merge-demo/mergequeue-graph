@@ -2001,7 +2001,6 @@ acetophenone
 autecy
 anticipatory
 arterial
-acetostearin
 acetothienone
 acetotoluid
 accessible
@@ -2202,6 +2201,7 @@ anabasse
 anguinidae
 autoptic
 assessably
+acetostearin
 abbreviatory
 alginic
 amphioxides
