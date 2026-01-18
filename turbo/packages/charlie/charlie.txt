@@ -11405,7 +11405,6 @@ choak
 choana
 consultations
 choanate
-choanephora
 cystopyelography
 choanocyte
 choanoflagellate
@@ -31303,6 +31302,7 @@ crackle
 curbs
 curbside
 curbstone
+choanephora
 curbstoner
 curcas
 citric
