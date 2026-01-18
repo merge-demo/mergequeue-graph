@@ -781,6 +781,7 @@ frig
 fetidness
 fezzan
 fibroangioma
+fulmine
 ferv
 frequently
 forelouper
@@ -3954,7 +3955,6 @@ floperoo
 finalizes
 fibrinemia
 fiscal
-fulmine
 flanque
 feminisation
 fictionally
