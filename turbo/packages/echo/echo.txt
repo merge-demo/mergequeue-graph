@@ -6613,7 +6613,6 @@ exchangite
 escambron
 enteroischiocele
 enlacement
-expergefacient
 esplees
 electronarcosis
 eurocentric
@@ -11122,6 +11121,7 @@ eutrophication
 externalised
 expiating
 eutropous
+expergefacient
 evocation
 entanglingly
 entry
