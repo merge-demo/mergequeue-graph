@@ -1513,6 +1513,7 @@ gillnet
 gasmen
 germiest
 geniture
+genip
 grein
 geotonic
 gangland
@@ -2703,7 +2704,6 @@ granularity
 gingers
 gascoign
 geek
-genip
 gilbertese
 genyplasty
 glashan
