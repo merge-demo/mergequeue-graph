@@ -8400,7 +8400,6 @@ bombyxes
 bashawdom
 bigwig
 bigwiggery
-biomass
 beryllia
 babu
 brachygraphic
@@ -13547,6 +13546,7 @@ biquarterly
 barhop
 bouffant
 brontesque
+biomass
 barristers
 bratina
 blunderer
