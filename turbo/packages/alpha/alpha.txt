@@ -2609,7 +2609,6 @@ adffrozen
 adjacent
 acquest
 armenite
-actutate
 arriswise
 acquiesce
 addiction
@@ -24783,6 +24782,7 @@ aortography
 adamine
 avidity
 arithmetized
+actutate
 autologous
 anticonstitutionalism
 anitrogenous
