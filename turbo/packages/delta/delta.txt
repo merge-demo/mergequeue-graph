@@ -5869,6 +5869,7 @@ demagnetizer
 depressional
 dulia
 dotard
+dizens
 dissipations
 dolerin
 dendrobe
@@ -16204,7 +16205,6 @@ dialector
 deerskins
 dewy
 dalk
-dizens
 deallocates
 defats
 doweress
