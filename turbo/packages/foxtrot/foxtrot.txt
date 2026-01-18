@@ -5624,6 +5624,7 @@ flinch
 flagleaf
 fatted
 fishnets
+feudalizable
 finedraw
 fumet
 fermium
@@ -10602,7 +10603,6 @@ fishifying
 festooned
 flabbergasting
 freeby
-feudalizable
 flaxwoman
 forerunner
 farceurs
