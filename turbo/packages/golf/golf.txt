@@ -5858,7 +5858,6 @@ gipsylike
 glucinums
 gangflower
 giggle
-glucocorticoid
 gardenless
 gardon
 griddled
@@ -7944,6 +7943,7 @@ glimmerite
 gleization
 gregaloid
 gyniolatry
+glucocorticoid
 gasterosteid
 gulas
 grandfathers
