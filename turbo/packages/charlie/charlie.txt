@@ -309,6 +309,7 @@ crinogenic
 counterend
 cacklers
 corycia
+cryptogamic
 carrageenin
 cackles
 calesas
@@ -29311,7 +29312,6 @@ cryptogam
 chilitis
 cryptogame
 cryptogamy
-cryptogamic
 cryptogamical
 citigrade
 cryptogamist
