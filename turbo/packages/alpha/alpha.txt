@@ -1624,7 +1624,6 @@ accretions
 awag
 according
 assapanic
-amphoricity
 achate
 artificialize
 accriminate
@@ -10360,6 +10359,7 @@ angiotonase
 autonym
 aneled
 audio
+amphoricity
 americanizing
 addicted
 americanly
