@@ -3572,6 +3572,7 @@ catechized
 capture
 captured
 captures
+cynoglossum
 capturing
 curricular
 capuan
@@ -15545,7 +15546,6 @@ classicist
 classicists
 cheshire
 cordially
-cynoglossum
 confoundedly
 chabasie
 classicolatry
