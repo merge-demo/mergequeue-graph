@@ -742,7 +742,6 @@ giantlikeness
 gollywog
 gonoplasm
 gerbillinae
-gar
 goniometric
 greenshank
 gasted
@@ -9235,6 +9234,7 @@ gyroceran
 gemeled
 gristlier
 grazingly
+gar
 grene
 griths
 gritted
