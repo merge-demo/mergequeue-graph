@@ -4532,7 +4532,6 @@ grating
 goupen
 giojoso
 greegree
-gressible
 girdles
 grids
 girella
@@ -6897,6 +6896,7 @@ gangliomata
 graftonite
 gammacismus
 groundspeed
+gressible
 goa
 gooders
 goodheartedness
