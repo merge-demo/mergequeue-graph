@@ -6749,7 +6749,6 @@ fleece
 feering
 foresworn
 felonweed
-foiter
 felloe
 frayed
 fried
@@ -7798,6 +7797,7 @@ fowlerite
 fritterers
 foreordinate
 floridian
+foiter
 forespent
 finns
 filterman
