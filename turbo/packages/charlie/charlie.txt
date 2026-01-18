@@ -1339,7 +1339,6 @@ chaucer
 calycate
 calyceraceae
 cardioparplasis
-calyces
 cathartin
 calycifloral
 cascabels
@@ -21661,6 +21660,7 @@ condyles
 crimsony
 clubbers
 cariacus
+calyces
 carbamidine
 condyloma
 condylomatous

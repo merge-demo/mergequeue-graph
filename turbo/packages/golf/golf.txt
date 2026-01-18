@@ -1408,7 +1408,6 @@ gnamma
 gothicism
 golfs
 gemologists
-gn
 gargle
 gynoeciumcia
 gelatinising
@@ -3809,6 +3808,7 @@ gonococcic
 gigelira
 gaolerness
 gold
+gn
 granthi
 guanylic
 granulitization
