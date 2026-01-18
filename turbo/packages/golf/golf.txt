@@ -2009,7 +2009,6 @@ gaveled
 ghastfulness
 gibbosities
 gangrenes
-gnomologic
 gubernation
 greiges
 guazuti
@@ -3879,6 +3878,7 @@ gawkies
 giving
 genitally
 graphomotor
+gnomologic
 gigasecond
 glamorously
 galleried
