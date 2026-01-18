@@ -1034,7 +1034,6 @@ despumated
 dizain
 darkliest
 draffsack
-distains
 drabbed
 darkmans
 dineutron
@@ -10259,6 +10258,7 @@ defunctive
 dioctahedral
 dioctophyme
 deave
+distains
 distritbuted
 defaulting
 dinoflagellata
