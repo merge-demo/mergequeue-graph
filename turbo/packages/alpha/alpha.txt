@@ -6259,7 +6259,6 @@ agos
 afteryears
 anteprostatic
 analogion
-agouara
 acetoacetic
 amarth
 antioptimist
@@ -8223,6 +8222,7 @@ anonad
 archie
 acquaintedness
 alienability
+agouara
 ascetta
 alienabilities
 airfields
