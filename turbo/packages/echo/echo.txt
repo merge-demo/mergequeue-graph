@@ -4647,6 +4647,7 @@ encyclopedia
 enwoman
 encyclopediacal
 erysipelatous
+edeagra
 equestrianship
 exceptionability
 evolutionize
@@ -11452,7 +11453,6 @@ evictions
 emboldens
 evictor
 evidence
-edeagra
 earned
 evidences
 ethereous
