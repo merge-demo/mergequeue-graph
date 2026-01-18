@@ -2966,6 +2966,7 @@ exister
 extraovate
 eliminable
 etymologizing
+enterosepsis
 eradiation
 etiologies
 embind
@@ -6647,7 +6648,6 @@ enkindler
 electromotiv
 exudative
 enchelycephali
-enterosepsis
 enterotome
 encharged
 enright
