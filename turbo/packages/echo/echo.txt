@@ -6493,6 +6493,7 @@ ephyra
 exactly
 extratension
 entomophthora
+eelier
 exponentials
 endurant
 epibolism
@@ -9036,7 +9037,6 @@ ebbets
 equalize
 emptier
 erythrocytolysis
-eelier
 enhypostasis
 ephyrae
 evocatively
