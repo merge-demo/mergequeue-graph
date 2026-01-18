@@ -7667,6 +7667,7 @@ expoundable
 epideistic
 enthymematical
 enfeebler
+ennomic
 eriocaulaceous
 effluxion
 estrus
@@ -12108,7 +12109,6 @@ ency
 excruciating
 enascent
 excruciator
-ennomic
 excubitoria
 eradicator
 entwisting
