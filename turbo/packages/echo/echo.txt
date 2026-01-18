@@ -3712,7 +3712,6 @@ efflower
 endiaper
 erugation
 electroendosmotic
-economite
 eversive
 eyelast
 eolipile
@@ -8951,6 +8950,7 @@ extraspherical
 evenings
 encephalin
 eleaticism
+economite
 endopleurite
 easternism
 erratics
