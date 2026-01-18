@@ -8450,7 +8450,6 @@ cynegetic
 champerties
 chalaze
 champertor
-carbolxylol
 champertous
 cephalomotor
 champy
@@ -10264,6 +10263,7 @@ committer
 champerator
 cantharidin
 chicest
+carbolxylol
 coccidioidomycosis
 churm
 chich
