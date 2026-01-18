@@ -7741,6 +7741,7 @@ extractiform
 encephalogram
 equispatial
 entomophthoraceae
+elegante
 exotisms
 embolite
 expedientially
@@ -10118,7 +10119,6 @@ expressiveness
 earphones
 euhyostyly
 epagomenic
-elegante
 eboe
 epilation
 embaying

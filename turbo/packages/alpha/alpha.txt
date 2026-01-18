@@ -12287,6 +12287,7 @@ anubing
 ancoly
 ancome
 ancona
+apraxias
 anilic
 alemannian
 addability
@@ -13214,7 +13215,6 @@ alloplasmic
 animistic
 anabatic
 accretionary
-apraxias
 amaltas
 anilidic
 allude
