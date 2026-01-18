@@ -4446,6 +4446,7 @@ guacimo
 gypsyhead
 gloeocapsoid
 galoshes
+gastradenitis
 girlie
 grantiidae
 grammontine
@@ -10205,7 +10206,6 @@ guile
 gyrectomies
 galluses
 groundsel
-gastradenitis
 geotonus
 glamourously
 genetika
