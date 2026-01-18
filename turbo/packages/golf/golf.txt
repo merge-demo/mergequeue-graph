@@ -2856,6 +2856,7 @@ gustavus
 guardsman
 gipser
 grasschat
+goethite
 gasmetophytic
 generatrices
 gileadite
@@ -5438,7 +5439,6 @@ gonfanon
 gallah
 gluing
 gladful
-goethite
 gentlest
 gyrovagi
 grimier
