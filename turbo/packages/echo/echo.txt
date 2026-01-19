@@ -5578,7 +5578,6 @@ emigratory
 enfoldings
 enteropneustal
 enfolds
-eneuch
 emigated
 epicist
 episiostenosis
@@ -5708,6 +5707,7 @@ exampless
 engineers
 engineless
 engineman
+eneuch
 epitheliolysis
 eudidymite
 egalites
