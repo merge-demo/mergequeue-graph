@@ -498,7 +498,6 @@ blathering
 backstitch
 bahoo
 blumed
-biserial
 billhead
 briming
 broadway
@@ -14106,6 +14105,7 @@ bikol
 berlinite
 burkites
 behaviour
+biserial
 bogusness
 boffins
 brachiopoda
