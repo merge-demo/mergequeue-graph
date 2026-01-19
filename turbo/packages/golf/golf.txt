@@ -4350,7 +4350,6 @@ gangrene
 gyniatries
 gambias
 gynaecomorphous
-glottitis
 grindings
 groundhog
 gink
@@ -6644,6 +6643,7 @@ gondoletta
 guffs
 gangliform
 gamboller
+glottitis
 gordius
 glossolabiopharyngeal
 gucks

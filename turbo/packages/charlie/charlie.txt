@@ -7084,6 +7084,7 @@ centiday
 cannikin
 copt
 confluences
+cyanicide
 centigrams
 centile
 cendre
@@ -25175,7 +25176,6 @@ contraprop
 chenopodiales
 conversantly
 cads
-cyanicide
 clocking
 corymbiate
 corymbiated
