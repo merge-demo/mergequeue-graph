@@ -7855,7 +7855,6 @@ clinician
 cession
 clapotis
 cessionaire
-castaway
 cessor
 cesspit
 cesspits
@@ -28162,6 +28161,7 @@ cranioscopy
 chimerism
 cameos
 craniotomy
+castaway
 craniotopography
 craniums
 crankcases
