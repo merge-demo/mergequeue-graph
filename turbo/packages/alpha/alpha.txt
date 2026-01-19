@@ -3984,7 +3984,6 @@ adulterant
 allosterically
 amimide
 anthus
-acerola
 arrows
 algedonics
 ankuses
@@ -13737,6 +13736,7 @@ anaerobic
 anomouran
 anomphalous
 abhorrer
+acerola
 anonaceous
 animalised
 auxiliar
