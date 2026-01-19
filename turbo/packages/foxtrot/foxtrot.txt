@@ -9185,7 +9185,6 @@ foundries
 fishbowls
 faucals
 fidalgo
-forsakes
 flattener
 feldspathose
 flosh
@@ -9312,6 +9311,7 @@ frothy
 fleawood
 fortypenny
 fecaloid
+forsakes
 fatuitousness
 frankalmoign
 factual
