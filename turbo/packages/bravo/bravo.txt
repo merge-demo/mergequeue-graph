@@ -946,6 +946,7 @@ belligerently
 bagsful
 bazookaman
 barbeled
+bedmate
 bravely
 beprank
 bidarkas
@@ -4756,7 +4757,6 @@ bibliotic
 blackseed
 bord
 burbled
-bedmate
 bogey
 bedouins
 bauckiebird
