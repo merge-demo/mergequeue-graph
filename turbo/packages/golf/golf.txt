@@ -6727,7 +6727,6 @@ gaveller
 goniodoridae
 genizah
 gynandrous
-granitized
 gametophore
 gagging
 grannie
@@ -8825,6 +8824,7 @@ guanay
 gablelike
 graecized
 goldeye
+granitized
 greyed
 grosser
 gainlier

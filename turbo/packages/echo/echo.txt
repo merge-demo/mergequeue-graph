@@ -784,7 +784,6 @@ eggment
 electrophotography
 ectasis
 endothia
-enoil
 exequies
 expulsed
 ectental
@@ -12643,6 +12642,7 @@ examplar
 enterogram
 effusion
 exognathite
+enoil
 expunges
 exornate
 exogenetic
