@@ -7610,7 +7610,6 @@ cevadilline
 cerebrospinant
 cerebrosuria
 cerebrovascular
-coreveller
 collarets
 cerements
 crestal
@@ -23891,6 +23890,7 @@ ciguatera
 caducibranch
 contumely
 consisted
+coreveller
 chadlock
 culling
 contumelious
