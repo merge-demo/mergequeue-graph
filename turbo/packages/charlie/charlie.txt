@@ -17471,7 +17471,6 @@ citropsis
 curculionid
 coble
 cobleman
-cuttings
 campanist
 coblentzian
 cobleskill
@@ -24506,6 +24505,7 @@ countermotion
 clampdown
 cerographist
 copastor
+cuttings
 copastors
 candlebox
 copatentee
