@@ -3659,7 +3659,6 @@ backsettler
 batophobia
 benzdioxazine
 balloonery
-bepierce
 batrachian
 bifrontal
 booboo
@@ -17496,6 +17495,7 @@ bantling
 bedip
 bystanders
 blockout
+bepierce
 backspeir
 burbolt
 blight

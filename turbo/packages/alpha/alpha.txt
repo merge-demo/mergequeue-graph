@@ -6871,7 +6871,6 @@ airspace
 antisepticized
 airspaces
 ancience
-alec
 airspeeds
 apomorphin
 airt
@@ -9685,6 +9684,7 @@ aquatints
 anticommunism
 alveololabial
 achene
+alec
 amongst
 ambries
 alveololingual
