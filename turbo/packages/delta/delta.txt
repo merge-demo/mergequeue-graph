@@ -552,7 +552,6 @@ deaccessions
 dovyalis
 deliber
 damagers
-damalic
 dextrorotation
 demobilized
 designations
@@ -11639,6 +11638,7 @@ discommodiousness
 disconventicle
 discophoran
 discoplacenta
+damalic
 dionymal
 defeminise
 dinder
