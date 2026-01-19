@@ -11505,6 +11505,7 @@ botryllidae
 balladmonger
 bluffing
 barish
+bardane
 baba
 baublery
 banyoro
@@ -12560,7 +12561,6 @@ boroughlet
 bragi
 barndoor
 bemocks
-bardane
 bonk
 boterol
 begrudging
