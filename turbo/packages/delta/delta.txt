@@ -6462,7 +6462,6 @@ dispossesses
 desmarestiaceae
 descendable
 dimensioned
-dipeptid
 dentellated
 disqualification
 delignated
@@ -15420,6 +15419,7 @@ djebel
 disanoint
 dolichoprosopic
 dimity
+dipeptid
 daisycutter
 diapophysial
 directing
