@@ -249,6 +249,7 @@ crumbly
 cachemic
 coemploy
 cities
+colonisability
 cachepot
 chillies
 crenelations
@@ -19286,7 +19287,6 @@ colonials
 colonical
 critically
 colonies
-colonisability
 colonisable
 clinid
 consumingness

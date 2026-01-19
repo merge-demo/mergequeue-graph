@@ -6268,7 +6268,6 @@ embryologies
 embroil
 efformative
 earmarking
-enrollers
 eche
 excitants
 exscinding
@@ -7939,6 +7938,7 @@ encyclopaedia
 equilobed
 epimysia
 esthesias
+enrollers
 expunger
 eviscerating
 enflesh
