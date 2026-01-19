@@ -2828,6 +2828,7 @@ bejazz
 bedarken
 biplanar
 bruta
+bituminized
 beisa
 baroswitch
 bld
@@ -9953,7 +9954,6 @@ bituminate
 bassalian
 bituminising
 billowing
-bituminized
 burnbeat
 bacchian
 bucktail

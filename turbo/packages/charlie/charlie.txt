@@ -9475,6 +9475,7 @@ checkbits
 checkbook
 counterbuff
 chachalaca
+cupric
 cableways
 cirrigerous
 climatically
@@ -22142,7 +22143,6 @@ confraternal
 cigala
 confreres
 circumcorneal
-cupric
 crocheters
 colpeurynter
 confrerie
