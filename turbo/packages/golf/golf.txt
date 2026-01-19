@@ -634,6 +634,7 @@ glide
 gastrotheca
 gestic
 gradatory
+gluside
 guenepe
 guideline
 gramineal
@@ -3344,7 +3345,6 @@ gneu
 gadbush
 gessamine
 gonfanons
-gluside
 gibbar
 guttiferal
 germinations
