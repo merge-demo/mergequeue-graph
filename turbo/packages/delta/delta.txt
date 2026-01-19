@@ -6759,7 +6759,6 @@ detachments
 desinence
 desinent
 dallying
-desinential
 defectious
 desynonymize
 decorticating
@@ -9817,6 +9816,7 @@ diesis
 discouragingness
 dynamometamorphism
 diluvia
+desinential
 describing
 disarmament
 disillusionizer

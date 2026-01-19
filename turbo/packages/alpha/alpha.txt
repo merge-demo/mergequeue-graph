@@ -202,7 +202,6 @@ abbey
 abscissin
 archapostate
 aleshot
-azophen
 acatastasia
 antimiasmatic
 aecidium
@@ -552,6 +551,7 @@ anba
 antiradiation
 aciliated
 ablude
+azophen
 atweel
 acquit
 aventurine
