@@ -2413,6 +2413,7 @@ cancellus
 cancelment
 cessment
 containerize
+climatographical
 chimneys
 culicine
 cancer
@@ -16127,7 +16128,6 @@ corporatively
 climatic
 climatius
 climatize
-climatographical
 climatological
 conductitious
 crenulated
