@@ -9766,7 +9766,6 @@ dillenia
 datsw
 dimethoate
 decaphyllous
-deposable
 deckpipe
 dysoxidize
 dogmatiser
@@ -11445,6 +11444,7 @@ devaluations
 deadeye
 duodenogram
 dehaites
+deposable
 degumming
 draconis
 distorted
