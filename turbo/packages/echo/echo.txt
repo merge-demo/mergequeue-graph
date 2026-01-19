@@ -1865,7 +1865,6 @@ eurythmy
 erasability
 equiseta
 extrovert
-errata
 eximiousness
 exacta
 effectively
@@ -7201,6 +7200,7 @@ epicurize
 enskied
 excrescences
 expunge
+errata
 electronegativity
 eoith
 endogenies
