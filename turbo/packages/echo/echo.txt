@@ -2627,7 +2627,6 @@ epistemonical
 evolvers
 excitably
 electroreduction
-endamoebiasis
 eunuchising
 edh
 eupneic
@@ -12205,6 +12204,7 @@ epigraph
 epilachna
 executioneering
 enneahedrons
+endamoebiasis
 engarb
 episynthetic
 excur
