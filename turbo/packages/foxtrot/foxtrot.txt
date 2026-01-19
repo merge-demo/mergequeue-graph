@@ -177,7 +177,6 @@ factitively
 forums
 flatfoots
 featherless
-furnarius
 flier
 factorable
 flimsies
@@ -11715,6 +11714,7 @@ fados
 fantastically
 feudalised
 forecool
+furnarius
 futurition
 fashionably
 fratority

@@ -3720,6 +3720,7 @@ acclivity
 almuerzo
 appenage
 annum
+aphorizing
 adespoton
 analemmatic
 adessenarian
@@ -16824,7 +16825,6 @@ autoportraiture
 aphorize
 abos
 aphorizes
-aphorizing
 ancienter
 approve
 anlet
