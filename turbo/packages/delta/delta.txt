@@ -8837,7 +8837,6 @@ dualized
 defrosted
 diborate
 dibothriocephalus
-daughterless
 dibranch
 duftery
 defiguration
@@ -11647,6 +11646,7 @@ dinder
 discoplasm
 dostoevsky
 damsite
+daughterless
 denser
 discursative
 discommune
