@@ -6781,6 +6781,7 @@ busulfan
 busying
 berrichonne
 bandleader
+boothite
 bunodont
 bosquet
 bridgebuilding
@@ -12918,7 +12919,6 @@ boccias
 brews
 bedspread
 bitterblain
-boothite
 bimotored
 bootied
 bearfoot
