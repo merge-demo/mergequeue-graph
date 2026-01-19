@@ -9128,6 +9128,7 @@ agalactous
 antiputrefaction
 allotropical
 averter
+anatheme
 animations
 apollonistic
 almemars
@@ -12114,7 +12115,6 @@ appels
 anathematizer
 antihumanist
 aptote
-anatheme
 anatidae
 anatifer
 adumbrellar
