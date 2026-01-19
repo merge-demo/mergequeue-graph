@@ -9372,7 +9372,6 @@ edestin
 erythrogenesis
 emplacement
 erysipelas
-eyehole
 extraordinarily
 exactus
 explainer
@@ -12425,6 +12424,7 @@ exhilaratingly
 encasserole
 endite
 epifaunas
+eyehole
 exhortations
 elatery
 eisegeses
