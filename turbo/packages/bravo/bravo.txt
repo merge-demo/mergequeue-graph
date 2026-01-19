@@ -4880,6 +4880,7 @@ backsplicing
 bacterioidal
 beaded
 bedeswomen
+bearskin
 belavendered
 blanket
 boucl
@@ -8595,7 +8596,6 @@ bellflower
 balkanized
 bhuts
 bastionary
-bearskin
 billfolds
 ballaton
 bearlike
