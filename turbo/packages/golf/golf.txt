@@ -801,7 +801,6 @@ gastrular
 grazer
 glaceing
 gonia
-goldbeater
 gambe
 gourmanderie
 gambeered
@@ -1442,6 +1441,7 @@ grillages
 griffinish
 glamouring
 generated
+goldbeater
 gasalier
 gaoler
 gowks
