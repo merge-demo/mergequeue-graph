@@ -5218,7 +5218,6 @@ grissons
 gambian
 gloamings
 gemmipara
-golgi
 graphitoidal
 golf
 geniculate
@@ -8998,6 +8997,7 @@ glory
 grifting
 graving
 gritstone
+golgi
 ghent
 gneissose
 gigabit
