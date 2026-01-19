@@ -2387,6 +2387,7 @@ folksiness
 foredating
 fromfile
 foreordinating
+foxer
 freakpot
 fantods
 fervidor
@@ -3778,7 +3779,6 @@ fumblingness
 filigreeing
 flanconnade
 forestall
-foxer
 filmstrips
 filo
 filose
