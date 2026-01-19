@@ -10066,6 +10066,7 @@ blamability
 bilander
 boomerang
 bizarreness
+branchicolous
 blacklisting
 boudoiresque
 baseband
@@ -14509,7 +14510,6 @@ bradyglossia
 becrippling
 breeks
 bravados
-branchicolous
 besoothing
 branchiest
 blizz
