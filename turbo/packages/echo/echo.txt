@@ -5511,7 +5511,6 @@ effectful
 epilimnetic
 etherlike
 enfeoffing
-enfeoffment
 exestuate
 exhaustedly
 ethions
@@ -14112,6 +14111,7 @@ epiphyses
 exterraneous
 entrancements
 extrinsically
+enfeoffment
 extrinsicalness
 extrinsication
 enthralls
