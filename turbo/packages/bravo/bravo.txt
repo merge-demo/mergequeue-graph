@@ -9955,6 +9955,7 @@ bucktail
 bedivere
 babblative
 bana
+bemired
 bedrivelling
 bituminoid
 belsire
@@ -11249,7 +11250,6 @@ buckets
 barmskin
 bopyridae
 blottier
-bemired
 beatably
 brancher
 banff
