@@ -1468,6 +1468,7 @@ filago
 frameable
 fireside
 faubourgs
+furacana
 focussing
 forestial
 faulds
@@ -9382,7 +9383,6 @@ fossor
 freeloading
 fluoridate
 freewheeling
-furacana
 flammed
 franz
 felidae
