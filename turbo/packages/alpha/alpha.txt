@@ -1879,6 +1879,7 @@ abutments
 annard
 aetiological
 acetaniside
+anostraca
 acetars
 acetation
 axillas
@@ -13849,7 +13850,6 @@ anoscopy
 adytum
 aseismatic
 anospinal
-anostraca
 anotherguess
 anotherkins
 administrator
