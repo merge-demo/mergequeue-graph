@@ -3446,7 +3446,6 @@ figo
 fulwa
 foraminifer
 favillae
-fumaroid
 fibbed
 figshell
 flankard
@@ -4258,6 +4257,7 @@ floors
 febrifuges
 filacer
 facsimilist
+fumaroid
 fleers
 fiancee
 follicule
