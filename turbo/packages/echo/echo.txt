@@ -6599,6 +6599,7 @@ enantiomeric
 encraty
 elephantlike
 enzymologies
+escalader
 echelons
 enterohydrocele
 emetocathartic
@@ -10928,7 +10929,6 @@ err
 embalmer
 excess
 exdie
-escalader
 egoize
 editorializer
 equability
