@@ -5390,6 +5390,7 @@ glyoxalic
 galliwasp
 guniter
 glyphic
+gild
 gambist
 guran
 gus
@@ -6649,7 +6650,6 @@ glossopyrosis
 generational
 gong
 gekkota
-gild
 gynodioeciously
 gunsman
 glitters
