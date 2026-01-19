@@ -1213,7 +1213,6 @@ developoid
 disinvolve
 dextrans
 datary
-dataries
 dendrium
 dorsomedial
 datasetname
@@ -8557,6 +8556,7 @@ dexterously
 deflex
 diaphysial
 derisiveness
+dataries
 diaphonic
 divertedly
 denegation
