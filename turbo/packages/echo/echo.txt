@@ -6503,6 +6503,7 @@ extratension
 entomophthora
 eelier
 exponentials
+electrophysics
 endurant
 epibolism
 ended
@@ -6680,7 +6681,6 @@ epulis
 espundia
 endamebiasis
 entertainingly
-electrophysics
 entertainment
 endosepsis
 echimys
