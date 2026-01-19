@@ -8634,7 +8634,6 @@ conspired
 chantepleure
 chanterelle
 chondroseptum
-chanters
 cutters
 chantership
 chanteur
@@ -13038,6 +13037,7 @@ connivent
 cyathophyllum
 cyathus
 confest
+chanters
 cibarial
 ceroxyle
 champaca
