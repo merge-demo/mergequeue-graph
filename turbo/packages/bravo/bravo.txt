@@ -3169,7 +3169,6 @@ basepoint
 behavers
 baser
 brazen
-blanda
 besetter
 bonace
 bayete
@@ -12310,6 +12309,7 @@ bootee
 bungfull
 bacteriophagic
 bathycurrent
+blanda
 bullwhacker
 betrayer
 bombardments
