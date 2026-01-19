@@ -4086,7 +4086,6 @@ cardialgia
 cirrostome
 calla
 cardiameter
-carnationed
 chlorotic
 cunners
 colibri
@@ -28331,6 +28330,7 @@ capmaker
 cravats
 cravatting
 cloning
+carnationed
 chytra
 circuitor
 crave
