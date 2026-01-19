@@ -4146,7 +4146,6 @@ fibrils
 faintness
 fluophosphate
 foreaccounting
-frequence
 flunkeydom
 fumago
 frier
@@ -5083,6 +5082,7 @@ fregit
 farmhousey
 fraile
 flashings
+frequence
 fulgently
 flashlight
 frizzly
