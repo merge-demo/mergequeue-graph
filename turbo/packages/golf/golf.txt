@@ -1469,6 +1469,7 @@ gastrophilus
 gastric
 gisarme
 greta
+grinner
 gasolier
 gasped
 ghostology
@@ -6617,7 +6618,6 @@ granivorous
 glegnesses
 gonaduct
 guiling
-grinner
 gonalgia
 groundbird
 gallinipper
