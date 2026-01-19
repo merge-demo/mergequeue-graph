@@ -3940,6 +3940,7 @@ cicindela
 caraguata
 choleate
 coadventurer
+cocoroot
 corpuscular
 carburetant
 carbureted
@@ -17714,7 +17715,6 @@ creagh
 caved
 cocoons
 cocopan
-cocoroot
 choup
 cocotte
 cocottes
