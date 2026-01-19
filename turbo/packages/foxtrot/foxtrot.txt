@@ -5152,7 +5152,6 @@ foliaging
 foxiness
 frontierlike
 frivolers
-foreclaw
 formalin
 fuchsia
 fricandoes
@@ -7853,6 +7852,7 @@ foreran
 fascination
 forereading
 forereckon
+foreclaw
 foredates
 flannelbush
 forerun
