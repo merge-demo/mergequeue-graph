@@ -8721,7 +8721,6 @@ balladlike
 barrett
 beseeching
 beaverite
-bulldoggish
 baseball
 bloodbath
 blackly
@@ -9252,6 +9251,7 @@ bipinnatipartite
 butyrals
 bruiter
 bow
+bulldoggish
 bipinnatisect
 bobsledding
 brighter

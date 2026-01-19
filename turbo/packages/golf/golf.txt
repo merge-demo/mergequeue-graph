@@ -2916,6 +2916,7 @@ gobblers
 gavelkind
 gaeldom
 geocyclic
+garoter
 gnat
 geraldine
 gorsy
@@ -5986,7 +5987,6 @@ greige
 gainstrive
 garmenture
 gingles
-garoter
 gillot
 gonifs
 gazes
