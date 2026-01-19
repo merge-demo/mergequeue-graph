@@ -2071,7 +2071,6 @@ foggara
 filibuster
 famishes
 foremasthand
-fructidor
 fumatorium
 freeform
 fideistic
@@ -11488,6 +11487,7 @@ flotant
 fructuousness
 fashery
 fever
+fructidor
 furunculous
 furzeling
 furzy
