@@ -8359,6 +8359,7 @@ dichotomization
 dialysability
 diastolic
 dimerizing
+decrement
 dermamycosis
 descriptivism
 diminutal
@@ -11846,7 +11847,6 @@ discolichen
 disculpatory
 deashes
 deathwatch
-decrement
 dhourras
 discure
 discriminates
