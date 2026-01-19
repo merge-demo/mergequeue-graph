@@ -2364,6 +2364,7 @@ falconiformes
 frogling
 feudist
 francic
+foofaraws
 fluther
 ferried
 forgoes
@@ -6675,7 +6676,6 @@ frizel
 fluerics
 fasciculated
 formicariae
-foofaraws
 femaleness
 furrier
 freaky
