@@ -6628,7 +6628,6 @@ cecidomyiidae
 currieries
 cecilite
 contempt
-cecitis
 cecomorphic
 classily
 cecopexy
@@ -11542,6 +11541,7 @@ caschielawis
 conveniens
 cholate
 chamberer
+cecitis
 cholates
 crafting
 calciphile
