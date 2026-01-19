@@ -7494,6 +7494,7 @@ dittos
 dearnesses
 directions
 daemonology
+discoblastula
 disrupting
 dentiloquy
 decapper
@@ -10562,7 +10563,6 @@ denote
 dislikes
 disequilibrium
 duteously
-discoblastula
 deafens
 doited
 dafla
