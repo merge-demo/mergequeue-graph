@@ -10629,7 +10629,6 @@ equivalencies
 epinephrine
 empurpling
 excamber
-elopers
 epithet
 excusingly
 eastlake
@@ -11843,6 +11842,7 @@ everwhich
 eparchate
 enteroparesis
 espinillo
+elopers
 enfranchisement
 enervation
 extbook
