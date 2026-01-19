@@ -10208,6 +10208,7 @@ bos
 benzenyl
 bookrests
 bittor
+becquerelite
 blackguardry
 baroreceptor
 beseechers
@@ -11408,7 +11409,6 @@ beside
 bibbed
 bibio
 bluecoated
-becquerelite
 borable
 berettas
 bowlderhead
