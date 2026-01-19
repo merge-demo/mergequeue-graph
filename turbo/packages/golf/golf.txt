@@ -189,7 +189,6 @@ groschen
 greenheaded
 gelled
 garred
-going
 glaky
 glazing
 glede
@@ -6272,6 +6271,7 @@ gelatinised
 graecian
 gyroidal
 grundyist
+going
 galop
 genion
 gros
