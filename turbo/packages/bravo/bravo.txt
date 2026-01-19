@@ -3751,6 +3751,7 @@ battologize
 bronchiocele
 beardom
 britska
+bowdlerized
 batts
 blowpipe
 befouler
@@ -17598,7 +17599,6 @@ bottomlessly
 burghers
 burgraves
 bureaucratized
-bowdlerized
 burring
 bearlet
 berberry
