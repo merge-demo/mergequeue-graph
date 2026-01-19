@@ -1445,7 +1445,6 @@ botuliform
 balinghasay
 bromeosin
 bridling
-balister
 boycottism
 balistes
 boltstrake
@@ -18077,6 +18076,7 @@ booklet
 buccally
 boatsman
 barrancos
+balister
 butacaine
 bidentate
 bidi
