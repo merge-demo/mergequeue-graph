@@ -2435,6 +2435,7 @@ essentialize
 electionary
 evoker
 electroendosmosis
+extollment
 epoist
 enslavements
 exterminist
@@ -7357,7 +7358,6 @@ exuviate
 encloses
 exonship
 epithetical
-extollment
 everywhither
 earthmoving
 equipollency
