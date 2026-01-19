@@ -2470,7 +2470,6 @@ goading
 grewia
 grots
 guttersnipes
-gibbetwise
 gangrened
 genitalic
 grandity
@@ -7627,6 +7626,7 @@ germinancy
 gassier
 gramarye
 gastropyloric
+gibbetwise
 guigne
 gaffes
 gaucy
