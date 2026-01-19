@@ -9392,6 +9392,7 @@ carpoidea
 chazan
 chazanim
 chinalike
+chelone
 capette
 chazans
 chazanut
@@ -31153,7 +31154,6 @@ cunzie
 cutlines
 cupay
 cupania
-chelone
 cupboard
 canaling
 cupcakes
