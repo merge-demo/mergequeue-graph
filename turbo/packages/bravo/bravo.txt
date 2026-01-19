@@ -966,7 +966,6 @@ bahadur
 beverage
 bahay
 bahaist
-bahamians
 babbitter
 boated
 blitheness
@@ -4314,6 +4313,7 @@ bushbodies
 batiker
 boebera
 barly
+bahamians
 becalm
 becalming
 berrigan
