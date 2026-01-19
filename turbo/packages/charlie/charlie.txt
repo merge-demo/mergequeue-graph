@@ -17907,6 +17907,7 @@ contractibility
 coeff
 coefficients
 coelacanthidae
+cadges
 coelacanthous
 coelar
 coelastraceous
@@ -25955,7 +25956,6 @@ corvet
 corvette
 corvettes
 cahuapana
-cadges
 corvidae
 corvillosum
 creolize
