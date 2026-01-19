@@ -6108,6 +6108,7 @@ gyrous
 gurniad
 genuflections
 gastroid
+grassant
 geissorhiza
 griege
 gumi
@@ -6571,7 +6572,6 @@ goumier
 gastropod
 ghettos
 gynaecologic
-grassant
 grouplet
 grappas
 ground
