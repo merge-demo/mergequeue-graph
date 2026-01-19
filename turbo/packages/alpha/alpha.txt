@@ -8498,7 +8498,6 @@ alkin
 antioxygenating
 avarish
 anthologize
-antiship
 alkyne
 alkitran
 argufy
@@ -13767,6 +13766,7 @@ acoumeter
 allobroges
 approved
 amusable
+antiship
 abortuses
 ambisyllabic
 altimeter
