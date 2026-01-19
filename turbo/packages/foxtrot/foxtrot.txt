@@ -6374,7 +6374,6 @@ ferinely
 fluoroform
 fluoboric
 forefoot
-fronture
 furry
 formalization
 frogspawn
@@ -7251,6 +7250,7 @@ floorboards
 fameuse
 fancysick
 fortlet
+fronture
 federalise
 footwarmer
 focalized
