@@ -5138,6 +5138,7 @@ detruncating
 devoid
 denitrifier
 denizenation
+demonish
 diquats
 deflectionization
 drumbler
@@ -7577,7 +7578,6 @@ devas
 duole
 ditch
 devastating
-demonish
 dancingly
 devastation
 docimastic
