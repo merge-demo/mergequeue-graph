@@ -2933,7 +2933,6 @@ dedogmatize
 detenu
 discounted
 dedolation
-deseret
 destinal
 dotingness
 diegesis
@@ -11509,6 +11508,7 @@ dewaterer
 diaphragmatic
 demarch
 delies
+deseret
 dismounts
 derivationist
 deuteropathic
