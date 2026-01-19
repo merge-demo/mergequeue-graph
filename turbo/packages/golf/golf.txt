@@ -8616,7 +8616,6 @@ gerb
 grappled
 guti
 gulfed
-grapline
 gorgons
 guideposts
 goldfielder
@@ -9124,6 +9123,7 @@ gareh
 galvanometric
 gunnen
 gazeful
+grapline
 grusinian
 gonococcoid
 gearcase
