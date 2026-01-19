@@ -159,7 +159,6 @@ enriched
 exequy
 eelbobber
 expiring
-expressive
 escallop
 enticed
 echidna
@@ -336,6 +335,7 @@ eaten
 eighty
 electrodynamic
 enchantment
+expressive
 eczematization
 empeirema
 epacridaceous
