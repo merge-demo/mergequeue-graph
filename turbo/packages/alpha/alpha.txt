@@ -20470,7 +20470,6 @@ absey
 astate
 alaunian
 axers
-adjectivally
 antefurcal
 agrarian
 auctary
@@ -23191,6 +23190,7 @@ atter
 apathism
 attercop
 applyment
+adjectivally
 attery
 absorbtion
 attermined
