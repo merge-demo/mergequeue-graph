@@ -11533,6 +11533,7 @@ elenchus
 epiblastema
 embrittled
 errantness
+extracloacal
 ennoy
 evocator
 escapeful
@@ -12098,7 +12099,6 @@ enframement
 epicerebral
 electral
 electorates
-extracloacal
 edrioasteroid
 excerpter
 eubacterium
