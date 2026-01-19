@@ -8420,6 +8420,7 @@ entally
 eveweed
 eurystheus
 etym
+egalitarian
 exocannibalism
 epigrammatical
 eryops
@@ -13443,7 +13444,6 @@ echinosphaeritidae
 expropriable
 endome
 expropriate
-egalitarian
 elem
 evaluable
 epitomization
