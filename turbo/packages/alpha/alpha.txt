@@ -3156,7 +3156,6 @@ achtel
 advolution
 active
 apostrophized
-actives
 apparency
 attunely
 activin
@@ -21271,6 +21270,7 @@ alonso
 anapophysis
 auxins
 anticonformist
+actives
 ashrama
 alloxanate
 ashtoreth
