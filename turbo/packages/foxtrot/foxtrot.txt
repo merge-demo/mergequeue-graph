@@ -3299,6 +3299,7 @@ fonctionnaire
 fameworthy
 frist
 fruggan
+finnier
 fullmouthedly
 fissurella
 fulcra
@@ -10692,7 +10693,6 @@ frumenty
 fungals
 footband
 forecar
-finnier
 fantasizes
 foxier
 fatherliness
