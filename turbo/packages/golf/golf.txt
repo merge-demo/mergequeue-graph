@@ -5161,7 +5161,6 @@ gabbiest
 gnosticizer
 gunated
 glouted
-graftage
 galore
 gemara
 gerbils
@@ -7535,6 +7534,7 @@ gemini
 gibbetted
 gelatiniferous
 grounded
+graftage
 generability
 grinagog
 gypsying
