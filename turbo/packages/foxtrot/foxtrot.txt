@@ -8309,6 +8309,7 @@ fodge
 flytraps
 fusate
 forisfamiliation
+folksy
 fontlet
 ferrotyping
 firmament
@@ -8389,7 +8390,6 @@ futhark
 form
 fluoroscopes
 fullerboard
-folksy
 formalesque
 foistiness
 flatfootedly
