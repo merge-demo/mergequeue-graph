@@ -12541,7 +12541,6 @@ dreg
 disinfected
 deceivers
 denaturizer
-desponsories
 dispractice
 dols
 dangerously
@@ -18175,6 +18174,7 @@ dump
 disreputably
 degerming
 dyaster
+desponsories
 domic
 duplexing
 dineuric
