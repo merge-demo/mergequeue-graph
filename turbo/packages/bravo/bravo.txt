@@ -8453,7 +8453,6 @@ behaviors
 bilaterally
 belabouring
 boggart
-burny
 billions
 bilbi
 bagirmi
@@ -17551,6 +17550,7 @@ bobble
 bascule
 broadacre
 bothrops
+burny
 burgality
 beaufort
 bouses
