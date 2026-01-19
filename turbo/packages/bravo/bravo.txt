@@ -1863,7 +1863,6 @@ bindings
 boehmite
 brigading
 baroscope
-banders
 broadlings
 befogging
 barkinji
@@ -5183,6 +5182,7 @@ broiler
 butles
 bluebead
 bordereau
+banders
 befretting
 befume
 blellum
