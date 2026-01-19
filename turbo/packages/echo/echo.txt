@@ -11590,7 +11590,6 @@ encephalitis
 ewte
 eskimos
 elumbated
-exacerbated
 electroindustrial
 effet
 enfrenzy
@@ -13576,6 +13575,7 @@ emulation
 esoteric
 exsufflate
 exsufflation
+exacerbated
 epithymetical
 encephalotomies
 extracutaneous
