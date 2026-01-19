@@ -10907,6 +10907,7 @@ chirogale
 chirogymnast
 cautel
 cornu
+couplets
 chirognomy
 cerement
 chirognomic
@@ -21145,7 +21146,6 @@ conceals
 coleopteran
 cimmerian
 concededly
-couplets
 crash
 conceders
 concedes
