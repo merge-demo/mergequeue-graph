@@ -10514,7 +10514,6 @@ bridgewards
 bodywood
 blastomyces
 bainie
-blastomycete
 beadsmen
 buchonite
 blastoneuropore
@@ -16905,6 +16904,7 @@ bootmaker
 barbu
 bivalves
 bulbil
+blastomycete
 barvell
 bufotalin
 bufotoxin
