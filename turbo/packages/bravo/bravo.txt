@@ -10805,7 +10805,6 @@ branchiate
 blepharochromidrosis
 biomagnetic
 balow
-bullbeggar
 bugbeardom
 blepharomelasma
 blepharoncosis
@@ -16413,6 +16412,7 @@ burniebee
 baaskap
 brunnichia
 barred
+bullbeggar
 boysenberries
 bushed
 blastocheme
