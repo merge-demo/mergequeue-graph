@@ -553,6 +553,7 @@ germinates
 gastromelus
 geisotherm
 gilravager
+gentlemouthed
 gudgeoning
 gup
 galleryite
@@ -2805,7 +2806,6 @@ gallates
 galactophlysis
 gypseian
 geraniales
-gentlemouthed
 galactorrhea
 gentler
 gutnish
