@@ -4434,7 +4434,6 @@ consecutiveness
 ceruloplasmin
 cytogenetics
 cares
-crucifixions
 coenacted
 curite
 cutesy
@@ -27057,6 +27056,7 @@ counterreprisal
 counterrevolutionary
 cauterize
 chivaring
+crucifixions
 codiaceous
 cwt
 continuums
