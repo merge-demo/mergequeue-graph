@@ -10891,7 +10891,6 @@ ammonolytic
 aitches
 aguada
 anticult
-allonymously
 amphib
 afrits
 ammonolyzing
@@ -20863,6 +20862,7 @@ annectent
 academicals
 arfvedsonite
 accidentalism
+allonymously
 avulsed
 argufies
 armipotent
