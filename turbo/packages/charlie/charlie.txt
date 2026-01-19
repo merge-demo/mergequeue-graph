@@ -7151,6 +7151,7 @@ centrarchid
 centrarchoid
 clar
 compare
+cloudiness
 centraxonial
 centre
 clinoaxis
@@ -16720,7 +16721,6 @@ couthy
 cloudy
 cloudiest
 cloudily
-cloudiness
 clouding
 centimeter
 coeliorrhoea
