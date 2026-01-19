@@ -8522,7 +8522,6 @@ crossruff
 chanciness
 corundums
 campion
-chrysophilite
 calthrops
 chancing
 chancito
@@ -22717,6 +22716,7 @@ coster
 china
 coalized
 carbonylated
+chrysophilite
 conquerors
 cystadenosarcoma
 conquers
