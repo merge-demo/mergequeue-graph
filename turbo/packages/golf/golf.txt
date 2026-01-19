@@ -7205,6 +7205,7 @@ gamesters
 grimliness
 gloze
 grater
+gabbarts
 gonial
 gratin
 globosite
@@ -9815,7 +9816,6 @@ ghebeta
 guaymie
 geoponical
 grilles
-gabbarts
 gallivant
 gospellike
 gnathopoda
