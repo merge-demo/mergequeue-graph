@@ -5530,6 +5530,7 @@ enzootic
 epicardial
 enfilade
 exotericism
+elisions
 expatiator
 excriminate
 extraovular
@@ -6202,7 +6203,6 @@ egophony
 epitapher
 eradiation
 enostosis
-elisions
 erugatory
 editorialize
 enforcedly
