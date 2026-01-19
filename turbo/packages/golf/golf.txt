@@ -4745,6 +4745,7 @@ gal
 gizzern
 girondist
 glycogenize
+gordius
 gjedost
 gastropleuritis
 gyniatrics
@@ -6636,7 +6637,6 @@ guffs
 gangliform
 gamboller
 glottitis
-gordius
 glossolabiopharyngeal
 gucks
 grumped
