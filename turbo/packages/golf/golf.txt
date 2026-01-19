@@ -3705,7 +3705,6 @@ galvanoplastics
 granaries
 guttur
 guayacan
-graduations
 ghuz
 glabellae
 griffons
@@ -8278,6 +8277,7 @@ gheraoed
 gambits
 graspingly
 gutturalise
+graduations
 gleets
 genian
 grandee
