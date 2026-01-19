@@ -7118,7 +7118,6 @@ boyos
 bawdiness
 bespell
 bespelled
-bespend
 bespew
 boucherism
 bandfiling
@@ -8471,6 +8470,7 @@ bilders
 blighted
 bilection
 bileve
+bespend
 bilewhit
 bavardage
 berbery
