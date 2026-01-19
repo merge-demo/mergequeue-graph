@@ -1005,7 +1005,6 @@ brogueful
 breedling
 boohooed
 burnous
-boat
 bayamos
 biodyne
 brigand
@@ -5400,6 +5399,7 @@ babelic
 blastomycotic
 bakshish
 begummed
+boat
 biolite
 barbacoa
 behallow
