@@ -5120,7 +5120,6 @@ anend
 astragalectomy
 aether
 aromacity
-ahrimanian
 affrication
 audition
 aethionema
@@ -11972,6 +11971,7 @@ annihilates
 australopithecus
 andes
 anemone
+ahrimanian
 anapterygotism
 awe
 anarcestes
