@@ -3316,6 +3316,7 @@ combatter
 capnoides
 clipping
 creaker
+comfiture
 colonizes
 capnomancy
 capnomor
@@ -19863,7 +19864,6 @@ cuspidation
 comfiness
 coulometrically
 comfit
-comfiture
 comfort
 cryptoglaux
 comfortableness
