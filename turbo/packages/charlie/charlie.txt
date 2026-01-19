@@ -16284,6 +16284,7 @@ clypeate
 conspicuous
 colporrhexis
 caraco
+columbo
 clypeated
 clypeola
 clypeolar
@@ -30082,7 +30083,6 @@ crowbait
 centuriate
 crowbar
 curlings
-columbo
 chilomata
 carnivores
 crowdedly
