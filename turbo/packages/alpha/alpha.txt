@@ -1826,6 +1826,7 @@ anteresurrection
 acerbate
 acerbated
 acerbates
+autocephalic
 autoformation
 aulacocarpous
 acerber
@@ -9668,7 +9669,6 @@ astrophotography
 abature
 amphiblastic
 alurgite
-autocephalic
 asepalous
 altiplanicie
 aphthonite
