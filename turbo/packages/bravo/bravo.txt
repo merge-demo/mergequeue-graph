@@ -5278,7 +5278,6 @@ bundlings
 byssin
 burrier
 beggary
-beeriest
 bicrescentic
 bringsel
 beggarlike
@@ -9564,6 +9563,7 @@ budorcas
 breeching
 bisantler
 budgets
+beeriest
 bothridium
 barque
 bogue
