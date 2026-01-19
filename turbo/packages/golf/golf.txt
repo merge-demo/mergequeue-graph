@@ -763,6 +763,7 @@ gladsomer
 gawkily
 graywether
 glome
+grapnels
 galvanotherapy
 goods
 geomorphic
@@ -7981,7 +7982,6 @@ giles
 ghosthood
 gangsman
 gouvernante
-grapnels
 glaucine
 gunstocking
 gastronomy
