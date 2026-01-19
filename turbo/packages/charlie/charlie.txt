@@ -20432,6 +20432,7 @@ coprophagan
 cresols
 concamerate
 companable
+chaetosoma
 companage
 circumfluent
 counterword
@@ -21956,7 +21957,6 @@ confidently
 confidentness
 confider
 confiders
-chaetosoma
 confiding
 coppa
 confidingly
