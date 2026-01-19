@@ -1208,7 +1208,6 @@ garage
 guatemaltecan
 galapago
 gastrotricha
-garapato
 getatableness
 gadded
 grocerymen
@@ -3982,6 +3981,7 @@ gigmanically
 gastrogenous
 grounds
 gilds
+garapato
 grandness
 gutturals
 gerundive
