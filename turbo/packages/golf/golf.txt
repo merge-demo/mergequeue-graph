@@ -9575,6 +9575,7 @@ gerbe
 gowds
 gedanite
 gravimeters
+gulfwards
 galley
 glandula
 graphite
@@ -10471,7 +10472,6 @@ graylings
 grippal
 goli
 gusher
-gulfwards
 ginghamed
 gynandromorph
 generalising
