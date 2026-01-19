@@ -6616,7 +6616,6 @@ eurocentric
 elastases
 epichil
 eradicates
-eccrine
 endermically
 enuring
 exhedrae
@@ -13083,6 +13082,7 @@ extracalendar
 expergefaction
 embedding
 epistolographic
+eccrine
 eyeshine
 effeminatize
 excide
