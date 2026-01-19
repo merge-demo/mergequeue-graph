@@ -22473,7 +22473,6 @@ ciconiid
 coronetlike
 cantata
 carotinaemia
-conjecturally
 chamois
 continuance
 cytoma
@@ -28099,6 +28098,7 @@ crania
 cancerate
 crocodiline
 cranian
+conjecturally
 cranic
 circaeaceae
 craniectomy
