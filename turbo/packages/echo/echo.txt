@@ -2804,6 +2804,7 @@ externalness
 eater
 epiclesis
 eleoptene
+earnestly
 embden
 endomastoiditis
 erratuta
@@ -13946,7 +13947,6 @@ elytrorrhagia
 emplanes
 eyestalk
 extraofficial
-earnestly
 expertship
 endromis
 eleutheri
