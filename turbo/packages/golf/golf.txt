@@ -5936,7 +5936,6 @@ glumosity
 gondang
 gonopodia
 governante
-germlike
 gastrohydrorrhea
 grangerize
 glanduligerous
@@ -7822,6 +7821,7 @@ guttide
 gtc
 gun
 guhayna
+germlike
 gond
 grasserie
 glumpier
