@@ -6410,7 +6410,6 @@ guam
 gamboges
 geognostic
 galuth
-gatherable
 gaine
 grasswidowhood
 goitrogenic
@@ -6938,6 +6937,7 @@ geostatics
 goodwife
 grecians
 guasa
+gatherable
 guiana
 glaziness
 gruppetto
