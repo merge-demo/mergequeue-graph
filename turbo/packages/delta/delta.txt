@@ -814,6 +814,7 @@ deckhead
 daneweed
 duarchies
 daneweeds
+deuterostome
 detections
 dactyliomancy
 deduced
@@ -9505,7 +9506,6 @@ disapproval
 diggable
 digged
 dentalium
-deuterostome
 demonstrational
 dighted
 dighter
