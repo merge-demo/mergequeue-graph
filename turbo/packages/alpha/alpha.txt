@@ -15262,7 +15262,6 @@ ageusic
 antigambling
 audion
 aftersupper
-advoyer
 arilloid
 advocatory
 aonach
@@ -15455,6 +15454,7 @@ apocopic
 aureolae
 antimechanistically
 aircrew
+advoyer
 antimechanization
 antimediaevalist
 antimediaevally
