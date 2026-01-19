@@ -5962,6 +5962,7 @@ anergia
 angulosplenial
 alimenter
 ancilia
+antiexpansionism
 autotomous
 arrogancy
 aggressin
@@ -15160,7 +15161,6 @@ autocatalysis
 anteconsonantal
 antievolutionist
 antiexpansion
-antiexpansionism
 areas
 austrine
 antiexpressionism
