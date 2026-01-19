@@ -4322,7 +4322,6 @@ ginglymodi
 gozill
 gemstone
 glossata
-gravewards
 globules
 gharries
 gumbotil
@@ -10857,6 +10856,7 @@ gravidation
 gweeon
 girds
 geomagnetician
+gravewards
 gush
 gymnasisia
 gigtree
