@@ -993,7 +993,6 @@ glyconin
 glycogenesis
 goldhammer
 ganderess
-genethlialogy
 gamester
 grimace
 geanticline
@@ -3711,6 +3710,7 @@ ghuz
 glabellae
 griffons
 gasterothecal
+genethlialogy
 gallein
 goonie
 graveldiver
