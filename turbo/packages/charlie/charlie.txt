@@ -13352,7 +13352,6 @@ cocci
 contractile
 czarists
 cocooned
-cyclothure
 cyclothurine
 canaanite
 conducingly
@@ -29258,6 +29257,7 @@ cryptobranchiata
 clambakes
 churchism
 chondroma
+cyclothure
 cutlas
 choices
 cryptobranchiate
