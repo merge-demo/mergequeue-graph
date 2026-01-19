@@ -3958,7 +3958,6 @@ exaltative
 enruin
 expiations
 embarrassingly
-edictum
 enfolded
 egalite
 extramodal
@@ -4528,6 +4527,7 @@ escuela
 excoction
 euphemized
 eleazar
+edictum
 enchancement
 empeoplement
 eucharitidae
