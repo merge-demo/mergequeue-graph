@@ -1619,7 +1619,6 @@ ballones
 brasier
 boiguacu
 breathing
-ballonne
 bewrays
 ballooners
 brattier
@@ -12428,6 +12427,7 @@ begloom
 bonbons
 batell
 bareboats
+ballonne
 bureaux
 banisterine
 bond
