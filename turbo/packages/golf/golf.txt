@@ -7550,7 +7550,6 @@ glucolysis
 gruntle
 geophyte
 gamash
-gowdnie
 gaspiness
 grangeriser
 geothlypis
@@ -9889,6 +9888,7 @@ gradiometer
 grazes
 girleen
 golding
+gowdnie
 glaucophyllous
 galloons
 guaranine
