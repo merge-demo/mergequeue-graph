@@ -2223,7 +2223,6 @@ gossipmongering
 galactase
 gastrotome
 grifts
-gefulltefish
 gonorrhea
 gonidiogenous
 glumiferous
@@ -8629,6 +8628,7 @@ grip
 gladdy
 grantee
 girdlestead
+gefulltefish
 greaseproofness
 gastronomical
 gests
