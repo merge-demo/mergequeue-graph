@@ -1688,7 +1688,6 @@ fathometer
 frypan
 faucets
 fellest
-firesafety
 flatworm
 fieldmice
 fragmentation
@@ -2158,6 +2157,7 @@ farrowed
 fliskiest
 faery
 flooey
+firesafety
 frontpiece
 fructiferously
 ferrous
