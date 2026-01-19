@@ -10173,7 +10173,6 @@ blanketflower
 barysilite
 blackcod
 blackcods
-bathochrome
 blues
 blackdamp
 bursar
@@ -18410,6 +18409,7 @@ bwanas
 bombardmen
 banned
 bloodwort
+bathochrome
 bxs
 bached
 bewest
