@@ -7760,6 +7760,7 @@ expectably
 elementality
 encyclopaedize
 engjateigur
+evangelion
 excircle
 evanescence
 epigastria
@@ -9172,7 +9173,6 @@ empiricism
 enclasp
 egomaniac
 eroticizing
-evangelion
 exultance
 equiomnipotent
 erbiums
