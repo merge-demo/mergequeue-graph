@@ -29385,6 +29385,7 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
+canonicalizing
 cavaedium
 cryptostome
 cryptous
@@ -30371,7 +30372,6 @@ clingstones
 crusaders
 crusado
 coastways
-canonicalizing
 catalog
 coresidual
 collectivistic
