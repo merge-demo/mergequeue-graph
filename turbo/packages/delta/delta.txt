@@ -1637,6 +1637,7 @@ deobstruct
 devotional
 daunter
 dicephalus
+dodecaphonism
 darkhaired
 deerhair
 deallocations
@@ -14909,7 +14910,6 @@ disciplelike
 dodecapartite
 dodecaphonic
 diverts
-dodecaphonism
 demibastion
 dipneust
 dehumidifiers
