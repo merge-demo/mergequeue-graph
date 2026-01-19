@@ -1404,6 +1404,7 @@ ethnicon
 exaggeratory
 enols
 ebbing
+endogalvanism
 euskaldun
 electromassage
 effluviviums
@@ -10745,7 +10746,6 @@ ephemeran
 egotistically
 eigenvector
 emer
-endogalvanism
 eucnemidae
 excursions
 emotiometabolic
