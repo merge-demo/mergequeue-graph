@@ -1477,7 +1477,6 @@ faultfind
 fasciculite
 flittern
 flix
-felicitators
 flavorings
 fruiter
 favourable
@@ -6500,6 +6499,7 @@ furcular
 foldskirt
 fortifying
 flexuousness
+felicitators
 fulminant
 forwore
 floodboard
