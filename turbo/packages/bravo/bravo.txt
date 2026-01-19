@@ -5320,6 +5320,7 @@ beefed
 begirt
 bogies
 beglerbeglic
+beylical
 bakalai
 burka
 behew
@@ -18375,7 +18376,6 @@ bortsch
 bepaint
 buzz
 buzzard
-beylical
 beasts
 bluebook
 barycenter
