@@ -4109,7 +4109,6 @@ earthwall
 ejacula
 enrooting
 eslabon
-entangler
 excursus
 envisaged
 endives
@@ -5417,6 +5416,7 @@ evulsion
 emydosauria
 electuary
 enantiomorph
+entangler
 exculpations
 eurithermophile
 emplastrum
