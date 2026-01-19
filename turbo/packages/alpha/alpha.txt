@@ -4741,6 +4741,7 @@ aequi
 ausgespielt
 aranein
 albuminimetry
+aftosa
 allogamy
 aviational
 attemperation
@@ -6057,7 +6058,6 @@ agitant
 agitate
 agitated
 agitational
-aftosa
 agitations
 aspern
 allorrhyhmia
