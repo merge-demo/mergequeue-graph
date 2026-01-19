@@ -5040,7 +5040,6 @@ appertain
 advancements
 androgyneity
 aerosteam
-arised
 aerotaxis
 agacant
 autoecous
@@ -20049,6 +20048,7 @@ aromatised
 aromatitae
 alcoholizing
 audad
+arised
 accessable
 appetize
 anaphoras
