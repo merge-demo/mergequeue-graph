@@ -11216,6 +11216,7 @@ crisps
 chlorhexidine
 coemperor
 chlorhydric
+chalcophile
 chloriamb
 chloriambus
 chlorid
@@ -16742,7 +16743,6 @@ chanteuses
 cloudship
 creameryman
 cursedest
-chalcophile
 cloudward
 cloudwards
 calamiferous
