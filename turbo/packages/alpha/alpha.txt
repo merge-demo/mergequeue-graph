@@ -1682,7 +1682,6 @@ apperceive
 accumbency
 astarte
 accumbent
-accumulating
 anthracomartian
 agony
 agrestis
@@ -15920,6 +15919,7 @@ arni
 antiprime
 agrotis
 arrhizous
+accumulating
 antiproductive
 aceratosis
 antiproductivity
