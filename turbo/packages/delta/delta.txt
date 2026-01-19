@@ -5930,7 +5930,6 @@ deprostrate
 draughtiest
 downbeats
 darcy
-doctorlike
 decimetres
 doubledamn
 decimation
@@ -12051,6 +12050,7 @@ disengaging
 disenjoyment
 discourteous
 diaspidinae
+doctorlike
 deciduousness
 diagraphics
 deambulatory
