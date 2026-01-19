@@ -9217,6 +9217,7 @@ bipaschal
 biped
 bipedal
 beggared
+biasses
 bogo
 bourbonesque
 bipeds
@@ -12268,7 +12269,6 @@ byssiferous
 bolt
 boltage
 bluestockings
-biasses
 boltcutter
 bookmark
 behold
