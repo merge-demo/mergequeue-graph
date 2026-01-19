@@ -9906,7 +9906,6 @@ anticlastic
 amativeness
 arcing
 artificious
-avoue
 alternator
 abandonee
 arachnoidean
@@ -17717,6 +17716,7 @@ applejohn
 analogice
 amidogen
 apples
+avoue
 applewoman
 adopts
 aestethic
