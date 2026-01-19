@@ -371,6 +371,7 @@ defames
 daylights
 deutomalar
 desalters
+deindividualize
 dayman
 droughtiness
 detruss
@@ -14465,7 +14466,6 @@ disillusionized
 disjointing
 duopolist
 dolabre
-deindividualize
 deathtrap
 dindymene
 divertibility
