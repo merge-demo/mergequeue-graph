@@ -11489,7 +11489,6 @@ billposter
 bluffable
 blicky
 bialveolar
-baraca
 beseemingness
 brunette
 bizzarro
@@ -17564,6 +17563,7 @@ bootjacks
 bk
 balante
 beadrow
+baraca
 blayne
 boorishly
 belong
