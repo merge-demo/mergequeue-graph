@@ -1283,7 +1283,6 @@ farseeing
 figgier
 finalized
 faecula
-forenoon
 fastidium
 faineants
 fibroblast
@@ -3858,6 +3857,7 @@ futile
 filleting
 feckless
 figurato
+forenoon
 fionnuala
 fanwe
 floras
