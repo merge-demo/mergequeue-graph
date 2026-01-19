@@ -175,7 +175,6 @@ gag
 gooseliver
 garoted
 glamour
-greyhen
 groggily
 goliathize
 goniometry
@@ -2737,6 +2736,7 @@ greenflies
 gauger
 goodsome
 guestchamber
+greyhen
 gorraf
 gipped
 gallused
