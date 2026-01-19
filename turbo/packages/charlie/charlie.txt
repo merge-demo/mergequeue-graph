@@ -5399,7 +5399,6 @@ cinemograph
 corncob
 conchfishes
 crummies
-cibolan
 corv
 casters
 castes
@@ -31712,6 +31711,7 @@ chophouse
 cuspides
 cyproterone
 chondromyxoma
+cibolan
 cesuras
 carbuncled
 cotyloid
