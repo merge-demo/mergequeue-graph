@@ -8235,6 +8235,7 @@ diagnosed
 diagnostical
 diagnostically
 diagnosticate
+dwarfy
 denitrating
 dendrophilous
 divergency
@@ -11502,7 +11503,6 @@ disseminates
 demiparallel
 deepened
 dado
-dwarfy
 discomedusae
 defrauded
 dentiphone
