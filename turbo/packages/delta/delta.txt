@@ -5565,7 +5565,6 @@ deperms
 disserves
 dichromatopsia
 depersonalise
-depersonalising
 desponded
 diplomatology
 depersonalized
@@ -12466,6 +12465,7 @@ doffer
 dimethylmethane
 dagon
 dishwasher
+depersonalising
 dipsomaniac
 decryptions
 discharm
