@@ -749,7 +749,6 @@ bizcacha
 bolter
 brinjal
 bougainvillaeas
-badgerlike
 bending
 befoul
 babiches
@@ -16069,6 +16068,7 @@ bodo
 bacteriolytic
 basnet
 bauge
+badgerlike
 blepharospath
 babesiosis
 broaden
