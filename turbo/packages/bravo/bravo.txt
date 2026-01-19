@@ -1904,7 +1904,6 @@ bishoplike
 backy
 biostatics
 bougeron
-bandit
 beshrew
 bretwaldadom
 balant
@@ -13993,6 +13992,7 @@ bondable
 burmese
 brominize
 bronstrops
+bandit
 batonist
 beatae
 beevish
