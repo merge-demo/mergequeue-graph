@@ -4073,6 +4073,7 @@ geotaxes
 gettysburg
 gargoyle
 glosts
+galeae
 genetor
 gompholobium
 geoglossum
@@ -4683,7 +4684,6 @@ gumshoe
 grudgingly
 garnisheeing
 genista
-galeae
 gowland
 geysers
 gitanos
