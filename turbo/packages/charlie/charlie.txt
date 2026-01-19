@@ -9438,7 +9438,6 @@ comprehensor
 cheatableness
 cheated
 cubits
-cablegram
 characterisation
 cheater
 campulitropous
@@ -14215,6 +14214,7 @@ circumgestation
 circumgyrate
 circumgyratory
 camisado
+cablegram
 counterstruggle
 circumincession
 circuminsession
