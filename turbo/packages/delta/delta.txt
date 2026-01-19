@@ -3464,6 +3464,7 @@ descending
 disjunct
 dichroscope
 decelerating
+detectably
 dehydrochlorination
 decompressed
 deflator
@@ -5403,7 +5404,6 @@ disyoking
 dibutyrate
 deoppilant
 deceives
-detectably
 deoppilate
 dep
 doss
