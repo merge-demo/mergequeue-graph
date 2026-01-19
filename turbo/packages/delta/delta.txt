@@ -16778,6 +16778,7 @@ dravidian
 delaying
 dayboy
 dravidic
+distance
 drightin
 diplomate
 developed
@@ -18595,7 +18596,6 @@ delphian
 dustbins
 dustcart
 devocalisation
-distance
 dispossessory
 dustcover
 dichromatism
