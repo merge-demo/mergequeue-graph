@@ -6796,6 +6796,7 @@ boeotia
 berserks
 barnumize
 balize
+bootlessness
 berhyme
 banjore
 bert
@@ -13894,7 +13895,6 @@ bowsman
 botanomancy
 bullionism
 bows
-bootlessness
 benzopyran
 bankroll
 bodkinwise
