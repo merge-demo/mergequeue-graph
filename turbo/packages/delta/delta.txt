@@ -5211,7 +5211,6 @@ densify
 disqualifications
 didelphic
 desmodactyli
-dengue
 disobligingly
 dabbled
 densifies
@@ -16760,6 +16759,7 @@ dratting
 draught
 distal
 draughtboard
+dengue
 divorcement
 daub
 draperied
