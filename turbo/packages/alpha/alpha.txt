@@ -8301,7 +8301,6 @@ alimentic
 aggravative
 alabandite
 automatical
-amphiphithyra
 antistrophon
 affectum
 accidentalist
@@ -20659,6 +20658,7 @@ arthrosis
 anapterygota
 aeromagnetic
 adderwort
+amphiphithyra
 albumen
 arthrospore
 arthrostome
