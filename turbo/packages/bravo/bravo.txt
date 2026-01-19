@@ -10694,7 +10694,6 @@ blemished
 bogeys
 britzkas
 brandies
-blemmatrope
 brooches
 blandisher
 boutell
@@ -14909,6 +14908,7 @@ bayoneted
 breakthroughs
 bricks
 breakweather
+blemmatrope
 basiglandular
 brain
 bankings
