@@ -5280,7 +5280,6 @@ cassation
 caveats
 cerin
 cassegrain
-clavierists
 chromomeric
 cassegrainian
 casseroling
@@ -24811,6 +24810,7 @@ cor
 corabecan
 closkey
 complications
+clavierists
 corach
 creutzer
 coracial
