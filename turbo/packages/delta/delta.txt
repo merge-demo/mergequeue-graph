@@ -6355,6 +6355,7 @@ derogator
 derogatory
 dooja
 dischurch
+defrayers
 drawer
 deplorate
 disincorporating
@@ -14107,7 +14108,6 @@ district
 districting
 defoaming
 decarnate
-defrayers
 doree
 dermacentor
 divoto
