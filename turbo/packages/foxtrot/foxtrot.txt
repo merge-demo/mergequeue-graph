@@ -332,7 +332,6 @@ fearsomely
 forkful
 fixers
 foliates
-failingness
 facultative
 foresound
 floss
@@ -8466,6 +8465,7 @@ formica
 foolishly
 fasciculate
 fitty
+failingness
 formicate
 freeward
 ferruminated
