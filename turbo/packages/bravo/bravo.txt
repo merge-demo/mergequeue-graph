@@ -8582,6 +8582,7 @@ bankrider
 bastinading
 billety
 billets
+blindage
 brainlike
 bassaris
 berylline
@@ -12045,7 +12046,6 @@ bebloom
 balisaurs
 bromocresol
 befrounce
-blindage
 boilerful
 boilersmith
 bladdernose
