@@ -14533,7 +14533,6 @@ dyeing
 detruncated
 disintegratory
 divinability
-defiles
 diviner
 divinesse
 decarburised
@@ -14895,6 +14894,7 @@ delitous
 disengagement
 dodecade
 dodecahedral
+defiles
 dieselization
 dodecahydrate
 duodenojejunostomy

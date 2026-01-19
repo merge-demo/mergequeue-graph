@@ -8717,7 +8717,6 @@ gismo
 groundenell
 grubby
 gambit
-glucosuric
 games
 glom
 galeus
@@ -9470,6 +9469,7 @@ gossamery
 gumpheon
 gae
 gonyaulax
+glucosuric
 gernative
 graceful
 guelphish
