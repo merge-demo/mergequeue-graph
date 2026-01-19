@@ -3835,7 +3835,6 @@ dilutes
 disprized
 dannemorite
 deathfully
-doer
 deirid
 deis
 deisidaimonia
@@ -9755,6 +9754,7 @@ domino
 dclass
 dilettanti
 decriminalizing
+doer
 dilettantism
 diligence
 diligences
