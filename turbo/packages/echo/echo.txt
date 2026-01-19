@@ -5802,6 +5802,7 @@ engoument
 encounter
 exanthema
 entification
+emberizine
 evade
 emulatory
 etherizing
@@ -13753,7 +13754,6 @@ entoptically
 ectoplasm
 eryngoes
 enouncing
-emberizine
 equilibrated
 effervescence
 edaphosaurid
