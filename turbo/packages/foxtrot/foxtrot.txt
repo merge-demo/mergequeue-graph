@@ -5839,7 +5839,6 @@ fecund
 fistfight
 facsimilize
 fates
-flexity
 feague
 floral
 fangas
@@ -10910,6 +10909,7 @@ forgeful
 footgrip
 fi
 foilable
+flexity
 federacy
 fiscalizing
 fullonian
