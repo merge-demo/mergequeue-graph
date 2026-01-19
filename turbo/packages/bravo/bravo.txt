@@ -627,6 +627,7 @@ bromates
 benomyls
 bratstva
 behearse
+biolinguistics
 bacterid
 birdcages
 baraka
@@ -8993,7 +8994,6 @@ baybush
 bronzen
 beclamor
 bioinstrument
-biolinguistics
 belted
 biolyses
 bouleverse
