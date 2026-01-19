@@ -5764,6 +5764,7 @@ cabasset
 counterinsurgents
 catclaw
 cate
+clinicist
 cocitizen
 catechesis
 catechetic
@@ -30657,7 +30658,6 @@ cucurbita
 cavaedia
 cucurbitaceous
 cucurbite
-clinicist
 compromis
 champagne
 coequation
