@@ -1606,6 +1606,7 @@ cretinization
 clothmaker
 callowman
 cleistogamic
+caned
 cholecystalgia
 clarice
 cinderella
@@ -2606,7 +2607,6 @@ cryptocrystallization
 columnar
 cyamelide
 castile
-caned
 canela
 canelas
 canellaceous
