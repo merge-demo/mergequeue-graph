@@ -4359,6 +4359,7 @@ fistify
 funiculitis
 fincas
 fertiliser
+fimbriae
 foretop
 froward
 formulaic
@@ -7037,7 +7038,6 @@ floriparous
 francis
 floater
 fulfilment
-fimbriae
 functioning
 foodful
 fulfilled
