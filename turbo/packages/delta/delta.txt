@@ -4193,7 +4193,6 @@ delphinoidine
 distaffs
 delphocurarine
 decoherer
-dels
 djelfa
 dumpy
 delsartian
@@ -15542,6 +15541,7 @@ doloriferous
 dedicatee
 donkeyman
 draffman
+dels
 decahedra
 draegerman
 dessert
