@@ -14929,7 +14929,6 @@ anticlimax
 attroupement
 abret
 anticlines
-amphigouri
 anticlinorium
 axised
 anaphoral
@@ -24780,6 +24779,7 @@ angioasthenia
 aymara
 alexines
 aortography
+amphigouri
 adamine
 avidity
 arithmetized
