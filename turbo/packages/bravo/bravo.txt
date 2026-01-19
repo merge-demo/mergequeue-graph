@@ -618,6 +618,7 @@ beggiatoa
 bacteriochlorophyll
 bacteriocin
 broomsticks
+balmorals
 betrothal
 bostangi
 bastiment
@@ -1681,7 +1682,6 @@ bushier
 balmoral
 benefits
 besoms
-balmorals
 bedticks
 bensh
 bathless
