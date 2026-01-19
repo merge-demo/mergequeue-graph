@@ -1068,6 +1068,7 @@ gomphiasis
 gradus
 greyness
 grays
+gubernative
 glossic
 gangplows
 geomalic
@@ -9972,7 +9973,6 @@ geoethnic
 galictis
 greaseless
 glutamic
-gubernative
 gadolinia
 gunwale
 grills
