@@ -11407,7 +11407,6 @@ dao
 doctrinize
 dowagers
 disclass
-deuterogenesis
 dermorhynchous
 disclimax
 dialogite
@@ -11660,6 +11659,7 @@ deregulating
 discordancies
 discordant
 dialling
+deuterogenesis
 dipetalous
 distributution
 discorded
