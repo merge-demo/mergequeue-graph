@@ -2318,6 +2318,7 @@ carthaginian
 canaler
 chimeres
 caprone
+crotchetiness
 chylocyst
 cipher
 canali
@@ -19460,7 +19461,6 @@ colouration
 colourational
 comagistracy
 cutitis
-crotchetiness
 coltpixie
 colourative
 colourer
