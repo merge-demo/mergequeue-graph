@@ -2882,6 +2882,7 @@ gruesomeness
 gayety
 gadders
 geocentric
+galtonian
 gurjan
 gadwell
 gutterlike
@@ -4433,7 +4434,6 @@ gipsydom
 giddyhead
 gepoun
 gugu
-galtonian
 gypsyfy
 ganoblast
 gunshot

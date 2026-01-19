@@ -7399,7 +7399,6 @@ bootikins
 biliation
 bighting
 beautifications
-boluses
 blindfolds
 betime
 bastionet
@@ -14073,6 +14072,7 @@ bald
 bombycidae
 boffin
 brachydont
+boluses
 brachydontism
 brachyfacial
 brachyglossal
