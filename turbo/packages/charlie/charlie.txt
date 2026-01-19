@@ -17200,6 +17200,7 @@ coalescency
 credentials
 candlesnuffer
 coalescent
+cumulous
 combustibility
 coalescing
 choya
@@ -20598,7 +20599,6 @@ compenser
 countree
 compere
 compered
-cumulous
 compering
 compert
 competed
