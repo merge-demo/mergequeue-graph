@@ -23943,6 +23943,7 @@ chammied
 convect
 colubrina
 cagey
+cloamen
 clyfaking
 chukkars
 convective
@@ -24311,7 +24312,6 @@ coarrange
 cookeite
 cooker
 cookeries
-cloamen
 cookhouse
 currawang
 cookhouses
