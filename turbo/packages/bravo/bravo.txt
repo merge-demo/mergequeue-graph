@@ -9502,6 +9502,7 @@ backachy
 birdbanding
 bdellostoma
 babooism
+benzhydrol
 brocard
 birses
 birsit
@@ -18076,7 +18077,6 @@ booklet
 buccally
 boatsman
 barrancos
-benzhydrol
 butacaine
 bidentate
 bidi
