@@ -10156,7 +10156,6 @@ diploids
 daddle
 demihigh
 dingeing
-disorganic
 dissociated
 dorsoventrally
 duraquara
@@ -10335,6 +10334,7 @@ diophantine
 driftpiece
 dowsing
 dentata
+disorganic
 diurons
 derelictly
 degeneracy
