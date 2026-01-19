@@ -1604,7 +1604,6 @@ favorites
 furstone
 fadges
 flavobacterium
-forsee
 favosely
 ferroaluminum
 formidability
@@ -8431,6 +8430,7 @@ fluorinating
 freethinking
 fustilarian
 fulminous
+forsee
 fuliginousness
 francomania
 fuze
