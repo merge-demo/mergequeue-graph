@@ -3472,7 +3472,6 @@ capsella
 calyptras
 capshore
 capsian
-collectress
 ceruses
 chullpa
 capsicums
@@ -20343,6 +20342,7 @@ chudder
 communism
 crump
 cubitodigital
+collectress
 communistery
 coeliomyalgia
 chita
