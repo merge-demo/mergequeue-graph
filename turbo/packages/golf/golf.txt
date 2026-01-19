@@ -4037,7 +4037,6 @@ griph
 gastroduodenotomy
 grasshop
 grasped
-glucolipid
 gimel
 gobernadora
 gol
@@ -4742,6 +4741,7 @@ gizzard
 glimmerings
 gal
 gizzern
+glucolipid
 girondist
 glycogenize
 gordius
