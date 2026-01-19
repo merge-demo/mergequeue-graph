@@ -12589,6 +12589,7 @@ dorsoventral
 disinsure
 dotonidae
 diamonding
+dirging
 daffed
 disintegrated
 dipterological
@@ -18540,7 +18541,6 @@ duridine
 durity
 dekalitre
 durmast
-dirging
 durndest
 duny
 deraignment
