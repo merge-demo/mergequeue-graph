@@ -5281,6 +5281,7 @@ forcepslike
 frutex
 flimflam
 focusses
+fairstead
 fldxt
 foolhardier
 frower
@@ -10670,7 +10671,6 @@ felsophyre
 forescent
 feralin
 fivepenny
-fairstead
 fruitstalk
 fg
 foreset
