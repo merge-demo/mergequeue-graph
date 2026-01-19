@@ -3743,7 +3743,6 @@ gonging
 genoblastic
 gobbets
 giarra
-gherao
 geotactic
 giarre
 gastaldo
@@ -8563,6 +8562,7 @@ gastrocnemius
 glabriety
 griqua
 gravity
+gherao
 germinal
 gradually
 gawsy
