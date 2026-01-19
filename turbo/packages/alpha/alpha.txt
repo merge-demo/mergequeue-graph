@@ -5914,6 +5914,7 @@ alibamu
 agglutinogen
 agglutinoscope
 acclaiming
+antiscians
 assonantic
 amblygeusia
 agglutogenic
@@ -8950,7 +8951,6 @@ allophanate
 allophanates
 allophanic
 acredula
-antiscians
 allophyle
 arrow
 arrythmia
