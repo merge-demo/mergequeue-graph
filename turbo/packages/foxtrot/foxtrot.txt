@@ -5814,7 +5814,6 @@ fosterable
 fluff
 flaxbush
 farthingale
-forestem
 formidableness
 furanes
 filanders
@@ -7731,6 +7730,7 @@ footprints
 footless
 flavour
 fanbearer
+forestem
 ferroprussic
 fractionize
 flyflower
