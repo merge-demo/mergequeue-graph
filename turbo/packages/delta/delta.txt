@@ -2045,7 +2045,6 @@ delictum
 dermatotomy
 daikered
 devotion
-dimedon
 downgate
 debilities
 decaying
@@ -8326,6 +8325,7 @@ daemonies
 dissettlement
 disruptable
 dzerin
+dimedon
 dioestrum
 disincline
 duchies
