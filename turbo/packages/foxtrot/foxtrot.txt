@@ -9095,7 +9095,6 @@ forepoint
 foldboating
 fireroom
 fooner
-froisse
 fracid
 frizzier
 foraminulous
@@ -11676,6 +11675,7 @@ flocculate
 frigorific
 feru
 felids
+froisse
 fusarial
 forelands
 finikin
