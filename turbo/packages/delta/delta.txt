@@ -2099,6 +2099,7 @@ duddies
 despoilment
 decameron
 digraph
+dysfunctions
 decamethonium
 decametric
 deerhound
@@ -12244,7 +12245,6 @@ detector
 dampers
 despoticly
 deviators
-dysfunctions
 disfurnish
 deckel
 deport
