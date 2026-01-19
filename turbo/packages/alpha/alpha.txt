@@ -1413,6 +1413,7 @@ accessioner
 accessive
 adversity
 anoplocephalic
+apocope
 awlessness
 alg
 aaru
@@ -2021,7 +2022,6 @@ amidoxy
 achagua
 amoret
 apsychical
-apocope
 achalasia
 auhuhu
 anolis
