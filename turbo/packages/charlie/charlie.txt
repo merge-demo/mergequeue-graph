@@ -17486,7 +17486,6 @@ cleamer
 coboundless
 cobourg
 cueca
-coinitial
 chinafish
 cobridgehead
 chrysostomic
@@ -18535,6 +18534,7 @@ coiffeur
 coiffeurs
 coiffeuses
 coiffured
+coinitial
 civilizedness
 ceroxylon
 coiffures
