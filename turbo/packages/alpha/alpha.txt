@@ -6166,7 +6166,6 @@ ababua
 appar
 agnosia
 antimonic
-anisogamic
 anthraces
 ablactate
 agnostics
@@ -17362,6 +17361,7 @@ antagonist
 aglycosuric
 anatiferous
 apostleship
+anisogamic
 abaisse
 apostleships
 appeacher
