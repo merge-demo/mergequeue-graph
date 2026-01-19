@@ -2551,7 +2551,6 @@ forequarter
 fluvicoline
 fleerer
 flimp
-ferricyanide
 ferrihydrocyanic
 fervency
 freshmanship
@@ -5634,6 +5633,7 @@ fiddlestring
 freestyle
 fishwife
 flinkite
+ferricyanide
 fluffer
 ferratin
 footpound
