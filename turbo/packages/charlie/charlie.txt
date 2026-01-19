@@ -12864,7 +12864,6 @@ cowslip
 churlishness
 churn
 canvased
-cowbarn
 conducted
 churnful
 cresphontes
@@ -24657,6 +24656,7 @@ caseworker
 creneled
 corollaceous
 cola
+cowbarn
 cute
 carpospore
 copperbottom
