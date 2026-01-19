@@ -838,6 +838,7 @@ fenny
 frogeyes
 formfitting
 fixatives
+forfar
 fluctuations
 fastened
 fons
@@ -5552,7 +5553,6 @@ formulary
 fuming
 fmt
 flyer
-forfar
 fingerwise
 fucuses
 federal
