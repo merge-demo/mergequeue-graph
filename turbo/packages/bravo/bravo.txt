@@ -127,7 +127,6 @@ biriani
 berengarianism
 babirusas
 brimmer
-brabantine
 basicranial
 bedimpled
 bedash
@@ -17275,6 +17274,7 @@ batik
 baggies
 bumfuzzle
 baubles
+brabantine
 blotched
 beating
 burseed
