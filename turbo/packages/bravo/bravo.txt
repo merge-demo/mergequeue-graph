@@ -12864,7 +12864,6 @@ burk
 barthian
 breastwise
 boong
-bioblastic
 barringer
 buckplate
 blunders
@@ -15503,6 +15502,7 @@ bilbo
 bondless
 bolshevistically
 brindlish
+bioblastic
 bryndza
 bleaters
 balloonfish
