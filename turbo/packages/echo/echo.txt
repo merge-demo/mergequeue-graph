@@ -3868,7 +3868,6 @@ extraboldface
 eminencies
 evendown
 exterminating
-eminent
 endorsor
 easternized
 esperance
@@ -4481,6 +4480,7 @@ evenglome
 endoerythrocytic
 entothorax
 embiidae
+eminent
 encephalomyelitic
 epochally
 extramorainal
