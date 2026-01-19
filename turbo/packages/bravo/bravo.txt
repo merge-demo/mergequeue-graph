@@ -812,7 +812,6 @@ baedekerian
 bosominess
 baphometic
 baeria
-backcomb
 begod
 browniness
 bldr
@@ -1723,6 +1722,7 @@ bridgepot
 ballyhoos
 buskers
 bawbees
+backcomb
 brokerage
 bleak
 borealis
