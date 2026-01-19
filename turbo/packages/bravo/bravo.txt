@@ -11537,6 +11537,7 @@ bdellid
 bidens
 blameworthiness
 boswellism
+bovaristic
 buckaroos
 blunket
 brutalism
@@ -13746,7 +13747,6 @@ bloat
 bescurf
 burga
 bufflehorn
-bovaristic
 burgout
 bovate
 bonniness
