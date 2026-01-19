@@ -5817,7 +5817,6 @@ electrovalency
 exfoliation
 erlkings
 epicele
-extrinsic
 engrafter
 exibilate
 engrailed
@@ -10068,6 +10067,7 @@ earclip
 etheostominae
 epitonium
 elytroid
+extrinsic
 exasperates
 esthetician
 encrinitic
