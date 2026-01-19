@@ -4579,6 +4579,7 @@ exarchs
 egotists
 enchyma
 estheticism
+excubant
 exencephalus
 electorally
 exquisitiveness
@@ -5969,7 +5970,6 @@ enjoinders
 eucommia
 expatiatingly
 enjoiner
-excubant
 euonym
 endotheliulia
 enjoiners
