@@ -4192,7 +4192,6 @@ arthrodire
 antigrammatically
 adoptionist
 atonics
-apocynum
 apepsy
 acroparalysis
 ador
@@ -8748,6 +8747,7 @@ acescence
 atwind
 alcidae
 alliterates
+apocynum
 await
 apocinchonine
 actious
