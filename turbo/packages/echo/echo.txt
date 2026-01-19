@@ -3871,7 +3871,6 @@ egressive
 equivote
 echeneis
 eternal
-electrotonus
 extraboldface
 eminencies
 evendown
@@ -9705,6 +9704,7 @@ eucommiaceae
 epimorphic
 eight
 esselenian
+electrotonus
 emotionable
 eomecon
 eastlings
