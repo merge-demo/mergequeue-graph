@@ -3,6 +3,7 @@ first
 fasciolidae
 fallacia
 fimbrial
+footropes
 fabaceae
 floatmen
 franciums
@@ -6357,7 +6358,6 @@ fluotitanate
 foetal
 fluorenes
 fluctuability
-footropes
 frills
 ferriage
 foveolar
