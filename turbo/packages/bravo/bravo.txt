@@ -7698,7 +7698,6 @@ brahmany
 boe
 butterflyer
 blackflies
-bescribbled
 bezils
 boyardom
 babished
@@ -8165,6 +8164,7 @@ bulbils
 bountith
 bidree
 bottle
+bescribbled
 bindweeds
 bearess
 bidri
