@@ -1397,6 +1397,7 @@ fancical
 flecnodal
 facto
 furmenties
+forgotten
 fornicates
 formose
 fortuneteller
@@ -10741,7 +10742,6 @@ fleeing
 flagstaves
 flirter
 fletches
-forgotten
 frustum
 fb
 frutage
