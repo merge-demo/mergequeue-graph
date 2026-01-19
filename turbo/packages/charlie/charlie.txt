@@ -15982,7 +15982,6 @@ covado
 cleromancy
 canniness
 clerstory
-clansmen
 cyamelid
 coolheadedness
 cleruchy
@@ -18492,6 +18491,7 @@ coholders
 confutations
 cohomology
 chalcites
+clansmen
 chronocinematography
 chello
 cill
