@@ -12293,7 +12293,6 @@ christlike
 carafon
 christmasy
 christmasing
-christocentric
 christogram
 christolatry
 controverts
@@ -16865,6 +16864,7 @@ clucked
 crotonbug
 chinches
 cometoid
+christocentric
 cypselae
 compendiously
 challah
