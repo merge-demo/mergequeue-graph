@@ -1110,7 +1110,6 @@ gallants
 guillotining
 gwyniad
 gladded
-granet
 giddier
 grotesco
 grope
@@ -9057,6 +9056,7 @@ grimme
 grillroom
 gleet
 gymnasial
+granet
 gerent
 grimmiaceae
 gripper
