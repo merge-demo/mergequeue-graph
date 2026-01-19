@@ -11089,7 +11089,6 @@ emblemish
 eutaenia
 etheostomoid
 enchasing
-escudero
 endimanche
 electrolyte
 ephestian
@@ -11427,6 +11426,7 @@ evese
 entomostraca
 entheate
 elided
+escudero
 evetide
 ensilation
 extirpating
