@@ -1428,7 +1428,6 @@ fangle
 frowziest
 fightwite
 femorofibular
-formulators
 fatbacks
 facioscapulohumeral
 foretimes
@@ -10285,6 +10284,7 @@ finary
 folksongs
 fanged
 fingerings
+formulators
 frazed
 fluormeter
 ferrates
