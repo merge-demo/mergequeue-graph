@@ -5950,6 +5950,7 @@ fumid
 fluidizing
 folkways
 foliot
+fusillading
 foreplays
 fawny
 fluidrachm
@@ -11562,7 +11563,6 @@ fluoric
 feu
 feuing
 fluctigerous
-fusillading
 feuage
 furzechat
 fundatrix
