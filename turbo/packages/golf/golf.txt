@@ -6223,6 +6223,7 @@ gatehouse
 glucosidase
 gonne
 greaves
+gravispheric
 gaum
 grimnesses
 goatweed
@@ -7587,7 +7588,6 @@ glacialist
 gracefuller
 gallerying
 gracilariidae
-gravispheric
 gyn
 gowlan
 gunsel
