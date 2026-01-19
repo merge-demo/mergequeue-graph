@@ -2355,7 +2355,6 @@ anomie
 anonyma
 aftercare
 antisialagogue
-agitative
 artifact
 awalt
 alizari
@@ -13503,6 +13502,7 @@ attice
 archartist
 abigeat
 aerostat
+agitative
 arthrorrhagia
 anniverse
 azobenzene
