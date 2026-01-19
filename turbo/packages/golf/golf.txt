@@ -7338,7 +7338,6 @@ graphs
 gaberlunzie
 gunation
 galactin
-gymnospermic
 galvanization
 gymnolaema
 gougingly
@@ -10017,6 +10016,7 @@ gaonate
 grammatolator
 gesneriaceous
 grissens
+gymnospermic
 genetoid
 geomancies
 gangliac

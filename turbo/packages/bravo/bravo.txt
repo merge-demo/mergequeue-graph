@@ -5585,7 +5585,6 @@ beknow
 bristleless
 blimpishly
 bel
-bemedalled
 burys
 bibasic
 behoovingly
@@ -6436,6 +6435,7 @@ brilliant
 barricaders
 botanises
 bedlamer
+bemedalled
 behoot
 byliner
 blowup
