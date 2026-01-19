@@ -1625,7 +1625,6 @@ achate
 artificialize
 accriminate
 airier
-arthuriana
 admiralship
 anonang
 abnet
@@ -5211,6 +5210,7 @@ ankerite
 antichristianly
 almendron
 ampulated
+arthuriana
 agrias
 ameloblastic
 artifactual
