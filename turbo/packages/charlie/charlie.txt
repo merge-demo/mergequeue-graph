@@ -2721,7 +2721,6 @@ carbamyl
 coff
 combinatorics
 cutey
-canman
 churr
 cannabic
 cyclamate
@@ -4120,6 +4119,7 @@ cardin
 clarissimo
 cardinal
 cardinalfish
+canman
 cory
 croslet
 cancans
