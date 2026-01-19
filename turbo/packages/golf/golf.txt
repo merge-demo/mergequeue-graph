@@ -6607,7 +6607,6 @@ glossological
 gentleship
 glossary
 gangsterism
-glamourless
 grumphies
 governessdom
 glummy
@@ -8183,6 +8182,7 @@ gravid
 gladlier
 gujar
 glycerolyses
+glamourless
 gelatinise
 geometricize
 grandfatherless
