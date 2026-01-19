@@ -9772,7 +9772,6 @@ dermatocyst
 dillesk
 detailedness
 daimones
-denumerable
 dolefish
 deicer
 digesters
@@ -16550,6 +16549,7 @@ draftsman
 drupaceous
 decamping
 draftsmanship
+denumerable
 dynastidan
 duplicature
 dyspnoic
