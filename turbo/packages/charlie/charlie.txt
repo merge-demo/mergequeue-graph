@@ -1106,7 +1106,6 @@ calcimining
 choppin
 crossbarred
 calcinate
-calcinator
 coherently
 candareen
 cytherea
@@ -11778,6 +11777,7 @@ concausal
 chatelet
 catamountain
 chazzen
+calcinator
 cycloidal
 coaster
 copaljocote
