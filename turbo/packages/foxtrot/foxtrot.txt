@@ -2134,7 +2134,6 @@ frigate
 fletch
 fuchsite
 fringillid
-fosterling
 freelovism
 flagstone
 fluer
@@ -4189,6 +4188,7 @@ fired
 finnish
 firefighting
 flute
+fosterling
 feelingful
 frenal
 fornicator
