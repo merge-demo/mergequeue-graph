@@ -2488,7 +2488,6 @@ fibrinoid
 fernyear
 funs
 fernshaw
-furniment
 fordo
 flanerie
 feck
@@ -9906,6 +9905,7 @@ fleabane
 formated
 feceris
 fortuitism
+furniment
 franchise
 forsythias
 ferromagnetism
