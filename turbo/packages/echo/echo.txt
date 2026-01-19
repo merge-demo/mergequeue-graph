@@ -3520,7 +3520,6 @@ embolectomy
 enicuridae
 emboli
 ergastulum
-embolimeal
 ecumenism
 emuscation
 estriols
@@ -8432,6 +8431,7 @@ epos
 elianic
 encinas
 epizootic
+embolimeal
 externa
 epoxyed
 epoxies
