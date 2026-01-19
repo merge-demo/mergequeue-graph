@@ -6465,7 +6465,6 @@ golder
 glimpse
 gonyoncus
 grower
-goldfinny
 gewgaw
 guising
 gloriously
@@ -10002,6 +10001,7 @@ grilse
 girgashite
 gaffer
 garrulousness
+goldfinny
 glastonbury
 greenfinch
 guardstone
