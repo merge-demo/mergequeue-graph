@@ -8841,7 +8841,6 @@ esthesiometer
 eremuri
 ethnoflora
 elaphodus
-enerve
 escharoid
 englue
 exiler
@@ -12252,6 +12251,7 @@ ensignry
 evilwishing
 entrochus
 efflorescency
+enerve
 enteromegaly
 els
 elegises
