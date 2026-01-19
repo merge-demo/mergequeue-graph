@@ -7819,7 +7819,6 @@ deckhands
 diadochokinesis
 dyothelism
 dil
-devour
 devourers
 discourseless
 dependently
@@ -15042,6 +15041,7 @@ dioptrics
 disbutton
 decnet
 drysalteries
+devour
 doggers
 dentonasal
 democratized
