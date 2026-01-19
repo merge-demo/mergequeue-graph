@@ -8510,6 +8510,7 @@ capillaire
 calathidium
 chancels
 chancemen
+caroaches
 conoscente
 chainbreak
 chancery
@@ -29617,7 +29618,6 @@ cosinesses
 crock
 clashy
 cantative
-caroaches
 coembodying
 crockery
 carcanet
