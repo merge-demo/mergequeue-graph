@@ -4121,7 +4121,6 @@ gouda
 ghostily
 guarapo
 globuloid
-gelinotte
 graphemic
 glycoproteid
 gastroarthritis
@@ -7576,6 +7575,7 @@ gullibility
 guarantied
 gopherman
 gravimetrically
+gelinotte
 greengroceries
 gloeosporium
 grinders
