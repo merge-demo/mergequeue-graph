@@ -5079,6 +5079,7 @@ geyan
 grovellingly
 glycocholic
 granitize
+glucaemia
 glaga
 gasless
 gashing
@@ -5555,7 +5556,6 @@ gigglingly
 gelilah
 goutier
 greenroom
-glucaemia
 gaysome
 gripless
 geochemist
