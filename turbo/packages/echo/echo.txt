@@ -1290,6 +1290,7 @@ extrapolating
 effectors
 effectress
 encapsulate
+extensibleness
 elengeness
 effects
 enlarge
@@ -4004,7 +4005,6 @@ empyemic
 empiercement
 enwind
 evirato
-extensibleness
 epitomizes
 epirogenetic
 elute
