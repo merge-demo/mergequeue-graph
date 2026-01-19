@@ -4064,7 +4064,6 @@ frankest
 filelike
 frenuna
 frondescing
-fumiduct
 fianced
 federation
 fakers
@@ -5092,6 +5091,7 @@ frivolous
 fawns
 fructure
 flasker
+fumiduct
 furless
 fastuousness
 foretooth
