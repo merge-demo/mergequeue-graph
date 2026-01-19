@@ -13548,6 +13548,7 @@ duchesses
 dissuadable
 disseason
 disseat
+decumbently
 disgood
 diphyodont
 donnism
@@ -14859,7 +14860,6 @@ doctrines
 dragonfishes
 delinition
 disgraces
-decumbently
 docudramas
 document
 documentable
