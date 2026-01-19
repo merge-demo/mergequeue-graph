@@ -588,7 +588,6 @@ gabfest
 gorilloid
 garron
 greaseball
-garthman
 gallinaceae
 gallinacean
 galesaurus
@@ -9174,6 +9173,7 @@ goniometrically
 grippiest
 granulating
 gluttei
+garthman
 grippiness
 glycolytically
 galvanometer
