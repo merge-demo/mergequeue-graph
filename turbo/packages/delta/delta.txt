@@ -4667,7 +4667,6 @@ deflexionize
 disputatively
 datatypes
 dunt
-desperateness
 disnaturalize
 dolente
 diamondwise
@@ -11828,6 +11827,7 @@ deipnosophism
 dormitary
 discrowns
 daydreamed
+desperateness
 depilated
 devitalised
 dogma
