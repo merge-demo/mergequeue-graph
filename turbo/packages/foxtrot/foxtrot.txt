@@ -8535,7 +8535,6 @@ formulizing
 flapdoodle
 formby
 foeture
-fumaric
 frightment
 fanfarons
 fivepence
@@ -10163,6 +10162,7 @@ formalism
 flint
 feebly
 farce
+fumaric
 foxchop
 fetologies
 furdel
