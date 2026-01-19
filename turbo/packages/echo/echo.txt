@@ -6112,6 +6112,7 @@ earlywood
 ervipiame
 enmeshment
 enrols
+emgalla
 easters
 enmity
 eparchean
@@ -8026,7 +8027,6 @@ epigrammatizer
 earnests
 epiphegus
 enwombed
-emgalla
 eteocles
 ectodermal
 exteriorly

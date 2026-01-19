@@ -7338,7 +7338,6 @@ forby
 formicina
 famelessly
 foreparent
-faubourg
 forebodingly
 footplate
 flakiness
@@ -8675,6 +8674,7 @@ faith
 fortieth
 feminisms
 fortify
+faubourg
 footrill
 fibroids
 favellidium
