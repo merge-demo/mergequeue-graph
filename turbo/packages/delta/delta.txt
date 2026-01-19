@@ -11032,6 +11032,7 @@ disanchor
 deliberations
 disanimation
 devall
+dithecous
 disannuller
 dialogues
 dichroic
@@ -13041,7 +13042,6 @@ durant
 dopiness
 disparity
 disruptability
-dithecous
 dispeed
 dispark
 declarer

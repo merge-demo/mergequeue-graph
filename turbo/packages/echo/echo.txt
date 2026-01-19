@@ -4511,7 +4511,6 @@ embarkation
 encephalotome
 enfevered
 edomite
-ethics
 epionynychia
 epagoge
 echinodermal
@@ -13646,6 +13645,7 @@ expansometer
 engrosses
 empeo
 extracorporeally
+ethics
 erma
 ecyphellate
 elongating
