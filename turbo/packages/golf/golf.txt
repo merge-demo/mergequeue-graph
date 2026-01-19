@@ -4724,7 +4724,6 @@ gryphite
 goad
 gentilitian
 gasometer
-gomarian
 giuseppe
 gotraja
 gamboised
@@ -5106,6 +5105,7 @@ glali
 gnatflower
 gaumed
 grumbly
+gomarian
 glider
 gallweed
 glossily
