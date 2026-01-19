@@ -4997,7 +4997,6 @@ glariness
 gregarinae
 gatch
 gelechia
-granules
 garotter
 guards
 gaedown
@@ -7431,6 +7430,7 @@ grewt
 guahiban
 garlopa
 gelidities
+granules
 goujat
 grampuses
 garrulous

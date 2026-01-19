@@ -18981,6 +18981,7 @@ constables
 collectible
 collection
 cinnamon
+chorion
 collectivise
 collectivism
 collectivist
@@ -24242,7 +24243,6 @@ convulse
 convulsedly
 compulsiveness
 circuity
-chorion
 choky
 classified
 carolyn
