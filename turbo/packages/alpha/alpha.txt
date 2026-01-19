@@ -7513,7 +7513,6 @@ androphorum
 antony
 alcalde
 activistic
-anthropocentricity
 alcaldes
 alcaldeship
 aristoi
@@ -9860,6 +9859,7 @@ amass
 agrobiologist
 amasses
 apprizal
+anthropocentricity
 aregeneratory
 alexian
 argumenta
