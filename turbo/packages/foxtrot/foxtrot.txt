@@ -3068,7 +3068,6 @@ fibrinosis
 feringi
 fibro
 fantasia
-fiercehearted
 flintily
 frontispiece
 fortifyingly
@@ -9610,6 +9609,7 @@ flatfootedness
 fruiterer
 featherfoil
 flowerer
+fiercehearted
 faze
 forwardly
 flotations
