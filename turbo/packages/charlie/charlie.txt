@@ -21890,6 +21890,7 @@ cohorn
 counterstain
 capelans
 crotchet
+calabar
 caulote
 chiasm
 conferruminate
@@ -25145,7 +25146,6 @@ corianders
 conditional
 cuttlebones
 cycled
-calabar
 cretinism
 centesimate
 curvier
