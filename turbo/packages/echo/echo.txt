@@ -1208,6 +1208,7 @@ exstemporal
 experimentor
 eme
 exoarteritis
+expletory
 extrascripturality
 epit
 euthyneural
@@ -3794,7 +3795,6 @@ exla
 emparl
 extolled
 engrain
-expletory
 emended
 ecu
 emending
