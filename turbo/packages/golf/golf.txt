@@ -90,6 +90,7 @@ gluey
 guidelines
 grutten
 gadabouts
+glutathione
 gualaca
 glauber
 gymnopaedes
@@ -641,7 +642,6 @@ gramineal
 geodetic
 gweducs
 gardencraft
-glutathione
 gallomaniac
 gallon
 gonapophysis
