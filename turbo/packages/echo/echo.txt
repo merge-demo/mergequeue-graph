@@ -10386,7 +10386,6 @@ eleolite
 entresalle
 excreted
 exposit
-ecb
 emeute
 ectocranial
 ensuite
@@ -13007,6 +13006,7 @@ efflate
 expedience
 engrossment
 exotropism
+ecb
 elopement
 epiglottis
 epopee
