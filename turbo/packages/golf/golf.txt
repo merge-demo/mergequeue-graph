@@ -7392,7 +7392,6 @@ geniohyoglossus
 gaiety
 gassit
 gossy
-gregariniform
 gepeoo
 grantsmen
 goosefoot
@@ -10394,6 +10393,7 @@ golden
 generalisable
 gangwayman
 graciousness
+gregariniform
 glassing
 greenstuff
 gyracanthus
