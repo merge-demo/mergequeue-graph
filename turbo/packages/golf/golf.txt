@@ -2074,7 +2074,6 @@ gerberia
 guerillaism
 geobotanist
 galvanizer
-ginglmi
 gnomist
 gelndesprung
 gawkhammer
@@ -6453,6 +6452,7 @@ generalizable
 goodyear
 grudgeless
 goldeney
+ginglmi
 goldener
 guary
 goldentop
