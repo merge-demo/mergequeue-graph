@@ -3630,7 +3630,6 @@ groinery
 glottides
 gangrenes
 grisaille
-galvanize
 gpm
 graeae
 gangwa
@@ -9312,6 +9311,7 @@ gront
 gorbellies
 gamodeme
 genuflect
+galvanize
 gangtide
 geronomite
 glassiest
