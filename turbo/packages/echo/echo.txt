@@ -470,7 +470,6 @@ eucaryotic
 epiphylline
 eccrisis
 enregistered
-edifiers
 expellers
 excavations
 embrangling
@@ -9472,6 +9471,7 @@ enstore
 es
 equipondious
 escry
+edifiers
 escribientes
 escrime
 eschatologically
