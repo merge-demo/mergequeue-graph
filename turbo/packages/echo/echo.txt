@@ -4379,7 +4379,6 @@ endosmometric
 eubacteria
 ecumenist
 elaeis
-ebriously
 encapsulation
 emitted
 encapsuled
@@ -11962,6 +11961,7 @@ eelcatcher
 excitations
 escapees
 escapes
+ebriously
 eulogists
 enveloped
 eurylaimidae
