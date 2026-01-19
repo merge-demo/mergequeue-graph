@@ -11511,6 +11511,7 @@ begged
 bathometer
 bumboatman
 behaves
+backstroked
 broadshare
 budder
 blufter
@@ -17799,7 +17800,6 @@ bundobust
 bursae
 bursary
 bassine
-backstroked
 bacterizing
 brave
 banghy
