@@ -5464,7 +5464,6 @@ grangerising
 gemmier
 gluttery
 glyster
-galumphed
 gablet
 grande
 ganoids
@@ -7643,6 +7642,7 @@ guachamaca
 geira
 grounding
 geodynamics
+galumphed
 gyppery
 greenlet
 gleary
