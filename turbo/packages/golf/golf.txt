@@ -5803,6 +5803,7 @@ greggle
 gather
 gracefullest
 greekish
+gymnospermous
 gedrite
 golliwog
 gardeny
@@ -5877,7 +5878,6 @@ gentilish
 gleesomeness
 gassiness
 guereba
-gymnospermous
 goitrous
 grorudite
 gasogene
