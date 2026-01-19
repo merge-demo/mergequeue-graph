@@ -9787,7 +9787,6 @@ agglomerator
 amanitopsis
 antireforming
 aspergillums
-arteriectomy
 aeroplane
 aposthia
 antiauxin
@@ -12559,6 +12558,7 @@ anubis
 anepigraphous
 algae
 anepithymia
+arteriectomy
 awnlike
 ardennite
 aplomb
