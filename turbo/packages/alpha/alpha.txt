@@ -13152,6 +13152,7 @@ animalist
 animalistic
 angustura
 attemperator
+aeromancy
 androgynous
 animalivora
 amnioclepsis
@@ -24354,7 +24355,6 @@ autopsies
 ambrose
 archprophet
 abaters
-aeromancy
 attractionally
 alpinists
 adjurors
