@@ -1189,7 +1189,6 @@ epimorphosis
 educible
 expiates
 epimeric
-encyclopedically
 ephippia
 eductors
 excursionists
@@ -3084,6 +3083,7 @@ embarrassment
 epistolographist
 edgewise
 engrossers
+encyclopedically
 euectic
 elmwood
 exudations
