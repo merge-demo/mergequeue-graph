@@ -13703,7 +13703,6 @@ devious
 dermatocellulitis
 djellabas
 decagramme
-diatryma
 detracter
 dogberries
 dispersals
@@ -15923,6 +15922,7 @@ dims
 distileries
 dossmen
 dissemblies
+diatryma
 decamerous
 desaminase
 downcried
