@@ -1163,6 +1163,7 @@ advancing
 acana
 antilopine
 anemophily
+adipopexic
 acanonical
 acanthaceous
 aeacus
@@ -13282,7 +13283,6 @@ archiater
 abstemiously
 anisoles
 aerophotography
-adipopexic
 albireo
 aurifex
 agglutinability
