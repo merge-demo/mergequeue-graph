@@ -19635,7 +19635,6 @@ arikara
 anticonservative
 anthracomartus
 aplastic
-annotate
 ark
 arillate
 affricative
@@ -22096,6 +22095,7 @@ aprons
 armied
 adhesives
 astereognosis
+annotate
 arthrosporic
 aburban
 autotoxis
