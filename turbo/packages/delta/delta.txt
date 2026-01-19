@@ -11388,7 +11388,6 @@ diabetic
 disciplinal
 disquisited
 droopingly
-disquieten
 dollie
 disobey
 disciplinarily
@@ -12202,6 +12201,7 @@ despiciency
 demander
 depurates
 duply
+disquieten
 disambiguates
 demideify
 dichocarpism
