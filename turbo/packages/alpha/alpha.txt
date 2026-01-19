@@ -1148,7 +1148,6 @@ amorphic
 asramas
 airshed
 acalephoid
-anaclastic
 arow
 acalyculate
 apheliotropic
@@ -21417,6 +21416,7 @@ actiniohematin
 askos
 aslant
 aglethead
+anaclastic
 aevum
 antidraft
 augustinian
