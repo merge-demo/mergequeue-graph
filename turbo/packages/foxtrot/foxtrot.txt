@@ -1726,7 +1726,6 @@ fasciolariidae
 flourless
 faviform
 feasibly
-fashionmonger
 flighted
 fascio
 floats
@@ -9630,6 +9629,7 @@ fubbed
 fromage
 foredivine
 frocked
+fashionmonger
 fletcher
 furfures
 fregata
