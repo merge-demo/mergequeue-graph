@@ -13616,7 +13616,6 @@ electrolytically
 effossion
 elinvar
 epiphytically
-eremurus
 emamelware
 epitaph
 extending
@@ -13765,6 +13764,7 @@ entone
 effusely
 epiplectic
 ensures
+eremurus
 exodontist
 ethnize
 encloak
