@@ -383,7 +383,6 @@ cacomagician
 cacomelia
 cacomistle
 cacomixle
-canoeing
 cacomorphia
 ceramography
 cacomorphosis
@@ -10968,6 +10967,7 @@ callan
 chiropodists
 cfh
 coccygalgia
+canoeing
 chiropodous
 chiropompholyx
 contraposita
