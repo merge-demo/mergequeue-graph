@@ -614,7 +614,6 @@ falsehood
 flosculet
 frazil
 faintingly
-festschriften
 fluctiferous
 flavorless
 fumers
@@ -5478,6 +5477,7 @@ faked
 filionymic
 forbearingness
 frowzy
+festschriften
 faldage
 furbelowing
 fankle
