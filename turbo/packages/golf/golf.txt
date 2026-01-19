@@ -5787,6 +5787,7 @@ gussy
 gloveless
 glorifiable
 gym
+gamble
 grain
 gadarene
 gloveman
@@ -9398,7 +9399,6 @@ gynecopathic
 glycocholate
 gazetteership
 gunneraceae
-gamble
 gramps
 gingerliness
 glycollide
