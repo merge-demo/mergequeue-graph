@@ -8439,7 +8439,6 @@ externa
 epoxyed
 epoxies
 employed
-evangelistaries
 easterlies
 eprise
 epimorpha
@@ -12632,6 +12631,7 @@ elateroid
 egurgitating
 excussio
 exoenzyme
+evangelistaries
 enterobacterial
 esrogim
 exogamies
