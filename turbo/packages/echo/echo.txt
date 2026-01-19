@@ -8908,6 +8908,7 @@ exoskeletal
 eteoclus
 endosmotically
 ericales
+eserin
 epicanthi
 exteroceptive
 erythematic
@@ -11497,7 +11498,6 @@ enbrave
 encheiria
 erotylid
 exhaling
-eserin
 extractable
 elegantly
 evincing
