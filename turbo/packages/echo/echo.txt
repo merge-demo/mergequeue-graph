@@ -3801,7 +3801,6 @@ engrain
 emended
 ecu
 emending
-escribano
 emerge
 ecart
 escapology
@@ -13277,6 +13276,7 @@ egregious
 enflagellation
 extrorsely
 entozoarian
+escribano
 exhaustlessness
 exploitatory
 endocrinopath
