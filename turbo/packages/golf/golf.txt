@@ -5984,6 +5984,7 @@ grainsman
 granulous
 geometry
 gutterman
+goniatitic
 gyve
 graspers
 giallolino
@@ -6862,7 +6863,6 @@ galeas
 genitival
 geed
 gaposises
-goniatitic
 grainman
 goshen
 gynandroid
