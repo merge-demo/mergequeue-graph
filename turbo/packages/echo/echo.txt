@@ -2127,7 +2127,6 @@ elation
 euphonise
 enrib
 effloresces
-extrapolar
 explanative
 externalism
 evangelizer
@@ -4745,6 +4744,7 @@ endocarpic
 encode
 exitance
 ethnolinguist
+extrapolar
 ensnarements
 encoding
 effectivity
