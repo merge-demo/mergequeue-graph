@@ -848,6 +848,7 @@ ectomorph
 ectoparasite
 exemptionist
 euxanthic
+emoloa
 ectoparasitica
 exhumating
 expediencies
@@ -3912,7 +3913,6 @@ estruate
 earthbound
 excommunicators
 emollients
-emoloa
 endosymbiosis
 excretitious
 emolumental
