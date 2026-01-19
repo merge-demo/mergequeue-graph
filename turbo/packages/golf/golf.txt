@@ -184,7 +184,6 @@ goniometry
 gluteoperineal
 guesting
 gradgrind
-goaled
 gabarit
 gammacism
 groschen
@@ -8405,6 +8404,7 @@ gravamen
 georgia
 gyves
 guaiacums
+goaled
 gonoblastic
 gastrohysterectomy
 goldonian
