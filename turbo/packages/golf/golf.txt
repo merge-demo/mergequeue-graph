@@ -1083,6 +1083,7 @@ guarding
 graphicness
 gowdy
 gestes
+gentry
 goularo
 glossopharyngeal
 gormandizers
@@ -5991,7 +5992,6 @@ gemmates
 gastroenterocolostomy
 goldbricker
 grin
-gentry
 gusting
 glossoplasty
 guanabana
