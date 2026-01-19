@@ -7182,7 +7182,6 @@ flection
 faecalith
 flites
 forthteller
-footless
 footlights
 fratries
 ficoides
@@ -7732,6 +7731,7 @@ fasciately
 followingly
 fenouillette
 footprints
+footless
 flavour
 fanbearer
 ferroprussic
