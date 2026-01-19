@@ -2601,6 +2601,7 @@ ferrometer
 filagreed
 fameflower
 follis
+fillowite
 fluorouracil
 financiere
 filmed
@@ -11653,7 +11654,6 @@ fut
 futhorc
 fishwoman
 fleshers
-fillowite
 forepale
 foxskins
 functionalized
