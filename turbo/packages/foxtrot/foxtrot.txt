@@ -2869,7 +2869,6 @@ frabjously
 formats
 foaled
 flowstone
-farcin
 freighted
 fackins
 firefighters
@@ -7735,6 +7734,7 @@ fanbearer
 ferroprussic
 fractionize
 flyflower
+farcin
 flawed
 fabliau
 fondouk
