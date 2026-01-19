@@ -5531,7 +5531,6 @@ epicardial
 enfilade
 exotericism
 expatiator
-experimentations
 excriminate
 extraovular
 enfilades
@@ -6082,6 +6081,7 @@ enlive
 emboly
 exceed
 exossate
+experimentations
 epizoisms
 explida
 erythroderma
