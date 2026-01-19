@@ -465,6 +465,7 @@ borrel
 backspaced
 backspacer
 bundist
+biannual
 blockades
 bacillogenic
 burree
@@ -684,7 +685,6 @@ brioche
 bicorne
 bombo
 bungey
-biannual
 begall
 buccogingival
 bronchiolitis
