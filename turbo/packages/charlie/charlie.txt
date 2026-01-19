@@ -4702,7 +4702,6 @@ carpaine
 carpalia
 celiocele
 carpals
-chela
 carpathian
 carped
 carpellary
@@ -10941,6 +10940,7 @@ chirometer
 chiromys
 cryostase
 chalcioecus
+chela
 chironym
 caecum
 chironomid
