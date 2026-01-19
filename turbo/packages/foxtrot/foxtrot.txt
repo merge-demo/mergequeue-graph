@@ -1803,6 +1803,7 @@ frogmen
 flabra
 fourteenthly
 flutina
+foreby
 flaunts
 foredoes
 flowerers
@@ -4634,7 +4635,6 @@ flections
 flexibilities
 fumariaceae
 fragrantly
-foreby
 frivolizing
 fibroreticulate
 fictitiousness

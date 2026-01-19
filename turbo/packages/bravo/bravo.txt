@@ -709,6 +709,7 @@ badderlocks
 basidiomycetous
 brolga
 brilliantine
+bellmouthed
 boglander
 bodied
 bischofite
@@ -18018,7 +18019,6 @@ busket
 baseness
 buskined
 beadmen
-bellmouthed
 beautied
 busload
 busman
