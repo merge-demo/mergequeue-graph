@@ -15227,7 +15227,6 @@ crassina
 clam
 cabriolet
 circumnavigatory
-clamantly
 clamaroo
 cywydd
 clamatory
@@ -24644,6 +24643,7 @@ copouts
 coley
 complects
 chorizontic
+clamantly
 cleeks
 concentralize
 copped
