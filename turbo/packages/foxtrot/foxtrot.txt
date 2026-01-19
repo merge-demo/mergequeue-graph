@@ -5473,7 +5473,6 @@ frontignac
 fieri
 fervours
 finnan
-fusional
 fletchers
 furrower
 furnit
@@ -6081,6 +6080,7 @@ feistiest
 filical
 fatheaded
 folksinging
+fusional
 fundmongering
 freebies
 friation
