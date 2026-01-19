@@ -1193,7 +1193,6 @@ alcoholise
 agrestal
 aspirations
 alligations
-avowal
 antivitamin
 acanthomas
 acanthomeridae
@@ -14677,6 +14676,7 @@ anthropomorphism
 alchemical
 antiarins
 actuate
+avowal
 aerothermodynamics
 antiaristocracies
 attendees
