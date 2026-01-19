@@ -8647,7 +8647,6 @@ belinuridae
 bismuthic
 billowiest
 backfold
-bounceable
 buncoed
 bebization
 brochette
@@ -17453,6 +17452,7 @@ bunoselenodont
 biatomic
 brulots
 boomage
+bounceable
 bareboned
 bruskest
 bunter
