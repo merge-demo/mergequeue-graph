@@ -1167,7 +1167,6 @@ grogs
 graftdom
 grift
 groatsworth
-gasthaus
 guidingly
 gaslights
 gaon
@@ -1787,6 +1786,7 @@ glutinate
 gestalten
 granodioritic
 gangwaymen
+gasthaus
 gatehouses
 grueler
 gastrotomic
