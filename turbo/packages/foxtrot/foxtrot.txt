@@ -3554,7 +3554,6 @@ feddan
 fussle
 fairbanks
 fluorindine
-fourniture
 flashover
 fardels
 flank
@@ -7145,6 +7144,7 @@ ferociousness
 fricassees
 flimflammery
 footfolk
+fourniture
 ficklewise
 fruticulture
 flabel
