@@ -8666,7 +8666,6 @@ gawkishly
 goosing
 germain
 gree
-glean
 ginglymus
 gutterling
 gimcracks
@@ -10134,6 +10133,7 @@ glazement
 gasohol
 goodmanship
 grazers
+glean
 giddyish
 gloried
 glideness
