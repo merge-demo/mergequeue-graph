@@ -7471,7 +7471,6 @@ alnitham
 albuminising
 albuminize
 arrested
-anchovies
 adaptor
 alethopteroid
 albuminofibrin
@@ -12117,6 +12116,7 @@ anatifer
 adumbrellar
 aggradational
 anatole
+anchovies
 abought
 anatomicochirurgical
 astrodynamic
