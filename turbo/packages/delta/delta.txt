@@ -3449,7 +3449,6 @@ disyllable
 dormered
 drogh
 didelphous
-dorism
 defoil
 dorsobranchiata
 defoliants
@@ -9459,6 +9458,7 @@ detester
 desultor
 disparateness
 dopy
+dorism
 digestibility
 disserting
 demark
