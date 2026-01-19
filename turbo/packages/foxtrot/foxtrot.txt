@@ -1808,7 +1808,6 @@ featherwise
 fjorded
 femcee
 familiarisingly
-fishhooks
 flamingos
 federalizes
 fetisher
@@ -10117,6 +10116,7 @@ finalize
 fricatives
 fluid
 frumenties
+fishhooks
 frivolousness
 foray
 faunula
