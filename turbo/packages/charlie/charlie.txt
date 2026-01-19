@@ -8195,7 +8195,6 @@ chalaco
 crispation
 cellarous
 chalastogastra
-crakes
 chalazian
 cranely
 cuckooflower
@@ -16394,6 +16393,7 @@ clivus
 clk
 clo
 cloaca
+crakes
 cloacae
 cryptanalyzed
 cloacaline

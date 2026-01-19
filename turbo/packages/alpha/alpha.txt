@@ -6168,7 +6168,6 @@ anthraces
 ablactate
 agnostics
 anon
-apoplexy
 agnostus
 agnotozoic
 agnus
@@ -14193,6 +14192,7 @@ alismoid
 alexiterical
 antergic
 aspic
+apoplexy
 anticatalyst
 autodetector
 amarillo
