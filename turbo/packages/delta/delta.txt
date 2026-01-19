@@ -4470,6 +4470,7 @@ drinkableness
 drumloidal
 dialyzer
 demiculverin
+diphthongising
 dodgiest
 demidistance
 diabetogenic
@@ -15031,7 +15032,6 @@ doggerelism
 doggerelist
 desperate
 doggerelizing
-diphthongising
 disrout
 durnedest
 decided
