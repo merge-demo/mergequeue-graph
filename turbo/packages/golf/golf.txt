@@ -2690,7 +2690,6 @@ gastroenterologists
 groupthink
 ganodont
 geoteuthis
-genioglossus
 gelling
 genitocrural
 gingerbread
@@ -7730,6 +7729,7 @@ gonystylaceae
 goldbugs
 grantable
 gladkaite
+genioglossus
 gematriot
 grafted
 gaumlike
