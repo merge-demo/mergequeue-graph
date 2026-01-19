@@ -1891,7 +1891,6 @@ dupery
 disbench
 disconcertingness
 digladiator
-discourse
 debouchment
 diarial
 debout
@@ -18284,6 +18283,7 @@ dogged
 duplicidentata
 desmopyknosis
 determinably
+discourse
 decasualization
 daydreamt
 decibels
