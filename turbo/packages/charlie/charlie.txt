@@ -6930,7 +6930,6 @@ cemetery
 copesettic
 cemeterial
 cymoscope
-catchpenny
 concours
 ceratinous
 culm
@@ -27953,6 +27952,7 @@ clipboards
 cradles
 cradlesongs
 cradling
+catchpenny
 cryesthesia
 corroborator
 craft
