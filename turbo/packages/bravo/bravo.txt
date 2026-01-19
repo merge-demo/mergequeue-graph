@@ -8878,6 +8878,7 @@ bezantee
 brimmimg
 bathypelagic
 bioactivities
+bungling
 bioassaying
 bioastronautics
 belcher
@@ -17380,7 +17381,6 @@ brachistochronic
 beignets
 bottles
 bejeled
-bungling
 bullit
 bungos
 bichromic
