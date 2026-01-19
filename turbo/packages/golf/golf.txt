@@ -2011,7 +2011,6 @@ gases
 gaveled
 ghastfulness
 gibbosities
-gangrenes
 gubernation
 greiges
 guazuti
@@ -3627,6 +3626,7 @@ geebung
 goths
 groinery
 glottides
+gangrenes
 grisaille
 galvanize
 gpm
