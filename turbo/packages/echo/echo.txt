@@ -5146,6 +5146,7 @@ endogenae
 efference
 euchres
 echeloning
+extrafocal
 enchanter
 expedition
 endogenous
@@ -7433,7 +7434,6 @@ ewe
 ephemeridae
 ephemeroptera
 eigne
-extrafocal
 electronographic
 eyess
 egremoigne
