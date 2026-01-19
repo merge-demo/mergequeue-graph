@@ -3502,7 +3502,6 @@ dinitrotoluene
 defrayable
 disembarrassment
 dismissable
-doom
 defraying
 desiccated
 dagobas
@@ -13784,6 +13783,7 @@ disadventure
 disenshroud
 dreamboat
 desugaring
+doom
 degression
 damndests
 dangering
