@@ -213,7 +213,6 @@ graphing
 gliadines
 gallish
 gaudsman
-goldcup
 glagolitsa
 greys
 gooks
@@ -8617,6 +8616,7 @@ gorgons
 guideposts
 goldfielder
 gaslight
+goldcup
 gasteralgia
 greened
 govern
