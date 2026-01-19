@@ -762,7 +762,6 @@ bandsawing
 badges
 badging
 buddhism
-banksman
 bifrost
 badiaga
 breathy
@@ -1305,6 +1304,7 @@ bacao
 brochantite
 bluism
 bury
+banksman
 bedbug
 boleite
 bacterioprecipitin
