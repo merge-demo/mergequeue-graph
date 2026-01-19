@@ -7716,7 +7716,6 @@ grenelle
 gauloiserie
 guld
 gamboler
-grenadier
 gynecicgynecidal
 glycinin
 georama
@@ -8241,6 +8240,7 @@ gaseosity
 gurries
 gara
 geeks
+grenadier
 geopolitist
 glycocin
 galenite
