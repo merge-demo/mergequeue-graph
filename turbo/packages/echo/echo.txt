@@ -2010,7 +2010,6 @@ embreathement
 eskimo
 etruscans
 electrometeor
-entamebic
 eligibleness
 encephalometric
 electrograph
@@ -12076,6 +12075,7 @@ ekphoria
 expostulation
 extollingly
 erepsin
+entamebic
 escuage
 embryectomies
 exsectile
