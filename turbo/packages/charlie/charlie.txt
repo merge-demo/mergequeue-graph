@@ -5066,6 +5066,7 @@ carvoeira
 carvoepra
 carwash
 cumulates
+coagulometer
 clamatorial
 carwashes
 chider
@@ -17167,7 +17168,6 @@ chemick
 chagrined
 coaguline
 cataleptiform
-coagulometer
 coahuiltecan
 cantic
 coaid
