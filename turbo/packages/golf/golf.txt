@@ -2784,7 +2784,6 @@ gyne
 gershon
 guzzledom
 guemul
-glovelike
 gathers
 gazettal
 gormless
@@ -8860,6 +8859,7 @@ gregau
 guarantine
 glycerination
 greisens
+glovelike
 getas
 gasterotricha
 gashful
