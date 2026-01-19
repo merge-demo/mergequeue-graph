@@ -6916,7 +6916,6 @@ eleganter
 extrapolations
 endarteria
 election
-entourage
 empt
 enounces
 entozoologically
@@ -8792,6 +8791,7 @@ egritude
 esteems
 enskyed
 embelin
+entourage
 embrittling
 entempest
 empetraceous
