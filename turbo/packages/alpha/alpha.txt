@@ -5477,7 +5477,6 @@ afterburning
 abigail
 aftercareer
 aminoquinoline
-amethystine
 aftercataract
 aloe
 afterclause
@@ -13679,6 +13678,7 @@ arthritism
 aerialist
 attern
 anointment
+amethystine
 anointments
 articulation
 adulterer
