@@ -11008,7 +11008,6 @@ bonnily
 baccilla
 bawbee
 bumblingly
-belikely
 baalitical
 bribemonger
 blackface
@@ -18231,6 +18230,7 @@ butterflied
 bounteously
 balistarius
 besweatered
+belikely
 butterflower
 bleinerite
 bugproof
