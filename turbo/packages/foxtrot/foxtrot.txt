@@ -2725,7 +2725,6 @@ fleuronne
 filmish
 fetation
 fraternization
-forelimbs
 fyce
 fusses
 frit
@@ -8027,6 +8026,7 @@ feyest
 flowerist
 frontward
 fellahs
+forelimbs
 flash
 falconnoid
 foredevote

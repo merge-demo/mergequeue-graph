@@ -6983,7 +6983,6 @@ akal
 akali
 akamai
 annoyed
-akan
 akania
 akasa
 akawai
@@ -22329,6 +22328,7 @@ appair
 assorts
 agete
 apostolici
+akan
 antipoints
 ablest
 apoquinamine
