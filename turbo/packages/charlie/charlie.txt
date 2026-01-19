@@ -11686,6 +11686,7 @@ chondre
 chondrenchyma
 caramelin
 cocomats
+charon
 columbian
 curdiest
 chondrify
@@ -24138,7 +24139,6 @@ compeers
 colascione
 convicinity
 cattabu
-charon
 convictfish
 convictfishes
 convictible
