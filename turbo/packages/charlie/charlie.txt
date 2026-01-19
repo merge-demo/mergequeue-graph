@@ -6993,6 +6993,7 @@ coenobiod
 censurability
 catechiser
 censurableness
+cotton
 censurably
 cutlips
 censure
@@ -26496,7 +26497,6 @@ cottise
 chunkhead
 cephalically
 colorations
-cotton
 cottonbush
 chumpishness
 cogitantly
