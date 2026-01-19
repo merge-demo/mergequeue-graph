@@ -1908,7 +1908,6 @@ gulped
 gastromycosis
 geal
 garnetwork
-gynecocratic
 graperoot
 garibaldi
 gnomesque
@@ -4638,6 +4637,7 @@ gipsyish
 gastrohelcosis
 geomorphologic
 glossarian
+gynecocratic
 gerbilles
 gossoon
 glassin
