@@ -5570,6 +5570,7 @@ bekisses
 boletes
 bouleuterion
 borons
+baulking
 beknighted
 ballistite
 beknotted
@@ -13261,7 +13262,6 @@ bosthoon
 bostonian
 banderillas
 barman
-baulking
 bromide
 bullydom
 blitzkriegs
