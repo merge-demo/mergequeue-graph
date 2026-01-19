@@ -11035,7 +11035,6 @@ chisels
 chisled
 clarkeites
 conichalcite
-chistka
 chit
 chitak
 cordoba
@@ -15919,6 +15918,7 @@ cleptobioses
 conics
 coadministration
 coryphylly
+chistka
 cobelligerent
 cold
 clerestoried

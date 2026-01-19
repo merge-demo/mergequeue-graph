@@ -7943,6 +7943,7 @@ auscultations
 alternates
 aleurodes
 aleurometer
+anorthographically
 aleuronat
 absi
 aleurone
@@ -23813,7 +23814,6 @@ aspish
 alcogel
 atwixt
 australian
-anorthographically
 australioid
 anticonservatively
 allicit
