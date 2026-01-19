@@ -13017,7 +13017,6 @@ ezba
 entastic
 existentially
 esophagectomy
-ergotic
 estafette
 ethos
 elites
@@ -14032,6 +14031,7 @@ enteroclisis
 extractorship
 extrasterile
 extrastomachal
+ergotic
 ethmolith
 elocutionist
 esterase
