@@ -2467,6 +2467,7 @@ firn
 fumbulator
 firstcomer
 fireproofing
+footed
 fishhood
 faddier
 futility
@@ -5665,7 +5666,6 @@ flush
 flavins
 flirt
 fixatif
-footed
 flirtatiously
 flosculariidae
 flirtatiousness
