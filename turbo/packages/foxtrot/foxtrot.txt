@@ -251,7 +251,6 @@ firedamp
 fadge
 furfuramide
 flaxlike
-furniment
 fermery
 frau
 flattered
@@ -2488,6 +2487,7 @@ fibrinoid
 fernyear
 funs
 fernshaw
+furniment
 fordo
 flanerie
 feck
