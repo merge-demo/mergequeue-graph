@@ -4122,7 +4122,6 @@ beardfishes
 beswarms
 beardy
 blanchimeter
-bearding
 bonita
 basiotribe
 balminess
@@ -9805,6 +9804,7 @@ boos
 brigandish
 bisubstituted
 bombarder
+bearding
 benzoquinone
 bisubstitution
 babblingly
