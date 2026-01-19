@@ -4657,6 +4657,7 @@ gise
 granges
 gooder
 gourmandise
+guessed
 gibbsite
 gormands
 gauping
@@ -4823,7 +4824,6 @@ gaff
 gallybagger
 geopolar
 guttersnipe
-guessed
 gorgonizing
 giinwale
 gladiatrix
