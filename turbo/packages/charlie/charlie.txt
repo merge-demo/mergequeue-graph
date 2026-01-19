@@ -21254,7 +21254,6 @@ countersank
 chapped
 concertation
 concertato
-concerted
 concertedness
 cicatrose
 chromatics
@@ -22618,6 +22617,7 @@ cheesemonger
 connexiva
 cringer
 connexure
+concerted
 crumbier
 connexus
 cosuggestion
