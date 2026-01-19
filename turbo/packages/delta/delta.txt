@@ -2450,6 +2450,7 @@ dunghill
 destrudo
 decipium
 diplodocus
+deciduitis
 dipyre
 decision
 defeatists
@@ -4950,7 +4951,6 @@ dinamode
 decussion
 delustered
 duellers
-deciduitis
 diazid
 drouked
 demure
