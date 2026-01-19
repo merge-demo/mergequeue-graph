@@ -2553,7 +2553,6 @@ didactic
 driblets
 declinational
 dipneumones
-dimmed
 distelfink
 dynasty
 declinatory
@@ -7803,6 +7802,7 @@ devoration
 dadaists
 dairyings
 devoted
+dimmed
 dipsomaniacal
 dialogistical
 dalecarlian
