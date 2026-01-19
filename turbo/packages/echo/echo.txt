@@ -1195,7 +1195,6 @@ eductors
 excursionists
 epitrite
 edwardean
-easternly
 edwardsiidae
 edwin
 exorcismal
@@ -6391,6 +6390,7 @@ ensisternum
 esquiring
 eye
 earthling
+easternly
 enterprisingness
 eyedrop
 euthanasia

@@ -2788,7 +2788,6 @@ gramophonist
 gyne
 gershon
 guzzledom
-gyges
 guemul
 glovelike
 gathers
@@ -8893,6 +8892,7 @@ galantuomo
 gobang
 grete
 grainage
+gyges
 ganglier
 giddies
 giros
