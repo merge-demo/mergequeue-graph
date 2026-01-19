@@ -5583,6 +5583,7 @@ grime
 gildsmen
 gitano
 girdlecake
+guids
 grossular
 grabman
 gosport
@@ -10176,7 +10177,6 @@ ganglioneuroma
 glaucium
 goalies
 gladiolar
-guids
 guidwife
 groundly
 geladas
