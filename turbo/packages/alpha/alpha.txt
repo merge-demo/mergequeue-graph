@@ -14585,7 +14585,6 @@ adminiculation
 allophonic
 auric
 amandine
-anthropoidean
 anthropophilous
 afterdated
 anthropophobia
@@ -21755,6 +21754,7 @@ aerohydrotherapy
 antiperistatical
 assentator
 anilingus
+anthropoidean
 apoikia
 aventure
 angiocyst
