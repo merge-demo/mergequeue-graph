@@ -6654,7 +6654,6 @@ allotypic
 azotin
 autocamp
 artocarpad
-armisonous
 autogiros
 aimee
 artize
@@ -10460,6 +10459,7 @@ alisonite
 anatinae
 adscendent
 agib
+armisonous
 amyclas
 alboranite
 arrythmical
