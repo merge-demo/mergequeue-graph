@@ -8413,7 +8413,6 @@ deflater
 devide
 deconcentrator
 deported
-deliver
 dolia
 defiledness
 dreep
@@ -16950,6 +16949,7 @@ dermatograph
 denaturize
 doorways
 drearihead
+deliver
 depositories
 diphase
 dartles
