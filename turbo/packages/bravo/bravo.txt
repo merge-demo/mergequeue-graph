@@ -668,7 +668,6 @@ beletter
 bronchocavernous
 bynames
 bkpr
-biocontrol
 backbitten
 boigid
 bedposts
@@ -17033,6 +17032,7 @@ bulimias
 bronchiostenosis
 broomtail
 bayman
+biocontrol
 barbicels
 braces
 bulimus
