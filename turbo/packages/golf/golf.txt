@@ -2184,7 +2184,6 @@ guberniya
 ganophyllite
 glucolipide
 gossipiness
-gutturalised
 glucosic
 gravific
 granth
@@ -6323,6 +6322,7 @@ gaily
 grail
 goosenecked
 geomance
+gutturalised
 gemots
 gearings
 genarchaship

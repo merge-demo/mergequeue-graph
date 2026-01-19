@@ -296,6 +296,7 @@ costicervical
 coreopsis
 cacimbo
 cacimbos
+caesurae
 caciques
 cosmolined
 countenances
@@ -669,7 +670,6 @@ caestuses
 caesura
 cybernated
 cero
-caesurae
 caesuric
 caf
 cinefilm
