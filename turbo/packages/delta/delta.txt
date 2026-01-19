@@ -4253,6 +4253,7 @@ dysarthria
 dissemble
 draggletail
 delver
+dittay
 dernful
 disannexation
 demasculinise
@@ -13316,7 +13317,6 @@ dole
 disprince
 destituted
 disprivacied
-dittay
 degradable
 diligentness
 disprizes
