@@ -3209,6 +3209,7 @@ flinthearted
 flameholder
 fictioner
 furbisher
+furnishment
 foci
 forestay
 forestish
@@ -5070,7 +5071,6 @@ flashgun
 fifteenth
 factitive
 fict
-furnishment
 furculae
 flashiness
 fermerer
