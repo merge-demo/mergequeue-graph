@@ -2931,7 +2931,6 @@ gunfighters
 genecological
 genets
 gyniatry
-goldurnedest
 grazable
 guaranty
 gulph
@@ -8330,6 +8329,7 @@ gripy
 guamachil
 gulling
 ginzo
+goldurnedest
 globeflower
 gearwheels
 gravest
