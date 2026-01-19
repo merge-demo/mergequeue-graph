@@ -6430,6 +6430,7 @@ feneration
 forweary
 flummery
 flora
+fashionative
 filth
 folkcraft
 frenchize
@@ -8745,7 +8746,6 @@ foreplace
 flyball
 fraud
 frugality
-fashionative
 fumbler
 forhooie
 face
