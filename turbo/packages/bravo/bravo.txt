@@ -3093,7 +3093,6 @@ barware
 boneblack
 barksome
 basale
-bathetic
 basalts
 basaltware
 bombiccite
@@ -18318,6 +18317,7 @@ banked
 beths
 bioelectricities
 blennuria
+bathetic
 boobery
 brahmans
 brightens
