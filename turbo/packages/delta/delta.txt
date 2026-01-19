@@ -4136,6 +4136,7 @@ deinsularize
 depopulations
 decylenic
 delocalised
+drowsier
 dressmaker
 delocalize
 dermoreaction
@@ -17489,7 +17490,6 @@ docents
 dipleurogenesis
 drowning
 drowses
-drowsier
 dumous
 damnyankee
 dhundia
