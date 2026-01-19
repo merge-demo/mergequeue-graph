@@ -5104,6 +5104,7 @@ glider
 gallweed
 glossily
 glomera
+glisky
 goblinesque
 gutturine
 gentlehearted
@@ -7351,7 +7352,6 @@ gramas
 granulosis
 gamming
 gullishness
-glisky
 gardenful
 gossipped
 gallberry
