@@ -14032,7 +14032,6 @@ colusite
 cyprinoidean
 chasten
 cypriots
-cyproterone
 cypseliformes
 chiriana
 cryptostomate
@@ -31710,6 +31709,7 @@ cuspidal
 cuspidate
 chophouse
 cuspides
+cyproterone
 chondromyxoma
 cesuras
 carbuncled
