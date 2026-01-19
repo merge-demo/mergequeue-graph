@@ -6942,7 +6942,6 @@ apedom
 antineutrally
 accipitral
 arsenite
-apochromat
 ayuntamiento
 assentatious
 assaulters
@@ -22878,6 +22877,7 @@ atmosphereless
 announces
 almendro
 antidyscratic
+apochromat
 axometry
 algefacient
 atomician
