@@ -3654,6 +3654,7 @@ antihierarchies
 andorra
 adenopharyngeal
 adenophlegmon
+airframes
 appulsively
 adenophora
 abscissas
@@ -3797,7 +3798,6 @@ aedility
 afer
 adiaphorist
 alamo
-airframes
 adiaphoron
 anisopterous
 adiated
