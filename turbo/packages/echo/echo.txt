@@ -4724,7 +4724,6 @@ estranging
 ebulliometry
 epistler
 entomophytous
-establishments
 exploratory
 equationism
 extracardial
@@ -9555,6 +9554,7 @@ egocentristic
 encephaloma
 enchasers
 esoethmoiditis
+establishments
 equiprobabilist
 eudipleural
 exornation
