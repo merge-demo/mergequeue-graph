@@ -847,7 +847,6 @@ disembalm
 dolerites
 danielle
 dalbergia
-demonetizes
 delignate
 danism
 disheartenment
@@ -12555,6 +12554,7 @@ decrowned
 disciplinability
 decani
 diffeomorphic
+demonetizes
 dissolutive
 delbert
 disinfestant
