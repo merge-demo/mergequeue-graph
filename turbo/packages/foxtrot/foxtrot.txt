@@ -8545,7 +8545,6 @@ frightment
 fanfarons
 fivepence
 frownful
-fornaxid
 foraminule
 featherer
 frogtongue
@@ -9195,6 +9194,7 @@ fastigious
 fusing
 fragments
 foresighted
+fornaxid
 fishbed
 facts
 frayedness
