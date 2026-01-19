@@ -4484,6 +4484,7 @@ francophobia
 formylating
 flagging
 favissa
+flus
 farmlands
 feer
 forheed
@@ -10828,7 +10829,6 @@ flambeaux
 fumose
 falutin
 fulfillment
-flus
 flavorous
 ferule
 fulfillments
