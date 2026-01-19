@@ -17440,7 +17440,6 @@ crosstrees
 cobbin
 causeries
 cobble
-capax
 cobbled
 commixes
 cobblerism
@@ -21249,6 +21248,7 @@ concerns
 cohabitations
 chinbeak
 chatwood
+capax
 concertante
 countersank
 chapped

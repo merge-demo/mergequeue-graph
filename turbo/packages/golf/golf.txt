@@ -2149,6 +2149,7 @@ gharris
 grossness
 gerontine
 gdinfo
+goers
 golfings
 gamelang
 gaycat
@@ -10243,7 +10244,6 @@ grownup
 gauzelike
 guanases
 globulitic
-goers
 galeproof
 gregarious
 guinness
