@@ -2231,7 +2231,6 @@ flesher
 feticidal
 floatages
 forgetting
-fracture
 filtrated
 filesave
 fainaiguer
@@ -7294,6 +7293,7 @@ favelloid
 fleeched
 foaminess
 fixation
+fracture
 foraying
 foram
 fronds
