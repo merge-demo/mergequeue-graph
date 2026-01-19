@@ -2052,7 +2052,6 @@ gunbuilder
 gutlessness
 glutted
 gavots
-gazetteership
 glycerophosphoric
 gomari
 giftless
@@ -9395,6 +9394,7 @@ geryonidae
 galloptious
 gynecopathic
 glycocholate
+gazetteership
 gunneraceae
 gamble
 gramps
