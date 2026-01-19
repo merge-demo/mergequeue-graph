@@ -13033,7 +13033,6 @@ biennials
 besteading
 blackberry
 bucking
-bordering
 bemantle
 balangay
 bolster
@@ -16323,6 +16322,7 @@ benzoxy
 bluehearted
 bulimic
 bossing
+bordering
 bifurcal
 bubonoceze
 brachyuranic
