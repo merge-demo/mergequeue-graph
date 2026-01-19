@@ -9323,6 +9323,7 @@ fireguard
 foreschool
 flocci
 folcgemot
+foggages
 fasciolar
 flurriment
 florilegium
@@ -10171,7 +10172,6 @@ furdel
 ferrimagnet
 famines
 fending
-foggages
 faros
 fidepromissor
 flaskful
