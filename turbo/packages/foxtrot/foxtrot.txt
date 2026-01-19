@@ -4746,7 +4746,6 @@ fasciculus
 fissurellidae
 feuillants
 fortunetelling
-flocculable
 feltmonger
 fortunately
 flaunching
@@ -9519,6 +9518,7 @@ fuseless
 frecklier
 feudalising
 feudalizing
+flocculable
 findfault
 fullers
 floorage
