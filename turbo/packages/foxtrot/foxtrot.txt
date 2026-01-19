@@ -5297,6 +5297,7 @@ fusillade
 faintheart
 furciform
 fleabags
+flowerpecker
 fireclay
 fluorites
 fleadock
@@ -9847,7 +9848,6 @@ funge
 feria
 fundatorial
 flavanthrone
-flowerpecker
 fogeys
 furloughs
 forepointer
