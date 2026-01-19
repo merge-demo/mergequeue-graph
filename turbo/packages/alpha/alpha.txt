@@ -2254,7 +2254,6 @@ achuete
 astrography
 antinoise
 acyanoblepsia
-assessee
 apsid
 anabas
 arsenicate
@@ -5824,6 +5823,7 @@ arithmetical
 atteal
 analyse
 agelast
+assessee
 agelaus
 agelessness
 aphicidal
