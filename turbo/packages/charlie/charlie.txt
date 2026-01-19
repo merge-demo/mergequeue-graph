@@ -11519,7 +11519,6 @@ crossosoma
 catagenesis
 chola
 circinus
-costoxiphoid
 cholaemia
 cholalic
 coquimbite
@@ -20807,6 +20806,7 @@ complimentingly
 complin
 cranioplasty
 concessively
+costoxiphoid
 complines
 complins
 complot
