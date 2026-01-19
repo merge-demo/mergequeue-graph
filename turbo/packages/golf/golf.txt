@@ -364,7 +364,6 @@ greekless
 galactophoritis
 gutwort
 gingerin
-grade
 gemmula
 gilet
 gildedness
@@ -8637,6 +8636,7 @@ griffes
 gratae
 gapeseed
 greatness
+grade
 greave
 gulash
 gapers
