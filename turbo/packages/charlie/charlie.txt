@@ -15243,6 +15243,7 @@ cutset
 chivalry
 capricornus
 clamjamfery
+compupil
 clammed
 caramelizes
 clammy
@@ -21040,7 +21041,6 @@ crofterize
 considerer
 carouser
 cyclian
-compupil
 civical
 copyholds
 conceptaculum
