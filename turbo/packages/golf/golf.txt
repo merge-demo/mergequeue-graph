@@ -3341,6 +3341,7 @@ gaults
 germin
 gasteropod
 gobemouche
+geologize
 gymnurine
 guitermanite
 gneu
@@ -5722,7 +5723,6 @@ guanyl
 grieshuckle
 gyrolite
 gurus
-geologize
 gratia
 gammons
 goldsmithery
