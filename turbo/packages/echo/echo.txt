@@ -7917,7 +7917,6 @@ epimanikia
 eolopile
 equivocatory
 estragol
-ensilation
 expounds
 epimanikion
 epimeres
@@ -11429,6 +11428,7 @@ entomostraca
 entheate
 elided
 evetide
+ensilation
 extirpating
 encipherment
 elucidation
