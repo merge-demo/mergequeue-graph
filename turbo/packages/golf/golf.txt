@@ -1388,6 +1388,7 @@ galvanopsychic
 gossipee
 gipsying
 guilloche
+guids
 greenless
 gladiolas
 gola
@@ -5576,7 +5577,6 @@ grime
 gildsmen
 gitano
 girdlecake
-guids
 grossular
 grabman
 gosport
