@@ -6402,7 +6402,6 @@ gymnoblastea
 gonged
 gongorist
 geostationary
-grieshoch
 gaols
 girlchild
 goitral
@@ -8355,6 +8354,7 @@ genro
 guisards
 gerundival
 guns
+grieshoch
 glucid
 gasterosteiform
 ginner
