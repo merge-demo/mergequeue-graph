@@ -5031,7 +5031,6 @@ decalogist
 dendrochirota
 disinhume
 dessicate
-describing
 disenabling
 deadrise
 dendrocygna
@@ -9816,6 +9815,7 @@ diesis
 discouragingness
 dynamometamorphism
 diluvia
+describing
 disarmament
 disillusionizer
 diamicton
