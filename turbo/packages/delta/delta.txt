@@ -10461,7 +10461,6 @@ diphtheria
 diphtherian
 dogberrydom
 dewiest
-deda
 dotty
 diphtheric
 disprover
@@ -17071,6 +17070,7 @@ dashedly
 disaggregated
 devilward
 despume
+deda
 dryades
 dryadetum
 damners
