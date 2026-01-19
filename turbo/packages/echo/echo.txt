@@ -6299,6 +6299,7 @@ euclidean
 ens
 emmenagogue
 elenchtic
+estafa
 ensanguine
 emancipative
 eloquent
@@ -7221,7 +7222,6 @@ emulsification
 exsector
 electrocatalytic
 encephalomere
-estafa
 epidemiology
 energetics
 ensealed
