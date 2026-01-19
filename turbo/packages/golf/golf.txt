@@ -3654,7 +3654,6 @@ gnathonism
 gasoliner
 glyceral
 gulist
-griphus
 groover
 gaslighted
 galumptious
@@ -6400,6 +6399,7 @@ ganefs
 gibetting
 goidelic
 goldeyes
+griphus
 gingivalgia
 glommed
 gastroduodenoscopy
