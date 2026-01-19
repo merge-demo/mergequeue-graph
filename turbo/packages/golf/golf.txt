@@ -6504,6 +6504,7 @@ golly
 gleanings
 gymnospermal
 glucolipine
+ghostwrote
 gamete
 grotian
 gyrant
@@ -10079,7 +10080,6 @@ galahs
 gastropods
 garrulus
 greensick
-ghostwrote
 galactodensimeter
 grammarian
 gekkonoid

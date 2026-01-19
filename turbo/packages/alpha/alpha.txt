@@ -12767,6 +12767,7 @@ angiodiascopy
 allegiare
 angiogeny
 anyway
+allophonic
 angiohemophilia
 anhelous
 anachronously
@@ -14582,7 +14583,6 @@ accoutred
 anthropophagite
 amoebous
 adminiculation
-allophonic
 auric
 amandine
 anthropophilous
