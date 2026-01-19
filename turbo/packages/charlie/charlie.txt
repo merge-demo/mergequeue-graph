@@ -12708,6 +12708,7 @@ chuggers
 chugging
 centilitre
 chuje
+clathraceous
 clockmaker
 cajava
 chukchi
@@ -15564,7 +15565,6 @@ conima
 curdlers
 classwork
 clastics
-clathraceous
 clathraria
 cathidine
 clathrarian
