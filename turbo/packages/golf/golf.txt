@@ -1604,7 +1604,6 @@ galavant
 gasteromycetous
 geneat
 giraffine
-gasteropoda
 gillies
 geoff
 gibingly
@@ -9169,6 +9168,7 @@ glavering
 glaucomas
 gastrodiaphanoscopy
 gradine
+gasteropoda
 goniometrically
 grippiest
 granulating
