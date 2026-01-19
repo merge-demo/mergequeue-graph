@@ -2520,7 +2520,6 @@ bargelike
 beet
 bargellos
 beswinge
-begroans
 barger
 bardash
 bractea
@@ -8217,6 +8216,7 @@ battailous
 bluebuck
 biethnic
 binds
+begroans
 baryes
 baccar
 beswarming
