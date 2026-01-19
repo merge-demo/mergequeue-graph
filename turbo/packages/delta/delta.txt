@@ -5080,6 +5080,7 @@ deadened
 dendromecon
 dendron
 druffen
+desponder
 dindled
 downgrading
 deletion
@@ -6992,7 +6993,6 @@ deface
 despondence
 despondencies
 despondentness
-desponder
 despondingly
 desponds
 debasement
