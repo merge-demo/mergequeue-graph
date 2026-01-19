@@ -9745,6 +9745,7 @@ bodies
 biramose
 bankbook
 backslapped
+brunswick
 buildingless
 boatie
 byssoid
@@ -13719,7 +13720,6 @@ balija
 bouldery
 bouser
 bousoukia
-brunswick
 boustrophedon
 bloomer
 bircher
