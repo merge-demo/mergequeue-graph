@@ -8374,6 +8374,7 @@ brulot
 baryphony
 beveto
 bankside
+borrachio
 bauhinia
 biserially
 batatilla
@@ -13151,7 +13152,6 @@ begad
 bankrupts
 borowolframic
 barometrograph
-borrachio
 borrasca
 borreria
 bandoliered

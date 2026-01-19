@@ -10266,6 +10266,7 @@ chich
 churnings
 cheiroglossa
 chichevache
+chinchier
 chichi
 cremating
 canthus
@@ -19340,7 +19341,6 @@ checkstone
 color
 creational
 cycadaceous
-chinchier
 colorableness
 camisades
 curratow
