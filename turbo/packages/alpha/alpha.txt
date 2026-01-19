@@ -5047,7 +5047,6 @@ aerotechnical
 alchera
 aerotherapeutics
 amphidiploidy
-attainting
 aerotherapy
 ash
 abrade
@@ -20480,6 +20479,7 @@ arterying
 angelin
 alkalous
 adusk
+attainting
 attempter
 aralia
 agilmente
