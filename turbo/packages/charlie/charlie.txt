@@ -21110,7 +21110,6 @@ conative
 conflab
 coercions
 coffinmaker
-conatus
 conaxial
 culminated
 concamerated
@@ -29202,6 +29201,7 @@ cryospheric
 criosphinx
 criosphinxes
 catrigged
+conatus
 cryostat
 cryosurgeon
 cryosurgery
