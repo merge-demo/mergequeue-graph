@@ -3538,7 +3538,6 @@ exothermally
 epidesmine
 emboscata
 exclusionary
-ectoglia
 electrometallurgist
 embosoming
 euchlaena
@@ -4936,6 +4935,7 @@ entropium
 enravish
 embryotomy
 endellionite
+ectoglia
 eucephalous
 emigates
 electrocorticogram
