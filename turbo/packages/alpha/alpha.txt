@@ -2356,6 +2356,7 @@ anarithia
 anomie
 anonyma
 aftercare
+antisialagogue
 agitative
 artifact
 awalt
@@ -22635,7 +22636,6 @@ athanasianism
 athanasianist
 aluminizing
 athanasies
-antisialagogue
 asparaginous
 alliterative
 auditoria
