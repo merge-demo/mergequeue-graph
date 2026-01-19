@@ -8244,7 +8244,6 @@ ellagate
 exemplification
 epitaxies
 epitaxis
-ebonizes
 epidemicity
 epigrammatized
 enlife
@@ -8806,6 +8805,7 @@ erechtheum
 enthalpy
 euphemist
 exomologesis
+ebonizes
 erectable
 exclusionist
 endocolpitis
