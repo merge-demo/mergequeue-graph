@@ -10951,7 +10951,6 @@ bourrees
 blinkard
 blesbuck
 bedlamism
-benedictionary
 bowses
 basta
 beckets
@@ -16076,6 +16075,7 @@ brontosauruses
 buying
 bilateralities
 byous
+benedictionary
 bentonitic
 bleareyed
 bashful
