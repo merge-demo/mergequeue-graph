@@ -1520,6 +1520,7 @@ denture
 dynamisms
 dupondius
 deacons
+decompositional
 demobilizes
 diphygenic
 deactivate
@@ -15857,7 +15858,6 @@ detent
 deputyship
 dorsopleural
 derationalization
-decompositional
 disincrease
 decatoic
 despiting
