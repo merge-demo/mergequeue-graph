@@ -9277,6 +9277,7 @@ bewearied
 beshrewing
 blockader
 biplane
+bucephala
 byee
 bobolink
 biplanes
@@ -11757,7 +11758,6 @@ beworry
 bigeyes
 bacteriopurpurin
 barrens
-bucephala
 biology
 beringleted
 backed
