@@ -1545,6 +1545,7 @@ ballastic
 ballata
 brisked
 batikulin
+biradial
 ballatoon
 broiden
 budgie
@@ -1583,7 +1584,6 @@ ballyrags
 bioelectrogenetic
 belat
 ballised
-biradial
 bordure
 britches
 binate
