@@ -4212,7 +4212,6 @@ flanky
 fracases
 frogeater
 faxed
-fishings
 fatting
 fireplug
 firepot
@@ -11539,6 +11538,7 @@ fictionize
 fards
 famulary
 fledgy
+fishings
 famose
 folio
 fretfully
