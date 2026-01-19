@@ -2683,7 +2683,6 @@ consuetudinary
 canines
 caning
 caniniform
-choledochoenterostomy
 confidantes
 caninities
 conflagrated
@@ -13660,6 +13659,7 @@ connation
 coots
 cinching
 cincholoipon
+choledochoenterostomy
 countercharging
 contusing
 counterthwarting
