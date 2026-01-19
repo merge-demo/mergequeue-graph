@@ -665,6 +665,7 @@ egressor
 eclogite
 eclosion
 emasculative
+eleme
 eclosions
 ethel
 excursionism
@@ -5154,7 +5155,6 @@ enlistment
 electo
 embroider
 endoglobular
-eleme
 existibility
 eagled
 ecchymoses
