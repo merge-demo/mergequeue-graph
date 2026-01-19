@@ -9858,7 +9858,6 @@ foggy
 flyaways
 fibroneuroma
 felinophobe
-formalise
 frickle
 ferrel
 frontager
@@ -10145,6 +10144,7 @@ forepredicament
 frizzante
 fishyback
 fantad
+formalise
 fragmentise
 fractionalism
 frisked

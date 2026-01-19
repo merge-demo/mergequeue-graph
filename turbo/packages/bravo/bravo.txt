@@ -194,6 +194,7 @@ berceau
 bargainee
 bacchants
 bismanol
+benefactrixes
 bridleless
 beguiling
 bocoy
@@ -11797,7 +11798,6 @@ beefheaded
 burgled
 boilerhouse
 barcas
-benefactrixes
 boccie
 backstring
 biscanism
