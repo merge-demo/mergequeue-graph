@@ -4305,7 +4305,6 @@ carfares
 carfloat
 crenic
 coater
-carfuffle
 capiteaux
 camauros
 carfuffling
@@ -23480,6 +23479,7 @@ contentional
 contentions
 catoism
 campephagidae
+carfuffle
 contently
 contentment
 coralloidal
