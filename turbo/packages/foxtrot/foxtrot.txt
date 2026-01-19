@@ -332,6 +332,7 @@ francisc
 fearsomely
 forkful
 fixers
+foliates
 failingness
 facultative
 foresound
@@ -6399,7 +6400,6 @@ fitchet
 forescene
 fairm
 flaggier
-foliates
 fireflower
 flibbertigibbet
 freshish

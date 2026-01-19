@@ -3929,7 +3929,6 @@ bd
 boracium
 butternose
 bdellium
-balarao
 bdelliums
 brownist
 bdelloid
@@ -16799,6 +16798,7 @@ bowdlerizer
 balanoposthitis
 brujo
 budgeter
+balarao
 beyrichite
 bioassayed
 berycoidean
