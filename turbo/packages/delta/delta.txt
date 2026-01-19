@@ -3951,7 +3951,6 @@ disintensify
 duplex
 devitalise
 deputized
-distune
 delectating
 damnously
 distritbutes
@@ -10155,6 +10154,7 @@ dissociated
 dorsoventrally
 duraquara
 dinghee
+distune
 dinghies
 disple
 desition
