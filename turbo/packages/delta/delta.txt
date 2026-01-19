@@ -4020,7 +4020,6 @@ domicil
 dismissible
 delicatessen
 dynam
-dustoor
 dominance
 delice
 dualistic
@@ -15877,6 +15876,7 @@ doggerel
 demonesses
 deoxidizer
 dossiers
+dustoor
 dorty
 doko
 daikers
