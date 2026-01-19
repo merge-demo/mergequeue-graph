@@ -756,7 +756,6 @@ antipolitically
 aviarists
 allurements
 abreacts
-acer
 aepyornis
 ascites
 athetized
@@ -10862,6 +10861,7 @@ antischolastic
 ammoniuret
 archcozener
 antiproteolysis
+acer
 argolian
 ammono
 ammonoidea
