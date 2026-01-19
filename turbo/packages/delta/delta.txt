@@ -4580,7 +4580,6 @@ deflea
 demonastery
 donn
 dinic
-demisang
 dulcite
 dianoetically
 diselenid
@@ -12904,6 +12903,7 @@ decreeable
 driftway
 dyebeck
 demerited
+demisang
 dromond
 delible
 dismissal

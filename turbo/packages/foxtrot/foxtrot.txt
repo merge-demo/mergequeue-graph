@@ -619,6 +619,7 @@ frighter
 fragaria
 floodways
 fleshes
+fideists
 forehand
 folly
 farrantly
@@ -11154,7 +11155,6 @@ flyblowing
 felspar
 fungibility
 fadeout
-fideists
 farmer
 fungicidally
 fungicides
