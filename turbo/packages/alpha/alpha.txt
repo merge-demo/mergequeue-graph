@@ -4103,6 +4103,7 @@ admonitorily
 admonitrix
 alkalinize
 admrx
+algesiometer
 archetypist
 appendectomies
 adnascent
@@ -8080,7 +8081,6 @@ algerite
 aciduric
 algernon
 assassinator
-algesiometer
 algidity
 allotter
 algidities
