@@ -5488,7 +5488,6 @@ enzymosis
 ethnically
 ensnarers
 enetophobia
-enfaces
 entailed
 earthshattering
 elizabethans
@@ -12276,6 +12275,7 @@ eviternal
 ejulation
 excerp
 exemptive
+enfaces
 exendospermous
 environal
 exenterate
