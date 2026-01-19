@@ -4629,6 +4629,7 @@ freety
 factable
 filicinean
 fearsome
+finitudes
 figurante
 flaunched
 flections
@@ -9157,7 +9158,6 @@ fixive
 fasciotomy
 forwearied
 foggers
-finitudes
 fascinations
 foveoles
 footled

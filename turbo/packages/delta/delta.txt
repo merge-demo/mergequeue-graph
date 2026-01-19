@@ -6035,7 +6035,6 @@ dehumanise
 dramaticism
 disaster
 depressiveness
-deputizing
 degraders
 deonerate
 debriefed
@@ -10275,6 +10274,7 @@ duodenal
 demonograph
 dioicousness
 dipleura
+deputizing
 diolefins
 diomate
 discoglossoid
