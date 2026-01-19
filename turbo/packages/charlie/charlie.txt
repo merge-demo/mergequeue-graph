@@ -2834,6 +2834,7 @@ coincident
 cuprammonium
 canoing
 colonnades
+current
 cuerpo
 canon
 canones
@@ -31471,7 +31472,6 @@ countermen
 crewelist
 curred
 contorta
-current
 celerity
 colorimetry
 camerieri
