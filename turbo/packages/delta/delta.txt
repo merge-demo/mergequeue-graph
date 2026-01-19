@@ -7429,7 +7429,6 @@ djellab
 desmotropism
 drivable
 debating
-dreamlore
 doctoral
 dubhgall
 distalia
@@ -15677,6 +15676,7 @@ dopebook
 demonstrator
 detective
 discased
+dreamlore
 distemperance
 dopey
 dormin
