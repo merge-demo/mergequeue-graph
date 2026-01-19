@@ -1922,7 +1922,6 @@ gushy
 goriness
 greeve
 guttiness
-gigmanically
 garg
 gon
 galopades
@@ -3987,6 +3986,7 @@ ginnier
 galesaur
 graminous
 gellert
+gigmanically
 gastrogenous
 grounds
 gilds
