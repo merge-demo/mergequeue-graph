@@ -18018,6 +18018,7 @@ approximativeness
 allods
 approximator
 appt
+antiastronomical
 arteriotomy
 aggrandise
 alemonger
@@ -25097,7 +25098,6 @@ abbreviators
 annual
 ausforms
 advanceable
-antiastronomical
 atwirl
 accusativeness
 acropetally
