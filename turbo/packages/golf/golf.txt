@@ -3062,7 +3062,6 @@ grits
 geophagism
 gemels
 grubhood
-governmentalist
 gashliness
 ghorkhar
 geat
@@ -10465,6 +10464,7 @@ goatbrush
 gagor
 gonium
 glutei
+governmentalist
 graylings
 goli
 gusher
