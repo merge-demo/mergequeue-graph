@@ -591,6 +591,7 @@ damfool
 div
 digenea
 dissolver
+diwan
 diwata
 decopperization
 desmopathologist
@@ -3772,7 +3773,6 @@ diarrhoea
 drivelers
 disunities
 deigned
-diwan
 durani
 dysphemistic
 denigrative
