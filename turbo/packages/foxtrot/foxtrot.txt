@@ -2446,6 +2446,7 @@ fermentable
 fermentativeness
 faradize
 falus
+fanegas
 footbridges
 fermentescible
 filiform
@@ -10806,7 +10807,6 @@ frivoller
 forclose
 ferntickled
 fluxure
-fanegas
 feff
 fibrohemorrhagic
 filmland
