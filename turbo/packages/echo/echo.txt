@@ -5731,6 +5731,7 @@ eyeglance
 extraverted
 extemporised
 endofaradism
+ewest
 enolases
 enteroanastomosis
 eyeing
@@ -5861,7 +5862,6 @@ entangledly
 elb
 edificing
 electorial
-ewest
 extrazodiacal
 exacerbescence
 epidendral
