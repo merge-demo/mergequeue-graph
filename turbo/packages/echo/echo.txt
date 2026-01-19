@@ -8232,6 +8232,7 @@ enatant
 eure
 epigeic
 escapado
+electrodialytic
 epitoke
 erratums
 emulate
@@ -10434,7 +10435,6 @@ endocortex
 execrable
 engrams
 emplume
-electrodialytic
 erstwhile
 etypic
 equiponderation
