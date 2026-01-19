@@ -6327,7 +6327,6 @@ diacatholicon
 defined
 dioc
 ducula
-demurrable
 dietary
 doegling
 doctrinized
@@ -8149,6 +8148,7 @@ duellists
 duple
 deprecate
 diacipiperazine
+demurrable
 drapeability
 druidism
 didodecahedral
