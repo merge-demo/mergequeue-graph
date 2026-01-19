@@ -6977,6 +6977,7 @@ fumant
 flannels
 fineries
 furnacing
+figurability
 freemason
 fondly
 fluorspar
@@ -9719,7 +9720,6 @@ folklorists
 frenzy
 foredays
 fabrics
-figurability
 factored
 fridges
 frequenters
