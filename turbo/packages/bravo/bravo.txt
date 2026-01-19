@@ -11514,6 +11514,7 @@ behaves
 broadshare
 budder
 blufter
+berend
 bluggy
 bispore
 bethwack
@@ -11653,7 +11654,6 @@ blacketeer
 baccare
 bittacle
 beachboys
-berend
 boxhead
 buchmanite
 boatless
