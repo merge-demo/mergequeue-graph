@@ -8340,6 +8340,7 @@ coronograph
 chalot
 chaloupe
 cowpunch
+chandelles
 chaluka
 catacrotic
 chalumeau
@@ -20170,7 +20171,6 @@ commission
 chasteners
 commissional
 carrizo
-chandelles
 commissioning
 croaks
 commissive
