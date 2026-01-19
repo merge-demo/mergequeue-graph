@@ -2376,6 +2376,7 @@ barbula
 bardiness
 barbulate
 barbulyie
+baldpate
 barbwire
 barbwires
 bullpout
@@ -8877,7 +8878,6 @@ bathypelagic
 bioactivities
 bioassaying
 bioastronautics
-baldpate
 belcher
 biobibliographer
 barleysick
