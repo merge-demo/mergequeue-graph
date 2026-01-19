@@ -14602,7 +14602,6 @@ attaleh
 anthropotheistic
 anthropotomical
 antonyms
-alhandal
 anthoceros
 antidiphtherin
 anticline
@@ -24314,6 +24313,7 @@ autophytic
 agister
 albespyne
 acquist
+alhandal
 aluminographic
 apparent
 autophytograph
