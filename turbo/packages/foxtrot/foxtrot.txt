@@ -4103,7 +4103,6 @@ falsehoods
 fornenst
 faff
 fontanel
-fersmite
 fratriage
 fipples
 floscule
@@ -11283,6 +11282,7 @@ falun
 fully
 formularized
 florikan
+fersmite
 fleming
 fledging
 foyer

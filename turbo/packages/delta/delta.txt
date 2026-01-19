@@ -10745,7 +10745,6 @@ decarboxylize
 drainspout
 drools
 discomfiture
-dipsomaniac
 dietotherapeutics
 diestrual
 dipsopathy
@@ -12468,6 +12467,7 @@ doffer
 dimethylmethane
 dagon
 dishwasher
+dipsomaniac
 decryptions
 discharm
 dishwashers
