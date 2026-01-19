@@ -842,6 +842,7 @@ eigenfunction
 erythrocytolysin
 electrocution
 ensorcerize
+entering
 encomiastical
 endophyte
 ectomorph
@@ -2521,7 +2522,6 @@ endopterygote
 epiphytal
 emancipators
 enwheeling
-entering
 embraceably
 electromagnetical
 extratribal
