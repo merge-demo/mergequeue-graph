@@ -3877,7 +3877,6 @@ extinguish
 effodient
 exede
 examinability
-epiglottis
 endexine
 emissory
 emitting
@@ -13010,6 +13009,7 @@ expedience
 engrossment
 exotropism
 elopement
+epiglottis
 epopee
 endochondral
 espiegle
