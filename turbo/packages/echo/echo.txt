@@ -5582,6 +5582,7 @@ episiostenosis
 entyloma
 emus
 energistic
+expirer
 europe
 epistemology
 explodable
@@ -7122,7 +7123,6 @@ endymion
 eposes
 empassion
 eglandulous
-expirer
 equestrians
 enwinding
 elemis
