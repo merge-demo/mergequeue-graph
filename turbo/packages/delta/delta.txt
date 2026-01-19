@@ -6486,7 +6486,6 @@ disanney
 dynamited
 demonist
 doxological
-descends
 deviability
 dialectic
 dircaean
@@ -12822,6 +12821,7 @@ dismay
 doudle
 disconfirm
 dismayable
+descends
 dismayfully
 declension
 datagrams
