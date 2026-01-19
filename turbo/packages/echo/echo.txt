@@ -492,7 +492,6 @@ ecesic
 ectropometer
 ecgonin
 ecgonine
-evenhandedness
 echappe
 emphyteusis
 echelle
@@ -8860,6 +8859,7 @@ elfdom
 epergnes
 erysiphe
 evonymus
+evenhandedness
 ergative
 elmier
 embryotic
