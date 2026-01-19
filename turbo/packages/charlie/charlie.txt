@@ -19409,6 +19409,7 @@ colorin
 colorings
 conges
 colorisms
+cutlet
 cystous
 coloristically
 cytophysiology
@@ -31848,7 +31849,6 @@ confusive
 cutleriaceous
 cutleries
 cutlers
-cutlet
 condenseries
 cashable
 cutline

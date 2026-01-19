@@ -2152,6 +2152,7 @@ elcaja
 eld
 epimeritic
 effiguration
+ergograph
 enamoredness
 ethynes
 eyedropperful
@@ -7741,7 +7742,6 @@ exotisms
 embolite
 expedientially
 episodes
-ergograph
 electrodynamical
 etymologies
 endophytal
