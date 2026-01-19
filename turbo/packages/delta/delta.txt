@@ -2557,6 +2557,7 @@ dynasty
 declinatory
 disentwined
 declines
+dolichurus
 declining
 directrices
 declivent
@@ -13655,7 +13656,6 @@ deletory
 disassiduity
 dissiliency
 dissilient
-dolichurus
 dermatobia
 dissyllabic
 dasypaedic
