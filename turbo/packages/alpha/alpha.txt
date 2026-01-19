@@ -5242,7 +5242,6 @@ addio
 alpenhorn
 affiliating
 apery
-anagenetical
 ampitheater
 attackable
 anapterygotous
@@ -24703,6 +24702,7 @@ angiogenic
 angiomas
 adelphi
 antiracial
+anagenetical
 avgas
 aerobiotic
 amusedly
