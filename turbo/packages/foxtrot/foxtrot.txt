@@ -809,6 +809,7 @@ footworn
 fulmen
 flogging
 fatality
+fibbed
 froster
 forensicality
 flipe
@@ -3447,7 +3448,6 @@ figo
 fulwa
 foraminifer
 favillae
-fibbed
 figshell
 flankard
 fury
