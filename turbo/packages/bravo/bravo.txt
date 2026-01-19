@@ -10887,7 +10887,6 @@ boatwise
 blimey
 braced
 brokership
-blent
 blattiform
 backpacks
 breechless
@@ -16490,6 +16489,7 @@ birdfarms
 bulk
 buckra
 bricker
+blent
 bishoplet
 brookie
 borasque
