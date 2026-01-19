@@ -5463,7 +5463,6 @@ groundskeep
 glisk
 grangerising
 gemmier
-gluttery
 glyster
 gablet
 grande
@@ -6072,6 +6071,7 @@ gonzo
 gallature
 grinding
 gnathostomata
+gluttery
 gastrocnemial
 gypsography
 gph
