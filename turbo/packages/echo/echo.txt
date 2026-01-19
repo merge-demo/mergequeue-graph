@@ -2684,6 +2684,7 @@ ephippial
 emulsoidal
 exteriorise
 essed
+electrocoating
 ericolin
 electrograving
 elderwort
@@ -7535,7 +7536,6 @@ endomysium
 endovenous
 equivalently
 equalling
-electrocoating
 extemporal
 epichondrosis
 epichordal
