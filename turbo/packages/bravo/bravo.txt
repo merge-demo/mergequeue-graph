@@ -3583,6 +3583,7 @@ bathmat
 bathmats
 broodsac
 bereaven
+bask
 basion
 bathmism
 bedstands
@@ -5035,7 +5036,6 @@ bronzings
 beetroots
 becarve
 beeweed
-bask
 blackings
 blackey
 bisphenoid
