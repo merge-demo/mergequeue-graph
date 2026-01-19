@@ -34,7 +34,6 @@ allseeds
 aphorized
 aurine
 aethogen
-aerometeorograph
 abaciscus
 amphoriskoi
 aquanaut
@@ -13680,6 +13679,7 @@ aerialist
 attern
 anointment
 amethystine
+aerometeorograph
 anointments
 articulation
 adulterer
