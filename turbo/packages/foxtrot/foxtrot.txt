@@ -8355,6 +8355,7 @@ fruitcakes
 filed
 frass
 foot
+fluoridate
 framers
 federalized
 fiddlerfishes
@@ -9384,7 +9385,6 @@ franticly
 folksong
 fossor
 freeloading
-fluoridate
 freewheeling
 flammed
 franz
