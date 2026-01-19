@@ -4265,6 +4265,7 @@ edifyingly
 en
 enjoined
 extirpation
+episiorrhagia
 epicarides
 ejectment
 exaltedness
@@ -13479,7 +13480,6 @@ epithalamium
 ethnomusicology
 enterparlance
 epidural
-episiorrhagia
 exauthorize
 effervescency
 exposing
