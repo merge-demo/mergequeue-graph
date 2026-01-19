@@ -1003,7 +1003,6 @@ gordunite
 ganga
 gangamopteris
 givers
-gangava
 groundward
 gynobase
 ghassanid
@@ -8119,6 +8118,7 @@ guanidins
 gluteus
 gnatsnap
 goatling
+gangava
 granulet
 gorgonising
 gemsboks
