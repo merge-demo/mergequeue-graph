@@ -8581,7 +8581,6 @@ demonship
 decus
 dimercury
 diaphtherin
-durative
 demihake
 digressionary
 devourer
@@ -18024,6 +18023,7 @@ defaitisme
 dulcigenic
 dehydrogenizer
 dulciloquent
+durative
 delouses
 dungon
 diplex
