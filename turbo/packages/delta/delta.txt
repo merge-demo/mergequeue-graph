@@ -1653,7 +1653,6 @@ dissects
 democratizes
 dozening
 deludher
-dentimeter
 deaminase
 digitize
 daws
@@ -18541,6 +18540,7 @@ duricrust
 duridine
 durity
 dekalitre
+dentimeter
 durmast
 durndest
 duny

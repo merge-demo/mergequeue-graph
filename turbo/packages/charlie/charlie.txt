@@ -9802,6 +9802,7 @@ cowardliness
 clubroot
 combattants
 carpologist
+creditor
 calanid
 chemicker
 chemicoastrological
@@ -28560,7 +28561,6 @@ comd
 checkerwork
 creditive
 creditless
-creditor
 curial
 creditress
 citronade
