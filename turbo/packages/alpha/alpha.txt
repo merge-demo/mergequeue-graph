@@ -9964,7 +9964,6 @@ ambeers
 anay
 angioneurotic
 amphicarpous
-anciency
 analogues
 antimerging
 autophytography
@@ -18588,6 +18587,7 @@ arales
 arbuscular
 arbust
 arbusta
+anciency
 analytics
 arbutean
 anthropomorphite
