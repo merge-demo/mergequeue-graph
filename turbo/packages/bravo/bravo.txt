@@ -13064,7 +13064,6 @@ barf
 blizzard
 borecoles
 buddhic
-bored
 borsches
 boehmenist
 boreen
@@ -13467,6 +13466,7 @@ bleeding
 beforesaid
 bottleman
 bulse
+bored
 benzin
 bepun
 bracteate
