@@ -16569,7 +16569,6 @@ chaudron
 conjurer
 clerodendron
 centroidal
-choleuria
 cyclothurus
 coadmire
 clonking
@@ -24587,6 +24586,7 @@ ckw
 chutzpahs
 centigrade
 compellent
+choleuria
 carbonate
 chiggak
 cypripedium
