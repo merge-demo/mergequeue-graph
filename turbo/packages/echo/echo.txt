@@ -11962,7 +11962,6 @@ eelcatcher
 excitations
 escapees
 escapes
-eastbound
 eulogists
 enveloped
 eurylaimidae
@@ -12150,6 +12149,7 @@ exiguity
 excusably
 enswathing
 emblazes
+eastbound
 entertainments
 ethaldehyde
 estrado
