@@ -4549,7 +4549,6 @@ gagger
 gynobaseous
 grinter
 gladiole
-guttiferales
 genoms
 gigantopithecus
 galionji
@@ -9004,6 +9003,7 @@ ghent
 gneissose
 gigabit
 geog
+guttiferales
 gobletful
 gnathophorous
 gravenstein
