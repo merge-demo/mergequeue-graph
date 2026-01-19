@@ -2230,7 +2230,6 @@ achromatopsy
 apologizes
 achromatopsia
 australia
-achromatosis
 akinesia
 acyrological
 achromoderma
@@ -22196,6 +22195,7 @@ astian
 antipestilential
 astyanax
 astigmat
+achromatosis
 angelicize
 adolescents
 alloplastic
