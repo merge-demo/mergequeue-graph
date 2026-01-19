@@ -5502,7 +5502,6 @@ flagon
 fol
 fural
 forestays
-favellae
 flexion
 foreclosable
 fleecer
@@ -7449,6 +7448,7 @@ flashpan
 fleyedness
 fordoes
 faecal
+favellae
 fray
 fini
 fordrive
