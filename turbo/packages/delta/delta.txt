@@ -6697,6 +6697,7 @@ diptycas
 duckmole
 designable
 doughfoot
+decals
 dhutis
 dissolutions
 designates
@@ -18468,7 +18469,6 @@ dicalcic
 dispersant
 diapers
 distinctive
-decals
 dermatophony
 devastavit
 dipterous
