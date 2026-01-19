@@ -3861,6 +3861,7 @@ feckless
 figurato
 fionnuala
 fanwe
+floras
 fits
 fortuitously
 fluidness
@@ -5980,7 +5981,6 @@ fourierist
 flitchplate
 favelidium
 floralize
-floras
 furnaced
 focusless
 freakish
