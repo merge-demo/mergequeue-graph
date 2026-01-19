@@ -12649,7 +12649,6 @@ abanet
 aeronomist
 arpeggiation
 annus
-arcticward
 agastreae
 angareb
 angel
@@ -15179,6 +15178,7 @@ antifat
 assyrian
 arabesques
 archontic
+arcticward
 amphimictical
 aberrometer
 amil
