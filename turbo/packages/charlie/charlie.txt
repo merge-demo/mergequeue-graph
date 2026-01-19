@@ -4973,7 +4973,6 @@ chancroids
 cartilaginoid
 cartels
 cartilaginous
-carting
 coulometry
 cartist
 cartloads
@@ -18805,6 +18804,7 @@ cenobian
 commend
 contemplated
 colessor
+carting
 colessors
 compliers
 colet
