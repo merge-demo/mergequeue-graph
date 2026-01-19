@@ -4735,7 +4735,6 @@ folie
 flagellula
 flickeringly
 fauve
-filigrain
 fargoing
 flageolets
 flagfishes
@@ -10589,6 +10588,7 @@ freakouts
 filmslide
 fibrination
 finement
+filigrain
 fuzzes
 fulgent
 fuddler
