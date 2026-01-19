@@ -3405,7 +3405,6 @@ enraptures
 embogue
 ennuyant
 ecalcavate
-errand
 exolete
 exemplar
 ecliptic
@@ -6105,6 +6104,7 @@ enlodgement
 enlumine
 entheos
 ergoplasm
+errand
 excommunicant
 entozoans
 epicentre
