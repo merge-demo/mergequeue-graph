@@ -29148,7 +29148,6 @@ criobolium
 courtman
 credit
 coelacanthini
-cacodorous
 crioceras
 crioceratite
 cinefaction
@@ -30306,6 +30305,7 @@ confused
 cepolidae
 corixa
 codfishery
+cacodorous
 crunched
 cookee
 cruncher
