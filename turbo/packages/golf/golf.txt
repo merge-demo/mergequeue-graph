@@ -7680,6 +7680,7 @@ goldworker
 gamins
 grouf
 geistlich
+glassing
 gos
 gliomatous
 generalism
@@ -10395,7 +10396,6 @@ generalisable
 gangwayman
 graciousness
 gregariniform
-glassing
 greenstuff
 gyracanthus
 gourdhead

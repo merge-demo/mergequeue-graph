@@ -5835,7 +5835,6 @@ archfelon
 anisocarpic
 aponeurosis
 ankylosaur
-agendum
 amovability
 agene
 anticonscription
@@ -23321,6 +23320,7 @@ atropinization
 alans
 akeley
 attempted
+agendum
 assentaneous
 attunement
 anodynes
