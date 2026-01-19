@@ -4914,7 +4914,6 @@ ginney
 genipa
 groundwards
 glamors
-geldable
 granddada
 granita
 gainst
@@ -6875,6 +6874,7 @@ gumwoods
 gelatinoid
 graticulate
 glis
+geldable
 gannet
 gds
 glibly
