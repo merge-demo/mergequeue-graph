@@ -1576,6 +1576,7 @@ enablers
 eyewitnesses
 elodea
 erecting
+elaidate
 egomism
 eumenorrhea
 ephorship
@@ -12313,7 +12314,6 @@ elvanitic
 exercitorian
 effront
 efs
-elaidate
 emboliform
 effigurate
 eulogizers
