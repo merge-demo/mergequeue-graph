@@ -7017,7 +7017,6 @@ centaury
 carburetted
 carnal
 chink
-centauric
 checkline
 centauridium
 checkrowing
@@ -30300,6 +30299,7 @@ convoluted
 cycad
 closest
 clamberer
+centauric
 countersiege
 crunch
 confused
