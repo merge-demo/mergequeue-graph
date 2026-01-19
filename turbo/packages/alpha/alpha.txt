@@ -11090,7 +11090,6 @@ archsin
 anchisaurus
 accessor
 alliances
-ampasimenite
 ampelidaceous
 acher
 archespore
@@ -13595,6 +13594,7 @@ annuloid
 autoaddress
 abura
 akaakai
+ampasimenite
 apostasis
 ambuscading
 annulosa
