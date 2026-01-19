@@ -2222,7 +2222,6 @@ elector
 epigonos
 exhume
 educing
-elks
 encyclopedian
 encell
 epauletted
@@ -6761,6 +6760,7 @@ evangelistarion
 enculturating
 eggheads
 entitling
+elks
 ecclesioclastic
 entoblastic
 entobronchium
