@@ -8284,6 +8284,7 @@ grucche
 gaingiving
 gynaecia
 galimatias
+gossiphood
 glod
 glacon
 gladnesses
@@ -9569,7 +9570,6 @@ growan
 gogmagog
 gravelike
 gobbed
-gossiphood
 gujrati
 gerbe
 gowds
