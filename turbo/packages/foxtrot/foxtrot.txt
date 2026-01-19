@@ -3987,7 +3987,6 @@ filmlike
 fadmongery
 festin
 forehorse
-fluoaluminic
 fontally
 felicific
 facades
@@ -4351,6 +4350,7 @@ flechette
 funt
 floorshifts
 frenums
+fluoaluminic
 forky
 fisheyes
 forecomingness
