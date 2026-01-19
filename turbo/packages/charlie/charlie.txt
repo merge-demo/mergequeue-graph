@@ -22377,7 +22377,6 @@ congruent
 coempted
 congruism
 congruist
-congruity
 congruously
 congruousness
 congustable
@@ -26399,6 +26398,7 @@ cotidal
 cotylar
 cotyledonal
 cotyledonary
+congruity
 catalyzing
 cotyledons
 cotyliscus
