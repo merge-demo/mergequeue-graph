@@ -2143,7 +2143,6 @@ griffith
 gastropulmonary
 graphostatics
 gadswoons
-georgian
 gibbosity
 gharris
 grossness
@@ -9600,6 +9599,7 @@ guarish
 guiles
 gummite
 gatefold
+georgian
 guisarme
 goodsire
 gracileness
