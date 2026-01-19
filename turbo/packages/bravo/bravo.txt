@@ -7532,7 +7532,6 @@ beveil
 bevelled
 bardism
 belayer
-beveller
 byte
 bookbinder
 bardelle
@@ -15839,6 +15838,7 @@ bradykinesia
 barding
 broking
 bushfighter
+beveller
 brainwash
 belittled
 battiks
