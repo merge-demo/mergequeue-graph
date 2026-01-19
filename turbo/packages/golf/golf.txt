@@ -8711,6 +8711,7 @@ greenbug
 gastrolater
 gormandising
 grandiloquent
+granolite
 greenery
 globin
 geraniaceous
@@ -10794,7 +10795,6 @@ gynomonoecious
 gilbert
 glyptography
 gewgawy
-granolite
 grecing
 gestonie
 gibberella
