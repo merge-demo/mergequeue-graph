@@ -4123,7 +4123,6 @@ globuloid
 graphemic
 glycoproteid
 gastroarthritis
-goodly
 guaranin
 gemmule
 gaslit
@@ -4217,6 +4216,7 @@ gynecocrat
 gunshots
 gleamed
 gastroscope
+goodly
 gangliated
 gibeonite
 gasconism
