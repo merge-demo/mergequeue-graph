@@ -14256,7 +14256,6 @@ ditas
 decolourizing
 daggerbush
 deme
-dene
 drygoodsman
 dumbly
 disembargo
@@ -14510,6 +14509,7 @@ diplomatique
 delassement
 desk
 dedition
+dene
 dipleidoscope
 decolonised
 dewfalls
