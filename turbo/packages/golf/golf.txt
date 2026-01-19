@@ -5555,6 +5555,7 @@ gripless
 geochemist
 geophysical
 gefilte
+grimliness
 gownlet
 glottogonist
 gervais
@@ -7195,7 +7196,6 @@ gorgosaurus
 galenism
 gorillalike
 gamesters
-grimliness
 gloze
 grater
 gabbarts
