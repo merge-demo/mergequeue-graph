@@ -10550,7 +10550,6 @@ briton
 blepharoatheroma
 break
 bipectinate
-bacterize
 bonks
 bulbocodium
 bibless
@@ -16886,6 +16885,7 @@ bichromatic
 bathysophic
 buffoonish
 bungle
+bacterize
 baret
 betorn
 birostrated
