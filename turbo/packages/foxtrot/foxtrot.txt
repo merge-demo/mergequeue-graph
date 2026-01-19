@@ -10736,7 +10736,6 @@ furfuramid
 frustratory
 focuses
 flat
-felup
 fomentation
 friendships
 fleeing
@@ -11297,6 +11296,7 @@ firedog
 formatted
 feverfew
 firesides
+felup
 fraternize
 fleabite
 faultfinding
