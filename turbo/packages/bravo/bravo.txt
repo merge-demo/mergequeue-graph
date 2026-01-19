@@ -3210,7 +3210,6 @@ basicity
 baloneys
 benzins
 balancers
-booklores
 bromids
 byland
 bhaga
@@ -11729,6 +11728,7 @@ benchmarked
 buddah
 brazenfaced
 bahnung
+booklores
 bumkins
 befop
 bolsterwork
