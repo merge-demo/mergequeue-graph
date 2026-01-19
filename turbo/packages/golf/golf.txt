@@ -7402,6 +7402,7 @@ gnatproof
 geylies
 gotra
 germarium
+granulomatous
 gravecloth
 gastrocolotomy
 gaudery
@@ -9028,7 +9029,6 @@ gomasta
 gothlander
 gramophonical
 grateful
-granulomatous
 gyrates
 gnatcatcher
 girasole
