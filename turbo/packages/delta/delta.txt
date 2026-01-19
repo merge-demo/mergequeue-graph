@@ -466,7 +466,6 @@ disseats
 daysides
 deprevation
 daysmen
-dayspring
 disthrall
 daswen
 daytimes
@@ -487,6 +486,7 @@ dairying
 dilleniaceous
 dale
 deutochloride
+dayspring
 dolichoglossus
 dismayingly
 dishorner
