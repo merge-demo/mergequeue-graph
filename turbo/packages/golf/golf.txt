@@ -4147,7 +4147,6 @@ gnathopod
 gosmore
 glotum
 gatchwork
-greying
 ges
 geod
 gleesome
@@ -6993,6 +6992,7 @@ gossipry
 garrat
 giddybrain
 gladdener
+greying
 geothermally
 gasthauses
 gnathic

@@ -12087,6 +12087,7 @@ bokharan
 bokom
 bolag
 bosey
+burletta
 bolas
 bedell
 bartsia
@@ -13435,7 +13436,6 @@ basibregmatic
 beeriness
 bedless
 broomer
-burletta
 balkan
 beray
 bionomics
