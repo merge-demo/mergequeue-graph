@@ -2803,7 +2803,6 @@ beflowering
 behaviourally
 baronries
 briggs
-baroque
 baconer
 bowsprits
 batea
@@ -9632,6 +9631,7 @@ bishop
 bummer
 baskonize
 bientt
+baroque
 backbeats
 brince
 bishopdom
