@@ -10524,7 +10524,6 @@ chamoises
 clamworms
 carlylesque
 ceratozamia
-competitions
 chyliform
 consimilarity
 chilina
@@ -21297,6 +21296,7 @@ concessor
 concessory
 concettism
 conch
+competitions
 concha
 corniches
 caromed
