@@ -6476,6 +6476,7 @@ excludable
 englerophoenix
 estimative
 execration
+endurableness
 ephemeric
 ephemeris
 egomaniacal
@@ -7229,7 +7230,6 @@ epimyth
 etonian
 ectozoon
 eosate
-endurableness
 effigial
 eosinic
 ergatogynous
