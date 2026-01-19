@@ -2375,7 +2375,6 @@ gromil
 gote
 grind
 gaulish
-gambadoes
 gobioidei
 geminid
 geminous
@@ -6379,6 +6378,7 @@ gasproof
 guff
 glassworks
 gonotyl
+gambadoes
 granulitis
 gracer
 gasterozooid
