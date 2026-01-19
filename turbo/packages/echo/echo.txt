@@ -3211,6 +3211,7 @@ ernesse
 enambush
 esotery
 eluctate
+existently
 elude
 equant
 educive
@@ -10329,7 +10330,6 @@ extirpator
 embillow
 electroplaque
 ethnographer
-existently
 euornithic
 ethnohistoric
 equinox
