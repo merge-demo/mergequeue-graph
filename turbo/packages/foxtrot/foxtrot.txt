@@ -3648,7 +3648,6 @@ footman
 flourishes
 flaying
 furnacer
-financiered
 freshener
 fibrolipomatous
 finicking
@@ -6024,6 +6023,7 @@ farting
 flavorfulness
 functus
 fungiform
+financiered
 fenceful
 freebooted
 fraternate
