@@ -2579,7 +2579,6 @@ candlewicks
 complementative
 cur
 candlewright
-candling
 cynically
 campaniles
 candollea
@@ -29395,6 +29394,7 @@ cryptovolcanism
 cryptozygy
 cryptozygosity
 cryptozygous
+candling
 crozle
 chanter
 chorographic

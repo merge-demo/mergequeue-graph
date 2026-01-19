@@ -7711,6 +7711,7 @@ dingiest
 dirgie
 discipliners
 deviltry
+dynamometers
 dexiocardia
 decident
 dissociation
@@ -9734,7 +9735,6 @@ descender
 decolourization
 dilatometer
 dilatometrically
-dynamometers
 dilatoriness
 daypeep
 denaturiser
