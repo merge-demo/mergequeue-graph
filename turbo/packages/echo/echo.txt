@@ -2792,7 +2792,6 @@ electrocutes
 effeminately
 etymol
 epipubic
-exampleless
 ecodeme
 encephalon
 epipolic
@@ -12550,6 +12549,7 @@ etiogenic
 eranist
 extinction
 envious
+exampleless
 edriasteroidea
 envied
 enherit
