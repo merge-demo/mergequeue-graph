@@ -10859,7 +10859,6 @@ connectedness
 chippers
 coefficient
 chippewas
-cormel
 chippy
 counterlighting
 cobishop
@@ -27859,6 +27858,7 @@ cytohyaloplasm
 chemisette
 concerting
 crunchy
+cormel
 crabeating
 canchas
 concentive
