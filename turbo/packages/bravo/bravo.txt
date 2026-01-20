@@ -2228,7 +2228,6 @@ barauna
 barba
 bayards
 boneheadedness
-bromize
 barbados
 broggle
 blobs
@@ -2743,6 +2742,7 @@ beltline
 bullbat
 brayers
 bismutoplagionite
+bromize
 barolo
 bm
 benab
