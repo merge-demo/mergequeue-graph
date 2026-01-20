@@ -7136,7 +7136,6 @@ abridgements
 antica
 amaranthoid
 awlworts
-alagarto
 ankoli
 alnagership
 accipter
@@ -21947,6 +21946,7 @@ aeriest
 anatripsis
 alderling
 austerus
+alagarto
 angiosporous
 associativeness
 appending
