@@ -10376,7 +10376,6 @@ ethologists
 euphonical
 expediently
 edulcorator
-eruct
 embrase
 exhance
 earwigging
@@ -10389,6 +10388,7 @@ ethoxide
 endocardium
 enchiriridia
 earthshaking
+eruct
 eiresione
 eleolite
 entresalle
