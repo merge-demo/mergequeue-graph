@@ -5839,7 +5839,6 @@ anticonscription
 aerogram
 acidifier
 ageneses
-ancestorial
 anthropomorphise
 agenesis
 agenetic
@@ -6628,6 +6627,7 @@ acarol
 autosign
 ailsyte
 anthropotoxin
+ancestorial
 asteam
 ailuridae
 aneurilemmic

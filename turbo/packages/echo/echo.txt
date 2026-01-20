@@ -9695,7 +9695,6 @@ embryol
 eleonorite
 escopette
 external
-epicoelar
 extraterritorial
 essedones
 eisoptrophobia
@@ -10273,6 +10272,7 @@ eyebridled
 esquamate
 empemata
 enteromycosis
+epicoelar
 escorial
 emulsifiability
 extralite
