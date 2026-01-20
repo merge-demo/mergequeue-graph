@@ -1324,7 +1324,6 @@ daltonic
 defial
 deoxidizers
 dysergia
-disjunctions
 deludingly
 delftware
 draconism
@@ -7757,6 +7756,7 @@ devaluating
 devocalized
 dicyandiamide
 diptychon
+disjunctions
 dignation
 devoice
 duvet

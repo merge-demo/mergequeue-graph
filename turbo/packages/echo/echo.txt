@@ -1498,7 +1498,6 @@ epembryonic
 extraregarding
 ettarre
 emmetropism
-egesta
 eggberries
 enfranchising
 eurythermal
@@ -11505,6 +11504,7 @@ elegantly
 evincing
 entoblast
 esophagus
+egesta
 evincive
 enthraller
 excavationist
