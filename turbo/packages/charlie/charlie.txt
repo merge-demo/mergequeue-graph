@@ -18312,7 +18312,6 @@ cogger
 chistera
 cogging
 coggledy
-cogitate
 combed
 campal
 cogglety
@@ -24009,6 +24008,7 @@ conventionalised
 conoscope
 comatous
 cadmide
+cogitate
 conventionalising
 conventionalities
 cojudices

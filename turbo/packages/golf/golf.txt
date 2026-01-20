@@ -766,7 +766,6 @@ guntub
 gaulter
 ganymede
 glossolalist
-gutter
 gluck
 gerendum
 gutturize
@@ -3471,6 +3470,7 @@ girasols
 graphonomy
 genipaps
 gnathotheca
+gutter
 gussied
 gestical
 gesticulant
