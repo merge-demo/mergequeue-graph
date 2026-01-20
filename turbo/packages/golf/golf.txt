@@ -8271,7 +8271,6 @@ gambits
 graspingly
 graduations
 gleets
-genian
 grandee
 ginglymi
 graphicly
@@ -9017,6 +9016,7 @@ gladrags
 gramashes
 granatum
 geomorphogenist
+genian
 gorhens
 gastroenterologic
 gaper
