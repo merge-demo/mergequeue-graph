@@ -3303,7 +3303,6 @@ dispensatively
 deionizes
 definiens
 diapnoe
-derencephalocele
 decigram
 dartrous
 definish
@@ -4851,6 +4850,7 @@ demonomist
 draisene
 demonopolize
 defervescence
+derencephalocele
 detractory
 dubiosities
 depopulating
