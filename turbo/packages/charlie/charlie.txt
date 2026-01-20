@@ -766,7 +766,6 @@ chlornal
 collaborationist
 cagework
 coordinators
-consonantising
 caggy
 conjurors
 custodes
@@ -1443,6 +1442,7 @@ calypsist
 criollas
 calypso
 copals
+consonantising
 calypsoes
 calypsonian
 charbon
