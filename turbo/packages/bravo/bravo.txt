@@ -9571,6 +9571,7 @@ bogue
 battlements
 ballhawk
 biscayanism
+blackarm
 burnover
 barbal
 biscayner
@@ -16623,7 +16624,6 @@ botryogen
 bessemerizing
 breathier
 bowmaker
-blackarm
 battleship
 beanpole
 bejewelled
