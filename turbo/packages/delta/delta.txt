@@ -1575,6 +1575,7 @@ deadness
 dairyman
 doubtingness
 deadpanned
+dyspnoeic
 deadpans
 depayse
 daikering
@@ -14278,7 +14279,6 @@ dooms
 dithecal
 dither
 deductibles
-dyspnoeic
 diffiding
 deporter
 depravers
