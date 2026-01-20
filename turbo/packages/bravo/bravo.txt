@@ -11313,6 +11313,7 @@ biologism
 bipunctate
 blowse
 bargeman
+blatterer
 barse
 baith
 boards
@@ -14564,7 +14565,6 @@ bambos
 bondager
 brandied
 bacis
-blatterer
 branding
 brandiron
 buddle
