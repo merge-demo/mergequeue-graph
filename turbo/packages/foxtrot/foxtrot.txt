@@ -5156,6 +5156,7 @@ festino
 fraternizes
 fictionising
 flinders
+foxings
 flautino
 fisherman
 foulmouthedness
@@ -8666,7 +8667,6 @@ forthgaze
 forthgo
 ferreling
 footcandle
-foxings
 furlong
 febrifuge
 fissility
