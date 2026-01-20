@@ -6841,6 +6841,7 @@ aistopoda
 anapaestically
 algonkian
 aircrewman
+acquiescingly
 archdolt
 arrivederci
 androscoggin
@@ -20400,7 +20401,6 @@ accommodating
 acesodynous
 aplodontia
 angiosteosis
-acquiescingly
 adjutorious
 antejentacular
 antalgic
