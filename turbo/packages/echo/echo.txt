@@ -750,7 +750,6 @@ enabling
 embryoctony
 equilibrist
 ecoute
-enwallow
 enforcive
 ecphonema
 emotes
@@ -13586,6 +13585,7 @@ escheating
 enjoinder
 embroiders
 elementally
+enwallow
 excern
 enteroceptor
 endosteomas
