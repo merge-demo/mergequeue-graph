@@ -1294,6 +1294,7 @@ dentition
 dysodyle
 dardanarius
 disturbed
+distempered
 daturism
 delusive
 dauber
@@ -13224,7 +13225,6 @@ dronte
 deportable
 deuterofibrinose
 dinnerless
-distempered
 dyspneas
 ducat
 diaphragmatically

@@ -6675,7 +6675,6 @@ crioceris
 cardiosymphysis
 cedula
 cee
-ceibas
 coracomorphic
 chard
 cursorial
@@ -17740,6 +17739,7 @@ cocobolo
 condemnate
 cockalan
 cc
+ceibas
 curvette
 cocreate
 cocreated
