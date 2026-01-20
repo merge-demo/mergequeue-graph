@@ -3084,6 +3084,7 @@ capriola
 cyclopterous
 canvasing
 causata
+cocarde
 canvasser
 canzona
 crickety
@@ -17535,7 +17536,6 @@ cogitativeness
 cocamama
 cocao
 chaneling
-cocarde
 chomped
 cocash
 cocause
