@@ -6342,7 +6342,6 @@ flang
 fullterm
 fluoran
 fennish
-fluorane
 feuded
 francois
 florentium
@@ -8461,6 +8460,7 @@ filmsetter
 fortin
 frondesce
 factorized
+fluorane
 formatter
 floridans
 flong
