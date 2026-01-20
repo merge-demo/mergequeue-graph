@@ -1194,7 +1194,6 @@ fibularia
 fallals
 fungistatically
 fascine
-ferreous
 furring
 fascintatingly
 flavopurpurin
@@ -4971,6 +4970,7 @@ fallows
 flatbeds
 fungoidal
 forepaw
+ferreous
 ferries
 fumatory
 forekeel
