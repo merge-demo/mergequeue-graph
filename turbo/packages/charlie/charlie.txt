@@ -6886,6 +6886,7 @@ clockroom
 contingencies
 compaction
 caffein
+chiders
 celtization
 cardiorrhexis
 consol
@@ -10355,7 +10356,6 @@ chide
 callid
 classing
 chided
-chiders
 colorbreed
 cedarbird
 chilies
