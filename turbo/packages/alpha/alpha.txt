@@ -1533,7 +1533,6 @@ autacoids
 accomplisht
 accordance
 atomity
-alacran
 accordancy
 agglutinoid
 adventureful
@@ -15998,6 +15997,7 @@ actinomorphous
 antirealist
 askoye
 angekut
+alacran
 aestuation
 akee
 antirebating
