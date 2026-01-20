@@ -6387,7 +6387,6 @@ collencytal
 caustification
 caustifying
 campfires
-casefies
 comicotragedy
 charioted
 chancre
@@ -6407,6 +6406,7 @@ cloudland
 cauterism
 carafe
 correcter
+casefies
 conchfish
 cauterizer
 caution
