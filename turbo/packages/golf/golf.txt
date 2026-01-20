@@ -4989,6 +4989,7 @@ gamekeepers
 glariness
 gregarinae
 gatch
+galvanotropic
 gelechia
 garotter
 guards
@@ -9780,7 +9781,6 @@ gonadectomizing
 goaty
 gruntles
 granter
-galvanotropic
 gruntling
 gazook
 galeate
