@@ -8224,6 +8224,7 @@ diiambus
 desmopelmous
 dell
 davainea
+dandified
 ductus
 distrito
 diagnosed
@@ -14698,7 +14699,6 @@ deburse
 dystectic
 divid
 dragoonade
-dandified
 dioecisms
 dorsoposterior
 devilling
