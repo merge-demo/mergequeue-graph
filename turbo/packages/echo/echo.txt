@@ -6975,7 +6975,6 @@ eustyle
 entrepreneur
 enrobers
 entrer
-eucrasia
 entresols
 exedra
 endocardial
@@ -9702,6 +9701,7 @@ embryol
 eleonorite
 escopette
 external
+eucrasia
 extraterritorial
 essedones
 eisoptrophobia
