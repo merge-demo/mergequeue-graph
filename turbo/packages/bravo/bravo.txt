@@ -1481,7 +1481,6 @@ balkish
 bodaciously
 bahadurs
 beggar
-boroglycerate
 barras
 beeches
 ball
@@ -17606,6 +17605,7 @@ berberry
 burglarizing
 bradykinetic
 bulldozes
+boroglycerate
 backster
 belduque
 barricadoing

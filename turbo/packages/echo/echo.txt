@@ -4962,6 +4962,7 @@ excusator
 ecarte
 edema
 escritorial
+eurhythmical
 equipollentness
 ensilaged
 eumoirous
@@ -9985,7 +9986,6 @@ electrically
 extradict
 emotiomuscular
 electrode
-eurhythmical
 encollar
 electrodiagnostically
 extrorsal
