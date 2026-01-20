@@ -14337,7 +14337,6 @@ amasesis
 antinovels
 anthol
 anodes
-aniseikonia
 antholite
 anaitis
 anthological
@@ -20898,6 +20897,7 @@ asb
 agoniatites
 asbest
 absenter
+aniseikonia
 anilopyrin
 avowe
 alexandrianism
