@@ -4775,6 +4775,7 @@ epidosite
 easterner
 eccoproticophoric
 escape
+exulceration
 estrogenicity
 embrangle
 encomiastically
@@ -8396,7 +8397,6 @@ equals
 epizoon
 edemic
 emblossom
-exulceration
 epinasties
 electrizer
 evisceration
