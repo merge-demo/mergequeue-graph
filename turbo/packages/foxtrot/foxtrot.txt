@@ -4846,7 +4846,6 @@ fruitfulness
 fireworkless
 fulgural
 flourescent
-fino
 fourscore
 flakiest
 forged
@@ -5762,6 +5761,7 @@ flankwise
 froggiest
 frivolize
 ferfet
+fino
 fluoridations
 fritted
 firehouse
