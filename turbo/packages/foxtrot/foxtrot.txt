@@ -698,7 +698,6 @@ feathercut
 filmically
 flapper
 ferlie
-fanweed
 fanatico
 forzandos
 fobs
@@ -8296,6 +8295,7 @@ fraughan
 federation
 familyish
 forhow
+fanweed
 ficoidaceae
 flingdust
 facelift
