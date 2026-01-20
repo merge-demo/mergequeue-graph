@@ -8410,6 +8410,7 @@ deliveror
 ditties
 dialogers
 dexies
+daglocks
 dendrochronological
 deflater
 devide
@@ -17374,7 +17375,6 @@ drow
 delilah
 desquamation
 desight
-daglocks
 dishwiper
 dropberry
 debuted
