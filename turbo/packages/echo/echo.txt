@@ -11215,6 +11215,7 @@ enamellers
 eviler
 ethmosphenoidal
 endocrinologic
+endodontia
 entrenchment
 epithetize
 endfile
@@ -12768,7 +12769,6 @@ exotism
 earlike
 elsewise
 exortion
-endodontia
 exosmose
 exosmotic
 explicative
