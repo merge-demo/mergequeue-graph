@@ -2838,6 +2838,7 @@ desiring
 diaclasis
 decubiti
 deculturate
+dextropedal
 driverless
 domains
 decuman
@@ -7295,7 +7296,6 @@ dowless
 douceurs
 deluce
 determined
-dextropedal
 diphenylenimide
 detorsion
 disagreed
