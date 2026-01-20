@@ -12672,6 +12672,7 @@ exonerate
 exonerating
 ephemerous
 episcopicide
+equipaga
 essays
 eunicidae
 errantries
@@ -13743,7 +13744,6 @@ enemata
 epitrochoidal
 ectosphere
 extincted
-equipaga
 enterostomies
 editable
 encephalomeningitis
