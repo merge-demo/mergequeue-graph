@@ -2606,7 +2606,6 @@ geographized
 gymnastics
 genethliacal
 gabelled
-glaciomarine
 genetta
 grendel
 gibbetting
@@ -6825,6 +6824,7 @@ graynesses
 gingerade
 gallican
 gamelotte
+glaciomarine
 gunnings
 gagwriter
 ghostflower
