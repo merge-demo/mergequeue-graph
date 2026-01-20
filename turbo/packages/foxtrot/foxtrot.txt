@@ -2405,6 +2405,7 @@ fleer
 fad
 fleshlessness
 frizettes
+fosset
 flakelet
 fistularia
 flavous
@@ -8694,7 +8695,6 @@ fortifiers
 flaxwench
 fuzziness
 frumpish
-fosset
 fid
 frisette
 fraudulence
