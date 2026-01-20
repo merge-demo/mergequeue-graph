@@ -1783,7 +1783,6 @@ chrysomelid
 calutrons
 calvados
 calvadoses
-chloridella
 componental
 calvaire
 cordage
@@ -8134,6 +8133,7 @@ chainsmith
 chimneyed
 chainwale
 cytotoxicity
+chloridella
 coldslaw
 countertrades
 comments
