@@ -13364,7 +13364,6 @@ ankyloses
 accoll
 antihumbuggist
 archmarshal
-assafetida
 ankylostomiasis
 ankylotic
 anklejack
@@ -23332,6 +23331,7 @@ anodynes
 ablation
 atua
 atule
+assafetida
 abatjour
 appetitiveness
 atune
