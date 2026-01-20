@@ -159,6 +159,7 @@ earthly
 enriched
 exequy
 eelbobber
+euripides
 expiring
 escallop
 enticed
@@ -4688,7 +4689,6 @@ encircle
 emittent
 elocutive
 entryway
-euripides
 electrowin
 erythrodegenerative
 eelware
