@@ -3607,6 +3607,7 @@ fridstool
 frictionlessly
 faintishness
 fielder
+forespeak
 floatsman
 froglets
 figurate
@@ -7573,7 +7574,6 @@ fructuarius
 funiculus
 fanciers
 flintworker
-forespeak
 freezable
 fatalize
 farrier
