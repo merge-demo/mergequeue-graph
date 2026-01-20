@@ -2867,6 +2867,7 @@ gravediggers
 gudge
 guddled
 gynospore
+globiocephalus
 gingerline
 gyromitra
 gedunk
@@ -4845,7 +4846,6 @@ gamer
 glairiest
 gladsomest
 gynogenetic
-globiocephalus
 guapinol
 gladwin
 gauffred
