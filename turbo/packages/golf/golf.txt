@@ -2149,6 +2149,7 @@ gastrotomy
 grainer
 gaze
 genteelly
+gossep
 glout
 gastrotrichan
 guacos
@@ -7323,7 +7324,6 @@ glareole
 ghee
 gobstopper
 groggery
-gossep
 graphs
 gaberlunzie
 gunation
