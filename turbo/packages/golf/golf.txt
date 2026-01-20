@@ -2447,6 +2447,7 @@ goniac
 generatrix
 gabrielrache
 garbo
+gon
 gromwells
 garbure
 gemote
@@ -8572,7 +8573,6 @@ gawsy
 gravitic
 galline
 gretchen
-gon
 gurgeons
 guarri
 guianan
