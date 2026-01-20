@@ -4453,7 +4453,6 @@ caririan
 consign
 commoner
 choke
-carisa
 cabilliau
 concertina
 cleistogamically
@@ -13045,6 +13044,7 @@ cyathiform
 connivent
 cyathophyllum
 cyathus
+carisa
 confest
 chanters
 cibarial
