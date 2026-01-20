@@ -14352,7 +14352,6 @@ circumstantialities
 circumstantialness
 chipmunk
 circumstantiate
-circumstantiating
 circumstantiation
 circumstellar
 configurated
@@ -25147,6 +25146,7 @@ coriaceous
 coriamyrtin
 corianders
 conditional
+circumstantiating
 cuttlebones
 cycled
 cretinism
