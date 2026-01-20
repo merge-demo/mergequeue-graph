@@ -11928,7 +11928,6 @@ depthing
 doorba
 discompose
 downrange
-dictyosome
 domes
 digestion
 disembarked
@@ -14281,6 +14280,7 @@ dyspnoeic
 diffiding
 deporter
 depravers
+dictyosome
 deisms
 downcrying
 deplumed
