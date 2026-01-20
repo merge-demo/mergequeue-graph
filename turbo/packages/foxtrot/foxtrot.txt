@@ -7932,6 +7932,7 @@ fidejussionary
 falk
 fistula
 foreshock
+fragmentary
 fluidifier
 formoxime
 foreshoe
@@ -9791,7 +9792,6 @@ followup
 fretten
 firedamps
 ferryway
-fragmentary
 fodderer
 fattens
 foredooming
