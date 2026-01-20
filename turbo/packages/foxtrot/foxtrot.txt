@@ -2905,7 +2905,6 @@ figaro
 furazane
 frustums
 fencing
-floccipend
 farfetch
 fluellite
 flyoff
@@ -3574,6 +3573,7 @@ frosting
 fili
 filially
 filiating
+floccipend
 flutteringly
 flensers
 fragmentised
