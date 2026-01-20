@@ -4538,6 +4538,7 @@ gluelike
 gyrencephala
 gutturalized
 gilim
+grammaticaster
 gobbledygook
 graphometry
 glim
@@ -7844,7 +7845,6 @@ galvanometrical
 groom
 grammarless
 galtonia
-grammaticaster
 gearman
 garlandlike
 gabbais
