@@ -567,6 +567,7 @@ cadmia
 cadmic
 cateran
 convito
+cyclophoric
 cadmium
 crabsidle
 cadmiumize
@@ -2030,7 +2031,6 @@ criticised
 cassique
 camises
 cytosin
-cyclophoric
 cognominally
 camisole
 cautela
