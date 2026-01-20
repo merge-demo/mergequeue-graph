@@ -17084,7 +17084,6 @@ developes
 dipsos
 dowily
 datacell
-dimensional
 delineament
 disaffected
 driddle
@@ -18566,6 +18565,7 @@ durrs
 durukuli
 disanimated
 dyslexic
+dimensional
 defortify
 dematerialise
 decentration
