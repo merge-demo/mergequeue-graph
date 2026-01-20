@@ -2318,6 +2318,7 @@ exundation
 exodermal
 electroanesthesia
 electroballistics
+elaeagnus
 endemism
 emetatrophia
 evolvulus
@@ -9602,7 +9603,6 @@ equipper
 epenthesize
 epacris
 encourage
-elaeagnus
 enfrai
 esparsette
 emphases

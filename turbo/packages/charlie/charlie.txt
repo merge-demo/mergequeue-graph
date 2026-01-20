@@ -9549,7 +9549,6 @@ computational
 chapatty
 checkstring
 cuissen
-checksum
 construct
 checksumming
 castro
@@ -17306,6 +17305,7 @@ camarada
 coaration
 complicates
 coarb
+checksum
 coarrangement
 comptonite
 constrains
