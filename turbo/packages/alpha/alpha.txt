@@ -508,7 +508,6 @@ assonantal
 acidities
 absterge
 agomphiasis
-acecaffin
 axolemma
 abjurement
 abjurer
@@ -7972,6 +7971,7 @@ alexia
 arenicole
 archeologist
 allower
+acecaffin
 acroliths
 almanner
 apodeixis
