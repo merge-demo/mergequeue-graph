@@ -4743,7 +4743,6 @@ albuminimetry
 aftosa
 allogamy
 aviational
-attemperation
 aequor
 altitudes
 aequorins
@@ -21227,6 +21226,7 @@ authenticalness
 asklepios
 amidoxime
 atwitter
+attemperation
 academial
 ashimmer
 ambarella

@@ -3407,6 +3407,7 @@ deliberandum
 deuteroalbumose
 deerlet
 dasyuroid
+diwani
 doddy
 draconid
 deflore
@@ -14516,7 +14517,6 @@ divident
 dromograph
 dividivis
 diaphanometer
-diwani
 drugge
 dividually
 disports
