@@ -12613,7 +12613,6 @@ advene
 allochroite
 algosis
 aneurisms
-arithmetician
 anfract
 ameliorating
 anfractuose
@@ -24394,6 +24393,7 @@ autoschediastic
 antialexin
 ankylomele
 arksutite
+arithmetician
 apothec
 autoscope
 autoscopic
