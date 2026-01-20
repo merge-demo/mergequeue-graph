@@ -9584,7 +9584,6 @@ biscuits
 bhutia
 bromides
 bumbledom
-bronchomycosis
 bedim
 bahut
 blastomata
@@ -12210,6 +12209,7 @@ bolls
 bunkum
 bollworm
 blizzardly
+bronchomycosis
 bolo
 bicron
 bogberries
