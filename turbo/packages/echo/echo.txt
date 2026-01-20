@@ -925,6 +925,7 @@ efform
 epoxied
 entada
 equates
+exemplar
 emanatory
 exeresis
 ecuadorian
@@ -3420,7 +3421,6 @@ embogue
 ennuyant
 ecalcavate
 exolete
-exemplar
 ecliptic
 embatholithic
 enfiladed
