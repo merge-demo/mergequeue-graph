@@ -5484,7 +5484,6 @@ gangling
 glob
 gestured
 gnetum
-graduand
 grave
 glucinum
 grumblers
@@ -9445,6 +9444,7 @@ gasolinic
 gauntness
 gallanilide
 grassiest
+graduand
 gluish
 guaharibo
 gabriella

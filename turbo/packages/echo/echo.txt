@@ -3706,6 +3706,7 @@ eeten
 ephemerons
 echelette
 exhaustivity
+extractorship
 egoistry
 embrittle
 enfranchised
@@ -9548,7 +9549,6 @@ epithecia
 einsteinium
 esnecy
 epizoology
-extractorship
 esocataphoria
 estivation
 endocrinology
