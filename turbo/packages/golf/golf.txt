@@ -1587,7 +1587,6 @@ gymnetrous
 glabellar
 gunreach
 grampus
-gunnar
 ghazism
 goldie
 gillygaupus
@@ -7944,6 +7943,7 @@ gudok
 ganglionectomy
 globing
 glottologies
+gunnar
 genghis
 goldenmouthed
 gainer
