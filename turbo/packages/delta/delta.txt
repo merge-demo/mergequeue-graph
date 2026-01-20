@@ -6064,7 +6064,6 @@ diatheses
 decompound
 dizened
 deraigning
-divest
 dispirits
 derailing
 demiworld
@@ -7179,6 +7178,7 @@ detainal
 destructionist
 dattos
 disafforest
+divest
 doomsdays
 dehiscence
 demultiplexing
