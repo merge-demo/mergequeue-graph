@@ -302,7 +302,6 @@ gladstonianism
 gulpingly
 grantsmanship
 giraffesque
-galvanomagnetic
 gliriform
 grandstand
 greed
@@ -3150,6 +3149,7 @@ gramoches
 gypsywort
 geoscopic
 geosphere
+galvanomagnetic
 gapless
 geochronologist
 germina
