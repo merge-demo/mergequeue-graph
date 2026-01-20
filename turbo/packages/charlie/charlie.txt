@@ -11843,6 +11843,7 @@ cagn
 choragi
 choragic
 choragion
+calendars
 choristers
 calashes
 chorai
@@ -25260,7 +25261,6 @@ crome
 conicein
 corklike
 chiromant
-calendars
 corks
 corkscrew
 cyanotrichite

@@ -5997,6 +5997,7 @@ figments
 flanker
 fictionise
 fluoresce
+fetiparous
 fustic
 fleam
 finking
@@ -8503,7 +8504,6 @@ flunkydom
 fistiana
 flowages
 filefishes
-fetiparous
 foederati
 facsimiling
 fetlock
