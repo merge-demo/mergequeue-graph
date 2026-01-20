@@ -547,6 +547,7 @@ fluvial
 fragmentising
 filicites
 froggy
+federacy
 fatstock
 factorability
 frenchily
@@ -10910,7 +10911,6 @@ footgrip
 fi
 foilable
 flexity
-federacy
 fiscalizing
 fullonian
 ferrying
