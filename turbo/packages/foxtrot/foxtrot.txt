@@ -3922,6 +3922,7 @@ finew
 fish
 fermentor
 fruitcakey
+freedom
 frenziedly
 frightfulness
 fatima
@@ -10017,7 +10018,6 @@ frizzer
 feminacy
 fortune
 fringilline
-freedom
 frothsome
 fonted
 foreleader
