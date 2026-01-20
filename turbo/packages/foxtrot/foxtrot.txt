@@ -1134,7 +1134,6 @@ flatiron
 foretime
 farsightedness
 flooring
-forkedly
 faciocervical
 flatwoods
 foes
@@ -3787,6 +3786,7 @@ foreflap
 filterableness
 fractable
 facette
+forkedly
 fairyism
 fluoridisation
 flebotomy
