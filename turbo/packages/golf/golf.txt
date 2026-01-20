@@ -5008,7 +5008,6 @@ gecarcinus
 gastrogenital
 gv
 gustful
-gularis
 garland
 genteelism
 ganged
@@ -7705,6 +7704,7 @@ gloea
 gutturopalatine
 grenelle
 gauloiserie
+gularis
 guld
 gamboler
 gynecicgynecidal
