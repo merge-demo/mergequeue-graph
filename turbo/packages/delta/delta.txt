@@ -3512,7 +3512,6 @@ drapery
 defrauds
 defrocked
 dubbed
-derogately
 daybeam
 demoniast
 deoxygenizing
@@ -16804,6 +16803,7 @@ dichroscopic
 diprimary
 drawbore
 deare
+derogately
 dissenters
 dreeing
 disconsonant
