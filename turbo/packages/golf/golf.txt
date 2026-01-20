@@ -1693,7 +1693,6 @@ grandly
 gliosis
 gastrograph
 gamebag
-gazetteerish
 gordioidea
 glories
 gane
@@ -9742,6 +9741,7 @@ gorged
 gastrodynia
 glutens
 geophagies
+gazetteerish
 guignardia
 gladiators
 gonimium
