@@ -4462,7 +4462,6 @@ bike
 buriels
 boomeranged
 benegro
-billard
 bromizer
 bebopper
 blackrag
@@ -6328,6 +6327,7 @@ biblic
 billbroking
 burbly
 barrer
+billard
 butment
 brike
 benzanthracene
