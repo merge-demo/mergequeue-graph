@@ -987,7 +987,6 @@ facetiousness
 fluorids
 frape
 fastigiums
-forkers
 froom
 formalizer
 fillagreed
@@ -2676,6 +2675,7 @@ fallowed
 fume
 fantoccini
 feasing
+forkers
 ferulaceous
 ferular
 foreimpression
