@@ -9195,6 +9195,7 @@ archdeaconry
 alodialty
 adenogenous
 antiparliamentarian
+affectable
 argentamin
 architectural
 autometric
@@ -16932,7 +16933,6 @@ agamis
 alfa
 anemometrical
 akuammine
-affectable
 anhima
 approachment
 arrive
