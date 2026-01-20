@@ -2421,7 +2421,6 @@ gype
 grograms
 ghostwritten
 glutch
-gekkones
 gimels
 grillage
 gemmulation
@@ -3353,6 +3352,7 @@ gallicolae
 gools
 grittily
 gaboon
+gekkones
 gaslighting
 ganapati
 girland
