@@ -775,7 +775,6 @@ badinages
 beblotch
 bearcoot
 bumboatmen
-badiner
 birt
 badious
 betrays
@@ -7979,6 +7978,7 @@ bicarbureted
 bicarburetted
 binucleated
 beanbag
+badiner
 bellybuttons
 bicaudate
 basten
