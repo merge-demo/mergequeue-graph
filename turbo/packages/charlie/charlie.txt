@@ -8947,7 +8947,6 @@ castigates
 charier
 chariest
 curdle
-charily
 chariness
 cosmopolicy
 countersconce
@@ -23424,6 +23423,7 @@ catechetical
 contemplation
 cryptomnesia
 contemplations
+charily
 contemplatist
 coshered
 creatureless
