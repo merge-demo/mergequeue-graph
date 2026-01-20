@@ -3026,6 +3026,7 @@ gorra
 globulins
 gastromyces
 geometridae
+gufought
 gangshag
 geometriform
 graminicolous
@@ -4563,7 +4564,6 @@ glink
 giornata
 guarantees
 glycerizin
-gufought
 gloggs
 galbulae
 galipoipin
