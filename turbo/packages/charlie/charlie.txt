@@ -3031,7 +3031,6 @@ cortege
 colander
 cantonal
 cantonalism
-crapelike
 chinse
 cantoner
 cowleeching
@@ -8866,6 +8865,7 @@ companiable
 cycads
 charadrii
 charadriiformes
+crapelike
 charadrine
 charadriomorphae
 chingpaw
