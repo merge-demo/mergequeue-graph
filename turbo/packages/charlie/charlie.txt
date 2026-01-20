@@ -16941,7 +16941,6 @@ clunked
 clunkers
 corregidors
 crowner
-clunter
 coutille
 clupanodonic
 clupea
@@ -17388,6 +17387,7 @@ coatless
 coatrack
 coatroom
 coatrooms
+clunter
 coattend
 cajeta
 coattending
