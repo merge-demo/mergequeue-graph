@@ -6690,7 +6690,6 @@ allures
 ainhum
 arrivederla
 autofrettage
-arthropleure
 amortisable
 ainoi
 appellatory
@@ -18771,6 +18770,7 @@ archebanc
 archebancs
 amylocoagulase
 aguilarite
+arthropleure
 ascocarpous
 arsenophenol
 aristocratical
