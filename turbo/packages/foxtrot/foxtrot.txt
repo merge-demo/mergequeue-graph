@@ -4486,6 +4486,7 @@ flagging
 favissa
 flus
 farmlands
+flagitiously
 feer
 forheed
 foreigner
@@ -10847,7 +10848,6 @@ frumpier
 fallout
 fontal
 frisky
-flagitiously
 frondosely
 frousy
 fabledom
