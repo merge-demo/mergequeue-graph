@@ -2341,6 +2341,7 @@ capricorns
 coffining
 coendear
 corector
+ceterach
 canaliculus
 clannishly
 canaliferous
@@ -7896,7 +7897,6 @@ cerographies
 cete
 cetera
 cosponsors
-ceterach
 ceti
 cetic
 cocytus
