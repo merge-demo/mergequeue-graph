@@ -2610,7 +2610,6 @@ cardioschisis
 cementmaking
 canebrakes
 cephalodynia
-cowskins
 counterdisengage
 cryptocrystallization
 columnar
@@ -13798,6 +13797,7 @@ cysticercoid
 carcinophobia
 cinenchyma
 concreate
+cowskins
 cinene
 cineol
 creeky
