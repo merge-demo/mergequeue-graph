@@ -8628,7 +8628,6 @@ anoxidative
 abstractionism
 allocution
 anemology
-alleleu
 allelic
 axonemal
 argyrite
@@ -23782,6 +23781,7 @@ aerohydroplane
 amorphozoa
 aposporic
 ararauna
+alleleu
 auspiciousness
 arpenteur
 abannition
