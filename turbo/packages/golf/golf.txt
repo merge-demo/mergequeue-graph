@@ -5739,6 +5739,7 @@ galera
 galactolysis
 garbel
 gade
+graftage
 graphites
 glycogenolysis
 goorals
@@ -7535,7 +7536,6 @@ gemini
 gibbetted
 gelatiniferous
 grounded
-graftage
 generability
 grinagog
 gypsying
