@@ -348,6 +348,7 @@ fivish
 factions
 forfeiture
 flyingly
+fellatory
 fellers
 flattering
 fiercening
@@ -8633,7 +8634,6 @@ frigidness
 frictionproof
 faintest
 footing
-fellatory
 flaunt
 fliffus
 fillebeg

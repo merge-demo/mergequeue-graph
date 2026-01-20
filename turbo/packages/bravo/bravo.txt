@@ -6677,7 +6677,6 @@ broughtas
 burghs
 busto
 ballhausplatz
-babbles
 berytidae
 boblet
 bergh
@@ -6933,6 +6932,7 @@ bodhisattwa
 badder
 bismuths
 bagheli
+babbles
 brott
 bilihumin
 begohm
