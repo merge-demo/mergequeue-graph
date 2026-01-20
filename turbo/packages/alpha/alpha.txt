@@ -14819,7 +14819,6 @@ antepagmenta
 aiwain
 antichrists
 amphichrome
-acalephs
 appendence
 antichronically
 amphibola
@@ -21531,6 +21530,7 @@ asphyxia
 abreid
 antagonized
 arretine
+acalephs
 anthypophora
 apotypic
 admonishingly

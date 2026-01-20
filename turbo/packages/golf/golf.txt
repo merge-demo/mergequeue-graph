@@ -6628,6 +6628,7 @@ gondolas
 guidons
 gondoletta
 guffs
+gitterns
 gangliform
 gamboller
 glottitis
@@ -6872,7 +6873,6 @@ goodenia
 gypsied
 gestated
 guyed
-gitterns
 guttiferae
 gombay
 gehenna
