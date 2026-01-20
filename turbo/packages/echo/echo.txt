@@ -7016,7 +7016,6 @@ endless
 exclamation
 englishry
 engilded
-evangely
 evidencive
 environment
 embolic
@@ -7512,6 +7511,7 @@ epicedia
 ebriose
 earnie
 electronics
+evangely
 eastward
 epicedian
 epicedium
