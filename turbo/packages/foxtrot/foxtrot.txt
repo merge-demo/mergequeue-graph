@@ -6518,7 +6518,6 @@ forswears
 flameless
 feedboard
 flensing
-flutterment
 flimflammed
 fluviolacustrine
 fleetly
@@ -7354,6 +7353,7 @@ florideae
 fulling
 fenestellae
 festiveness
+flutterment
 floodlighting
 forbiddingly
 fanglet
