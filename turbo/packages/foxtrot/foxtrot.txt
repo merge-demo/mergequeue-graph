@@ -6730,6 +6730,7 @@ food
 foliageous
 fineer
 furthersome
+flagellum
 fibrochondroma
 fleury
 fingerspin
@@ -9211,7 +9212,6 @@ ficin
 feminate
 fissioning
 flopped
-flagellum
 furzetop
 fenagling
 femality
