@@ -5859,7 +5859,6 @@ bellmaking
 banquo
 baronship
 blebby
-bellmanship
 bellmouth
 briners
 braggingly
@@ -16203,6 +16202,7 @@ bromoform
 betweenwhiles
 bezaleelian
 blote
+bellmanship
 bithynian
 bridget
 brotuliform
