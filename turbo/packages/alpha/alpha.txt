@@ -5480,7 +5480,6 @@ abscisins
 agronomies
 afterdeal
 actuarial
-aerolith
 aristos
 aftergas
 abstractedness
@@ -19493,6 +19492,7 @@ antiracemate
 afforestational
 antimodernization
 alphabetize
+aerolith
 accessoriness
 anandrarious
 assaults
