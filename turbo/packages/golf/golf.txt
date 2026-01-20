@@ -290,7 +290,6 @@ gummier
 glossophora
 gaintwist
 grypanian
-geobotany
 gypper
 ganjas
 gynaecian
@@ -9745,6 +9744,7 @@ geophagies
 guignardia
 gladiators
 gonimium
+geobotany
 grumphie
 guesstimates
 grise
