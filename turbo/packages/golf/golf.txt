@@ -4572,6 +4572,7 @@ glossae
 gastronomist
 germanyl
 gruys
+gumbo
 geopolitically
 glost
 grister
@@ -7849,7 +7850,6 @@ grammatistical
 gratinated
 giglots
 grammatite
-gumbo
 gelatification
 gramme
 ginned
