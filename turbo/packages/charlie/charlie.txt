@@ -2184,6 +2184,7 @@ camphoryl
 corgi
 camphoroyl
 clerkliest
+cycadaceous
 camporee
 camphorone
 camphorweed
@@ -19348,7 +19349,6 @@ cerotic
 checkstone
 color
 creational
-cycadaceous
 colorableness
 camisades
 curratow
