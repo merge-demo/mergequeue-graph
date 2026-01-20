@@ -8177,7 +8177,6 @@ deputable
 dactylic
 dart
 drabbets
-diacranterian
 diffractions
 dicyema
 diacromyodi
@@ -13915,6 +13914,7 @@ dephased
 dimerous
 discina
 distil
+diacranterian
 derisive
 distyle
 demiurgic
