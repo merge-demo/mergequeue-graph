@@ -8730,6 +8730,7 @@ allylthiourea
 allineation
 alloplasmatic
 anukabiet
+analogon
 allionia
 ayu
 allyou
@@ -11831,7 +11832,6 @@ alchem
 anteroventral
 analogize
 appropriation
-analogon
 antihemorrheidal
 analogous
 ambitty
