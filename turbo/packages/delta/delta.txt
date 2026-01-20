@@ -2855,7 +2855,6 @@ diskos
 discretively
 disposure
 dangle
-disjointedness
 doveling
 disgenius
 deepest
@@ -13944,6 +13943,7 @@ donatiaceae
 distinctity
 dispiritingly
 distinctiveness
+disjointedness
 diapophyses
 distinguee
 distinguishableness
