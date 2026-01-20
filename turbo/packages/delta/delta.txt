@@ -1408,7 +1408,6 @@ delis
 drapability
 dissatisfactoriness
 desipient
-diligentia
 disintegrable
 dulcid
 dechoralize
@@ -5367,6 +5366,7 @@ disc
 denuder
 dermolysis
 douched
+diligentia
 dialysation
 denumerantive
 disestablished
