@@ -1067,7 +1067,6 @@ blockhead
 brachycephalization
 brasswork
 bailiwicks
-bolete
 babyhouse
 blousier
 buzzards
@@ -4335,6 +4334,7 @@ blatch
 birrettas
 beccafico
 buttressing
+bolete
 beccaficoes
 bealtuinn
 beccaficos
