@@ -4822,6 +4822,7 @@ gaff
 gallybagger
 geopolar
 guttersnipe
+graphiola
 gorgonizing
 giinwale
 gladiatrix
@@ -9691,7 +9692,6 @@ gamahe
 gropple
 galloflavin
 gasses
-graphiola
 geon
 gazet
 granola
