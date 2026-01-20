@@ -3030,7 +3030,6 @@ globulins
 gastromyces
 geometridae
 gufought
-gangshag
 geometriform
 graminicolous
 grassily
@@ -3316,6 +3315,7 @@ glossologies
 guha
 gerundial
 gingalls
+gangshag
 gentlewomanlike
 germier
 goatsfoot
