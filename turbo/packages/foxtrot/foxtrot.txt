@@ -1096,7 +1096,6 @@ fluorene
 fibrotuberculosis
 foreswear
 feriae
-farreachingly
 flurr
 fingerprint
 fernleaf
@@ -6368,6 +6367,7 @@ fecundatory
 formularization
 flathead
 furanoside
+farreachingly
 flagelliferous
 frettation
 floatmaker
