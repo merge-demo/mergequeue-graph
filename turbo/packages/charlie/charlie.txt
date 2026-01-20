@@ -7733,7 +7733,6 @@ cecidology
 certain
 cuteys
 conservatism
-certainness
 cormorant
 cetin
 certainty
@@ -20105,6 +20104,7 @@ collectedness
 cretinous
 counterterm
 continence
+certainness
 corpselike
 chesset
 commercial
