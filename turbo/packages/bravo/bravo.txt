@@ -11102,6 +11102,7 @@ blockpate
 bashawship
 balmiest
 beddings
+backstroked
 bedawn
 bathyal
 blockship
@@ -11505,7 +11506,6 @@ begged
 bathometer
 bumboatman
 behaves
-backstroked
 broadshare
 budder
 blufter
