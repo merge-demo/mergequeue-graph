@@ -12571,7 +12571,6 @@ dicaryophase
 disinheritable
 dulciana
 diuturnity
-disinheritance
 dinaphthyl
 deirdre
 darac
@@ -14854,6 +14853,7 @@ docudramas
 document
 documentable
 delimer
+disinheritance
 dactylose
 decrepid
 disgregating
