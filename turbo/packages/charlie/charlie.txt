@@ -446,7 +446,6 @@ cacti
 crowners
 concrete
 cactiform
-communications
 cactoid
 combind
 crocodilean
@@ -1751,6 +1750,7 @@ ceruse
 complexly
 cohabiter
 corneine
+communications
 calumba
 chipped
 coloured
