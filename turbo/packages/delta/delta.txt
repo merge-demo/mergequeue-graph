@@ -5711,7 +5711,6 @@ damagingly
 deliberating
 debater
 duree
-disjoint
 descriptor
 decasualizing
 depolymerize
@@ -11708,6 +11707,7 @@ diastasis
 discourses
 diovular
 discoursing
+disjoint
 decomplex
 decoagulate
 distritbute
