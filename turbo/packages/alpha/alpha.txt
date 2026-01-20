@@ -771,7 +771,6 @@ antiscia
 abitibi
 abridgement
 abridger
-anapeiratic
 acurative
 afternote
 argles
@@ -14998,6 +14997,7 @@ affettuoso
 agriculturer
 anisaldoxime
 archmime
+anapeiratic
 attermine
 anticreatively
 aesculetin
