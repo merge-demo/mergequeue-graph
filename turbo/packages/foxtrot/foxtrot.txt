@@ -666,7 +666,6 @@ firebreak
 forwarding
 farrand
 featherbedding
-farnesol
 fluotitanic
 fuddled
 fichu
@@ -7848,6 +7847,7 @@ forbear
 foreran
 fascination
 forereading
+farnesol
 forereckon
 foreclaw
 foredates
