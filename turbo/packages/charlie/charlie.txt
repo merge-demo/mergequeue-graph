@@ -5375,6 +5375,7 @@ castanopsis
 castanospermum
 castaways
 casted
+countermove
 crankled
 creditabilities
 cubitalia
@@ -10578,7 +10579,6 @@ celebrator
 chillroom
 chills
 chillsome
-countermove
 chouka
 chemolytic
 chillumchee
