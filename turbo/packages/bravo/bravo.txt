@@ -1586,7 +1586,6 @@ britches
 binate
 ballista
 basketlike
-beatinest
 balboa
 ballistician
 brachioganoidei
@@ -9037,6 +9036,7 @@ brachyprosopic
 bionomic
 backswordman
 batton
+beatinest
 bionomically
 bionomies
 beckie
