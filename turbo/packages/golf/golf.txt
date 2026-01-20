@@ -1182,6 +1182,7 @@ gaplessness
 gildhall
 gastroatrophia
 genesiacal
+guideship
 gymnogenous
 griot
 gradations
@@ -1909,7 +1910,6 @@ graperoot
 garibaldi
 gnomesque
 gear
-guideship
 goalkeepers
 gushy
 goriness
