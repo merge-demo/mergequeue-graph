@@ -7386,6 +7386,7 @@ giga
 granduncle
 gnatproof
 geylies
+gamasid
 gotra
 germarium
 granulomatous
@@ -9872,7 +9873,6 @@ guanin
 gagate
 ghoom
 guanize
-gamasid
 gifblaar
 graticulation
 genders
