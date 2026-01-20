@@ -7211,7 +7211,6 @@ alarodian
 animas
 alarum
 alarumed
-antitypically
 alaruming
 astrand
 antepaschel
@@ -15343,6 +15342,7 @@ abwatt
 antiking
 aposematic
 araneology
+antitypically
 alcaic
 antikings
 arachnoidal
