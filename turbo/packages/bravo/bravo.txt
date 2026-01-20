@@ -12532,6 +12532,7 @@ boniata
 bloodshot
 barnage
 balsamroot
+butlerlike
 bourgeoning
 brails
 bridehead
@@ -18178,7 +18179,6 @@ belief
 bouche
 butleries
 balilla
-butlerlike
 butlers
 butlership
 bichy
