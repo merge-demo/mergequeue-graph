@@ -401,6 +401,7 @@ faq
 fibber
 firetrap
 frustraneous
+frutices
 fribbled
 fasciae
 fibrocartilaginous
@@ -4537,7 +4538,6 @@ fisting
 faithfulness
 flattest
 frictionize
-frutices
 flaunted
 fossilized
 fool
