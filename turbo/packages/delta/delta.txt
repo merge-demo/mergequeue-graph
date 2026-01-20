@@ -12379,6 +12379,7 @@ distraint
 dupable
 dishclout
 disassembly
+duff
 disheartenedly
 doubles
 disheartener
@@ -12931,7 +12932,6 @@ demonologically
 dognapping
 decolorising
 disobliges
-duff
 darkful
 dilleniaceae
 dummying
