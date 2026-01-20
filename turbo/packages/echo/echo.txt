@@ -5176,7 +5176,6 @@ endolysin
 eparchy
 eretrian
 ethologies
-equipluve
 equilibrate
 endomitosis
 endomorphy
@@ -5209,6 +5208,7 @@ episiocele
 expungers
 endophyllum
 exospherical
+equipluve
 embarcadero
 edginesses
 edificative
