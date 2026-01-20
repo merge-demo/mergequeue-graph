@@ -2978,6 +2978,7 @@ decannulation
 dyadically
 democratist
 dodecamerous
+divisor
 daguerreotypist
 decillion
 deedily
@@ -14571,7 +14572,6 @@ divisively
 diners
 develope
 decomposition
-divisor
 digitalein
 deckels
 desalinize
