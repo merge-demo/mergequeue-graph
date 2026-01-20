@@ -2028,7 +2028,6 @@ encouragingly
 elaic
 ealdormen
 enteroplegia
-elaioplast
 elamite
 elamitish
 episcope
@@ -8139,6 +8138,7 @@ equanimity
 euchromatin
 extemporalness
 expedientist
+elaioplast
 evelong
 eyl
 essayette
