@@ -9009,7 +9009,6 @@ electromyographic
 eurychoric
 erythroblastic
 extrafoliaceous
-errancy
 evaginating
 euchring
 epiphyll
@@ -9830,6 +9829,7 @@ esthesiogeny
 enragedly
 exuberation
 exhibitionistic
+errancy
 eucalyptian
 episodial
 expletiveness

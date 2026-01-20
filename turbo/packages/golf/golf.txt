@@ -1597,6 +1597,7 @@ graphology
 gunz
 glycyrrhiza
 goodeniaceous
+gymnospermic
 geulah
 galavant
 gasteromycetous
@@ -10018,7 +10019,6 @@ grammatolator
 gesneriaceous
 goog
 grissens
-gymnospermic
 genetoid
 geomancies
 gangliac
