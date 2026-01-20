@@ -11282,7 +11282,6 @@ basketries
 blowguns
 butling
 bys
-blatchang
 bronchoesophagoscopy
 beshackle
 bloodedness
@@ -11835,6 +11834,7 @@ bulrushlike
 bootlegging
 banking
 bodybuilding
+blatchang
 budgerigar
 bodice
 brainwashers
