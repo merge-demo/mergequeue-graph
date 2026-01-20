@@ -1770,6 +1770,7 @@ gentisein
 grouchiest
 gossypine
 gastropulmonic
+germane
 granitic
 gambados
 guiba
@@ -4537,7 +4538,6 @@ gobbledygook
 graphometry
 glim
 goobers
-germane
 gagger
 gynobaseous
 grinter
