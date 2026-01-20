@@ -4367,7 +4367,6 @@ enations
 euripos
 eggheadedness
 embar
-eruptively
 electromechanical
 encadre
 ender
@@ -12733,6 +12732,7 @@ epidemiologically
 emulatively
 epilogism
 ethers
+eruptively
 emmenagogic
 enterococcal
 epistomian
