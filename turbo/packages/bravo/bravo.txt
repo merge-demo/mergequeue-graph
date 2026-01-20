@@ -8528,7 +8528,6 @@ bronchotomist
 behale
 backboned
 bacterioscopical
-bafaro
 baronne
 birch
 butyryl
@@ -12111,6 +12110,7 @@ bleb
 boldhearted
 builder
 beg
+bafaro
 bultey
 beloid
 burbler
