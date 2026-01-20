@@ -7077,6 +7077,7 @@ galactodendron
 guglio
 gedanken
 grumly
+gymnostomina
 granum
 glucosulfone
 glycol
@@ -8768,7 +8769,6 @@ geophilus
 gekko
 gulfs
 goalless
-gymnostomina
 greese
 gust
 gawk
