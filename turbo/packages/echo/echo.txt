@@ -7008,6 +7008,7 @@ eyeglass
 eggfruit
 enpia
 elastomer
+era
 electricalize
 eglatere
 enepidermic
@@ -12693,7 +12694,6 @@ eudiometer
 elmer
 everbearer
 exonym
-era
 eelback
 earcockle
 energizing
