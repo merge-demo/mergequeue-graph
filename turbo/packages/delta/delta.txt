@@ -3369,6 +3369,7 @@ deflectionize
 dampnesses
 daphnaceae
 diamante
+disbursements
 diacetyl
 disassociable
 dyscrasia
@@ -7590,7 +7591,6 @@ devaul
 deoxygenating
 degaussed
 diamant
-disbursements
 doctrinally
 diathermaneity
 disassembling
