@@ -4160,7 +4160,6 @@ gymnotus
 gutling
 geomagnetic
 gimped
-guarache
 gastrectasis
 galactolytic
 gliosa
@@ -9100,6 +9099,7 @@ gobonated
 ginward
 geopolitics
 gazers
+guarache
 grummel
 gambier
 groping
