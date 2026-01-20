@@ -4143,7 +4143,6 @@ clerihew
 cubed
 chancellor
 cardinalities
-cardinalship
 cardings
 cardioarterial
 cardiocarpum
@@ -8272,6 +8271,7 @@ chalicothere
 chalicotheriid
 carlism
 crummable
+cardinalship
 chalicotheriidae
 cephalohumeralis
 chantress
