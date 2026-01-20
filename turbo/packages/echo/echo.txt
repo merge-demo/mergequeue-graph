@@ -3434,6 +3434,7 @@ embellishers
 eutelegenic
 encheason
 enchained
+encephalorrhagia
 embers
 estival
 essentialization
@@ -6493,7 +6494,6 @@ eaglet
 embarrassedly
 egipto
 ensmall
-encephalorrhagia
 eleventhly
 erythrocytometer
 entamoebic
