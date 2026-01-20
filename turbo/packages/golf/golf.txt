@@ -1243,6 +1243,7 @@ galactostasis
 gooding
 gonglike
 grassman
+gratify
 garbill
 guyline
 goosebone
@@ -7330,7 +7331,6 @@ galvanization
 gymnolaema
 gougingly
 goldlike
-gratify
 gossiped
 geologized
 goodyship
