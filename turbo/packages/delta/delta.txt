@@ -14160,7 +14160,6 @@ disanimate
 diol
 desacralize
 diapason
-dentification
 doyst
 disulfonic
 dispread
@@ -15616,6 +15615,7 @@ dooputty
 doorhead
 detergible
 dooring
+dentification
 doorknob
 doorless
 destinate
