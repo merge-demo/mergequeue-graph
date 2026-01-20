@@ -3093,6 +3093,7 @@ embarrassment
 epistolographist
 edgewise
 engrossers
+eonisms
 encyclopedically
 euectic
 elmwood
@@ -7706,7 +7707,6 @@ entail
 enteroplasty
 erechtheus
 electropolish
-eonisms
 electronervous
 ean
 eftsoon
