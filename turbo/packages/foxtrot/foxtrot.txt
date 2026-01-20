@@ -1707,6 +1707,7 @@ fearingly
 ferineness
 flook
 fearless
+fixion
 forehammer
 fondlike
 frangible
@@ -4342,7 +4343,6 @@ furied
 frogfishes
 fathomed
 fishability
-fixion
 fishboats
 flubdubberies
 fishbolts
