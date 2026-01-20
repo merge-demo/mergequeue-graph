@@ -1287,6 +1287,7 @@ dandyism
 disking
 datsuns
 duplify
+digitise
 demigardebras
 dissyllabize
 dentition
@@ -11170,7 +11171,6 @@ disproportions
 demultiplexed
 dodecagon
 deprecatoriness
-digitise
 dammaret
 disbelievers
 diphosphid
