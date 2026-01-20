@@ -2894,7 +2894,6 @@ decussatively
 desideratum
 disyllabizing
 decussoria
-decwriter
 deltoid
 divia
 dashel
@@ -17275,6 +17274,7 @@ decasualize
 disseizee
 droghlin
 discrepant
+decwriter
 decrier
 diathermance
 discountenancing
