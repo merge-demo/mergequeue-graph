@@ -5408,7 +5408,6 @@ donation
 disenablement
 deorsum
 diclinies
-dohter
 deossification
 deuterostomatous
 dissipates
@@ -16367,6 +16366,7 @@ drainable
 downstate
 dolmens
 dissimulating
+dohter
 duplation
 defilade
 defrost
