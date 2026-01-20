@@ -4787,6 +4787,7 @@ excusation
 echard
 embosks
 encores
+ereptic
 enemas
 epicranium
 especially
@@ -6096,7 +6097,6 @@ extremum
 elaterometer
 elephantiases
 embelia
-ereptic
 espringal
 enlodge
 elderwood
