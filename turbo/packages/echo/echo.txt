@@ -6993,7 +6993,6 @@ electrifies
 erythrochaete
 earphone
 enactory
-embellished
 epiphenomenon
 eundem
 emote
@@ -11332,6 +11331,7 @@ ennerve
 electroscission
 eupnoeic
 enervative
+embellished
 exhaustibility
 emergers
 extenders
