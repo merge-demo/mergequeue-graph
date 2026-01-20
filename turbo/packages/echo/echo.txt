@@ -1039,6 +1039,7 @@ embalmment
 ephrathite
 exterritorial
 enshrouded
+eriogonum
 edgrow
 encephaloscope
 ensanguining
@@ -8599,7 +8600,6 @@ espavel
 equielliptical
 equigranular
 equilateral
-eriogonum
 equilibrant
 edentulous
 extractively
