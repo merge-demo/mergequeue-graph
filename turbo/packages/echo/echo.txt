@@ -1039,7 +1039,6 @@ exterritorial
 enshrouded
 edgrow
 encephaloscope
-enormous
 ensanguining
 edhs
 enteroscopy
@@ -2127,6 +2126,7 @@ enfoil
 enterobiliary
 enanthematous
 eisteddfodism
+enormous
 epoxy
 esophagostenosis
 eyestring
