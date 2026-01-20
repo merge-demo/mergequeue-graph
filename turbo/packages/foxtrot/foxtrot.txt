@@ -4262,7 +4262,6 @@ follicule
 fibster
 fenland
 fungology
-firmarii
 furmeties
 flunkeys
 forrader
@@ -10518,6 +10517,7 @@ featherback
 flees
 frotton
 fum
+firmarii
 fumelike
 firetail
 farandman
