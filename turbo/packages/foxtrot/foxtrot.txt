@@ -75,7 +75,6 @@ fordeal
 fullfaces
 facundity
 facemark
-flunkeyhood
 flocklike
 forme
 filching
@@ -2686,6 +2685,7 @@ fitzclarence
 fissipedate
 fusetron
 foundational
+flunkeyhood
 filaze
 fawner
 frizziness
