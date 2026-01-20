@@ -4635,6 +4635,7 @@ demits
 demitted
 denticulately
 dilutive
+dishearteningly
 duties
 demiurgeous
 downswings
@@ -5652,7 +5653,6 @@ dichroite
 depletions
 danton
 disparities
-dishearteningly
 dissolute
 delthyrium
 deploy
