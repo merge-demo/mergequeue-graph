@@ -963,6 +963,7 @@ changedness
 canalling
 clipper
 conveyancing
+collinearity
 cortically
 chunter
 cholick
@@ -10697,7 +10698,6 @@ complementarism
 chinafy
 cuapinole
 cartilages
-collinearity
 communicates
 cyanformic
 chondralgia
