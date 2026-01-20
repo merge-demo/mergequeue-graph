@@ -1931,7 +1931,6 @@ glottologist
 gortonite
 groundwave
 garvie
-gonorrhoeic
 gauged
 grovet
 goclenian
@@ -7358,6 +7357,7 @@ gullishness
 gardenful
 gossipped
 gallberry
+gonorrhoeic
 glochidial
 gestor
 glomerule
