@@ -4114,7 +4114,6 @@ beslimer
 beards
 barbers
 birthroot
-bombazette
 bedrenched
 bras
 brachycera
@@ -7231,6 +7230,7 @@ bestiarist
 bestock
 bestow
 bestowment
+bombazette
 burgee
 breaching
 blades
