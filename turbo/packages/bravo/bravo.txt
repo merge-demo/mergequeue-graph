@@ -2587,7 +2587,6 @@ balanophoraceous
 baritenor
 barberry
 bulletined
-bedevils
 barytocelestite
 barytone
 barytons
@@ -10129,6 +10128,7 @@ beinked
 blanching
 blackballs
 byss
+bedevils
 bielorouss
 brogh
 blat
