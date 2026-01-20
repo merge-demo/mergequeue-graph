@@ -393,7 +393,6 @@ bullocky
 beri
 ballium
 broguish
-butterball
 bermudite
 bewailed
 bahuma
@@ -15748,6 +15747,7 @@ brochettes
 burble
 bigfoot
 brambly
+butterball
 bathman
 beamster
 biliferous
