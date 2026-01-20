@@ -6153,6 +6153,7 @@ bepearl
 blest
 beneficed
 baubees
+beice
 brangle
 bushlands
 bravo
@@ -15915,7 +15916,6 @@ behest
 berylate
 bendell
 breezing
-beice
 bodysurfing
 broomball
 bansela
