@@ -13954,7 +13954,6 @@ cinque
 cinquecentist
 coquetries
 crowl
-commemoratory
 cinquefoil
 corporature
 cinquefoiled
@@ -29603,6 +29602,7 @@ croatan
 confrontational
 crinion
 crawlsome
+commemoratory
 crocanthemum
 croceic
 croceine
