@@ -13201,7 +13201,6 @@ bosh
 boshbok
 breadthless
 boshes
-brevirostrines
 bosjesman
 blazonry
 blushless
@@ -14674,6 +14673,7 @@ bigotedness
 bitted
 backscraper
 blungers
+brevirostrines
 brasils
 brasque
 bloc
