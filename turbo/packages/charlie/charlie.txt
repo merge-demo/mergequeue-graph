@@ -5076,6 +5076,7 @@ clamatorial
 carwashes
 chider
 carzey
+centroidal
 casablanca
 casalty
 citywards
@@ -16578,7 +16579,6 @@ clonisms
 chaudron
 conjurer
 clerodendron
-centroidal
 cyclothurus
 coadmire
 clonking
