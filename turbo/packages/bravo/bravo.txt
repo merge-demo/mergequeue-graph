@@ -8854,6 +8854,7 @@ barfed
 benzol
 balsamiferous
 braeface
+berakot
 binomenclature
 binomially
 biz
@@ -8886,7 +8887,6 @@ belcher
 biobibliographer
 barleysick
 backwoodsiness
-berakot
 biocenology
 brontolith
 bulletwood
