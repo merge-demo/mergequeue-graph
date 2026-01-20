@@ -5857,7 +5857,6 @@ foetalism
 furlers
 frangent
 formlessness
-flockwise
 ferruginate
 flocs
 facilely
@@ -7240,6 +7239,7 @@ forecasts
 formiate
 fustet
 floorboards
+flockwise
 fameuse
 fancysick
 fortlet
