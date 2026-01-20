@@ -10021,7 +10021,6 @@ acorned
 anisoin
 amission
 amerceable
-asquirm
 ambivalence
 aiger
 ambiversion
@@ -11422,6 +11421,7 @@ arthogram
 apiphobia
 antholysis
 antisquama
+asquirm
 atrabilious
 antianaphylactogen
 americanitis

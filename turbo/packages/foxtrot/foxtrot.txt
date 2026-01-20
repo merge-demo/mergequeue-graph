@@ -1876,7 +1876,6 @@ fruiterers
 federacies
 febriphobia
 flemishing
-fringefoot
 fielden
 fiveling
 fiances
@@ -8845,6 +8844,7 @@ fictious
 freeholder
 folia
 fleuron
+fringefoot
 fibrinoplastic
 folkvang
 forum
