@@ -427,7 +427,6 @@ dwelt
 destructing
 desulfurise
 darwan
-disobedient
 dairymaids
 devaluate
 dogfighting
@@ -5131,6 +5130,7 @@ dartoic
 debone
 dyings
 daemon
+disobedient
 decephalization
 deathly
 diaheliotropic
