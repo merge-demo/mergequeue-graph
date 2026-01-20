@@ -11712,6 +11712,7 @@ acnodes
 anagogic
 ambar
 aventayle
+asthenobiotic
 allocutive
 apposes
 advecting
@@ -22771,7 +22772,6 @@ australianize
 arras
 antispast
 atimon
-asthenobiotic
 advantageousness
 attainture
 atypy
