@@ -912,6 +912,7 @@ endowments
 endorsements
 electrophoretic
 ectropion
+euclase
 eluvia
 erogenesis
 effatum
@@ -12670,7 +12671,6 @@ epicotyledonary
 exonerate
 exonerating
 ephemerous
-euclase
 episcopicide
 essays
 eunicidae
