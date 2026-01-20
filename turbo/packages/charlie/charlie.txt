@@ -6578,7 +6578,6 @@ cyanhidrosis
 cb
 calamanco
 coeditorship
-coryphaeus
 cchaddoorck
 ccid
 ccitt
@@ -16256,6 +16255,7 @@ clinoid
 clinology
 clinometer
 clinometry
+coryphaeus
 clinometric
 cantos
 condylura
