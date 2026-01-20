@@ -6962,7 +6962,6 @@ fondest
 favilla
 fonding
 fondle
-frayings
 fondled
 fondles
 fainter
@@ -9154,6 +9153,7 @@ federarie
 flock
 filicide
 frenchiness
+frayings
 foolify
 formicaria
 fraena
