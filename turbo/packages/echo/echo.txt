@@ -9793,7 +9793,6 @@ estampede
 estang
 ethnographist
 extincteur
-eatables
 enanthema
 estats
 eternise
@@ -10437,6 +10436,7 @@ emplume
 erstwhile
 etypic
 equiponderation
+eatables
 enoplan
 effluviums
 ericius
