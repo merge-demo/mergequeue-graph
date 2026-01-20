@@ -4943,7 +4943,6 @@ excreation
 exencephalia
 ebonises
 exiguous
-endship
 essentia
 exul
 effuses
@@ -7443,6 +7442,7 @@ epitaphs
 epibenthic
 eclectist
 extricated
+endship
 eryx
 ephialtes
 encipherments
