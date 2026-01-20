@@ -9741,6 +9741,7 @@ ammochaetae
 apophonies
 amalgamate
 ambolic
+antigrowth
 adjutory
 antimonarchical
 anamesite
@@ -15279,7 +15280,6 @@ antigravitational
 angiemphraxis
 automobiling
 antigravity
-antigrowth
 affectible
 anatomizes
 aminosis
