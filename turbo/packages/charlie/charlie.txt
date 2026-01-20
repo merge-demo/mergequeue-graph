@@ -19550,7 +19550,6 @@ coltpixy
 coltsfoot
 cristineaux
 coltsfoots
-captivities
 coluber
 colubrinae
 colubrine
@@ -21607,6 +21606,7 @@ callot
 condensary
 counteroffensives
 crustless
+captivities
 condensaries
 condensates
 cultivars
