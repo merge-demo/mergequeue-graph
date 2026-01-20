@@ -9996,7 +9996,6 @@ gypsyisms
 gentlemanship
 gorgonised
 geomys
-gouaches
 gamba
 garlandwise
 geochrony
@@ -10791,6 +10790,7 @@ gadoidea
 geochronologic
 gareth
 gynomonoecious
+gouaches
 gilbert
 glyptography
 gewgawy
