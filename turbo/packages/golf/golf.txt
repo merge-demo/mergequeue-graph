@@ -4673,7 +4673,6 @@ gifting
 giraffes
 generis
 gastraeas
-guzmania
 guanacos
 gallinula
 gynodioecism
@@ -10611,6 +10610,7 @@ gloomiest
 gartering
 ghoul
 gunpower
+guzmania
 gasping
 gentled
 gimmickry
