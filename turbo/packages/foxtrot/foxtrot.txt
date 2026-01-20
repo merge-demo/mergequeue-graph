@@ -1567,7 +1567,6 @@ foreprepare
 filechar
 ferruminate
 faucitis
-faveolus
 forconceit
 fleuronee
 foochow
@@ -4001,6 +4000,7 @@ forasmuch
 fissural
 frettiest
 feudalise
+faveolus
 fingram
 fossilisable
 feds
