@@ -7461,7 +7461,6 @@ gonorrhoea
 groundwater
 gazing
 gulpy
-gladiatory
 goura
 glyphography
 gonad
@@ -8102,6 +8101,7 @@ gorsedd
 galactic
 grimed
 gibsons
+gladiatory
 gastrolavage
 gudebrother
 gallygaskins
