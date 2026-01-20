@@ -1282,6 +1282,7 @@ gestation
 garefowl
 gyrene
 garetta
+guessworker
 gnawingly
 gargalize
 grump
@@ -6085,7 +6086,6 @@ gude
 galga
 guffy
 geogen
-guessworker
 gravities
 goodby
 gordiacean
