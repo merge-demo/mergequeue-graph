@@ -5843,6 +5843,7 @@ agential
 aquicolous
 allopatrically
 adolph
+artemia
 agenting
 agentives
 adducing
@@ -24213,7 +24214,6 @@ autolater
 advertising
 autolatry
 aguara
-artemia
 antherless
 agronomical
 autolithograph
