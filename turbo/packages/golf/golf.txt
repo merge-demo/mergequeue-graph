@@ -1095,6 +1095,7 @@ gamboge
 genitives
 gymnodiniidae
 ganister
+gyrosyn
 goriest
 giroflore
 groat
@@ -8834,7 +8835,6 @@ gastness
 gypsiologist
 groundedly
 gneisses
-gyrosyn
 guardfully
 greylag
 groundout
