@@ -2918,6 +2918,7 @@ chalcis
 cantabrian
 cantabrigian
 cantalever
+crustal
 cantaliver
 catacombs
 cackled
@@ -27092,7 +27093,6 @@ counterside
 crance
 czardoms
 counterindicate
-crustal
 concurringly
 cemental
 countersign
