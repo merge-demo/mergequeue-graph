@@ -9884,6 +9884,7 @@ enterritoriality
 ephedrin
 executes
 eduskunta
+epinglette
 epicheirema
 ectrodactylous
 epideictical
@@ -10049,7 +10050,6 @@ ensepulcher
 exode
 endoparasitism
 epipolize
-epinglette
 eurypterid
 escharine
 echidnidae
