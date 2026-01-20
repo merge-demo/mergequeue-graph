@@ -1314,6 +1314,7 @@ focimetry
 felstones
 foxtails
 flutework
+fogginess
 fructivorous
 fatefully
 fanaticise
@@ -11258,7 +11259,6 @@ farces
 frabjous
 fernando
 fallaciously
-fogginess
 flatters
 furanoid
 fricandeaus
