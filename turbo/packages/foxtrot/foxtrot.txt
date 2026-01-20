@@ -202,6 +202,7 @@ factorials
 fanons
 fatiscence
 forborne
+forestarling
 figuline
 fordoing
 faire
@@ -7503,7 +7504,6 @@ fameless
 forecast
 fertility
 fallaciousness
-forestarling
 foams
 ferial
 ferrocyanhydric
