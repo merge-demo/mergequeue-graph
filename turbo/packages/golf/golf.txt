@@ -1012,6 +1012,7 @@ gilse
 gurnetty
 grimacing
 gnomons
+gladstone
 geophilous
 guttle
 glanduliferous
@@ -9134,7 +9135,6 @@ grooming
 gardant
 grassing
 gristmilling
-gladstone
 gamogenetic
 gnathostomous
 globigerinas
