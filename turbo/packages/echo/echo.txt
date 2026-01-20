@@ -4847,7 +4847,6 @@ epitaxic
 encrustation
 elepaio
 excitoglandular
-empoisons
 ebulliometer
 eastermost
 endoderm
@@ -7265,6 +7264,7 @@ etherealize
 echiniform
 excursiveness
 emulous
+empoisons
 eimeria
 eurypygae
 enterpillar
