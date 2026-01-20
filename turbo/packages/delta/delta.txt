@@ -6773,6 +6773,7 @@ daira
 dihedrons
 diamb
 desirous
+diplopodic
 desirousness
 drily
 dented
@@ -8092,7 +8093,6 @@ demetallize
 demineralize
 denominative
 dwarfling
-diplopodic
 deidealize
 diospyraceae
 diacoelia
