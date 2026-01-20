@@ -8757,7 +8757,6 @@ flyball
 fraud
 frugality
 fumbler
-forhooie
 face
 fitchy
 forgemen
@@ -11487,6 +11486,7 @@ flamboyant
 flotant
 fructuousness
 fashery
+forhooie
 fever
 fructidor
 furunculous
