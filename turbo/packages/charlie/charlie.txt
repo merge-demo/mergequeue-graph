@@ -26538,6 +26538,7 @@ couths
 coadequate
 cargos
 cutter
+crowfeet
 conjugata
 crenelated
 cantillate
@@ -30106,7 +30107,6 @@ crower
 crowers
 conductors
 centuried
-crowfeet
 creditability
 crowhop
 cushewbird
