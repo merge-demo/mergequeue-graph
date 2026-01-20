@@ -609,7 +609,6 @@ baggyrinkle
 bactericide
 beethoven
 bidget
-bacterin
 beggiatoa
 bacteriochlorophyll
 bacteriocin
@@ -7539,6 +7538,7 @@ barleducs
 blemishment
 burses
 beverse
+bacterin
 barbets
 blastocolla
 barrelmaking
