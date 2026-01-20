@@ -21445,7 +21445,6 @@ aspectant
 aspects
 acyclically
 aspens
-asper
 amnesties
 asperate
 artefact
@@ -24710,6 +24709,7 @@ amusedly
 acalephe
 averruncator
 arteriasis
+asper
 avers
 aversant
 averseness
