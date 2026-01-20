@@ -631,7 +631,6 @@ facesaving
 falconelle
 falsifier
 frogmouths
-foveolet
 footsoldier
 floaty
 falsifying
@@ -4778,6 +4777,7 @@ flume
 fracticipita
 faunus
 fishberries
+foveolet
 flinthead
 fleay
 fainer
