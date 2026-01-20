@@ -3609,7 +3609,6 @@ embracingly
 engravement
 embraid
 emotions
-embrail
 empowers
 exactiveness
 etymologist
@@ -12943,6 +12942,7 @@ eulogiae
 expectancy
 endotherm
 ephebea
+embrail
 epistemophilia
 empathetic
 ecologist

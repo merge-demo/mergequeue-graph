@@ -7836,6 +7836,7 @@ facings
 flenses
 farnesols
 floppers
+fenman
 firestorm
 floretum
 feedway
@@ -9407,7 +9408,6 @@ frolicly
 forlore
 frescoer
 fulsomeness
-fenman
 fausant
 feminology
 fireboats
