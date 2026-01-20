@@ -5398,7 +5398,6 @@ disyoking
 dibutyrate
 deoppilant
 deceives
-deoppilate
 dep
 doss
 decolouriser
@@ -16568,6 +16567,7 @@ draft
 duler
 dragee
 disputed
+deoppilate
 dimensible
 dragger
 draggers
