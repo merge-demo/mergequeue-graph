@@ -11774,7 +11774,6 @@ enrolment
 elaphrium
 eduction
 euryon
-exaudi
 ethenoidal
 entreatable
 exaun
@@ -13881,6 +13880,7 @@ euglobulin
 equivoque
 expo
 etamine
+exaudi
 exosmosis
 emollient
 endolymphangial
