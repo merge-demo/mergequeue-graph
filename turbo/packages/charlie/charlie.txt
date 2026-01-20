@@ -9773,7 +9773,6 @@ chelydidae
 centas
 chelidonic
 chelidonin
-casule
 carefox
 chelidonium
 citolas
@@ -27042,6 +27041,7 @@ croupily
 clerking
 counterprotection
 counterpull
+casule
 counterpuncture
 counterpush
 caneva
