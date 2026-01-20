@@ -2987,6 +2987,7 @@ gorgoniacean
 gaiassa
 gaps
 goatherdess
+grainless
 guildsmen
 geomancy
 gildhalls
@@ -7313,7 +7314,6 @@ gonfalonier
 glumpiness
 guildhall
 gosports
-grainless
 gossamered
 galega
 gossamers
