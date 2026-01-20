@@ -8557,7 +8557,6 @@ allegiance
 allegiancy
 admonitor
 apodeipna
-apoharmine
 aqueduct
 abandoners
 arboricultural
@@ -9989,6 +9988,7 @@ anomy
 ambients
 ambigenal
 abounded
+apoharmine
 arboreal
 appel
 arousing
