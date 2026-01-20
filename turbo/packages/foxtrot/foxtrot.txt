@@ -8422,7 +8422,6 @@ felonsetter
 febronian
 fique
 flaucht
-furs
 fantail
 fathercraft
 fidelia
@@ -10311,6 +10310,7 @@ feaze
 foss
 fondants
 footcandles
+furs
 forewarning
 fiaunt
 fraenula
