@@ -10177,6 +10177,7 @@ bursar
 blackener
 billette
 blackens
+burnfire
 bakalei
 blackfeet
 brakeage
@@ -17721,7 +17722,6 @@ bott
 bewinged
 bellicoseness
 beknit
-burnfire
 bashaws
 buckeens
 burnish
