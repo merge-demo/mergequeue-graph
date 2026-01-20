@@ -3712,7 +3712,6 @@ acclivity
 almuerzo
 appenage
 annum
-aphorizing
 adespoton
 analemmatic
 adessenarian
@@ -9929,6 +9928,7 @@ abele
 afterbreach
 abluents
 activator
+aphorizing
 authenticities
 assayer
 anaemic
