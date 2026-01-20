@@ -3768,6 +3768,7 @@ glucke
 glirine
 galliass
 grungier
+gorst
 gastrosuccorrhea
 gibbosely
 goosepimply
@@ -10590,7 +10591,6 @@ garbanzo
 gallbladder
 glossmeter
 gadidae
-gorst
 geohydrologist
 gourmetism
 glandaceous
