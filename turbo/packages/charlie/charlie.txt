@@ -24589,6 +24589,7 @@ centigrade
 compellent
 choleuria
 carbonate
+culmiferous
 chiggak
 cypripedium
 copingstone
@@ -30852,7 +30853,6 @@ cosuretyship
 casco
 causus
 committable
-culmiferous
 culminal
 compounders
 cliqueiest

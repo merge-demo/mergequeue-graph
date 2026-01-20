@@ -655,7 +655,6 @@ eclipses
 efts
 eudaemonistic
 ephraimitic
-epilogate
 embowment
 eubasidii
 elmiest
@@ -11480,6 +11479,7 @@ exhibited
 expended
 electromyogram
 emendate
+epilogate
 engouled
 evince
 enalid
