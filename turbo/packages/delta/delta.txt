@@ -281,7 +281,6 @@ dreadnaught
 docken
 debugged
 diarthroses
-doliolidae
 diploperistomic
 diagraming
 dahabeahs
@@ -17181,6 +17180,7 @@ dansants
 daffiest
 dinnerly
 decachord
+doliolidae
 dreary
 decorums
 disentrammel
