@@ -3402,6 +3402,7 @@ erinize
 embassadress
 exumbral
 elaeocarpus
+epistemonic
 elaine
 embassy
 eustomatous
@@ -7118,7 +7119,6 @@ effectuation
 endocervical
 envolume
 embarment
-epistemonic
 eucaryote
 extraequilibrium
 excandescence
