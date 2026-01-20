@@ -5710,6 +5710,7 @@ gaskins
 guanyl
 grieshuckle
 gyrolite
+geelbeck
 gurus
 gratia
 gammons
@@ -7161,7 +7162,6 @@ gospoda
 gillotage
 granuloma
 gonomery
-geelbeck
 grassier
 galactophorous
 grattoirs
