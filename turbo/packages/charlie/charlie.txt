@@ -587,6 +587,7 @@ commilitant
 catalineta
 caducean
 caducecei
+clupeiform
 caducei
 cinofoil
 caduceus
@@ -10300,7 +10301,6 @@ chickamauga
 chickasaw
 catechumenically
 chickees
-clupeiform
 crepusculine
 chickell
 chicken
