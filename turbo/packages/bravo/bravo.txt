@@ -5604,7 +5604,6 @@ blepharal
 bewigs
 barbitone
 businessmen
-bardes
 byelaws
 bedeen
 busings
@@ -6015,6 +6014,7 @@ berobed
 bemix
 bucerotidae
 blastoporic
+bardes
 beautifulness
 bellow
 bemoan
