@@ -2126,6 +2126,7 @@ guillermo
 gazette
 ginnet
 gumshoing
+gallywasp
 gymnolaematous
 giunta
 gunships
@@ -5844,7 +5845,6 @@ goliards
 gallinaceous
 graphometrist
 ganglionary
-gallywasp
 gyle
 glucinium
 genteelest
