@@ -4158,7 +4158,6 @@ dribs
 decimal
 deodorisation
 doorjamb
-detectible
 delphacidae
 disincorporated
 dogcart
@@ -12941,6 +12940,7 @@ disoccluding
 deepwatermen
 dairy
 disimprovement
+detectible
 derencephalus
 deutoplasmic
 desoxyribonucleic
