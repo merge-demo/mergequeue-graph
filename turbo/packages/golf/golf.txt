@@ -3869,7 +3869,6 @@ glarily
 galeoid
 gravidae
 goral
-goslet
 glossem
 geminated
 glens
@@ -6333,6 +6332,7 @@ greentail
 gonake
 grotesqueries
 gradating
+goslet
 goethian
 gam
 groceries
