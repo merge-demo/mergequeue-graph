@@ -7276,7 +7276,6 @@ alypine
 animalise
 africander
 afford
-architectural
 albe
 awmbrie
 anglesite
@@ -9201,6 +9200,7 @@ adenogenous
 atomics
 antiparliamentarian
 argentamin
+architectural
 autometric
 aphony
 asaraceae
