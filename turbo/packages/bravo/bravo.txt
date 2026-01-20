@@ -9528,7 +9528,6 @@ bacteria
 branchiostegite
 birthmark
 biographee
-banality
 besots
 birthnight
 birthplaces
@@ -13798,6 +13797,7 @@ bedfellowship
 basquine
 bemuffle
 bramblebush
+banality
 blabberer
 butters
 biocides
