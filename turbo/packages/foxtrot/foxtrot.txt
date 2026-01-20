@@ -9197,7 +9197,6 @@ feldspathose
 flosh
 fastigious
 fusing
-fragments
 foresighted
 fornaxid
 fishbed
@@ -9572,6 +9571,7 @@ frizzing
 fraternality
 fortifications
 fivestones
+fragments
 ferrotyper
 forhooy
 fothering
