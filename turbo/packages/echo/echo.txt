@@ -8787,6 +8787,7 @@ endobronchial
 eldmother
 extracurial
 elide
+exteriorate
 ensellure
 egritude
 esteems
@@ -12032,7 +12033,6 @@ egestions
 enlivenment
 enwwove
 excoriations
-exteriorate
 epiclike
 enforcible
 elflike
