@@ -220,7 +220,6 @@ biddies
 birodo
 bumpy
 bestraw
-baccilli
 baccivorous
 bach
 bibliograph
@@ -12185,6 +12184,7 @@ baptist
 barbarisms
 bolivians
 bolk
+baccilli
 bartholinitis
 bolly
 beretta
