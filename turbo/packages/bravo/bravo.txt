@@ -1471,7 +1471,6 @@ bastardise
 balkiest
 byronize
 balking
-budgy
 backbiter
 boyarisms
 blighter
@@ -12199,6 +12198,7 @@ besit
 brevis
 bacchides
 broomcorn
+budgy
 brimstone
 blamable
 bollock
