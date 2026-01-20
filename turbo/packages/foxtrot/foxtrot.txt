@@ -9495,6 +9495,7 @@ finiteness
 filea
 frumpiness
 fringier
+firmarius
 finiglacial
 furcilia
 flitches
@@ -9625,7 +9626,6 @@ fecklessly
 feliform
 fulcrumage
 flabrum
-firmarius
 freewheelingness
 forfoughen
 facsimiles
