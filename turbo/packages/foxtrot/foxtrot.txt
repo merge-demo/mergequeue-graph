@@ -8556,7 +8556,6 @@ fivepence
 frownful
 foraminule
 featherer
-frogtongue
 futurities
 fasciation
 ferules
@@ -8770,6 +8769,7 @@ fjerding
 falcopern
 fetologist
 fliped
+frogtongue
 forwelk
 foenngreek
 flossification
