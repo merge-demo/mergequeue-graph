@@ -17541,7 +17541,6 @@ crucifix
 cohoshes
 colloid
 coccaceous
-coccal
 conducible
 coccerin
 corr
@@ -23313,6 +23312,7 @@ consumedly
 consumeless
 corkiness
 consumer
+coccal
 consumerist
 consumes
 catamnestic
