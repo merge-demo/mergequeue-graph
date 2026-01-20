@@ -12535,7 +12535,6 @@ extoolitic
 esonarthex
 enameler
 electrofusion
-extant
 existlessness
 epistemological
 embezzle
@@ -13303,6 +13302,7 @@ entocornea
 extracosmic
 extogenous
 estella
+extant
 encephalodialysis
 educts
 explosimeter
