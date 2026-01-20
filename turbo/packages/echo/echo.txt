@@ -980,7 +980,6 @@ epoxide
 endearments
 equisetales
 emblazing
-esophageal
 epiphora
 euphonism
 educationary
@@ -1629,6 +1628,7 @@ erythrite
 electrotyped
 equating
 earthpea
+esophageal
 encyclopedism
 eichwaldite
 eide
