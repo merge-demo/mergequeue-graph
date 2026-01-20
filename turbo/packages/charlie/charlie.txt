@@ -3047,6 +3047,7 @@ cardsharps
 calabooses
 catacorner
 crystallographic
+contrastment
 cantoris
 cantors
 cerebrational
@@ -7869,7 +7870,6 @@ cessor
 cesspit
 cesspits
 carey
-contrastment
 cesspools
 cineraceous
 congruous
