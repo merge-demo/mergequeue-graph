@@ -9090,6 +9090,7 @@ flintlike
 furdle
 funambulated
 faulkner
+fulcrumed
 frizzers
 forepoint
 foldboating
@@ -10820,7 +10821,6 @@ focometry
 fulciment
 fs
 failures
-fulcrumed
 formicarioid
 fulcruming
 feeable
