@@ -1734,7 +1734,6 @@ eyen
 etacism
 engler
 eulogisation
-enthetic
 extendedly
 epanorthoses
 enswathe
@@ -9038,6 +9037,7 @@ epibranchial
 encrinitical
 ectocyst
 erythrocytoblast
+enthetic
 explanate
 epizooty
 ebbets
