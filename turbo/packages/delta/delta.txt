@@ -6066,7 +6066,6 @@ divvied
 defalcate
 duplexs
 december
-derays
 deranges
 dualin
 detrimental
@@ -10771,6 +10770,7 @@ directdiscourse
 doyleys
 diastereoisomeric
 dulanganes
+derays
 directer
 domite
 deboist
