@@ -4823,7 +4823,6 @@ breekless
 bedspring
 benedicite
 bollix
-brazenface
 bitake
 bikh
 banners
@@ -4868,6 +4867,7 @@ borachio
 baudekins
 by
 beltwise
+brazenface
 bandcase
 baffing
 bagobo
