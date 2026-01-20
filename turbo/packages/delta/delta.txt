@@ -8017,7 +8017,6 @@ dharma
 dharmas
 dolorously
 discombobulated
-dumpies
 dharmic
 dharnas
 dhaura
@@ -12437,6 +12436,7 @@ dishonorer
 doctrinairism
 deresinize
 dishonoring
+dumpies
 discontentful
 divinizing
 debilitative
