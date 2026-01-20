@@ -4261,7 +4261,6 @@ demasculinise
 divisors
 deadening
 dermophytic
-dem
 dcolletage
 demagnetisation
 dovelet
@@ -12903,6 +12902,7 @@ dromond
 delible
 dismissal
 dismissed
+dem
 distemperate
 dismisses
 dismissing

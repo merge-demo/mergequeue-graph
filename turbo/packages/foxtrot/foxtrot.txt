@@ -3919,6 +3919,7 @@ foal
 frugalist
 feedbacks
 finest
+fubbed
 flauto
 finew
 fish
@@ -9635,7 +9636,6 @@ fathers
 fourths
 floyt
 freezy
-fubbed
 fromage
 foredivine
 frocked
