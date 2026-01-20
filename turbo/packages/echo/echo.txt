@@ -4858,7 +4858,6 @@ extrapolates
 electrodialyzer
 englishly
 elderberries
-eggers
 ensured
 entablements
 excisions
@@ -12135,6 +12134,7 @@ energise
 elasticin
 exuviating
 electroshock
+eggers
 exploits
 ethnogeography
 etageres
