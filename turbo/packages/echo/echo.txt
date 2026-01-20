@@ -1348,7 +1348,6 @@ eucalyptol
 echelon
 examinative
 efficacy
-ethene
 efficacies
 endochylous
 exhortation
@@ -12357,6 +12356,7 @@ exhalents
 endocarditic
 etude
 entermise
+ethene
 exhales
 elihu
 elfins
