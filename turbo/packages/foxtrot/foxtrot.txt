@@ -10459,6 +10459,7 @@ fragrant
 fermatian
 fungitoxic
 factionalist
+foyer
 fribblers
 ferruling
 farrant
@@ -11286,7 +11287,6 @@ florikan
 fersmite
 fleming
 fledging
-foyer
 furcate
 fenagled
 fusspot
