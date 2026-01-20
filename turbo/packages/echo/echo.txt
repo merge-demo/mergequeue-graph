@@ -6906,6 +6906,7 @@ entoptic
 entoptics
 evections
 ephelis
+exclaims
 expense
 embargoed
 evangelicality
@@ -11977,7 +11978,6 @@ excitosecretory
 excitovascular
 enamouring
 exclaiming
-exclaims
 epitenon
 exclamative
 epithermally
