@@ -16035,6 +16035,7 @@ demiflouncing
 decompensated
 duryodhana
 distally
+declare
 doublethink
 driveline
 drainboard
@@ -17460,7 +17461,6 @@ droughts
 dominium
 drouket
 dermatographic
-declare
 dendrochronologically
 damascener
 diagrammatician
