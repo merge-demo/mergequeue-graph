@@ -2089,6 +2089,7 @@ felicitator
 frightened
 floria
 foredefine
+footgear
 fainty
 fesapo
 framea
@@ -4371,7 +4372,6 @@ fiancees
 feirie
 fleta
 fishfinger
-footgear
 fetters
 fl
 frenches
