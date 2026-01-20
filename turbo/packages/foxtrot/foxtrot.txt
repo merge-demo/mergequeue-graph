@@ -4744,7 +4744,6 @@ freshened
 fooling
 flaggy
 formicated
-foaly
 forfeiting
 fraudful
 frontoorbital
@@ -9550,6 +9549,7 @@ fluorid
 flatette
 figureless
 final
+foaly
 fluter
 freebie
 frescos
