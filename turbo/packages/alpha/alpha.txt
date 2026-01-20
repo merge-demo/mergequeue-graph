@@ -10936,7 +10936,6 @@ amoebas
 asmolder
 aggregatory
 amperometric
-amoebeum
 abusion
 apologize
 azotate
@@ -20629,6 +20628,7 @@ arthrophlogosis
 abdaria
 appete
 abruptiones
+amoebeum
 arthropodal
 ambustion
 abmhos
