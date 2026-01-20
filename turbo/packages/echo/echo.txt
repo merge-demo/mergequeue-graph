@@ -13105,6 +13105,7 @@ electrochemically
 entermete
 epistolization
 excruciation
+expectative
 engages
 esophagorrhagia
 eulogize
@@ -13561,7 +13562,6 @@ ergusia
 epilogues
 exsolving
 epochs
-expectative
 exposedness
 energies
 enchannel
