@@ -3555,7 +3555,6 @@ fistlike
 forspoken
 fasnacht
 feddan
-fussle
 fairbanks
 fluorindine
 flashover
@@ -10141,6 +10140,7 @@ fitter
 fashed
 fabricant
 falcidian
+fussle
 foresing
 fief
 freycinetia
