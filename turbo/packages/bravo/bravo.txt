@@ -4474,7 +4474,6 @@ baptismal
 bestuur
 becomed
 becometh
-becomingness
 becoresh
 believable
 bankruptly
@@ -13511,6 +13510,7 @@ baccae
 blackbrush
 barometrography
 blundered
+becomingness
 bielid
 bichromate
 beleft
