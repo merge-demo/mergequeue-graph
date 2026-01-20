@@ -6028,7 +6028,6 @@ fenceful
 freebooted
 fraternate
 flocculating
-frayn
 floridity
 floriscope
 fulmina
@@ -7130,6 +7129,7 @@ frontoparietal
 footers
 fatherlandish
 forbathe
+frayn
 forebroads
 forgottenness
 fredaine
