@@ -5159,7 +5159,6 @@ enlistment
 electo
 embroider
 endoglobular
-existibility
 eagled
 ecchymoses
 embossment
@@ -8558,6 +8557,7 @@ equiaxed
 edificable
 electrocauteries
 equate
+existibility
 eburnification
 enharmonic
 earnings
