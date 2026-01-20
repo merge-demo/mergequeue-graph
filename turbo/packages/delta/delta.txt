@@ -8605,7 +8605,6 @@ dyarchies
 disjunctor
 dinge
 debugging
-dialyses
 diary
 diaglyph
 diarist
@@ -13844,6 +13843,7 @@ doable
 delphinin
 distanceless
 distancy
+dialyses
 dissimilar
 diabolarchy
 distancing
