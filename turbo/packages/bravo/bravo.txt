@@ -6600,7 +6600,6 @@ bodyplate
 beant
 bereaves
 boninesses
-boastings
 basioccipital
 berede
 berengaria
@@ -9174,6 +9173,7 @@ brickred
 biotypic
 boubou
 biotypology
+boastings
 balneotherapeutics
 biotites
 blancmanges
