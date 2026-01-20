@@ -2861,7 +2861,6 @@ epidemicalness
 eleutherios
 elytriferous
 enterotoxin
-ectosteally
 ecbasis
 expt
 endomorphic
@@ -4283,6 +4282,7 @@ euphausid
 electrochemical
 electromobile
 entangle
+ectosteally
 exosmoses
 exospores
 enacting
