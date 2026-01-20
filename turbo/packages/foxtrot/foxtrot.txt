@@ -2983,7 +2983,6 @@ flirts
 flaggelation
 forbs
 furiousness
-fossiform
 faintheartedness
 forma
 fiars
@@ -7041,6 +7040,7 @@ felones
 fumily
 frescade
 floweriest
+fossiform
 fanger
 farles
 felix
