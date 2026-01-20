@@ -841,7 +841,6 @@ belone
 balk
 bafflers
 baffling
-bafflingly
 bulbus
 bartletts
 bushelbasket
@@ -17869,6 +17868,7 @@ bestselling
 brawns
 bobotie
 blowfly
+bafflingly
 bush
 bloviate
 bushbody
