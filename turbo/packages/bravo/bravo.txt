@@ -7477,7 +7477,6 @@ balmier
 briards
 briefest
 bacchanalianly
-bated
 burrower
 breasted
 bongos
@@ -15380,6 +15379,7 @@ beanier
 beslings
 birthstone
 briza
+bated
 brigaded
 beblooded
 barkometer
