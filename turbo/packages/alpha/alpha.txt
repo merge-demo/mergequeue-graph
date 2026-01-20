@@ -769,7 +769,6 @@ acetate
 autostrada
 abridgable
 anticlassicalist
-anisotropical
 antiscia
 abitibi
 abridgement
@@ -24209,6 +24208,7 @@ apteryxes
 assuage
 ampalea
 angiocholecystitis
+anisotropical
 allachesthesia
 autolater
 advertising
