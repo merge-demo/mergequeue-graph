@@ -740,7 +740,6 @@ feoffment
 fluxion
 feministics
 fragmentate
-fertilizes
 fogscoffer
 filibegs
 fama
@@ -5904,6 +5903,7 @@ foolhardily
 falseface
 fireworks
 fumiferous
+fertilizes
 freer
 fraudlessness
 freehand
