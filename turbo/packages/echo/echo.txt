@@ -8163,6 +8163,7 @@ empirics
 exigeant
 epiphany
 enkraal
+eruca
 electrothermometer
 extinctive
 exothermal
@@ -11621,7 +11622,6 @@ elocutionary
 epitaphical
 exacting
 electroirrigation
-eruca
 electivity
 eliminations
 eburnian
