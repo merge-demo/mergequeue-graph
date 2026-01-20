@@ -8246,6 +8246,7 @@ gasteria
 graphoscope
 glycoprotein
 grinderies
+gudgeon
 gamestress
 graphotype
 grapier
@@ -10064,7 +10065,6 @@ groomish
 gigman
 galivanting
 glore
-gudgeon
 grobianism
 gauntest
 graecize
