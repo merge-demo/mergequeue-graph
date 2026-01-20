@@ -66,7 +66,6 @@ gonidiophore
 gnattier
 galeenies
 garoo
-gibbon
 gentlemanize
 gaumy
 gorcrow
@@ -9288,6 +9287,7 @@ gallowglass
 gaure
 guttera
 generale
+gibbon
 ghosted
 gigmaness
 geosyncline
