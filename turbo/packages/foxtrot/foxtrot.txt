@@ -2595,7 +2595,6 @@ finalizing
 fidawi
 fibrillation
 fiscality
-featherlight
 filthy
 feoffed
 fancily
@@ -7947,6 +7946,7 @@ fitness
 freestones
 fistulous
 flajolotite
+featherlight
 flagrantly
 femic
 frize
