@@ -3148,7 +3148,6 @@ geoscopic
 geosphere
 gapless
 geochronologist
-guardiancy
 germina
 grusian
 gynophore
@@ -9834,6 +9833,7 @@ geckotidae
 grands
 guajillo
 gallicism
+guardiancy
 gongoresque
 gips
 grousy
