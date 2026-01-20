@@ -9864,7 +9864,6 @@ alascan
 asternal
 amatembu
 attaint
-alloquial
 argean
 algine
 acromiosternal
@@ -19326,6 +19325,7 @@ amplexation
 areostyle
 areotectonics
 ambrein
+alloquial
 aminodiphenyl
 anaspidacea
 afield
