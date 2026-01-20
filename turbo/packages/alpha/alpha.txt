@@ -12065,6 +12065,7 @@ anastatus
 anastigmat
 anastigmatic
 alvah
+angeles
 alichel
 afterbreast
 acrodynia
@@ -14885,7 +14886,6 @@ activeness
 antinepotic
 abnormality
 antliate
-angeles
 anticyclically
 anticity
 anticytolysin
