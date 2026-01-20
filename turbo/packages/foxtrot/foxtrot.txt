@@ -1740,7 +1740,6 @@ fortravail
 fibrocyte
 feastfully
 finny
-forayers
 fu
 forehook
 fencibles
@@ -6018,6 +6017,7 @@ freet
 fertilize
 frizz
 flunkeyize
+forayers
 farting
 flavorfulness
 functus
