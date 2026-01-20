@@ -2577,6 +2577,7 @@ affrontedness
 acouometer
 azocoralline
 antihelminthic
+anathemas
 asphyxiating
 adjacently
 acoup
@@ -25153,7 +25154,6 @@ axiomatization
 angiomyoma
 antiduke
 antritis
-anathemas
 apertum
 alums
 advocatrice
