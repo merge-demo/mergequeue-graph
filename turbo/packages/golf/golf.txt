@@ -6190,7 +6190,6 @@ grabbings
 glyptographic
 ganglionless
 grivois
-gossipdom
 gamblesome
 gardener
 geomyidae
@@ -6217,6 +6216,7 @@ gastroenteroanastomosis
 gowkedly
 galactosan
 goatsbeard
+gossipdom
 guestimate
 gorgonacean
 gavotting
