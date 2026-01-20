@@ -617,6 +617,7 @@ eclating
 etymonic
 ellipses
 earful
+epicaridea
 excruciatingness
 empiricist
 empetrum
@@ -1091,7 +1092,6 @@ epeisodion
 esterification
 elatrometer
 electrotypes
-epicaridea
 epitrichial
 exsanguinated
 encatarrhaphy
