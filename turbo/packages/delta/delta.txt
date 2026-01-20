@@ -601,6 +601,7 @@ devotionalism
 designfully
 dextrose
 dvigu
+demitube
 damine
 disbeliever
 drek
@@ -16797,7 +16798,6 @@ drawbar
 disposability
 desisted
 decolorate
-demitube
 demirobe
 dyscrasial
 detritivorous
