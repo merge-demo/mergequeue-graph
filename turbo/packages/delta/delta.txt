@@ -4250,6 +4250,7 @@ delustering
 deceleration
 delved
 dermatopathology
+dactylioglyphy
 demimillionaire
 dysarthria
 dissemble
@@ -14008,7 +14009,6 @@ distorter
 dinosaurian
 druggister
 distorting
-dactylioglyphy
 decasualising
 distinctions
 dumbstruck
