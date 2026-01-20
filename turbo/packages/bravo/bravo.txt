@@ -4549,6 +4549,7 @@ babesia
 becurses
 becurst
 basommatophorous
+benthoscope
 becushioned
 blepharemphysema
 befogged
@@ -6291,7 +6292,6 @@ basidigitale
 barbar
 bagfuls
 bevors
-benthoscope
 bemoat
 bulgar
 benthoses
