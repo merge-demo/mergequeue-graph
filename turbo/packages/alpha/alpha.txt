@@ -17592,7 +17592,6 @@ antebath
 appendicectomies
 arriero
 abay
-appendicular
 antiapostle
 archorrhea
 amenities
@@ -18615,6 +18614,7 @@ arccos
 appomattoc
 apostume
 assiduousness
+appendicular
 anhematosis
 arch
 anteriorness
