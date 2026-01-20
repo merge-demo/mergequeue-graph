@@ -1212,7 +1212,6 @@ exoarteritis
 expletory
 extrascripturality
 epit
-euthyneural
 enneastyle
 eel
 embrowned
@@ -2576,6 +2575,7 @@ ecad
 encyclopaedian
 electrodiagnoses
 entrenched
+euthyneural
 eximious
 ethylhydrocupreine
 euphausia
