@@ -7780,7 +7780,6 @@ bant
 bimilllennia
 bagpipes
 babuism
-bursarship
 balcon
 babylonian
 batrachospermum
@@ -17439,6 +17438,7 @@ beard
 balsawood
 birdnester
 brocage
+bursarship
 bunkie
 buffi
 boccies
