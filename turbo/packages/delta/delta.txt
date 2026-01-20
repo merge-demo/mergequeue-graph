@@ -9058,7 +9058,6 @@ dictionarian
 dollying
 dropsywort
 disembattle
-dyester
 discommodity
 diluvy
 dellaring
@@ -14444,6 +14443,7 @@ demeter
 diversory
 disfiguringly
 dimethylamine
+dyester
 divert
 dioptrometer
 dasyphyllous
