@@ -4706,6 +4706,7 @@ ganglander
 gyropilot
 greenwood
 gonimolobe
+greggle
 germanophobia
 gryphite
 goad
@@ -5802,7 +5803,6 @@ geometrize
 gorgeable
 gaupus
 glissades
-greggle
 gather
 gracefullest
 greekish
