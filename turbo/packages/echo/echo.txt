@@ -4839,6 +4839,7 @@ encrinic
 encrinidae
 encrinital
 elegance
+eightfoil
 encroacher
 equalizing
 exponentiations
@@ -11889,7 +11890,6 @@ entrepreneurship
 epiphytes
 emissivity
 emends
-eightfoil
 engore
 euploeinae
 emotionalist
