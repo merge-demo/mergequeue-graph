@@ -4214,7 +4214,6 @@ drepanis
 dogvanes
 donacidae
 delubra
-deluce
 diabolonian
 delude
 dishonored
@@ -7291,6 +7290,7 @@ dalesmen
 disemploying
 dowless
 douceurs
+deluce
 determined
 dextropedal
 diphenylenimide
