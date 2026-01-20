@@ -5449,7 +5449,6 @@ gemellus
 gelding
 geneticism
 guipure
-guilds
 groundskeep
 glisk
 grangerising
@@ -8104,6 +8103,7 @@ gibsons
 gladiatory
 gastrolavage
 gudebrother
+guilds
 gallygaskins
 gazabos
 garderobe
