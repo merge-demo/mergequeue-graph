@@ -6875,7 +6875,6 @@ buckeroos
 bust
 bescramble
 barit
-brutalize
 belleek
 beggarman
 beseige
@@ -17754,6 +17753,7 @@ bretelle
 backfill
 biobibliography
 burnwood
+brutalize
 basileus
 browsage
 bravadoes
