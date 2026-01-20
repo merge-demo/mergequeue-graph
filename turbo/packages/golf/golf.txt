@@ -1008,7 +1008,6 @@ gurnetty
 grimacing
 gnomons
 gladstone
-geophilous
 guttle
 glanduliferous
 gully
@@ -8147,6 +8146,7 @@ gossipers
 geotaxy
 groomsmen
 grapeflower
+geophilous
 grapefruit
 goos
 goulash
