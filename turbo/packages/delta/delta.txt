@@ -4591,7 +4591,6 @@ demiscible
 dicebox
 denticulate
 demise
-demisecond
 demised
 depas
 didynamia
@@ -5946,6 +5945,7 @@ discommoded
 diaschistic
 dispraise
 droopy
+demisecond
 devitation
 domajigger
 diamagnetize
