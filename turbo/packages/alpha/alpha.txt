@@ -7602,6 +7602,7 @@ assertorically
 alcoholature
 annot
 alcoholdom
+affableness
 abbrev
 alcoholemia
 alcoholically
@@ -14299,7 +14300,6 @@ aftergrass
 alkahests
 adrop
 augustinianism
-affableness
 anthesterin
 antiqued
 anthicidae
