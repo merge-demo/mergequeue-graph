@@ -581,7 +581,6 @@ enhydros
 echometer
 echopractic
 examinate
-epidictic
 elitisms
 ebonise
 exobiological
@@ -9345,6 +9344,7 @@ expectedly
 earmindedness
 escalator
 excommunicable
+epidictic
 ergonomics
 encolden
 eupepsia
