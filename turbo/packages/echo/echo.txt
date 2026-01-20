@@ -2079,6 +2079,7 @@ enclosable
 enterolysis
 elasmothere
 empyocele
+ethnol
 euphoniously
 ebullioscope
 emulge
@@ -3451,7 +3452,6 @@ esterellite
 epistemologist
 evinces
 eductive
-ethnol
 ensepulchering
 enamels
 enthronement

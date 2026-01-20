@@ -3548,6 +3548,7 @@ glumella
 gourmandize
 galvanisation
 gausses
+gelatinoid
 gharnao
 glossa
 gyrencephalous
@@ -6860,7 +6861,6 @@ garrotes
 garfish
 gregarina
 gumwoods
-gelatinoid
 graticulate
 glis
 geldable
