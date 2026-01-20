@@ -1212,7 +1212,6 @@ foochowese
 fovea
 fascist
 foodservices
-forgo
 filatures
 friths
 fannon
@@ -8239,6 +8238,7 @@ freud
 forgetfulness
 forgett
 faits
+forgo
 feldspars
 fistulated
 fulltime
