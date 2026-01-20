@@ -5460,7 +5460,6 @@ flacker
 finalizations
 feminization
 fleshmonger
-fcy
 foregrounds
 fell
 flagfall
@@ -11057,6 +11056,7 @@ fixups
 functionated
 fogbow
 fructed
+fcy
 fezzy
 frowner
 frameae
