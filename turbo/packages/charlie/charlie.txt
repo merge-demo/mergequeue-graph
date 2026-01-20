@@ -13349,7 +13349,6 @@ cyclosporeae
 cleaners
 cyclostyle
 cyclostoma
-chasers
 centaurium
 ceration
 coformulator
@@ -19241,6 +19240,7 @@ colmose
 colocate
 chiquest
 colocated
+chasers
 colocephali
 coryph
 chypre
