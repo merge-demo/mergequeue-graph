@@ -3583,7 +3583,6 @@ exhibits
 epitomically
 embows
 enculturate
-enclog
 entamoeba
 encyclopaediac
 eskimoized
@@ -8569,6 +8568,7 @@ establishing
 eyebar
 endotheliomas
 endemial
+enclog
 etymologized
 electrotherapeutic
 employees
