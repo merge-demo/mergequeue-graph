@@ -17316,6 +17316,7 @@ antiagglutinant
 azido
 apostacize
 amrelle
+antheximeter
 audiometer
 auguste
 actors
@@ -17605,7 +17606,6 @@ appendiculate
 alectoris
 autovalve
 appendorontgenography
-antheximeter
 appendotome
 activist
 archenteron
