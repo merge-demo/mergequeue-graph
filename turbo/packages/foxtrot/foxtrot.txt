@@ -1120,6 +1120,7 @@ fishling
 fastback
 farfetched
 fleerish
+fingerleaf
 faussebraie
 firehalls
 figulate
@@ -10307,7 +10308,6 @@ fervorlessness
 fustilugs
 futurely
 farriers
-fingerleaf
 forecourt
 feaze
 foss
