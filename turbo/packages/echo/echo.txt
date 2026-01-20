@@ -7614,7 +7614,6 @@ epicoracoid
 exocrine
 ellachick
 exhumations
-ecclesia
 eccentricities
 elapse
 eoliths
@@ -13976,6 +13975,7 @@ embezzles
 embrocations
 egards
 emceed
+ecclesia
 embosked
 enwreathed
 endears
