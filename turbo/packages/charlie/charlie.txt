@@ -3799,7 +3799,6 @@ copemates
 carbene
 cantorian
 carbide
-classicize
 carbyl
 catchy
 carbimide
@@ -10024,6 +10023,7 @@ cherrying
 cherrylike
 cherrystone
 canephors
+classicize
 cytioderma
 cephalotripsy
 chersydridae
