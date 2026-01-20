@@ -12270,7 +12270,6 @@ anilic
 alemannian
 addability
 asthmatic
-antiblennorrhagic
 alysson
 anticipate
 anconas
@@ -14283,6 +14282,7 @@ anthemia
 archebiosis
 archflatterer
 avogram
+antiblennorrhagic
 anthemion
 anthemis
 aecidiomycetes

@@ -5914,7 +5914,6 @@ favonius
 frenchification
 frailly
 fivepins
-futileness
 frightening
 fallibility
 fortunite
@@ -8607,6 +8606,7 @@ finnochio
 functionate
 fingerfishes
 ferryage
+futileness
 faddishly
 feelers
 felt
