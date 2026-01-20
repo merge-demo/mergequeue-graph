@@ -4989,7 +4989,6 @@ fulmarus
 flapdock
 familiarized
 flowered
-fissures
 forecourse
 fatteners
 fenetre
@@ -10601,6 +10600,7 @@ fulgent
 fuddler
 foiling
 foilsman
+fissures
 fringillaceous
 fusht
 furtive
