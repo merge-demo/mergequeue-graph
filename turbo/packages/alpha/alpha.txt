@@ -8526,7 +8526,6 @@ allantoxaidin
 anthropoclimatology
 actinouranium
 allegorised
-anisogenous
 ademption
 allasch
 anticus
@@ -14650,6 +14649,7 @@ alphos
 antiboss
 attaching
 antiaquatic
+anisogenous
 acroesthesia
 antiar
 antilogarithm
