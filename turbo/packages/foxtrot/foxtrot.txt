@@ -4274,6 +4274,7 @@ fanner
 freshest
 fease
 florescence
+farfara
 forchase
 forequarters
 fluyt
@@ -8579,7 +8580,6 @@ forspent
 flocculus
 freehold
 fainters
-farfara
 floodmark
 farmplace
 forrard
