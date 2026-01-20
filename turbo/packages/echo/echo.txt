@@ -4281,7 +4281,6 @@ ejectment
 exaltedness
 euphausid
 electrochemical
-electromobile
 entangle
 ectosteally
 exosmoses
@@ -4851,6 +4850,7 @@ explete
 enjamb
 epitaxic
 encrustation
+electromobile
 elepaio
 excitoglandular
 ebulliometer
