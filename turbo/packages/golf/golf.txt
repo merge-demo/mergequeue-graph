@@ -2784,6 +2784,7 @@ gramophonist
 gyne
 gershon
 guzzledom
+gules
 guemul
 gathers
 gazettal
@@ -10331,7 +10332,6 @@ gnattiest
 grasslike
 guland
 grubstaking
-gules
 gown
 gonoph
 grot
