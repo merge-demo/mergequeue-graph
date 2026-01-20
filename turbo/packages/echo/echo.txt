@@ -2334,6 +2334,7 @@ extramoralist
 electrocardiogram
 enclear
 ever
+eobiont
 electrocardiographic
 euphuistic
 explorational
@@ -3291,7 +3292,6 @@ emanational
 enrichingly
 extrapelvic
 enosist
-eobiont
 emanatism
 euphorias
 explanatoriness
