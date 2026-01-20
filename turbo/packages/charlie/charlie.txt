@@ -9181,7 +9181,6 @@ chassepots
 chiarooscurist
 chasseurs
 creatine
-chassignite
 coachful
 chastacosta
 chattel
@@ -23693,6 +23692,7 @@ contradicts
 celeomorphae
 canoeists
 contradistinct
+chassignite
 contradistinctions
 contradistinctive
 coharmoniously
