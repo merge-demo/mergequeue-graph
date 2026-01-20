@@ -12839,7 +12839,6 @@ busera
 bedelve
 boomster
 branchiopulmonata
-boomtown
 biestings
 boardbill
 beefcake
@@ -15946,6 +15945,7 @@ beekeeper
 bucrania
 bromoprotein
 baham
+boomtown
 barbated
 bromphenol
 bathroomed
