@@ -4702,7 +4702,6 @@ detailed
 dillydallied
 democratize
 divulgence
-democratizer
 dispraised
 disentitling
 dumontiaceae
@@ -14159,6 +14158,7 @@ disanimate
 diol
 desacralize
 diapason
+democratizer
 doyst
 disulfonic
 dispread
