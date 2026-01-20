@@ -2085,7 +2085,6 @@ gnomist
 gelndesprung
 gawkhammer
 greasehorn
-gormandise
 guggles
 gimmicky
 giggledom
@@ -6854,6 +6853,7 @@ globosities
 gluconokinase
 gymsia
 gluteoinguinal
+gormandise
 gauntlets
 glucoprotein
 geaster
