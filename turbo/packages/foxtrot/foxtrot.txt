@@ -7323,7 +7323,6 @@ flabbily
 france
 foraneen
 ferrateen
-ferocious
 fluoridising
 formaldehydesulphoxylic
 fairyfloss
@@ -10586,6 +10585,7 @@ francophobe
 fulmining
 feeblebrained
 fanteeg
+ferocious
 freakouts
 filmslide
 fibrination
