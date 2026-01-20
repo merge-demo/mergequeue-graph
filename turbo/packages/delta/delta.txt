@@ -9956,6 +9956,7 @@ dimissaries
 dimitry
 decamped
 demoiselle
+duplexer
 dauded
 demonstratability
 disbecome
@@ -15219,7 +15220,6 @@ dracaenaceae
 dolichosauria
 discomposure
 dolichuric
-duplexer
 doliidae
 dolioform
 demitasses
