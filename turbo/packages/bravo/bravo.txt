@@ -15482,6 +15482,7 @@ bilboes
 breaststroker
 breadberry
 bodoni
+bummel
 banding
 babyish
 bout
@@ -17297,7 +17298,6 @@ bunts
 boniest
 bauxite
 bantams
-bummel
 bummie
 bursal
 bumming
