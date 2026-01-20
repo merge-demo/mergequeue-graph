@@ -1919,7 +1919,6 @@ goriness
 greeve
 guttiness
 garg
-gon
 galopades
 glorifiers
 gauffered
@@ -8567,6 +8566,7 @@ gawsy
 gravitic
 galline
 gretchen
+gon
 gurgeons
 guarri
 guianan
