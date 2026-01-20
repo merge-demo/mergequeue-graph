@@ -9214,6 +9214,7 @@ fissioning
 flopped
 furzetop
 fenagling
+fragmentise
 femality
 feretra
 forfend
@@ -10155,7 +10156,6 @@ frizzante
 fishyback
 fantad
 formalise
-fragmentise
 fractionalism
 frisked
 forebears
