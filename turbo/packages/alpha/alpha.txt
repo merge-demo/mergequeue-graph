@@ -18640,7 +18640,6 @@ archaeopterygiformes
 apocynaceous
 archfounder
 altincar
-alkalescent
 archaeostoma
 anisidine
 acetoamidophenol
@@ -20811,6 +20810,7 @@ aligners
 adeodatus
 antbird
 affeer
+alkalescent
 arugulas
 arui
 aroynt
