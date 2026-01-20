@@ -6809,7 +6809,6 @@ cliffy
 centennium
 cellepore
 cellfalcicula
-cyprians
 concaveness
 celliform
 cellist
@@ -25781,6 +25780,7 @@ chemopause
 corroded
 corrodibility
 centimeters
+cyprians
 communicatee
 corrodier
 corrodies
