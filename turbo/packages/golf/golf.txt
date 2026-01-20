@@ -8146,7 +8146,6 @@ groomsmen
 grapeflower
 grapefruit
 goos
-gazers
 grapelike
 gazingstock
 galeodes
@@ -9100,6 +9099,7 @@ grittle
 gobonated
 ginward
 geopolitics
+gazers
 grummel
 gambier
 groping

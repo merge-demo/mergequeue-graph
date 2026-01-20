@@ -388,7 +388,6 @@ backhouses
 baseballdom
 baht
 bullocky
-brl
 beri
 ballium
 broguish
@@ -5336,6 +5335,7 @@ breviers
 beglue
 barbola
 begnaw
+brl
 biharmonic
 borderlines
 balmy
