@@ -2165,7 +2165,6 @@ dunamis
 decarboniser
 dobsonfly
 ditching
-destine
 decarboxylization
 decandently
 difda
@@ -7340,6 +7339,7 @@ demeritorious
 detinet
 daising
 decriminalizes
+destine
 deflagration
 detinues
 dissymmetrical
