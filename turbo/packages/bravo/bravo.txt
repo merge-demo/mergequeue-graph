@@ -1211,7 +1211,6 @@ blennostatic
 bakeress
 besigh
 bootloader
-bakeries
 budling
 bersaglieri
 bakerly
@@ -9190,6 +9189,7 @@ borohydride
 balladwise
 bromcamphor
 bruja
+bakeries
 biotome
 boiler
 brothered
