@@ -2547,6 +2547,7 @@ escadrilles
 exorcist
 endocritic
 eminency
+estrogens
 eatable
 ezra
 emptiable
@@ -11252,7 +11253,6 @@ evanishes
 enterostenosis
 exsolved
 extrapoetical
-estrogens
 enmass
 eschewal
 exterrestrial
