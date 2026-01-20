@@ -1239,6 +1239,7 @@ forediscern
 fascinate
 fixator
 fissure
+ferrumination
 foredoing
 firmitude
 falcinellus
@@ -2645,7 +2646,6 @@ fabric
 falanaka
 freshes
 fluocerite
-ferrumination
 fluviatic
 father
 fraters
