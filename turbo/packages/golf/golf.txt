@@ -660,7 +660,6 @@ glower
 gantryman
 gnosticize
 genecologically
-galeated
 gunkhole
 grihyasutra
 gallantries
@@ -7961,6 +7960,7 @@ gipper
 gabbroic
 grudgment
 gasterosteoid
+galeated
 guanosine
 granada
 glazy
