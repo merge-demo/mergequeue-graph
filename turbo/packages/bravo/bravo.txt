@@ -5435,6 +5435,7 @@ bulletmaking
 blubbery
 boardmanship
 boldo
+bedding
 boatable
 becudgelling
 beetling
@@ -11666,7 +11667,6 @@ brandying
 blindfast
 boomless
 bdellatomy
-bedding
 beneficience
 bribability
 boattail
