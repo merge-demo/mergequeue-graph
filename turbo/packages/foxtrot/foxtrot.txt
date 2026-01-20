@@ -1357,6 +1357,7 @@ fervour
 fathomlessness
 funniment
 flichtered
+fishpoles
 forkable
 financiering
 faticableness
@@ -4416,7 +4417,6 @@ feste
 fantaddish
 fate
 fishpole
-fishpoles
 flueless
 flameproof
 fazed
