@@ -3549,7 +3549,6 @@ gourmandize
 galvanisation
 gausses
 gharnao
-gilbertian
 glossa
 gyrencephalous
 gambolled
@@ -4289,6 +4288,7 @@ gingerness
 guestimated
 greing
 guardee
+gilbertian
 griping
 gouging
 gurgulio
