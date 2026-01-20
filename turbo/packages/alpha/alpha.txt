@@ -11684,6 +11684,7 @@ apodidae
 anaesthetized
 anaesthetizer
 arthralgic
+antimoniuret
 adsum
 arbalester
 anaetiological
@@ -15553,7 +15554,6 @@ antimonies
 antimonium
 aboves
 abseil
-antimoniuret
 anatine
 antethem
 acetabulum
