@@ -793,7 +793,6 @@ garrotting
 gastroenteritic
 gastrular
 grazer
-glaceing
 gonia
 gambe
 gourmanderie
@@ -4061,6 +4060,7 @@ glorification
 goaling
 goneoclinic
 gipsywort
+glaceing
 gulgul
 gratifiedly
 grank
