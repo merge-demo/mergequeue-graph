@@ -4481,7 +4481,6 @@ detroiter
 demigauntlet
 doting
 disclosing
-decussis
 dendrite
 decern
 dorsilumbar
@@ -6805,6 +6804,7 @@ definition
 ducamara
 disfranchisers
 donataries
+decussis
 degenerates
 dextrocardial
 dendrograph
