@@ -12518,6 +12518,7 @@ acquiescer
 aimers
 anticonformities
 attask
+areas
 acoustician
 appendicate
 adiapneustia
@@ -15147,7 +15148,6 @@ autocatalysis
 anteconsonantal
 antievolutionist
 antiexpansion
-areas
 austrine
 antiexpressionism
 antepagment
