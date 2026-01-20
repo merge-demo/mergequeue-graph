@@ -6057,6 +6057,7 @@ gnathostomata
 gluttery
 gastrocnemial
 gypsography
+gallops
 gph
 gnats
 glutaeous
@@ -7027,7 +7028,6 @@ geomantical
 genyantrum
 greasiest
 genealogist
-gallops
 guardedness
 gooseboy
 goschen
