@@ -7018,7 +7018,6 @@ clitellum
 centauress
 centaury
 carburetted
-carnal
 chink
 checkline
 centauridium
@@ -12602,6 +12601,7 @@ chronons
 chronophotography
 chronoscopic
 chronoscopically
+carnal
 cheesier
 catechisation
 columnize
