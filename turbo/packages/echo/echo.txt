@@ -1058,7 +1058,6 @@ epistolic
 echinology
 extraposition
 elective
-edification
 exfigure
 earock
 equipoised
@@ -6125,6 +6124,7 @@ entracte
 embattles
 ethicizes
 enmove
+edification
 emusified
 ethnomusicological
 elans
