@@ -6451,6 +6451,7 @@ glimpse
 gonyoncus
 grower
 gewgaw
+grouters
 guising
 gloriously
 goldy
@@ -6708,7 +6709,6 @@ gurdfish
 gruine
 guiltlessness
 goniocraniometry
-grouters
 gaveller
 goniodoridae
 genizah
