@@ -7555,7 +7555,6 @@ bestower
 betaine
 businessman
 bevillain
-befell
 bedote
 breezeless
 banes
@@ -15315,6 +15314,7 @@ bridgemaking
 blinis
 bayous
 bejan
+befell
 benediction
 bridger
 befrumple
