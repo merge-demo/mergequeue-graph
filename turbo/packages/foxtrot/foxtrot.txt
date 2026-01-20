@@ -2047,7 +2047,6 @@ fluoridation
 flosses
 foody
 feigns
-frustrately
 fidleys
 flitch
 farouche
@@ -7574,6 +7573,7 @@ fantasticism
 fructuarius
 funiculus
 fanciers
+frustrately
 flintworker
 freezable
 fatalize
