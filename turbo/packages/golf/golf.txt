@@ -7335,6 +7335,7 @@ gougingly
 goldlike
 gratify
 gossiped
+geologized
 goodyship
 glessite
 griffon
@@ -7959,7 +7960,6 @@ galleyman
 gabblement
 gipper
 gabbroic
-geologized
 grudgment
 gasterosteoid
 guanosine

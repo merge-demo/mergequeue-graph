@@ -13977,7 +13977,6 @@ antapexes
 antapodosis
 abecedaria
 allopolyploid
-ampalaya
 altogether
 astronomien
 actualising
@@ -22152,6 +22151,7 @@ ancestries
 asthamatic
 antimacassar
 astheny
+ampalaya
 achroacyte
 ambitionless
 abjudge
