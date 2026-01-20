@@ -606,7 +606,6 @@ galbulinae
 guaranian
 glockenspiels
 glossopalatine
-grandfathership
 grieben
 guineas
 gorgoniacea
@@ -5153,6 +5152,7 @@ gangliglions
 gumboots
 gonystylaceous
 gracility
+grandfathership
 geognosist
 gleamily
 gastroduodenitis
