@@ -740,6 +740,7 @@ enclaved
 ecaudate
 epizootiologic
 echinocaris
+exsomatic
 emblematise
 evangelism
 extorsive
@@ -10134,7 +10135,6 @@ elope
 extraorbital
 epicrates
 elaborators
-exsomatic
 edgier
 emmove
 earlyish
