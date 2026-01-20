@@ -6792,6 +6792,7 @@ goodwill
 gibel
 gravilea
 glycosyls
+gat
 gonochorismal
 geryonia
 garle
@@ -7495,7 +7496,6 @@ gloomfully
 glitch
 guessable
 glottalized
-gat
 governed
 gotten
 graecizing
