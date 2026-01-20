@@ -18573,7 +18573,6 @@ coction
 coyish
 coleseeds
 chrometophobia
-coyishness
 cumbha
 conculcation
 cunner
@@ -30212,6 +30211,7 @@ convivialize
 carree
 crudely
 coregonus
+coyishness
 clinicopathologic
 crunk
 crudest

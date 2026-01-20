@@ -3057,7 +3057,6 @@ bdellostomatidae
 baruria
 barvel
 bunnell
-baleful
 beduin
 brainwashing
 braza
@@ -13137,6 +13136,7 @@ bube
 brucite
 borosalicylic
 borotungstate
+baleful
 borough
 bouquetin
 biseriate
