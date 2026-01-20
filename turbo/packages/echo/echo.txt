@@ -1360,6 +1360,7 @@ eurasiatic
 exhalent
 ennead
 epeidia
+enterectomies
 epilaryngeal
 enneandrous
 eubranchipus
@@ -13242,7 +13243,6 @@ explicably
 expensive
 explicanda
 enneacontahedral
-enterectomies
 exult
 evasiveness
 equiliria
