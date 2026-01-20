@@ -9677,6 +9677,7 @@ esquisse
 exship
 echoed
 eversible
+endocranium
 extima
 easing
 eventuated
@@ -13235,7 +13236,6 @@ explement
 envine
 edacity
 enchiladas
-endocranium
 ephebeum
 episternite
 envisioned
