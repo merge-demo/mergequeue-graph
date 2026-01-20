@@ -10961,6 +10961,7 @@ chela
 chironym
 caecum
 chironomid
+cuproid
 chastised
 chaparajos
 coinhabit
@@ -31537,7 +31538,6 @@ cursorary
 cundite
 cursory
 cratered
-cuproid
 cursorily
 crystallizability
 cursoriness
