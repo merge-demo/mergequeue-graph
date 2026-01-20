@@ -12896,6 +12896,7 @@ bureaucratese
 boot
 big
 bhandari
+balneographer
 bootees
 battlemented
 blunging
@@ -16894,7 +16895,6 @@ baret
 betorn
 birostrated
 baronages
-balneographer
 bedimpling
 bootheel
 bellona
