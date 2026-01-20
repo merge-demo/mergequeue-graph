@@ -7673,6 +7673,7 @@ ennomic
 eriocaulaceous
 effluxion
 estrus
+emblazer
 esprise
 extruder
 ellipticalness
@@ -10701,7 +10702,6 @@ euhemerist
 erichthus
 exothecium
 emacerate
-emblazer
 enarthrodia
 ecologic
 euhyostylic
