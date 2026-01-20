@@ -6815,7 +6815,6 @@ desmodontidae
 danuri
 desmogenous
 decennia
-desmography
 desmoids
 disproportionalness
 draughted
@@ -14066,6 +14065,7 @@ distressing
 deglamorization
 distressingly
 devast
+desmography
 dunlap
 depravation
 dextrotropous
