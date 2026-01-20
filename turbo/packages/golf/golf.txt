@@ -368,7 +368,6 @@ grade
 gemmula
 gilet
 gildedness
-gantlets
 gley
 graphed
 gasogenic
@@ -6651,6 +6650,7 @@ genocides
 gonfalcon
 glossopyrosis
 generational
+gantlets
 gong
 gekkota
 gynodioeciously
