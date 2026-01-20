@@ -9585,7 +9585,6 @@ bedismal
 beneficently
 bonapartist
 biscuitroot
-burnets
 biscuits
 bhutia
 bromides
@@ -16267,6 +16266,7 @@ boosted
 bedighted
 bilithon
 butterflyfish
+burnets
 brownness
 blackit
 boreens
