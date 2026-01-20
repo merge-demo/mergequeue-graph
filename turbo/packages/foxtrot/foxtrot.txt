@@ -1455,6 +1455,7 @@ filasse
 firmness
 futhork
 fatuitous
+fiard
 foothil
 familiarise
 floorwalkers
@@ -1652,7 +1653,6 @@ faxes
 folkway
 featishly
 fazes
-fiard
 flophouse
 fied
 foreannounce
