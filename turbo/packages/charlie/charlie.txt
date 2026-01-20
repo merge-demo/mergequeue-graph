@@ -2032,6 +2032,7 @@ critickin
 criticised
 cassique
 camises
+chloroaurite
 cytosin
 cognominally
 camisole
@@ -11279,7 +11280,6 @@ conservation
 chloroamide
 chloroamine
 chloroaurate
-chloroaurite
 chlorobenzene
 centripetency
 chlorocalcite
