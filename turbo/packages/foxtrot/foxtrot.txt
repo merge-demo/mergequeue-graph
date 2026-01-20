@@ -3535,7 +3535,6 @@ frenchism
 fogie
 flamboyance
 funmaker
-fencelet
 faradises
 filemaker
 flymen
@@ -7403,6 +7402,7 @@ filicides
 fillemot
 faience
 firefall
+fencelet
 forevalue
 firstship
 forcibility
