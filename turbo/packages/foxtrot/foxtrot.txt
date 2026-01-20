@@ -2004,6 +2004,7 @@ fulvid
 feedstock
 floccosely
 firespout
+fact
 forerake
 fitched
 flossflower
@@ -4928,7 +4929,6 @@ foraminate
 fascet
 fiance
 filthified
-fact
 forestcraft
 fringiest
 focused
