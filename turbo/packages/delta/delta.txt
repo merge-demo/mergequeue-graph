@@ -5230,7 +5230,6 @@ degasifier
 damme
 dispositioned
 diatomaceoid
-denouncers
 detestable
 detinue
 dentale
@@ -18606,6 +18605,7 @@ dustheap
 dedo
 daincha
 dustless
+denouncers
 droguet
 diakonikon
 dustour
