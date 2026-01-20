@@ -7046,7 +7046,6 @@ efficiency
 enlinked
 enshell
 entoiling
-enunciability
 etymologer
 euphemous
 ebonising
@@ -14139,6 +14138,7 @@ enplanement
 emulates
 enlard
 entocuneiform
+enunciability
 excussion
 endearment
 epitaphic
