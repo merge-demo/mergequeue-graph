@@ -1011,6 +1011,7 @@ enslavedness
 emblem
 epipleura
 elberta
+efl
 expeditions
 exadversum
 erugo
@@ -1476,7 +1477,6 @@ escadrille
 effusively
 entasias
 effuviate
-efl
 efph
 erringly
 entocondylar

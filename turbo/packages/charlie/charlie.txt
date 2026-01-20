@@ -4576,7 +4576,6 @@ carny
 clarinos
 capsule
 cotoxo
-clapperdudgeon
 carnied
 carniferrin
 colorcast
@@ -31319,6 +31318,7 @@ conscionably
 curd
 considerately
 commemorize
+clapperdudgeon
 circumoral
 claudent
 curdled
