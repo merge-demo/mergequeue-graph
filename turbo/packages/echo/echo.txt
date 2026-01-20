@@ -8992,7 +8992,6 @@ elenchical
 enterokinesia
 enormious
 erythemas
-earing
 eves
 eunuchized
 etiolize
@@ -9765,6 +9764,7 @@ equalisation
 ejectamenta
 extenuator
 emplanement
+earing
 extracellular
 essoinment
 essorant
