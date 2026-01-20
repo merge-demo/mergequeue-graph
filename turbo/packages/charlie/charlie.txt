@@ -20869,7 +20869,6 @@ composer
 composita
 chromous
 composited
-compositely
 composites
 compositing
 compositional
@@ -21550,6 +21549,7 @@ carpenteria
 conchinine
 concubine
 chasteningly
+compositely
 calapite
 concubines
 cottonless
