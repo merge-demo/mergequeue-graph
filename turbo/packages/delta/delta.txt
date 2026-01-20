@@ -9451,7 +9451,6 @@ diamorphosis
 deducibleness
 demiplate
 despondently
-digenite
 digerent
 dereistically
 doedicurus
@@ -15758,6 +15757,7 @@ duodecane
 dormitive
 dormitories
 dissenting
+digenite
 dimwits
 dormouse
 digallic
