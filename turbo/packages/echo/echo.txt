@@ -10068,6 +10068,7 @@ earclip
 etheostominae
 epitonium
 elytroid
+endgame
 extrinsic
 exasperates
 esthetician
@@ -13874,7 +13875,6 @@ emandibulate
 extraparental
 extroverts
 encyst
-endgame
 extraneity
 ethiop
 executancy
