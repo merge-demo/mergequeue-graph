@@ -8193,6 +8193,7 @@ fringes
 fairyologist
 flaskets
 felines
+flapdragon
 festering
 fluidize
 floroscope
@@ -9857,7 +9858,6 @@ flavanthrone
 fogeys
 furloughs
 forepointer
-flapdragon
 feridgi
 forefelt
 fluviomarine
