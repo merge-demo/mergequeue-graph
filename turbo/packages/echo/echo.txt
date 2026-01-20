@@ -1143,7 +1143,6 @@ edplot
 emplore
 edrioasteroidea
 epipany
-epaulette
 ejaculators
 expectancies
 edriophthalmatous
@@ -3735,6 +3734,7 @@ etuvee
 embryoism
 embryon
 ethnish
+epaulette
 endoceratite
 eyeglasses
 ejulate
