@@ -1485,6 +1485,7 @@ fundholder
 flamer
 foreshows
 fabulate
+funt
 flytes
 fluorinations
 flaillike
@@ -4349,7 +4350,6 @@ fishboats
 flubdubberies
 fishbolts
 flechette
-funt
 floorshifts
 frenums
 fluoaluminic
