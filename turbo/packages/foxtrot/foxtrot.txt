@@ -3145,7 +3145,6 @@ filing
 foreright
 fanglike
 farreate
-ferrugo
 failingly
 fingerpost
 frighty
@@ -9576,6 +9575,7 @@ fragments
 ferrotyper
 forhooy
 fothering
+ferrugo
 flanger
 flagellant
 finalism
