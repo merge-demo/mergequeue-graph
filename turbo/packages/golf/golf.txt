@@ -2526,7 +2526,6 @@ generalistic
 gaudier
 glen
 gumption
-gingle
 grue
 generations
 ghylls
@@ -6056,6 +6055,7 @@ gemuetlich
 grizelin
 gonzo
 gallature
+gingle
 grinding
 gnathostomata
 gluttery
