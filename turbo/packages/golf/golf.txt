@@ -1513,6 +1513,7 @@ geratology
 gasman
 guilty
 ghetto
+galvanometers
 gillnet
 gasmen
 germiest
@@ -7383,7 +7384,6 @@ gossy
 gepeoo
 grantsmen
 goosefoot
-galvanometers
 giga
 granduncle
 gnatproof
