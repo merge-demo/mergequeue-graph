@@ -19846,7 +19846,6 @@ comestion
 cometary
 cryobiology
 cometaria
-cabulla
 closh
 cometlike
 cometography
@@ -23926,6 +23925,7 @@ chirl
 conusance
 conusant
 cheremiss
+cabulla
 conuzee
 cicatricose
 chromatospheric
