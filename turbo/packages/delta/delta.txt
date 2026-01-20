@@ -1666,6 +1666,7 @@ dichastic
 dandle
 deanships
 dothiorella
+diallagite
 dehull
 diasynthesis
 dwarfness
@@ -8394,7 +8395,6 @@ disnaturing
 detentes
 diallagic
 dogmaticalness
-diallagite
 dt
 dishonorably
 deflower
