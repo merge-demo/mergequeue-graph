@@ -3185,7 +3185,6 @@ expwy
 emmeleia
 elopes
 elops
-elicit
 emission
 epiphanized
 everything
@@ -3542,6 +3541,7 @@ epigonus
 entrefer
 embolize
 eupeptic
+elicit
 epididymal
 entocone
 enervator
