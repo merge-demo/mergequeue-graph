@@ -1481,7 +1481,6 @@ glumly
 gunmaker
 gymnarchus
 gluconate
-grazing
 galosh
 guacamole
 gastrulae
@@ -2416,6 +2415,7 @@ grocers
 gulper
 guativere
 graphotypic
+grazing
 geologian
 gesticulation
 goas
