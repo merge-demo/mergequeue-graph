@@ -1260,6 +1260,7 @@ glenwood
 granage
 ged
 goethites
+genetics
 gromatical
 graptolithina
 gyrator
@@ -2628,7 +2629,6 @@ gluteal
 glossosteresis
 geoagronomic
 geniality
-genetics
 gastrolysis
 gudgeoned
 glow
