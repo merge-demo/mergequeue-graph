@@ -4418,6 +4418,7 @@ freeloads
 febricity
 fishplate
 feste
+fantaddish
 fate
 fishpole
 fishpoles
@@ -8955,7 +8956,6 @@ foreshadower
 fourrageres
 fox
 fears
-fantaddish
 fuster
 freakishness
 fourrier
