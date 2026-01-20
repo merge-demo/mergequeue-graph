@@ -6824,7 +6824,6 @@ disproportionalness
 draughted
 drawgear
 dupla
-diagnosticians
 desmoncus
 decolonize
 dissention
@@ -11594,6 +11593,7 @@ demophobe
 digester
 dysoxidizable
 divulgator
+diagnosticians
 dishier
 disposable
 discontentedness
