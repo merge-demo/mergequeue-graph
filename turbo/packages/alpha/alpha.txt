@@ -5163,7 +5163,6 @@ apyrexia
 ambilaevous
 antiquartan
 aphididae
-antichlor
 achen
 affaite
 affect
@@ -7227,6 +7226,7 @@ asexualising
 abattises
 alaskas
 alaskite
+antichlor
 alastor
 alate
 alated
