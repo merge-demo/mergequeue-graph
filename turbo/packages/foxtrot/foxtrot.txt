@@ -620,7 +620,6 @@ frazil
 fluctiferous
 flavorless
 fumers
-frighter
 fragaria
 floodways
 fleshes
@@ -9775,6 +9774,7 @@ feasance
 freshmen
 fanners
 fostering
+frighter
 floorwalker
 fresison
 fraudless
