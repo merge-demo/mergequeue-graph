@@ -2373,6 +2373,7 @@ autosymbolic
 abortionist
 abator
 adjection
+alineation
 acrospired
 asseverates
 acinaciform
@@ -8542,7 +8543,6 @@ allatrate
 abaction
 autosuggestibility
 admitty
-alineation
 alkoxid
 architectonically
 atmophile
