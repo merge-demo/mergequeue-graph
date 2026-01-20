@@ -4903,7 +4903,6 @@ emulsifiers
 earnestful
 ephemerally
 enterocele
-endearingness
 eglestonite
 ecliptics
 estrada
@@ -8814,6 +8813,7 @@ endocolpitis
 elaborately
 erecters
 exobasidiaceae
+endearingness
 erectile
 egyptology
 endarteritis
