@@ -1946,6 +1946,7 @@ grossing
 gaultherin
 gaunch
 gangers
+goosander
 gruelly
 genealogically
 greywacke
@@ -7805,7 +7806,6 @@ globs
 graphospasm
 gerents
 gulaman
-goosander
 gooroo
 girding
 grumble
