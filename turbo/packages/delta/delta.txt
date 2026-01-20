@@ -17733,7 +17733,6 @@ demipauldron
 discriminable
 durables
 disinvest
-dedifferentiation
 decanonization
 dubbins
 dynamometamorphic
@@ -17819,6 +17818,7 @@ ducklet
 ducklings
 disculpation
 deputator
+dedifferentiation
 dragging
 duckmeat
 duckpin
