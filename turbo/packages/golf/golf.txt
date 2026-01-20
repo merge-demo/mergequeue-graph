@@ -2555,6 +2555,7 @@ gabbards
 gristy
 gangliasthenia
 goosefish
+galvo
 granodiorite
 giltheads
 gibber
@@ -8944,7 +8945,6 @@ germless
 gastrodidymus
 gridelin
 griding
-galvo
 greyhens
 greenbul
 glenlivet
