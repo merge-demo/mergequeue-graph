@@ -6435,6 +6435,7 @@ folkcraft
 frenchize
 fordy
 fellatrix
+fastness
 forsar
 flurn
 flurried
@@ -7790,7 +7791,6 @@ frogging
 fuzed
 frounces
 forenote
-fastness
 feltyflier
 fleamy
 felonwood
