@@ -1583,7 +1583,6 @@ daikering
 doryanthes
 disinfector
 deadwork
-dukeship
 deaerated
 dorsum
 deaf
@@ -12351,6 +12350,7 @@ dishable
 debitable
 discerptibleness
 discredited
+dukeship
 dutchess
 detracted
 dactyl
