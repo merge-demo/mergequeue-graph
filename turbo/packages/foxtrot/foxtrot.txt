@@ -365,7 +365,6 @@ fluids
 flowerily
 fattiness
 flusterer
-faints
 forcedness
 franklandite
 from
@@ -7062,6 +7061,7 @@ fraken
 fledge
 fedayeen
 ferryboats
+faints
 fascinating
 fleapit
 factious
