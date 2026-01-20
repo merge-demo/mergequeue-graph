@@ -530,6 +530,7 @@ erythrocytoschisis
 electrified
 excursuses
 echinodorus
+edger
 est
 endotheliotoxin
 echinoid
@@ -1030,7 +1031,6 @@ enhypostatic
 exsheath
 edged
 eidolon
-edger
 edgeshot
 edgeway
 embalmment
