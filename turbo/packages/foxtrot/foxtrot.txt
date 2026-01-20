@@ -4108,7 +4108,6 @@ fontanel
 fratriage
 fipples
 floscule
-firca
 foisted
 ferrosilicon
 fluorometry
@@ -10480,6 +10479,7 @@ forcite
 frostbitten
 frosty
 frictionable
+firca
 feuillet
 fantasticality
 frostily
