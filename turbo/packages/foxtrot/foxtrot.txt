@@ -247,6 +247,7 @@ founder
 feoffeeship
 foetors
 faders
+fainaigue
 foamy
 firedamp
 fadge
@@ -2644,7 +2645,6 @@ fluviatic
 father
 fraters
 feedings
-fainaigue
 froufrou
 flickering
 foxfishes
