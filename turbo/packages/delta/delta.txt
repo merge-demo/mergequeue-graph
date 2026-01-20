@@ -6298,7 +6298,6 @@ diaplasis
 dejectory
 dermobranchiate
 dangles
-diagrammatical
 dermogastric
 dean
 dermoidectomy
@@ -11971,6 +11970,7 @@ destabilizing
 disemboweling
 delundung
 disaffirm
+diagrammatical
 disembowelments
 dermatalgia
 disparition
