@@ -6017,6 +6017,7 @@ disacknowledgement
 doughbelly
 doover
 diopsis
+diplomats
 deputing
 diaconicon
 dolous
@@ -10609,7 +10610,6 @@ discogastrula
 deaminized
 diauli
 dissatisfying
-diplomats
 dysporomorph
 diphtheritic
 diplonema
