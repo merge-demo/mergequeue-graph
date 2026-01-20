@@ -4967,7 +4967,6 @@ aeronomical
 anisogametic
 aeronomics
 anthropopathia
-armrest
 amphisbaenid
 argentate
 acaridan
@@ -21577,6 +21576,7 @@ aurorean
 aspidistras
 apprehensibly
 aspidium
+armrest
 aspidobranchiata
 abjectness
 aspidobranchiate
