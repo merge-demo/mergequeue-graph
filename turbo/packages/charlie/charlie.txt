@@ -3786,7 +3786,6 @@ carbaryls
 captress
 ciconia
 chloroethylene
-carbazic
 carbazylic
 chlorpikrin
 cheerios
@@ -16531,6 +16530,7 @@ cloisonne
 convival
 carrigeen
 cloisonnism
+carbazic
 cockaded
 cloistered
 cloisterer
