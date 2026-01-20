@@ -2730,7 +2730,6 @@ arak
 anabasin
 acritan
 acrite
-asthenobiosis
 astringent
 arriba
 antidysenteric
@@ -16141,6 +16140,7 @@ amassers
 afterchance
 akov
 ashcan
+asthenobiosis
 antisine
 alcedines
 abiotically
