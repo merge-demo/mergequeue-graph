@@ -3288,7 +3288,6 @@ babbler
 bloodiest
 basions
 backstabbed
-bronzes
 branchiostegan
 beadlery
 backpacking
@@ -13326,6 +13325,7 @@ becrimson
 botella
 botels
 bebrave
+bronzes
 buss
 bezante
 basilosaurus
