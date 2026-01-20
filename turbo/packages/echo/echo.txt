@@ -251,7 +251,6 @@ eastabout
 eerisome
 easted
 expiry
-expressivism
 eucalyptole
 eightsmen
 electrostatic
@@ -1283,6 +1282,7 @@ effect
 endocardiac
 excecate
 exopeptidase
+expressivism
 effective
 euryphagous
 epimachinae
