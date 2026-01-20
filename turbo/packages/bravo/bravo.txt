@@ -10606,7 +10606,6 @@ boresomely
 besayle
 blastomas
 bereft
-bestial
 bohemia
 breakfaster
 blaunner
@@ -12820,6 +12819,7 @@ bibliophobia
 bondswoman
 bootes
 broke
+bestial
 basiliscine
 blink
 barnabite

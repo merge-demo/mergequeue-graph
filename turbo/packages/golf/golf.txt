@@ -2430,6 +2430,7 @@ gainsayer
 ghoulish
 globally
 gastraeum
+glaver
 galravage
 ghettoed
 glycocoll
@@ -3619,7 +3620,6 @@ gardenin
 gaffkya
 grisliness
 ghettoizing
-glaver
 gallegan
 gamomania
 ghibli
