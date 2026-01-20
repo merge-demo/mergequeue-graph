@@ -4151,7 +4151,6 @@ gnathopod
 gosmore
 glotum
 gatchwork
-ges
 geod
 gleesome
 ganef
@@ -6822,6 +6821,7 @@ gulravage
 gratiolin
 graynesses
 gingerade
+ges
 gallican
 gamelotte
 glaciomarine
