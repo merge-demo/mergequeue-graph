@@ -9,7 +9,6 @@ floatmen
 franciums
 fabaceous
 fiscalization
-funariaceae
 frail
 frolicker
 foolish
@@ -10126,6 +10125,7 @@ fricatives
 frumenties
 fishhooks
 frivolousness
+funariaceae
 foray
 faunula
 felspathic
