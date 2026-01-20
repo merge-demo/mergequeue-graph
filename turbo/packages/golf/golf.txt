@@ -8271,7 +8271,6 @@ graptolitha
 gheraoed
 gambits
 graspingly
-gutturalise
 graduations
 gleets
 genian
@@ -10869,6 +10868,7 @@ graphidiaceae
 gastrulation
 gils
 gyrophora
+gutturalise
 goggan
 goaltending
 geniculated
