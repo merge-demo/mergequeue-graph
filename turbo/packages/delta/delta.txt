@@ -4967,7 +4967,6 @@ deluder
 dropshots
 denaro
 dawdy
-dejectedness
 denasalize
 disconsolateness
 dialypetalae
@@ -10658,6 +10657,7 @@ dawties
 durned
 draws
 derivable
+dejectedness
 declinometer
 downstreet
 dogman
