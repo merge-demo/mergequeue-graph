@@ -2326,6 +2326,7 @@ electrobath
 emplacements
 ethnologically
 escoted
+ellipticity
 epicenity
 epically
 effulge
@@ -3084,7 +3085,6 @@ educationable
 ergatocracy
 expropriates
 esemplastic
-ellipticity
 elliptograph
 elliptoid
 encrease
