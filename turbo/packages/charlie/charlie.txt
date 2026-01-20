@@ -7621,7 +7621,6 @@ curettes
 concessionist
 centralizer
 confinements
-ceremony
 chrysoeriol
 content
 ceremonial
@@ -20259,6 +20258,7 @@ classicalize
 commonance
 commoney
 cosmogenesis
+ceremony
 crossword
 commoning
 cambist
