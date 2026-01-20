@@ -6413,7 +6413,6 @@ grasswidowhood
 goitrogenic
 galibi
 gephyrocercy
-garbing
 glossopteris
 gloats
 glassman
@@ -9609,6 +9608,7 @@ guiles
 gummite
 gatefold
 georgian
+garbing
 guisarme
 goodsire
 gracileness
