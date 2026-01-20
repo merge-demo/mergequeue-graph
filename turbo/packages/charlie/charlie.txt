@@ -4677,7 +4677,6 @@ carotenes
 chaser
 carneol
 cursoria
-chinas
 cholangitis
 companero
 chwana
@@ -5816,6 +5815,7 @@ concourses
 catechumens
 catechumenship
 codo
+chinas
 catechutannic
 conquest
 coumarate
