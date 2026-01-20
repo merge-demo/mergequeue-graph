@@ -4839,7 +4839,6 @@ discage
 diluting
 deigns
 diminuendo
-demonologer
 demonology
 disluster
 densitometers
@@ -17751,6 +17750,7 @@ delegative
 dubitable
 dichondra
 dubitably
+demonologer
 descried
 drachmal
 desicate
