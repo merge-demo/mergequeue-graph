@@ -1430,6 +1430,7 @@ dawkin
 diploidy
 downdraught
 digresses
+directeur
 demiurgical
 dawning
 desocialize
@@ -4697,7 +4698,6 @@ dispells
 disasters
 decker
 democratised
-directeur
 dendropogon
 detailed
 dillydallied
