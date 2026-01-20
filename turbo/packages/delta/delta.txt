@@ -6641,6 +6641,7 @@ datum
 dipneedle
 danders
 detonator
+deescalations
 deserving
 diabetics
 diorite
@@ -8726,7 +8727,6 @@ decentralizationist
 downright
 dinting
 defocusses
-deescalations
 diatomist
 dubonnet
 dover
