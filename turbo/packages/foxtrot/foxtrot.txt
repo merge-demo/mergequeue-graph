@@ -883,6 +883,7 @@ fundus
 fantasms
 forsloth
 foreguts
+frightenable
 finked
 flowage
 funli
@@ -7860,7 +7861,6 @@ factiousness
 franklinia
 foreruns
 flacket
-frightenable
 frottole
 firmaments
 flourishingly
