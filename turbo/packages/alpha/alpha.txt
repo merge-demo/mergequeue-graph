@@ -2913,6 +2913,7 @@ accidentiality
 anacromyodian
 armamentary
 advisive
+atomics
 albugineous
 acrostichoid
 acrostichum
@@ -9196,7 +9197,6 @@ alodialist
 archdeaconry
 alodialty
 adenogenous
-atomics
 antiparliamentarian
 argentamin
 architectural
