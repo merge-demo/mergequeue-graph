@@ -3729,6 +3729,7 @@ guys
 gastraneuria
 gieaway
 goggle
+glamourless
 grumpishness
 gloom
 glyptographer
@@ -8177,7 +8178,6 @@ gravid
 gladlier
 gujar
 glycerolyses
-glamourless
 gelatinise
 geometricize
 grandfatherless
