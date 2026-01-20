@@ -6526,7 +6526,6 @@ ganglioneural
 grannom
 glaucic
 graceless
-ganglands
 galls
 goma
 glossoplegia
@@ -6712,6 +6711,7 @@ gruine
 guiltlessness
 goniocraniometry
 gaveller
+ganglands
 goniodoridae
 genizah
 gynandrous

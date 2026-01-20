@@ -3065,6 +3065,7 @@ defacer
 danes
 dentiscalp
 desole
+dictated
 designated
 degradand
 delightfully
@@ -16527,7 +16528,6 @@ daemonian
 dilucidate
 disdainable
 diomedes
-dictated
 dehydrofreezing
 dieretic
 dethroning
