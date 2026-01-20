@@ -7475,6 +7475,7 @@ foisting
 floppily
 fastly
 fullface
+fungibility
 forebode
 fauld
 frictionlessness
@@ -11157,7 +11158,6 @@ fungia
 fremdness
 flyblowing
 felspar
-fungibility
 fadeout
 farmer
 fungicidally
