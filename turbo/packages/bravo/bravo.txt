@@ -5706,6 +5706,7 @@ brimmered
 belie
 belied
 bridalty
+bulkish
 blatancy
 branle
 beliefful
@@ -17060,7 +17061,6 @@ bannermen
 bitterweed
 befavour
 bihydrazine
-bulkish
 belittlers
 bull
 bushbeck
