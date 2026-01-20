@@ -6738,6 +6738,7 @@ gascheck
 glycolysis
 grey
 grandmotherism
+grandiosity
 ghostmonger
 gynander
 glycogens
@@ -7947,7 +7948,6 @@ gynecologic
 gosplan
 getups
 grippy
-grandiosity
 gudok
 ganglionectomy
 globing
