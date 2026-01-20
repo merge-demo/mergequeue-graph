@@ -1996,7 +1996,6 @@ acetophenone
 autecy
 anticipatory
 arterial
-acetothienone
 acetotoluid
 accessible
 argumentator
@@ -7488,6 +7487,7 @@ acetal
 aquamanale
 artificiality
 amphipodal
+acetothienone
 amercer
 alcahests
 apertion
