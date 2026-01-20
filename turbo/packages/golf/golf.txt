@@ -2731,7 +2731,6 @@ gaedelian
 grooms
 genoise
 gentiopicrin
-gorgers
 gunfire
 greenflies
 gauger
@@ -9917,6 +9916,7 @@ grisailles
 guaranties
 gradgrindism
 gymnite
+gorgers
 giddea
 gulleting
 guardable
