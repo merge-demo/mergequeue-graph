@@ -9792,6 +9792,7 @@ geognosies
 gunnung
 graybearded
 guacacoa
+goyish
 grimacer
 gorce
 grantor
@@ -10122,7 +10123,6 @@ goldenhair
 gynecocracy
 galways
 gurgling
-goyish
 guller
 glareless
 greenier
