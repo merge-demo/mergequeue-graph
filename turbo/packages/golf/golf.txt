@@ -4103,6 +4103,7 @@ grahamism
 glumaceous
 gigback
 glottal
+grows
 ginkgoaceous
 gulo
 gasan
@@ -6423,7 +6424,6 @@ glossotherium
 gobiesocid
 geostrophic
 gymnocladus
-grows
 geegaws
 gentlemanliness
 gocart

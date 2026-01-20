@@ -2918,7 +2918,6 @@ cantalever
 cantaliver
 catacombs
 cackled
-cantaloup
 careerer
 crocodylus
 cantaloupes
@@ -31781,6 +31780,7 @@ chargeman
 chevisance
 co
 customshouse
+cantaloup
 custron
 custumal
 cut
