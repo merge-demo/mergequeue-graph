@@ -3080,7 +3080,6 @@ emp
 encyclical
 elliot
 educationable
-ergatocracy
 expropriates
 esemplastic
 elliptograph
@@ -3314,6 +3313,7 @@ euharmonic
 endamages
 epileptic
 emancipator
+ergatocracy
 emarginated
 eventilate
 evildoing
