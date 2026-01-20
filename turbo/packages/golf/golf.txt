@@ -6261,7 +6261,6 @@ gierfalcon
 gobbled
 gothicizer
 gelatinised
-graecian
 gyroidal
 grundyist
 going
@@ -10206,6 +10205,7 @@ groundneedle
 gyrowheel
 generaliser
 grippers
+graecian
 guzzled
 guile
 gyrectomies
