@@ -2063,6 +2063,7 @@ gallingly
 grandbaby
 gamblers
 gyrocompasses
+gurk
 grovelled
 glottology
 guilefully
@@ -10677,7 +10678,6 @@ glaucomatous
 googol
 grippotoxin
 grayed
-gurk
 guffawing
 gellants
 geostatic
