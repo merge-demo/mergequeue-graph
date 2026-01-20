@@ -3708,6 +3708,7 @@ baylike
 batty
 bacbakiri
 barny
+birefraction
 brookflower
 beild
 battier
@@ -7510,7 +7511,6 @@ bistre
 bramantesque
 bullragged
 bleariest
-birefraction
 befoolment
 betwine
 befingered
