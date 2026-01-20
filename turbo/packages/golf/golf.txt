@@ -534,6 +534,7 @@ gymnosperm
 gomphocarpus
 getters
 gnetaceous
+geotechnic
 galler
 grandmammy
 grandsirs
@@ -3152,7 +3153,6 @@ geochronologist
 germina
 grusian
 gynophore
-geotechnic
 graplin
 geraniaceae
 griffado
