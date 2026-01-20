@@ -6934,6 +6934,7 @@ comate
 cemetery
 copesettic
 cemeterial
+conjuncture
 cymoscope
 concours
 ceratinous
@@ -24249,7 +24250,6 @@ convulsing
 constantinople
 convulsion
 conjugates
-conjuncture
 const
 cerebritis
 crescendi
