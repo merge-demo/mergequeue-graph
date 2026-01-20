@@ -5812,6 +5812,7 @@ emulatory
 etherizing
 efficace
 electrovalency
+extinctive
 exfoliation
 erlkings
 epicele
@@ -8168,7 +8169,6 @@ epiphany
 enkraal
 eruca
 electrothermometer
-extinctive
 exothermal
 etwas
 equidominant
