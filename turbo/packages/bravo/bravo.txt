@@ -6576,6 +6576,7 @@ booted
 bagattino
 bladderless
 berchemia
+basipterygial
 berdache
 battuta
 brazenly
@@ -6988,7 +6989,6 @@ brochure
 bespread
 besmile
 besmiled
-basipterygial
 bobtailing
 bathhouse
 bunns
