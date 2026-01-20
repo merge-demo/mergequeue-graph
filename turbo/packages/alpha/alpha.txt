@@ -910,7 +910,6 @@ apprehensible
 absolutize
 absolutory
 acanthopteri
-absolvatory
 aestuary
 absolves
 absolving
@@ -10865,6 +10864,7 @@ ammonolytic
 aitches
 aguada
 anticult
+absolvatory
 amphib
 afrits
 ammonolyzing
