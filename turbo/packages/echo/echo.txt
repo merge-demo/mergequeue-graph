@@ -4512,7 +4512,6 @@ enureses
 emplaned
 embarkation
 encephalotome
-enfevered
 edomite
 epionynychia
 epagoge
@@ -10975,6 +10974,7 @@ eurybenthic
 etacist
 eutaxies
 eusynchite
+enfevered
 eurycephalic
 epiglot
 enridged
