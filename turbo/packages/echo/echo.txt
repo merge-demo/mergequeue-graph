@@ -1052,6 +1052,7 @@ expeditive
 embase
 endothelial
 embeddable
+eisteddfodau
 epistolic
 echinology
 extraposition
@@ -10827,7 +10828,6 @@ endostomata
 envineyard
 elaeoblastic
 enchase
-eisteddfodau
 euphotic
 entailable
 eradicatory
