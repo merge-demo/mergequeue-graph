@@ -3522,7 +3522,6 @@ eloquentness
 escorted
 enured
 epigonichthyidae
-etamines
 embolectomy
 enicuridae
 emboli
@@ -4312,6 +4311,7 @@ enamelless
 eluder
 emit
 edibles
+etamines
 enami
 enamorado
 enamorato
