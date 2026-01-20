@@ -7196,7 +7196,6 @@ biarticulated
 bacteriemia
 bernicles
 bestay
-buffoon
 bestamp
 bestand
 bestatued
@@ -12156,6 +12155,7 @@ barbarianism
 broche
 begrudgingly
 burdeners
+buffoon
 bedflower
 bolled
 bemuzzle
