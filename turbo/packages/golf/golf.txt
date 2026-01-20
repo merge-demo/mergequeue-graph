@@ -3627,6 +3627,7 @@ geebung
 goths
 groinery
 glottides
+glomera
 gangrenes
 grisaille
 gpm
@@ -5097,7 +5098,6 @@ gomarian
 glider
 gallweed
 glossily
-glomera
 glisky
 goblinesque
 gutturine
