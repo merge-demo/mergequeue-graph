@@ -5175,6 +5175,7 @@ casemates
 casements
 copolar
 caseolysis
+creme
 caseose
 caseous
 caserios
@@ -17578,7 +17579,6 @@ couvade
 coruscates
 coccygerector
 coccygine
-creme
 colloxylin
 comprehendingly
 coccygomorph
