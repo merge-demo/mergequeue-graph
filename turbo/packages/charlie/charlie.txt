@@ -12571,7 +12571,6 @@ chronogrammatically
 cheetah
 cymatium
 chronogrammic
-chronograph
 chronographer
 chronography
 choreas
@@ -23435,6 +23434,7 @@ contemplatist
 coshered
 creatureless
 contemplative
+chronograph
 centenaries
 contemple
 campanularia
