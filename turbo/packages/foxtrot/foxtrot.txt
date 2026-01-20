@@ -79,7 +79,6 @@ flunkeyhood
 flocklike
 forme
 filching
-faces
 folkright
 flattening
 flowerfence
@@ -3663,6 +3662,7 @@ futurisms
 fathead
 firesider
 franchisal
+faces
 flannelboard
 folder
 fillable
