@@ -5814,7 +5814,6 @@ farthingale
 formidableness
 furanes
 filanders
-feminology
 funebre
 farding
 flabby
@@ -9408,6 +9407,7 @@ frescoer
 fulsomeness
 fenman
 fausant
+feminology
 fireboats
 flexors
 felicity
