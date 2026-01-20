@@ -2782,7 +2782,6 @@ fourieristic
 flareboard
 floppier
 fraze
-festivity
 forker
 flatly
 fluorimeter
@@ -2997,6 +2996,7 @@ ferrotype
 fulgurantly
 fortepiano
 flukily
+festivity
 foreman
 floodage
 flogster
