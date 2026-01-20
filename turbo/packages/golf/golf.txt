@@ -69,7 +69,6 @@ garoo
 gibbon
 gentlemanize
 gaumy
-greffe
 gorcrow
 gloiosiphonia
 gandum
@@ -3331,6 +3330,7 @@ glanditerous
 gahnite
 globed
 gasogen
+greffe
 gelatia
 groovelike
 garrulinae
