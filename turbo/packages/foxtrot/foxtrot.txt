@@ -9698,7 +9698,6 @@ fastigiated
 fafaronade
 fissionability
 festinate
-footmanry
 faunch
 facework
 fluviograph
@@ -11385,6 +11384,7 @@ frosk
 feater
 forksmith
 forestership
+footmanry
 forcemeat
 faceharden
 flustrum
