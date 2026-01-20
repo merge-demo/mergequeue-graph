@@ -1976,7 +1976,6 @@ formalistically
 forecaster
 fothergilla
 fancy
-feebless
 filatory
 fillock
 fernticle
@@ -6160,6 +6159,7 @@ feloniously
 fairgoing
 flaxes
 foretops
+feebless
 feebling
 frequency
 furbished
