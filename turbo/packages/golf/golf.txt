@@ -2711,6 +2711,7 @@ gamey
 gusle
 grith
 gemmoid
+goidel
 genit
 gnatho
 groundmass
@@ -9261,7 +9262,6 @@ goitre
 gardnap
 giltcup
 grockle
-goidel
 gemauve
 geissospermin
 granitoid
