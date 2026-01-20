@@ -8723,6 +8723,7 @@ evulgation
 extempore
 effs
 ektexines
+electrocapillarity
 emmergoose
 evitate
 entombing
@@ -12526,7 +12527,6 @@ existentialist
 effluvious
 existentialistically
 eupione
-electrocapillarity
 enzymology
 exculpative
 extoolitic
