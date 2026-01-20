@@ -5858,6 +5858,7 @@ chromeplated
 cabas
 crawling
 chateau
+crazies
 cateye
 catel
 coelongated
@@ -10109,7 +10110,6 @@ caedmonian
 chlorohydrin
 chetvert
 centrifugalise
-crazies
 cyrtosis
 changed
 coauthorship
