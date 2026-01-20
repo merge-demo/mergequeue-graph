@@ -2091,7 +2091,6 @@ couponless
 clotheshorses
 campaigners
 cowinner
-campaigns
 colostric
 campana
 campane
@@ -2976,6 +2975,7 @@ cleverest
 caustic
 canthathari
 cameriera
+campaigns
 canthitis
 conceiver
 crystalled
