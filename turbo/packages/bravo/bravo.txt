@@ -4857,7 +4857,6 @@ benames
 bartholomew
 blephara
 briefings
-bedsitter
 batmen
 borachio
 baudekins
@@ -6068,6 +6067,7 @@ benami
 bunton
 boyishly
 bituminization
+bedsitter
 bequeathable
 becowarded
 blueball
