@@ -676,7 +676,6 @@ frissons
 formism
 flan
 forfeits
-folklorish
 furtherly
 faunistical
 fellow
@@ -10027,6 +10026,7 @@ feasibleness
 feedman
 fantee
 ferriferous
+folklorish
 foolheadedness
 falseness
 fireblende
