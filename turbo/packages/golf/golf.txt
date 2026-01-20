@@ -9164,7 +9164,6 @@ gooral
 gableboard
 gridlock
 gliss
-glavering
 glaucomas
 gastrodiaphanoscopy
 gradine
@@ -10503,6 +10502,7 @@ greenbacks
 gyrational
 gimmicks
 goalee
+glavering
 gypsous
 grayishness
 garn
