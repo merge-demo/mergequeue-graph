@@ -7272,7 +7272,6 @@ geochronic
 glowbird
 gallophobe
 gerated
-gastraeadae
 glandular
 gooky
 goofing
@@ -8117,6 +8116,7 @@ gloat
 glowflies
 granulators
 gynaecocracy
+gastraeadae
 guanidins
 gluteus
 gnatsnap
