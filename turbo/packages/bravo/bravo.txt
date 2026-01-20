@@ -5778,7 +5778,6 @@ biarticular
 bylining
 bellboys
 belay
-belled
 biotechnologicaly
 boomlet
 bearably
@@ -8647,6 +8646,7 @@ bimorph
 balladeroyal
 butterflyfishes
 belinuridae
+belled
 bismuthic
 billowiest
 backfold
