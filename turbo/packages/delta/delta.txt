@@ -5338,7 +5338,6 @@ dentulous
 dentural
 dermatology
 deifier
-diametrally
 diascia
 dentures
 duretto
@@ -15496,6 +15495,7 @@ dispell
 desist
 depredator
 deflagrated
+diametrally
 decolorise
 dealers
 demodulates
