@@ -5741,6 +5741,7 @@ foreheads
 fulgurant
 fause
 fribble
+fundamentality
 family
 fevertwig
 flambee
@@ -11242,7 +11243,6 @@ famble
 featherwork
 fourer
 funny
-fundamentality
 flagellants
 frogskin
 frumaryl
