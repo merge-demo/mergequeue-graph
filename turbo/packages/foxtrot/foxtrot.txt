@@ -5909,7 +5909,6 @@ freer
 fraudlessness
 freehand
 feretories
-forthinking
 furzes
 fearlessly
 favonius
@@ -9022,6 +9021,7 @@ flashbacks
 faineantism
 fix
 fractionalize
+forthinking
 foreparents
 fleetwing
 frap
