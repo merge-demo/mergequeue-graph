@@ -7034,6 +7034,7 @@ earthfast
 enumeration
 elsholtzia
 eggroll
+eternize
 euphone
 efficiency
 enlinked
@@ -10357,7 +10358,6 @@ entropion
 ethnogeographer
 electrocataphoretic
 explains
-eternize
 epiphenomenalist
 enjambed
 exactment

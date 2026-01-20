@@ -1901,7 +1901,6 @@ glochids
 glommox
 gastrozooid
 glaikit
-gonadotrophic
 globulet
 gaudless
 ganglia
@@ -4857,6 +4856,7 @@ greeter
 glaizie
 geologies
 glagolic
+gonadotrophic
 gorillian
 gethsemane
 glaieul
