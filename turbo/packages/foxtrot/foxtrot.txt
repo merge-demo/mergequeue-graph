@@ -7442,7 +7442,6 @@ featless
 floodproof
 fawning
 flashpan
-fleyedness
 fordoes
 faecal
 favellae
@@ -10508,6 +10507,7 @@ freshment
 frillery
 favouringly
 frot
+fleyedness
 froth
 formulatory
 fanman
