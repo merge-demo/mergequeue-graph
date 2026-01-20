@@ -8165,7 +8165,6 @@ epiphany
 enkraal
 eruca
 electrothermometer
-exothermal
 etwas
 equidominant
 equidistantly
@@ -13567,6 +13566,7 @@ energies
 enchannel
 ebeneous
 exsudate
+exothermal
 embowelling
 extumescence
 ectadenia
