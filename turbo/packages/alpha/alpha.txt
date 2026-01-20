@@ -1747,7 +1747,6 @@ anisyl
 adiamorphism
 adsorption
 afflicted
-actualist
 asker
 aceacenaphthene
 anticosine
@@ -21546,6 +21545,7 @@ auxoaction
 amarantite
 athapaskan
 avenging
+actualist
 asphyxiator
 asphyxied
 achlorhydric

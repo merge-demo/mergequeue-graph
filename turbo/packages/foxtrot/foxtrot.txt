@@ -3514,6 +3514,7 @@ filamentary
 fanlight
 flagrancy
 frowziness
+followers
 fath
 flaggelating
 filaments
@@ -3871,7 +3872,6 @@ fluidness
 flowable
 financer
 fripperies
-followers
 fevertrap
 footslogged
 fluidextract
