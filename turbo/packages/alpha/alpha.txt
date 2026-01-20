@@ -23329,6 +23329,7 @@ assentaneous
 attunement
 anodynes
 ablation
+asgmt
 atua
 atule
 assafetida
@@ -23788,7 +23789,6 @@ arpenteur
 abannition
 atka
 actinocarpic
-asgmt
 accursing
 austausch
 abdest
