@@ -8106,6 +8106,7 @@ garderobe
 goldbeating
 gaspergous
 grandtotal
+gerbo
 genteeler
 gynaeolater
 gulfed
@@ -10549,7 +10550,6 @@ glyphs
 guanays
 gunmaking
 gaun
-gerbo
 gesneraceae
 gyneocracy
 gatewaymen
