@@ -4703,7 +4703,6 @@ furtherest
 fiddleneck
 freethinkers
 farcies
-feuillage
 fulldo
 forestalment
 flammiferous
@@ -10767,6 +10766,7 @@ forweep
 farreation
 foils
 fruticous
+feuillage
 firstness
 fructiculose
 femme
