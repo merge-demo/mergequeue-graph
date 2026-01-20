@@ -774,6 +774,7 @@ fishgrass
 figurines
 fluxions
 fancied
+for
 frazzled
 frig
 fetidness
@@ -11594,7 +11595,6 @@ ferrado
 fraternal
 flor
 febrifugal
-for
 fetch
 forcarve
 frough
