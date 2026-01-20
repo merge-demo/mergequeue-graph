@@ -5157,7 +5157,6 @@ gleamy
 gorer
 gangliglions
 gumboots
-gonystylaceous
 gracility
 grandfathership
 geognosist
@@ -7795,6 +7794,7 @@ gerately
 gufa
 greenkeeper
 glassblowers
+gonystylaceous
 gook
 glead
 grillework
