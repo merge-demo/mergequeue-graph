@@ -6165,6 +6165,7 @@ greenhead
 gpd
 goliaths
 grayout
+gaspergous
 gambodic
 gallotannate
 grooves
@@ -8104,7 +8105,6 @@ gallygaskins
 gazabos
 garderobe
 goldbeating
-gaspergous
 grandtotal
 genteeler
 gynaeolater
