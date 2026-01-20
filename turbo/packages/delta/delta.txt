@@ -9374,7 +9374,6 @@ disinflating
 diffract
 defense
 diffractively
-deruralize
 doubleted
 diffractiveness
 dist
@@ -10483,6 +10482,7 @@ dalar
 daglock
 disembodies
 diphthongize
+deruralize
 diazoalkane
 diphthongizing
 daubentoniidae
