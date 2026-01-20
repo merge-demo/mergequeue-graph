@@ -4308,7 +4308,6 @@ barly
 bahamians
 becalm
 becalming
-berrigan
 biaural
 beakiest
 bulkheaded
@@ -17114,6 +17113,7 @@ bromian
 bardess
 baldpated
 brimless
+berrigan
 bulletining
 batches
 bulletless
