@@ -8911,6 +8911,7 @@ closterium
 chards
 coralliferous
 chared
+condensator
 charely
 consultation
 crinivorous
@@ -21607,7 +21608,6 @@ condensaries
 condensates
 cultivars
 crick
-condensator
 corbeled
 crateris
 condensed
