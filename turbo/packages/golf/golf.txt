@@ -509,7 +509,6 @@ geminations
 gnomes
 geomorphology
 gisement
-gruffing
 graff
 galivants
 gleamiest
@@ -2221,6 +2220,7 @@ gulfing
 gallivanter
 gristle
 gossipmongering
+gruffing
 galactase
 gastrotome
 grifts
