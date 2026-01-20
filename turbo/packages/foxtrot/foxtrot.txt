@@ -2536,7 +2536,6 @@ fibromembranous
 filamentule
 frangibility
 freebee
-freeboot
 fem
 functionalistic
 foresightful
@@ -9811,6 +9810,7 @@ ferronatrite
 fondaco
 freudist
 friar
+freeboot
 fremitus
 filchingly
 firings
