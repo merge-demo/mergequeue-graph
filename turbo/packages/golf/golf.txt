@@ -3087,7 +3087,6 @@ glucosine
 gelatinity
 grassie
 gumdrops
-gomuti
 galvayning
 gymnocidium
 gastful
@@ -8636,6 +8635,7 @@ griffes
 gratae
 gapeseed
 greatness
+gomuti
 greave
 gulash
 gapers
