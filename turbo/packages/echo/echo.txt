@@ -10025,7 +10025,6 @@ egrets
 ethmovomerine
 entamoebiasis
 epopoeist
-extraconstellated
 etceteras
 ethanediol
 erianthus
@@ -10771,6 +10770,7 @@ eumycete
 eulogiums
 endogenicity
 elaborating
+extraconstellated
 emoting
 euskera
 esterases
