@@ -18836,7 +18836,6 @@ clinkered
 codeins
 colichemarde
 colicines
-cenotaphy
 cultigen
 celiac
 colicins
@@ -19894,6 +19893,7 @@ critical
 comicalness
 cubited
 comices
+cenotaphy
 cognominal
 comicocynical
 curlicues
