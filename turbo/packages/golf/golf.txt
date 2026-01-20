@@ -5686,7 +5686,6 @@ ganglioneuron
 gestning
 gelts
 guardeen
-guttule
 ghillies
 glamberry
 gadroons
@@ -7416,6 +7415,7 @@ gandering
 greggriffin
 gamotropic
 grewt
+guttule
 guahiban
 garlopa
 gelidities
