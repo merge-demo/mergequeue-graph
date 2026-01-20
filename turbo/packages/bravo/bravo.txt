@@ -1962,6 +1962,7 @@ baahling
 beeway
 beworms
 bandwidth
+bartizaned
 bandworm
 blunderers
 burnishment
@@ -13629,7 +13630,6 @@ boded
 burladero
 bhoots
 boundless
-bartizaned
 bounds
 beggaress
 buttressless
