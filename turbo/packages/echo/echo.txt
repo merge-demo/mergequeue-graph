@@ -855,7 +855,6 @@ euxanthic
 emoloa
 ectoparasitica
 exhumating
-expediencies
 economically
 expectance
 epitheliosis
@@ -11640,6 +11639,7 @@ enterophthisis
 electrophone
 equimomental
 elasmobranch
+expediencies
 electromechanics
 ethnical
 exaestuate

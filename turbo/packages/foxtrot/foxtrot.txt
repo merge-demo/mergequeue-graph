@@ -3234,7 +3234,6 @@ fluorinate
 fittit
 foreknowledge
 freestanding
-forthrightly
 faradizer
 foppery
 flaught
@@ -7173,6 +7172,7 @@ fele
 fruitions
 footie
 footier
+forthrightly
 frore
 fatherhood
 furcraea
