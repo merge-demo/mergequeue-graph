@@ -5232,7 +5232,6 @@ begabled
 bowla
 bedders
 boskopoid
-boarcite
 breadboards
 barkeeps
 begar
@@ -18329,6 +18328,7 @@ buttons
 bescratch
 breviaries
 baragouin
+boarcite
 bunkums
 buttressed
 bradypodidae
