@@ -3322,7 +3322,6 @@ fulmined
 fiedlerite
 fifth
 flooding
-favi
 falconer
 firmisternia
 fieldish
@@ -5391,6 +5390,7 @@ fusobteria
 femur
 filterable
 flexuosely
+favi
 floatative
 fleering
 faunal
