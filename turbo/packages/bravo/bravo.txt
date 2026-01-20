@@ -6796,7 +6796,6 @@ buhls
 barytosulphate
 badian
 bookery
-bersagliere
 brittles
 borism
 bin
@@ -16256,6 +16255,7 @@ bricklining
 burglarize
 beluga
 browniest
+bersagliere
 blackguardize
 beamlet
 bahuts
