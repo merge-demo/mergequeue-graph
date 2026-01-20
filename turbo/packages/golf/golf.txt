@@ -378,6 +378,7 @@ grinded
 goniometrical
 guyer
 galactosis
+glycerolate
 grimsire
 gauric
 galactotrophy
@@ -9795,7 +9796,6 @@ grantor
 gue
 goury
 globulinuria
-glycerolate
 garawi
 glossemes
 glares
