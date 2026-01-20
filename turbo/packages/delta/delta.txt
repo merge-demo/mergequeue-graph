@@ -2543,7 +2543,6 @@ disequality
 dematerialize
 discus
 dorsocephalic
-distiller
 declensionally
 dentalizing
 danaro
@@ -11868,6 +11867,7 @@ disulphone
 dromomania
 dinned
 denying
+distiller
 diadems
 discriminateness
 diffusionist
