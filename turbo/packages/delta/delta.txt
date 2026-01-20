@@ -3660,6 +3660,7 @@ diffusional
 dregginess
 dewlaps
 dehache
+diabolarch
 dorsoepitrochlear
 dehypnotize
 dissonant
@@ -17820,7 +17821,6 @@ dragging
 duckmeat
 duckpin
 desalinate
-diabolarch
 dower
 dermatological
 demographies

@@ -3352,6 +3352,7 @@ ethylenediamine
 extranormal
 emballonuridae
 eulachons
+evacuative
 essentialities
 equus
 energeticalness
@@ -12439,7 +12440,6 @@ exhumate
 egoisms
 elusoriness
 esquire
-evacuative
 eighteen
 enlimn
 effectuate
