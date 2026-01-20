@@ -2484,6 +2484,7 @@ cand
 candelabras
 candelabrum
 corelatively
+clarenceuxship
 candelilla
 conductible
 choraguses
@@ -13782,7 +13783,6 @@ cinematically
 costotomies
 cinematizing
 cinematograph
-clarenceuxship
 chromocenter
 culpably
 chkfil
