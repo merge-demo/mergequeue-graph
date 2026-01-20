@@ -5937,6 +5937,7 @@ fulah
 fixures
 flashness
 floorcloths
+fortified
 fumid
 fluidizing
 folkways
@@ -10845,7 +10846,6 @@ furoin
 fishpool
 forficate
 flaminian
-fortified
 fumblingly
 frumpier
 fallout
