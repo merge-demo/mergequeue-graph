@@ -10194,7 +10194,6 @@ beatille
 backstone
 basketballs
 blackfellows
-bosker
 blackfigured
 biochemical
 breechcloth
@@ -13736,6 +13735,7 @@ bedmaker
 blossomtime
 boatyard
 bromocyanogen
+bosker
 boutonnieres
 boutons
 barrelful
