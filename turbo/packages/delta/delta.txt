@@ -2594,7 +2594,6 @@ droumy
 drudgery
 decode
 dartars
-ducture
 deignous
 deoxygenation
 decodon
@@ -10396,6 +10395,7 @@ dekkos
 demersion
 dictyostelic
 disreputable
+ducture
 dipetto
 dismayingness
 diphasic
