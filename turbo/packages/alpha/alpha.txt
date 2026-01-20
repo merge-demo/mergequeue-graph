@@ -5787,7 +5787,6 @@ agathodaemonic
 aeropause
 ambulative
 atterminal
-agatiferous
 alongside
 ahoy
 auxetics
@@ -8153,6 +8152,7 @@ aleutians
 assassins
 aqualunger
 amora
+agatiferous
 alibied
 ambiverts
 anhemolytic
