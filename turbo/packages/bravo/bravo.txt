@@ -12750,6 +12750,7 @@ bookseller
 bepreach
 burdalone
 bucorvinae
+burgality
 becloaked
 bioelectric
 bullneck
@@ -17555,7 +17556,6 @@ bascule
 broadacre
 bothrops
 burny
-burgality
 beaufort
 bouses
 blackpoll
