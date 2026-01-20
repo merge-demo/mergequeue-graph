@@ -1156,7 +1156,6 @@ fitted
 flog
 fated
 falseheartedness
-fennels
 flexures
 flippers
 filberts
@@ -4112,6 +4111,7 @@ foisted
 ferrosilicon
 fluorometry
 freeheartedly
+fennels
 fireback
 fumeuses
 forestation
