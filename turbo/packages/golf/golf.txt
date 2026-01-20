@@ -1746,6 +1746,7 @@ garroo
 gorgonacea
 gastrophilism
 gorgeously
+gulpin
 gyrofrequencies
 grivation
 glacify
@@ -6249,7 +6250,6 @@ guttural
 ghostiest
 gconv
 gentle
-gulpin
 gynandrarchic
 glucolipin
 galoch
