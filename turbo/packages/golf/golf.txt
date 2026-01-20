@@ -6061,6 +6061,7 @@ gallops
 gph
 gnats
 glutaeous
+griskins
 guttie
 gibbled
 grisset
@@ -10384,7 +10385,6 @@ graphemically
 goujon
 gullying
 gothism
-griskins
 garibaldian
 gangliocyte
 geshurites

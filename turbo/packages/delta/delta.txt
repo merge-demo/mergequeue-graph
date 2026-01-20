@@ -11577,6 +11577,7 @@ disconnector
 denotable
 dollarfish
 drawnwork
+dramming
 disconsent
 diphthongised
 dithering
@@ -16720,7 +16721,6 @@ drammage
 dramme
 dottler
 digenic
-dramming
 dioecious
 dorrbeetle
 downlinking
