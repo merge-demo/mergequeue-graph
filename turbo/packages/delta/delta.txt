@@ -2364,7 +2364,6 @@ discocarp
 diplographic
 dechristianization
 diluted
-dechristianize
 differentiated
 dionise
 drugget
@@ -15314,6 +15313,7 @@ dolphinlike
 decadescent
 dolphins
 discountenance
+dechristianize
 diagnostics
 design
 distilleries
