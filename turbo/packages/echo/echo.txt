@@ -3660,7 +3660,6 @@ extravert
 encolpion
 exomion
 enigmatist
-excogitates
 engarment
 emaciated
 erythrons
@@ -10513,6 +10512,7 @@ empaper
 expansional
 enswathed
 eucharists
+excogitates
 epimeral
 entrymen
 expenses
