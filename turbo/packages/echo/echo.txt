@@ -3386,7 +3386,6 @@ embargoes
 endocrinologist
 eavedropper
 embark
-embarkations
 epitomize
 eucharistized
 embarkment
@@ -7562,6 +7561,7 @@ excurvate
 eolithic
 euglena
 earnestness
+embarkations
 exterminate
 eikonology
 enamelware
