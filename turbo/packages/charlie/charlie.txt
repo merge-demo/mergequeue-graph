@@ -125,6 +125,7 @@ coumalic
 chordophone
 clitelline
 cabinetworker
+curlpaper
 cabinlike
 crafter
 cabio
@@ -2949,7 +2950,6 @@ currawong
 canter
 canterburian
 cladosporium
-curlpaper
 custumals
 companionability
 cryptoprocta
