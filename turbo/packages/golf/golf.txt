@@ -3043,7 +3043,6 @@ gossipper
 giant
 gnash
 glaciologists
-graphiter
 greensauce
 gamelin
 genepi
@@ -3681,6 +3680,7 @@ glyconics
 gracilescent
 gussying
 goggling
+graphiter
 guppy
 glossiphonia
 gadgeteer
