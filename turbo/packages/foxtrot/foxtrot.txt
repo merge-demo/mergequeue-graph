@@ -4024,6 +4024,7 @@ febris
 finishes
 fultz
 formenic
+fetch
 foyaitic
 fibered
 frimaire
@@ -11595,7 +11596,6 @@ ferrado
 fraternal
 flor
 febrifugal
-fetch
 forcarve
 frough
 frack
