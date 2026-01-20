@@ -1111,7 +1111,6 @@ gwyniad
 gladded
 giddier
 grotesco
-grope
 galatic
 gastrointestinal
 gruntled
@@ -9082,6 +9081,7 @@ gherkin
 gentlehood
 grinch
 glassed
+grope
 goldwork
 geoid
 garotte
