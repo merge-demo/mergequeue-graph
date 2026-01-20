@@ -1204,6 +1204,7 @@ filicineae
 fraying
 friponerie
 flagpoles
+faraway
 focalize
 funder
 fifths
@@ -6097,7 +6098,6 @@ floccilation
 flounced
 flounder
 frowardness
-faraway
 faciata
 folding
 flourish
