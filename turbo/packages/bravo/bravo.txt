@@ -9492,6 +9492,7 @@ binocles
 beirut
 brahmaness
 beaconage
+birdmouthed
 baselard
 bemonster
 barristership
@@ -9725,7 +9726,6 @@ bedpad
 betokening
 bissabol
 brinjaul
-birdmouthed
 bacchante
 byssal
 bigam
