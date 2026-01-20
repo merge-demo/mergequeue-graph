@@ -9191,7 +9191,6 @@ fragmentariness
 fragmentist
 foundries
 fishbowls
-faucals
 fidalgo
 flattener
 feldspathose
@@ -10219,6 +10218,7 @@ freakily
 flunkers
 freebooters
 funders
+faucals
 frogmarch
 frighted
 fibrose
