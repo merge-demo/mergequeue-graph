@@ -3994,7 +3994,6 @@ beadeye
 beader
 bellmaker
 barnhardtite
-beerothite
 binges
 brookside
 beshamed
@@ -7333,6 +7332,7 @@ brazera
 bursters
 borides
 betear
+beerothite
 betel
 buttwood
 baseboards
