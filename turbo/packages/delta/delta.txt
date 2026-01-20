@@ -3620,6 +3620,7 @@ deprogrammer
 depreciators
 dunt
 deglutition
+duffels
 deglutitious
 degold
 decontaminated
@@ -7193,7 +7194,6 @@ disenchantingly
 detecter
 detecters
 decemvirate
-duffels
 digitate
 decertify
 dolorous
