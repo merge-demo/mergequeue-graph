@@ -7731,6 +7731,7 @@ geogony
 graithly
 gilpey
 gluttonously
+grisly
 gonotype
 grimiest
 gormed
@@ -9214,7 +9215,6 @@ gnawings
 genethlialogic
 goliard
 graphitoid
-grisly
 glagolitic
 gurdy
 gravigrade
