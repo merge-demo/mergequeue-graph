@@ -1594,6 +1594,7 @@ cutcher
 corrobboree
 callorhynchidae
 callosal
+chalcon
 chronographs
 callose
 crafts
@@ -10002,7 +10003,6 @@ corodiastole
 circulators
 copartaker
 ceremonialists
-chalcon
 catepuce
 cephalhydrocele
 coffles
