@@ -7942,7 +7942,6 @@ downsteepy
 diathermal
 decimeters
 disgustful
-dextroaural
 dismes
 drupiferous
 dartos
@@ -8268,6 +8267,7 @@ diagram
 deliriousness
 drahthaar
 demobilize
+dextroaural
 diagrammed
 diagrammer
 drumread
