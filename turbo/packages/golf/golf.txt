@@ -6139,7 +6139,6 @@ gallification
 grammar
 gowiddie
 goblinry
-generalizing
 gyre
 grommet
 garters
@@ -10714,6 +10713,7 @@ goonda
 grumping
 grandeur
 gubernatorial
+generalizing
 graphometric
 gox
 gussets
