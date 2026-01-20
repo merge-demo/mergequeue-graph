@@ -7526,7 +7526,6 @@ goldarns
 gravimeter
 gallycrow
 ganocephalous
-gilaki
 galinaceous
 guserid
 gigglier
@@ -9630,6 +9629,7 @@ griddling
 grubstakes
 grewsomest
 growlers
+gilaki
 glycyrize
 guestmaster
 glumales
