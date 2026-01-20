@@ -10715,7 +10715,6 @@ anabolitic
 antaphrodisiac
 agrammaphasia
 alevins
-anthophorous
 amire
 anthracometric
 amyris
@@ -23265,6 +23264,7 @@ attorn
 appreciates
 airscape
 attornare
+anthophorous
 agilely
 attorney
 antirealism
