@@ -11139,7 +11139,6 @@ alkide
 addictive
 analgesis
 adsorb
-attires
 amphiboles
 affliction
 axometric
@@ -19286,6 +19285,7 @@ anagrammed
 arenilitic
 arenites
 anthraquinonyl
+attires
 alberca
 aristas
 absentmindedly
