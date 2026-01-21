@@ -5153,6 +5153,7 @@ frumpery
 funest
 festino
 fraternizes
+footless
 fictionising
 flinders
 foxings
@@ -7730,7 +7731,6 @@ fasciately
 followingly
 fenouillette
 footprints
-footless
 flavour
 fanbearer
 forestem
