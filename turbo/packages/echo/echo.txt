@@ -7234,7 +7234,6 @@ effigial
 eosinic
 ergatogynous
 enolizable
-endothorax
 eosinoblast
 ectropionization
 ennage
@@ -8645,6 +8644,7 @@ emerging
 excretions
 endosmometer
 equinumerally
+endothorax
 equinus
 ethrogs
 enarration
