@@ -8014,6 +8014,7 @@ armoires
 actinopraxis
 attriutively
 alrune
+archiver
 airworthy
 acidotic
 arithmetically
@@ -18982,7 +18983,6 @@ ageratum
 archival
 amphodiplopia
 atopic
-archiver
 archjockey
 aleurodidae
 archknave
