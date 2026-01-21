@@ -10176,7 +10176,6 @@ chi
 codworm
 croisard
 coussinet
-chia
 chyack
 chianti
 chiao
@@ -14517,6 +14516,7 @@ clefs
 chang
 cays
 cissus
+chia
 cist
 cankerwort
 culver
