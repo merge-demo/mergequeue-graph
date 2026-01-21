@@ -102,7 +102,6 @@ gabbai
 gadge
 gunja
 goldthread
-goodnaturedness
 greengill
 glossolaryngeal
 grillers
@@ -1494,6 +1493,7 @@ goutish
 gaolage
 groose
 guaxima
+goodnaturedness
 glandless
 gorlin
 gregarinidal
