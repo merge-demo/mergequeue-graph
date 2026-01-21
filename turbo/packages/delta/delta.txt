@@ -854,6 +854,7 @@ dartmoor
 disinterested
 drizzling
 deteriorator
+dischevel
 duralumin
 duotone
 decrudescence
@@ -11343,7 +11344,6 @@ dilatometric
 dehydrogenise
 decorement
 delimiter
-dischevel
 dissimulator
 disci
 diabases
