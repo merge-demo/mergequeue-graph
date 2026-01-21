@@ -4369,7 +4369,6 @@ dissidents
 diphtheritis
 douper
 delegable
-dualizing
 digenous
 demele
 dirled
@@ -6892,6 +6891,7 @@ desparple
 downsinking
 decadation
 despatches
+dualizing
 deoxidise
 dodded
 despecialization
