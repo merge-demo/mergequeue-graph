@@ -2250,7 +2250,6 @@ exploitive
 epapophysial
 extensometer
 enciente
-embryony
 embraceable
 encoach
 extremely
@@ -6202,6 +6201,7 @@ exhortator
 enorn
 enos
 eradiating
+embryony
 egophony
 epitapher
 enostosis

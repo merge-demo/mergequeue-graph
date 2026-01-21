@@ -10197,7 +10197,6 @@ clumplike
 cotesian
 chloasmata
 camacan
-chiasmas
 choroidoretinitis
 chiasmata
 cavesson
@@ -13431,6 +13430,7 @@ cnidocil
 cig
 cigarette
 cystenchyma
+chiasmas
 cigarfish
 counterconversion
 craspedum
