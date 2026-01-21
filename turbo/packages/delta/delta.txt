@@ -9364,6 +9364,7 @@ disinflating
 diffract
 defense
 diffractively
+dishmaker
 doubleted
 diffractiveness
 dist
@@ -15013,7 +15014,6 @@ divus
 demirhumb
 doggedness
 demonographer
-dishmaker
 dysmetria
 dendroidal
 defeatism
