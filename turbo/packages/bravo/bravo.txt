@@ -10097,7 +10097,6 @@ backwatered
 boarhound
 bokos
 basidiolichen
-burglarious
 bizones
 bergeret
 biblos
@@ -14210,6 +14209,7 @@ batters
 balladise
 bixbyite
 bleu
+burglarious
 bluebottles
 boutiques
 bloodstroke
