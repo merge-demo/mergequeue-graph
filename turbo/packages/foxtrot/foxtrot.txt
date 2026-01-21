@@ -3952,7 +3952,6 @@ feed
 fono
 fixature
 florissant
-freehanded
 falkland
 floperoo
 finalizes
@@ -11512,6 +11511,7 @@ fuscohyaline
 fundamentally
 furthered
 flixweed
+freehanded
 finalis
 fissidactyl
 foldout
