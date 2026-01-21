@@ -25725,7 +25725,6 @@ chainbearer
 curassows
 corrigibleness
 citrines
-chatta
 compote
 coronal
 cleruch
@@ -28935,6 +28934,7 @@ crocheted
 cholericly
 criticist
 cribellum
+chatta
 cribose
 cribrate
 cribriform

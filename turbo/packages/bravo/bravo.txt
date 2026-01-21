@@ -12839,7 +12839,6 @@ brushoff
 barracan
 bodily
 birkies
-baresarks
 busera
 bedelve
 boomster
@@ -17831,6 +17830,7 @@ benzbitriazole
 beuncled
 booze
 banjara
+baresarks
 bursitos
 burst
 booksellers
