@@ -11863,7 +11863,6 @@ discussion
 dominations
 dietzeite
 drumfires
-disulphone
 dromomania
 dinned
 denying
@@ -13745,6 +13744,7 @@ discoids
 defends
 doorplate
 divalent
+disulphone
 dejecta
 demulsion
 dissociations
