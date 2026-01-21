@@ -9495,6 +9495,7 @@ dighter
 dying
 digraphic
 dynamogeny
+dreg
 dialysers
 demiurge
 digital
@@ -12533,7 +12534,6 @@ doorkeep
 dilative
 disinfectants
 drafter
-dreg
 disinfected
 deceivers
 denaturizer
