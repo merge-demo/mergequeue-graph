@@ -3472,6 +3472,7 @@ emblazoned
 emblazoner
 emblazonments
 embellisher
+endodermis
 elastic
 etherialising
 escandalize
@@ -10155,7 +10156,6 @@ etherially
 extravagances
 eyedropper
 exertion
-endodermis
 expressness
 electrothermally
 endocarpoid
