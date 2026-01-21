@@ -19701,6 +19701,7 @@ chrismale
 combatant
 cimbalom
 combater
+cotonier
 combaters
 combating
 combative
@@ -26923,7 +26924,6 @@ countermigration
 chaudfroid
 celiomyomotomy
 castellated
-cotonier
 countermined
 countermission
 coinfeftment
