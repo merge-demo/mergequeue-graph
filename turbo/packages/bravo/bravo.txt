@@ -4393,7 +4393,6 @@ backswing
 bonairness
 brolly
 boordly
-bagne
 bounties
 breakwater
 behoney
@@ -11692,6 +11691,7 @@ bipaleolate
 buffoonery
 beefalos
 bobadil
+bagne
 biotomy
 bobadilian
 broadbill
