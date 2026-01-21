@@ -2335,6 +2335,7 @@ busyish
 blatancies
 bromite
 briber
+boatman
 barbita
 barbital
 brighteners
@@ -8079,7 +8080,6 @@ browband
 bicorn
 bourrelet
 blanque
-boatman
 buckbeans
 bluntness
 bicornate
