@@ -7101,7 +7101,6 @@ dudeen
 directively
 desulfuring
 dunging
-desulfurisation
 diplopiaphobia
 diipolia
 deamidase
@@ -11699,6 +11698,7 @@ dele
 discouraged
 displeasureably
 discouragingly
+desulfurisation
 daydreamlike
 dangerful
 diastasis
