@@ -1279,6 +1279,7 @@ explicatively
 ericophyte
 efface
 equalized
+enage
 effacers
 ellipsis
 exhilarated
@@ -3985,7 +3986,6 @@ epilamellar
 etymologise
 evangelian
 estrapade
-enage
 eunomy
 extirpated
 epionychia
