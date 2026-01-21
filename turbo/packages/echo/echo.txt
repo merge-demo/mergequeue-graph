@@ -75,7 +75,6 @@ eulalia
 earmarkings
 equitation
 earmuff
-earnable
 essayer
 ecclesiology
 extendable
@@ -12211,6 +12210,7 @@ endamoebiasis
 engarb
 episynthetic
 excur
+earnable
 epiphanizing
 extralateral
 elevener
