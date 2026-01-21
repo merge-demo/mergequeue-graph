@@ -11479,7 +11479,6 @@ amusers
 abbatical
 amarelles
 autotomise
-astrologous
 amusette
 aurichlorohydric
 aptate
@@ -13735,6 +13734,7 @@ antiabrasion
 aeolian
 anonymity
 anonymously
+astrologous
 anonymuncule
 anoopsia
 arbitrate
