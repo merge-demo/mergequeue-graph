@@ -1366,6 +1366,7 @@ efflagitate
 ecartes
 epitympanic
 eugubium
+eposes
 embellishes
 enchisel
 emissions
@@ -7128,7 +7129,6 @@ extraequilibrium
 excandescence
 earthshine
 endymion
-eposes
 empassion
 eglandulous
 equestrians
