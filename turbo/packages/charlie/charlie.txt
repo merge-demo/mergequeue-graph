@@ -20107,6 +20107,7 @@ characterologist
 collectedness
 cretinous
 counterterm
+chironomy
 continence
 certainness
 corpselike
@@ -25791,7 +25792,6 @@ corrosived
 corrosively
 corrosiveness
 corrosives
-chironomy
 calcars
 corrosivity
 colophonate
