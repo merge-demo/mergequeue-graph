@@ -1417,7 +1417,6 @@ dechoralize
 deportation
 dawdling
 dibbed
-dryster
 dichotomized
 damnit
 dasht
@@ -11236,6 +11235,7 @@ disburdenment
 disgage
 donnybrooks
 disbury
+dryster
 diosmose
 definitively
 dogstail
