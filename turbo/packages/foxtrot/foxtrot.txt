@@ -513,6 +513,7 @@ filicite
 faking
 fumify
 figgle
+fossilization
 fassaite
 feodum
 fishbone
@@ -9144,7 +9145,6 @@ farinhas
 foreland
 fadednyess
 figulines
-fossilization
 filmize
 frumpily
 fashionmonging
