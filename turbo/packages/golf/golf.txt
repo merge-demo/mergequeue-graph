@@ -3098,7 +3098,6 @@ grayouts
 guffaws
 grees
 grips
-goan
 golandaas
 gooseherd
 germinative
@@ -4884,6 +4883,7 @@ geomaly
 gangway
 guvacoline
 gidyea
+goan
 giantize
 gallimatia
 gradational
