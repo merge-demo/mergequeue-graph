@@ -3375,7 +3375,6 @@ gerodontic
 geobiont
 gerontic
 generalships
-graphometry
 gondolier
 gnatling
 galbe
@@ -8812,6 +8811,7 @@ gustoes
 gallus
 globate
 gm
+graphometry
 gunne
 greegrees
 gooses
