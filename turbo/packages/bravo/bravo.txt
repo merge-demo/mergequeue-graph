@@ -2292,6 +2292,7 @@ barbatimao
 branchiosaurian
 bewearies
 barbecuer
+bementite
 barbellula
 belabor
 barbellulate
@@ -6002,7 +6003,6 @@ bruises
 bitterbark
 bemean
 biphenyls
-bementite
 bemete
 bimillennia
 busybodies
