@@ -15138,6 +15138,7 @@ deerherd
 dislustre
 damaging
 disallows
+dilemmic
 dullpate
 decayable
 demiofficial
@@ -17717,7 +17718,6 @@ dhauri
 dubb
 deferentitis
 demidevil
-dilemmic
 dullhearted
 dynamometer
 dotal
