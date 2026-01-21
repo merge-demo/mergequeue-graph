@@ -405,7 +405,6 @@ gains
 goalposts
 gilsonite
 gorgon
-gunl
 geostrategy
 gradeless
 genuflexuous
@@ -8509,6 +8508,7 @@ goshdarn
 gramaphone
 gametophyte
 ganglioblast
+gunl
 gyrophoric
 gulden
 grecian
