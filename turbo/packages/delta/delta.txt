@@ -6426,7 +6426,6 @@ desalinator
 desexualized
 disclaimer
 disperge
-departmentalising
 diploes
 decadenza
 detest
@@ -12770,6 +12769,7 @@ dodrans
 dupondii
 dakoits
 decanonize
+departmentalising
 dipware
 domesticize
 deer
