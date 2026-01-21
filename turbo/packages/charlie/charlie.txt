@@ -1539,6 +1539,7 @@ concertos
 celtomaniac
 calliopsis
 chutes
+cankered
 callipash
 coorieing
 callipees
@@ -2705,7 +2706,6 @@ cankerbird
 chaperone
 carriable
 cankereat
-cankered
 codders
 cephalosporium
 cording
