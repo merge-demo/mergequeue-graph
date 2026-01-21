@@ -10975,6 +10975,7 @@ cfh
 coccygalgia
 canoeing
 chiropodous
+consignify
 chiropompholyx
 contraposita
 chiropterygian
@@ -22930,7 +22931,6 @@ clarifiable
 chromosomic
 consigned
 consignee
-consignify
 cantorous
 countersalient
 chob
