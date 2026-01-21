@@ -11269,7 +11269,6 @@ accordable
 amphisbaenoid
 abri
 arts
-apronless
 articular
 auricled
 aleck
@@ -12447,6 +12446,7 @@ aegagropile
 appealed
 anechoic
 amazed
+apronless
 adar
 anelasticity
 augurship
