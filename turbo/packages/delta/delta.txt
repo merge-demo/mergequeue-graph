@@ -388,6 +388,7 @@ dawdlers
 dihydrated
 dreadness
 deaconhood
+deadening
 dadap
 daimyos
 drinkers
@@ -4261,7 +4262,6 @@ dernful
 disannexation
 demasculinise
 divisors
-deadening
 dermophytic
 dcolletage
 demagnetisation
