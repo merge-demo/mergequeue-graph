@@ -4660,7 +4660,6 @@ gynomonecious
 gise
 granges
 gooder
-gourmandise
 guessed
 gibbsite
 gormands
@@ -4709,6 +4708,7 @@ glick
 genethliatic
 gendarme
 giantlike
+gourmandise
 ganglander
 gyropilot
 greenwood
