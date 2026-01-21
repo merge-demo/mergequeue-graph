@@ -13824,6 +13824,7 @@ agglomerated
 afresh
 albumeniizer
 antiheroes
+antistrike
 afterhend
 archsynagogue
 anoscope
@@ -24773,7 +24774,6 @@ alitrunk
 aromadendrin
 alternators
 aviculturist
-antistrike
 abacot
 angioasthenia
 aymara
