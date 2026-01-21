@@ -2357,7 +2357,6 @@ gonopodpodia
 greeshoch
 geb
 george
-galloots
 ghiordes
 gadwall
 greenboard
@@ -6805,6 +6804,7 @@ glossopharyngeus
 gratuitous
 gregarinida
 gonococcocci
+galloots
 gonopore
 gonocoele
 gruppo
