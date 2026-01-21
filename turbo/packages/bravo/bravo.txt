@@ -7631,6 +7631,7 @@ boasting
 bollixes
 bribri
 brisbane
+blackplate
 bewilderment
 bewitched
 boughed
@@ -16560,7 +16561,6 @@ backbiters
 bushmen
 botrydium
 bibliopolical
-blackplate
 brachypinacoid
 bleary
 brutishness
