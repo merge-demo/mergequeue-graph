@@ -6669,7 +6669,6 @@ diplohedron
 downcurved
 desyatin
 deaconries
-dubonnets
 desman
 desiderable
 diascopy
@@ -11075,6 +11074,7 @@ detergents
 disappreciation
 deciatine
 disapprobatory
+dubonnets
 disappropriate
 dearsenicate
 diabolisation
