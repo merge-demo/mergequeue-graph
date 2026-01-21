@@ -4556,6 +4556,7 @@ conidial
 carnaptious
 congratulate
 carnaria
+confessarius
 carnassial
 carnate
 ctimo
@@ -24370,7 +24371,6 @@ chrysopoetics
 candour
 cosmoramic
 coolness
-confessarius
 coolnesses
 cytochemical
 cools
