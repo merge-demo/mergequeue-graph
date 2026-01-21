@@ -2961,7 +2961,6 @@ elicitors
 electropneumatic
 eloined
 endonuclear
-elicits
 engagee
 equaeval
 epihydrinic
@@ -8073,6 +8072,7 @@ exacum
 exceptions
 epiplocele
 epiploitis
+elicits
 enthuse
 epiprecoracoid
 extrude
