@@ -2566,6 +2566,7 @@ gametogeny
 globiferous
 generant
 generate
+gigliato
 guitars
 gypsiferous
 gazetteerage
@@ -6087,7 +6088,6 @@ gravities
 goodby
 gordiacean
 girja
-gigliato
 gardinol
 gallimaufry
 guanos
