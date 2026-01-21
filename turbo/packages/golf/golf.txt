@@ -373,6 +373,7 @@ goniometrical
 guyer
 galactosis
 glycerolate
+goniatites
 grimsire
 gauric
 galactotrophy
@@ -6673,7 +6674,6 @@ gumboils
 gastropancreatic
 gymnoglossa
 genuflected
-goniatites
 garterless
 guttler
 grint
