@@ -10080,7 +10080,6 @@ functions
 fishpound
 flavours
 fosh
-furnisher
 foozling
 fremontia
 fenian
@@ -10681,6 +10680,7 @@ footler
 famish
 frightable
 facultied
+furnisher
 fibular
 fruitlets
 facetted

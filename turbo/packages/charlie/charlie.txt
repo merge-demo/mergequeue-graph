@@ -16236,6 +16236,7 @@ clinodiagonal
 clinodomatic
 canzonas
 cardiamorphia
+corrie
 clinographic
 countryish
 chlamydosporic
@@ -25764,7 +25765,6 @@ collectional
 creem
 carhouse
 corrode
-corrie
 copremic
 corroders
 cneoraceae
