@@ -18826,7 +18826,6 @@ chromizes
 clammily
 corylet
 chatterbag
-colubriform
 coli
 cerebellocortex
 crommel
@@ -27551,6 +27550,7 @@ choffer
 choucroute
 coprahs
 climacium
+colubriform
 cheeriest
 coumara
 covetously

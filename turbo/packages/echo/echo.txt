@@ -9953,6 +9953,7 @@ embosk
 entonement
 entreatment
 esurient
+extremuma
 electroform
 easygoingly
 endocrinal
@@ -14095,7 +14096,6 @@ exterminable
 exhaustless
 excubittoria
 etyma
-extremuma
 ectozoa
 extrasacerdotal
 extricable
