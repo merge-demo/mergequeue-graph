@@ -493,7 +493,6 @@ buffo
 backstaff
 bridely
 blathering
-backstitch
 bahoo
 blumed
 billhead
@@ -7555,6 +7554,7 @@ blemishment
 burses
 beverse
 bacterin
+backstitch
 barbets
 blastocolla
 barrelmaking
