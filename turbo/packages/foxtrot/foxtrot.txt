@@ -3977,6 +3977,7 @@ forestalled
 flammant
 ferronickel
 friese
+furfurine
 flattish
 forfeited
 forlay
@@ -11311,7 +11312,6 @@ foldless
 forslow
 fusilades
 fps
-furfurine
 funebrious
 faujasite
 fertilise
