@@ -2286,7 +2286,6 @@ compassionable
 counterlathing
 centaurus
 canadine
-corresponds
 canadite
 conferva
 casbah
@@ -12899,6 +12898,7 @@ cooeeing
 copiers
 clavus
 colorblindness
+corresponds
 carroming
 cochleare
 cucullus
