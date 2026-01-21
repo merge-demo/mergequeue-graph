@@ -341,6 +341,7 @@ guarantee
 gravigrada
 galactolipide
 graveship
+granaries
 galactometer
 gorling
 gaussian
@@ -3709,7 +3710,6 @@ gastrocystis
 gyse
 granivore
 galvanoplastics
-granaries
 guttur
 guayacan
 ghuz
