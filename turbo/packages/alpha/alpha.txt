@@ -12743,6 +12743,7 @@ apardon
 aubergine
 angiodermatitis
 angiodiascopy
+acquittance
 allegiare
 angiogeny
 anyway
@@ -23167,7 +23168,6 @@ autosomes
 aciurgy
 asteriscus
 attends
-acquittance
 avowedly
 almshouses
 araucano
