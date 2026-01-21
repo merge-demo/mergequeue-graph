@@ -1285,6 +1285,7 @@ faecula
 fastidium
 faineants
 fibroblast
+fuchsian
 formicide
 flabbergasts
 fibrillate
@@ -10800,7 +10801,6 @@ filamentoid
 fullering
 footpads
 farmerette
-fuchsian
 fort
 floundered
 faintful
