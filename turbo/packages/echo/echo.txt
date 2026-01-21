@@ -5302,6 +5302,7 @@ ethonomic
 exsertion
 endospore
 evidentness
+expulsions
 encharm
 epiphyte
 epituberculous
@@ -8116,7 +8117,6 @@ eclectically
 erudit
 echeveria
 episcopate
-expulsions
 entosphere
 episcopature
 eczemas
