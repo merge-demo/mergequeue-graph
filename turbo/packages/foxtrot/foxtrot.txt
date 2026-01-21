@@ -8606,7 +8606,6 @@ fluotantalic
 foredid
 fir
 fittings
-ferretto
 finnochio
 functionate
 fingerfishes
@@ -9953,6 +9952,7 @@ foundation
 fluocerine
 forthfigured
 facecloth
+ferretto
 facias
 fragment
 forcers
