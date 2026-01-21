@@ -8605,6 +8605,7 @@ diary
 diaglyph
 diarist
 dibbuk
+dumps
 denatured
 diarrhea
 dows
@@ -18185,7 +18186,6 @@ depositaries
 dynamicity
 dumpoke
 deltohedra
-dumps
 dissective
 dumsola
 disdiaclastic
