@@ -774,6 +774,7 @@ frig
 fetidness
 fezzan
 fibroangioma
+frillers
 fulmine
 ferv
 frequently
@@ -5422,7 +5423,6 @@ ferreter
 funniness
 frequentness
 flensed
-frillers
 fallation
 floccing
 foolscap
