@@ -2480,6 +2480,7 @@ footed
 fishhood
 faddier
 futility
+fuss
 fenestrule
 fuddlement
 footscraper
@@ -5024,7 +5025,6 @@ frightless
 favorless
 figboy
 frother
-fuss
 flanders
 flirtational
 felter
