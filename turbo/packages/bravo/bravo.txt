@@ -4508,6 +4508,7 @@ becross
 bureaucratism
 becrowd
 becrowded
+basidiomycetes
 burstwort
 billeting
 brickset
@@ -8955,7 +8956,6 @@ bioecologically
 balatong
 bioelectrical
 bioengineering
-basidiomycetes
 bioethic
 beaverpelt
 bromyrite
