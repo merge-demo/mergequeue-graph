@@ -8463,7 +8463,6 @@ electrodissolution
 eydent
 expansions
 externally
-endball
 exculpation
 eleemosynariness
 evolutive
@@ -9392,6 +9391,7 @@ echeneid
 enantobiosis
 escaper
 embodied
+endball
 enfranchiser
 extent
 elaphomyces
