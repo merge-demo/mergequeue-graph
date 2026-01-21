@@ -9422,7 +9422,6 @@ deglut
 destructively
 digamma
 demilegato
-downfeed
 digammated
 dodgier
 donators
@@ -11961,6 +11960,7 @@ deducer
 disembogued
 diarian
 deceases
+downfeed
 deliciate
 deracination
 dictionaries
