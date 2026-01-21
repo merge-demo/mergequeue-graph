@@ -17542,6 +17542,7 @@ chomped
 cocash
 cocause
 cocautioner
+cancel
 coccaceae
 crucifix
 cohoshes
@@ -28006,7 +28007,6 @@ cradleboard
 citizenized
 cinnamomic
 concoctor
-cancel
 coltish
 crayons
 comedic
