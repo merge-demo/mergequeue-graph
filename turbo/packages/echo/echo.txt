@@ -7629,6 +7629,7 @@ ecca
 enhancement
 extrasomatic
 emplead
+electrographite
 enterostasis
 earworms
 eton
@@ -9173,7 +9174,6 @@ enfork
 enchodus
 elates
 embryophyte
-electrographite
 empiricism
 enclasp
 egomaniac
