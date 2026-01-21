@@ -6934,7 +6934,6 @@ cemetery
 copesettic
 cemeterial
 conjuncture
-cymoscope
 concours
 ceratinous
 culm
@@ -15684,6 +15683,7 @@ camwood
 clavelization
 clavelize
 clavellated
+cymoscope
 cothurnian
 controllingly
 clavered
