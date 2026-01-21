@@ -5765,7 +5765,6 @@ goony
 goupin
 galactosemic
 gnatworm
-genupectoral
 goniometer
 globoid
 gingivitis
@@ -7757,6 +7756,7 @@ guessers
 girnal
 glacial
 gunung
+genupectoral
 grainiest
 gipseian
 gaucie
