@@ -177,7 +177,6 @@ baccalaureate
 baccalaureates
 baccalaureus
 baccara
-baroques
 bipartition
 bandido
 byes
@@ -14361,6 +14360,7 @@ brayerin
 brionies
 brutedom
 burry
+baroques
 befleaing
 braies
 bleeping
