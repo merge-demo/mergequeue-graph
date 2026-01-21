@@ -6737,7 +6737,6 @@ deerweeds
 dihedral
 depraving
 download
-dodecatyl
 disally
 dirtboard
 datatype
@@ -16215,6 +16214,7 @@ doweress
 dingeys
 dunches
 dent
+dodecatyl
 dowery
 derailer
 diethanolamine
