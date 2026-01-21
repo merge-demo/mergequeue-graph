@@ -6940,6 +6940,7 @@ brott
 bilihumin
 begohm
 bornean
+banefulness
 bagoong
 balky
 brainwater
@@ -14549,7 +14550,6 @@ branchireme
 branchless
 bdellostomidae
 batteryman
-banefulness
 basifies
 balladeer
 branchlet
