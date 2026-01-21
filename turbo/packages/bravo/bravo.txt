@@ -3176,6 +3176,7 @@ bataleur
 bashmuric
 boryl
 biperforate
+bivouacking
 branchiomerism
 busine
 berserk
@@ -11649,7 +11650,6 @@ bryologist
 bosket
 boatage
 barspoon
-bivouacking
 boatbuilding
 boathouse
 boffos
