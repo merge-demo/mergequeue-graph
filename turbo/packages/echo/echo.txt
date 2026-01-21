@@ -3114,7 +3114,6 @@ elodes
 eloge
 eventognathous
 epiphytology
-elogy
 exhorting
 elogium
 egohood
@@ -13294,6 +13293,7 @@ eupterotidae
 estoile
 epistemologically
 espousers
+elogy
 efformation
 eminences
 ethicalities
