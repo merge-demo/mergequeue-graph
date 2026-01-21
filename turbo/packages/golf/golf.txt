@@ -8883,6 +8883,7 @@ gourdful
 ghostliest
 ghostfish
 grizzle
+groenlandicus
 gressorial
 grieving
 gambas
@@ -9277,7 +9278,6 @@ groenendael
 gecko
 gallstone
 graduale
-groenlandicus
 glucuronic
 goyana
 gurge
