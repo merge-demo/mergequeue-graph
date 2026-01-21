@@ -956,7 +956,6 @@ gamophagy
 ghostless
 glomeruli
 graptolite
-glist
 genomic
 gamostele
 glottogony
@@ -2867,6 +2866,7 @@ gravediggers
 gudge
 guddled
 gynospore
+glist
 globiocephalus
 gingerline
 gyromitra

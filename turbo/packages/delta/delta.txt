@@ -590,7 +590,6 @@ digenea
 dissolver
 diwan
 diwata
-decopperization
 dowdyism
 desmopathologist
 dicyclopentadienyliron
@@ -2724,6 +2723,7 @@ diogenic
 decorator
 deliberated
 disaffiliate
+decopperization
 devonshire
 dictates
 dissembling
