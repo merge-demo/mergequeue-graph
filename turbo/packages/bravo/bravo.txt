@@ -601,6 +601,7 @@ bacteriaceae
 bacteriaemia
 brobdingnagian
 bandidos
+baler
 brooched
 baggyrinkle
 bactericide
@@ -17043,7 +17044,6 @@ biocontrol
 barbicels
 braces
 bulimus
-baler
 bimahs
 binoxide
 bishoping
