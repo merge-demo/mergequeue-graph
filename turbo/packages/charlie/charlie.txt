@@ -9511,6 +9511,7 @@ capos
 checky
 cityful
 circularising
+carbonates
 crowncapping
 checkless
 checklist
@@ -25104,7 +25105,6 @@ corequisite
 corer
 corers
 cores
-carbonates
 chlorospinel
 coresign
 coresonant
