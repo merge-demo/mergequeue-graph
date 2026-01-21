@@ -2097,7 +2097,6 @@ eyeteeth
 elasticity
 enchondroma
 effortlessly
-equably
 euxenite
 elastivity
 eleusine
@@ -10920,6 +10919,7 @@ euplexoptera
 err
 embalmer
 excess
+equably
 exdie
 egoize
 editorializer
