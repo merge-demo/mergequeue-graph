@@ -8168,6 +8168,7 @@ bhumij
 beliefs
 bania
 boltonias
+bahuts
 boathouses
 bulbils
 bountith
@@ -16264,7 +16265,6 @@ browniest
 bersagliere
 blackguardize
 beamlet
-bahuts
 bourock
 brownishness
 brindles
