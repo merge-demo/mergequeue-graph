@@ -5087,7 +5087,6 @@ edificate
 epiplanktonic
 encrustment
 episiotomy
-elegits
 ember
 elaeoblast
 elatives
@@ -5484,6 +5483,7 @@ elritch
 ectocarpic
 excitate
 equiformity
+elegits
 enzymosis
 ethnically
 ensnarers
