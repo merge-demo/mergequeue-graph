@@ -1401,6 +1401,7 @@ epithalamia
 etherified
 essenced
 ebrious
+embryophyta
 enormousness
 endpiece
 entodermal
@@ -4462,7 +4463,6 @@ escocheon
 encephalitic
 executively
 emulators
-embryophyta
 encephalographic
 ekphorize
 episematic
