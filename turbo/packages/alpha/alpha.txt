@@ -20804,7 +20804,6 @@ archheresy
 artotype
 annotation
 acolhua
-applicate
 aligners
 adeodatus
 antbird
@@ -24109,6 +24108,7 @@ accumulations
 accusatrix
 approximable
 autoecism
+applicate
 alloimmune
 anacondas
 abrine
