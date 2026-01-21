@@ -8188,7 +8188,6 @@ carpentry
 calices
 chaksi
 chal
-complection
 chalaco
 crispation
 cellarous
@@ -16385,6 +16384,7 @@ cosmetician
 coined
 clitoridotomy
 clitorism
+complection
 castana
 constable
 cowslips
