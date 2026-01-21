@@ -9744,6 +9744,7 @@ amalgamate
 ambolic
 antigrowth
 adjutory
+anisole
 antimonarchical
 anamesite
 ampelopsin
@@ -10012,7 +10013,6 @@ amblypodous
 ambit
 apriority
 ambital
-anisole
 arteriococcygeal
 analysability
 ambition
