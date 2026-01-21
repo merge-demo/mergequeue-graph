@@ -4946,6 +4946,7 @@ essentia
 exul
 effuses
 enschedule
+emplume
 exomphalous
 endemicity
 epichirema
@@ -10437,7 +10438,6 @@ etiologue
 endocortex
 execrable
 engrams
-emplume
 erstwhile
 etypic
 equiponderation
