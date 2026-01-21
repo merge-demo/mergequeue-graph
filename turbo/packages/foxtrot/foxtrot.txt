@@ -1231,6 +1231,7 @@ fasherie
 fusilier
 fashing
 fleeted
+francolite
 fritt
 fiddley
 forediscern
@@ -9290,7 +9291,6 @@ formicicide
 frankfurt
 fromages
 fluxility
-francolite
 faller
 fro
 fanneling
