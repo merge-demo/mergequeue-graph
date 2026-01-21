@@ -10453,6 +10453,7 @@ dotty
 diphtheric
 disprover
 denticeti
+dendroidal
 diphtheritically
 disarraying
 dourly
@@ -15016,7 +15017,6 @@ demirhumb
 doggedness
 demonographer
 dysmetria
-dendroidal
 defeatism
 disarrangements
 degage
