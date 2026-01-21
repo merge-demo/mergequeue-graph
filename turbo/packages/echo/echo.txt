@@ -8986,7 +8986,6 @@ ebullience
 employer
 exophthalmos
 erythema
-evene
 erythemal
 eclairs
 elenchical
@@ -12189,6 +12188,7 @@ execratively
 excreter
 enragedness
 economised
+evene
 emoluments
 execrator
 enthroning
