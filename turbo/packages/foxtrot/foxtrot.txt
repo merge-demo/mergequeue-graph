@@ -9801,7 +9801,6 @@ foredooming
 fleck
 faddist
 fretum
-fleetful
 fidget
 fluors
 fovilla
@@ -10066,6 +10065,7 @@ friskingly
 fishhouse
 frisks
 frondiform
+fleetful
 feudatary
 firster
 foredecree
