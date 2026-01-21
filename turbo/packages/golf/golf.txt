@@ -4506,6 +4506,7 @@ gambrel
 gills
 graminiform
 gerbille
+gobstick
 gaisling
 gigantomachia
 gawp
@@ -9790,7 +9791,6 @@ galeche
 gumfield
 grylle
 gonothecal
-gobstick
 geognosies
 gunnung
 guacacoa
