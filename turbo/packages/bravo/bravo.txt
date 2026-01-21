@@ -9802,7 +9802,6 @@ bistriate
 bombardment
 beddable
 breeze
-brachypleural
 bartender
 brokenhearted
 banderoles
@@ -18000,6 +17999,7 @@ bowled
 boners
 benzophenoxazine
 blanketing
+brachypleural
 bonnock
 ballyragging
 benzylamine
