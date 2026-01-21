@@ -5469,6 +5469,7 @@ furrower
 furnit
 faked
 filionymic
+forgat
 forbearingness
 frowzy
 festschriften
@@ -8215,7 +8216,6 @@ ferrated
 forficulidae
 forfoughten
 finestra
-forgat
 flavines
 footwork
 forgather
