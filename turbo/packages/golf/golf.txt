@@ -1447,7 +1447,6 @@ gove
 gynocardia
 gradualness
 gasboat
-giddiness
 grager
 grayly
 gaselier
@@ -3716,6 +3715,7 @@ gasterothecal
 genethlialogy
 gallein
 goonie
+giddiness
 graveldiver
 getatable
 gazoz
