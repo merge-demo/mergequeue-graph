@@ -4991,7 +4991,6 @@ forthgoing
 fibrocrystalline
 flappable
 frankalmoin
-fermions
 figlike
 fishline
 fosses
@@ -10268,6 +10267,7 @@ fistulatome
 fasher
 frolicking
 frillies
+fermions
 flagitiousness
 faitour
 ferricyanhydric
