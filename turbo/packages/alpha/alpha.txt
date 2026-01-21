@@ -360,7 +360,6 @@ aberrative
 acinose
 abetments
 ambulant
-andesitic
 antietam
 arsenide
 abetted
@@ -19378,6 +19377,7 @@ astasias
 aerocar
 abysms
 argentines
+andesitic
 atheistical
 anchoretical
 administratrix
