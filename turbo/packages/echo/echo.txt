@@ -8796,7 +8796,6 @@ enskyed
 embelin
 entourage
 embrittling
-entempest
 empetraceous
 epistolize
 entomostracous
@@ -10448,6 +10447,7 @@ ericius
 etypically
 emblemed
 etherin
+entempest
 epochist
 exalate
 encroachingly
