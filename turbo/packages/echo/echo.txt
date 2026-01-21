@@ -1680,7 +1680,6 @@ electrothermancy
 ellan
 esophagi
 eddoes
-elaioleucite
 eyebright
 eyliad
 electrotheraputics
@@ -9581,6 +9580,7 @@ esophago
 esophagogastroscopy
 esophagometer
 emotionalized
+elaioleucite
 evoked
 esophagoplasty
 embodiment
