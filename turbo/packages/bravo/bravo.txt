@@ -2380,6 +2380,7 @@ boxwork
 benzoylformic
 blip
 bebeeru
+bioluminescent
 barcone
 backwraps
 banshie
@@ -6867,7 +6868,6 @@ bacteriotoxic
 benkulen
 bigener
 buicks
-bioluminescent
 bescourge
 buckeroos
 bust
