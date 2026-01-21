@@ -3814,7 +3814,6 @@ escapology
 emerged
 edulcorated
 echinostomiasis
-emergentness
 espriella
 estamene
 emery
@@ -11391,6 +11390,7 @@ everydayness
 everyhow
 ectethmoidal
 everywhen
+emergentness
 euahlayi
 escorting
 eicosane
