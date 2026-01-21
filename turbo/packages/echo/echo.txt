@@ -10598,7 +10598,6 @@ execratory
 ergatandry
 electroendosmose
 electrotherapies
-endorse
 eucritic
 eudaemon
 eurous
@@ -14113,6 +14112,7 @@ entrancements
 extrinsically
 enfeoffment
 extrinsicalness
+endorse
 extrinsication
 enthralls
 exhortatively
