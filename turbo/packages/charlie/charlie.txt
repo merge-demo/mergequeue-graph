@@ -8270,7 +8270,6 @@ crummable
 cardinalship
 chalicotheriidae
 cephalohumeralis
-chantress
 courtyard
 chalina
 coonskin
@@ -11698,6 +11697,7 @@ curdiest
 chondrify
 chondrification
 cygnine
+chantress
 chondrilla
 chondrinous
 crotalism
