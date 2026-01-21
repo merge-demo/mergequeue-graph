@@ -1256,7 +1256,6 @@ granage
 ged
 goethites
 genetics
-gromatical
 graptolithina
 gyrator
 glyphographer
@@ -7211,6 +7210,7 @@ gratin
 globosite
 gymnocarpous
 gizzen
+gromatical
 galahad
 gonoblastidial
 grabbler
