@@ -6111,7 +6111,6 @@ gnomologist
 gyroma
 grades
 greit
-gustoes
 gypsoplast
 gnathostome
 gjetosts
@@ -8812,6 +8811,7 @@ generalize
 griddler
 galleys
 gentianaceous
+gustoes
 gallus
 globate
 gm
