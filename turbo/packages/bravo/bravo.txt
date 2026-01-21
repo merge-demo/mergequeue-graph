@@ -9496,7 +9496,6 @@ byrnie
 biotope
 battlefront
 bisulphide
-babingtonite
 biron
 byronesque
 birostrate
@@ -17798,6 +17797,7 @@ buoyances
 breakback
 betrousered
 burroweed
+babingtonite
 benevolent
 burrstone
 bambini
