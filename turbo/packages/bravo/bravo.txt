@@ -5972,6 +5972,7 @@ belts
 bloodspilling
 beadlike
 bionomy
+branchireme
 broads
 belute
 begirdles
@@ -14552,7 +14553,6 @@ biosociology
 branchiostomid
 bounciest
 branchiostomous
-branchireme
 branchless
 bdellostomidae
 batteryman
