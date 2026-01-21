@@ -6164,6 +6164,7 @@ glistened
 greenhead
 gpd
 goliaths
+genuflectory
 grayout
 gaspergous
 gambodic
@@ -8381,7 +8382,6 @@ gizzards
 gulping
 guitarfishes
 grippes
-genuflectory
 giantry
 gunplay
 ghawazi
