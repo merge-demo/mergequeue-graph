@@ -17767,7 +17767,6 @@ codamin
 coindwelling
 categorisation
 cardiography
-codas
 coddy
 coddle
 coddler
@@ -30480,6 +30479,7 @@ ctenoplana
 ctenostomata
 ctetology
 cto
+codas
 charcuteries
 carbo
 ctr
