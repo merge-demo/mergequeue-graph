@@ -5667,6 +5667,7 @@ badgeless
 belection
 brining
 burling
+brimfull
 belecture
 belemnitic
 bairnlier
@@ -15018,7 +15019,6 @@ burtons
 besmoke
 barramundis
 bemusedly
-brimfull
 basenji
 balefully
 barelegged
