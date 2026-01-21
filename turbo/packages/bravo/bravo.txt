@@ -5844,6 +5844,7 @@ boxcar
 bullsnake
 berseem
 bittock
+borazons
 bribeworthy
 baigneuse
 bengaline
@@ -8013,7 +8014,6 @@ bibliopolism
 bedlight
 berhyming
 bichloride
-borazons
 bioxalate
 bichos
 bichromatize
