@@ -3097,7 +3097,6 @@ euectic
 elmwood
 exudations
 eyewash
-empennage
 equiangularity
 epicalyces
 even
@@ -9743,6 +9742,7 @@ entoplasm
 elamp
 eurhythmy
 exitious
+empennage
 enthusiast
 expressure
 essentially
