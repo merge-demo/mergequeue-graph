@@ -6089,6 +6089,7 @@ boarskin
 binauricular
 benchership
 bodge
+blackbrush
 blusters
 benchful
 bafyot
@@ -13518,7 +13519,6 @@ bouch
 blacksmith
 boucharde
 baccae
-blackbrush
 barometrography
 blundered
 becomingness
