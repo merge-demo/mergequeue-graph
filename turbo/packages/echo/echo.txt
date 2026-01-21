@@ -2459,7 +2459,6 @@ equivalence
 electrogenic
 electrogild
 eudemonia
-exhilarates
 enhearten
 electrogilt
 ejecting
@@ -7300,6 +7299,7 @@ exulding
 epizoal
 eriophyid
 elongate
+exhilarates
 epanorthidae
 electrojet
 ephorates
