@@ -13041,6 +13041,7 @@ chichili
 coccinellidae
 cytodieresis
 cyatheaceae
+conics
 cunningaire
 conclave
 conational
@@ -15933,7 +15934,6 @@ contorniate
 clepsine
 condemnatory
 cleptobioses
-conics
 coadministration
 coryphylly
 chistka
