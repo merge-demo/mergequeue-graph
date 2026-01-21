@@ -10087,6 +10087,7 @@ dextrane
 disamis
 dexiotropism
 dales
+dreamboat
 demonomy
 dynastides
 distichously
@@ -13781,7 +13782,6 @@ druxy
 dissour
 disadventure
 disenshroud
-dreamboat
 desugaring
 doom
 degression

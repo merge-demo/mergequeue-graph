@@ -19913,7 +19913,6 @@ adenofibrosis
 anagnorisis
 animalculism
 astrocytomata
-arterialized
 anemochoric
 abstrusenesses
 antileukemic
@@ -20833,6 +20832,7 @@ arupa
 armoried
 amaas
 arteriography
+arterialized
 arval
 arvejon
 auturgy
