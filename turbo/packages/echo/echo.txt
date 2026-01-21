@@ -5418,7 +5418,6 @@ evulsion
 emydosauria
 electuary
 enantiomorph
-exculpations
 eurithermophile
 emplastrum
 equivocates
@@ -10948,6 +10947,7 @@ envoy
 eggy
 eupotamic
 encoignure
+exculpations
 elevators
 equivocalness
 echiurid
