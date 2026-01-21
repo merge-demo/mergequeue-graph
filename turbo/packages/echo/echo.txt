@@ -7129,7 +7129,6 @@ excandescence
 earthshine
 endymion
 empassion
-eglandulous
 equestrians
 enwinding
 elemis
@@ -11902,6 +11901,7 @@ exogyra
 expurgation
 ephidrosis
 excerebration
+eglandulous
 eudaemonistically
 excursory
 epikeia
