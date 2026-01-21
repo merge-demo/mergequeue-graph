@@ -4734,6 +4734,7 @@ aranein
 albuminimetry
 aftosa
 allogamy
+anda
 aviational
 aequor
 altitudes
@@ -23114,7 +23115,6 @@ antisplenetic
 armigers
 alluviation
 antephialtic
-anda
 anticommercialistic
 anarthropoda
 autorhythmic
