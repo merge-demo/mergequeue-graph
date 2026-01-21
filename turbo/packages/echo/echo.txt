@@ -1787,7 +1787,6 @@ eyespots
 epexegetically
 eyewaiter
 episepalous
-emanium
 emigrant
 exoclinal
 exhorters
@@ -11057,6 +11056,7 @@ epicostal
 endotheliocyte
 ead
 ecologists
+emanium
 epimerum
 euskaric
 electors
