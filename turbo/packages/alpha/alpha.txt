@@ -3490,7 +3490,6 @@ addleheadedness
 addleness
 abscissa
 activists
-addlepate
 angiotome
 antimeristem
 aeroyacht
@@ -12514,6 +12513,7 @@ attask
 areas
 acoustician
 appendicate
+addlepate
 adiapneustia
 androgonial
 augurers
