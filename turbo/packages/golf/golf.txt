@@ -5510,6 +5510,7 @@ gump
 grassfinch
 griefs
 gauffers
+gascons
 guttiferous
 germinally
 gangplanks
@@ -9663,7 +9664,6 @@ gibuses
 gowdie
 griotte
 gastroscopy
-gascons
 gowaned
 gorgonaceous
 gomerals
