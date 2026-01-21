@@ -1087,7 +1087,6 @@ calchas
 calche
 cordials
 combs
-creeling
 calcicolous
 curdiness
 calcicosis
@@ -24111,6 +24110,7 @@ convertite
 comfortless
 convertive
 choriocapillary
+creeling
 chaetognath
 caterership
 convertoplane
