@@ -2262,7 +2262,6 @@ geissoloma
 geissolomataceae
 geissospermine
 glamor
-genecologic
 glimpses
 granulocytopoiesis
 gunkholed
@@ -2946,6 +2945,7 @@ gusts
 gurkha
 gastroplenic
 gollop
+genecologic
 guapilla
 gibes
 geminorum
