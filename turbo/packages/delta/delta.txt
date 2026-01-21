@@ -4927,6 +4927,7 @@ dragontail
 dephosphorize
 draggled
 demountable
+dribbles
 devastators
 demounts
 dempsters
@@ -17076,7 +17077,6 @@ dryadetum
 damners
 dentistic
 dactyliographer
-dribbles
 dosers
 disthroning
 divisory
