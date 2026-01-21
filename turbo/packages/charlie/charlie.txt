@@ -17674,6 +17674,7 @@ cockade
 colour
 colonisation
 christianization
+cheerless
 connecting
 cockades
 clobber
@@ -21580,7 +21581,6 @@ cosmographer
 concussed
 cringers
 clarkeite
-cheerless
 carapato
 cosounding
 cobbly
