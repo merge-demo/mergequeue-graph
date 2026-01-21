@@ -9544,7 +9544,6 @@ amuse
 anhydration
 antecommunion
 aspersors
-altruists
 altun
 alimentary
 anchoretism
@@ -9945,6 +9944,7 @@ autopilots
 ambe
 anapneic
 answerlessly
+altruists
 ambeers
 anay
 angioneurotic
