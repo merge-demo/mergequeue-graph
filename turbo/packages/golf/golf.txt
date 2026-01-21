@@ -4861,7 +4861,6 @@ gymnotoka
 globularity
 guest
 greensand
-grudge
 ginghams
 greeter
 glaizie
@@ -7447,6 +7446,7 @@ glub
 geologising
 gourded
 gospelist
+grudge
 granuliferous
 gabbler
 guereza
