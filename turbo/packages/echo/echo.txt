@@ -6247,6 +6247,7 @@ eyre
 educate
 epigaster
 ease
+elamp
 ethanes
 enrich
 enrichener
@@ -9742,7 +9743,6 @@ estivating
 erythronium
 equid
 entoplasm
-elamp
 eurhythmy
 exitious
 empennage
