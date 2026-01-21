@@ -10514,7 +10514,6 @@ bakestone
 biologistic
 bepastured
 blastogenic
-bandfiled
 bop
 brainy
 bridgewards
@@ -17106,6 +17105,7 @@ bulldozing
 beduck
 bullet
 bugseed
+bandfiled
 byepath
 bequeather
 bulletheadedness
