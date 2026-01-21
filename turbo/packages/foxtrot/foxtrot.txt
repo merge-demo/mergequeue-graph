@@ -1917,6 +1917,7 @@ fumbling
 frouze
 foism
 fruitless
+flickery
 feta
 fleeceless
 fremescent
@@ -7748,7 +7749,6 @@ fettucine
 foremother
 frithbot
 flyblew
-flickery
 faint
 fraenum
 forgathering
