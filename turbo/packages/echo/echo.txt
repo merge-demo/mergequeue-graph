@@ -1419,7 +1419,6 @@ erythroclastic
 erythroscope
 emblazons
 ejectivity
-etypical
 entoparasite
 existential
 engineeringly
@@ -3685,6 +3684,7 @@ encyrtidae
 erythromycin
 expectant
 elec
+etypical
 extratellurian
 ecklein
 effluvium
