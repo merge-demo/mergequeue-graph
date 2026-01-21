@@ -5376,6 +5376,7 @@ empresario
 exuviated
 exinanite
 engirdles
+evolution
 enfester
 ed
 emigrants
@@ -6351,7 +6352,6 @@ enthrals
 evenfalls
 endangiitis
 enshield
-evolution
 endostitis
 ebbed
 eavesdrip
