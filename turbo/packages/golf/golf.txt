@@ -1779,6 +1779,7 @@ genealogizer
 gastroscopist
 gavelled
 guatusan
+girtonian
 gynandrism
 glossolaly
 gelatinotype
@@ -3203,7 +3204,6 @@ geraniums
 gebur
 galoping
 giron
-girtonian
 gap
 ghosty
 gundelet
