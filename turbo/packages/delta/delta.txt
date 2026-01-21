@@ -2096,7 +2096,6 @@ daintify
 doline
 diapasm
 daunts
-doab
 disinheritances
 duddies
 despoilment
@@ -4279,6 +4278,7 @@ decomposes
 dhoney
 deplores
 demagnetizing
+doab
 devilbird
 devoutness
 durning
