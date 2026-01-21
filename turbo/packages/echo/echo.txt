@@ -7478,6 +7478,7 @@ ethylate
 epibatholithic
 electrodepositor
 ensignhood
+emmantle
 extradite
 enviously
 externate
@@ -13186,7 +13187,6 @@ exponentiation
 epaxial
 exotica
 eremophyte
-emmantle
 expirations
 extirpate
 exaspidean
