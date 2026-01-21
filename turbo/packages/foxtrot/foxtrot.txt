@@ -1247,7 +1247,6 @@ frigidity
 fenders
 flexural
 fragmentizer
-flinched
 fatuities
 feodatory
 funkias
@@ -6722,6 +6721,7 @@ fineer
 furthersome
 flagellum
 fibrochondroma
+flinched
 fleury
 fingerspin
 feedwater
