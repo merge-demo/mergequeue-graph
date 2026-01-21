@@ -4240,7 +4240,6 @@ fundamentalism
 forenoted
 fabulize
 foreyard
-fatless
 flail
 fireward
 forehead
@@ -9235,6 +9234,7 @@ fasciolet
 fibroglioma
 fresnel
 foresentence
+fatless
 fetishist
 fleuret
 fourchet
