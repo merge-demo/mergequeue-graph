@@ -11592,6 +11592,7 @@ envenomous
 everywhereness
 expatiation
 encephalitis
+exotropism
 ewte
 eskimos
 elumbated
@@ -13008,7 +13009,6 @@ expatiated
 efflate
 expedience
 engrossment
-exotropism
 ecb
 elopement
 epiglottis
