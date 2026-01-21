@@ -2417,6 +2417,7 @@ deceived
 disaffiliation
 dane
 demonstratedly
+deferable
 dropkick
 dusken
 dihydronaphthalene
@@ -6155,7 +6156,6 @@ demonstrability
 did
 derisively
 dejeuners
-deferable
 derival
 derivant
 dendrogaea
