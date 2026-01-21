@@ -12306,6 +12306,7 @@ blanda
 bullwhacker
 betrayer
 bombardments
+billion
 bombline
 bowdrill
 bombast
@@ -12697,7 +12698,6 @@ bibliographically
 bowet
 booker
 boatkeeper
-billion
 bailsmen
 bookfold
 biometric
