@@ -4226,6 +4226,7 @@ adposition
 acmispon
 azonium
 armorer
+assimilations
 aesculapius
 assubjugate
 annoyful
@@ -20570,7 +20571,6 @@ arthrodymic
 analytic
 aristotelian
 alkoxy
-assimilations
 administerings
 amniote
 androgonium
