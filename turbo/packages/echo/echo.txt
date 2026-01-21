@@ -4723,7 +4723,6 @@ episcopacy
 estranging
 ebulliometry
 epistler
-entomophytous
 exploratory
 equationism
 extracardial
@@ -11468,6 +11467,7 @@ erin
 etouffe
 extravertively
 erbium
+entomophytous
 enlistees
 eidolic
 electrophotometer
