@@ -2526,7 +2526,6 @@ foremeant
 footsore
 functionize
 faired
-fastballs
 frush
 flunky
 favaginous
@@ -3222,6 +3221,7 @@ frankheartness
 foutre
 forcene
 fireballs
+fastballs
 fistularioid
 fantasmagorically
 fable
