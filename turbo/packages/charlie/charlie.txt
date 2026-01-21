@@ -5622,6 +5622,7 @@ centi
 crochet
 catalogia
 crossweb
+cymas
 contractible
 catalogical
 carking
@@ -29932,7 +29933,6 @@ crosslight
 crosslike
 carbosilicate
 crossline
-cymas
 crosslink
 crossness
 cladophorales
