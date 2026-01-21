@@ -2592,7 +2592,6 @@ bulletined
 barytocelestite
 barytone
 barytons
-busing
 bowable
 bears
 brittlely
@@ -15100,6 +15099,7 @@ brotan
 breastplate
 bret
 bankrolls
+busing
 bretesse
 bretschneideraceae
 bulldoggishness
