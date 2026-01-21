@@ -14601,7 +14601,6 @@ broncobuster
 bellyband
 betrumpet
 behorn
-beanies
 brank
 brankie
 blurry
@@ -14981,6 +14980,7 @@ belgians
 brigous
 brassicas
 breathe
+beanies
 bravuraish
 blennophlogisma
 breathes
