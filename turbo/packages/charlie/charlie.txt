@@ -2137,7 +2137,6 @@ cowbells
 campbell
 campbellites
 cixiid
-cambuscan
 capriciousness
 campcraft
 campe
@@ -15402,6 +15401,7 @@ centrosome
 clapt
 chicane
 cautio
+cambuscan
 cabins
 claptraps
 culbuter
