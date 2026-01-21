@@ -5606,6 +5606,7 @@ depictment
 dandilly
 depictors
 depicture
+dermatocyst
 dreadly
 distract
 debe
@@ -9758,7 +9759,6 @@ decaphyllous
 deckpipe
 dysoxidize
 dogmatiser
-dermatocyst
 dillesk
 detailedness
 daimones
