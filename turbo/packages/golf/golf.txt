@@ -642,6 +642,7 @@ gabionage
 guruships
 gemmaceous
 gerodontia
+gilgul
 gasometry
 ghostlify
 gnarled
@@ -3207,7 +3208,6 @@ giron
 gap
 ghosty
 gundelet
-gilgul
 goldenwing
 galoot
 greatish
