@@ -317,6 +317,7 @@ giftbook
 gastrocoele
 galabeah
 gazolyte
+garotes
 grandpappy
 galabieh
 globulous
@@ -9355,7 +9356,6 @@ gustative
 grisette
 gymnoderinae
 glided
-garotes
 gurly
 germanhood
 germigenous
