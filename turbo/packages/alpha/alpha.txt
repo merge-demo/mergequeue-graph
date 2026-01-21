@@ -2370,7 +2370,6 @@ autosymbolic
 abortionist
 abator
 alineation
-acrospired
 asseverates
 acinaciform
 amorism
@@ -4642,6 +4641,7 @@ airbursts
 aedileship
 anthropomorphitism
 asidehand
+acrospired
 atomerg
 accessorii
 aedilian
