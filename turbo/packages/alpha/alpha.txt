@@ -2767,7 +2767,6 @@ apotropaion
 autopista
 acrocephalic
 accompanable
-aw
 anguished
 acrochordinae
 almeh
@@ -7256,6 +7255,7 @@ aerobating
 antipetalous
 ankylosed
 adlegiare
+aw
 appropriative
 ashake
 albarco
