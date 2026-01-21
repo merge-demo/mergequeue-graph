@@ -8279,7 +8279,6 @@ animadversive
 alimentariness
 alimentation
 alimentativeness
-arsenium
 alimentic
 aggravative
 alabandite
@@ -16144,6 +16143,7 @@ abiotically
 antisiphon
 advenae
 augelite
+arsenium
 appall
 aidable
 aviatorial

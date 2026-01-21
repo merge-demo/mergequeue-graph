@@ -6997,7 +6997,6 @@ fictionistic
 fusees
 fichtelite
 floriferousness
-finagled
 flagellate
 fumade
 freespace
@@ -10553,6 +10552,7 @@ falltime
 forcipiform
 frowze
 franking
+finagled
 fluky
 flatus
 furnaces
