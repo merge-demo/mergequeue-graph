@@ -11833,7 +11833,6 @@ cultch
 chora
 cardioplasty
 cagn
-choragi
 choragic
 choragion
 calendars
@@ -18573,6 +18572,7 @@ conculcation
 cunner
 characterstring
 coil
+choragi
 curtis
 coiled
 coiler
