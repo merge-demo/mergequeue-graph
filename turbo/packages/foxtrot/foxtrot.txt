@@ -6927,6 +6927,7 @@ fumarase
 fun
 fibromatosis
 fauconnier
+fructuosity
 ferrocyanic
 fisherpeople
 flaky
@@ -8126,7 +8127,6 @@ foregate
 forthwith
 fretless
 ferberite
-fructuosity
 fossilology
 forecastleman
 fountful
