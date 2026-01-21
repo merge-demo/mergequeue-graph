@@ -2131,7 +2131,6 @@ esophagostenosis
 eyestring
 edwardian
 ensorceling
-explicandum
 electropult
 erotica
 elation
@@ -8665,6 +8664,7 @@ epithalamiumia
 enchondromas
 exfoliate
 encharging
+explicandum
 episcleritis
 epiglottides
 evangelists
