@@ -3722,6 +3722,7 @@ battlefronts
 bringall
 brucella
 barnstorms
+bearbind
 battler
 battleships
 barrace
@@ -4978,7 +4979,6 @@ beylik
 bemoaning
 beerhouse
 beerhouses
-bearbind
 breech
 breastband
 barbecueing
