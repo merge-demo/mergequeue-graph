@@ -1723,6 +1723,7 @@ eliding
 enticeful
 eyelessness
 epikia
+extrinsicality
 exert
 ecdemic
 eyelet
@@ -5433,7 +5434,6 @@ energesis
 energetic
 estradiot
 electrochronographic
-extrinsicality
 eleutherophyllous
 earmark
 extoll
