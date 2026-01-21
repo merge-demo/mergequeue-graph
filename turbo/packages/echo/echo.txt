@@ -6842,7 +6842,6 @@ epedaphic
 epituberculosis
 ermine
 exults
-epidermoidal
 educability
 entomologize
 entrap
@@ -13378,6 +13377,7 @@ elachistaceous
 ecophysiological
 expanders
 empodium
+epidermoidal
 expostulative
 entobranchiate
 euscaro
