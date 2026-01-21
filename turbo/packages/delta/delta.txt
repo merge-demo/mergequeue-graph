@@ -8769,7 +8769,6 @@ dragonkind
 diestruses
 deftness
 dinettes
-disclosive
 diabolized
 dansant
 dictations
@@ -13743,6 +13742,7 @@ despoiling
 diphosgene
 disturbation
 discoids
+disclosive
 defends
 doorplate
 divalent
