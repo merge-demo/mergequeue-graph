@@ -1437,6 +1437,7 @@ boycottism
 balistes
 boltstrake
 battologized
+boldfacing
 boilermaker
 balistid
 bullskin
@@ -12111,7 +12112,6 @@ barristress
 boldfaced
 blightbird
 boldfacedness
-boldfacing
 bewitchments
 bleb
 boldhearted
