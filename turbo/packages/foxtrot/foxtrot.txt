@@ -4569,7 +4569,6 @@ fringilliform
 fitchee
 flavoursome
 fibrocalcareous
-filagrees
 ferring
 flowmanostat
 footweary
@@ -4744,6 +4743,7 @@ feltmonger
 fortunately
 flaunching
 freshened
+filagrees
 fooling
 flaggy
 formicated
