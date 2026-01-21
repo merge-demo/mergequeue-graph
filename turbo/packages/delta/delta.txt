@@ -533,7 +533,6 @@ dalmanites
 discocarpous
 dalmatic
 dalt
-dawen
 dalton
 denomination
 dermaskeleton
@@ -5613,6 +5612,7 @@ debe
 diopsidic
 depigmentate
 depigmentation
+dawen
 depigmentize
 devilized
 dynamite
