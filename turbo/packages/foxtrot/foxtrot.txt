@@ -3183,7 +3183,6 @@ feracious
 fusilade
 flutterers
 flavourer
-fringiness
 foods
 fogman
 feloness
@@ -7964,6 +7963,7 @@ forget
 funnelwise
 familiarised
 forepleasure
+fringiness
 fiddling
 floorthrough
 fosteringly
