@@ -2250,7 +2250,6 @@ furcately
 fain
 fenced
 fencelessness
-forkiest
 fengite
 fussbudget
 flatterer
@@ -11752,6 +11751,7 @@ feminized
 fuzzier
 fuzziest
 forstraught
+forkiest
 flipped
 fertilitate
 fianna
