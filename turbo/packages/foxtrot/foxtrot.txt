@@ -1993,7 +1993,6 @@ ferocactus
 flushed
 fravashi
 frden
-flukeless
 feeds
 fern
 futurists
@@ -2056,6 +2055,7 @@ frontspiece
 feinter
 facedown
 faucalize
+flukeless
 flyspecking
 fireboat
 flindosa
