@@ -21073,7 +21073,6 @@ chiam
 celoms
 comradely
 comradeliness
-comradeship
 caulked
 chargfaires
 coms
@@ -29597,6 +29596,7 @@ croaking
 consociation
 croape
 croat
+comradeship
 chimars
 croatan
 confrontational
