@@ -8463,7 +8463,6 @@ alkylate
 atremate
 alkylbenzenesulfonates
 alkylic
-antiphonetic
 alkylidene
 afterburners
 autocoids
@@ -13655,6 +13654,7 @@ anointment
 amethystine
 aerometeorograph
 anointments
+antiphonetic
 articulation
 adulterer
 astrometrical
