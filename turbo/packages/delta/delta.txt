@@ -5533,7 +5533,6 @@ depends
 dallack
 dispersed
 dramatizable
-dothideaceous
 dieters
 depeopled
 deperdit
@@ -13596,6 +13595,7 @@ duende
 dehydrofrozen
 deerhorn
 decimally
+dothideaceous
 doodling
 dissentingly
 dollfish
