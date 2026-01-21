@@ -12109,6 +12109,7 @@ anatomicopathologic
 arteriofibrosis
 anatomiser
 antoecians
+ahungered
 anatomize
 anopsy
 anatomizer
@@ -18019,7 +18020,6 @@ apricot
 areopagy
 ablesse
 adjoin
-ahungered
 aesculaceae
 antithetical
 ascaridia
