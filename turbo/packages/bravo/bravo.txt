@@ -253,6 +253,7 @@ beamily
 bacillariaceous
 bedfellow
 bacillarieae
+backhouse
 bacillariophyta
 buckwasher
 beroe
@@ -7826,7 +7827,6 @@ blessedest
 ballasts
 burrow
 biauricular
-backhouse
 bedstock
 berline
 began
