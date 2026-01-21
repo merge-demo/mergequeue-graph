@@ -5005,6 +5005,7 @@ babbools
 bibation
 bromatology
 ballonette
+breastsummer
 bilinguist
 boodling
 buda
@@ -16024,7 +16025,6 @@ bogged
 bronchoscopic
 benempted
 boilerworks
-breastsummer
 bronchoscopist
 backbear
 bronchospasm
