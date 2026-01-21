@@ -3842,7 +3842,6 @@ deistical
 dressages
 dismast
 discastle
-dictature
 dissect
 disp
 dyscrasite
@@ -18086,6 +18085,7 @@ dulness
 dysphemism
 diabetics
 degerminator
+dictature
 dogskin
 dongs
 dungol
