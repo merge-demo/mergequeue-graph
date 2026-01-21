@@ -14046,7 +14046,6 @@ anchorate
 autocatalytic
 antechoirs
 axostyle
-antecolic
 antecornu
 antecourt
 antecubital
@@ -16769,6 +16768,7 @@ albatros
 amphigonia
 adultoid
 aphydrotropic
+antecolic
 agatized
 adepts
 aphydrotropism
