@@ -8064,7 +8064,6 @@ garau
 gratulating
 gasteromycetes
 gangrening
-grievingly
 grantees
 gaurie
 graded
@@ -8570,6 +8569,7 @@ gravity
 gherao
 germinal
 gradually
+grievingly
 gawsy
 gravitic
 galline
