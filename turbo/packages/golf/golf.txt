@@ -1130,7 +1130,6 @@ groupment
 gunpowder
 granddam
 gypsologist
-gander
 gravamens
 guava
 goners
@@ -4782,6 +4781,7 @@ gamophagia
 glassen
 glans
 goodwilies
+gander
 guardo
 glacieret
 garookuh
