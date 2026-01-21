@@ -5650,6 +5650,7 @@ agallochs
 acupunctuation
 afunction
 aquafortist
+angiogenesis
 androl
 agalma
 ardea
@@ -8155,7 +8156,6 @@ agatiferous
 alibied
 ambiverts
 anhemolytic
-angiogenesis
 autocatalepsy
 adermia
 arpeggioed
