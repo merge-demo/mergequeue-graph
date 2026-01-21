@@ -1240,7 +1240,6 @@ encrinite
 emperors
 enrobe
 ecclesiarch
-equalness
 eclated
 expands
 equilibriate
@@ -3792,6 +3791,7 @@ ensindon
 exclam
 electrized
 ekerite
+equalness
 enterprisingly
 expiratory
 esthetical
