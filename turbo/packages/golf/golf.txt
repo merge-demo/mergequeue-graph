@@ -3274,6 +3274,7 @@ gorgonian
 grimmia
 graduses
 gregaritic
+gucks
 glancer
 glycosin
 gelotoscopy
@@ -6634,7 +6635,6 @@ gangliform
 gamboller
 glottitis
 glossolabiopharyngeal
-gucks
 grumped
 gladsome
 gonidangium
