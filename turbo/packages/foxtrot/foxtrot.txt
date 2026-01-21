@@ -9848,7 +9848,6 @@ fadlike
 fricando
 fakement
 frouncing
-feminize
 funge
 feria
 fundatorial
@@ -10393,6 +10392,7 @@ fatalist
 foraneous
 friller
 forecatching
+feminize
 flags
 fitche
 footer
