@@ -7150,6 +7150,7 @@ appetising
 anadipsia
 accommodative
 algorist
+antihypochondriac
 alalonga
 aurodiamine
 alalus
@@ -15315,7 +15316,6 @@ antihypnotically
 achromatically
 arietation
 acroterion
-antihypochondriac
 annal
 anticoincidence
 agomphosis
