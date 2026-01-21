@@ -7643,6 +7643,7 @@ galey
 geobiology
 goatishly
 grease
+gasteria
 general
 gobiesox
 granters
@@ -8244,7 +8245,6 @@ gladii
 graphophone
 glyceroxide
 graphophonic
-gasteria
 graphoscope
 glycoprotein
 grinderies
