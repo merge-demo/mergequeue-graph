@@ -2620,7 +2620,6 @@ graal
 guardlike
 gymnosophist
 genethlic
-gentil
 glossopetra
 goatee
 gelating
@@ -2692,6 +2691,7 @@ gripingly
 gelidium
 guptavidya
 grippingly
+gentil
 grabble
 gaud
 gestae
