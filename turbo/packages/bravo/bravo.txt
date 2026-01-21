@@ -4581,6 +4581,7 @@ buckteeth
 bicellular
 backjaw
 bedarkening
+bedrip
 bedaub
 ballplayer
 barks
@@ -11081,7 +11082,6 @@ bankruptlike
 beguines
 blockheadish
 blockheads
-bedrip
 bilirubinic
 billy
 bioral
