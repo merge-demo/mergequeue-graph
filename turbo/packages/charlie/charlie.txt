@@ -12216,6 +12216,7 @@ chrysophilist
 chrysophyte
 conyrin
 chromonemic
+creaturehood
 chrysopid
 chrysopidae
 chrysoprase
@@ -27505,7 +27506,6 @@ coventrate
 calving
 coventry
 coroplast
-creaturehood
 cover
 containable
 coverages
