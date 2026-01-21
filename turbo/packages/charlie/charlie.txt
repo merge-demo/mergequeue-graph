@@ -8480,7 +8480,6 @@ cryogenies
 chams
 compositionally
 congealedness
-corslet
 chanca
 chance
 clow
@@ -10022,6 +10021,7 @@ cherrying
 cherrylike
 cherrystone
 canephors
+corslet
 cytioderma
 cephalotripsy
 chersydridae

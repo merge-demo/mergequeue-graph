@@ -537,7 +537,6 @@ ethiopians
 eavesdropper
 equatorially
 excommunicatory
-encrimson
 echinomys
 entrained
 erythrene
@@ -1135,6 +1134,7 @@ edoni
 excisemen
 entrochite
 edplot
+encrimson
 emplore
 edrioasteroidea
 epipany
