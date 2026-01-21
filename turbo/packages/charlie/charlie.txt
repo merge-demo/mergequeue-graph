@@ -1952,7 +1952,6 @@ castalia
 camembert
 conglobated
 coachwoman
-curdling
 colletic
 camenes
 coveters
@@ -15265,6 +15264,7 @@ cardiagraph
 confederate
 coreciprocal
 colters
+curdling
 clamminess
 clarets
 clamming
