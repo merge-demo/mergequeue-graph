@@ -810,7 +810,6 @@ encrust
 ectypography
 epitheton
 entrecote
-epop
 exulate
 ectiris
 ectocarpus
@@ -2241,6 +2240,7 @@ educing
 encyclopedian
 encell
 epauletted
+epop
 electragy
 electress
 excessive
