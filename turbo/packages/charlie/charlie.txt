@@ -22883,7 +22883,6 @@ conservatorium
 crystograph
 conservators
 conservatorship
-carpings
 coordinator
 cabinetworking
 conserve
@@ -30990,6 +30989,7 @@ cumber
 consumptiveness
 congeries
 cumberer
+carpings
 cumbering
 cumberland
 codefendants
