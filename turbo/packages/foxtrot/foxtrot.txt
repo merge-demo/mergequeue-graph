@@ -7706,7 +7706,6 @@ fireshine
 frankpledge
 fumigants
 furfuraceous
-foreknowingly
 fawnlike
 frere
 forelook
@@ -8801,6 +8800,7 @@ flotages
 flotillas
 fossage
 female
+foreknowingly
 fidel
 fearable
 flexured
