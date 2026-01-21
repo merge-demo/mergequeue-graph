@@ -6174,7 +6174,6 @@ anhingas
 aplanobacter
 antecedency
 ailanthic
-agon
 agonal
 abc
 athetize
@@ -13346,6 +13345,7 @@ anywhither
 anywither
 anhalonium
 areolar
+agon
 androgenic
 arcosolium
 adscripts
