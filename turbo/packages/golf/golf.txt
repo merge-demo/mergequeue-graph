@@ -3583,7 +3583,6 @@ guttiform
 gananciales
 gantries
 glack
-gawkiness
 galleriidae
 glovers
 goetae
@@ -6057,6 +6056,7 @@ gallature
 gingle
 grinding
 gnathostomata
+gawkiness
 gluttery
 gastrocnemial
 gypsography

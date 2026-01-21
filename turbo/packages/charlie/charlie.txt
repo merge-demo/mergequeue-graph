@@ -2281,6 +2281,7 @@ canadianize
 compassionable
 counterlathing
 centaurus
+couxia
 canadine
 canadite
 conferva
@@ -27442,7 +27443,6 @@ catwort
 coaeval
 contemnibly
 cuprous
-couxia
 chalcanth
 citrous
 chronicity
