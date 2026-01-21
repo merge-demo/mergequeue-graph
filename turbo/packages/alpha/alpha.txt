@@ -8089,6 +8089,7 @@ affixal
 anight
 addlepated
 anthroposophical
+apophonia
 algorab
 amenage
 antioptimism
@@ -13584,7 +13585,6 @@ arthropod
 aloneness
 annunciating
 annunciation
-apophonia
 amasthenic
 atiptoe
 amebic
