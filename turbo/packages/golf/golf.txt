@@ -7642,6 +7642,7 @@ greenlet
 gleary
 guamuchil
 grader
+goaded
 grouseward
 glovey
 gradient
@@ -8158,7 +8159,6 @@ grapelike
 gazingstock
 galeodes
 grapery
-goaded
 gied
 grim
 gem
