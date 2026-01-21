@@ -5099,7 +5099,6 @@ aestivating
 aestive
 aestuate
 ahchoo
-aestus
 alamos
 adenitises
 anend
@@ -12624,6 +12623,7 @@ antistat
 adrenalone
 antipragmatical
 azoxyanisole
+aestus
 atresias
 autophonoscope
 angarep
