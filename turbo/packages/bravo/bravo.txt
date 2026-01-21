@@ -6466,6 +6466,7 @@ ballast
 bisulcate
 bulldogged
 biostratigraphy
+belays
 borderings
 beeftongue
 bergmannite
@@ -9569,7 +9570,6 @@ barbacoan
 brokenly
 bisagre
 basidium
-belays
 buccaro
 bullnecked
 breathtakingly
