@@ -11856,7 +11856,6 @@ chordaceae
 chordacentrous
 contend
 chordal
-cosharer
 costated
 chordamesodermal
 chordamesodermic
@@ -19689,6 +19688,7 @@ clefts
 comatiks
 comatosely
 countercharged
+cosharer
 comatoseness
 comatosity
 comatula
