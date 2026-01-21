@@ -5954,7 +5954,6 @@ bufagin
 bangalay
 bude
 benumbing
-battiness
 backrest
 beltless
 benchmarks
@@ -15411,6 +15410,7 @@ bowsed
 basicytoparaplastin
 blackfish
 bombe
+battiness
 baronetcy
 benzylidene
 brighid
