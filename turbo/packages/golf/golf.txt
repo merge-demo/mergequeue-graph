@@ -2753,7 +2753,6 @@ groutite
 gentiana
 gastrotympanites
 gentianella
-gregatim
 gadhelic
 gung
 granulitic
@@ -5378,6 +5377,7 @@ goldfish
 gangplank
 gender
 gorbelly
+gregatim
 glutenin
 groceress
 groupageness
