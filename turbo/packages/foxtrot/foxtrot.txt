@@ -768,7 +768,6 @@ flybelt
 frozenness
 figurines
 fluxions
-fancied
 for
 frazzled
 frig
@@ -4199,6 +4198,7 @@ foolishest
 fridge
 figurative
 fallotomy
+fancied
 firelight
 flab
 feistier
