@@ -3050,6 +3050,7 @@ freend
 flopping
 fibrillating
 flirters
+falces
 forches
 flowerfly
 finances
@@ -7596,7 +7597,6 @@ fileted
 fortyish
 frankmarriage
 filling
-falces
 fools
 faluns
 fubby
