@@ -1577,7 +1577,6 @@ frustulent
 ferr
 feaster
 financiers
-funning
 froufrous
 fortyfold
 frey
@@ -3075,6 +3074,7 @@ flintily
 frontispiece
 fortifyingly
 frozen
+funning
 frenching
 freightage
 faddiness
