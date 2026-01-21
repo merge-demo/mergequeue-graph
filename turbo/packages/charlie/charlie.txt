@@ -2548,6 +2548,7 @@ circumcinct
 candlemaker
 candlemaking
 candlemas
+cos
 compresence
 crewel
 childproof
@@ -19564,7 +19565,6 @@ columbiad
 columbidae
 cobblestones
 cankerous
-cos
 columbiferous
 costula
 chronanagram
