@@ -2939,7 +2939,6 @@ gulph
 gosh
 gooseflower
 gunks
-guardingly
 gusts
 gurkha
 gastroplenic
@@ -7544,6 +7543,7 @@ generability
 grinagog
 gypsying
 gowked
+guardingly
 gambet
 glucolysis
 gruntle
