@@ -19439,7 +19439,6 @@ cup
 chasty
 crosshaul
 colormaker
-cornicing
 colorman
 cerealose
 colors
@@ -29145,6 +29144,7 @@ crioceras
 crioceratite
 cinefaction
 crioceratitic
+cornicing
 companionably
 chirruping
 charr
