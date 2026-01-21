@@ -796,7 +796,6 @@ flatulences
 farmost
 forecovert
 flagfish
-fanfolds
 flowerful
 fecundize
 fluorines
@@ -4012,6 +4011,7 @@ feudalise
 faveolus
 fingram
 fossilisable
+fanfolds
 feds
 finical
 fluxibly
