@@ -4330,6 +4330,7 @@ angiothlipsis
 adsorbed
 afterfall
 adsorbent
+aselgeia
 austrogaean
 apparels
 anachronistically
@@ -12223,7 +12224,6 @@ argumentatively
 amazonite
 arcades
 anchusas
-aselgeia
 amblypoda
 arteriosympathectomy
 archcupbearer
