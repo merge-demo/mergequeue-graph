@@ -6717,7 +6717,6 @@ ectopistes
 elusions
 esparcet
 exophoria
-exhilarate
 enthral
 eschewers
 enthralldom
@@ -13629,6 +13628,7 @@ epaleaceous
 ears
 ethnomusicologically
 exopterygotic
+exhilarate
 evited
 erme
 extends
