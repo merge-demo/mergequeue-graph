@@ -3985,7 +3985,6 @@ gesticulates
 gansey
 ginnier
 galesaur
-graminous
 gellert
 gigmanically
 gastrogenous
@@ -8652,6 +8651,7 @@ gapers
 gavelet
 gisel
 greaved
+graminous
 gigartinales
 gummic
 gonocalycine
