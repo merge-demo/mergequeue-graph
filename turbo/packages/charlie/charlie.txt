@@ -3902,7 +3902,6 @@ carbonitride
 cincinatti
 countertranslation
 carbonization
-carbonize
 charlatanism
 carbonizers
 concn
@@ -17243,6 +17242,7 @@ ctenodipterini
 clinopinacoidal
 carnivoral
 coalifies
+carbonize
 coalifying
 coalite
 cephalacanthidae
