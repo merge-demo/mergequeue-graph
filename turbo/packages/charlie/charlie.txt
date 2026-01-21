@@ -126,7 +126,6 @@ coumalic
 chordophone
 clitelline
 cabinetworker
-curlpaper
 cabinlike
 crafter
 cabio
@@ -14348,6 +14347,7 @@ circumstantiation
 circumstellar
 configurated
 cullied
+curlpaper
 cleopatra
 circumtonsillar
 coelelminth
