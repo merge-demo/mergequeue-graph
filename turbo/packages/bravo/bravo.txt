@@ -7371,6 +7371,7 @@ bunker
 burritos
 becumber
 blinky
+bluebuck
 blisses
 brasilia
 bailiery
@@ -8210,7 +8211,6 @@ byronically
 beatable
 boone
 battailous
-bluebuck
 biethnic
 binds
 begroans

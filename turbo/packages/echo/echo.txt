@@ -10700,6 +10700,7 @@ emeerate
 epiphysis
 epitomizer
 euhemerist
+entangled
 erichthus
 exothecium
 emacerate
@@ -12320,7 +12321,6 @@ erythroglucin
 effusiometer
 emanators
 exerted
-entangled
 eaning
 eviscerations
 evectant
