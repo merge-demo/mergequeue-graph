@@ -1931,7 +1931,6 @@ cauliflorous
 cameline
 camelish
 cardigans
-characteries
 camellike
 cornwallises
 camellin
@@ -10097,6 +10096,7 @@ chestnuts
 chet
 cheth
 communalized
+characteries
 chetopod
 ceonocyte
 chetrum
