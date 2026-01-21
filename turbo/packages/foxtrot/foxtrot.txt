@@ -3407,6 +3407,7 @@ feminising
 fulmines
 forewarmer
 furfurans
+flections
 forthward
 frontoethmoid
 friedcake
@@ -4630,7 +4631,6 @@ fearsome
 finitudes
 figurante
 flaunched
-flections
 flexibilities
 fumariaceae
 fibred
