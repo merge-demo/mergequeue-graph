@@ -3860,7 +3860,6 @@ flashlamps
 finalization
 fays
 futile
-filleting
 feckless
 figurato
 forenoon
@@ -10005,6 +10004,7 @@ foollike
 flans
 fringehead
 fringelet
+filleting
 fruitier
 filibusterism
 fringent
