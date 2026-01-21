@@ -5234,6 +5234,7 @@ detestable
 detinue
 dentale
 dissimulate
+diaporesis
 dilettanteish
 deterrent
 degressively
@@ -8728,7 +8729,6 @@ dover
 dot
 debadge
 durns
-diaporesis
 demimonk
 decime
 distastefully
