@@ -4611,6 +4611,7 @@ exercite
 ermelin
 engaged
 etherealised
+entangler
 enhydrite
 extratensive
 exteriorisation
@@ -5421,7 +5422,6 @@ evulsion
 emydosauria
 electuary
 enantiomorph
-entangler
 exculpations
 eurithermophile
 emplastrum
