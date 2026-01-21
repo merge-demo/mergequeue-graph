@@ -2129,7 +2129,6 @@ geheimrat
 gantlopes
 guayaberas
 griffith
-gastropulmonary
 graphostatics
 gadswoons
 gibbosity
@@ -10211,6 +10210,7 @@ generaliser
 grippers
 graecian
 guzzled
+gastropulmonary
 guile
 gyrectomies
 galluses
