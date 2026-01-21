@@ -3729,7 +3729,6 @@ doughlike
 depolarized
 dehorted
 damaskine
-defatigate
 dehorting
 digitoxin
 decompensation
@@ -10541,6 +10540,7 @@ dyemaker
 demiking
 dauw
 diplocardiac
+defatigate
 diplocarpon
 discoidea
 diplocaulescent
