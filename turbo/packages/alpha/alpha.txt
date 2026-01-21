@@ -1588,6 +1588,7 @@ accordatura
 accouter
 apotype
 astrologistic
+amnestying
 agrostologist
 austrophile
 aneling
@@ -25265,7 +25266,6 @@ actuaries
 amenity
 auriform
 althorns
-amnestying
 antepenultima
 academus
 archsewer
