@@ -6282,6 +6282,7 @@ dephlegmatory
 dermenchysis
 delacrimation
 dermestid
+deregulate
 dermatoneural
 dextrogyration
 deject
@@ -17350,7 +17351,6 @@ disquisition
 desirers
 dodecanal
 doa
-deregulate
 drooly
 doorstep
 dilatational
