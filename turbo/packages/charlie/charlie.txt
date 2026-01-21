@@ -21664,7 +21664,6 @@ condylectomy
 condyles
 crimsony
 clubbers
-calyces
 carbamidine
 cholecystocolostomy
 condyloma
@@ -22382,6 +22381,7 @@ conic
 conical
 canajong
 cataloguish
+calyces
 corrupable
 conicality
 chordally
