@@ -2489,6 +2489,7 @@ gonostyle
 gromatics
 gerontoxon
 gubbin
+gimpy
 gigacycle
 garlanding
 gittith
@@ -10542,7 +10543,6 @@ grateman
 grilling
 guillemot
 graverobber
-gimpy
 gambetta
 grandmaster
 goustie
