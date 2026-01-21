@@ -5070,6 +5070,7 @@ gilten
 guernseyed
 glareproof
 griskin
+gamelan
 grainsmen
 goldeneye
 greesagh
@@ -5266,7 +5267,6 @@ granitical
 graveling
 geometries
 glycerin
-gamelan
 guineaman
 glycerite
 gigmanism
