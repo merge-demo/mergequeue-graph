@@ -2911,7 +2911,6 @@ furazane
 frustums
 fencing
 farfetch
-fluellite
 flyoff
 filialness
 facier
@@ -8075,6 +8074,7 @@ fulminated
 foveolae
 funkiest
 flatcar
+fluellite
 fundi
 furify
 foreswore
