@@ -3217,7 +3217,6 @@ gringos
 gerasene
 gesturer
 gutti
-gigantism
 gametophytic
 goodhearted
 grainedness
@@ -9538,6 +9537,7 @@ gabblers
 grouze
 glycans
 glume
+gigantism
 gastornithidae
 groved
 greenskeeper
