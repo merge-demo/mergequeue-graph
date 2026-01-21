@@ -11184,6 +11184,7 @@ biquadratic
 bloodworthy
 belched
 blearily
+butterfish
 blooey
 bloomed
 baloghia
@@ -18219,7 +18220,6 @@ beshod
 birlings
 bourran
 blabbers
-butterfish
 besquirt
 butterpaste
 botching
