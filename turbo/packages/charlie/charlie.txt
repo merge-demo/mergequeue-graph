@@ -20827,6 +20827,7 @@ citriculture
 compoer
 compone
 componed
+colloped
 componency
 caciocavallo
 compared
@@ -24946,7 +24947,6 @@ celtist
 curacies
 corbina
 condurango
-colloped
 centralists
 corblimy
 corbovinum
