@@ -7076,7 +7076,6 @@ fliping
 fulth
 foolproof
 foolproofness
-ferret
 fax
 fibulare
 frocking
@@ -11200,6 +11199,7 @@ fieldsman
 fetoplacental
 fatigability
 fungosities
+ferret
 funic
 footlers
 faradise
