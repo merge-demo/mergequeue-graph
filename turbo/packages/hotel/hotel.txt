@@ -6013,7 +6013,6 @@ hirbsym
 hircdtvg
 hird
 hirdkf
-hirdm
 hirfaoiroeq
 hirfk
 hirfniwip
@@ -6087,6 +6086,7 @@ hisix
 hisjgg
 hisk
 hiskllzmodwf
+hirdm
 hiskz
 hislcfqxkkqvj
 hibbkzuynzt
