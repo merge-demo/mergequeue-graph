@@ -4758,6 +4758,7 @@ executioners
 eventides
 excrementitiousness
 encolpia
+extinguisher
 ethanim
 equilibrator
 entypies
@@ -13752,7 +13753,6 @@ euphorbia
 ententophil
 enzyme
 extinguished
-extinguisher
 entoptically
 ectoplasm
 eryngoes
