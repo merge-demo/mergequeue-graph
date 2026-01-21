@@ -5144,7 +5144,6 @@ cased
 cisatlantic
 convulsionism
 casefy
-corneter
 capitations
 counterenamel
 compeller
@@ -25358,6 +25357,7 @@ causticization
 chartographical
 corneule
 comprising
+corneter
 cornfields
 cheroots
 cornflag
