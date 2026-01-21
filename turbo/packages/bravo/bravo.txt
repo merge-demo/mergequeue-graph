@@ -6565,7 +6565,6 @@ boatside
 borickite
 brekky
 benzothiazole
-berberi
 breastrope
 biohazard
 berberid
@@ -16288,6 +16287,7 @@ browntail
 belgravia
 blasties
 brownweed
+berberi
 bobolinks
 blabbed
 brassate
