@@ -6481,6 +6481,7 @@ butolism
 backdate
 bellon
 bepatched
+blarneys
 benighter
 bettergates
 bailo
@@ -10474,7 +10475,6 @@ bookwise
 brimborium
 bedeafens
 boatlike
-blarneys
 blarny
 blout
 bought
