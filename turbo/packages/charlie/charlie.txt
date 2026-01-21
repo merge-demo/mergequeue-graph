@@ -922,7 +922,6 @@ chemoses
 catharan
 cajuputene
 coquetting
-confided
 cholesterosis
 cakavci
 cakchikel
@@ -19090,6 +19089,7 @@ cardiasthma
 chloridizing
 collimated
 collimates
+confided
 collimation
 cyke
 collimator
