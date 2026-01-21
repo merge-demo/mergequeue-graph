@@ -2319,7 +2319,6 @@ canaled
 criticastry
 cobs
 cithrens
-carthaginian
 canaler
 chimeres
 caprone
@@ -30674,6 +30673,7 @@ cudden
 cylindroogival
 collis
 cuddy
+carthaginian
 cuddie
 chuppoth
 coprocessing
