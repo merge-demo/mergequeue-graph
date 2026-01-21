@@ -13919,6 +13919,7 @@ antaeus
 agriotypidae
 alvelos
 advantaging
+antirattler
 antagony
 auscultator
 antiprestidigitation
@@ -22387,7 +22388,6 @@ anna
 akra
 astrogation
 astrogational
-antirattler
 antiauthoritarianism
 anangioid
 astrogeology
