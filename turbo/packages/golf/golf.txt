@@ -1418,7 +1418,6 @@ gadget
 guild
 garbages
 gulfy
-grosgrained
 gemutlich
 gainward
 glossarial
@@ -2767,6 +2766,7 @@ gelotometer
 glottochronological
 gristly
 gabies
+grosgrained
 governably
 glassie
 gelee
