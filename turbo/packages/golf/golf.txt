@@ -1950,7 +1950,6 @@ glowering
 garnishments
 gnomonical
 gimbal
-geology
 geranic
 goring
 grubroot
@@ -3754,6 +3753,7 @@ genoblastic
 gobbets
 giarra
 geotactic
+geology
 giarre
 gastaldo
 governing
