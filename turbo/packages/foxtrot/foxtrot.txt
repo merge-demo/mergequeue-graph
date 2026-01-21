@@ -1153,6 +1153,7 @@ fluffing
 feverishness
 fractional
 fibrillary
+fraik
 filiates
 farthings
 forlornness
@@ -5560,7 +5561,6 @@ fourgons
 flight
 frusla
 flighter
-fraik
 foret
 fleysome
 forehock
