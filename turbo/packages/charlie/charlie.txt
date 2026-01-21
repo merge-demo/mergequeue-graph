@@ -7348,6 +7348,7 @@ crepuscle
 cephalology
 cephalom
 coquettishness
+coccinella
 cephalomant
 cephalomeningitis
 catlin
@@ -30153,7 +30154,6 @@ crozes
 crozing
 crpe
 crts
-coccinella
 cannstatt
 crubeen
 cruce
