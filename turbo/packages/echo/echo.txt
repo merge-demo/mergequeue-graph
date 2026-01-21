@@ -1162,7 +1162,6 @@ edulcorating
 enscroll
 ensweep
 educational
-extratracheal
 estipulate
 estimation
 eroded
@@ -5203,6 +5202,7 @@ epoxidize
 endopelvic
 encyclopaedist
 eppes
+extratracheal
 endoperidium
 epoptes
 endophagous
