@@ -2140,6 +2140,7 @@ fellatrice
 fluoresage
 frigate
 fletch
+farriers
 fuchsite
 fringillid
 freelovism
@@ -10305,7 +10306,6 @@ finfoot
 fervorlessness
 fustilugs
 futurely
-farriers
 forecourt
 feaze
 foss
