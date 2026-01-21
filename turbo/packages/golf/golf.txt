@@ -7258,7 +7258,6 @@ gormandism
 gormandize
 germanification
 glomi
-gormandizes
 gundeck
 gapy
 gleaming
@@ -9334,6 +9333,7 @@ graduate
 galleasses
 goliad
 gunnysacks
+gormandizes
 ghaznevid
 ghaist
 gasparillo
