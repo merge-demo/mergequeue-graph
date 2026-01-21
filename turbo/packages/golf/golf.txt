@@ -6861,7 +6861,6 @@ geaster
 galeas
 genitival
 geed
-gaposises
 grainman
 goshen
 gynandroid
@@ -8048,6 +8047,7 @@ geophilidae
 gaiters
 geomorphogeny
 giblets
+gaposises
 grimily
 ginning
 granophyre
