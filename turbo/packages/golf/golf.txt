@@ -2764,7 +2764,6 @@ gelotometer
 glottochronological
 gristly
 gabies
-grosgrained
 governably
 glassie
 gelee
@@ -3986,6 +3985,7 @@ gansey
 ginnier
 galesaur
 gellert
+grosgrained
 gigmanically
 gastrogenous
 gilds
