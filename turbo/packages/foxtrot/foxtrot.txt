@@ -484,7 +484,6 @@ fuseau
 fretting
 featherleaf
 fetiferous
-fullbacks
 frogmouth
 foremastman
 finalisms
@@ -6674,6 +6673,7 @@ freaky
 flaughtbred
 frequent
 forecontrive
+fullbacks
 fenner
 flingers
 flaggily
