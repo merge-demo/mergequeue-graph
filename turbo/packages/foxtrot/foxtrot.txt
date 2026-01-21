@@ -4555,7 +4555,6 @@ foliages
 fissidens
 feetage
 fossilify
-fisheye
 fieldstone
 fistuca
 freest
@@ -5177,6 +5176,7 @@ fulfil
 fourling
 fleas
 fratcheous
+fisheye
 flavid
 fluctuosity
 foetiferous
