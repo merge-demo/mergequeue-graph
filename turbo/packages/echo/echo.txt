@@ -8586,6 +8586,7 @@ endocarp
 estrogen
 equidistribution
 exect
+extraphysical
 embrasuring
 eutaxic
 effleurage
@@ -11898,7 +11899,6 @@ exogyra
 expurgation
 ephidrosis
 excerebration
-extraphysical
 eudaemonistically
 excursory
 epikeia

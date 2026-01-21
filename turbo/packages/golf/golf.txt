@@ -8944,6 +8944,7 @@ gilbert
 getae
 gallicola
 grizzlyman
+gametogony
 groutiest
 gillion
 glycogelatin
@@ -10649,7 +10650,6 @@ gonagra
 generalizeable
 gurgitation
 gasolines
-gametogony
 gladius
 gyric
 goatsbane
