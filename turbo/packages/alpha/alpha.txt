@@ -40,7 +40,6 @@ amphoriskoi
 aquanaut
 autopsist
 accessorily
-absorbancy
 aquativeness
 astrakhan
 alcyone
@@ -18887,6 +18886,7 @@ astronomers
 audient
 antipolitics
 archidoxis
+absorbancy
 astoned
 airy
 archmonarchist
