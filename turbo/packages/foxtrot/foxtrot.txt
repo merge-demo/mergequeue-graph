@@ -1291,6 +1291,7 @@ fibrillate
 flouring
 fowled
 figurine
+fadeout
 foresaw
 fertileness
 fastingly
@@ -11154,7 +11155,6 @@ fungia
 fremdness
 flyblowing
 felspar
-fadeout
 farmer
 fungicidally
 fungicides

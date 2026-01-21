@@ -8119,7 +8119,6 @@ bruxism
 brast
 biddability
 breastwood
-biddably
 benedict
 boread
 bouillone
@@ -12183,6 +12182,7 @@ baklawas
 benzodiazine
 bridgeboard
 bijugular
+biddably
 bolide
 bolivar
 befamine
