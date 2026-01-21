@@ -4059,6 +4059,7 @@ disanswerable
 daalder
 disconnecter
 discomplexion
+demisecond
 dihybrid
 disreason
 delimitating
@@ -5945,7 +5946,6 @@ discommoded
 diaschistic
 dispraise
 droopy
-demisecond
 devitation
 domajigger
 diamagnetize
