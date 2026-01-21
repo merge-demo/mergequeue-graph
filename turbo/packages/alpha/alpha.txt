@@ -13246,7 +13246,6 @@ aval
 apograph
 allwhere
 appetit
-anisocotyledonous
 anisodactyla
 anonol
 anisodactyli
@@ -17282,6 +17281,7 @@ aposaturnium
 aposia
 aposiopesis
 aposiopetic
+anisocotyledonous
 americanize
 arbalest
 acataposis
