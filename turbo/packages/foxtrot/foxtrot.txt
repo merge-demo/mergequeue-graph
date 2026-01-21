@@ -6012,7 +6012,6 @@ fateful
 floriation
 freet
 fertilize
-frizz
 flunkeyize
 forayers
 farting
@@ -10884,6 +10883,7 @@ fulgurated
 finished
 fucused
 forthcoming
+frizz
 fractural
 ferrum
 ferris
