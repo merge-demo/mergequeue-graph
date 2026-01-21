@@ -53,6 +53,7 @@ cabaret
 cabasa
 corder
 cabbage
+catamite
 chuffily
 commends
 coup
@@ -26752,7 +26753,6 @@ cucumis
 counterdeputation
 counterdesire
 counterdevelopment
-catamite
 calcareobituminous
 cubomancy
 columnization
