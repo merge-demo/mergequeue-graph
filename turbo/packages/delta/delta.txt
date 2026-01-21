@@ -10774,6 +10774,7 @@ disadvantageous
 diquat
 decolorization
 deoxidized
+dolphinfish
 dirdums
 demirelief
 directdiscourse
@@ -15313,7 +15314,6 @@ diasporas
 dolphin
 dirling
 diospyros
-dolphinfish
 dolphinlike
 decadescent
 dolphins
