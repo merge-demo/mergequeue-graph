@@ -1556,6 +1556,7 @@ attaintment
 antidrag
 accorporation
 antilogism
+anglophobe
 anglicizes
 accost
 arbuscule
@@ -20682,7 +20683,6 @@ anthesteriac
 articulare
 allelomorph
 alder
-anglophobe
 abounder
 anteroclusion
 auriculovertical
