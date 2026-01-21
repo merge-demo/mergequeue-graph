@@ -101,7 +101,6 @@ glottalizing
 gabbai
 gadge
 gunja
-genevas
 goldthread
 goodnaturedness
 greengill
@@ -2309,6 +2308,7 @@ giornatate
 gadbee
 guaiacols
 goloe
+genevas
 gibbartas
 galopin
 gingivoglossitis
