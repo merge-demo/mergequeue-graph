@@ -3692,6 +3692,7 @@ furling
 fillips
 flics
 flexibilty
+freeholder
 fecundates
 fillmore
 frankfold
@@ -8840,7 +8841,6 @@ fot
 florideous
 foreshorten
 fictious
-freeholder
 folia
 fleuron
 fringefoot
