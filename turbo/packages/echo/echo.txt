@@ -3966,7 +3966,6 @@ emparchment
 exaltative
 enruin
 expiations
-embarrassingly
 egalite
 extramodal
 empatron
@@ -10970,6 +10969,7 @@ echeloot
 eoside
 eigenfrequency
 escobita
+embarrassingly
 ennuye
 electrokinematics
 excavates

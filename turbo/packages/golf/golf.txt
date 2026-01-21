@@ -8483,7 +8483,6 @@ graveclod
 gonfalon
 gult
 gregarinina
-graffias
 garum
 glisteningly
 glossotype
@@ -9308,6 +9307,7 @@ granulative
 gimbri
 glycerole
 guessing
+graffias
 goldenback
 gluier
 giggles
