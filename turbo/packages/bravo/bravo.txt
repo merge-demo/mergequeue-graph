@@ -9535,6 +9535,7 @@ birthright
 baffeta
 births
 birthstones
+buncos
 bulliform
 birthstool
 birthwort
@@ -17655,7 +17656,6 @@ burked
 bonnetman
 belletrists
 bonier
-buncos
 bringela
 barbettes
 biotoxin
