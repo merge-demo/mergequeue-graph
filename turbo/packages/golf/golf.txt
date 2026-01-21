@@ -4767,7 +4767,6 @@ gobiiform
 glucogenic
 glassware
 gravidly
-gainfulness
 glaciered
 gifted
 gadi
@@ -8242,6 +8241,7 @@ geeks
 grenadier
 geopolitist
 glycocin
+gainfulness
 galenite
 glissaded
 groundless
