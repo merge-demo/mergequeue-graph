@@ -2292,7 +2292,6 @@ endosteum
 eval
 escalatory
 epidemiologist
-exterminations
 eobionts
 ensepulchre
 evangelicalness
@@ -6714,6 +6713,7 @@ enclosers
 ectosomal
 extratarsal
 esthesioneurosis
+exterminations
 ectopistes
 elusions
 esparcet
