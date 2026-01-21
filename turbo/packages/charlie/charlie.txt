@@ -1614,6 +1614,7 @@ cleistogamic
 caned
 cholecystalgia
 clarice
+chitinoid
 cinderella
 corded
 concertize
@@ -8166,7 +8167,6 @@ chairmender
 chairpersons
 chairway
 cryptogamian
-chitinoid
 conjunctivae
 chairwarmer
 chairwomen
