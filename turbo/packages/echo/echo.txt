@@ -1346,6 +1346,7 @@ enopla
 eucalyptol
 echelon
 examinative
+embrued
 efficacy
 efficacies
 endochylous
@@ -7652,7 +7653,6 @@ entomotomist
 eustele
 eugenol
 exptl
-embrued
 enukki
 effumability
 epideictic
