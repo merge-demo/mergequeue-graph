@@ -8112,7 +8112,6 @@ anachronous
 afterchrome
 algological
 algoman
-algometrical
 approachabl
 algometrically
 alictisal
@@ -20866,6 +20865,7 @@ aconitin
 arachnidism
 avalvular
 arcate
+algometrical
 antiparasitically
 acetose
 ashiver
