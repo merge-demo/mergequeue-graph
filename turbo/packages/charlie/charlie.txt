@@ -12604,7 +12604,6 @@ cyperaceous
 chronothermal
 chronotropic
 countable
-collocution
 cheney
 churchiest
 coriandrum
@@ -20243,6 +20242,7 @@ commoigne
 cuticulae
 catchpolery
 capitoninae
+collocution
 classifies
 commolition
 common
