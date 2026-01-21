@@ -7529,7 +7529,6 @@ fructokinase
 funebrial
 formers
 falconries
-fragor
 fernseed
 foreclosure
 fevering
@@ -8850,6 +8849,7 @@ fleuron
 fringefoot
 fibrinoplastic
 folkvang
+fragor
 forum
 furbelow
 flambage
