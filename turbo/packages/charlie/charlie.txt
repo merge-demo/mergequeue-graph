@@ -12701,7 +12701,6 @@ catakinesis
 concede
 catafalques
 cobaltous
-cephalomenia
 cataloguize
 cratch
 chuff
@@ -29962,6 +29961,7 @@ carcinologist
 crosstrack
 crossway
 crossways
+cephalomenia
 cetid
 calcification
 cyclopaedic
