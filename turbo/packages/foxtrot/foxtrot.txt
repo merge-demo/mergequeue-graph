@@ -1265,7 +1265,6 @@ fassalite
 fastbacks
 frigor
 futteret
-favella
 forevouch
 femalize
 frederica
@@ -9692,6 +9691,7 @@ foreigns
 fideicommissum
 firmly
 firebrat
+favella
 forgetter
 frenatae
 frenched
