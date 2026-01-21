@@ -3469,7 +3469,6 @@ chiastolite
 capris
 convoking
 caprizant
-caldron
 caproin
 concubinate
 camptodrome
@@ -17176,6 +17175,7 @@ coagulability
 cymrite
 coagulates
 clients
+caldron
 cowhearted
 chains
 coagulative
