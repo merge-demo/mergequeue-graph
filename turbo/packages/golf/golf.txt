@@ -8827,6 +8827,7 @@ gnostic
 girsle
 guanay
 gablelike
+galley
 graecized
 goldeye
 granitized
@@ -9583,7 +9584,6 @@ gowds
 gedanite
 gravimeters
 gulfwards
-galley
 glandula
 graphite
 growliest
