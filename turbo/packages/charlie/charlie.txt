@@ -15797,6 +15797,7 @@ clearedness
 clearheadedly
 cardcases
 crawly
+cavallas
 cataclysmist
 cometwise
 chalazas
@@ -19383,7 +19384,6 @@ carnivoracity
 colorature
 celesta
 colorblind
-cavallas
 cartomancies
 colorcasting
 calvus
