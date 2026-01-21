@@ -3245,7 +3245,6 @@ encamping
 eugranitic
 eunice
 ecumenicize
-eluvies
 euphonize
 ethopoeia
 ellwand
@@ -6849,6 +6848,7 @@ entrap
 entomologized
 euryalidan
 engle
+eluvies
 extramarginal
 ey
 entomophila
