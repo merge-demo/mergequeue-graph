@@ -3908,6 +3908,7 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
+fist
 fireboxes
 flemish
 frailejon
@@ -10673,7 +10674,6 @@ foodstuffs
 fruitiness
 fieldworker
 flagless
-fist
 footler
 famish
 frightable
