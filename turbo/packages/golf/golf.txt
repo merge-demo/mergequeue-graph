@@ -5120,6 +5120,7 @@ gundogs
 guerdon
 gammick
 geologised
+galactopathy
 ganoidei
 gratins
 gallopers
@@ -5935,7 +5936,6 @@ gensengs
 graylag
 geodesics
 gazogenes
-galactopathy
 gaunter
 ginkgoes
 guttles
