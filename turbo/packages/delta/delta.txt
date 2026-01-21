@@ -8236,7 +8236,6 @@ dendrophilous
 divergency
 dinotherium
 dehortatory
-demegoric
 diiodid
 diminuendoed
 dubitancy
@@ -12413,6 +12412,7 @@ disconnective
 doweries
 dicarpellary
 dendrophagous
+demegoric
 dong
 disheir
 dicynodon

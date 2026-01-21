@@ -9859,6 +9859,7 @@ alascan
 asternal
 amatembu
 attaint
+arcose
 argean
 algine
 acromiosternal
@@ -19162,7 +19163,6 @@ azurmalachite
 angiomatous
 anticommunists
 allotropize
-arcose
 angiospermal
 acrobystitis
 antipolo
