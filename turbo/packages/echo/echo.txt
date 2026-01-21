@@ -12932,7 +12932,6 @@ expatriatism
 equispaced
 epipsychidion
 egotistical
-emblematized
 east
 electrolysation
 erechtites
@@ -13650,6 +13649,7 @@ erma
 ecyphellate
 elongating
 extenuate
+emblematized
 extenuates
 empicture
 eerier
