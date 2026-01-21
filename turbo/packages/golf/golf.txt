@@ -3620,7 +3620,6 @@ giglot
 gluconeogenic
 goldest
 gastrotubotomy
-gauntleted
 gonadotropic
 genearch
 ghostdom
@@ -4747,6 +4746,7 @@ gizz
 gorgoniaceous
 gizzard
 glimmerings
+gauntleted
 gal
 gizzern
 glucolipid
