@@ -4595,7 +4595,6 @@ formazyl
 francophilism
 fungistatic
 factorizations
-fullnesses
 fanging
 frigidities
 formulations
@@ -7340,6 +7339,7 @@ freshen
 feudalism
 fleshly
 forby
+fullnesses
 formicina
 famelessly
 foreparent
