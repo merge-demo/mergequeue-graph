@@ -2952,7 +2952,6 @@ fiberize
 fewest
 fluke
 fissiparity
-fading
 fewterer
 francophil
 fewtrils
@@ -10535,6 +10534,7 @@ firemen
 frowl
 feminization
 frowners
+fading
 fatlike
 faciend
 frowsily
