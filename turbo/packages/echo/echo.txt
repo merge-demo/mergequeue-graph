@@ -11080,7 +11080,6 @@ evans
 expiate
 eusthenopteron
 electros
-espies
 esquiredom
 encage
 entune
@@ -13207,6 +13206,7 @@ expressibility
 eery
 expiringly
 empressement
+espies
 embroglios
 embosser
 expiscation
