@@ -6684,7 +6684,6 @@ deoxidant
 desiderative
 drunkard
 disorganize
-disorderliness
 darnex
 diatribes
 domiciling
@@ -10914,6 +10913,7 @@ divata
 draymen
 dromioid
 daimon
+disorderliness
 depictive
 dyingness
 dysacousis
