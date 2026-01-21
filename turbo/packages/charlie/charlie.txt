@@ -3131,7 +3131,6 @@ cooperators
 colewort
 capacitating
 capacitations
-cresamine
 capacitative
 chorine
 capacitativly
@@ -4351,6 +4350,7 @@ calyphyomy
 coe
 canonicity
 cladophyll
+cresamine
 codeias
 caribing
 caribous
