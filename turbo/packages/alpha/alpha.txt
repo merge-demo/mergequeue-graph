@@ -1632,6 +1632,7 @@ accroides
 accruable
 atty
 anatomism
+apterygogenea
 attribute
 accrual
 actualities
@@ -4921,7 +4922,6 @@ archagitator
 anoestrus
 aerolite
 argumentatory
-apterygogenea
 acetometric
 archdeacon
 astrogator
