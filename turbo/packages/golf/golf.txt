@@ -2020,7 +2020,6 @@ gattine
 gasometrically
 goaf
 gallied
-glime
 grapeful
 gazzetta
 gutterize
@@ -3887,6 +3886,7 @@ grossly
 gubbertush
 gawkies
 giving
+glime
 genitally
 graphomotor
 gnomologic
