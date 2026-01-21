@@ -3510,7 +3510,6 @@ embassage
 ekes
 epepophysial
 embarras
-exhibit
 eloquentness
 escorted
 enured
@@ -13614,6 +13613,7 @@ esopgi
 englishwomen
 expurgates
 escrowed
+exhibit
 empedoclean
 electrolytically
 effossion
