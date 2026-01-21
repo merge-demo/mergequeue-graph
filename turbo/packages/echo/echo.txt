@@ -4317,7 +4317,6 @@ enterointestinal
 exceeders
 exothermous
 enterodynia
-enamour
 electrophoridae
 enamouredness
 expostulator
@@ -9397,6 +9396,7 @@ endodontologist
 excitabilities
 escarole
 excuseful
+enamour
 exostosed
 epipodium
 entomion
