@@ -2286,6 +2286,7 @@ endocrania
 edana
 expert
 essene
+engage
 entheal
 euphuism
 endosteum
@@ -7297,7 +7298,6 @@ escaping
 epanisognathism
 expositively
 entameba
-engage
 exulding
 epizoal
 eriophyid
