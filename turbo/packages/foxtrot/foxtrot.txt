@@ -6639,7 +6639,6 @@ foeti
 fluxroot
 fumigatory
 fica
-ferbams
 finewed
 faence
 fofarraw
@@ -7446,6 +7445,7 @@ fordableness
 fathership
 featless
 floodproof
+ferbams
 fawning
 flashpan
 fordoes

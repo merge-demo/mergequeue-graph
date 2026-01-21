@@ -2116,6 +2116,7 @@ grazie
 garth
 grubberies
 gastnesses
+gallops
 galeiform
 gynocratic
 guillermo
@@ -6065,7 +6066,6 @@ gnathostomata
 gluttery
 gastrocnemial
 gypsography
-gallops
 gph
 gnats
 glutaeous
