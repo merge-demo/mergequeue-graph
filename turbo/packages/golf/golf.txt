@@ -152,6 +152,7 @@ geryon
 galipot
 graniteware
 gasthauser
+geoffrey
 ghettoized
 galactosyl
 galvanosurgery
@@ -9276,7 +9277,6 @@ groenendael
 gecko
 gallstone
 graduale
-geoffrey
 groenlandicus
 glucuronic
 goyana
