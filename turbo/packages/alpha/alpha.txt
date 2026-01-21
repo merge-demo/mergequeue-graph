@@ -21977,7 +21977,6 @@ alethiologic
 assorter
 athamaunte
 assot
-asssembler
 abomination
 assuade
 astrologer
@@ -23977,6 +23976,7 @@ anisopleurous
 allayer
 anethole
 atheologically
+asssembler
 abattage
 autobasidiomycetous
 autobasisii
