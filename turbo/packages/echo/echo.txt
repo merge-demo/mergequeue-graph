@@ -11868,6 +11868,7 @@ excentric
 eumeromorphic
 essenic
 entrepot
+extensions
 emits
 echium
 except
@@ -13637,7 +13638,6 @@ extensibility
 euphemization
 experienceable
 epilemma
-extensions
 eccentric
 eggcup
 environmentalist
