@@ -1180,6 +1180,7 @@ educationist
 eurypyga
 embolum
 excommune
+escalatory
 endogamic
 eatche
 ephesians
@@ -2294,7 +2295,6 @@ entheal
 euphuism
 endosteum
 eval
-escalatory
 epidemiologist
 eobionts
 ensepulchre
