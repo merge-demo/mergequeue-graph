@@ -40,7 +40,6 @@ causable
 cherrystones
 cocozelle
 caballero
-caballo
 ceratopteridaceous
 caballos
 cardiae
@@ -7612,6 +7611,7 @@ cerebrovascular
 collarets
 cerements
 crestal
+caballo
 carpholite
 cucuyo
 coiffing
