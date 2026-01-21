@@ -3537,6 +3537,7 @@ gluconeogenesis
 grugru
 gunslinging
 geo
+gormandizing
 glunched
 gymkhana
 grudgery
@@ -6240,7 +6241,6 @@ guerrillaism
 gelfomino
 goave
 greats
-gormandizing
 gregorianizer
 gob
 greediness
