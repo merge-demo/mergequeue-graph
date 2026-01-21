@@ -3752,7 +3752,6 @@ adhesive
 architraved
 ananke
 arteriosclerotic
-adhesiveness
 archaizer
 astrogeny
 allayers
@@ -16861,6 +16860,7 @@ apiarians
 apiarists
 adolescently
 antidemocratic
+adhesiveness
 apically
 apices
 aphislion
