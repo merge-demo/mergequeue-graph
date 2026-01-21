@@ -1264,6 +1264,7 @@ datil
 devotement
 decentering
 dating
+dentiferous
 disaffirmative
 dothienenteritis
 devitalizing
@@ -5303,7 +5304,6 @@ diaphoretic
 displaced
 distylar
 denticle
-dentiferous
 desegmented
 dentifrice
 dentil
