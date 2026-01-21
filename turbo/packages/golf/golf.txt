@@ -3479,6 +3479,7 @@ grivoise
 girasols
 graphonomy
 genipaps
+geometrised
 gnathotheca
 gutter
 gussied
@@ -6934,7 +6935,6 @@ goodrich
 guides
 geromorphism
 grayfly
-geometrised
 gradients
 geostatics
 goodwife
