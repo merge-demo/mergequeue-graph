@@ -2540,7 +2540,6 @@ gladsomely
 gain
 guilder
 gynecium
-gurle
 gomeisa
 gonochorism
 galenites
@@ -10674,6 +10673,7 @@ glycerols
 gurnard
 gib
 gastroenteroptosis
+gurle
 glaucomatous
 googol
 grippotoxin
