@@ -11502,7 +11502,6 @@ chokeys
 camerata
 congenetic
 choker
-coredeemed
 cratonic
 clinkstone
 congelifraction
@@ -29965,6 +29964,7 @@ crossways
 cetid
 calcification
 cyclopaedic
+coredeemed
 ctenocyst
 crayonstone
 cuarenta
