@@ -2442,7 +2442,6 @@ bugaboos
 brodder
 blowout
 baniwa
-bowk
 barehead
 bridebed
 bisexuality
@@ -10023,6 +10022,7 @@ beblear
 bedfast
 breeched
 bivocal
+bowk
 bossism
 bivocalized
 buffos
