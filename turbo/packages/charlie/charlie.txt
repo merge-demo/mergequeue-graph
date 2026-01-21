@@ -5585,7 +5585,6 @@ catalexis
 cumulating
 catalin
 curule
-cauponation
 coxing
 contentful
 catalinite
@@ -25543,6 +25542,7 @@ corotate
 corotates
 campman
 compulsoriness
+cauponation
 corotomy
 commemorized
 coroutines
