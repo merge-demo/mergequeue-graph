@@ -3040,7 +3040,6 @@ gametogenous
 garnetz
 gossipper
 giant
-gnash
 glaciologists
 greensauce
 gamelin
@@ -6996,6 +6995,7 @@ gossipry
 garrat
 giddybrain
 gladdener
+gnash
 greying
 geothermally
 gasthauses
