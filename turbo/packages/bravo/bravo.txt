@@ -8411,7 +8411,6 @@ bree
 bijou
 bhandar
 bubs
-burbankian
 bannerfish
 believability
 burgle
@@ -8423,6 +8422,7 @@ bikers
 becalmment
 bredi
 biplanal
+burbankian
 bikeway
 bedirter
 bedaze
