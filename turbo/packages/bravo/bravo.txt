@@ -7699,6 +7699,7 @@ brahmany
 boe
 butterflyer
 blackflies
+bassarisk
 bezils
 boyardom
 babished
@@ -13084,7 +13085,6 @@ buffeting
 bicorporal
 beryls
 bobbling
-bassarisk
 basifixed
 brothiest
 batteling
