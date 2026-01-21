@@ -5905,7 +5905,6 @@ aggrandised
 abasias
 aggrandising
 altimettrically
-afterglows
 aggrandize
 althaea
 affinity
@@ -22900,6 +22899,7 @@ atomology
 auras
 afb
 atonable
+afterglows
 atonalistic
 atone
 amhran
