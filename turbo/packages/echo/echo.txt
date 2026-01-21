@@ -2071,6 +2071,7 @@ emblematist
 enclosable
 enterolysis
 elasmothere
+equilater
 empyocele
 ethnol
 euphoniously
@@ -6101,7 +6102,6 @@ embelia
 espringal
 enlodge
 elderwood
-equilater
 episkotister
 estuary
 enforced
