@@ -761,6 +761,7 @@ gawkily
 graywether
 glome
 grapnels
+glibber
 galvanotherapy
 goods
 geomorphic
@@ -1718,7 +1719,6 @@ gastronosus
 gnarrs
 goofier
 gammon
-glibber
 gave
 gloeal
 goric
