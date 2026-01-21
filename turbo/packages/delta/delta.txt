@@ -5361,7 +5361,6 @@ decoction
 delicatesse
 daffodil
 dendra
-delim
 deschampsia
 denudating
 disordained
@@ -7626,6 +7625,7 @@ developmentally
 decompressions
 decolouring
 disavowment
+delim
 dermatologist
 desalinating
 discursify
