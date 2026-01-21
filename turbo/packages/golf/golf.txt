@@ -1336,7 +1336,6 @@ galloner
 garnisheement
 glorifier
 gonochoristic
-gitalin
 garlion
 gemshorn
 gesturers
@@ -9219,6 +9218,7 @@ glouting
 gradienter
 globy
 gooserumped
+gitalin
 grison
 gynecopathy
 grisons
