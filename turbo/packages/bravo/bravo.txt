@@ -8372,6 +8372,7 @@ baryphony
 beveto
 bankside
 borrachio
+bopyridae
 bauhinia
 biserially
 batatilla
@@ -11241,7 +11242,6 @@ bisilicate
 blotty
 buckets
 barmskin
-bopyridae
 blottier
 beatably
 brancher
