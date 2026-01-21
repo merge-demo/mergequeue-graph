@@ -2913,6 +2913,7 @@ cantabile
 chloralum
 clothesmonger
 chalcis
+cutling
 cantabrian
 cantabrigian
 cantalever
@@ -12846,7 +12847,6 @@ churchway
 churchward
 chairmanned
 chemotaxonomist
-cutling
 cathodic
 chummily
 chilliwack

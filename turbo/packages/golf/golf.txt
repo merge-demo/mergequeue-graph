@@ -609,7 +609,6 @@ grieben
 guineas
 gorgoniacea
 ghostweed
-gesseron
 gloryless
 goulashes
 gramaries
@@ -1243,6 +1242,7 @@ ganomalite
 garbler
 gradings
 golliwogg
+gesseron
 greasers
 galliardly
 guenon
