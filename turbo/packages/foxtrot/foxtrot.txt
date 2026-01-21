@@ -4621,7 +4621,6 @@ faust
 fulani
 fells
 ferrotungsten
-fulica
 flewit
 freety
 factable
@@ -6151,6 +6150,7 @@ falange
 fog
 flrie
 fadeaway
+fulica
 frothier
 fluavile
 flubbed
