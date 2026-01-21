@@ -10209,7 +10209,6 @@ demulsibility
 dinosauria
 dystomous
 defossion
-dressing
 dermoosseous
 dayshine
 destry
@@ -13003,6 +13002,7 @@ despisal
 dimout
 drossel
 drillmasters
+dressing
 dauntless
 depredicate
 dinoceratidae
