@@ -1017,7 +1017,6 @@ expeditions
 exadversum
 erugo
 etchareottine
-excisable
 eyeless
 endoskeleton
 eqpt
@@ -10003,6 +10002,7 @@ eternalize
 eternally
 extill
 embarking
+excisable
 exempting
 equalist
 endocrinism
