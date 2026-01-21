@@ -8740,6 +8740,7 @@ chapiter
 chloranaemia
 crooktoothed
 christianity
+culmen
 chapitral
 collyridian
 chaplain
@@ -23263,7 +23264,6 @@ consubstantiate
 consubstantiated
 cycadales
 consubstantiating
-culmen
 consubstantive
 consuetudinal
 cleavage
