@@ -8034,6 +8034,7 @@ enwombed
 eteocles
 ectodermal
 exteriorly
+eskar
 ego
 ektodynamorphic
 endamebic
@@ -13319,7 +13320,6 @@ ephoralty
 exponency
 educated
 exponentiates
-eskar
 encincture
 exponention
 elephantopus
