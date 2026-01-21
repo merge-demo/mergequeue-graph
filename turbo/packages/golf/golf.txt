@@ -3318,7 +3318,6 @@ guha
 gerundial
 gingalls
 gangshag
-gentlewomanlike
 germier
 goatsfoot
 gaetulian
@@ -8470,6 +8469,7 @@ gov
 ginglymoarthrodial
 grignet
 gleyde
+gentlewomanlike
 gilders
 grivets
 glaze
