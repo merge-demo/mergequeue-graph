@@ -1537,7 +1537,6 @@ forepiece
 faunish
 fleecing
 foamers
-franklinite
 falsism
 fattenable
 fauntleroy
@@ -3980,6 +3979,7 @@ forlay
 ferric
 furazolidone
 fluorosis
+franklinite
 fliskiest
 fumblers
 foramina
