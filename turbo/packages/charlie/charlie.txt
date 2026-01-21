@@ -11048,7 +11048,6 @@ conichalcite
 chit
 chitak
 cordoba
-chuckled
 chitarra
 cothish
 circuminsular
@@ -21971,6 +21970,7 @@ clinohedrite
 configurating
 configuration
 configurationally
+chuckled
 configurations
 configurative
 configure
