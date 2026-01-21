@@ -15222,6 +15222,7 @@ claith
 clubmen
 clayton
 chinkers
+contrivement
 claiver
 crucigerous
 ceromancy
@@ -23843,7 +23844,6 @@ contrive
 curds
 contrived
 contrivedly
-contrivement
 cinchonology
 cowroid
 caracal
