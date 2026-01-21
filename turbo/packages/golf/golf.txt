@@ -4426,6 +4426,7 @@ gipon
 gaetulan
 gunlayer
 gypped
+glaucescent
 gopherwood
 giardia
 gyp
@@ -6271,7 +6272,6 @@ gros
 governessy
 gid
 gobbles
-glaucescent
 goolde
 ginzoes
 gerahs
