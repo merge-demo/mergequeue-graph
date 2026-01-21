@@ -672,7 +672,6 @@ damped
 desquamated
 dukely
 deafen
-diurne
 dihydroxy
 devoting
 dodecastylar
@@ -688,6 +687,7 @@ drainfield
 deans
 despairs
 dampproofing
+diurne
 dyspepsy
 determinist
 doumaist

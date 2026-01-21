@@ -9495,7 +9495,6 @@ esculents
 exorcize
 ethnog
 esculin
-extratropical
 expansively
 essences
 eugenesis
@@ -11161,6 +11160,7 @@ exonuclease
 endospermic
 ectocarpaceous
 evaluated
+extratropical
 ecumenicist
 ethereal
 encroach
