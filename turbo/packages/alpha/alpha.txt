@@ -3677,7 +3677,6 @@ alimenting
 avigate
 attempre
 adenotomic
-adenous
 autocarpic
 adeona
 attenuative
@@ -11997,6 +11996,7 @@ antisepticizing
 aka
 agba
 ascribed
+adenous
 armagnac
 alkylated
 anarthrosis
