@@ -164,6 +164,7 @@ flirtatious
 friborg
 fabulous
 fourquine
+fours
 ferryboat
 factiously
 fontinalaceae
@@ -2017,7 +2018,6 @@ fide
 feere
 flipper
 fautor
-fours
 feeze
 fimicolous
 furmity
