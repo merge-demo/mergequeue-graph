@@ -16392,6 +16392,7 @@ castana
 constable
 cowslips
 coppery
+copperskin
 clitoromania
 conglutinate
 clitoromaniacal
@@ -24676,7 +24677,6 @@ camacey
 coppersidesman
 cambrics
 corimelaena
-copperskin
 ciderist
 coppersmith
 comenic
