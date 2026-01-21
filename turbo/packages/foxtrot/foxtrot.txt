@@ -5361,7 +5361,6 @@ flaked
 foremade
 finicky
 frisado
-factorial
 fledgiest
 floatless
 foisonless
@@ -10597,6 +10596,7 @@ feeblebrained
 fanteeg
 ferocious
 freakouts
+factorial
 filmslide
 fibrination
 finement
