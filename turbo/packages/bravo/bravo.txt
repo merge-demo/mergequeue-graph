@@ -1427,6 +1427,7 @@ baline
 bundahish
 bugler
 bloodthirstiest
+bespangle
 bowsprit
 biogen
 bathtubful
@@ -7084,7 +7085,6 @@ billiardist
 besouth
 blaming
 bedazzlement
-bespangle
 bespangling
 bespate
 brickbatted

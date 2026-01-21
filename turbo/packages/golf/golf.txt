@@ -3871,7 +3871,6 @@ genioplasty
 genetrix
 gangplow
 gemological
-gateworks
 gonotome
 grippier
 glarily
@@ -10480,6 +10479,7 @@ gynandromorph
 generalising
 granulator
 gule
+gateworks
 guestwise
 gilravage
 gumshoeing
