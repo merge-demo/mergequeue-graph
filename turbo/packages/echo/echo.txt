@@ -1970,6 +1970,7 @@ encamp
 encyclopedist
 electrine
 edward
+exostome
 enolate
 exophoric
 experienceless
@@ -12153,7 +12154,6 @@ ethaldehyde
 estrado
 electric
 embossman
-exostome
 embergoose
 excuser
 elytron

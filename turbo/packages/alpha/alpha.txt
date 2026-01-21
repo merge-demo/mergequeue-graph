@@ -8484,7 +8484,6 @@ antioxygenating
 avarish
 anthologize
 alkyne
-alkitran
 argufy
 alkool
 antagonize
@@ -15834,6 +15833,7 @@ antipyrotic
 aglobulism
 antiplanet
 antihylist
+alkitran
 anatomiless
 almochoden
 antiplastic
