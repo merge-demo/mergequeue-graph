@@ -7208,7 +7208,6 @@ excrescences
 expunge
 errata
 electronegativity
-eoith
 endogenies
 eoiths
 entamebae
@@ -8833,6 +8832,7 @@ eremic
 enterocystoma
 egregiousness
 endocellular
+eoith
 eremitism
 euploidy
 ecuelling
