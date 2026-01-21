@@ -4398,7 +4398,6 @@ globigerinidae
 gynura
 goyazite
 gadsman
-glucuronide
 gobby
 giobertite
 grazierdom
@@ -5900,6 +5899,7 @@ gaylussacia
 gluishness
 germy
 glumes
+glucuronide
 gorman
 gritting
 gesnera
