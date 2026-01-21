@@ -3441,7 +3441,6 @@ damozels
 defoamer
 dryer
 despotisms
-dishlike
 duodecimally
 dashboards
 disavowance
@@ -8766,6 +8765,7 @@ dictaphone
 dequeen
 dragsmen
 depeter
+dishlike
 dragonkind
 diestruses
 deftness
