@@ -6070,6 +6070,7 @@ deranges
 dualin
 detrimental
 dropout
+disacquaintance
 dimission
 durgen
 dissolvable
@@ -13673,7 +13674,6 @@ dequantitate
 diedral
 dissimilate
 depletion
-disacquaintance
 dissimilative
 dangered
 dandyishly
