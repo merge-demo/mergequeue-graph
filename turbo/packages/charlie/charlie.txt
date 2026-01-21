@@ -18572,7 +18572,6 @@ cunner
 characterstring
 coil
 curtis
-conchylia
 coiled
 coiler
 combusted
@@ -24191,6 +24190,7 @@ colleterial
 compost
 crockets
 cunning
+conchylia
 convocations
 crescendo
 convocative
