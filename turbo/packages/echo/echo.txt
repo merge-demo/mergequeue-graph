@@ -10738,7 +10738,6 @@ excystation
 extrasystolic
 euphonic
 enid
-ephemerae
 enclaret
 endorsee
 extort
@@ -12697,6 +12696,7 @@ exonym
 eelback
 earcockle
 energizing
+ephemerae
 exophasic
 evidentially
 etchers
