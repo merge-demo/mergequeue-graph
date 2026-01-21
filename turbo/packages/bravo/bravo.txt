@@ -2624,7 +2624,6 @@ bucrnia
 belostoma
 bumpkinly
 broncs
-barkier
 buttonhook
 bravery
 beduchess
@@ -16762,6 +16761,7 @@ brazilin
 bemuddy
 bucolicism
 ballett
+barkier
 bucorvus
 bowknots
 billheading
