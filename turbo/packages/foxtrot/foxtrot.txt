@@ -483,7 +483,6 @@ foreclosures
 flutebird
 fistulose
 fuseau
-fakeer
 fretting
 featherleaf
 fetiferous
@@ -9323,6 +9322,7 @@ fellowly
 futurize
 fluoresces
 frankenstein
+fakeer
 fascista
 franker
 funerally
