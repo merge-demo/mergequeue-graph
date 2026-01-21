@@ -7611,7 +7611,6 @@ girlies
 gears
 glancingly
 guenons
-geologist
 geomantic
 gradated
 gleaminess
@@ -10828,6 +10827,7 @@ goatland
 grammatic
 greengrocery
 greenbackism
+geologist
 grayhead
 gyrofrequency
 genethlialogical
