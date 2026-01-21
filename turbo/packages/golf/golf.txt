@@ -2810,7 +2810,6 @@ gentler
 gutnish
 gingelly
 gilgulim
-glassite
 gifture
 grittier
 geolinguistics
@@ -3892,6 +3891,7 @@ glamorously
 galleried
 gisla
 guidance
+glassite
 ghat
 geomorphy
 gnoff
