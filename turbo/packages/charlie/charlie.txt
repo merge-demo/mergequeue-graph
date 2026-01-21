@@ -7196,7 +7196,6 @@ centrings
 chalazogam
 confiture
 codebreak
-chymous
 centripetence
 centriscid
 clarine
@@ -11919,6 +11918,7 @@ cosmochemistry
 cremains
 choreoid
 chillers
+chymous
 crocidolite
 chorepiscopal
 catheterize
