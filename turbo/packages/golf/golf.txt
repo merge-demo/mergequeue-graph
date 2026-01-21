@@ -3125,7 +3125,6 @@ galena
 gestures
 gastroelytrotomy
 goosier
-greedygut
 gets
 geoscientists
 geochronologically
@@ -10734,6 +10733,7 @@ graille
 gavage
 galloot
 garnish
+greedygut
 grandma
 gournard
 gorgonise
