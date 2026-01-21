@@ -1487,6 +1487,7 @@ electrothermal
 estantion
 empyesis
 endophytous
+epispermic
 egad
 elderlies
 encyclopediac
@@ -2058,7 +2059,6 @@ epi
 eugene
 epopoean
 earwitness
-epispermic
 emu
 endamoebae
 eggberry
