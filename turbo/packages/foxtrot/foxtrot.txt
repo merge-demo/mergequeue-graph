@@ -8438,6 +8438,7 @@ fasels
 formee
 fluorinating
 freethinking
+fibriform
 fustilarian
 fulminous
 forsee
@@ -10700,7 +10701,6 @@ fecks
 finesses
 fise
 formularising
-fibriform
 foretelling
 frumenty
 fungals
