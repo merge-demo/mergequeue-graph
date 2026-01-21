@@ -1860,6 +1860,7 @@ acceleration
 adstrict
 anthropomorphological
 advanced
+augerer
 acetable
 azodisulphonic
 antipopularization
@@ -23480,7 +23481,6 @@ augends
 auger
 ahimsas
 agrufe
-augerer
 antireformer
 augers
 auget
