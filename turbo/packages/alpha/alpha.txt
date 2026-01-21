@@ -13698,7 +13698,6 @@ archmonarchy
 augmenter
 antileak
 alibis
-aeroperitonia
 alertly
 avant
 anomatheca
@@ -15070,6 +15069,7 @@ annihilationism
 armomancy
 ascetics
 async
+aeroperitonia
 aruke
 antidote
 anteroventrally
