@@ -5558,6 +5558,7 @@ flageolet
 fascicled
 formerness
 fourgons
+friulian
 flight
 frusla
 flighter
@@ -10163,7 +10164,6 @@ flobby
 fimbria
 fratricidal
 falcer
-friulian
 fibroadenia
 frizzy
 foresightedly
