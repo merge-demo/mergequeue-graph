@@ -1268,6 +1268,7 @@ favella
 forevouch
 femalize
 frederica
+fineableness
 footwall
 fearful
 flatten
@@ -3879,7 +3880,6 @@ function
 findhorn
 filarees
 fine
-fineableness
 fumigators
 fusinist
 fluoridated
