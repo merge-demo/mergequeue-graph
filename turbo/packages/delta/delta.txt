@@ -8428,7 +8428,6 @@ dorsiventrally
 duopsony
 degreed
 diamagnet
-diamagnetic
 diamagnetism
 dredging
 ditrochee
@@ -13022,6 +13021,7 @@ distater
 dispand
 descaling
 diphthongized
+diamagnetic
 dispar
 disparageable
 dingies
