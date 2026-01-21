@@ -6181,6 +6181,7 @@ conhydrin
 cattlemen
 cattleship
 carbines
+coasting
 clamshells
 coburghership
 commercials
@@ -20512,7 +20513,6 @@ compassed
 cotham
 cobwebbiest
 chinchiest
-coasting
 compassion
 compassionate
 couthiness
