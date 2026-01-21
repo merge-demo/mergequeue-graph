@@ -6036,6 +6036,7 @@ funicule
 flavoring
 filmgoing
 feringhee
+foreremembered
 ferrivorous
 funker
 fizzling
@@ -11519,7 +11520,6 @@ filmsetting
 forleave
 ferruler
 fistic
-foreremembered
 fab
 furtiveness
 frena
