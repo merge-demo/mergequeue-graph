@@ -15226,7 +15226,6 @@ chinkers
 contrivement
 claiver
 crucigerous
-ceromancy
 claywares
 caam
 colours
@@ -16741,6 +16740,7 @@ clouding
 centimeter
 coeliorrhoea
 cloudlessness
+ceromancy
 campody
 cycloheptane
 congregativeness
