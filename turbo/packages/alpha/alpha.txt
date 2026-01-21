@@ -11533,7 +11533,6 @@ appositions
 adenophyllous
 aulas
 anabolism
-accinging
 amethysts
 albuminise
 anacalypsis
@@ -12935,6 +12934,7 @@ achromatising
 adjuvants
 apologetics
 axine
+accinging
 angula
 aldus
 authoriser
