@@ -6616,6 +6616,7 @@ adradius
 aboon
 arakanese
 anatolian
+apples
 aporetical
 amidoketone
 albedos
@@ -17699,7 +17700,6 @@ autoincrements
 applejohn
 analogice
 amidogen
-apples
 avoue
 applewoman
 adopts
