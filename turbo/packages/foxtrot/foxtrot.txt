@@ -1049,7 +1049,6 @@ farinose
 founce
 flannelly
 flourishing
-farinosel
 foussa
 foredesignment
 fulfill
@@ -6779,6 +6778,7 @@ ferme
 frontal
 flaccidity
 footbeat
+farinosel
 forfalt
 faithfuls
 finmark
