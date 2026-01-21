@@ -4599,7 +4599,6 @@ formulations
 framework
 fireboard
 fluctuate
-fossane
 fitzroya
 federatively
 fatherless
@@ -11357,6 +11356,7 @@ footways
 foister
 factish
 focalizing
+fossane
 fluorindin
 fibropolypus
 fruitade
