@@ -1270,7 +1270,6 @@ calendas
 cribble
 cocainism
 catechistically
-calender
 compromissorial
 calendered
 calenderer
@@ -3184,6 +3183,7 @@ collagen
 caperingly
 cribbiter
 capuchin
+calender
 coracohumeral
 contradictor
 capernaitical
