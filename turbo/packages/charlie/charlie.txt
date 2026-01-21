@@ -20346,7 +20346,6 @@ coupling
 communis
 carpeted
 communise
-crofting
 chudder
 communism
 crump
@@ -27756,6 +27755,7 @@ choluteca
 chaetopterin
 coxcombic
 chondrus
+crofting
 cordleaf
 coxcombity
 coxcomically
