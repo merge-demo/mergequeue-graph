@@ -5581,6 +5581,7 @@ disorganiser
 disprivilege
 detainingly
 depravingly
+dissyllable
 deuterotokous
 dogtrick
 dephycercal
@@ -13671,7 +13672,6 @@ dissyllabised
 deity
 dunes
 dissyllabizing
-dissyllable
 dialecticism
 dignitarial
 distractedness
