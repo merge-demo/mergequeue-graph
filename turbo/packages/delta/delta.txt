@@ -4796,6 +4796,7 @@ decadal
 dimmedness
 diestrum
 dognapers
+diaphanometry
 durableness
 demonise
 dactyliotheca
@@ -14961,7 +14962,6 @@ doesn
 desiccatory
 doffing
 demiracle
-diaphanometry
 dhikr
 disconsonancy
 drearisomely
