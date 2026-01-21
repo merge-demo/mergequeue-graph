@@ -574,6 +574,7 @@ gagership
 goldflower
 globalize
 granddaddy
+geologize
 ginhound
 galut
 geohydrology
@@ -3337,7 +3338,6 @@ gaults
 germin
 gasteropod
 gobemouche
-geologize
 gymnurine
 guitermanite
 gneu
