@@ -3091,6 +3091,7 @@ edgewise
 engrossers
 eonisms
 encyclopedically
+expirant
 euectic
 elmwood
 exudations
@@ -8155,7 +8156,6 @@ excalfaction
 episiotomies
 eequinoctium
 enroots
-expirant
 episodical
 episodically
 eviscerates
