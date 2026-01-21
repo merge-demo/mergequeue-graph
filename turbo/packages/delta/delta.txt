@@ -6639,6 +6639,7 @@ dustrags
 deserved
 disesteemer
 deservers
+diallings
 dollmaker
 droplight
 decadianome
@@ -8406,7 +8407,6 @@ dishonorably
 deflower
 dysphasic
 drowned
-diallings
 dehair
 dovefoot
 disciplines
