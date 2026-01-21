@@ -374,6 +374,7 @@ goniometrical
 guyer
 galactosis
 glycerolate
+gravat
 goniatites
 grimsire
 gauric
@@ -8012,7 +8013,6 @@ gongorism
 gan
 galempung
 gravicembali
-gravat
 gastrulas
 grudgingness
 gunzian
