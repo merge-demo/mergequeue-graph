@@ -1100,7 +1100,6 @@ budges
 bastiles
 bairn
 bypassed
-brevetted
 bransolder
 bromius
 barless
@@ -13996,6 +13995,7 @@ bronstrops
 bandit
 batonist
 beatae
+brevetted
 beevish
 blendor
 biblioclasm
