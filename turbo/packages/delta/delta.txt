@@ -2791,6 +2791,7 @@ decresc
 desalination
 duodecahedron
 decrescent
+deuterocanonical
 deknight
 desulfured
 droller
@@ -7498,7 +7499,6 @@ deuterium
 deinocephalia
 declaimed
 dominators
-deuterocanonical
 deuterocasease
 dendroeca
 decemplicate
