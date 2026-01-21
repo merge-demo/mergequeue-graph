@@ -3701,7 +3701,6 @@ ghostwriters
 grimm
 gallirallus
 ghoulery
-goetia
 gasterosteus
 groundedness
 garnierite
@@ -9116,6 +9115,7 @@ gambier
 groping
 grandiose
 gluily
+goetia
 gavelkinder
 gelong
 gazpacho
