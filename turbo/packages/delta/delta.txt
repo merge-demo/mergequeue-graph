@@ -1517,7 +1517,6 @@ diffracted
 defeminizing
 dreidls
 distracting
-diagnosable
 dowsabel
 diglucoside
 doatish
@@ -13233,6 +13232,7 @@ drumbeat
 depolarizer
 displicence
 drawsheet
+diagnosable
 desaurine
 displosion
 dronte
