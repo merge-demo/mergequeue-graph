@@ -1955,6 +1955,7 @@ bartizaned
 bandworm
 blunderers
 burnishment
+becapped
 boogiewoogie
 baylet
 baneberry
@@ -9936,7 +9937,6 @@ baygall
 babasco
 berkeleyism
 bitterheartedness
-becapped
 birdlife
 bitterishness
 begulfs
