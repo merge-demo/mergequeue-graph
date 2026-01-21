@@ -2265,6 +2265,7 @@ fsiest
 fustee
 footfalls
 fenchene
+foxtongue
 favn
 feluccas
 facaded
@@ -3919,7 +3920,6 @@ fictionmonger
 furcating
 fluey
 fogyism
-foxtongue
 foal
 frugalist
 feedbacks

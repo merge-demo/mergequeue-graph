@@ -15498,6 +15498,7 @@ competitioner
 constrainable
 constitutionalism
 chirotonsor
+crower
 clarre
 clarseach
 corrodes
@@ -30099,7 +30100,6 @@ crowdle
 chromatrope
 cingulated
 canonistic
-crower
 crowers
 conductors
 centuried
