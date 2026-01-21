@@ -3757,7 +3757,6 @@ gaffing
 greenhew
 goffers
 geodetics
-glucke
 glirine
 galliass
 grungier
@@ -9214,6 +9213,7 @@ griqualander
 geminis
 gleaning
 gardenmaking
+glucke
 glouting
 gradienter
 globy
