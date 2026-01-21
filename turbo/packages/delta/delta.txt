@@ -7522,6 +7522,7 @@ dodonaean
 dextrogyratory
 demidoctor
 dolichocranic
+diurnal
 dilettanteism
 disciferous
 deuteronomic
@@ -14394,7 +14395,6 @@ diurn
 depraved
 dhaman
 diurna
-diurnal
 deuterogenic
 diurnally
 drug
