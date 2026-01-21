@@ -5819,7 +5819,6 @@ gonophoric
 glochidia
 germanism
 gendarmes
-gruiformes
 geroderma
 graffito
 glycolaldehyde
@@ -6645,6 +6644,7 @@ gash
 grandioso
 gopak
 glissandos
+gruiformes
 genocides
 gonfalcon
 glossopyrosis
