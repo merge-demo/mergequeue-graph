@@ -5525,7 +5525,6 @@ endoergic
 enfevering
 edwardeanism
 enzootic
-epicardial
 enfilade
 exotericism
 elisions
@@ -13404,6 +13403,7 @@ edgily
 edacities
 escalates
 excitatory
+epicardial
 evilmouthed
 emaciates
 eyl
