@@ -4142,7 +4142,6 @@ gaggles
 gainfully
 gauds
 glaswegian
-gibbeted
 gasolenes
 gelofre
 gammas
@@ -4824,6 +4823,7 @@ gatherer
 growlingly
 gunnysack
 gablatores
+gibbeted
 gaff
 gallybagger
 geopolar
