@@ -2595,7 +2595,6 @@ essaying
 embassies
 elysian
 electropathy
-electropathology
 electrophysiological
 eunectes
 electrocutioner
@@ -9229,6 +9228,7 @@ embryoid
 eyestrain
 erotogenesis
 effranchise
+electropathology
 errable
 existences
 ejido
