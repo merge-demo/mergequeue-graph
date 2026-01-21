@@ -3243,6 +3243,7 @@ bedouin
 basilica
 belverdian
 basilical
+bothered
 brookable
 backoff
 blushfulness
@@ -13339,7 +13340,6 @@ buss
 bezante
 basilosaurus
 bradyphagia
-bothered
 bester
 bothers
 beety
