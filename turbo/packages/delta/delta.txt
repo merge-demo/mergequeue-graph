@@ -842,6 +842,7 @@ dams
 dyscrystalline
 danoranja
 disembalm
+debenture
 dolerites
 danielle
 dalbergia
@@ -13498,7 +13499,6 @@ dialectologer
 dustiness
 demicircle
 disrooting
-debenture
 ditrigonal
 dizygous
 disruddered
