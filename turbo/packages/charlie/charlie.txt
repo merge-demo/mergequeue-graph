@@ -7720,7 +7720,6 @@ cerosin
 cerote
 chastises
 cerotin
-chorogi
 cerotypes
 confirmedly
 cerous
@@ -13214,6 +13213,7 @@ cistrons
 chlorogenine
 coulometric
 cycloaliphatic
+chorogi
 cycloalkane
 cyclobothra
 carmakers
