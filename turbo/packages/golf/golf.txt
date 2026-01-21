@@ -215,7 +215,6 @@ glagolitsa
 greys
 gooks
 glyconian
-gravelstone
 gags
 gonoecium
 guarder
@@ -10188,6 +10187,7 @@ geladas
 grimy
 grammaticize
 gayeties
+gravelstone
 gooneys
 graze
 gtd
