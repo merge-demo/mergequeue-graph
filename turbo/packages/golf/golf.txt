@@ -540,6 +540,7 @@ germanium
 gurian
 gesneriaceae
 gogo
+gloom
 gonadotrophin
 gritten
 grapiest
@@ -3733,7 +3734,6 @@ gieaway
 goggle
 glamourless
 grumpishness
-gloom
 glyptographer
 greycoat
 giants
