@@ -8105,7 +8105,6 @@ figurehead
 filmiest
 fillister
 fathogram
-fumigator
 foretellers
 fondon
 farmland
@@ -10588,6 +10587,7 @@ fustier
 fragmental
 forks
 furfurals
+fumigator
 finlandization
 filiation
 francophobe
