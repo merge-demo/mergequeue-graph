@@ -1448,6 +1448,7 @@ follow
 fanwork
 fall
 fiddled
+fichus
 funis
 fattishness
 fother
@@ -8162,7 +8163,6 @@ formicaroid
 flockbed
 foghorn
 forewings
-fichus
 flossed
 frenate
 furtherances
