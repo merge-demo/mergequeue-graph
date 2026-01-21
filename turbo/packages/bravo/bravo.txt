@@ -8572,6 +8572,7 @@ bejeweling
 bellows
 bo
 bunting
+bulking
 bedder
 bradycardia
 billabong
@@ -14958,7 +14959,6 @@ breastplates
 bestudded
 basidorsal
 breastplow
-bulking
 blither
 business
 breasts
