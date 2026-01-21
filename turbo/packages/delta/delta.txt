@@ -9043,6 +9043,7 @@ dictyogen
 diction
 dilutee
 disparage
+delire
 defang
 denaturalize
 diss
@@ -14193,7 +14194,6 @@ deringer
 dunair
 disunify
 disorientates
-delire
 drably
 dolesman
 diastatically
