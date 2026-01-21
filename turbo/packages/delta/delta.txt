@@ -12208,6 +12208,7 @@ disherent
 disfortune
 dramatism
 diomedea
+domiciliation
 disbandment
 directional
 dormie
@@ -18148,7 +18149,6 @@ dermoskeletal
 decamp
 diorthoses
 diplocardia
-domiciliation
 dumosity
 dock
 dumpage
