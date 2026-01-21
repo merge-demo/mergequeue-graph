@@ -5059,7 +5059,6 @@ eardrums
 exited
 endoclinal
 eternals
-endocoelar
 eupanorthidae
 ectozoan
 equivocating
@@ -5684,6 +5683,7 @@ ectromelus
 evilest
 eozoon
 excitonutrient
+endocoelar
 engastrimythic
 evening
 engelmannia
