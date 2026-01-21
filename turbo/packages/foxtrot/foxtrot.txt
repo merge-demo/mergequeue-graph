@@ -8844,6 +8844,7 @@ fot
 florideous
 foreshorten
 fictious
+fungated
 folia
 fleuron
 fringefoot
@@ -11035,7 +11036,6 @@ fumishing
 friendliness
 fermented
 fumuli
-fungated
 fere
 fascias
 feels
