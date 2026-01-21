@@ -11152,6 +11152,7 @@ depletes
 dottily
 devicefulness
 duraplasty
+diastemata
 distressful
 dichromic
 disbanded
@@ -11923,7 +11924,6 @@ defeasive
 diseasedness
 diseases
 diseconomy
-diastemata
 dicetyl
 diplostemonous
 depthing
