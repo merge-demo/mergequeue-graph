@@ -1345,7 +1345,6 @@ amlet
 aumbries
 accelerometer
 accelerometers
-anticatholic
 anapaestical
 anticnemion
 awingly
@@ -18641,6 +18640,7 @@ adding
 adiathermal
 artemisic
 archaeologic
+anticatholic
 amylases
 archaeological
 abyssa
