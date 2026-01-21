@@ -4673,6 +4673,7 @@ buildable
 barlows
 bedford
 brothier
+bewary
 bedframes
 bouncers
 broomed
@@ -7589,7 +7590,6 @@ bandolier
 bandwagons
 beloam
 begirding
-bewary
 bewaste
 beweary
 besottedness
