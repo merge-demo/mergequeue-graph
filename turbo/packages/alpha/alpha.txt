@@ -179,6 +179,7 @@ alteration
 antistrumatic
 abbacomes
 acolapissa
+agglutinogen
 anakes
 abbasi
 abbasside
@@ -5883,7 +5884,6 @@ agamobium
 agglutinize
 anathematization
 alibamu
-agglutinogen
 agglutinoscope
 acclaiming
 antiscians
