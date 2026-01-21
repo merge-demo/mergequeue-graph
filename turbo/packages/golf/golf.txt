@@ -2580,6 +2580,7 @@ gn
 guetare
 generative
 glabbella
+granatum
 gifts
 generification
 gitaligenin
@@ -9024,7 +9025,6 @@ grillee
 golem
 gladrags
 gramashes
-granatum
 geomorphogenist
 genian
 gorhens
