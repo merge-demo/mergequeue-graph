@@ -6990,6 +6990,7 @@ desponds
 debasement
 diaster
 dikaryon
+domett
 districts
 divinisation
 donkeys
@@ -15376,7 +15377,6 @@ deciliters
 difformity
 dikaryotic
 disencumbrance
-domett
 demicivilized
 dunny
 deipara

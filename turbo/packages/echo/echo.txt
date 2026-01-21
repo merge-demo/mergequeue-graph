@@ -2741,7 +2741,6 @@ emblematicize
 elegiacally
 eighthly
 exprobate
-encoil
 essie
 excrescently
 eucatropine
@@ -13888,6 +13887,7 @@ eliminate
 extradomestic
 ecchymoma
 extradosed
+encoil
 entireties
 exsanguinating
 environments
