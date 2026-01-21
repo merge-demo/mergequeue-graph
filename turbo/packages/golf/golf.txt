@@ -2681,7 +2681,6 @@ gemarist
 glaciological
 gigantocyte
 gyrencephalic
-genioglossal
 gastroenterologists
 groupthink
 ganodont
@@ -3802,6 +3801,7 @@ glarier
 gonapophysal
 grasps
 gentlemanhood
+genioglossal
 gonadal
 galled
 gryphons
