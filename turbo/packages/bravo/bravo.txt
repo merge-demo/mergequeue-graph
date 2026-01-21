@@ -6091,6 +6091,7 @@ benchership
 bodge
 blusters
 benchful
+bafyot
 benchman
 benchmark
 baryecoia
@@ -18036,7 +18037,6 @@ bussing
 bussock
 beneurous
 bodken
-bafyot
 bepaw
 basifying
 bottler
