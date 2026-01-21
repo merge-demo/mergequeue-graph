@@ -857,7 +857,6 @@ gammy
 gynecomazia
 ganglionitis
 gilded
-gulinular
 goldfields
 glycerinize
 gazi
@@ -1098,6 +1097,7 @@ generatively
 gearshifts
 gravitate
 graptolitic
+gulinular
 gallants
 guillotining
 gwyniad
