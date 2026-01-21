@@ -1363,7 +1363,6 @@ felspath
 firestop
 filmography
 forwardation
-fatiferous
 flavorfully
 florentine
 fearfuller
@@ -2456,6 +2455,7 @@ fermentescible
 filiform
 fielding
 falla
+fatiferous
 fornax
 ferruginated
 fungal

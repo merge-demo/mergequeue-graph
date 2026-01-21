@@ -9404,6 +9404,7 @@ dismountable
 dejunkerize
 diffusions
 diffusive
+delusory
 diffusors
 diabolus
 diner
@@ -15293,7 +15294,6 @@ dorididae
 dryfarmer
 dumpty
 diabolical
-delusory
 dwamish
 dolores
 dispenditure
