@@ -12155,7 +12155,6 @@ disturbant
 discubitory
 disexercise
 disfaith
-disconsolance
 disfashion
 duinhewassel
 diplosome
@@ -16529,6 +16528,7 @@ dilucidate
 disdainable
 diomedes
 dehydrofreezing
+disconsolance
 dieretic
 dethroning
 dibblers

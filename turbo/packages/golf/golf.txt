@@ -8318,6 +8318,7 @@ glenoid
 gasket
 genetical
 geophytic
+gastrophthisis
 gnarling
 gnar
 glunimie
@@ -9531,7 +9532,6 @@ grumbler
 gleaners
 greenlander
 ger
-gastrophthisis
 greets
 geldability
 gabblers
