@@ -3420,6 +3420,7 @@ fifteens
 faithless
 fiftieth
 florilegia
+fogy
 figeater
 floriate
 fascisti
@@ -11271,7 +11272,6 @@ functionalizing
 flaxwife
 frigorify
 femmes
-fogy
 fiscalize
 flurrying
 farcing

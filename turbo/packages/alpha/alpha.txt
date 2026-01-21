@@ -4044,7 +4044,6 @@ amaracus
 acromion
 agamoid
 asarotum
-areometric
 admit
 allowanced
 anisosthenic
@@ -17976,6 +17975,7 @@ antiempirical
 anisodactyle
 allodialism
 anthropophysiography
+areometric
 allothigene
 authenticate
 amphidesmous
