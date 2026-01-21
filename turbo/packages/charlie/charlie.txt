@@ -8454,7 +8454,6 @@ capparidaceous
 coquillage
 contrastively
 champian
-copyholder
 champignon
 champignons
 caveat
@@ -9460,6 +9459,7 @@ chebecs
 chebel
 chebog
 culation
+copyholder
 categorising
 chebulic
 colorbearer
