@@ -11786,7 +11786,6 @@ bocasin
 bookshops
 boccarella
 bodings
-burdenous
 bobsleding
 bocce
 bugbears
@@ -12174,6 +12173,7 @@ beeps
 blaine
 beclasped
 blarneyed
+burdenous
 boletaceae
 byrled
 brabbler
