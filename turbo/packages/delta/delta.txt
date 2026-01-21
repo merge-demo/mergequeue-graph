@@ -5353,7 +5353,6 @@ decoction
 delicatesse
 daffodil
 dendra
-decontrol
 delim
 deschampsia
 denudating
@@ -5948,6 +5947,7 @@ devitation
 domajigger
 diamagnetize
 diagrammitically
+decontrol
 depthlessness
 diobols
 demonetization

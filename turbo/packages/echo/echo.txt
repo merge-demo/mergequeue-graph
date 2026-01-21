@@ -3170,7 +3170,6 @@ equilibristat
 emblemize
 eidetic
 endocone
-ejaculum
 extraserous
 entomophagous
 episcopation
@@ -9681,6 +9680,7 @@ eventuated
 entoptoscopic
 eschaufe
 essay
+ejaculum
 epistomata
 embargo
 erethism
