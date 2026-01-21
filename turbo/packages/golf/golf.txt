@@ -9201,7 +9201,6 @@ grayfish
 guiled
 geologists
 guaka
-gunebo
 geoscience
 gibberosity
 grippleness
@@ -10132,6 +10131,7 @@ gideonite
 grateless
 gymslip
 glazement
+gunebo
 gasohol
 goodmanship
 grazers
