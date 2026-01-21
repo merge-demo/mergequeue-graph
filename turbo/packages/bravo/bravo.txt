@@ -11946,7 +11946,6 @@ blastemas
 boggler
 bannerol
 buffeted
-bombing
 bogglers
 boggling
 bessarabian
@@ -13637,6 +13636,7 @@ backspliced
 bespecklement
 blights
 buttermaking
+bombing
 bombaster
 brochan
 bellbine

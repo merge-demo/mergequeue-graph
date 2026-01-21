@@ -3538,6 +3538,7 @@ fairylands
 fulgence
 filched
 fellowmen
+forbore
 frenchism
 fogie
 flamboyance
@@ -10725,7 +10726,6 @@ frutescence
 fetter
 forbare
 forecount
-forbore
 frumpishly
 fanciness
 follyer
