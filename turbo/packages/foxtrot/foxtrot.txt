@@ -5281,6 +5281,7 @@ fairstead
 fldxt
 foolhardier
 frower
+fasts
 filtrability
 frugalism
 featherweight
@@ -5435,7 +5436,6 @@ floey
 fluorated
 friezy
 fiduciarily
-fasts
 forehear
 fiant
 friseurs
