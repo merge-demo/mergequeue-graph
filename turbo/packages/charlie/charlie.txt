@@ -4244,6 +4244,7 @@ care
 coerect
 constitutiveness
 coronated
+corbeille
 carecloth
 cadetcy
 cared
@@ -29392,7 +29393,6 @@ chorographic
 cryptozoic
 cryptozoite
 cryptozonate
-corbeille
 crazedness
 crypturi
 courbash
