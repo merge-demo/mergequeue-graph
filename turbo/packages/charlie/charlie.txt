@@ -15207,6 +15207,7 @@ chondrophyte
 clairvoyances
 contraposaune
 clairvoyancy
+cicatrized
 clairvoyant
 ceratoduses
 chinaberry
@@ -15561,7 +15562,6 @@ classiest
 classify
 continentalist
 classifiable
-cicatrized
 curites
 classificator
 culicidae
