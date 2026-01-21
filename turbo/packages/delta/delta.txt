@@ -337,6 +337,7 @@ dimeran
 dummyweed
 disarm
 deltaite
+derecho
 denumberment
 damier
 depasturage
@@ -6098,7 +6099,6 @@ debauch
 deploringly
 deft
 discostomatous
-derecho
 dereferenced
 designees
 dereferencing
