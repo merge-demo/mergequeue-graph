@@ -4108,7 +4108,6 @@ glottal
 grows
 ginkgoaceous
 gulo
-gasan
 goetic
 gannetry
 gigantean
@@ -7308,6 +7307,7 @@ gymnosophy
 genys
 gordolobo
 gaseity
+gasan
 grizzles
 gospels
 greatcoats
