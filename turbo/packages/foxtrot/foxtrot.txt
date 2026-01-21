@@ -6561,7 +6561,6 @@ feltness
 frounce
 foamflower
 flammulation
-firework
 forthcomer
 frocks
 floriculturally
@@ -8511,6 +8510,7 @@ foxtrot
 flunkydom
 fistiana
 flowages
+firework
 filefishes
 foederati
 facsimiling
