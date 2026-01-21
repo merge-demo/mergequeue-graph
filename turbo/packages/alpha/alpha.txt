@@ -13301,7 +13301,6 @@ apace
 atmosphered
 asbestus
 anisopod
-ataraxias
 agree
 archworkmaster
 astricted
@@ -17579,6 +17578,7 @@ antixerophthalmic
 appendency
 aquacultural
 appendicalgia
+ataraxias
 ausonian
 antipodist
 ascii
