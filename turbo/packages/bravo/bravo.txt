@@ -7317,6 +7317,7 @@ beneventana
 bacalao
 blowby
 betanglement
+beleap
 beulah
 burners
 bareges
@@ -8935,7 +8936,6 @@ biodegradability
 biodegradable
 backfield
 becassocked
-beleap
 biodegraded
 biodegrading
 biodynamical
