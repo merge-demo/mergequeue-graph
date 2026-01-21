@@ -4884,6 +4884,7 @@ bedeswomen
 bearskin
 belavendered
 blanket
+bushmen
 boucl
 benty
 bedwarfing
@@ -16561,7 +16562,6 @@ bargeese
 barbarianize
 brownish
 backbiters
-bushmen
 botrydium
 bibliopolical
 brachypinacoid

@@ -4185,6 +4185,7 @@ enghle
 etherialisation
 emeutes
 enwound
+entrants
 emptiers
 emptio
 emptor
@@ -8447,7 +8448,6 @@ extravasate
 expressionistic
 entryways
 empathy
-entrants
 emda
 enregiment
 enhemospore
