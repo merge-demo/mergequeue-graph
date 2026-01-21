@@ -15968,6 +15968,7 @@ bronchiolar
 bankcards
 brontoscopy
 bronchioli
+bleacher
 bronchiospasm
 bronchitis
 bethrall
@@ -16105,7 +16106,6 @@ broodling
 benzoylglycine
 broodmare
 blackmailers
-bleacher
 bursera
 bertillonage
 ballonets

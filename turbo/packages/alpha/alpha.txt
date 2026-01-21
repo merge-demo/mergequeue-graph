@@ -4549,7 +4549,6 @@ atomatic
 antas
 advisableness
 altiscope
-amidon
 anicca
 adiaphorism
 advisal
@@ -14252,6 +14251,7 @@ americanist
 anthdia
 appraisals
 anthroposociologist
+amidon
 albs
 axile
 ammonite
