@@ -160,7 +160,6 @@ enriched
 exequy
 euripides
 expiring
-escallop
 enticed
 echidna
 engelmanni
@@ -11622,6 +11621,7 @@ elaterite
 epileptogenic
 elephanticide
 exacter
+escallop
 equianchorate
 elocutionary
 epitaphical
