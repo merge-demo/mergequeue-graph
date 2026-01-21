@@ -6265,7 +6265,6 @@ featly
 fluent
 flukeworm
 follicle
-ferryhouse
 fob
 falerian
 flumes
@@ -11118,6 +11117,7 @@ fauteuils
 fedellini
 feverbush
 fetometry
+ferryhouse
 forespeaker
 fishtail
 farle
