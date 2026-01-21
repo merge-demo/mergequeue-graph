@@ -7516,6 +7516,7 @@ electronics
 evangely
 eastward
 epicedian
+estop
 epicedium
 entropies
 entopterygoid
@@ -9305,7 +9306,6 @@ ericaceous
 eruction
 emersions
 eruditical
-estop
 erudition
 erinys
 eurythmic
