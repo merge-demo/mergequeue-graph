@@ -3077,6 +3077,7 @@ glucokinin
 globigerine
 gleanable
 gali
+gallweed
 gubat
 grisettes
 glossarist
@@ -5103,7 +5104,6 @@ gaumed
 grumbly
 gomarian
 glider
-gallweed
 glossily
 glisky
 goblinesque
