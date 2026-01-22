@@ -9039,7 +9039,6 @@ foxbane
 foxberry
 foliums
 fribbleism
-fractionation
 familiariser
 forenent
 friesish
@@ -9511,6 +9510,7 @@ flawn
 freaks
 fatiguingly
 forested
+fractionation
 forfear
 flask
 fibrovasal
