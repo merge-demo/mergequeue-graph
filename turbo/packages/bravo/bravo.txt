@@ -9331,6 +9331,7 @@ bagattini
 barringtonia
 biquintile
 boles
+bromoiodized
 bastaard
 biracial
 bavenite
@@ -11061,7 +11062,6 @@ berlin
 blob
 bimetallic
 bicentrically
-bromoiodized
 benzoylate
 bidentalia
 beneventan
