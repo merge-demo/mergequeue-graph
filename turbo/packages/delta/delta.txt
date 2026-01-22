@@ -9675,7 +9675,6 @@ dilatants
 dilatate
 decremented
 discutient
-dilatative
 dodecahedron
 distillations
 durometer
@@ -13194,6 +13193,7 @@ decomposed
 diuturnal
 disgruntles
 displaceability
+dilatative
 dilly
 dipropyl
 displayable
