@@ -3467,6 +3467,7 @@ gnathotheca
 gutter
 gussied
 gestical
+gummage
 gesticulant
 grueller
 goloch
@@ -6322,7 +6323,6 @@ gam
 groceries
 geotropism
 goety
-gummage
 gymnolaemata
 gaels
 gloriosa

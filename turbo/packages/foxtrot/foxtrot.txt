@@ -6208,6 +6208,7 @@ farmtown
 fizzles
 firnismalerei
 fluidic
+funster
 friendlike
 frankeniaceous
 fecit
@@ -11250,7 +11251,6 @@ frumaryl
 filibusterer
 forrit
 facilitates
-funster
 frate
 furacious
 fireplaces
