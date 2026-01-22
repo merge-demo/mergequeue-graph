@@ -5858,7 +5858,6 @@ fisherfolk
 faultfinding
 fdname
 flockings
-fudged
 fulsamic
 folgerite
 fencepost
@@ -11330,6 +11329,7 @@ forswat
 foldure
 fellic
 fibroma
+fudged
 fluoroid
 fustinella
 forewind
