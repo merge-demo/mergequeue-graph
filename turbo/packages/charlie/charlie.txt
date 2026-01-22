@@ -12337,6 +12337,7 @@ caucasoids
 chromatype
 chromatist
 chemotic
+cleidomastoid
 coracohyoid
 cholent
 crack
@@ -15367,7 +15368,6 @@ claosaurus
 clapboard
 caenolestes
 clapboarding
-cleidomastoid
 clapboards
 cogonal
 clapcake
