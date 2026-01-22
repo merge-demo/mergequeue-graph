@@ -3990,6 +3990,7 @@ foramina
 fishery
 fingersmith
 ferison
+foresaying
 flushy
 furrow
 fabricated
@@ -4578,7 +4579,6 @@ fibrocalcareous
 ferring
 flowmanostat
 footweary
-foresaying
 formulising
 fleckless
 fruitgrowing
