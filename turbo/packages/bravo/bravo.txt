@@ -9318,7 +9318,6 @@ biprism
 burgaudine
 blackguardism
 biprong
-baume
 bongoist
 befit
 bleezy
@@ -13515,6 +13514,7 @@ backhanded
 butterbough
 bibliophile
 bra
+baume
 burdening
 baling
 bootleg
