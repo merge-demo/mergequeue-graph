@@ -2005,6 +2005,7 @@ fulvid
 feedstock
 floccosely
 firespout
+freshmen
 fact
 forerake
 fitched
@@ -9772,7 +9773,6 @@ fireproofed
 feminists
 fulminator
 feasance
-freshmen
 fanners
 fostering
 frighter

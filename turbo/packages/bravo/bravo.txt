@@ -4728,7 +4728,6 @@ bedkey
 bandpass
 braved
 braze
-blype
 bootlegger
 bedlamised
 bottlers
@@ -5246,6 +5245,7 @@ basaltic
 boneheaded
 bicentenary
 bimastoid
+blype
 bullyragged
 basophils
 beaky
