@@ -1190,7 +1190,6 @@ gildhall
 gastroatrophia
 genesic
 genesiacal
-guideship
 gymnogenous
 griot
 gradations
@@ -10027,6 +10026,7 @@ gangliac
 gleans
 gazebos
 glaistig
+guideship
 gammation
 gargoyles
 greasing
