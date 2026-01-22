@@ -10607,7 +10607,6 @@ deaminized
 diauli
 dissatisfying
 dysporomorph
-diphtheritic
 diplonema
 deuteric
 detritus
@@ -17100,6 +17099,7 @@ dysplastic
 divi
 didle
 droukan
+diphtheritic
 drie
 disconcertedness
 drawlink
