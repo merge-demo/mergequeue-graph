@@ -4100,6 +4100,7 @@ fossilated
 fissipedal
 ferth
 fiendful
+frosty
 feuilletons
 frameworks
 floridan
@@ -10476,7 +10477,6 @@ fidged
 frostfish
 forcite
 frostbitten
-frosty
 frictionable
 firca
 feuillet
