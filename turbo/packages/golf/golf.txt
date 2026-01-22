@@ -4676,6 +4676,7 @@ gymnasiast
 gumshoe
 grudgingly
 garnisheeing
+ghosting
 genista
 gowland
 geysers
@@ -8366,7 +8367,6 @@ gypsydom
 gymnodiniaceous
 galeeny
 gyroscopically
-ghosting
 gaucherie
 gleg
 gastrothecal
