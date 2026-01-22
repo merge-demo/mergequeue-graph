@@ -5081,6 +5081,7 @@ frequence
 fulgently
 flashlight
 frizzly
+fabricant
 foreadvise
 fellas
 frivolous
@@ -10141,7 +10142,6 @@ frontlet
 flatdom
 fitter
 fashed
-fabricant
 falcidian
 fussle
 foresing
