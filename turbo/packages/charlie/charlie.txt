@@ -10277,7 +10277,6 @@ chichicaste
 chontawood
 chichimec
 chichipe
-corometer
 charlies
 calctuffs
 chichling
@@ -31246,6 +31245,7 @@ cotyloidal
 coverlid
 curacaos
 coracler
+corometer
 classification
 curace
 cabriolets
