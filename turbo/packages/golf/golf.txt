@@ -3013,7 +3013,6 @@ gaulding
 ginglymoidal
 gregarinosis
 gyrally
-grudgekin
 garboil
 gallicolous
 gulinula
@@ -8834,6 +8833,7 @@ gypsiologist
 groundedly
 gneisses
 guardfully
+grudgekin
 greylag
 groundout
 gynandromorphy
