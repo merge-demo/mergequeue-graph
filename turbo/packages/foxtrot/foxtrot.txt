@@ -5942,7 +5942,6 @@ fluidizing
 folkways
 foliot
 fusillading
-foreplays
 fawny
 fluidrachm
 fidia
@@ -8675,6 +8674,7 @@ febrifuge
 fissility
 favoress
 flattens
+foreplays
 feteless
 fame
 faciendum
