@@ -2217,7 +2217,6 @@ barba
 bayards
 boneheadedness
 barbados
-broggle
 blobs
 badineur
 bootholder
@@ -3262,6 +3261,7 @@ basinful
 benzines
 bewhig
 beneficiaries
+broggle
 begartered
 bethank
 bookkeeps
