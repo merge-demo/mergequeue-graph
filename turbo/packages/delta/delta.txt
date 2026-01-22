@@ -2061,6 +2061,7 @@ diopsimeter
 diety
 dummy
 defaced
+deplumation
 devolution
 disproportionally
 decal
@@ -6423,7 +6424,6 @@ deashed
 danseusse
 desagrement
 demitone
-deplumation
 dictatrix
 deodara
 digitization
