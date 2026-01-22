@@ -5201,6 +5201,7 @@ almsman
 affiance
 angakok
 antievolutionistic
+amoeboid
 affiches
 affidare
 affidation
@@ -22164,7 +22165,6 @@ acromegalies
 antebrachium
 alcavala
 asthenia
-amoeboid
 anarchically
 abampere
 audiograms

@@ -2296,7 +2296,6 @@ canafistulo
 chlorapatite
 concertgoer
 canaglia
-canaigre
 canaille
 canailles
 cymoid
@@ -18208,6 +18207,7 @@ cofather
 cutlery
 cofeature
 coferment
+canaigre
 collenchyme
 colchicine
 centrolineal
