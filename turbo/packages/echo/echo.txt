@@ -3622,7 +3622,6 @@ epitrachelion
 epithermal
 embread
 entrepeneurs
-ejector
 expellant
 edna
 egads
@@ -11649,6 +11648,7 @@ exactors
 enterophthisis
 electrophone
 equimomental
+ejector
 elasmobranch
 expediencies
 electromechanics
