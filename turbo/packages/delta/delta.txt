@@ -2141,7 +2141,6 @@ downtime
 disturbs
 diosmosis
 decantist
-decaffeinated
 decapitation
 deterrable
 decapitations
@@ -17664,6 +17663,7 @@ discourteously
 dtente
 diplococci
 disapprobation
+decaffeinated
 dreamed
 duadic
 demilitarise
