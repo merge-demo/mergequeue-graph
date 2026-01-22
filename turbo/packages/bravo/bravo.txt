@@ -9907,6 +9907,7 @@ bitstock
 beasties
 besmirches
 bitter
+bradytelic
 bitterbloom
 bittered
 beyerite
@@ -10997,7 +10998,6 @@ benzotriazine
 boffolas
 bowsaw
 blameworthy
-bradytelic
 blithest
 blitz
 bal
