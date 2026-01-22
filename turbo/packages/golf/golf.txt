@@ -5858,6 +5858,7 @@ gluttonize
 gomerels
 gunneries
 glucosidically
+germiniparous
 gleave
 goback
 gynecide
@@ -8681,7 +8682,6 @@ greedless
 grecism
 guttled
 guttling
-germiniparous
 greekize
 gavelling
 grammars
