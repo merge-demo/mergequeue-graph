@@ -12512,6 +12512,7 @@ areas
 acoustician
 appendicate
 addlepate
+adjustores
 adiapneustia
 androgonial
 augurers
@@ -20947,7 +20948,6 @@ appertains
 adipometer
 acclimated
 antirust
-adjustores
 arter
 anticlea
 arseno
