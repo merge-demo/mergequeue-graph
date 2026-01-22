@@ -9384,7 +9384,6 @@ enstool
 echeneid
 enantobiosis
 escaper
-embodied
 endball
 enfranchiser
 extent
@@ -11034,6 +11033,7 @@ electrostereotype
 europium
 expressionistically
 epipharynx
+embodied
 endolumbar
 electrothermostat
 expropriations
