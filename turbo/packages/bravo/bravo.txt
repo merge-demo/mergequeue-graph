@@ -5773,7 +5773,6 @@ biocellate
 bunn
 bioluminescence
 bystander
-bulak
 bufo
 bellbird
 bellboy
@@ -14132,6 +14131,7 @@ brachistochrone
 bovovaccine
 brachystomatous
 brachystomous
+bulak
 bumblings
 bbl
 barre
