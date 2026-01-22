@@ -10961,7 +10961,6 @@ disaffirmance
 dheri
 dictyosiphon
 disaffirmation
-deemstership
 decidedness
 disaffirming
 dermococcus
@@ -12817,6 +12816,7 @@ desirously
 deblocking
 dunk
 debouch
+deemstership
 dissensions
 diathesic
 duplicatus
