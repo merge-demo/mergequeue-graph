@@ -8636,7 +8636,6 @@ fytte
 farstepped
 furthering
 frigidness
-frictionproof
 faintest
 footing
 flaunt
@@ -8856,6 +8855,7 @@ furbelow
 flambage
 froghopper
 faulter
+frictionproof
 fibroadipose
 foujdarry
 foremen

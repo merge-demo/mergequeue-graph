@@ -10866,7 +10866,6 @@ counterlighting
 cobishop
 cometic
 chloralose
-canzoni
 chippie
 chippier
 chippies
@@ -20724,6 +20723,7 @@ complexation
 complexedness
 complexer
 cuinfo
+canzoni
 complexes
 cercis
 convolvuli
