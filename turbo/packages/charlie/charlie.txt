@@ -5193,6 +5193,7 @@ caseum
 cordis
 caseworks
 caseworm
+crockeryware
 casha
 cashableness
 cashaws
@@ -14991,7 +14992,6 @@ converses
 citropten
 cydippian
 colchian
-crockeryware
 civically
 civicism
 civicisms
