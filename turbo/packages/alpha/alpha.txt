@@ -10375,7 +10375,6 @@ abamp
 anteed
 acroama
 anezeh
-asterisms
 amess
 akmudar
 assailants
@@ -15587,6 +15586,7 @@ animalculous
 aceldama
 afront
 antimusicalness
+asterisms
 aimworthiness
 affrightedly
 areoles
