@@ -456,7 +456,6 @@ civilisable
 chancered
 cactuslike
 cinclidotus
-cassavas
 cartages
 catheretic
 cacumination
@@ -27581,6 +27580,7 @@ cypressroot
 crescentwise
 cow
 cyanidin
+cassavas
 clientry
 caesuras
 cowages
