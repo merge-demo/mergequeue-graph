@@ -1630,6 +1630,7 @@ bathwort
 ballpark
 brasquing
 bandi
+beerhouses
 bardesanism
 beclose
 barrulety
@@ -4979,7 +4980,6 @@ benweed
 beylik
 bemoaning
 beerhouse
-beerhouses
 breech
 breastband
 barbecueing
