@@ -7523,6 +7523,7 @@ gametal
 goldarns
 gravimeter
 gallycrow
+glimmerite
 ganocephalous
 galinaceous
 guserid
@@ -7919,7 +7920,6 @@ gymnospermy
 glumness
 genuclast
 gametogonium
-glimmerite
 gleization
 gregaloid
 gyniolatry
