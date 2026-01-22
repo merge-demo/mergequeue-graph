@@ -17367,7 +17367,6 @@ coastland
 constipated
 curtails
 couscouses
-coastlines
 cutleress
 channeled
 condensible
@@ -27759,6 +27758,7 @@ crofting
 cordleaf
 coxcombity
 coxcomically
+coastlines
 cenobitical
 cytocentrum
 coxed
