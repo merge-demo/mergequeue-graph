@@ -2543,7 +2543,6 @@ elections
 euonymous
 endosmose
 encomiologic
-embowl
 expeditely
 escadrilles
 exorcist
@@ -7025,6 +7024,7 @@ engilded
 evidencive
 environment
 embolic
+embowl
 eminence
 entwines
 epinikian
