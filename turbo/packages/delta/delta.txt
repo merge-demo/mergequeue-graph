@@ -6186,6 +6186,7 @@ dactylopodite
 dermanaplasty
 dermapterous
 dermas
+deuteroconid
 dirgler
 dasypodoid
 delimited
@@ -18386,7 +18387,6 @@ denotate
 digmeat
 duodenostomy
 deceptiously
-deuteroconid
 dabbles
 disintrench
 decontrols
