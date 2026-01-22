@@ -1460,6 +1460,7 @@ foodful
 frimitts
 freewheel
 fatuism
+ferox
 felicify
 filasse
 firmness
@@ -5781,7 +5782,6 @@ filemark
 farts
 ferr
 freakdom
-ferox
 forestallment
 fenestration
 flywinch
