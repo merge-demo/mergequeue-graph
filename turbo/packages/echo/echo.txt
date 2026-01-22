@@ -401,6 +401,7 @@ evangelist
 entrenching
 extruct
 erythrinus
+exasperation
 espanol
 echowise
 essera
@@ -5303,7 +5304,6 @@ expulsions
 encharm
 epiphyte
 epituberculous
-exasperation
 endosteoma
 essentialism
 exerts
