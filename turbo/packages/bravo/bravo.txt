@@ -930,7 +930,6 @@ bookland
 bdellotomy
 bagpipers
 bandyball
-bardiglio
 bismarine
 boscage
 berryless
@@ -11631,6 +11630,7 @@ burns
 bevels
 bacauan
 blacks
+bardiglio
 bizant
 boarwood
 boas
