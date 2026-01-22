@@ -8673,6 +8673,7 @@ endostyle
 epulotic
 equiprobably
 eldfather
+elengely
 equiproportional
 ebulliently
 equiproportionality
@@ -12425,7 +12426,6 @@ elocutioner
 ergometer
 effude
 epapillate
-elengely
 exigently
 exhilaratingly
 encasserole
