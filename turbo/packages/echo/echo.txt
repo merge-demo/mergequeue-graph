@@ -6355,6 +6355,7 @@ episcopize
 eprouvette
 enshrined
 enshrinement
+enterochromaffin
 embars
 enshrinements
 endovaccination
@@ -14053,7 +14054,6 @@ embellishments
 extrathermodynamic
 emes
 excitonic
-enterochromaffin
 extravagance
 extravagantly
 enchantingly
