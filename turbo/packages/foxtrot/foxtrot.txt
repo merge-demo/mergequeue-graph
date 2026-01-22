@@ -2156,7 +2156,6 @@ fumette
 fameful
 famously
 fires
-foliature
 fitch
 fawnier
 filippi
@@ -5709,6 +5708,7 @@ fringepod
 folate
 fill
 filliping
+foliature
 forelive
 footlessness
 filipiniana
