@@ -1796,6 +1796,7 @@ debark
 dropseed
 drawknife
 debarking
+dekapode
 digamist
 demimondaines
 dishpanful
@@ -3874,7 +3875,6 @@ discomedusan
 disherits
 dekameters
 decumani
-dekapode
 duo
 dahlsten
 decan
