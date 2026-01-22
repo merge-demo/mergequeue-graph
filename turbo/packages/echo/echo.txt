@@ -6621,6 +6621,7 @@ entomophagan
 exchangite
 escambron
 enteroischiocele
+euros
 enlacement
 esplees
 electronarcosis
@@ -9064,7 +9065,6 @@ enteromorpha
 electrothermostatic
 ennobled
 eschalots
-euros
 eyrer
 enslave
 equitangential
