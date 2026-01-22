@@ -2142,6 +2142,7 @@ grossness
 gerontine
 gdinfo
 goers
+garlandlike
 golfings
 gamelang
 gaycat
@@ -7841,7 +7842,6 @@ groom
 grammarless
 galtonia
 gearman
-garlandlike
 gabbais
 gurdle
 ghostlikeness
