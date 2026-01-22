@@ -1578,7 +1578,6 @@ eurasia
 entires
 enumerator
 eucaines
-eff
 evacuations
 estopped
 embay
@@ -4109,6 +4108,7 @@ etamin
 epigene
 empestic
 epicanthus
+eff
 earthwall
 ejacula
 enrooting
