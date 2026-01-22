@@ -11176,6 +11176,7 @@ dowelling
 devocalise
 dazingly
 dratted
+denotation
 disbelieves
 disavowals
 doughfeet
@@ -12591,7 +12592,6 @@ deflowered
 daffed
 disintegrated
 dipterological
-denotation
 dispersoid
 disfavorer
 diamantoid
