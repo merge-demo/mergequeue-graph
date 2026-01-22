@@ -5833,7 +5833,6 @@ depreciate
 deponents
 despots
 drago
-depreciation
 deoxygenization
 dryopians
 deforceor
@@ -5841,6 +5840,7 @@ depredate
 depredated
 definitiveness
 diagnoses
+depreciation
 deleting
 droshky
 depredatory
