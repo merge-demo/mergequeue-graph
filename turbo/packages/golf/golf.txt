@@ -1978,7 +1978,6 @@ gaskings
 girth
 gageite
 grounds
-gonadotrope
 granville
 gleefully
 goosewing
@@ -6539,6 +6538,7 @@ guilders
 grandaddy
 genesiac
 gpcd
+gonadotrope
 glaziest
 gemminess
 ganowanian
