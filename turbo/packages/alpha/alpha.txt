@@ -3929,7 +3929,6 @@ adjust
 animalculum
 abdal
 astre
-armozeen
 adjusting
 attuning
 akindle
@@ -16370,6 +16369,7 @@ antiwarlike
 antiwaste
 anonym
 ashwort
+armozeen
 antiwear
 abiological
 amictus
