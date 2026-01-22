@@ -3744,7 +3744,6 @@ francize
 fascistically
 fluorinates
 forestology
-fiducial
 forehold
 flavoury
 fibrocystic
@@ -4999,6 +4998,7 @@ fenetre
 flirtationless
 flaperon
 flippantly
+fiducial
 forthgoing
 flappable
 frankalmoin
