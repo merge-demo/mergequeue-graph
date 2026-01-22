@@ -732,6 +732,7 @@ ecospecific
 emblematised
 extoled
 effaces
+espinel
 endermatic
 effascinate
 exuvium
@@ -2428,7 +2429,6 @@ executioneress
 electroencephalogram
 empeople
 entophytal
-espinel
 eucalyptography
 erythematous
 epitaxial

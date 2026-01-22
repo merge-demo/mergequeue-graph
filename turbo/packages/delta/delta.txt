@@ -441,7 +441,6 @@ deities
 dorsad
 dhourra
 discoursers
-dinichthyid
 dairous
 dais
 defog
@@ -10805,6 +10804,7 @@ deoxycorticosterone
 direnesses
 demophil
 difforme
+dinichthyid
 distilment
 drier
 debunkment
