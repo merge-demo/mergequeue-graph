@@ -2246,7 +2246,6 @@ geotilla
 gradation
 glasswort
 gipons
-glarry
 gospeller
 gangrel
 grandpaternal
@@ -5097,6 +5096,7 @@ glossily
 glisky
 goblinesque
 gutturine
+glarry
 gentlehearted
 goldylocks
 gyps
