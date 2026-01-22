@@ -4465,7 +4465,6 @@ danubian
 defused
 drinkableness
 drumloidal
-dialyzer
 demiculverin
 diphthongising
 dodgiest
@@ -14595,6 +14594,7 @@ disembower
 dihedrals
 delight
 dryfarm
+dialyzer
 deeming
 diatomine
 disinfeudation
