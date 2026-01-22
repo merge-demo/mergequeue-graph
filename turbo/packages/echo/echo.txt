@@ -1720,7 +1720,6 @@ eyeground
 epornitically
 encephaloid
 enginery
-exasper
 exclaimers
 energeia
 exonerated
@@ -2722,6 +2721,7 @@ embryotegae
 esquamulose
 evaporated
 electrovalent
+exasper
 electrowinning
 exaggerators
 ediya
