@@ -772,6 +772,7 @@ gemologies
 guntub
 gaulter
 ganymede
+gamily
 glossolalist
 gerendum
 gutturize
@@ -1366,7 +1367,6 @@ gastrostegal
 gravitometer
 glyconeogenetic
 guttular
-gamily
 governs
 gumweeds
 ganodonta
