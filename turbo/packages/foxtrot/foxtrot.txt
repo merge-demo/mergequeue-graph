@@ -3943,7 +3943,6 @@ farcical
 follyproof
 fossil
 footsteps
-founders
 focalise
 fergusonite
 fingerer
@@ -5276,6 +5275,7 @@ fumarole
 feasts
 filial
 furloughed
+founders
 forcepslike
 frutex
 flimflam
