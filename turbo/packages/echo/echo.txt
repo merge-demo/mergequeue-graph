@@ -5572,7 +5572,6 @@ evibrate
 enfolders
 epimacus
 emigratory
-enfoldings
 enteropneustal
 enfolds
 emigated
@@ -9111,6 +9110,7 @@ eriglossa
 ephemeras
 erythroxylaceous
 eulogizer
+enfoldings
 erythroxylon
 embouchment
 entotympanic
