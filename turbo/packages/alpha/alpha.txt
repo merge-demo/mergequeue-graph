@@ -2289,7 +2289,6 @@ almagest
 allogamous
 axminster
 aurigid
-adustiosis
 adjournments
 azerbaijanese
 avives
@@ -18286,6 +18285,7 @@ arabinosic
 arabinoside
 alibility
 adultlike
+adustiosis
 arabism
 abstinent
 aquiculture
