@@ -5775,7 +5775,6 @@ groupoid
 gumtrees
 growthy
 glover
-glochines
 genos
 glave
 gaffers
@@ -8722,6 +8721,7 @@ gobbin
 germling
 gaypoo
 greensickness
+glochines
 gladless
 gagged
 gralloch
