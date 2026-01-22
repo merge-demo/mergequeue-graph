@@ -5833,7 +5833,6 @@ bldg
 bellicism
 beyonds
 buqshas
-bromometry
 biltong
 belligerents
 buildress
@@ -14695,6 +14694,7 @@ brachiorrheuma
 beautician
 beatas
 belili
+bromometry
 bestraught
 brasslike
 baignoire
