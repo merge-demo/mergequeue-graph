@@ -3450,6 +3450,7 @@ gimper
 girny
 grudger
 gynandromorphism
+graphicly
 gemul
 gewgawry
 gyrfalcon
@@ -8270,7 +8271,6 @@ graduations
 gleets
 grandee
 ginglymi
-graphicly
 glycuronide
 grassbird
 guerdons
