@@ -9428,7 +9428,6 @@ autopathy
 advoke
 alternacy
 asynchronously
-alternamente
 aframerican
 antilocapridae
 ambilateral
@@ -24271,6 +24270,7 @@ automechanical
 almoner
 actinically
 automechanism
+alternamente
 acediamine
 antinodes
 anhaematosis
