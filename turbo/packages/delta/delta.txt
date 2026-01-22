@@ -6395,6 +6395,7 @@ dismemberments
 debellation
 daniglacial
 doxology
+discriminator
 derrises
 deruinate
 disquieting
@@ -11819,7 +11820,6 @@ dimitted
 discriminatively
 despatch
 discriminativeness
-discriminator
 dirigibility
 diegueno
 despise
