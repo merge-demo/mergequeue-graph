@@ -15541,6 +15541,7 @@ cyanided
 clasper
 claspers
 cestoidea
+clathrulate
 classable
 coplanarity
 classbook
@@ -15601,7 +15602,6 @@ clathroid
 clathrose
 cranes
 camelkeeper
-clathrulate
 clatter
 cartographers
 clattered
