@@ -2579,7 +2579,6 @@ babiroussa
 benzofuryl
 bochism
 broadwives
-biscuit
 barytes
 ballons
 balanophoraceous
@@ -5419,6 +5418,7 @@ behaved
 bronchium
 behaver
 bicollateral
+biscuit
 behaving
 brainteasers
 brakes
