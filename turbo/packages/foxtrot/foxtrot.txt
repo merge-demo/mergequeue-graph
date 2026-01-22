@@ -1711,6 +1711,7 @@ ferineness
 flook
 fearless
 fixion
+frothiness
 forehammer
 frangible
 ferrament
@@ -2068,7 +2069,6 @@ flaunting
 forfouchten
 fairyisms
 farl
-frothiness
 felahin
 fissipes
 fendillation
