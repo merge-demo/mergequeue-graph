@@ -4488,6 +4488,7 @@ bustling
 bonnering
 becry
 becrime
+burk
 buckthorn
 blockaded
 bunemost
@@ -12864,7 +12865,6 @@ befanned
 bacchiac
 bangster
 bkpt
-burk
 barthian
 breastwise
 boong
