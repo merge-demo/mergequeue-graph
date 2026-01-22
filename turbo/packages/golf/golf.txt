@@ -3384,7 +3384,6 @@ glaciable
 gyroscopic
 gainor
 gravy
-gentiles
 gymnoceratous
 geosid
 gerontocrat
@@ -10068,6 +10067,7 @@ grobianism
 gauntest
 graecize
 gainings
+gentiles
 gramophonically
 gymnoglossate
 guavina
