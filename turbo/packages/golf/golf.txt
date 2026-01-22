@@ -407,7 +407,6 @@ gilsonite
 gorgon
 geostrategy
 gradeless
-genuflexuous
 galatea
 galateas
 glucogenesis
@@ -7068,6 +7067,7 @@ grumly
 gymnostomina
 granum
 glucosulfone
+genuflexuous
 glycol
 gyroscopes
 grassation
