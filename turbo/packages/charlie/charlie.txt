@@ -2846,7 +2846,6 @@ canonesses
 canonicalization
 cinctures
 canonicalized
-canonicalizes
 croaked
 circumventive
 congealer
@@ -30255,6 +30254,7 @@ cruive
 cruller
 chubbedness
 conglobately
+canonicalizes
 crumb
 crumbed
 chooky
