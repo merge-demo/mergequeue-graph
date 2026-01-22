@@ -1454,6 +1454,7 @@ follow
 fanwork
 fall
 fiddled
+foofaraws
 fichus
 funis
 fattishness
@@ -2376,7 +2377,6 @@ falconiformes
 frogling
 feudist
 francic
-foofaraws
 fluther
 ferried
 forgoes
