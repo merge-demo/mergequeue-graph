@@ -3626,7 +3626,6 @@ calefaction
 carabinier
 carabiniere
 cotrespasser
-choosable
 cerebroscope
 caraboa
 caaba
@@ -25462,6 +25461,7 @@ corodies
 cocowood
 condemns
 contaggia
+choosable
 circumclusion
 congenialness
 cephaelis
