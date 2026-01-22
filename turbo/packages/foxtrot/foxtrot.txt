@@ -4746,6 +4746,7 @@ freshened
 filagrees
 fooling
 flaggy
+faithlessly
 formicated
 forfeiting
 fraudful
@@ -10757,7 +10758,6 @@ frustum
 fb
 frutage
 foggage
-faithlessly
 footraces
 folious
 firedragon
