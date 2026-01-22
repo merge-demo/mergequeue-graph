@@ -2661,7 +2661,6 @@ embiidina
 electrostriction
 ejurate
 euchology
-epitomizing
 emong
 electrosurgery
 enventual
@@ -7593,6 +7592,7 @@ engraulidae
 exintine
 eupatory
 ensient
+epitomizing
 effectless
 entocnemial
 eventfully
