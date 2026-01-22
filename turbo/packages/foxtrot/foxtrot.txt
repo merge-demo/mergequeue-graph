@@ -135,6 +135,7 @@ feedhead
 fibre
 fossiled
 facsimiled
+fluxure
 falser
 fracturable
 flayers
@@ -10815,7 +10816,6 @@ fucinita
 featliness
 frivoller
 ferntickled
-fluxure
 feff
 filmland
 foretopmast
