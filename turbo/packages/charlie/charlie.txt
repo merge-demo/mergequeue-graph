@@ -3227,7 +3227,6 @@ chinoiserie
 caboclos
 castigable
 capilli
-capilliculture
 cogracious
 clunks
 cosmoid
@@ -18073,6 +18072,7 @@ cognizers
 coenobioid
 contentless
 conjugable
+capilliculture
 cardinalism
 compactile
 coenobitical
