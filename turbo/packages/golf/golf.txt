@@ -3556,6 +3556,7 @@ gregarinaria
 gavial
 geopositive
 guidon
+galavanting
 glutinose
 galvanic
 gyrocar
@@ -4656,7 +4657,6 @@ gibbsite
 gormands
 gauping
 glazen
-galavanting
 geisothermal
 glycerate
 gigged
