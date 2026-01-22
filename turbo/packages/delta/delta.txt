@@ -2375,7 +2375,6 @@ dionise
 drugget
 defaults
 deciceronize
-dino
 decidedly
 dewclaw
 dystonia
@@ -8388,6 +8387,7 @@ diabase
 dialists
 deacetylated
 dragboat
+dino
 dispreader
 disunite
 dialyze
