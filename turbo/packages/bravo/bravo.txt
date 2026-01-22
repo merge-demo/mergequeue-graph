@@ -7866,7 +7866,6 @@ biberon
 bibi
 bibionid
 brackebuschite
-bewreath
 bealtine
 bibiri
 brad
@@ -16891,6 +16890,7 @@ blended
 burhead
 bichromatic
 bathysophic
+bewreath
 buffoonish
 bungle
 bacterize
