@@ -2935,7 +2935,6 @@ gunfighters
 genecological
 genets
 gyniatry
-grazable
 guaranty
 gulph
 gosh
@@ -8401,6 +8400,7 @@ granulater
 gawked
 grumphy
 glossoepiglottic
+grazable
 gauntree
 gratifiable
 guaco
