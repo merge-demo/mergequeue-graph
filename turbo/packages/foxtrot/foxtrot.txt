@@ -2520,7 +2520,6 @@ fudging
 fainthearted
 femorocele
 faction
-farted
 facinorousness
 fluxgraph
 fatihah
@@ -10367,6 +10366,7 @@ frontcourt
 fructus
 folkmote
 foreschooling
+farted
 fragrances
 foreboard
 feldspathization
