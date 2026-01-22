@@ -1393,6 +1393,7 @@ cessio
 carpetwoven
 consolable
 california
+civilist
 californian
 chinos
 chutneys
@@ -3789,7 +3790,6 @@ chloroethylene
 carbazylic
 chlorpikrin
 cheerios
-civilist
 carbazole
 chromogen
 carbeen
