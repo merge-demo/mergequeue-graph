@@ -386,6 +386,7 @@ filicauline
 forbid
 fairfieldite
 facets
+florences
 faceoff
 fancifully
 fairground
@@ -3092,7 +3093,6 @@ fonds
 finned
 flowed
 fapesmo
-florences
 freres
 foursomes
 fogbank
