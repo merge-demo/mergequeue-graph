@@ -3687,7 +3687,6 @@ dehydrochlorinate
 doketism
 daytale
 drabble
-drepanoid
 didact
 dehydrogenate
 dawtet
@@ -17409,6 +17408,7 @@ declaims
 departmentalisation
 droppings
 drops
+drepanoid
 dialoguing
 dammar
 demesgnes
