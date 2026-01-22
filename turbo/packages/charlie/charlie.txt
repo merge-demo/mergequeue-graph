@@ -1938,6 +1938,7 @@ consubstantiation
 carcinus
 cinnamomum
 chiliarchy
+crowds
 camelopards
 cotterite
 constant
@@ -8907,7 +8908,6 @@ condensator
 charely
 consultation
 crinivorous
-crowds
 catechumenical
 catholicizing
 chareter
