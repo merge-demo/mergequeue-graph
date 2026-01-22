@@ -854,7 +854,6 @@ burghalpenny
 bromodeoxyuridine
 burnishers
 billikin
-bacillar
 bezique
 bagasses
 badhan
@@ -15991,6 +15990,7 @@ bogieman
 bronchoegophony
 boudin
 bronchogenic
+bacillar
 bushwhack
 bellmaster
 bearer
