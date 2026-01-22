@@ -2462,6 +2462,7 @@ globality
 graduator
 gnathidium
 glabrate
+glyphic
 girt
 geoisotherm
 geodynamic
@@ -5385,7 +5386,6 @@ ghilzai
 glyoxalic
 galliwasp
 guniter
-glyphic
 gild
 gambist
 guran
