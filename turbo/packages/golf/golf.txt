@@ -6134,7 +6134,6 @@ generalizing
 gyre
 grommet
 garters
-gadfly
 geelbec
 gadsbud
 gauche
@@ -9473,6 +9472,7 @@ grilled
 gossamery
 gumpheon
 gae
+gadfly
 gonyaulax
 glucosuric
 gernative
