@@ -6231,7 +6231,6 @@ brats
 benisons
 bombay
 benitier
-baguio
 bipinnatifid
 benjamin
 benjaminite
@@ -16362,6 +16361,7 @@ botryolite
 bevil
 backarrow
 benchmarking
+baguio
 balalaikas
 brujos
 beglerbeglik
