@@ -4165,6 +4165,7 @@ cardioid
 courche
 calandrinia
 cumflutter
+clavicembali
 cortaro
 cymric
 cardiologic
@@ -13613,7 +13614,6 @@ castorial
 cymometer
 colature
 cardiarctia
-clavicembali
 cymophane
 cymophanous
 cymophenol
