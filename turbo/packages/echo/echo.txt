@@ -3789,7 +3789,6 @@ emend
 exscribe
 embolomalerism
 epistolizing
-eglandulose
 electroplax
 extracolumella
 endodontically
@@ -6224,6 +6223,7 @@ excipule
 epistapedial
 enwrapped
 elimination
+eglandulose
 evasively
 electrofishing
 extraepiphyseal
