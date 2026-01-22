@@ -4755,7 +4755,6 @@ faithlessly
 formicated
 forfeiting
 fraudful
-frontoorbital
 fou
 francisco
 foothills
@@ -11341,6 +11340,7 @@ fenagler
 ferlied
 flustrine
 forfended
+frontoorbital
 furmenty
 foreassign
 fizzes
