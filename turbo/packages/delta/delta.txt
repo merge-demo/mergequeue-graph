@@ -1250,7 +1250,6 @@ disemplane
 disobligation
 dateless
 datelessness
-denizate
 disserve
 datelining
 datemark
@@ -14908,6 +14907,7 @@ dodecahydrate
 duodenojejunostomy
 deploys
 disanimating
+denizate
 dictyonina
 drogue
 dital
