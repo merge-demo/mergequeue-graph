@@ -2070,6 +2070,7 @@ aches
 achesoun
 acheulean
 accustoms
+achromatism
 acumens
 achy
 absconds
@@ -15676,7 +15677,6 @@ aphetic
 alehoof
 adsignify
 atrazine
-achromatism
 armoury
 antiskepticism
 antipacifistic
