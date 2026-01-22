@@ -10069,7 +10069,6 @@ fishhouse
 frisks
 frondiform
 fleetful
-feudatary
 firster
 foredecree
 fearfulness
@@ -10879,6 +10878,7 @@ fango
 freestone
 flayer
 furore
+feudatary
 fullish
 foeman
 frigorifico
