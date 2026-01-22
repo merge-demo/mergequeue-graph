@@ -4577,7 +4577,6 @@ chartula
 coacervating
 carnets
 carny
-clarinos
 capsule
 cotoxo
 carnied
@@ -15992,6 +15991,7 @@ clerkships
 ceticide
 comrado
 conglutin
+clarinos
 clernly
 cramper
 compromises
