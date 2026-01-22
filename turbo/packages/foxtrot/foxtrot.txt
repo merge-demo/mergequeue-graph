@@ -11118,6 +11118,7 @@ fauteuils
 fedellini
 feverbush
 fetometry
+frontispieces
 ferryhouse
 fishtail
 farle
@@ -11236,7 +11237,6 @@ fatherkin
 funkiness
 fezzes
 forerunnings
-frontispieces
 fucivorous
 funmaking
 fulmines
