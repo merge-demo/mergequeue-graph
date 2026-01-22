@@ -1779,7 +1779,6 @@ gonadial
 genealogizer
 gastroscopist
 gavelled
-guatusan
 girtonian
 gynandrism
 glossolaly
@@ -7497,6 +7496,7 @@ gotten
 graecizing
 governesses
 galvanotonic
+guatusan
 greathead
 guideless
 gatelike
