@@ -3083,7 +3083,6 @@ et
 embeds
 enthusiastical
 emp
-encyclical
 elliot
 educationable
 expropriates
@@ -8991,6 +8990,7 @@ eves
 eunuchized
 etiolize
 ecstatically
+encyclical
 equiponderous
 ebcasc
 effund
