@@ -2267,7 +2267,6 @@ feluccas
 facaded
 florentinism
 fimble
-flatulence
 fluviatile
 firebombed
 fumaria
@@ -6296,6 +6295,7 @@ fuzzy
 funicle
 filosus
 flubdubbery
+flatulence
 flack
 futural
 fullback
