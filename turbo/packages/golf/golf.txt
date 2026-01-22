@@ -97,6 +97,7 @@ gnomology
 garbling
 garrafa
 glottalizing
+gumlike
 gabbai
 gadge
 gunja
@@ -4233,7 +4234,6 @@ gibblegabbler
 graveclothes
 goatlike
 grousing
-gumlike
 gabfests
 granulate
 glyptotherium
