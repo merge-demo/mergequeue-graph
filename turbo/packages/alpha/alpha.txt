@@ -8127,6 +8127,7 @@ absorptive
 almsmoney
 archaean
 albino
+acquirenda
 autecological
 aerial
 antipyic
@@ -23080,7 +23081,6 @@ attagal
 attagen
 amygdalaceae
 attaghan
-acquirenda
 acuchi
 avantlay
 attagirl
