@@ -4312,7 +4312,6 @@ glycogeny
 gashy
 gutlike
 gastrocoloptosis
-ginglymodi
 gozill
 gemstone
 glossata
@@ -9058,6 +9057,7 @@ gentianwort
 ghast
 grimme
 grillroom
+ginglymodi
 gleet
 gymnasial
 granet
