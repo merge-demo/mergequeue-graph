@@ -8556,7 +8556,6 @@ cablish
 cymaphen
 catanadromous
 chandui
-countercross
 chandul
 chane
 caitiff
@@ -25149,6 +25148,7 @@ curvier
 clinocephalus
 coriaria
 coriaus
+countercross
 corybant
 corporealize
 corybantian
