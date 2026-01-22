@@ -6752,6 +6752,7 @@ fossilizable
 fantasy
 fleechment
 frosts
+fatstocks
 fadedness
 frosteds
 fledgeless
@@ -7231,7 +7232,6 @@ fitz
 footslogger
 flailed
 financiery
-fatstocks
 fluorogen
 foregoing
 fledglings
