@@ -727,7 +727,6 @@ gor
 galactotherapy
 gambling
 gugglet
-galvanizers
 gripple
 galvanizing
 gemmiferousness
@@ -7449,6 +7448,7 @@ gists
 geodesy
 gimleting
 gades
+galvanizers
 gonorrhoea
 groundwater
 gazing
