@@ -9607,7 +9607,6 @@ aluminothermy
 acrotarsial
 austerity
 aluminums
-altruist
 alumish
 abstractly
 adagio
@@ -19631,6 +19630,7 @@ arils
 acmesthesia
 albizias
 acylal
+altruist
 acetylsalol
 aryls
 apodeictical
