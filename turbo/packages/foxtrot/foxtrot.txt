@@ -1712,7 +1712,6 @@ flook
 fearless
 fixion
 forehammer
-fondlike
 frangible
 ferrament
 fleeching
@@ -9652,6 +9651,7 @@ freyalite
 frondent
 forfairn
 fulgorous
+fondlike
 fruit
 flipflop
 foretoken
