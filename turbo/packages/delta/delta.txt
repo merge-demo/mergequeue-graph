@@ -9456,7 +9456,6 @@ digestible
 dite
 digestibleness
 digestibly
-delesseriaceae
 decline
 dinornithidae
 digesting
@@ -14812,6 +14811,7 @@ demonologist
 disulphoxid
 dearly
 detests
+delesseriaceae
 docoglossate
 dewata
 diswarren
