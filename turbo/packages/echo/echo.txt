@@ -9151,6 +9151,7 @@ enates
 ernes
 erode
 eosinophilic
+exploitable
 erodent
 eirenic
 erodes
@@ -11104,7 +11105,6 @@ eugenically
 eiderdown
 erotetic
 euthycomi
-exploitable
 enol
 exsiliency
 euthytatic
