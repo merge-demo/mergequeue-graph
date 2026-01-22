@@ -339,7 +339,6 @@ galactogenetic
 gappiest
 guarantee
 gravigrada
-galactolipide
 graveship
 granaries
 galactometer
@@ -2126,6 +2125,7 @@ guillermo
 gazette
 ginnet
 gumshoing
+galactolipide
 gallywasp
 gymnolaematous
 giunta

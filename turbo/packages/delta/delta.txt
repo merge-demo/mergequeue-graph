@@ -3625,7 +3625,6 @@ deprogrammer
 depreciators
 dunt
 deglutition
-duffels
 deglutitious
 degold
 decontaminated
@@ -17816,6 +17815,7 @@ diffrangible
 dissidence
 ducking
 dashnakist
+duffels
 ducklet
 ducklings
 disculpation
