@@ -5944,7 +5944,6 @@ deed
 durezza
 dropped
 depsides
-dilettantist
 discommoded
 diaschistic
 dispraise
@@ -12398,6 +12397,7 @@ doubles
 disheartener
 doveflower
 devachan
+dilettantist
 dissemilative
 donated
 dharmakaya
