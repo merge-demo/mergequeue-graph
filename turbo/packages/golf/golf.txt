@@ -309,7 +309,6 @@ gaudful
 gourami
 gadolinium
 grognard
-gangrels
 grundsil
 gelatins
 galeorhinus
@@ -1418,6 +1417,7 @@ governless
 glumpiest
 gnosticity
 gadget
+gangrels
 guild
 garbages
 gulfy
