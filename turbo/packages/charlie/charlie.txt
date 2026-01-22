@@ -3383,6 +3383,7 @@ counterweighing
 capotasto
 capotastos
 cercolabes
+coheres
 choicest
 celsius
 carrots
@@ -12015,7 +12016,6 @@ coronene
 choroids
 chorology
 cylloses
-coheres
 choromanic
 cajolers
 chevreuil
