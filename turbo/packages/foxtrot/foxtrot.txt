@@ -6893,6 +6893,7 @@ fauves
 fragmented
 fishback
 fogs
+firethorn
 fideicommission
 formeret
 filibusterous
@@ -8980,7 +8981,6 @@ frangibleness
 froren
 flatirons
 forra
-firethorn
 fetting
 fled
 fourther
