@@ -8592,6 +8592,7 @@ adorantes
 antidinic
 anomuran
 allegorizing
+atka
 aeolic
 allegresse
 allegrettos
@@ -23786,7 +23787,6 @@ alleleu
 auspiciousness
 arpenteur
 abannition
-atka
 actinocarpic
 accursing
 austausch
