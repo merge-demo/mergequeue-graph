@@ -434,6 +434,7 @@ glamourization
 gloryingly
 grandevous
 growl
+gadfly
 garnishees
 grapeys
 gulflike
@@ -9472,7 +9473,6 @@ grilled
 gossamery
 gumpheon
 gae
-gadfly
 gonyaulax
 glucosuric
 gernative
