@@ -609,7 +609,6 @@ extuberate
 epizoites
 egoists
 ecstatics
-eclating
 etymonic
 ellipses
 earful
@@ -8841,6 +8840,7 @@ esthesiometer
 eremuri
 ethnoflora
 elaphodus
+eclating
 escharoid
 englue
 exiler
