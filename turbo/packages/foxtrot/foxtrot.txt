@@ -2586,6 +2586,7 @@ forcet
 functionalities
 franked
 foud
+facetiation
 fossicked
 footrests
 finicalness
@@ -2752,7 +2753,6 @@ felineness
 fesses
 flaunche
 floccule
-facetiation
 friendlily
 festally
 festellae
