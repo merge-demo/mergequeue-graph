@@ -4798,7 +4798,6 @@ gritter
 gunnel
 gnomonics
 grapeskin
-gleg
 gigantize
 greenings
 grakle
@@ -8368,6 +8367,7 @@ galeeny
 gyroscopically
 ghosting
 gaucherie
+gleg
 gastrothecal
 grebe
 gizzards
