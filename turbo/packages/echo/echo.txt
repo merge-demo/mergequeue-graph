@@ -6182,7 +6182,6 @@ enlivened
 enolic
 explicableness
 etiologic
-enological
 enterclose
 execs
 ellipsoid
@@ -9068,6 +9067,7 @@ eschalots
 eyrer
 enslave
 equitangential
+enological
 evittate
 expulse
 endoscopic
