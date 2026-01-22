@@ -9618,7 +9618,6 @@ freeloaded
 florate
 floriform
 freemasonical
-finitesimal
 flatfootedness
 fruiterer
 featherfoil
@@ -10923,6 +10922,7 @@ filtration
 flavorful
 forge
 formalins
+finitesimal
 ferreiro
 foreshadows
 fub
