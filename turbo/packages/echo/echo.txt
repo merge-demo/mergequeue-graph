@@ -9659,6 +9659,7 @@ evaginate
 espousement
 escobadura
 essenwood
+epural
 ectoblast
 enshielded
 espouser
@@ -12128,7 +12129,6 @@ esperantic
 erpetologist
 eg
 eyelike
-epural
 excursionist
 excurvated
 emaciate
