@@ -6250,7 +6250,6 @@ gowpen
 gierfalcon
 gobbled
 gothicizer
-gelatinised
 gyroidal
 grundyist
 going
@@ -9313,6 +9312,7 @@ gallipot
 gromia
 grinder
 geomagnetically
+gelatinised
 gront
 gorbellies
 gamodeme
