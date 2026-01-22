@@ -5841,7 +5841,6 @@ ganglionary
 gyle
 glucinium
 genteelest
-gadder
 guadalcazarite
 goldfinch
 gawney
@@ -8099,6 +8098,7 @@ garderobe
 goldbeating
 grandtotal
 gerbo
+gadder
 genteeler
 gynaeolater
 gulfed
