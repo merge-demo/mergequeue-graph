@@ -8854,7 +8854,6 @@ guesthouses
 greyfly
 gestureless
 gregau
-guarantine
 glycerination
 greisens
 glovelike
@@ -10263,6 +10262,7 @@ gutturalization
 groaningly
 galerie
 gry
+guarantine
 gratifies
 gustoish
 guise

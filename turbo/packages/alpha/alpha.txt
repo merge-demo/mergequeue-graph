@@ -16728,7 +16728,6 @@ annunciated
 atees
 arrestee
 aphasiacs
-aphasics
 affrayer
 ambience
 anabaptized
@@ -23313,6 +23312,7 @@ attrite
 attrited
 abscission
 aplenty
+aphasics
 apparitor
 avania
 aristolochin
