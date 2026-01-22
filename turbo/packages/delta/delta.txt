@@ -6418,7 +6418,6 @@ drugshop
 deashed
 danseusse
 desagrement
-demitone
 dictatrix
 deodara
 digitization
@@ -8411,6 +8410,7 @@ devide
 deconcentrator
 deported
 dolia
+demitone
 defiledness
 dreep
 demipremiss
