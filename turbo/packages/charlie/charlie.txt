@@ -16940,7 +16940,6 @@ commerces
 cyclopentadiene
 clunked
 clunkers
-corregidors
 crowner
 coutille
 clupanodonic
@@ -29590,6 +29589,7 @@ croaky
 combated
 cebine
 croakier
+corregidors
 croakily
 croaking
 consociation
