@@ -4053,6 +4053,7 @@ finitive
 fowlfoot
 foreyear
 fingerberry
+firmity
 fissionable
 featurish
 felapton
@@ -11475,7 +11476,6 @@ finnmarks
 furthest
 flittering
 florally
-firmity
 flareback
 fiercened
 furtively
