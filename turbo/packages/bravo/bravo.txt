@@ -6050,6 +6050,7 @@ butyral
 botaniser
 bemurmure
 bemurmuring
+bereaved
 bittier
 befooled
 bemuses
@@ -15484,7 +15485,6 @@ banding
 babyish
 bout
 brannerite
-bereaved
 bindheimite
 brimly
 bifollicular
