@@ -2477,7 +2477,6 @@ guttersnipes
 gangrened
 genitalic
 grandity
-glossier
 girdlelike
 gaucher
 golds
@@ -9094,6 +9093,7 @@ guttation
 geophagist
 guillemet
 grindable
+glossier
 gibbose
 galagos
 grissel
