@@ -5741,6 +5741,7 @@ acculturative
 agaroid
 ambilian
 alloeosis
+alarums
 agaroses
 agarwal
 angiomatosis
@@ -25354,7 +25355,6 @@ acker
 azotemia
 arbiter
 azotemias
-alarums
 ankylosis
 azotemic
 azotenesis
