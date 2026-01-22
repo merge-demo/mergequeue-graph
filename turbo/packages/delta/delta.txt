@@ -7219,7 +7219,6 @@ detenues
 dephlegmator
 digne
 deter
-deterged
 desertlike
 dilettantship
 dendrachate
@@ -14615,6 +14614,7 @@ dropheads
 demosthenic
 developmentary
 decupling
+deterged
 divorcive
 dietal
 devs
