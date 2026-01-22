@@ -2041,6 +2041,7 @@ farmers
 fieldwards
 fathomage
 frogger
+furrowing
 fantasticly
 faineant
 feigners
@@ -11438,7 +11439,6 @@ flaffer
 furfurylidene
 furrowy
 flap
-furrowing
 forletting
 fiuman
 furrowlike
