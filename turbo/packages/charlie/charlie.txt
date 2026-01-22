@@ -10374,6 +10374,7 @@ chirring
 chivalric
 countertendencies
 chieftains
+clansmanship
 cracknels
 chiefty
 chiel
@@ -16045,7 +16046,6 @@ cooruptibly
 cliack
 clubmobile
 clianthus
-clansmanship
 columned
 coxalgia
 clich
