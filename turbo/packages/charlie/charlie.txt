@@ -6552,7 +6552,6 @@ chloremic
 cannulas
 cometh
 cawed
-cawker
 cawky
 cawl
 coagulants
@@ -12505,6 +12504,7 @@ chromoptometer
 colourationally
 ceasmic
 chromoptometrical
+cawker
 coadjacency
 chromoscopy
 capacitances
