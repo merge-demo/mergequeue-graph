@@ -9640,7 +9640,6 @@ drinkables
 daidling
 diipenates
 diencephalons
-defiliation
 dillies
 dipcoat
 dicerion
@@ -12770,6 +12769,7 @@ doggrels
 dispensability
 dislocating
 dissemblingly
+defiliation
 dantesque
 droughtier
 dislocatory
