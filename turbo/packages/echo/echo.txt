@@ -4281,7 +4281,6 @@ electrochemical
 entozoarian
 entangle
 ectosteally
-exosmoses
 exospores
 enacting
 ers
@@ -13897,6 +13896,7 @@ encoil
 entireties
 exsanguinating
 environments
+exosmoses
 ectobronchium
 eucalyptus
 encrustant
