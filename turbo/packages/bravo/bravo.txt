@@ -569,7 +569,6 @@ blottingly
 bishoped
 brahminic
 bacon
-balkar
 boffola
 baubee
 barbitos
@@ -4234,6 +4233,7 @@ bogeymen
 brumstone
 breadwinners
 bocaccios
+balkar
 beautydom
 butylic
 bedung
