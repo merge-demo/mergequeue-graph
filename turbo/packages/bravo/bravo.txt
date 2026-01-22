@@ -2683,7 +2683,6 @@ blowoffs
 birdland
 boraxes
 beakhead
-burnouses
 bewaitered
 barnard
 benightment
@@ -4489,6 +4488,7 @@ burk
 buckthorn
 blockaded
 bunemost
+burnouses
 brise
 buckrams
 becrinolined
