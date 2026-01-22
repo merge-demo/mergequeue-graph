@@ -2093,6 +2093,7 @@ effuse
 elastically
 eurycephalous
 edenite
+elytroptosis
 emberiza
 effete
 eberthella
@@ -7140,7 +7141,6 @@ enwing
 ecclesiasticus
 enamines
 eyedness
-elytroptosis
 eucharistize
 ecthymatous
 enwomb
