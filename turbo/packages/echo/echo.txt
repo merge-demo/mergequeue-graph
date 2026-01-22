@@ -463,7 +463,6 @@ explants
 estevin
 earshell
 erythrophilous
-ecclesiological
 ecclesiologically
 exchanging
 expunged
@@ -8314,6 +8313,7 @@ educative
 excitomotory
 elijah
 estivated
+ecclesiological
 exclusory
 endiadem
 epithyme
