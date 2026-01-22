@@ -256,6 +256,7 @@ eightsmen
 electrostatic
 enring
 encashed
+emportment
 electroplated
 expiries
 easterling
@@ -1529,7 +1530,6 @@ emarginately
 epistolographer
 easies
 exhale
-emportment
 euthanasy
 enmeshments
 erotopathy
