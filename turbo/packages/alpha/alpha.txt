@@ -11068,7 +11068,6 @@ archespore
 anoxia
 alaskan
 authoring
-ampelography
 antitabloid
 apter
 airer
@@ -24816,6 +24815,7 @@ algolagny
 anxious
 axle
 avis
+ampelography
 aflare
 ambagitory
 augitite
