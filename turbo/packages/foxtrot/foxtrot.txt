@@ -2232,6 +2232,7 @@ fulgurate
 fuliguline
 freezing
 flatcars
+foxy
 fructosan
 flapjacks
 ferrara
@@ -10685,7 +10686,6 @@ fibular
 fruitlets
 facetted
 fainting
-foxy
 felsophyre
 forescent
 firked
