@@ -3596,7 +3596,6 @@ disked
 deontological
 degging
 devices
-deglamorizing
 doubtlessly
 deglazed
 discoblastic
@@ -7072,6 +7071,7 @@ damselfish
 destour
 demonial
 destrer
+deglamorizing
 destressed
 decalescent
 degras
