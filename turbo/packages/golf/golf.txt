@@ -2918,7 +2918,6 @@ glabreity
 gulley
 growlier
 glumpish
-gobblers
 gavelkind
 gaeldom
 geocyclic
@@ -6906,6 +6905,7 @@ golgotha
 geniohyoglossal
 gonosome
 goodliness
+gobblers
 grassflower
 gynecologists
 geologise
