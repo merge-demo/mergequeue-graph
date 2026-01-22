@@ -3872,7 +3872,6 @@ bawled
 bawler
 bawly
 brutalitarian
-bezels
 bodyhood
 bidding
 basifacial
@@ -16875,6 +16874,7 @@ biomaterial
 beam
 bigger
 buffing
+bezels
 breards
 bufflehead
 breekums
