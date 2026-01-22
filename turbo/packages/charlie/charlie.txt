@@ -791,7 +791,6 @@ caesalpiniaceae
 cagit
 cagot
 consensual
-cagoule
 cahenslyism
 cahier
 corniche
@@ -25347,6 +25346,7 @@ cornetists
 cornets
 centums
 cornetter
+cagoule
 carkled
 cornettino
 cornettist
