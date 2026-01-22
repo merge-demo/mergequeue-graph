@@ -6532,7 +6532,6 @@ asplanchnic
 acrasida
 aliased
 aeolina
-ayenst
 aeromaechanic
 antibaryon
 albi
@@ -8509,6 +8508,7 @@ admonishment
 allantoidean
 allantoides
 attenuated
+ayenst
 allantoin
 afterings
 analyzer
