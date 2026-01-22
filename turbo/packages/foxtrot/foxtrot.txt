@@ -8909,7 +8909,6 @@ flneuse
 favorableness
 foundrous
 farhands
-flotative
 flu
 fountain
 fragged
@@ -9618,6 +9617,7 @@ foamer
 frons
 freezer
 freeloaded
+flotative
 florate
 floriform
 freemasonical
