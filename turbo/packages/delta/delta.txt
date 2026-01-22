@@ -8504,7 +8504,6 @@ diapause
 diapauses
 donaries
 doglegs
-decarburize
 dodecastylos
 divinations
 decongesting
@@ -13929,6 +13928,7 @@ denshare
 dramatics
 dhourras
 dokhma
+decarburize
 deles
 distillator
 danebrog
