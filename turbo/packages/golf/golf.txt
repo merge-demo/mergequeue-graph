@@ -9053,6 +9053,7 @@ gunpowdery
 gryllid
 glottogonic
 greffotome
+groset
 glassworking
 glasser
 genitive
@@ -9961,7 +9962,6 @@ gazetted
 gamasoidea
 guaiocums
 goitres
-groset
 guatibero
 grysbok
 grunswel
