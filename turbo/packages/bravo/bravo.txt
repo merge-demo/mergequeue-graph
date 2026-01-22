@@ -5358,7 +5358,6 @@ besoothement
 buyable
 barodynamic
 barbarisation
-broomshank
 birne
 begrett
 begrim
@@ -8022,6 +8021,7 @@ bicyclism
 bathinette
 blastaea
 bedabbles
+broomshank
 burntly
 bicycular
 biciliated
