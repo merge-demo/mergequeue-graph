@@ -10179,6 +10179,7 @@ chyack
 chianti
 chiao
 capsicum
+chestiness
 chiapanec
 chiapanecan
 chlorochrous
@@ -26025,7 +26026,6 @@ cosh
 coshed
 cosher
 countermanded
-chestiness
 cupreine
 coshers
 cholralosed
