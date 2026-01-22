@@ -3576,6 +3576,7 @@ gantries
 glack
 galleriidae
 glovers
+ganocephala
 goetae
 gynaecology
 granitification
@@ -6731,7 +6732,6 @@ ganev
 griped
 garvanzo
 gastronomics
-ganocephala
 gonionia
 genericness
 guib
