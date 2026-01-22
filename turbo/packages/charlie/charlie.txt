@@ -15362,6 +15362,7 @@ cryptostegia
 cyprinodontidae
 covenantor
 claosaurus
+curship
 clapboard
 caenolestes
 clapboarding
@@ -31521,7 +31522,6 @@ cutaneous
 cursen
 conoclinium
 cursers
-curship
 coadjuvant
 cornutin
 cursing
