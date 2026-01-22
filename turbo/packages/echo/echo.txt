@@ -75,7 +75,6 @@ emunctory
 eulalia
 earmarkings
 equitation
-earmuff
 essayer
 ecclesiology
 extendable
@@ -12080,6 +12079,7 @@ exsectile
 enflames
 executrixes
 exploit
+earmuff
 editress
 echinologist
 eartag
