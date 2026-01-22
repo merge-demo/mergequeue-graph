@@ -9221,6 +9221,7 @@ gnawings
 genethlialogic
 goliard
 graphitoid
+gauzelike
 glagolitic
 gurdy
 gravigrade
@@ -10245,7 +10246,6 @@ gustiness
 galvanometry
 galvanoplastically
 grownup
-gauzelike
 guanases
 globulitic
 galeproof
