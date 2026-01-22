@@ -5939,7 +5939,6 @@ exemplupla
 erythrose
 euflavine
 enheritance
-epicondylitis
 eking
 expectorates
 enigma
@@ -11583,6 +11582,7 @@ ewery
 exciding
 empires
 ewes
+epicondylitis
 engraphia
 eucalypt
 envenomous
