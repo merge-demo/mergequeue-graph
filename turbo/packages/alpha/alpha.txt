@@ -5393,7 +5393,6 @@ arcosolia
 aspirator
 anguine
 aeonial
-aprioristic
 aureately
 afresca
 asteroidea
@@ -24846,6 +24845,7 @@ accupy
 alcoholization
 avoid
 avoidable
+aprioristic
 anarchosyndicalist
 avoidant
 anginoid
