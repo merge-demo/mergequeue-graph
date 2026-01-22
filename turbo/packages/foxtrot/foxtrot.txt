@@ -1169,7 +1169,6 @@ funje
 flockling
 fimbriodentate
 flagrance
-followeth
 facials
 fiberization
 frumety
@@ -1542,6 +1541,7 @@ faunish
 fleecing
 foamers
 falsism
+followeth
 fattenable
 fauntleroy
 filmdoms

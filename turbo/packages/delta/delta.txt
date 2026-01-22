@@ -994,7 +994,6 @@ dagos
 dargo
 ding
 dignitaries
-derequisition
 dolomitise
 disproportionate
 darics
@@ -15036,6 +15035,7 @@ distinctify
 determ
 doggerelism
 doggerelist
+derequisition
 desperate
 doggerelizing
 disrout
