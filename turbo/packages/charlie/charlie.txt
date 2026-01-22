@@ -2465,7 +2465,6 @@ canciones
 cancri
 charivaried
 coacervation
-cancrid
 cruzeiro
 capelline
 cancrine
@@ -7686,6 +7685,7 @@ cyamid
 ciceros
 caramelising
 cermets
+cancrid
 commissar
 cavaliership
 cityward
