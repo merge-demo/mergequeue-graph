@@ -5802,7 +5802,6 @@ disanagrammatize
 doxologizing
 dreidel
 dimagnesic
-depraver
 dragonfly
 dizdar
 dewaxing
@@ -12673,6 +12672,7 @@ dumplings
 dextroses
 didy
 dyskeratosis
+depraver
 diskette
 discernibleness
 diskindness
