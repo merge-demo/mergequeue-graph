@@ -2467,7 +2467,6 @@ gnathidium
 glabrate
 girt
 geoisotherm
-grief
 geodynamic
 glandules
 goading
@@ -9284,6 +9283,7 @@ gunj
 guidebook
 gi
 geodynamicist
+grief
 grapeline
 girnel
 gallowglass
