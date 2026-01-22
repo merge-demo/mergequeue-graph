@@ -1134,6 +1134,7 @@ gemmiferous
 gestura
 gerontocracies
 gallnut
+gastronomics
 galyac
 groupment
 gunpowder
@@ -6730,7 +6731,6 @@ graybeards
 ganev
 griped
 garvanzo
-gastronomics
 gonionia
 genericness
 guib

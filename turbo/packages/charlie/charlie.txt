@@ -16202,6 +16202,7 @@ crankness
 crossbeak
 clingfishes
 contravenes
+chaetophorous
 clingy
 clinginess
 cuit
@@ -25279,7 +25280,6 @@ cormous
 challa
 corn
 cornaceae
-chaetophorous
 cochin
 cornada
 cornballs
