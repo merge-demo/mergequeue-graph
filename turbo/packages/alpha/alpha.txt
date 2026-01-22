@@ -8528,7 +8528,6 @@ ammanite
 anecdota
 agnoites
 aegagropiles
-allassotonic
 alleviations
 allatrate
 abaction
@@ -19127,6 +19126,7 @@ aphidozer
 availers
 archturncoat
 archvampire
+allassotonic
 archvillainy
 assuages
 algorithm

@@ -4591,7 +4591,6 @@ gustatorially
 gallup
 greenheart
 gyrating
-galvanise
 gorillaship
 goatbush
 gammarid
@@ -5550,6 +5549,7 @@ geochemist
 geophysical
 gefilte
 grimliness
+galvanise
 gownlet
 glottogonist
 gervais
