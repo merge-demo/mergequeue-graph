@@ -2062,6 +2062,7 @@ entraps
 enchainements
 epi
 eugene
+esophagoplegia
 epopoean
 earwitness
 emu
@@ -3560,7 +3561,6 @@ embossed
 equilibristic
 embossing
 emulsifications
-esophagoplegia
 enchantery
 emanent
 edifier
