@@ -8743,7 +8743,6 @@ apocynum
 await
 apocinchonine
 actious
-apodixis
 alliterationist
 avens
 actinautography
@@ -19027,6 +19026,7 @@ archmonarch
 amadavats
 arnebia
 acneiform
+apodixis
 astaticism
 adhering
 airmailed
