@@ -3622,6 +3622,7 @@ fiftieths
 fibrillar
 freshed
 fictions
+furfurol
 foretype
 filigrane
 furlana
@@ -10990,7 +10991,6 @@ feastly
 furison
 foregone
 fundless
-furfurol
 feign
 fumbles
 fumed
