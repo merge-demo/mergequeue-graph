@@ -468,6 +468,7 @@ abyssopelagic
 actinide
 airstream
 abyssus
+auburns
 abit
 assenter
 agriculture
@@ -5516,7 +5517,6 @@ aftermost
 afternoons
 afternose
 afterpains
-auburns
 antifreezing
 afterpast
 afflux
