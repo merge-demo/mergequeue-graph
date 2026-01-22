@@ -7424,6 +7424,7 @@ cinnamic
 canvass
 citified
 chloroformed
+cystine
 cerasein
 chouser
 cythera
@@ -24934,7 +24935,6 @@ corbelled
 corbet
 corby
 cannet
-cystine
 chummiest
 corbicula
 corbiculate
