@@ -17345,6 +17345,7 @@ arithmometer
 apostille
 argos
 antagonist
+aeromantic
 aglycosuric
 anatiferous
 apostleship
@@ -22187,7 +22188,6 @@ arviculture
 archaic
 asthmatical
 aceric
-aeromantic
 asthmatoid
 arthrotomies
 asthmogenic
