@@ -1827,6 +1827,7 @@ coala
 crassula
 camaca
 corol
+carpus
 collochromate
 circularizing
 camay
@@ -13889,7 +13890,6 @@ choom
 cinnamonlike
 chaffy
 chromophyl
-carpus
 cinnamons
 cinnolin
 cynocephalous
