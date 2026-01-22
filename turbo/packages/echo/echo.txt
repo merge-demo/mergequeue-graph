@@ -5310,7 +5310,6 @@ epiphyte
 epituberculous
 endosteoma
 essentialism
-exerts
 exosepsis
 expatriations
 evzones
@@ -8687,6 +8686,7 @@ edgemaking
 enchain
 erupting
 enamorate
+exerts
 eradications
 enjoyed
 elastometry
