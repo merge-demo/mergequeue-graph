@@ -11165,7 +11165,6 @@ disbeliefs
 decastere
 dockworker
 diarchic
-decemjugate
 dissociating
 disbelieved
 disproportions
@@ -17566,6 +17565,7 @@ depudorate
 drumfishes
 dictatorialness
 disvaluing
+decemjugate
 decolour
 disassimilation
 diabrotic
