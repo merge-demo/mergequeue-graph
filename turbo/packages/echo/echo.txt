@@ -406,7 +406,6 @@ exomphalus
 entocondyle
 elfish
 exposits
-exacerbation
 ebullioscopic
 extendibility
 echappee
@@ -12482,6 +12481,7 @@ exility
 evened
 exanthem
 educatory
+exacerbation
 enneadic
 electrifying
 electroosmosis
