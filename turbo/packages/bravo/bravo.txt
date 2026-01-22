@@ -9725,7 +9725,6 @@ bizes
 benj
 boondogglers
 ballywrack
-bisques
 bedpad
 betokening
 bissabol
@@ -11163,6 +11162,7 @@ bandarlog
 boiloff
 balloters
 bloodthirster
+bisques
 beliquors
 ballow
 blindages
