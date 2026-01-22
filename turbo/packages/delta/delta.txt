@@ -5189,7 +5189,6 @@ duplification
 denouement
 denounce
 daulias
-disputativeness
 digladiated
 dynamogenously
 devalued
@@ -10326,6 +10325,7 @@ diurons
 derelictly
 degeneracy
 dioramic
+disputativeness
 diordinal
 duplet
 disgregation
