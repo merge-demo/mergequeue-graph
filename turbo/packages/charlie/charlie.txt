@@ -19622,7 +19622,6 @@ columning
 chadless
 cuttling
 columnist
-columnistic
 coach
 columnists
 callets
@@ -21692,6 +21691,7 @@ cinerarias
 cloths
 cheiromegaly
 condistillation
+columnistic
 conditionable
 conditionalism
 coplotting
