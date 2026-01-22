@@ -3451,7 +3451,6 @@ duodecimally
 dashboards
 disavowance
 dehydroffrozen
-defoedation
 defogged
 dispurse
 disyllable
@@ -7740,6 +7739,7 @@ decongests
 diphosphoric
 diethylmalonylurea
 denicotinized
+defoedation
 deoxygenate
 disastimeter
 dogmatization

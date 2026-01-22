@@ -1126,7 +1126,6 @@ faussebraie
 firehalls
 figulate
 forthcame
-flyings
 forehatch
 farruca
 farseer
@@ -6980,6 +6979,7 @@ fluorspar
 fatagaga
 flop
 fondlingly
+flyings
 farewelled
 fraenulum
 foozled
