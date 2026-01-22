@@ -6994,6 +6994,7 @@ catechiser
 censurableness
 cotton
 censurably
+crayoned
 cutlips
 censure
 censureless
@@ -17022,7 +17023,6 @@ cnicin
 cnidae
 cnidarian
 cnidian
-crayoned
 cnidoblast
 cobbed
 coexplosion
