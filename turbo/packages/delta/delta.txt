@@ -2885,6 +2885,7 @@ draper
 didunculidae
 detainers
 deerlike
+doffs
 dispensatories
 demented
 diorthosis
@@ -9106,7 +9107,6 @@ disweapon
 didelphoid
 disinclines
 derisory
-doffs
 detriment
 disdiaclasis
 disgracement
