@@ -1261,6 +1261,7 @@ forespeed
 foolery
 fluorography
 folds
+facsimiles
 fassalite
 fastbacks
 frigor
@@ -9635,7 +9636,6 @@ fulcrumage
 flabrum
 freewheelingness
 forfoughen
-facsimiles
 foresides
 fathers
 fourths
