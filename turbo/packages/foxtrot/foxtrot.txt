@@ -6196,7 +6196,6 @@ folden
 fractionating
 fluffiness
 flexography
-flugel
 foreleg
 flatlet
 fiji
@@ -9225,6 +9224,7 @@ fraised
 frug
 fertilities
 fraises
+flugel
 fretwise
 fascinery
 frontispieced
