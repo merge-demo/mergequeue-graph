@@ -1668,7 +1668,6 @@ ambiguously
 aphidid
 acculturation
 acculturize
-anarchoindividualist
 ancienty
 acrologism
 abloom
@@ -15284,6 +15283,7 @@ antigravity
 affectible
 anatomizes
 aminosis
+anarchoindividualist
 antihalation
 alcantarines
 aglycone
