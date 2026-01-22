@@ -16226,7 +16226,6 @@ dextroamphetamine
 dermatotherapy
 dowsets
 densitometer
-dermovaccine
 dowitchers
 determinedness
 disbutton
@@ -17932,6 +17931,7 @@ dinman
 dumpier
 duffed
 doublers
+dermovaccine
 dispermous
 degasser
 disillusionise
