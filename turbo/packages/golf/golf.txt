@@ -971,6 +971,7 @@ gastrolobium
 genre
 grivet
 gilgamesh
+gorkun
 grouting
 galloped
 ganched
@@ -2106,7 +2107,6 @@ guarabu
 gazeboes
 guestship
 gen
-gorkun
 galla
 gaudete
 garon
