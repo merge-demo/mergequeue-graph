@@ -8870,7 +8870,6 @@ allantoid
 adjunctively
 admired
 alloyage
-athermancy
 alloiogenesis
 assizer
 alloiometric
@@ -20369,6 +20368,7 @@ apothgm
 alefzero
 awearied
 alabaman
+athermancy
 archegoniatae
 avision
 antiochianism
