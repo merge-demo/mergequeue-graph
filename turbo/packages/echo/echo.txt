@@ -10614,7 +10614,6 @@ exodium
 elaterid
 eudaimonia
 eudaimonist
-epirhizous
 eric
 eudemonic
 epappose
@@ -13024,6 +13023,7 @@ existentially
 esophagectomy
 estafette
 elites
+epirhizous
 engrapple
 enhazard
 entrusted
