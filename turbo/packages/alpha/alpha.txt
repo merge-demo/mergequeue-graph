@@ -1063,7 +1063,6 @@ apparelled
 abundancy
 abundant
 abundantly
-agnatically
 alchornea
 abune
 acromimia
@@ -6321,6 +6320,7 @@ abohms
 agriochoerus
 achuas
 amoeban
+agnatically
 appliers
 appomatox
 agriological
