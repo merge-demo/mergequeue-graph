@@ -7099,7 +7099,6 @@ alkalinizes
 alabarch
 aidmanmen
 alabaster
-atellan
 alabastrian
 alabastrine
 aortographic
@@ -13606,6 +13605,7 @@ abend
 acrity
 adrenaline
 adinole
+atellan
 aponeurositis
 aulostomus
 adat
