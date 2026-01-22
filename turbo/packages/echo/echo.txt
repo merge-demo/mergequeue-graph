@@ -1564,6 +1564,7 @@ enterokinetic
 eglamore
 eglandular
 electrosynthetically
+energeticness
 eglantines
 endocardia
 ethnogenist
@@ -5438,7 +5439,6 @@ extoll
 echoized
 entranced
 elding
-energeticness
 epacrid
 estimatingly
 extrasystole
