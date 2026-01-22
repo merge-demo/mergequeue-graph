@@ -1121,6 +1121,7 @@ franticness
 fishling
 foremention
 fastback
+foulish
 farfetched
 fleerish
 fingerleaf
@@ -1554,7 +1555,6 @@ foreseat
 feedbox
 flippant
 fanfaron
-foulish
 foreshift
 foetuses
 fauterer
