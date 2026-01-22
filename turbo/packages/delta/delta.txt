@@ -7976,7 +7976,6 @@ degummer
 deemsters
 demanganize
 deliberate
-dextrousness
 dispergating
 dataset
 disallowance
@@ -9529,6 +9528,7 @@ diglots
 disenchantment
 diglottist
 duumvir
+dextrousness
 diallists
 demasculinised
 disgruntled

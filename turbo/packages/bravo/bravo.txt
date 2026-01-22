@@ -8596,6 +8596,7 @@ beslubber
 billfishes
 bradypode
 bellflower
+balneologist
 balkanized
 bhuts
 bastionary
@@ -13201,7 +13202,6 @@ boustrophedonic
 boskier
 boasters
 bosn
-balneologist
 brinkless
 bosniak
 battlewise
