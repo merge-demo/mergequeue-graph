@@ -1048,6 +1048,7 @@ disseises
 dispensers
 domineers
 dharmasutra
+defeasible
 darling
 disobligingness
 divorcer
@@ -15561,7 +15562,6 @@ demodulator
 drummers
 desolately
 donnas
-defeasible
 dereligionize
 donnerd
 donnick
