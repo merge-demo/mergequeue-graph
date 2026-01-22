@@ -1224,6 +1224,7 @@ galavants
 gramy
 gruffly
 gambler
+grenadine
 gladys
 gonakie
 grackles
@@ -5167,7 +5168,6 @@ gemara
 gerbils
 gentianose
 gieseckite
-grenadine
 gena
 guazzo
 geogenesis
