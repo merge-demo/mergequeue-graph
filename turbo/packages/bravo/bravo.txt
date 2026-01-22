@@ -2354,7 +2354,6 @@ britt
 bagging
 boxboards
 barbotine
-bones
 bluelines
 bastinade
 biolysis
@@ -5110,6 +5109,7 @@ binits
 basilicon
 beflagged
 broidering
+bones
 burrows
 bodymaking
 braconidae
