@@ -23754,6 +23754,7 @@ contraremonstrance
 contrariant
 contraries
 contrarily
+cogwheel
 chancellory
 contrarious
 contrariously
@@ -29911,7 +29912,6 @@ crosshair
 crosshand
 crosshatches
 capillation
-cogwheel
 confirmity
 coadjutator
 crosshatching
