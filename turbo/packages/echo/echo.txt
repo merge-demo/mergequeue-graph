@@ -396,7 +396,6 @@ embayed
 excelsitude
 eulerian
 evangelist
-entrenching
 extruct
 erythrinus
 exasperation
@@ -6826,6 +6825,7 @@ edging
 etherification
 exceptionless
 epitome
+entrenching
 exterior
 examens
 embarque
