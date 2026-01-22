@@ -327,7 +327,6 @@ enturret
 extramolecular
 empresse
 embleming
-epirogenic
 emissive
 eagerer
 expatiater
@@ -938,6 +937,7 @@ electroforming
 ecumenicism
 expulser
 emerit
+epirogenic
 embalming
 entailments
 euchrone
