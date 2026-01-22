@@ -6801,6 +6801,7 @@ equestriennes
 ethnogenic
 emmenology
 exoticism
+enrolment
 entombs
 eviscerator
 entomere
@@ -11777,7 +11778,6 @@ erraticness
 exauctorate
 empoisoned
 epiphytous
-enrolment
 elaphrium
 eduction
 euryon

@@ -1464,7 +1464,6 @@ filasse
 firmness
 futhork
 fatuitous
-fiard
 foothil
 familiarise
 floorwalkers
@@ -8795,6 +8794,7 @@ frustula
 featherstitch
 feoffing
 flunks
+fiard
 favorably
 frailes
 fetchers
