@@ -9820,7 +9820,6 @@ chemicophysical
 carbonized
 cleptomaniac
 creneling
-crucifige
 ciliary
 curtaining
 computist
@@ -14759,6 +14758,7 @@ cladodontid
 cytioderm
 cityscapes
 cytisine
+crucifige
 chamkanni
 couriers
 calocarpum
