@@ -5679,7 +5679,6 @@ boer
 buettneriaceae
 barony
 biogeochemical
-bibliotaph
 backboneless
 beleper
 bicycle
@@ -10243,6 +10242,7 @@ bryaceous
 besague
 breads
 britany
+bibliotaph
 bootstraps
 bondhold
 blvd
