@@ -6389,7 +6389,6 @@ espaliered
 expugn
 ethinyls
 ensiled
-embezzler
 endopod
 enlargers
 ensiling
@@ -9143,6 +9142,7 @@ ermines
 ectoenzyme
 ectocinerea
 encolor
+embezzler
 enates
 ernes
 erode
