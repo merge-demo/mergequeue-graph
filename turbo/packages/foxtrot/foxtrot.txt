@@ -3934,6 +3934,7 @@ finew
 fish
 fermentor
 fruitcakey
+fines
 freedom
 frenziedly
 frightfulness
@@ -9900,7 +9901,6 @@ fructoside
 fornices
 frogskins
 forepeaks
-fines
 filamentose
 fogeater
 fevercup
