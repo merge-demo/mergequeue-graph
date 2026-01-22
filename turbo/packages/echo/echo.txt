@@ -2733,7 +2733,6 @@ electrostenolytic
 enceint
 equipotent
 electees
-edentate
 envoi
 eleemosynary
 emetic
@@ -6084,6 +6083,7 @@ epizoisms
 explida
 erythroderma
 euchorda
+edentate
 everydeal
 expiscating
 enlivener
