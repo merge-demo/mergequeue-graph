@@ -13638,6 +13638,7 @@ anoestrum
 acidize
 aposporogony
 albumenising
+ataxophemia
 accretion
 alluviviums
 autoecholalia
@@ -22564,7 +22565,6 @@ ataxies
 ataxinomic
 assidaean
 aspiratae
-ataxophemia
 ambitions
 apolitical
 abbassi
