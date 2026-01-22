@@ -10143,7 +10143,6 @@ dinghee
 distune
 dinghies
 disple
-desition
 dihydrate
 deutoxide
 diachaenium
@@ -13501,6 +13500,7 @@ dialectologer
 dustiness
 demicircle
 disrooting
+desition
 ditrigonal
 dizygous
 disruddered

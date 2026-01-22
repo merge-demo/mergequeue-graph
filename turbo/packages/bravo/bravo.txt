@@ -15046,7 +15046,6 @@ breenger
 babushka
 breezeway
 bulbocapnin
-botel
 beastliness
 bowdlerise
 besanctify
@@ -17712,6 +17711,7 @@ bollard
 beshouts
 bookways
 bombshell
+botel
 burned
 burner
 benempt
