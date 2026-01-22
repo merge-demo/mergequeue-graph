@@ -2887,7 +2887,6 @@ doffs
 dispensatories
 demented
 diorthosis
-deathling
 decurrences
 denaturational
 defeminising
@@ -14973,6 +14972,7 @@ dogana
 dizziness
 disillusionizing
 desperation
+deathling
 disulfiram
 disjection
 dogaressa
