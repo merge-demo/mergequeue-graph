@@ -6988,6 +6988,7 @@ deface
 despondence
 despondencies
 despondentness
+domoid
 despondingly
 desponds
 debasement
@@ -9295,7 +9296,6 @@ darwinist
 dorsonasal
 dialysate
 diewise
-domoid
 diezeugmenon
 depolymerizing
 dread
