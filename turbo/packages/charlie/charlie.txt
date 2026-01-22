@@ -3248,7 +3248,6 @@ crax
 catenated
 cerebrally
 cohosted
-cumly
 capital
 chevronny
 capitaldom
@@ -20259,6 +20258,7 @@ classicalize
 commonance
 commoney
 cosmogenesis
+cumly
 ceremony
 crossword
 commoning
