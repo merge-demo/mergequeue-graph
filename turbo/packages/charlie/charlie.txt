@@ -27973,7 +27973,6 @@ centroacinar
 craglike
 crags
 carthusian
-chart
 cessions
 celtic
 cragwork
@@ -29224,6 +29223,7 @@ chattingly
 cryptamnesic
 cryptanalytically
 cryptanalytics
+chart
 cires
 cryptanalyze
 cothamore
