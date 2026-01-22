@@ -3689,6 +3689,7 @@ alliteration
 antiquity
 anchorhold
 aligreek
+alange
 autere
 apotheosising
 aristarchian
@@ -7163,7 +7164,6 @@ anthradiquinone
 alamort
 alamosite
 ardent
-alange
 antigonococcic
 arthrectomies
 alangium
