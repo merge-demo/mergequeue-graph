@@ -10589,6 +10589,7 @@ carburise
 choledochotomy
 chillingly
 chilognathous
+cerites
 chilogrammo
 cubic
 contract
@@ -11915,7 +11916,6 @@ cuds
 calculabilities
 covibrate
 crestfallenness
-cerites
 cohanim
 cruces
 cosmochemistry
