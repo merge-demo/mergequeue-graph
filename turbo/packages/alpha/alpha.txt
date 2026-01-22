@@ -3819,6 +3819,7 @@ arhat
 adios
 adipate
 amphitruo
+apophysis
 aequorin
 amphithuron
 aggressions
@@ -17245,7 +17246,6 @@ anagoge
 anatifa
 antisnob
 appropriate
-apophysis
 autopsying
 aspersoria
 apophlegm
