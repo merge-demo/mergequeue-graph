@@ -1980,7 +1980,6 @@ bacteriogenous
 bangladesh
 bespatters
 blet
-bangled
 bangles
 bias
 bloodsucking
@@ -17675,6 +17674,7 @@ balancement
 bevomits
 birgus
 bordage
+bangled
 blackfin
 blueings
 bonuses
