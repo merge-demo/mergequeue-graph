@@ -4909,7 +4909,6 @@ estrada
 emulatress
 endeavour
 endamaging
-estreated
 ericeticolous
 enneaeteric
 exilable
@@ -11631,6 +11630,7 @@ exacting
 electroirrigation
 electivity
 eliminations
+estreated
 eburnian
 enfire
 exactitude
