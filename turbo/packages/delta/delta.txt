@@ -274,7 +274,6 @@ downspout
 dismarketed
 dolichopodous
 degermed
-doradilla
 daguerreotyped
 daguerreotyping
 digitonin
@@ -3597,6 +3596,7 @@ doubtlessly
 deglazed
 discoblastic
 deglazing
+doradilla
 duckling
 dubbing
 deglycerin
