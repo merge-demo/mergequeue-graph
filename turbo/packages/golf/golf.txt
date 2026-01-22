@@ -2874,7 +2874,6 @@ geobotanic
 gabbers
 grievants
 gustation
-gradualism
 gomlah
 globulite
 glazes
@@ -4373,6 +4372,7 @@ griffinage
 gytling
 globulousness
 gynodioecious
+gradualism
 gophers
 giglet
 goosishness
