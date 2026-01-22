@@ -1952,7 +1952,6 @@ dwines
 dominoes
 disobeys
 dreader
-depressant
 dobla
 deckload
 doze
@@ -14304,6 +14303,7 @@ deviances
 dithion
 dithionous
 dephilosophize
+depressant
 devotionate
 depaganize
 demarcature
