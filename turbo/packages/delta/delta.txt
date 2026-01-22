@@ -7616,6 +7616,7 @@ didinium
 developer
 diswarn
 dieugard
+demographic
 developing
 didelphis
 development
@@ -8929,7 +8930,6 @@ daughtership
 desirably
 dichotomize
 despraise
-demographic
 demonstrably
 dail
 dihydride
