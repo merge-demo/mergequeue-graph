@@ -2025,7 +2025,6 @@ feeze
 fimicolous
 footblower
 furmity
-feezes
 forejudge
 fefnicute
 fullam
@@ -8043,6 +8042,7 @@ flammation
 felicitates
 fluidisation
 frustrate
+feezes
 fairies
 formentation
 facetting
