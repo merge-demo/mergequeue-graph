@@ -8220,6 +8220,7 @@ caird
 chalcidoid
 conocarp
 cleaves
+connexional
 cadalene
 chalcocite
 compotatory
@@ -21054,7 +21055,6 @@ cyclian
 civical
 copyholds
 conceptaculum
-connexional
 computably
 cosmopolitanly
 counterdash
