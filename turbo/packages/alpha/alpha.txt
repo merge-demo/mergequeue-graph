@@ -8985,7 +8985,6 @@ aefauld
 anserin
 allotropic
 ailanthus
-allotropically
 allotropies
 allots
 ashamedly
@@ -18813,6 +18812,7 @@ arylation
 allheals
 assurgent
 abumbrellar
+allotropically
 artfully
 antideflation
 archeries
