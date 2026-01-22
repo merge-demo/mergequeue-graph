@@ -1690,6 +1690,7 @@ gordioidea
 glories
 gane
 grassquit
+geothlypis
 grooved
 glaciation
 gloated
@@ -7543,7 +7544,6 @@ gamash
 gaspiness
 genit
 grangeriser
-geothlypis
 guardless
 grando
 ganglioplexus

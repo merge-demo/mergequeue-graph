@@ -7245,6 +7245,7 @@ centuple
 clematises
 centuples
 codbank
+capitaling
 chaldese
 centuplicate
 centuplicating
@@ -24916,7 +24917,6 @@ corantoes
 centesimi
 chan
 crowbill
-capitaling
 clemclemalats
 cubomedusae
 cibation
