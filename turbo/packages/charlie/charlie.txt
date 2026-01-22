@@ -4112,6 +4112,7 @@ collops
 cardiectasis
 compileable
 chamoisette
+counternecromancy
 cardiectomize
 cardielcosis
 cushiest
@@ -26942,7 +26943,6 @@ conceded
 chuntering
 calabaza
 ciceronianism
-counternecromancy
 counterobjection
 counterobligation
 counteroffensive
