@@ -15222,6 +15222,7 @@ crucigerous
 ceromancy
 claywares
 caam
+chaptering
 colours
 chlorphenol
 crassina
@@ -19667,7 +19668,6 @@ comandanti
 cutis
 catocala
 cinematics
-chaptering
 comandra
 capetown
 cheir
