@@ -9466,7 +9466,6 @@ earthquaking
 eulogia
 electrolithotrity
 eczematoid
-entach
 escout
 enstore
 es
@@ -12291,6 +12290,7 @@ esquires
 ewers
 eerock
 equilucent
+entach
 exerce
 equimultiple
 exceptious
