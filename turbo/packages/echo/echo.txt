@@ -4719,7 +4719,6 @@ existent
 exodos
 episcopacy
 estranging
-ebulliometry
 epistler
 exploratory
 equationism
@@ -13687,6 +13686,7 @@ eurygnathic
 ells
 exterminatrix
 extraconscious
+ebulliometry
 edaphosauria
 eructing
 electrocardiographs
