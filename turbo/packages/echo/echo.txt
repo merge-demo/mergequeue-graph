@@ -5919,7 +5919,6 @@ enjoyably
 enhypostasia
 estmark
 electrotheraputically
-endolemma
 erethismic
 explanator
 ettled
@@ -13580,6 +13579,7 @@ exsufflation
 exacerbated
 encephalotomies
 extracutaneous
+endolemma
 evasions
 echidnas
 escheating
