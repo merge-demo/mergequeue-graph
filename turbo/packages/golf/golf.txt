@@ -1854,6 +1854,7 @@ gleir
 gazehound
 growlery
 guffaw
+gasmaker
 gigantostracan
 gilgai
 goofy
@@ -6818,7 +6819,6 @@ glaciomarine
 gunnings
 gagwriter
 ghostflower
-gasmaker
 gastrojejunal
 grandpa
 gonorrhoeal
