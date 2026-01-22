@@ -6668,7 +6668,6 @@ gromatic
 geochronometry
 gibbergunyah
 grattage
-gewgawed
 growse
 geodic
 gardenize
@@ -8064,6 +8063,7 @@ graded
 gastrin
 gauzes
 gapeworm
+gewgawed
 graduality
 gulch
 grayhound
