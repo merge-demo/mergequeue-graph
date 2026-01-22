@@ -2293,7 +2293,6 @@ galidictis
 ganofs
 gelant
 gadgeteers
-glyceric
 ganta
 granulation
 graduates
@@ -3665,6 +3664,7 @@ glumelike
 graveyards
 gothish
 ghostish
+glyceric
 gelatigenous
 gangetic
 glyconics
