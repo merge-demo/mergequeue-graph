@@ -3949,7 +3949,6 @@ apologer
 adjutrice
 ambassage
 ameba
-affirm
 amelification
 anecdotical
 adlumidin
@@ -20161,6 +20160,7 @@ arrastra
 aoli
 acidulation
 arratel
+affirm
 asclepieion
 apothem
 arrau
