@@ -1566,7 +1566,6 @@ flowcontrol
 fishbowl
 funk
 fuselage
-fauvisms
 foreprepare
 filechar
 ferruminate
@@ -2465,6 +2464,7 @@ fatiferous
 fornax
 ferruginated
 fungal
+fauvisms
 fiberizes
 foliocellosis
 fairnesses
