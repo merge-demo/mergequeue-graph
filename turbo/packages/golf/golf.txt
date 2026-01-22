@@ -4002,6 +4002,7 @@ gelatines
 gilliflower
 grocery
 grittiness
+gigmaness
 gastronome
 glonoine
 genitorial
@@ -9294,7 +9295,6 @@ guttera
 generale
 gibbon
 ghosted
-gigmaness
 gleds
 gibblegabble
 geosyncline
