@@ -4958,7 +4958,6 @@ grotto
 galleypot
 governesshood
 glaucousness
-geryoniidae
 ghouls
 giganticidal
 gauls
@@ -10549,6 +10548,7 @@ glyphs
 guanays
 gunmaking
 gaun
+geryoniidae
 gesneraceae
 gyneocracy
 gatewaymen
