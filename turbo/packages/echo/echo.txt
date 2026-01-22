@@ -10222,6 +10222,7 @@ expellees
 excavators
 ethyldichloroarsine
 emphraxis
+euripidean
 ethylenimine
 esperanto
 exasperated
@@ -11751,7 +11752,6 @@ exorcista
 enstatitite
 epithelioid
 extracorpuscular
-euripidean
 ekphore
 epimerise
 extrospective
