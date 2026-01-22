@@ -3759,7 +3759,6 @@ archaizer
 astrogeny
 allayers
 antidemocracies
-apologies
 anthobiology
 alberta
 awol
@@ -17053,6 +17052,7 @@ angulus
 archchemic
 addy
 arthrotropic
+apologies
 apocopes
 apocrenic
 agatha
