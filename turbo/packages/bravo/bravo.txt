@@ -406,7 +406,6 @@ brigadier
 backlogged
 babbled
 backouts
-bheesties
 backpack
 bulimiform
 briner
@@ -13348,6 +13347,7 @@ bunder
 bothnian
 bridesmen
 bothnic
+bheesties
 batteled
 bawn
 bulletproofs
