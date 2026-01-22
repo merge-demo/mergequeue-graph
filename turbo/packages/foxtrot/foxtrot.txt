@@ -9943,6 +9943,7 @@ flairs
 fishworks
 frumentum
 ferrier
+finitesimal
 flatlanders
 flanche
 frantic
@@ -10923,7 +10924,6 @@ filtration
 flavorful
 forge
 formalins
-finitesimal
 ferreiro
 foreshadows
 fub
