@@ -2101,7 +2101,6 @@ firmers
 flavian
 forerehearsed
 forebodies
-facture
 finetop
 focusable
 fleshen
@@ -11705,6 +11704,7 @@ frowns
 furriered
 ferruled
 foredesign
+facture
 friars
 fosslology
 flighty
