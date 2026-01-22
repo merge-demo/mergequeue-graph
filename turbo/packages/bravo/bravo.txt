@@ -375,6 +375,7 @@ bovarist
 bashkir
 bevelling
 borings
+bedabble
 backhoe
 bake
 backhooker
@@ -4553,7 +4554,6 @@ biradiated
 bathroot
 bater
 bool
-bedabble
 beagles
 barricadoed
 biggening
