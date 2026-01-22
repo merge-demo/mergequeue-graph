@@ -16821,6 +16821,7 @@ auxiliary
 aphra
 aphrodesiac
 abastral
+anthorine
 autotypic
 antiunion
 annule
@@ -17718,7 +17719,6 @@ aestethic
 adaptationally
 adjacencies
 amblycephalidae
-anthorine
 affinitatively
 appliable
 appliance
