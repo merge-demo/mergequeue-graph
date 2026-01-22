@@ -3952,7 +3952,6 @@ bastardizations
 borborygm
 beachcombers
 beachdrops
-barouni
 biliment
 bowed
 bumpiest
@@ -14326,6 +14325,7 @@ brahmachari
 blacklist
 brahmana
 balloonful
+barouni
 bookboard
 bikini
 bounciness
