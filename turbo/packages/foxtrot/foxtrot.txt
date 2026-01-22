@@ -4674,6 +4674,7 @@ frumentarious
 flabbergast
 forkfuls
 fougue
+furlan
 feathermonger
 fratchety
 fijian
@@ -11319,7 +11320,6 @@ fulvene
 fertilisational
 forecastors
 fermage
-furlan
 foreglimpsed
 forswat
 foldure
