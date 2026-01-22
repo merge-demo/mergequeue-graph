@@ -10592,7 +10592,6 @@ biostrome
 boltheader
 bachelorship
 bespake
-buduma
 blattid
 bulwand
 brockish
@@ -11185,6 +11184,7 @@ baloghia
 bloomeries
 begash
 bibliophiles
+buduma
 boodleize
 bloodsuck
 bloomingly
