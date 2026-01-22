@@ -3621,6 +3621,7 @@ fiftieths
 fibrillar
 freshed
 fictions
+fatwood
 furfurol
 foretype
 filigrane
@@ -5250,7 +5251,6 @@ flukes
 fenks
 fishingly
 fluoridize
-fatwood
 fretters
 flain
 fernwort
