@@ -8865,7 +8865,6 @@ antiritual
 allantoid
 adjunctively
 admired
-alloyage
 alloiogenesis
 assizer
 alloiometric
@@ -24140,6 +24139,7 @@ amylate
 applenut
 amenable
 acutate
+alloyage
 aureoles
 antisemitic
 autunite
