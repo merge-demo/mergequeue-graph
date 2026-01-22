@@ -6659,7 +6659,6 @@ beriberis
 bevesseled
 beerier
 berycid
-bovld
 berycidae
 biguanide
 bituberculate
@@ -18097,6 +18096,7 @@ butanols
 bind
 bergander
 bouderie
+bovld
 butch
 bedoyo
 bolbanac
