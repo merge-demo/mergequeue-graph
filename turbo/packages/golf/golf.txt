@@ -3209,7 +3209,6 @@ gundelet
 goldenwing
 galoot
 greatish
-getatability
 gally
 graffage
 gazement
@@ -7959,6 +7958,7 @@ granada
 glazy
 gables
 grandmotherly
+getatability
 groutnoll
 glistens
 gymnastical
