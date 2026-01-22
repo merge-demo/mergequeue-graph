@@ -13895,7 +13895,6 @@ cinnolin
 cynocephalous
 chakazi
 cheerer
-chalicotherioid
 cynoclept
 cynocrambaceous
 cynodictis
@@ -29241,6 +29240,7 @@ cryptical
 chinaroot
 cryptically
 crypticness
+chalicotherioid
 covenantally
 carragheenin
 crypto
