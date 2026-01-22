@@ -1868,7 +1868,6 @@ gooma
 gamenesses
 grecale
 gating
-guaiocum
 gerontologists
 gobiidae
 germ
@@ -7696,6 +7695,7 @@ griper
 guilfat
 gittern
 grassroots
+guaiocum
 gonys
 gandhi
 gloea
