@@ -7830,6 +7830,7 @@ cervus
 cesare
 cesareans
 cesarevitch
+chamfering
 caramelizing
 cesarians
 cruisers
@@ -8430,7 +8431,6 @@ cardiogenic
 champagnized
 cesurae
 champak
-chamfering
 crummed
 champaka
 conducts
