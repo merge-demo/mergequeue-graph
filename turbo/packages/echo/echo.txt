@@ -2909,7 +2909,6 @@ excitation
 emplaning
 elevons
 eurydice
-elfenfolk
 exclamational
 endogeny
 elfinwood
@@ -9303,6 +9302,7 @@ extralegal
 eructative
 ericaceous
 eruction
+elfenfolk
 emersions
 eruditical
 erudition
