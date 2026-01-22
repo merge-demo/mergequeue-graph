@@ -5011,7 +5011,6 @@ endmost
 etwee
 enamellar
 exemplum
-eyelid
 editorialized
 endoaortitis
 entoolitic
@@ -11481,6 +11480,7 @@ echinopanax
 exhibited
 expended
 electromyogram
+eyelid
 emendate
 epilogate
 engouled
