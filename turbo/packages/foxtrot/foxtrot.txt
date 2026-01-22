@@ -3289,6 +3289,7 @@ fioritura
 felicitating
 forbearing
 fairings
+frostbitten
 fulgide
 fibroareolar
 frets
@@ -10480,7 +10481,6 @@ fluffs
 fidged
 frostfish
 forcite
-frostbitten
 frictionable
 firca
 feuillet
