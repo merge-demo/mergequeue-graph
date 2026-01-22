@@ -3847,6 +3847,7 @@ dissect
 disp
 dyscrasite
 deerdog
+deflower
 demihogshead
 damone
 deityship
@@ -8399,7 +8400,6 @@ diallagic
 dogmaticalness
 dt
 dishonorably
-deflower
 dysphasic
 drowned
 dehair
