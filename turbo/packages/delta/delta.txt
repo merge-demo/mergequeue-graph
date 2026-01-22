@@ -8834,7 +8834,6 @@ defiguration
 delitescent
 draglines
 dropperful
-discomycetous
 dovens
 dibstone
 doziness
@@ -15146,6 +15145,7 @@ disallows
 dilemmic
 dullpate
 decayable
+discomycetous
 demiofficial
 daisybush
 doing
