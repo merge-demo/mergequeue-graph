@@ -2383,6 +2383,7 @@ ferried
 forgoes
 freeloving
 futures
+forespeak
 footganger
 fetial
 fortunetellers
@@ -3607,7 +3608,6 @@ fridstool
 frictionlessly
 faintishness
 fielder
-forespeak
 floatsman
 froglets
 figurate
