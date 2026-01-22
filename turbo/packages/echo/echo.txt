@@ -582,7 +582,6 @@ echopractic
 examinate
 elitisms
 ebonise
-exobiological
 echt
 earliness
 ecchymosed
@@ -10311,6 +10310,7 @@ emitters
 eulophid
 ela
 elicited
+exobiological
 ebullitions
 ethnocracy
 energising
