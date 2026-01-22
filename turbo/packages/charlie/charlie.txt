@@ -5842,7 +5842,6 @@ cultivated
 cochlearia
 chemicopharmaceutical
 contraplex
-cuemanship
 categorization
 coryzal
 corona
@@ -15457,6 +15456,7 @@ clarion
 clarionet
 clarioning
 cloam
+cuemanship
 circuted
 clarissa
 cakier
