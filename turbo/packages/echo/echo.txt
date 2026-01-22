@@ -2662,7 +2662,6 @@ electrostriction
 ejurate
 euchology
 emong
-electrosurgery
 enventual
 epididymovasostomy
 egotist
@@ -4905,6 +4904,7 @@ ecliptics
 estrada
 emulatress
 endeavour
+electrosurgery
 endamaging
 ericeticolous
 enneaeteric
