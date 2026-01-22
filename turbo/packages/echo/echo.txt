@@ -4516,6 +4516,7 @@ encephalotome
 edomite
 epionynychia
 epagoge
+epulones
 echinodermal
 emberizidae
 electing
@@ -11651,7 +11652,6 @@ ethnical
 exaestuate
 eyeball
 erept
-epulones
 embracers
 exogenism
 eadish
