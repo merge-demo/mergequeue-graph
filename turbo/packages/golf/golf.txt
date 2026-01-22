@@ -7944,6 +7944,7 @@ guttee
 glouts
 goodhap
 galleyman
+glioma
 gabblement
 gipper
 gabbroic
@@ -9904,7 +9905,6 @@ gormandized
 gravelly
 grander
 grainsick
-glioma
 gallop
 galiots
 glamorizing
