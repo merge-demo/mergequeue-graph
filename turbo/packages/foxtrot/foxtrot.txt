@@ -7368,6 +7368,7 @@ flatworms
 floatplane
 foreprise
 frost
+foziest
 fabricating
 fattened
 fierding
@@ -7650,7 +7651,6 @@ fishergirl
 fixedness
 franchised
 flourishment
-foziest
 fruition
 foreturn
 flotter
