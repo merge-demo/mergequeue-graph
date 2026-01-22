@@ -42,7 +42,6 @@ glutamate
 gmelina
 grawls
 gabions
-gunfires
 genotypically
 groats
 graperies
@@ -1794,6 +1793,7 @@ glycine
 gastrocolostomy
 geodesia
 gastrovascular
+gunfires
 gthite
 goala
 gulleries
