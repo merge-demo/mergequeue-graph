@@ -3267,6 +3267,7 @@ fiddlestick
 frambesia
 farsight
 fivescore
+fica
 flounces
 fortier
 filets
@@ -6637,7 +6638,6 @@ figurism
 foeti
 fluxroot
 fumigatory
-fica
 finewed
 faence
 fofarraw
