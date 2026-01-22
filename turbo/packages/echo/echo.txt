@@ -5410,7 +5410,6 @@ epigynies
 endocrin
 exaggerations
 evulsion
-emydosauria
 electuary
 enantiomorph
 eurithermophile
@@ -12199,6 +12198,7 @@ execute
 executed
 exceptor
 extravagancies
+emydosauria
 enquicken
 eyewaters
 eras
