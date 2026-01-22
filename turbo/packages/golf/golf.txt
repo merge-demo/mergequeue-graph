@@ -1713,7 +1713,6 @@ glycerinate
 gorkhali
 groom
 gynocracy
-goldstone
 genotypes
 gastriloquous
 glike
@@ -9455,6 +9454,7 @@ graduand
 gluish
 guaharibo
 gabriella
+goldstone
 glaciate
 grumbling
 goldfinnies
