@@ -6076,7 +6076,6 @@ deranges
 dualin
 detrimental
 dropout
-disacquaintance
 dimission
 durgen
 dissolvable
@@ -14815,6 +14814,7 @@ delesseriaceae
 docoglossate
 dewata
 diswarren
+disacquaintance
 decidua
 docs
 doctor
