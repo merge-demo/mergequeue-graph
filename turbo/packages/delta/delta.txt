@@ -1357,7 +1357,6 @@ diploid
 draftsperson
 doggerelize
 dompt
-damagement
 dauntingness
 discerners
 duelli
@@ -15299,6 +15298,7 @@ dose
 dolomitic
 descriptives
 dorididae
+damagement
 dryfarmer
 dumpty
 diabolical
