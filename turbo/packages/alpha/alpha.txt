@@ -7856,7 +7856,6 @@ abandum
 anorthoscope
 atropines
 annexitis
-abacas
 ascella
 afforestation
 appropriates
@@ -18505,6 +18504,7 @@ arbor
 achillea
 acrocyst
 abdominal
+abacas
 anisosepalous
 antiscripturism
 anthropoidal
