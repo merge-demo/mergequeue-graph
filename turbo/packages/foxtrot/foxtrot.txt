@@ -3061,6 +3061,7 @@ falces
 forches
 flowerfly
 finances
+fusariosis
 forfeitableness
 festology
 flagged
@@ -11499,7 +11500,6 @@ fanfold
 fratercula
 frankfort
 forgettingly
-fusariosis
 flypasts
 firebirds
 forethoughtless
