@@ -7839,7 +7839,6 @@ forlornest
 formulate
 foreshots
 furfuraldehyde
-facings
 flenses
 farnesols
 floppers
@@ -8950,6 +8949,7 @@ felty
 fourier
 fourierism
 fourneau
+facings
 filly
 feltings
 fourpence
