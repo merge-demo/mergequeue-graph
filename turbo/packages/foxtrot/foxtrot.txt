@@ -6007,6 +6007,7 @@ fibromas
 faeroese
 filippo
 farandine
+forespeaker
 forethoughted
 flewed
 fateful
@@ -11116,7 +11117,6 @@ fedellini
 feverbush
 fetometry
 ferryhouse
-forespeaker
 fishtail
 farle
 fosters
