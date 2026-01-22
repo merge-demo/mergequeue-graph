@@ -180,7 +180,6 @@ acolapissa
 agglutinogen
 anakes
 abbasi
-abbasside
 advertizable
 altostratus
 ashtray
@@ -12750,6 +12749,7 @@ angiogeny
 anyway
 allophonic
 angiohemophilia
+abbasside
 anhelous
 anachronously
 anetholes
