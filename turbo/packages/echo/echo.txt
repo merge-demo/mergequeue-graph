@@ -8520,6 +8520,7 @@ ethicism
 emblement
 ethylenoid
 endopleura
+excubitorium
 enorganic
 epibenthos
 easts
@@ -13168,7 +13169,6 @@ erythea
 erotisms
 enfeature
 episcotister
-excubitorium
 entailment
 enties
 expiation
