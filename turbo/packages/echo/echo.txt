@@ -11769,7 +11769,6 @@ entrees
 electrocatalysis
 exasperater
 engrid
-ewerer
 experimented
 empocket
 erraticness
@@ -12872,6 +12871,7 @@ envenoms
 echafaudage
 escortment
 erosions
+ewerer
 euphemia
 expandingly
 expansibility
