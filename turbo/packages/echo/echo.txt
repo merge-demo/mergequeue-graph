@@ -13496,6 +13496,7 @@ endymal
 egocentricities
 edge
 erk
+endotropic
 epifolliculitis
 ectocondyloid
 editing
@@ -13855,7 +13856,6 @@ eyesores
 extracosmical
 ethnozoological
 equipotentiality
-endotropic
 eelpot
 equivocation
 evaporize
