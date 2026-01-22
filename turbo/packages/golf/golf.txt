@@ -6312,6 +6312,7 @@ gemots
 gearings
 genarchaship
 graptoloidea
+glycosaemia
 graplines
 gamic
 greentail
@@ -7558,7 +7559,6 @@ gledge
 gloomful
 gyrus
 grille
-glycosaemia
 gambians
 grab
 guanamine
