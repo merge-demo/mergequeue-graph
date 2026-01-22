@@ -7323,7 +7323,6 @@ detersiveness
 disunions
 detestation
 damoisel
-decomponent
 detestations
 dethronement
 diminute
@@ -10585,6 +10584,7 @@ diag
 doorman
 diploma
 decasyllabon
+decomponent
 dolorogenic
 domitable
 dolven
