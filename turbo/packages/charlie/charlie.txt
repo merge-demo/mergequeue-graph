@@ -2470,7 +2470,6 @@ cicatrix
 carpers
 coffeeberry
 cancrinite
-cancrisocial
 cancroid
 clientele
 contuse
@@ -5691,6 +5690,7 @@ catapultier
 colthood
 cataracts
 cataractwise
+cancrisocial
 catarrhal
 col
 catarrhina
