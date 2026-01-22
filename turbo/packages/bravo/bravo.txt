@@ -6214,6 +6214,7 @@ bengola
 bipartient
 beni
 buckjumper
+bessel
 bremely
 benic
 benight
@@ -7190,7 +7191,6 @@ bifoliate
 biologist
 brightly
 barricades
-bessel
 bonhomies
 bessemerize
 bessemerized

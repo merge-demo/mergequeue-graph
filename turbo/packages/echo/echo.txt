@@ -359,7 +359,6 @@ eavesdropping
 equimolar
 enjoin
 eightvos
-exosseous
 ebcd
 experts
 electrepeter
@@ -1691,6 +1690,7 @@ eddoes
 eyebright
 eyliad
 electrotheraputics
+exosseous
 extemporaneous
 eyecup
 emollescence
