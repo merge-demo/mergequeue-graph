@@ -2288,7 +2288,6 @@ decene
 depurator
 decennial
 dingdongs
-decennium
 diagraphical
 denouncing
 dedicating
@@ -9053,6 +9052,7 @@ dellaring
 dictyota
 dictyotales
 dors
+decennium
 dictyotic
 drinkability
 dailiness
