@@ -8876,6 +8876,7 @@ aerobiologic
 allomorphism
 allomorphite
 allonym
+antidiphtheritic
 alongst
 allonymous
 allonyms
@@ -24936,7 +24937,6 @@ acholic
 arseniosiderite
 ankylose
 adroit
-antidiphtheritic
 awkwardish
 awarders
 athalamous
