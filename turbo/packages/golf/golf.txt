@@ -1712,6 +1712,7 @@ glossoscopy
 gadoids
 glycerinate
 gorkhali
+groom
 gynocracy
 goldstone
 genotypes
@@ -7829,7 +7830,6 @@ gour
 gardevin
 greece
 galvanometrical
-groom
 grammarless
 galtonia
 gearman
