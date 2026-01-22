@@ -2104,7 +2104,6 @@ fear
 firmers
 flavian
 forerehearsed
-fissipalmate
 forebodies
 facture
 finetop
@@ -7517,6 +7516,7 @@ feazes
 forecastle
 forecastlehead
 fibrocystoma
+fissipalmate
 five
 filemaking
 ferroboron
