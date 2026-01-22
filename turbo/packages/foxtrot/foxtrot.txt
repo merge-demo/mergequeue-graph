@@ -832,6 +832,7 @@ florilege
 faucial
 faun
 fumigating
+fraist
 fecundating
 fenny
 frogeyes
@@ -4215,7 +4216,6 @@ farinosely
 formed
 fireplace
 fiendishness
-fraist
 fussification
 faulkland
 flanky
