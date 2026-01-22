@@ -6877,7 +6877,6 @@ desoxalic
 dichromasy
 decanter
 dialled
-despair
 delirous
 drunken
 dirgeful
@@ -8644,6 +8643,7 @@ downweigh
 discomposingly
 denaturalizing
 defeminised
+despair
 diaspore
 diastalses
 dum
