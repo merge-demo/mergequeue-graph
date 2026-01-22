@@ -3359,6 +3359,7 @@ disconfirmed
 desolator
 dorey
 defleaed
+donsie
 dicotyledons
 detain
 damnum
@@ -15571,7 +15572,6 @@ donovan
 dons
 demonry
 deltahedron
-donsie
 deflocculent
 deathsmen
 donum
