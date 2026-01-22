@@ -3965,7 +3965,6 @@ earshots
 equilibrium
 empanelling
 empanels
-enfamish
 ecumene
 emparchment
 exaltative
@@ -7122,6 +7121,7 @@ epistolising
 egomaniacally
 exoner
 episterna
+enfamish
 echeneidid
 effectuation
 endocervical
