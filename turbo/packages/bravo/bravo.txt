@@ -2492,6 +2492,7 @@ buckraming
 billbugs
 bargaining
 beechwoods
+brabanter
 burian
 bhut
 bedark
@@ -13968,7 +13969,6 @@ brittlest
 ballcarrier
 brontops
 bemeal
-brabanter
 blindfolder
 borderlander
 bloviates
