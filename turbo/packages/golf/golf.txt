@@ -1592,7 +1592,6 @@ gl
 graphology
 gunz
 glycyrrhiza
-goodeniaceous
 gymnospermic
 geulah
 galavant
@@ -2392,6 +2391,7 @@ gushier
 gemmer
 gumphion
 grow
+goodeniaceous
 guianese
 groomed
 gauk
