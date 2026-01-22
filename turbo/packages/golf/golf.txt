@@ -856,7 +856,6 @@ girtline
 gliadin
 gonolobus
 gyratory
-giantesque
 gloriousness
 greeing
 gire
@@ -2554,6 +2553,7 @@ graywall
 guv
 gabbards
 gristy
+giantesque
 gangliasthenia
 goosefish
 galvo

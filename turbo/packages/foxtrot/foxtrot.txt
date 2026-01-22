@@ -2789,6 +2789,7 @@ fertilize
 furriest
 festooneries
 flunkyite
+flections
 festivally
 fourieristic
 flareboard
@@ -3414,7 +3415,6 @@ flerried
 feminising
 forewarmer
 furfurans
-flections
 forthward
 frontoethmoid
 friedcake
