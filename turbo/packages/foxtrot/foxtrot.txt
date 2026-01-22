@@ -3593,7 +3593,6 @@ figurize
 foxery
 filibusterers
 fourble
-fomento
 foundered
 ferroinclave
 fence
@@ -7683,6 +7682,7 @@ flexes
 firth
 firm
 fleawort
+fomento
 fossa
 fidessa
 flinchingly
