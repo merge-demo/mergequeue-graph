@@ -3747,7 +3747,6 @@ aerophilately
 aeroscepsis
 accessorial
 anticipatively
-archivolt
 adhesion
 arbutus
 adhesive
@@ -23694,6 +23693,7 @@ acarpous
 ammodyte
 auricularian
 appealingness
+archivolt
 auriculas
 actinally
 amioidei
