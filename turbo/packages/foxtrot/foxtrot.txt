@@ -3289,6 +3289,7 @@ felicitating
 forbearing
 fairings
 fulgide
+frets
 feture
 flabbergastation
 flexility
@@ -4898,7 +4899,6 @@ fourflushers
 flameouts
 fictileness
 forbiddingness
-frets
 farmhold
 flamers
 foxing
