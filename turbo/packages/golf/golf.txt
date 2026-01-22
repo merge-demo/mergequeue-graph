@@ -2241,6 +2241,7 @@ gonimic
 gapperi
 geopolitik
 guachipilin
+geotilla
 gradation
 glasswort
 gipons
@@ -3166,7 +3167,6 @@ grannam
 gaddis
 glottological
 gorgerin
-geotilla
 grigs
 geotropy
 galvanical
