@@ -1317,6 +1317,7 @@ fleeced
 former
 focimetry
 felstones
+fibrocrystalline
 foxtails
 flutework
 fogginess
@@ -4990,7 +4991,6 @@ flirtationless
 flaperon
 flippantly
 forthgoing
-fibrocrystalline
 flappable
 frankalmoin
 figlike
