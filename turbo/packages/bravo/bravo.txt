@@ -6590,7 +6590,6 @@ berberis
 brunizem
 bournous
 booted
-bagattino
 bladderless
 berchemia
 basipterygial
@@ -6770,6 +6769,7 @@ beround
 bilingual
 bendability
 berreaves
+bagattino
 berret
 berrettas
 bloodred
