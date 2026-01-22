@@ -9629,6 +9629,7 @@ appendices
 arcadic
 abulyeit
 amnionia
+antigone
 anacahuita
 algolagnic
 acis
@@ -19863,7 +19864,6 @@ astraphobia
 armillae
 armillary
 atonies
-antigone
 annist
 ahorse
 achaemenidian
