@@ -8567,6 +8567,7 @@ featherer
 fasciation
 ferules
 favourless
+frondless
 foxhole
 frankhearted
 fornication
@@ -10319,7 +10320,6 @@ fluoridized
 faceman
 fortiori
 flexible
-frondless
 feezing
 federalese
 farouk
