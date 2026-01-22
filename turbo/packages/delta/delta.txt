@@ -3532,6 +3532,7 @@ dawcock
 drumlin
 defunction
 disfrock
+dryopithecinae
 diethylamine
 disenchanter
 dropline
@@ -14093,7 +14094,6 @@ dialist
 dropman
 distribution
 decretum
-dryopithecinae
 dispensable
 deluging
 distributionist
