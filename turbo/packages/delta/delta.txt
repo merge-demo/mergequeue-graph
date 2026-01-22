@@ -16487,7 +16487,6 @@ disjointness
 dishonourable
 debag
 dropwise
-dasyprocta
 domesticities
 diagramming
 dazed
@@ -18572,6 +18571,7 @@ dematerialise
 decentration
 dusked
 ditchdigger
+dasyprocta
 dusky
 dessil
 dozer
