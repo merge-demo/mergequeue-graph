@@ -4069,7 +4069,6 @@ electrotonize
 emil
 entries
 eichhornia
-entoilment
 emplaster
 elevating
 equiponderated
@@ -13292,6 +13291,7 @@ estoile
 epistemologically
 espousers
 elogy
+entoilment
 efformation
 eminences
 ethicalities
