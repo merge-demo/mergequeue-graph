@@ -5524,7 +5524,6 @@ beisance
 bouvier
 broadloom
 bejant
-blintz
 bejel
 brawly
 babist
@@ -9823,6 +9822,7 @@ benzoquinone
 bisubstitution
 babblingly
 bubblebow
+blintz
 boarstaff
 bisulfate
 biblioklept
