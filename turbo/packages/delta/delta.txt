@@ -2256,7 +2256,6 @@ divinifying
 domineerer
 dactylitic
 dutiability
-distractibility
 delicateness
 dustbox
 determinative
@@ -14662,6 +14661,7 @@ dizen
 dlr
 devitalized
 dizoic
+distractibility
 dizzen
 dizzies
 dizzily
