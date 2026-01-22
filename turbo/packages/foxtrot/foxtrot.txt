@@ -3266,7 +3266,6 @@ filopodium
 fiddlestick
 frambesia
 farsight
-fivescore
 fica
 flounces
 fortier
@@ -6156,6 +6155,7 @@ fog
 flrie
 fadeaway
 fulica
+fivescore
 frothier
 fluavile
 flubbed

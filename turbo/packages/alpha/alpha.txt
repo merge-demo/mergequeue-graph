@@ -3213,6 +3213,7 @@ activation
 azaserine
 actuation
 acuaesthesia
+alterable
 achingly
 acidulously
 acuclosure
@@ -9400,7 +9401,6 @@ apicad
 angiosclerotic
 autocinesis
 anticritically
-alterable
 acatery
 alterably
 anchylose
