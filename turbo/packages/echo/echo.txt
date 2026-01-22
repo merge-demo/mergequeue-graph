@@ -4484,7 +4484,6 @@ encephalomeningocele
 evenglome
 endoerythrocytic
 entothorax
-embiidae
 eminent
 encephalomyelitic
 epochally
@@ -5769,6 +5768,7 @@ excl
 englobe
 empressements
 epigraphy
+embiidae
 expressions
 englobed
 enneahedral
