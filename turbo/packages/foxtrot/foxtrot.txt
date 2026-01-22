@@ -5012,7 +5012,6 @@ fessely
 flumps
 flamelet
 fuligo
-fundless
 fumettes
 frsikets
 flagboat
@@ -10989,6 +10988,7 @@ foreweep
 feastly
 furison
 foregone
+fundless
 furfurol
 feign
 fumbles
