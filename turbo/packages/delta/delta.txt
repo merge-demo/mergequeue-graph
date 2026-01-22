@@ -7688,6 +7688,7 @@ devilfish
 decelerators
 decrepit
 devily
+debacles
 detail
 deviling
 deeded
@@ -15961,7 +15962,6 @@ dipterist
 dishmop
 deglutination
 dl
-debacles
 dilogarithm
 dauntlessness
 desuete
