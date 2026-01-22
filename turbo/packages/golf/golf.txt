@@ -1858,7 +1858,6 @@ gyrostabilized
 gleir
 gazehound
 growlery
-guffaw
 gasmaker
 gigantostracan
 gilgai
@@ -7043,6 +7042,7 @@ goosegog
 goyle
 guelphic
 giottesque
+guffaw
 glaces
 gestalter
 gourounut

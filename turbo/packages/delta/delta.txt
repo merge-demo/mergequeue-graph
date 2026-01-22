@@ -4674,7 +4674,6 @@ datatypes
 dunt
 disnaturalize
 dolente
-diamondwise
 diffareation
 disrelish
 demiwolf
@@ -8997,6 +8996,7 @@ distortive
 debel
 depeach
 dicots
+diamondwise
 disembed
 depravate
 dermatoplast
