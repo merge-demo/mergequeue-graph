@@ -10204,6 +10204,7 @@ dormitory
 decillionth
 dishcross
 doblons
+disseisee
 diphthong
 defibrination
 desobligeant
@@ -13570,7 +13571,6 @@ datelines
 doumas
 diving
 disassociated
-disseisee
 dortiship
 disapprover
 donorship
