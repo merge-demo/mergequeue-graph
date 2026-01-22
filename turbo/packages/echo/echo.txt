@@ -8781,6 +8781,7 @@ eldmother
 epithymetical
 extracurial
 elide
+ethos
 exteriorate
 ensellure
 egritude
@@ -13021,7 +13022,6 @@ entastic
 existentially
 esophagectomy
 estafette
-ethos
 elites
 engrapple
 enhazard
