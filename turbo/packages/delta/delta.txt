@@ -8180,7 +8180,6 @@ dart
 drabbets
 diffractions
 dicyema
-diacromyodi
 diactinic
 deemphasizing
 darghin
@@ -15296,6 +15295,7 @@ diluviums
 dolmas
 dolmen
 desubstantiate
+diacromyodi
 dolomedes
 discovery
 dolomite
