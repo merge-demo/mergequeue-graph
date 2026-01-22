@@ -5130,7 +5130,6 @@ feeding
 flued
 flangeway
 futter
-fibs
 footpaddery
 francolin
 finnoc
@@ -11541,6 +11540,7 @@ famulary
 fledgy
 fishings
 famose
+fibs
 fress
 folio
 fretfully
