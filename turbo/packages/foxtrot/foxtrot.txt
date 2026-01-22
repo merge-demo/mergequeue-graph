@@ -1561,7 +1561,6 @@ farrow
 festival
 flowcontrol
 fishbowl
-fauvism
 funk
 fuselage
 fauvisms
@@ -5930,6 +5929,7 @@ fomites
 ferguson
 favism
 firkin
+fauvism
 forecasters
 footscald
 foisty
