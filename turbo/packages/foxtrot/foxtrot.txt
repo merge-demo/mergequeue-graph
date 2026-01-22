@@ -6740,7 +6740,6 @@ focal
 folacin
 falsidical
 foibles
-finder
 farls
 flukiest
 falciform
@@ -10617,6 +10616,7 @@ flucan
 fudgy
 forcipulate
 fishifying
+finder
 festooned
 flabbergasting
 freeby
