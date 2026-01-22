@@ -339,7 +339,6 @@ dummyweed
 disarm
 deltaite
 derecho
-denumberment
 damier
 depasturage
 desalted
@@ -535,6 +534,7 @@ dalmanites
 discocarpous
 dalmatic
 dalt
+denumberment
 dalton
 denomination
 dermaskeleton
