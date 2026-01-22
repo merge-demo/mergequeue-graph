@@ -4009,7 +4009,6 @@ baetuli
 boilermaking
 butcheries
 brevier
-beakerman
 bellite
 beakermen
 bacitracin
@@ -8808,6 +8807,7 @@ buoying
 bindweed
 backlogging
 bacillophobia
+beakerman
 bynedestin
 boilable
 bogyisms
