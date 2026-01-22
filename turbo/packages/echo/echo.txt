@@ -4556,7 +4556,6 @@ epicardiac
 enchequer
 exhauster
 ethnopsychic
-euphemism
 endosarcode
 ethnolinguistics
 eeriest
@@ -6364,6 +6363,7 @@ earthward
 electrooptic
 emulsor
 espagnole
+euphemism
 euskarian
 egested
 eyemark
