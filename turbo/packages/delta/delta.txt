@@ -6414,6 +6414,7 @@ decarburisation
 dozened
 ducats
 desacralization
+dimly
 drizzled
 disputation
 dictatorially
@@ -9957,7 +9958,6 @@ dirigomotor
 dermohemia
 divinable
 dinothere
-dimly
 dimmer
 defensor
 dasyatidae
