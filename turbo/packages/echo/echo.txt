@@ -2651,7 +2651,6 @@ enquiries
 electrosteel
 epispadiac
 ectocornea
-expansum
 evil
 embiidina
 electrostriction
@@ -5816,6 +5815,7 @@ etherizing
 efficace
 electrovalency
 extinctive
+expansum
 exfoliation
 erlkings
 epicele
