@@ -2911,6 +2911,7 @@ elevons
 eurydice
 exclamational
 endogeny
+evennesses
 elfinwood
 exfoliating
 extremity
@@ -11357,7 +11358,6 @@ expensefulness
 eccyesis
 exaristate
 embolism
-evennesses
 eventful
 extraction
 epsom
