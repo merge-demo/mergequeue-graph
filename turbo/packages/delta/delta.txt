@@ -5331,7 +5331,6 @@ duotype
 dentirostral
 drumbeating
 deceptory
-displeasure
 dribbler
 downless
 decorative
@@ -17327,6 +17326,7 @@ dandyish
 dromometer
 defoul
 decrypts
+displeasure
 disrelated
 dubitation
 dronage
