@@ -3721,7 +3721,6 @@ changos
 coconspirator
 ceratites
 circuituously
-caratacus
 cynoidea
 caratch
 chevaline
@@ -20481,6 +20480,7 @@ comparative
 comparatively
 cacophonia
 comparatives
+caratacus
 cpi
 contratabular
 cardiodysesthesia
