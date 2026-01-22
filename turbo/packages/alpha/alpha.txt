@@ -2279,7 +2279,6 @@ argil
 aneurin
 arbtrn
 adderfish
-alaric
 agreer
 arthrozoic
 avoidably
@@ -10977,6 +10976,7 @@ amorally
 adminstration
 actinomorphy
 aesthiology
+alaric
 amorettos
 attainer
 angiogram
