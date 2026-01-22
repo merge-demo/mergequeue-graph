@@ -3377,6 +3377,7 @@ flowcharts
 fiascoes
 foretalk
 featurely
+forbearingly
 fc
 fetishlike
 firmed
@@ -5578,7 +5579,6 @@ fernery
 forepassed
 fireboot
 flyless
-forbearingly
 fullgrownness
 fuddle
 fulgurata
