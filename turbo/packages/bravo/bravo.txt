@@ -7709,7 +7709,6 @@ butterflyer
 blackflies
 bassarisk
 bezils
-boyardom
 babished
 berretta
 batfowls
@@ -15753,6 +15752,7 @@ bathman
 beamster
 biliferous
 bandmasters
+boyardom
 brainiest
 bruyere
 beclogged
