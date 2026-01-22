@@ -5605,6 +5605,7 @@ fulguration
 fluidising
 fireable
 flimsiness
+foederal
 fairleads
 flinch
 fatted
@@ -11135,7 +11136,6 @@ fiats
 frumperies
 flocculence
 fernlike
-foederal
 flywire
 fruitiest
 frumple
