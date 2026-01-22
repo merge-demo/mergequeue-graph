@@ -7937,7 +7937,6 @@ ectozoic
 epimers
 encyclopaedia
 equilobed
-epimysia
 esthesias
 enrollers
 expunger
@@ -9238,6 +9237,7 @@ electra
 exonerative
 exarch
 errants
+epimysia
 espinette
 elayl
 erratas
