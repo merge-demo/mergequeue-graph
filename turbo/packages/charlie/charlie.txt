@@ -14308,7 +14308,6 @@ circumradius
 circumradiuses
 charitable
 claver
-conferring
 cevadilla
 conamed
 circumrotate
@@ -29767,6 +29766,7 @@ crookesite
 chemist
 crookheaded
 crooking
+conferring
 circule
 crooknecked
 concessionaires
