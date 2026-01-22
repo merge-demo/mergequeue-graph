@@ -5452,6 +5452,7 @@ aftercome
 acrostichic
 aftercooler
 autocollimate
+autoing
 ack
 almoning
 aftercrop
@@ -14009,7 +14010,6 @@ allutterly
 aht
 antebrachial
 authorizers
-autoing
 az
 arouses
 aggrandized

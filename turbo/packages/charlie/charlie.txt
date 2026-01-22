@@ -21888,7 +21888,6 @@ cornerbind
 camalig
 conferrers
 cohorn
-counterstain
 capelans
 crotchet
 calabar
@@ -28758,6 +28757,7 @@ cornutine
 chafer
 costliness
 catenary
+counterstain
 cres
 counteraffirmation
 cresc
