@@ -2140,7 +2140,6 @@ gharris
 grossness
 gerontine
 gdinfo
-goers
 garlandlike
 golfings
 gamelang
@@ -2637,6 +2636,7 @@ globulicidal
 gurgeon
 gadling
 gathering
+goers
 greatest
 gastropodan
 globously
