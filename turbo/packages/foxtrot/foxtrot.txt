@@ -9711,7 +9711,6 @@ freakful
 fremd
 fastigiated
 fafaronade
-fissionability
 festinate
 faunch
 facework
@@ -11733,6 +11732,7 @@ floramor
 frights
 fathom
 foliiform
+fissionability
 flneur
 foresin
 fremdly
