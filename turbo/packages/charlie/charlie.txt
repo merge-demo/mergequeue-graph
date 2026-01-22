@@ -17322,6 +17322,7 @@ coarsely
 cranched
 calmness
 coarsened
+cosponsor
 circumsail
 coarseness
 canonizations
@@ -21393,7 +21394,6 @@ cothurni
 credulously
 combfishes
 clocks
-cosponsor
 concision
 corrugation
 concitation
