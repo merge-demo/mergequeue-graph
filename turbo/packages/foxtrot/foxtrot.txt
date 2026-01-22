@@ -7940,6 +7940,7 @@ fragmentary
 fluidifier
 formoxime
 foreshoe
+fontlet
 flection
 filicidal
 fenerate
@@ -8325,7 +8326,6 @@ flytraps
 fusate
 forisfamiliation
 folksy
-fontlet
 ferrotyping
 firmament
 fatherlike
