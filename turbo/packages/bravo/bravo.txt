@@ -12196,7 +12196,6 @@ bolly
 beretta
 bargir
 besit
-brevis
 bacchides
 broomcorn
 budgy
@@ -14651,6 +14650,7 @@ backbites
 blackishness
 bigmouth
 betusked
+brevis
 brasiletto
 brasilin
 bibliomancy
