@@ -15,7 +15,6 @@ frail
 frolicker
 foolish
 fabianist
-falconine
 forcing
 fylker
 fablemaker
@@ -8641,6 +8640,7 @@ footing
 flaunt
 fliffus
 fillebeg
+falconine
 fumistery
 foretastes
 filicoids
