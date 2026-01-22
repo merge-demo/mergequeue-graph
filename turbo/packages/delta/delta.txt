@@ -372,6 +372,7 @@ deindividualize
 dayman
 droughtiness
 detruss
+dyschromatopsia
 daymares
 disseizes
 diarists
@@ -6138,7 +6139,6 @@ distribute
 detractress
 dittograph
 deriding
-dyschromatopsia
 divertor
 dwells
 diplegic
