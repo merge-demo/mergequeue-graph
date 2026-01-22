@@ -1233,7 +1233,6 @@ generalizations
 gruesomest
 groups
 goodship
-galligaskin
 groff
 gravures
 grogged
@@ -6918,6 +6917,7 @@ goodliness
 grassflower
 gynecologists
 geologise
+galligaskin
 grammy
 gorgeousness
 glumous
