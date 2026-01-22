@@ -7174,7 +7174,6 @@ footier
 forthrightly
 frore
 fatherhood
-furcraea
 flocoon
 formedon
 faecalith
@@ -7510,6 +7509,7 @@ fameless
 forecast
 fertility
 fallaciousness
+furcraea
 foams
 ferial
 ferrocyanhydric

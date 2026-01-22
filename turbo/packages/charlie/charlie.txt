@@ -5783,7 +5783,6 @@ chapatti
 cottony
 comminuate
 concinnating
-catechin
 catechisable
 citharoedic
 catechised
@@ -31711,6 +31710,7 @@ cyproterone
 chondromyxoma
 cibolan
 cesuras
+catechin
 carbuncled
 cotyloid
 cuspidor
