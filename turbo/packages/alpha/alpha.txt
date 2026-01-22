@@ -10921,6 +10921,7 @@ affrontiveness
 aquilian
 anapest
 aillt
+algometer
 admin
 atwin
 acquainted
@@ -24921,7 +24922,6 @@ acoelomate
 awake
 awakened
 amminolysis
-algometer
 alopekai
 awakeners
 agravic
