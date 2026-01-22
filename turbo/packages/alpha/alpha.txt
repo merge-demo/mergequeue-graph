@@ -1791,6 +1791,7 @@ anastalsis
 acephali
 afterage
 apprehendable
+argentose
 anthropomorphous
 afterend
 allamanda
@@ -4946,7 +4947,6 @@ aeronat
 aeronaut
 alkalizing
 aeronautic
-argentose
 agama
 aeronautical
 aeronomer
