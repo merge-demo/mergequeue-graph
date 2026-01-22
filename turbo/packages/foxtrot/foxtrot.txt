@@ -9674,6 +9674,7 @@ filosofe
 fanit
 flied
 femes
+forewit
 feaking
 fluing
 fruitgrower
@@ -10941,7 +10942,6 @@ forgetness
 furfuran
 florescent
 fusoid
-forewit
 foreseing
 fooled
 fulzie
