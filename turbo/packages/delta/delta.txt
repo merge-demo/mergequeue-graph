@@ -6021,7 +6021,6 @@ doughbelly
 doover
 diopsis
 diplomats
-deputing
 dolous
 dells
 digitalization
@@ -6414,6 +6413,7 @@ desacralization
 dimly
 drizzled
 disputation
+deputing
 dictatorially
 degenerating
 drugshop
