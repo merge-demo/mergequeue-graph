@@ -26684,6 +26684,7 @@ capellane
 counterattacked
 cacanthrax
 cervid
+capillarity
 counterattacker
 colourful
 caenogenetically
@@ -29215,7 +29216,6 @@ crippleness
 crippler
 cripples
 creaser
-capillarity
 cystomatous
 crippling
 cripplingly
