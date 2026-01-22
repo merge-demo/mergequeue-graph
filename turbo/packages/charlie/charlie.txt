@@ -24203,7 +24203,6 @@ carboxypeptidase
 convoked
 centigram
 convolutedly
-convolution
 convolutional
 convolutions
 convolve
@@ -27261,6 +27260,7 @@ couped
 canner
 cicrumspections
 cocus
+convolution
 calked
 concernment
 czarowitch
