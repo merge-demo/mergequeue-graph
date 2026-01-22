@@ -6635,7 +6635,6 @@ bergamasche
 bergamask
 blastoma
 bobcat
-bronchia
 beezers
 bergaptene
 bimane
@@ -8317,6 +8316,7 @@ barosma
 brass
 blauwbok
 bigeminated
+bronchia
 beachiest
 balkiness
 bixa
