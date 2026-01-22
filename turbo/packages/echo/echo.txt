@@ -7634,6 +7634,7 @@ extrasomatic
 emplead
 electrographite
 enterostasis
+enchilada
 earworms
 eton
 epicrasis
@@ -10633,7 +10634,6 @@ enmoss
 excavate
 eques
 enharmonical
-enchilada
 eudemonistic
 enfacement
 eudemonics
