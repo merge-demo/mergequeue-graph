@@ -2220,7 +2220,6 @@ decasualise
 digitinerved
 docked
 disgavel
-decasualized
 dialectological
 didymous
 decathlons
@@ -15738,6 +15737,7 @@ disgig
 dacryocystocele
 doricism
 dorylinae
+decasualized
 deflectometer
 dakota
 dendrochronologist
