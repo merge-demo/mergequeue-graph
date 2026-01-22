@@ -5356,7 +5356,6 @@ girdle
 gynandromorphic
 goodtemperedness
 glimmer
-groundswell
 generall
 glutinant
 gutwise
@@ -10325,6 +10324,7 @@ gravemaster
 geogonical
 grammaticism
 greenwax
+groundswell
 gelatinigerous
 globulicide
 gnattiest
