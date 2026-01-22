@@ -1297,7 +1297,6 @@ gastropancreatitis
 garget
 gibbousness
 goodie
-goatishness
 gamekeeping
 ginglymoid
 gateward
@@ -5701,6 +5700,7 @@ grieshuckle
 gyrolite
 geelbeck
 gurus
+goatishness
 gratia
 gammons
 goldsmithery
