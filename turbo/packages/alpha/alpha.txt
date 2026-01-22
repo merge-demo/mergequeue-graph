@@ -5974,7 +5974,6 @@ adenectomy
 acapnial
 alhena
 angelica
-anemophilous
 apparence
 anachronistic
 anticommunistic
@@ -18169,6 +18168,7 @@ ambracan
 anemometers
 adenosclerosis
 aeolid
+anemophilous
 allowably
 anticontagiousness
 autolytic
