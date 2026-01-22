@@ -9657,6 +9657,7 @@ espouser
 espouses
 espousing
 esprit
+exhumate
 enterorrhexis
 esq
 existence
@@ -12438,7 +12439,6 @@ exhortingly
 exhorts
 entia
 exaltations
-exhumate
 egoisms
 elusoriness
 esquire
