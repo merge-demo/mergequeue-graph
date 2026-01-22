@@ -5708,6 +5708,7 @@ eneuch
 epitheliolysis
 eudidymite
 egalites
+expostulates
 engineries
 embrace
 eau
@@ -12612,7 +12613,6 @@ effray
 encirclement
 excoriate
 exoculate
-expostulates
 ecclesiasticalness
 exoculation
 exoderm
