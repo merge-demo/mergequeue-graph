@@ -404,7 +404,6 @@ betipple
 bailor
 brigadier
 backlogged
-bearcat
 babbled
 backouts
 bheesties
@@ -4259,6 +4258,7 @@ bitypic
 beriming
 blister
 blunderheadedness
+bearcat
 beaverize
 bacillariales
 beaverkin
