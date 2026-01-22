@@ -12210,7 +12210,6 @@ brachiate
 beginner
 bolloxes
 bolls
-bunkum
 bollworm
 blizzardly
 bronchomycosis
@@ -16442,6 +16441,7 @@ bewitcher
 backfired
 bps
 banditry
+bunkum
 botanising
 brunonism
 bromellite
