@@ -2069,7 +2069,6 @@ fogbows
 fascicule
 flaunting
 forfouchten
-feisty
 fairyisms
 farl
 frothiness
@@ -3744,6 +3743,7 @@ forehold
 flavoury
 fibrocystic
 futilous
+feisty
 foreflipper
 filmet
 filmgoers

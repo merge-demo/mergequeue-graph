@@ -1501,7 +1501,6 @@ antiglyoxalase
 accompanies
 accompanyist
 ampelidae
-aminotransferase
 aphasiac
 arctisca
 accompanimental
@@ -6940,6 +6939,7 @@ aywhere
 aizoon
 antitryptic
 atrioventricular
+aminotransferase
 arborist
 animal
 abiology
