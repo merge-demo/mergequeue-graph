@@ -5895,6 +5895,7 @@ freakiness
 foreshadowing
 falstaffian
 foreworld
+famishing
 flated
 floodgates
 fiercest
@@ -7224,7 +7225,6 @@ fleetings
 forel
 fecial
 flashback
-famishing
 fiorded
 flumed
 footsy
