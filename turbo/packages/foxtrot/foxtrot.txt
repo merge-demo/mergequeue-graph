@@ -1477,7 +1477,6 @@ fractureproof
 filago
 frameable
 fireside
-faubourgs
 furacana
 focussing
 forestial
@@ -11505,6 +11504,7 @@ fusariosis
 flypasts
 firebirds
 forethoughtless
+faubourgs
 fuscin
 frictional
 fuscohyaline
