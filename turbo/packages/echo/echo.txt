@@ -942,6 +942,7 @@ entailments
 euchrone
 effronteries
 erythroblastotic
+excremental
 enhearse
 eudiagnostic
 execution
@@ -6802,7 +6803,6 @@ ethnogenic
 emmenology
 exoticism
 entombs
-excremental
 eviscerator
 entomere
 entomic
