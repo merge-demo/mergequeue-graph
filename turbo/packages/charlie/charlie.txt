@@ -11802,7 +11802,6 @@ coextends
 chop
 consentant
 chopa
-chalcids
 contradictories
 catechisms
 chopdar
@@ -20755,6 +20754,7 @@ complexive
 chrematist
 cytoplast
 chefdoms
+chalcids
 cerebropontile
 complexness
 complexometry
