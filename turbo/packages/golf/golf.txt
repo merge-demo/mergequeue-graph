@@ -9091,7 +9091,6 @@ garotte
 governableness
 grumose
 guttation
-geophagist
 guillemet
 grindable
 glossier
@@ -9991,6 +9990,7 @@ gargled
 gleaner
 gelatinify
 galago
+geophagist
 gaslike
 gateau
 gudame
