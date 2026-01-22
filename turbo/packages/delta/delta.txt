@@ -12850,7 +12850,6 @@ downhaul
 dyemaking
 daubs
 devolutive
-deliquiesce
 demiparadise
 dismals
 dithalous
@@ -15987,6 +15986,7 @@ decarbonate
 dotkin
 dudish
 dottiest
+deliquiesce
 dotlet
 derrickman
 devocalize
