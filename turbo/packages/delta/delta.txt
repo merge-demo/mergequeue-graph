@@ -3209,7 +3209,6 @@ dolichocnemic
 drunkards
 demoniac
 defenceable
-dekle
 defencive
 dents
 defend
@@ -11418,6 +11417,7 @@ disclosure
 diplomaed
 determinating
 duplicitous
+dekle
 downstream
 didache
 dipleiodoscope
