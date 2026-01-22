@@ -12342,6 +12342,7 @@ andrena
 anopluriform
 andrewartha
 albitophyre
+anteroclusion
 appropre
 adenomeningeal
 amblyopic
@@ -20690,7 +20691,6 @@ allelomorph
 alder
 anacrotic
 abounder
-anteroclusion
 auriculovertical
 atrichosis
 angami
