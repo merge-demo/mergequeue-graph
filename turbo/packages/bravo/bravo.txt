@@ -9564,7 +9564,6 @@ bicipitous
 boarfish
 barbacoan
 brokenly
-bisagre
 basidium
 buccaro
 bullnecked
@@ -12116,6 +12115,7 @@ bafaro
 bultey
 beloid
 burbler
+bisagre
 backstop
 boldly
 baedekers
