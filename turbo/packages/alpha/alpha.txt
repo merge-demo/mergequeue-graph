@@ -2634,7 +2634,6 @@ almacenista
 alangine
 anomaliflorous
 ashkenazim
-acquitter
 agnates
 acrab
 anacleticum
@@ -10425,6 +10424,7 @@ acanthoma
 aponogetonaceous
 amianthus
 arcform
+acquitter
 amyatonic
 amic
 amicability
