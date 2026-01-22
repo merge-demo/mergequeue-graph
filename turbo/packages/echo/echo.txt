@@ -4446,7 +4446,6 @@ eringoes
 enneadianome
 ezekiel
 encastre
-encastrement
 enterocoel
 encaustically
 efferent
@@ -4790,6 +4789,7 @@ encores
 ereptic
 enemas
 epicranium
+encastrement
 especially
 einkorns
 equivocality
