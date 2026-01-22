@@ -3532,7 +3532,6 @@ derivably
 dawcock
 drumlin
 defunction
-deul
 disfrock
 diethylamine
 disenchanter
@@ -16280,6 +16279,7 @@ deadlocking
 dacryolite
 dipsaceous
 denominationalist
+deul
 desiderant
 dowels
 decrown

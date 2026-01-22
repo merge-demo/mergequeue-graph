@@ -5557,7 +5557,6 @@ essexite
 evaporate
 electrologic
 ectognatha
-equalization
 epidendrum
 elutions
 enfold
@@ -6866,6 +6865,7 @@ ergotoxin
 epaulets
 entomosporium
 ellipsoidal
+equalization
 endangered
 electrum
 endamageable
