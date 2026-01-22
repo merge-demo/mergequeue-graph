@@ -11380,6 +11380,7 @@ admire
 ampul
 admonitory
 anhydremia
+annam
 apodosis
 ampullary
 ampullate
@@ -19268,7 +19269,6 @@ arefact
 areg
 armchair
 arena
-annam
 auditives
 anthocyan
 accoyed
