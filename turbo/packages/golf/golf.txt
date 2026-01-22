@@ -1246,7 +1246,6 @@ grassman
 gratify
 garbill
 guyline
-goosebone
 ganomalite
 garbler
 gradings
@@ -6459,6 +6458,7 @@ guanare
 gangrenate
 gapeworms
 gurry
+goosebone
 glycols
 guirlande
 ghazel
