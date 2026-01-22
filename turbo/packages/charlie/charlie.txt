@@ -9590,7 +9590,6 @@ cheekiest
 cheekiness
 cheeking
 claustrophobiac
-cheekless
 cheeney
 cheep
 courtierism
@@ -31853,6 +31852,7 @@ cutleries
 cutlers
 condenseries
 cashable
+cheekless
 cutline
 cunts
 currycombed
