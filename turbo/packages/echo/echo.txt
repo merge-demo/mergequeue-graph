@@ -4526,6 +4526,7 @@ ee
 epidiorthosis
 escuela
 excoction
+evenlight
 euphemized
 eleazar
 edictum
@@ -7164,7 +7165,6 @@ euphonym
 enchesoun
 ensample
 enzootically
-evenlight
 exposed
 evaluators
 endodontium
