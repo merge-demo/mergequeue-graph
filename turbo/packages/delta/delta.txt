@@ -8213,7 +8213,6 @@ diadochic
 diadochite
 diadochokinesia
 diaene
-diaeretic
 dartsman
 detoxicated
 diageotropic
@@ -11656,6 +11655,7 @@ discordance
 dedenda
 discordancy
 deregulating
+diaeretic
 discordancies
 discordant
 dialling
