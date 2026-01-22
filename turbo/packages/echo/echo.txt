@@ -853,6 +853,7 @@ endophyte
 ectomorph
 ectoparasite
 exemptionist
+eudaemonist
 euxanthic
 emoloa
 ectoparasitica
@@ -8906,7 +8907,6 @@ egestive
 essive
 epiphanies
 errhine
-eudaemonist
 erical
 exoskeletal
 eteoclus
