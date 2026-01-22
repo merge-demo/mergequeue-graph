@@ -7867,6 +7867,7 @@ gametangium
 goi
 gounau
 gentleheartedness
+gunshop
 garbless
 guyana
 granny
@@ -10615,7 +10616,6 @@ gasping
 gentled
 gimmickry
 gracelessness
-gunshop
 gulches
 gunsmithing
 gavelage
