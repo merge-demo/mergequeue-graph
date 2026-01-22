@@ -6073,7 +6073,6 @@ ferrer
 frondeur
 fortnights
 fervidity
-freighter
 feistiest
 filical
 fatheaded
@@ -7050,6 +7049,7 @@ fossiform
 fanger
 forcut
 farles
+freighter
 felix
 fullness
 formfeeds
