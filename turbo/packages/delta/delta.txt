@@ -10787,7 +10787,6 @@ dixies
 dissave
 discolorate
 deviates
-departing
 directors
 directorships
 desugared
@@ -17900,6 +17899,7 @@ duelling
 duellist
 diplomata
 dillydallies
+departing
 debromination
 disgrace
 deterministically
