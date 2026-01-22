@@ -9948,6 +9948,7 @@ gritless
 geocratic
 guarrau
 glegness
+garbanzos
 glyptic
 googols
 gipsyfy
@@ -10371,7 +10372,6 @@ generators
 giddied
 gainsome
 gargoyled
-garbanzos
 gunda
 griddles
 glycyls
