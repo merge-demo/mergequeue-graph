@@ -10947,7 +10947,6 @@ blindworm
 backscratcher
 blackamoor
 bumps
-biloquist
 biclinia
 barth
 bourrees
@@ -11263,6 +11262,7 @@ bertrand
 blotto
 blottto
 bigwiggism
+biloquist
 botteghe
 bloodguiltiness
 begirdled
