@@ -1763,6 +1763,7 @@ anagennesis
 amassable
 adulce
 acemila
+apostolically
 antilepton
 allocthonous
 ahaaina
@@ -15201,7 +15202,6 @@ affiancer
 androtauric
 antifibrinolysin
 antifibrinolysis
-apostolically
 atomies
 antifire
 anacoenoses
