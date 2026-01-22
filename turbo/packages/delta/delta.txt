@@ -2331,7 +2331,6 @@ deceptively
 dermatologic
 deceptiveness
 deafnesses
-dextrotropic
 decerebrate
 drinkably
 dustup
@@ -17780,6 +17779,7 @@ ducdame
 diplocoria
 defector
 duchan
+dextrotropic
 diagraph
 demythologize
 dorsigrade
