@@ -12834,7 +12834,6 @@ crabbedly
 cognisance
 chauth
 churchite
-cirrhopod
 ceratitidae
 cosmogonic
 cookers
@@ -25554,6 +25553,7 @@ corp
 corpn
 corporacy
 corporacies
+cirrhopod
 calcic
 corporalcy
 corporale
