@@ -1321,6 +1321,7 @@ goodness
 greekless
 groundling
 gristbite
+galahad
 gignate
 gra
 ganoine
@@ -7198,7 +7199,6 @@ globosite
 gymnocarpous
 gizzen
 gromatical
-galahad
 gonoblastidial
 grabbler
 globulose
