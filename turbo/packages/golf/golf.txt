@@ -6128,6 +6128,7 @@ gnapweed
 gallification
 grammar
 gowiddie
+goldspink
 goblinry
 generalizing
 gyre
@@ -6345,7 +6346,6 @@ galericulate
 gastrotrich
 given
 getspace
-goldspink
 glimmered
 gunmetals
 glucosone
