@@ -804,6 +804,7 @@ gonia
 gambe
 gourmanderie
 gambeered
+gutturalization
 glauke
 greenlandite
 gastrostenosis
@@ -10259,7 +10260,6 @@ getid
 grotianism
 gempylid
 gemelled
-gutturalization
 groaningly
 galerie
 gry
