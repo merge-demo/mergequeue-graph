@@ -4101,6 +4101,7 @@ emplecton
 employability
 evenly
 electrovalence
+enforcible
 employe
 estado
 etamin
@@ -12034,7 +12035,6 @@ enlivenment
 enwwove
 excoriations
 epiclike
-enforcible
 elflike
 exotoxins
 embalmed
