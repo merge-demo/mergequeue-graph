@@ -2009,6 +2009,7 @@ baning
 bandcutter
 banisher
 banishing
+boerdom
 banishment
 banyuls
 baniva
@@ -2539,7 +2540,6 @@ blepharocoloboma
 besnare
 bs
 bilamellar
-boerdom
 begster
 birk
 backlists
