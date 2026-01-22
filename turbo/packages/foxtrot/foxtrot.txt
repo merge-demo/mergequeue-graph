@@ -2300,6 +2300,7 @@ formulable
 flotation
 foreface
 fistulizing
+flatterous
 fenestrae
 feminizing
 fanglement
@@ -11387,7 +11388,6 @@ footmanry
 faceharden
 flustrum
 fisticuffing
-flatterous
 fleurette
 filminess
 flushboard
