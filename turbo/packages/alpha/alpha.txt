@@ -763,7 +763,6 @@ asyle
 acetate
 autostrada
 abridgable
-anticlassicalist
 antiscia
 abitibi
 abridgement
@@ -18224,6 +18223,7 @@ adventurement
 ampelis
 aphanomyces
 aquifer
+anticlassicalist
 avanturine
 actifier
 antispiritualist
