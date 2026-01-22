@@ -5169,6 +5169,7 @@ gerbils
 gentianose
 gieseckite
 grenadine
+gravities
 gena
 guazzo
 geogenesis
@@ -6077,7 +6078,6 @@ gude
 galga
 guffy
 geogen
-gravities
 goodby
 gordiacean
 girja
