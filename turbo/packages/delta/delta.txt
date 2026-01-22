@@ -2246,6 +2246,7 @@ debase
 dinoflagellatae
 dungeonlike
 drummed
+doublet
 diploses
 diapyetic
 deceiving
@@ -14235,7 +14236,6 @@ daboia
 defenselessly
 derotrematous
 disyoked
-doublet
 disvisor
 dungs
 dynamoelectric
