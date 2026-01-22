@@ -8135,7 +8135,6 @@ actinula
 antependium
 alhambraic
 asteria
-apogeotropically
 alhenna
 alia
 atavist
@@ -13148,6 +13147,7 @@ arthrosteitis
 astraean
 animallike
 apozemical
+apogeotropically
 accouterments
 adapter
 achieves
