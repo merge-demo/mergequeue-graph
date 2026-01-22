@@ -14645,6 +14645,7 @@ divvy
 derating
 depressing
 docmac
+dirling
 dixain
 decentre
 decameter
@@ -15312,7 +15313,6 @@ dialler
 diffuse
 diasporas
 dolphin
-dirling
 diospyros
 dolphinlike
 decadescent
