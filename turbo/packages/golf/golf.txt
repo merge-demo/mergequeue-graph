@@ -2413,6 +2413,7 @@ grocers
 gulper
 guativere
 graphotypic
+gangplow
 grazing
 geologian
 gesticulation
@@ -3860,7 +3861,6 @@ gulonic
 graupel
 genioplasty
 genetrix
-gangplow
 gemological
 gonotome
 grippier
