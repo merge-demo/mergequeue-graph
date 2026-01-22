@@ -2712,7 +2712,6 @@ gusle
 grith
 gemmoid
 goidel
-genit
 gnatho
 groundmass
 glozing
@@ -7540,6 +7539,7 @@ gruntle
 geophyte
 gamash
 gaspiness
+genit
 grangeriser
 geothlypis
 guardless
