@@ -14332,7 +14332,6 @@ duotones
 desireable
 dict
 ditt
-desulfovibrio
 device
 dunter
 diffidation
@@ -14568,6 +14567,7 @@ degomme
 distill
 divisional
 diachronicness
+desulfovibrio
 durio
 divisionary
 duplicately
