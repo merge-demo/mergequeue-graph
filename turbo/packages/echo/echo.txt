@@ -8747,7 +8747,6 @@ eradicable
 enticement
 excogitator
 eradicant
-epineolithic
 equilibrity
 enround
 electrodepositable
@@ -11517,6 +11516,7 @@ eviting
 evangeline
 emprize
 endosteitis
+epineolithic
 edital
 enviable
 ensign
