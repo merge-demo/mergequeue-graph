@@ -11552,7 +11552,6 @@ deepmouthed
 dimethyls
 degenerations
 derivers
-discompliance
 dowry
 discomposed
 deaccessioned
@@ -13789,6 +13788,7 @@ disadventure
 disenshroud
 desugaring
 doom
+discompliance
 degression
 damndests
 dangering
