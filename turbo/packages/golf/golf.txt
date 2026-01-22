@@ -7996,6 +7996,7 @@ gentilize
 gabby
 grayer
 goatbeard
+gaumish
 graphologist
 glycosides
 guildry
@@ -10272,7 +10273,6 @@ gervase
 guarantorship
 gonimoblast
 guitar
-gaumish
 grotesquery
 grecque
 geoform
