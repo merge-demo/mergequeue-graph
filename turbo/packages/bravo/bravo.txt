@@ -17270,7 +17270,6 @@ bumboat
 bumclock
 biguttulate
 batling
-boltings
 birddom
 braguette
 brite
@@ -17996,6 +17995,7 @@ beguiler
 beadeyes
 biogeographers
 bobbles
+boltings
 babbool
 bennel
 bagle
