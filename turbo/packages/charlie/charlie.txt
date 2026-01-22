@@ -9197,7 +9197,6 @@ ceduous
 chastiment
 chastise
 chastiser
-consulships
 clapperboard
 cheering
 corf
@@ -25963,6 +25962,7 @@ corviser
 corvo
 chapel
 chamade
+consulships
 corvoid
 corvorant
 cantiga
