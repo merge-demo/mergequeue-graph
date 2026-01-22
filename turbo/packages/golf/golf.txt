@@ -5254,6 +5254,7 @@ gemitores
 gossoons
 glyoxilin
 glacialism
+glutael
 granitical
 graveling
 geometries
@@ -8342,7 +8343,6 @@ guru
 glycoluric
 grandstander
 glides
-glutael
 gladsomeness
 ganoid
 granites
