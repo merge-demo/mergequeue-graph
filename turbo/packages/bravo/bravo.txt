@@ -5935,7 +5935,6 @@ brandenburgs
 biggety
 buffaloes
 blatherer
-belauding
 barquest
 bimetalic
 belter
@@ -9992,6 +9991,7 @@ biases
 bivalence
 blethering
 byelaw
+belauding
 biland
 betrap
 bergerette
