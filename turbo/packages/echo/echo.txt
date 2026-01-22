@@ -4311,6 +4311,7 @@ enamelless
 eluder
 emit
 edibles
+eustatically
 etamines
 enami
 enamorado
@@ -14102,7 +14103,6 @@ extricably
 egbo
 ericad
 emissile
-eustatically
 enzymically
 extendedness
 epiphyses
