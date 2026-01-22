@@ -1669,6 +1669,7 @@ electromerism
 enodation
 electrotaxis
 emigr
+eurhythmic
 ejusdem
 eyeish
 eisteddfodic
@@ -10967,7 +10968,6 @@ eurasianism
 eremites
 excludes
 electrizing
-eurhythmic
 echeloot
 eoside
 eigenfrequency
