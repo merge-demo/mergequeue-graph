@@ -6050,6 +6050,7 @@ dactyliographic
 der
 deboites
 dendrometer
+domatium
 deracinating
 demasculinising
 domiciliar
@@ -17289,7 +17290,6 @@ donnee
 droit
 drokpa
 dauner
-domatium
 droll
 deniers
 dentiform
