@@ -4723,7 +4723,6 @@ galleta
 gunjah
 genarch
 glar
-gypsy
 globes
 grifter
 garrnishable
@@ -10012,6 +10011,7 @@ goldfinny
 glastonbury
 greenfinch
 guardstone
+gypsy
 gloatingly
 graybeard
 gigantostracous
