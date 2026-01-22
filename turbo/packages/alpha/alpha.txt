@@ -208,6 +208,7 @@ abbevillian
 abolishments
 acridyl
 ambystomidae
+aglypha
 apotactite
 alantolic
 apteran
@@ -6092,7 +6093,6 @@ arbitrated
 alfaquis
 ahey
 alois
-aglypha
 analogal
 asymtotically
 aglyphodont
