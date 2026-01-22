@@ -2229,6 +2229,7 @@ fulgurate
 fuliguline
 freezing
 flatcars
+furans
 foxy
 fructosan
 flapjacks
@@ -11250,7 +11251,6 @@ filibusterer
 forrit
 facilitates
 funster
-furans
 frate
 furacious
 fireplaces
