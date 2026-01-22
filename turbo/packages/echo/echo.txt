@@ -2778,6 +2778,7 @@ estrangements
 elementalize
 ephori
 elementaloid
+encincture
 eidology
 emperil
 encoronate
@@ -13322,7 +13323,6 @@ ephoralty
 exponency
 educated
 exponentiates
-encincture
 exponention
 elephantopus
 enduement
