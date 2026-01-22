@@ -6623,6 +6623,7 @@ beresite
 beret
 brangler
 berets
+brawliest
 berewick
 biunity
 banquettes
@@ -7184,7 +7185,6 @@ besra
 berhymes
 bullyboys
 bathmic
-brawliest
 bevatron
 brambliest
 bifoliate
