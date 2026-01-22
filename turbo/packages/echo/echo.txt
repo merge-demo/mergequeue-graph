@@ -1799,7 +1799,6 @@ exoclinal
 exhorters
 een
 erodium
-effetely
 enamors
 encroached
 egotheism
@@ -4951,6 +4950,7 @@ effuses
 enschedule
 emplume
 endemicity
+effetely
 epichirema
 electrofused
 eco
