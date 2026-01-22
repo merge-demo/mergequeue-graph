@@ -3226,6 +3226,7 @@ bowker
 balak
 basilect
 bloodwit
+behove
 begunk
 beautifying
 bisalt
@@ -17696,7 +17697,6 @@ brachioganoid
 basker
 bumblekite
 banbury
-behove
 bracteolate
 bismosol
 butteriness
