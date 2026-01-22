@@ -5171,7 +5171,6 @@ caprylene
 cackle
 cacogastric
 casemaking
-casemates
 casements
 copolar
 caseolysis
@@ -5611,6 +5610,7 @@ catchalls
 compunctionary
 catallactic
 catallum
+casemates
 cladocerans
 catalo
 cataloes
