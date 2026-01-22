@@ -13210,7 +13210,6 @@ cyclizes
 cauld
 cistrons
 chlorogenine
-coulometric
 cycloaliphatic
 chorogi
 cycloalkane
@@ -27446,6 +27445,7 @@ citrous
 chronicity
 covalences
 covalency
+coulometric
 carpoptosis
 coriander
 covalent
