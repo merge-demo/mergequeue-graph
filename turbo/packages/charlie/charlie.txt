@@ -7398,7 +7398,6 @@ cephalotrocha
 cephalotus
 cephalous
 cephas
-cepheid
 conchucu
 cepheids
 cephen
@@ -22893,6 +22892,7 @@ costae
 conserver
 cassaba
 couchette
+cepheid
 ceratoid
 conservers
 colposcope
