@@ -185,7 +185,6 @@ gelled
 garred
 glaky
 glazing
-glede
 garbage
 gager
 gastronomic
@@ -3517,6 +3516,7 @@ garmentworker
 gerate
 ganglions
 gymnorhina
+glede
 geomagnetist
 gluconeogenesis
 grugru
