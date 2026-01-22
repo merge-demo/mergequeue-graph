@@ -5797,6 +5797,7 @@ greekish
 gymnospermous
 gedrite
 golliwog
+geistlich
 gardeny
 geocarpic
 gastriloquy
@@ -7672,7 +7673,6 @@ geomyid
 goldworker
 gamins
 grouf
-geistlich
 glassing
 gos
 gliomatous
