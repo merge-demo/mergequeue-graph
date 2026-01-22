@@ -3286,6 +3286,7 @@ felicitating
 forbearing
 fairings
 fulgide
+fibroareolar
 frets
 feture
 flabbergastation
@@ -6165,7 +6166,6 @@ feebless
 feebling
 frequency
 furbished
-fibroareolar
 flisked
 formicating
 fakeries
