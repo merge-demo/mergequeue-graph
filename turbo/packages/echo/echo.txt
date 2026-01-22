@@ -12357,6 +12357,7 @@ electrization
 erodibility
 exhalents
 endocarditic
+eurhodol
 etude
 entermise
 ethene
@@ -13160,7 +13161,6 @@ epigynous
 enhancive
 endognathal
 edriophthalmic
-eurhodol
 expertness
 equiconvex
 erythea
