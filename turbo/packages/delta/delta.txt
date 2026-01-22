@@ -2143,6 +2143,7 @@ decantist
 decapitation
 deterrable
 decapitations
+dopa
 disassemble
 distresses
 downfall
@@ -15665,7 +15666,6 @@ didascaliae
 diobely
 devilishly
 doozies
-dopa
 disaffiliating
 demobilisation
 drossed
