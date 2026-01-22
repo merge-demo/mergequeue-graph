@@ -16940,6 +16940,7 @@ ambrite
 animotheism
 apishamore
 aceturic
+armlike
 axels
 agamis
 alfa
@@ -19898,7 +19899,6 @@ armlets
 aiguellette
 asymbiotic
 aeolis
-armlike
 armlock
 autoconvection
 armoracia
