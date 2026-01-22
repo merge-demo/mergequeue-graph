@@ -5637,6 +5637,7 @@ amphidromia
 amphistomatic
 aggrace
 ardeid
+ampule
 agal
 agalactic
 appoggiaturas
@@ -17798,7 +17799,6 @@ adonia
 ablaze
 apport
 apportionable
-ampule
 apportioner
 antiquitarian
 antiproductionist
