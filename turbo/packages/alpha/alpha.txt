@@ -9314,7 +9314,6 @@ areole
 alphas
 alpheus
 attenuations
-arbitratorship
 alectoridine
 amphicarpus
 alphyls
@@ -17033,6 +17032,7 @@ apocha
 automorphic
 apochromatism
 archimorula
+arbitratorship
 albus
 ascitic
 auriscalp
