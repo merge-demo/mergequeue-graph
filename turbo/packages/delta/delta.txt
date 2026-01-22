@@ -1479,7 +1479,6 @@ dispulp
 deckhouses
 dazes
 dazzle
-dawnstreak
 discriminative
 diffusor
 discolorated
@@ -13080,6 +13079,7 @@ devaster
 duckish
 disesteeming
 dispatches
+dawnstreak
 drillings
 dimethylsulfoxide
 discocarpium
