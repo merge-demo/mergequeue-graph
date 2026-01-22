@@ -255,6 +255,7 @@ foetors
 faders
 fainaigue
 foamy
+forefended
 firedamp
 fadge
 furfuramide
@@ -10031,7 +10032,6 @@ foolheadedness
 falseness
 fireblende
 flattie
-forefended
 forecasted
 foeish
 fleshling
