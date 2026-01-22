@@ -2232,7 +2232,6 @@ akinesia
 acyrological
 achromoderma
 abovesaid
-amygdalolith
 articulability
 allows
 achronism
@@ -25150,6 +25149,7 @@ apron
 antirabies
 axiomatical
 axiomatically
+amygdalolith
 affodill
 axiomatization
 angiomyoma
