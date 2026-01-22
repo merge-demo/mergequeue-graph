@@ -2850,7 +2850,6 @@ bicep
 brashiest
 blanketless
 barrad
-bridebowl
 boskage
 biform
 bashawism
@@ -8379,6 +8378,7 @@ brulot
 baryphony
 bovaristic
 beveto
+bridebowl
 bankside
 borrachio
 bopyridae
