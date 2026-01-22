@@ -10615,6 +10615,7 @@ exodium
 elaterid
 eudaimonia
 eudaimonist
+electroscission
 eric
 eudemonic
 epappose
@@ -11330,7 +11331,6 @@ equidifferent
 epitrochlear
 evenfall
 ennerve
-electroscission
 eupnoeic
 enervative
 embellished
