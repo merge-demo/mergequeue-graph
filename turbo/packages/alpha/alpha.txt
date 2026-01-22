@@ -42,7 +42,6 @@ autopsist
 accessorily
 aquativeness
 astrakhan
-alcyone
 achira
 allusively
 arcella
@@ -15787,6 +15786,7 @@ acenesthesia
 agujon
 asport
 antiphona
+alcyone
 aminobarbituric
 antieugenic
 antiphonally
