@@ -10070,6 +10070,7 @@ earclip
 etheostominae
 epitonium
 elytroid
+endive
 endgame
 extrinsic
 exasperates
@@ -10123,7 +10124,6 @@ emballonurid
 eupion
 exchange
 exemplifier
-endive
 earstone
 epithalami
 errs
