@@ -13656,7 +13656,6 @@ elongating
 extenuate
 emblematized
 extenuates
-empicture
 eerier
 eliminates
 enfurrow
@@ -13707,6 +13706,7 @@ ecumenicity
 externalized
 externalizes
 earbash
+empicture
 exocardial
 evolutionist
 elizabeth
