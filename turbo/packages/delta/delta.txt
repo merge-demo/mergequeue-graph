@@ -4734,6 +4734,7 @@ dismisser
 demodulating
 designless
 dwaibly
+diffeomorphism
 deaconing
 discreetness
 demihag
@@ -8847,7 +8848,6 @@ dovens
 dibstone
 doziness
 depthwise
-diffeomorphism
 debituminize
 deflexure
 domiciliating
