@@ -11484,7 +11484,6 @@ disuniform
 denominator
 daps
 demerse
-disconformity
 disseminates
 demiparallel
 deepened
@@ -15989,6 +15988,7 @@ dottiest
 dotlet
 derrickman
 devocalize
+disconformity
 distressedly
 danios
 dinheiro
