@@ -8427,7 +8427,6 @@ actionist
 allicholly
 alkanethiol
 antherine
-alkanets
 antinomy
 amebocyte
 autophyllogeny
@@ -24381,6 +24380,7 @@ autorhythmus
 autophagi
 accurately
 aryl
+alkanets
 aneurysmatic
 authorly
 amaroidal
