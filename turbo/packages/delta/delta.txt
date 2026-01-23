@@ -3441,7 +3441,6 @@ deprecation
 defluent
 debyes
 disassociating
-doffed
 dictyoxylon
 doigte
 demimark
@@ -15400,6 +15399,7 @@ disobstruct
 dearn
 dragginess
 domiciles
+doffed
 domiciliate
 domiciliated
 demineralizer
