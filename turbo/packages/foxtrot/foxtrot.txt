@@ -65,6 +65,7 @@ fconv
 fabulously
 facebar
 facebow
+flavanthrone
 fenchone
 flagships
 flecken
@@ -9862,7 +9863,6 @@ frouncing
 funge
 feria
 fundatorial
-flavanthrone
 fogeys
 furloughs
 forepointer
