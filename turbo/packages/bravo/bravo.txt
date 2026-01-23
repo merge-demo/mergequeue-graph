@@ -5495,6 +5495,7 @@ becapping
 beylic
 birdwoman
 bowieful
+buccolabial
 boort
 bringdown
 bawty
@@ -16644,7 +16645,6 @@ bachelors
 boother
 brember
 balza
-buccolabial
 bucconinae
 buccopharyngeal
 bucculae
