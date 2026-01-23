@@ -10184,7 +10184,6 @@ capsicum
 chestiness
 chiapanec
 chiapanecan
-chlorochrous
 compurgatory
 carps
 chamomilla
@@ -10952,6 +10951,7 @@ chirometer
 chiromys
 cryostase
 chalcioecus
+chlorochrous
 chela
 chironym
 caecum
