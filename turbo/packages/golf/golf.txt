@@ -2926,7 +2926,6 @@ geocyclic
 garoter
 gnat
 geraldine
-gorsy
 glideless
 gynaecocracies
 gunfighters
@@ -7799,6 +7798,7 @@ gasometric
 guttide
 gtc
 gun
+gorsy
 guhayna
 germlike
 gond
