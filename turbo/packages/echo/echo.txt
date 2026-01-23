@@ -9169,7 +9169,6 @@ erotema
 edenize
 electrofuse
 eroteme
-endyma
 electrotherapeutist
 erotic
 emmew
@@ -10968,6 +10967,7 @@ excludes
 electrizing
 echeloot
 eoside
+endyma
 eigenfrequency
 escobita
 embarrassingly
