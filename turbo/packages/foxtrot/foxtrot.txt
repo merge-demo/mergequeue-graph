@@ -7429,6 +7429,7 @@ fencelet
 forevalue
 firstship
 forcibility
+flavin
 forcibleness
 filosa
 furnacite
@@ -9939,7 +9940,6 @@ freckled
 fa
 frigates
 flocculated
-flavin
 frightens
 frighting
 friedrichsdor
