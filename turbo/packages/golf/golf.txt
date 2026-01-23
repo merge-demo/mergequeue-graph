@@ -741,6 +741,7 @@ gerbillinae
 goniometric
 greenshank
 gasted
+gasiform
 galvanology
 geomechanics
 gombeen
@@ -8029,7 +8030,6 @@ gesning
 gentlewoman
 gybes
 glandularly
-gasiform
 gribane
 geophilidae
 gaiters
