@@ -11347,7 +11347,6 @@ ampler
 amplexicaul
 amphictyonic
 anomiacea
-alchemising
 artels
 anagrammatization
 alupag
@@ -13613,6 +13612,7 @@ anodically
 anodyne
 anaphroditous
 anodized
+alchemising
 abaisance
 acoelomous
 artefacts
