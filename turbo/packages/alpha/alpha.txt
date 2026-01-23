@@ -4452,6 +4452,7 @@ advance
 antiphoner
 azurine
 arriet
+asymmetron
 advancedness
 anagenetic
 archimperial
@@ -21339,7 +21340,6 @@ asymmetric
 antimythical
 acknowledgement
 asymmetries
-asymmetron
 afridi
 asymptomatic
 alizarin
