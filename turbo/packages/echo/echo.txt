@@ -10961,7 +10961,6 @@ emydea
 estufa
 eurafric
 eurasianism
-eremites
 excludes
 electrizing
 echeloot
@@ -11083,6 +11082,7 @@ encage
 effeminised
 entune
 eponymous
+eremites
 emulated
 eloped
 emblemish
