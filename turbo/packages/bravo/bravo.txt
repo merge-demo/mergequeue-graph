@@ -13280,7 +13280,6 @@ botanica
 bandoleered
 batons
 bacteriologically
-bradykinesis
 balantidiasis
 bivaulted
 botanically
@@ -16929,6 +16928,7 @@ barretry
 brassbound
 beneficiate
 banditti
+bradykinesis
 bugeyes
 baddy
 buggered
