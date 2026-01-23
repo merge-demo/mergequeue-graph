@@ -3468,7 +3468,6 @@ barbascoes
 barrages
 bagworms
 blotlessness
-biennium
 boyla
 biosis
 batarde
@@ -5070,6 +5069,7 @@ befile
 bebathe
 befilmed
 befilth
+biennium
 bathoses
 bucchero
 befire
