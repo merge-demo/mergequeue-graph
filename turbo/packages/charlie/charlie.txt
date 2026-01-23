@@ -10340,7 +10340,6 @@ chickpeas
 chickstone
 consultory
 canariote
-chickwit
 chicle
 chicly
 chicness
@@ -12265,6 +12264,7 @@ capilotade
 cresylite
 christen
 christendie
+chickwit
 christener
 cleanhearted
 christening
