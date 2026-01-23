@@ -6046,6 +6046,7 @@ enlightenedly
 enlistments
 erasion
 elastomeric
+expection
 eranthis
 expostulated
 encomienda
@@ -9387,7 +9388,6 @@ extraordinarily
 exactus
 explainer
 endeavor
-expection
 electroretinographic
 enstool
 echeneid
