@@ -21541,7 +21541,6 @@ concretized
 cardsharping
 comblike
 concretor
-climes
 cupuliform
 cubital
 cupromanganese
@@ -30295,6 +30294,7 @@ civvy
 compressions
 crumpled
 chorten
+climes
 crumply
 cargoose
 crumps
