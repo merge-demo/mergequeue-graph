@@ -2539,7 +2539,6 @@ chaldaical
 candlefishes
 collogued
 candleholder
-candlelight
 candlelighter
 chaloth
 confraternities
@@ -6453,6 +6452,7 @@ clinandria
 cavalieri
 chondropterygii
 cavalierishness
+candlelight
 cavalierism
 cavalierly
 convivial
