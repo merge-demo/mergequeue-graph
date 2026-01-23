@@ -8782,6 +8782,7 @@ eldmother
 epithymetical
 extracurial
 elide
+ephraim
 ethos
 exteriorate
 ensellure
@@ -11735,7 +11736,6 @@ examinee
 emoted
 epithelization
 edgerman
-ephraim
 ephydrid
 euplocomi
 engoue
