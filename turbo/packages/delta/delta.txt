@@ -9352,7 +9352,6 @@ differer
 differs
 dextrorsely
 deprive
-difficileness
 difficilitate
 dignosle
 dewinesses
@@ -18327,6 +18326,7 @@ duluth
 dietarian
 dishiest
 dhu
+difficileness
 duns
 dragomans
 decerebration
