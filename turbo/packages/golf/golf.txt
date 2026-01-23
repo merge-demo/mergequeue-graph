@@ -2384,7 +2384,6 @@ gemma
 gardeners
 gemmating
 gushier
-gemmer
 gumphion
 grow
 goodeniaceous
@@ -3958,6 +3957,7 @@ germanish
 galvanograph
 gteau
 geared
+gemmer
 geek
 girlishness
 guttula
