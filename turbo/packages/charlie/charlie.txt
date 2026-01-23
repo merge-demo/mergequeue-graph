@@ -14681,6 +14681,7 @@ calyxes
 cystourethrography
 cypraea
 cassiduloidea
+cosmology
 cistronic
 cochon
 conventionality
@@ -27319,7 +27320,6 @@ couronne
 crustaceal
 course
 codirectorship
-cosmology
 coursey
 coursers
 courses
