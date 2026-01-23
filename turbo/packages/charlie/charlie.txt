@@ -2957,7 +2957,6 @@ cantharic
 cantharidae
 cake
 chytrid
-cantharides
 coation
 clip
 cantharidian
@@ -15095,6 +15094,7 @@ collarband
 commissionerships
 clathraceae
 constituent
+cantharides
 cacumen
 chipling
 cladodial
