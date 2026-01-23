@@ -11991,7 +11991,6 @@ exclaves
 excavational
 expensed
 eryngium
-everyone
 enterfeat
 exampleship
 essentials
@@ -12266,6 +12265,7 @@ everlasting
 eggplant
 enfoul
 egypt
+everyone
 exemplified
 ergasia
 ellagitannin
