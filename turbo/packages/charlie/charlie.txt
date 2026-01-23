@@ -5903,7 +5903,6 @@ caterer
 caterers
 cytolymph
 cateringly
-copras
 caterpillar
 caterpillared
 caterpillarlike
@@ -28941,6 +28940,7 @@ cribellum
 chatta
 cribrate
 cribriform
+copras
 cribriformity
 convertaplane
 cribs
