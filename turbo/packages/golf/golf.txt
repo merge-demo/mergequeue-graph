@@ -2230,7 +2230,6 @@ glumiferous
 gehlenite
 goblet
 gratuity
-grunted
 geoplanidae
 glucokinase
 gringolee
@@ -10862,6 +10861,7 @@ gigtree
 gyri
 grozet
 guideress
+grunted
 graduation
 guaranteer
 graphidiaceae
