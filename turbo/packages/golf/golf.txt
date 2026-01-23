@@ -1830,7 +1830,6 @@ glummer
 gabbier
 glos
 gentile
-groupage
 gillyflower
 grasses
 glutenous
@@ -7935,6 +7934,7 @@ gunnar
 genghis
 goldenmouthed
 gainer
+groupage
 gervao
 guttee
 glouts
