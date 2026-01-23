@@ -1568,6 +1568,7 @@ endocardia
 ethnogenist
 exobiologist
 equinity
+exect
 eglomerate
 eaglets
 eglomise
@@ -8583,7 +8584,6 @@ electronically
 endocarp
 estrogen
 equidistribution
-exect
 extraphysical
 ericas
 embrasuring
