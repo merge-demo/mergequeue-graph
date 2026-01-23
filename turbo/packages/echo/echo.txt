@@ -4442,7 +4442,6 @@ eringoes
 enneadianome
 ezekiel
 encastre
-enterocoel
 encaustically
 efferent
 erth
@@ -5479,6 +5478,7 @@ elegits
 enzymosis
 ethnically
 ensnarers
+enterocoel
 enetophobia
 entailed
 earthshattering
