@@ -3447,7 +3447,6 @@ epistemologist
 evinces
 eductive
 ensepulchering
-enamels
 enthronement
 ebionism
 ekhimi
@@ -3660,6 +3659,7 @@ entangling
 extravert
 encolpion
 exomion
+enamels
 enigmatist
 engarment
 emaciated

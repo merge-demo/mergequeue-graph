@@ -4676,7 +4676,6 @@ cholangitis
 companero
 chwana
 centerline
-carotinemia
 cronying
 carotinoid
 celibataire
@@ -19385,6 +19384,7 @@ centrifugally
 condemnably
 cere
 crossarms
+carotinemia
 compunctiously
 coloraturas
 carnivoracity
