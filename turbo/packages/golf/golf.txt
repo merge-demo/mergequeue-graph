@@ -2579,7 +2579,6 @@ giveaway
 gibbing
 glires
 gn
-guetare
 generative
 glabbella
 gerrhosaurid
@@ -6893,6 +6892,7 @@ gruffest
 grimness
 grandeval
 golgotha
+guetare
 geniohyoglossal
 gonosome
 goodliness
