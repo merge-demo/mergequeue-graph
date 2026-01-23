@@ -3177,7 +3177,6 @@ defectible
 defecting
 dezincified
 doleance
-dunnish
 depolarizes
 dimitting
 defectless
@@ -8628,6 +8627,7 @@ decarchy
 diarrhoeal
 downbeard
 dephysicalize
+dunnish
 diarrhoetic
 diarthric
 dorsocervical
