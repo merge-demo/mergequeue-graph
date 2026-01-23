@@ -7946,7 +7946,6 @@ galeated
 granada
 glazy
 gables
-grandmotherly
 getatability
 groutnoll
 glistens
@@ -9520,6 +9519,7 @@ groupist
 guar
 grs
 griminess
+grandmotherly
 groundkeeper
 glidder
 grumbler
