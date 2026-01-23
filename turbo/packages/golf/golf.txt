@@ -1373,6 +1373,7 @@ glyconeogenetic
 guttular
 governs
 gumweeds
+guaconize
 ganodonta
 garnison
 greetingless
@@ -6978,7 +6979,6 @@ gestalts
 geir
 glossopode
 gallerian
-guaconize
 gossipry
 garrat
 giddybrain
