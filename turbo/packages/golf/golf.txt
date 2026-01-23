@@ -5459,6 +5459,7 @@ gerridae
 goldish
 gloomingly
 garnishment
+geologician
 gadaria
 gastroparietal
 gogglers
@@ -10417,7 +10418,6 @@ graphiology
 gum
 gluiness
 gyneolatry
-geologician
 goney
 gardbrace
 gutweed
