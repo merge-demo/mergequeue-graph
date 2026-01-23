@@ -4487,6 +4487,7 @@ grapey
 geest
 gomutis
 gelatinated
+geography
 gambrel
 gills
 graminiform
@@ -10556,7 +10557,6 @@ gunmetal
 gloryful
 guacico
 guebre
-geography
 giftedly
 gurmukhi
 grasshouse
