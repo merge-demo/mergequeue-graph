@@ -436,7 +436,6 @@ frockmaker
 fairship
 feal
 flitting
-fogmen
 fulminate
 fibroenchondroma
 fieldbird
@@ -489,6 +488,7 @@ fistulose
 fuseau
 fretting
 featherleaf
+fogmen
 fetiferous
 frogmouth
 foremastman
