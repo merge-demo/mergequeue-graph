@@ -8970,7 +8970,6 @@ fourierism
 fourneau
 facings
 filly
-feltings
 fourpence
 farcist
 flavine
@@ -10121,6 +10120,7 @@ fortuitus
 fissiparously
 frittering
 fuchi
+feltings
 frivolity
 fingerstone
 freakier
