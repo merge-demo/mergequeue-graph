@@ -1722,7 +1722,6 @@ glike
 grutched
 gunsmiths
 guldens
-garotting
 gastronosus
 gnarrs
 goofier
@@ -1772,6 +1771,7 @@ gastropulmonic
 germane
 granitic
 gambados
+garotting
 guiba
 guaycuruan
 galliambic
