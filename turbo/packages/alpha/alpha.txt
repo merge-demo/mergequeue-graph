@@ -16931,7 +16931,6 @@ apiologist
 apyonin
 apiosoma
 apyrases
-apyrexial
 apyrotype
 anteverts
 approbator
@@ -21528,6 +21527,7 @@ animalizing
 astrobotany
 antityrosinase
 asperating
+apyrexial
 asphalter
 aceituna
 acridinium
