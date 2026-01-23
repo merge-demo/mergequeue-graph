@@ -2130,7 +2130,6 @@ exoneration
 electrosurgical
 endleaf
 enfoil
-enterobiliary
 enanthematous
 eisteddfodism
 enormous
@@ -2772,6 +2771,7 @@ eurithermophilic
 elytrous
 eutropic
 equipartition
+enterobiliary
 epidiplosis
 eighteenmo
 economicalness
