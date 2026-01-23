@@ -1600,6 +1600,7 @@ gl
 graphology
 gunz
 glycyrrhiza
+gimmick
 gymnospermic
 geulah
 galavant
@@ -9340,7 +9341,6 @@ ghaznevid
 ghaist
 gasparillo
 gyrostat
-gimmick
 gonocoel
 gravestones
 groop
