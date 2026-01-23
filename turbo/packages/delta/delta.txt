@@ -1478,7 +1478,6 @@ deflects
 damages
 dedicatedly
 doublehanded
-daze
 discerptibility
 disinherison
 dipropellant
@@ -17855,6 +17854,7 @@ ductules
 drawlatch
 ductwork
 drosky
+daze
 duculinae
 decurve
 dermoblast

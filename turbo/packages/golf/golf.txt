@@ -767,7 +767,6 @@ goatherd
 gawkily
 graywether
 glome
-grapnels
 glibber
 galvanotherapy
 goods
@@ -2224,6 +2223,7 @@ gibers
 gulfing
 gallivanter
 gristle
+grapnels
 gossipmongering
 gruffing
 galactase
