@@ -2196,6 +2196,7 @@ ere
 electrovalently
 emphasising
 epanthous
+empurple
 elderman
 ensorcels
 electrics
@@ -11919,7 +11920,6 @@ electrotherapist
 exalter
 exocataphoria
 ese
-empurple
 exairesis
 esthesis
 endemic
