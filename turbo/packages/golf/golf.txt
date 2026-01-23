@@ -9173,6 +9173,7 @@ gableboard
 gridlock
 gliss
 glaucomas
+glochidian
 gastrodiaphanoscopy
 gradine
 gammer
@@ -9626,7 +9627,6 @@ grozer
 grubbery
 grintern
 garse
-glochidian
 ghanian
 griddling
 grubstakes
