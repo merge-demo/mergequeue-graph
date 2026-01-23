@@ -261,6 +261,7 @@ grapta
 graziery
 geoplagiotropism
 grenada
+goupin
 gnomon
 glauconiferous
 glomeroporphyritic
@@ -5752,7 +5753,6 @@ garlicky
 gumhar
 garrulously
 goony
-goupin
 galactosemic
 gnatworm
 goniometer
