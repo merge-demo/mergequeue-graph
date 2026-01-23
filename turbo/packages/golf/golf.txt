@@ -978,7 +978,6 @@ gorkun
 grouting
 galloped
 ganched
-gonotokont
 goner
 gerodontology
 grammaticalness
@@ -6418,6 +6417,7 @@ goldeney
 ginglmi
 goldener
 guary
+gonotokont
 goldentop
 glochideous
 governor
