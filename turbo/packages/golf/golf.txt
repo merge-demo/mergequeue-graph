@@ -1973,7 +1973,6 @@ gryphaea
 gams
 glyptical
 gaurian
-gasting
 gaurs
 gravitative
 glamourous
@@ -3910,6 +3909,7 @@ garote
 gratuito
 graphomaniac
 gillaroo
+gasting
 grice
 ganner
 graphis
