@@ -3556,7 +3556,6 @@ glumella
 guises
 gourmandize
 galvanisation
-gausses
 gelatinoid
 gharnao
 glossa
@@ -3849,6 +3848,7 @@ galloperdix
 gigaherz
 gymnarchidae
 genips
+gausses
 gighe
 gedeckt
 gramaryes
