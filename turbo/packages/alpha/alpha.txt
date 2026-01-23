@@ -3442,7 +3442,6 @@ antroversion
 addible
 addicent
 antiknocks
-acanthopomatous
 addictedness
 addicting
 adaptedness
@@ -12235,6 +12234,7 @@ ancyrean
 affectedly
 ancistrocladaceous
 ancistroid
+acanthopomatous
 ancodont
 aerified
 astrophotometry
