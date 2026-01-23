@@ -6192,6 +6192,7 @@ erasure
 exodist
 enophthalmus
 enorm
+etymologization
 explorement
 exhalations
 endopericarditis
@@ -10421,7 +10422,6 @@ ergosterin
 endomyces
 engraved
 estruation
-etymologization
 edentalous
 eurypteroid
 eloinment
