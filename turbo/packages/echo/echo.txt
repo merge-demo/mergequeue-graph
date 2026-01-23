@@ -455,7 +455,6 @@ empasm
 exody
 explicit
 endoconidium
-extorsion
 extrasensorial
 ecclesiastics
 encup
@@ -13696,6 +13695,7 @@ earthing
 ewelease
 ectoprocta
 extratheistic
+extorsion
 eradiation
 equalizes
 externalistic
