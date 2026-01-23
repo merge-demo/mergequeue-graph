@@ -7618,6 +7618,7 @@ chargers
 calathisci
 calcarated
 cerebrospinal
+coachmen
 ceresin
 chaetotaxy
 cevadilline
@@ -19584,7 +19585,6 @@ costula
 chronanagram
 columbiformes
 condemned
-coachmen
 colonizing
 creophagist
 columbine
