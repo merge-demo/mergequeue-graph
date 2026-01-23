@@ -11126,7 +11126,6 @@ amritsar
 amphibial
 anfractuous
 arette
-ashkenazi
 antisun
 amphibiety
 azimuthally
@@ -13551,6 +13550,7 @@ autonomous
 acuminose
 annular
 antihierarchical
+ashkenazi
 algy
 annulary
 arrowing
