@@ -3385,7 +3385,6 @@ catapetalous
 counterweighing
 capotasto
 capotastos
-cercolabes
 coheres
 choicest
 celsius
@@ -15257,6 +15256,7 @@ cassique
 chaining
 clamcracker
 crabfish
+cercolabes
 clame
 cheeseboard
 clamflat

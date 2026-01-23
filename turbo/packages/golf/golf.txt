@@ -2338,7 +2338,6 @@ geraty
 greenland
 georgette
 getaway
-gelotherapy
 gaoloring
 garbed
 gastroscopic
@@ -7143,6 +7142,7 @@ gospoda
 gillotage
 granuloma
 gonomery
+gelotherapy
 grassier
 galactophorous
 grattoirs
