@@ -10519,6 +10519,7 @@ blastocoele
 blastodisc
 becharming
 blatjang
+blungers
 bakestone
 biologistic
 bepastured
@@ -14667,7 +14668,6 @@ babion
 bigotedness
 bitted
 backscraper
-blungers
 brevirostrines
 brasils
 brasque
