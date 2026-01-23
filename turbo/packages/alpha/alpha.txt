@@ -7430,6 +7430,7 @@ accelerating
 albumenizer
 albumenoid
 archtreasurer
+axer
 albumens
 albumimeter
 aftership
@@ -8949,7 +8950,6 @@ applewife
 aureolas
 allosome
 allosteric
-axer
 allotee
 allotelluric
 anthropolithic
