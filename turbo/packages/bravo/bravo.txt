@@ -1264,6 +1264,7 @@ brachytmema
 beclouds
 bawdyhouses
 bogtrotter
+battledore
 broderie
 balanitis
 bassarid
@@ -4275,7 +4276,6 @@ burke
 basurale
 boggish
 bathyscaph
-battledore
 bacterious
 bremia
 bebreech
