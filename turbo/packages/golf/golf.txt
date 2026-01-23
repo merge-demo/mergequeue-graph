@@ -895,7 +895,6 @@ gueparde
 geognost
 grassfire
 gobioid
-gymnonoti
 gusseted
 goosebird
 gharial
@@ -1319,6 +1318,7 @@ galium
 genies
 gieing
 garroter
+gymnonoti
 gary
 goodness
 greekless
