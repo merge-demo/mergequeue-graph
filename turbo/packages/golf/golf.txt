@@ -6923,7 +6923,6 @@ gamut
 gilgie
 galoshed
 grinds
-glyconeogenesis
 grasseye
 grapevine
 gages
@@ -9137,6 +9136,7 @@ grapline
 grusinian
 gonococcoid
 gearcase
+glyconeogenesis
 grooming
 gardant
 grassing
