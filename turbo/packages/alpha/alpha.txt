@@ -500,7 +500,6 @@ antapology
 abjugate
 aunty
 abjunct
-aeolidae
 angiorrhagia
 antelopian
 assonantal
@@ -4887,6 +4886,7 @@ auslaut
 airphobia
 adelochorda
 aliyoth
+aeolidae
 autecologist
 aerodonetics
 appeasement
