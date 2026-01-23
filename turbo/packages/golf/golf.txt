@@ -775,7 +775,6 @@ geomorphic
 gemologies
 guntub
 gaulter
-ganymede
 gamily
 glossolalist
 gerendum
@@ -3496,6 +3495,7 @@ getpenny
 greaselessness
 gatewayman
 girlfully
+ganymede
 gossans
 gracile
 gawish
