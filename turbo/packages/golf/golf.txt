@@ -5109,7 +5109,6 @@ gallopers
 greek
 glomerulitis
 genetmoil
-glazers
 geldant
 grouch
 gibus
@@ -7261,6 +7260,7 @@ gamostelic
 garcon
 gastraea
 gauffer
+glazers
 graphiologist
 glutaric
 gubernator
