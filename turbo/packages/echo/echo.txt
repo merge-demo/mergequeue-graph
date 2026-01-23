@@ -2231,7 +2231,6 @@ elect
 epitheliulia
 electary
 engrailing
-enthraldom
 emotionist
 elysee
 ethnal
@@ -11524,6 +11523,7 @@ endosteitis
 epineolithic
 edital
 enviable
+enthraldom
 ensign
 engendered
 enkerchief
