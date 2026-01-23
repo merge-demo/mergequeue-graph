@@ -3131,6 +3131,7 @@ defamy
 desmoneme
 delicious
 dihydrite
+dithioic
 distoclusion
 detonation
 defaming
@@ -4408,7 +4409,6 @@ despairfulness
 desultory
 demesgne
 dudleyite
-dithioic
 dolos
 diapyesis
 demesman
