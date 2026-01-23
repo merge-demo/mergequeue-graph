@@ -4796,7 +4796,6 @@ freedwomen
 formidolous
 fructiparous
 feasting
-fascicular
 furnishing
 fodder
 froebelism
@@ -5390,6 +5389,7 @@ finnip
 fleecy
 farolito
 flyblown
+fascicular
 forager
 fiendliness
 florimanist
