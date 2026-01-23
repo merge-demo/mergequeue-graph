@@ -3455,7 +3455,6 @@ enginemen
 excusative
 esterellite
 epistemologist
-evinces
 emmetropia
 eductive
 ensepulchering
@@ -4607,6 +4606,7 @@ enchytraeus
 eupad
 eulogical
 empyreumatical
+evinces
 ectostosis
 epileptiform
 epithalamiums
