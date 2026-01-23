@@ -3344,6 +3344,7 @@ erythrorrhexis
 expressible
 epihydric
 embain
+epizootology
 egglike
 embays
 ergastic
@@ -8399,7 +8400,6 @@ enjoyment
 eglogue
 endothecate
 ethicosocial
-epizootology
 enwrought
 epocha
 epollicate
