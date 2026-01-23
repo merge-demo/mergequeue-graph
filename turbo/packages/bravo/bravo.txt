@@ -2699,7 +2699,6 @@ beadflush
 bemaul
 barnman
 braconids
-barnstorming
 besmearing
 borages
 bogomile
@@ -17813,6 +17812,7 @@ bursarial
 blypes
 bursaries
 bursars
+barnstorming
 bubby
 bursch
 bianisidine
