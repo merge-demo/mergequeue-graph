@@ -2880,7 +2880,6 @@ endew
 egos
 empark
 eleutherozoan
-encyrtid
 ental
 elevable
 embraceor
@@ -6910,6 +6909,7 @@ evections
 ephelis
 exclaims
 expense
+encyrtid
 embargoed
 evangelicality
 enjoyableness
