@@ -4511,7 +4511,6 @@ buhrstone
 borocalcite
 bathala
 brutifies
-becrust
 becrusting
 bhakti
 bibbs
@@ -17964,6 +17963,7 @@ bedot
 blackheartedness
 bemoult
 bronzelike
+becrust
 bushwhacked
 beanball
 boheas
