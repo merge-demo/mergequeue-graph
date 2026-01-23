@@ -2190,6 +2190,7 @@ gravific
 granth
 grotty
 genarchship
+granted
 giraffoid
 geoidal
 garmented
@@ -9561,7 +9562,6 @@ gymnostomata
 galactopoiesis
 giftlike
 geophones
-granted
 gazed
 gynecologist
 gleams
