@@ -8021,7 +8021,6 @@ attriutively
 alrune
 archiver
 airworthy
-acidotic
 arithmetically
 amphide
 alforja
@@ -24449,6 +24448,7 @@ auteciously
 ailantery
 architrave
 argenter
+acidotic
 ampullated
 alimentum
 autosporic
