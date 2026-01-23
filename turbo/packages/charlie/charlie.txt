@@ -3918,6 +3918,7 @@ contradistinguish
 celibacies
 cowheel
 compleat
+cirrhopod
 crawley
 casquet
 carborundum
@@ -25572,7 +25573,6 @@ corp
 corpn
 corporacy
 corporacies
-cirrhopod
 calcic
 corporalcy
 corporale
