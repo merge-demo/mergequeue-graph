@@ -302,6 +302,7 @@ articulate
 ampullulae
 abductions
 allegro
+anhalonium
 abductor
 abducts
 asiatical
@@ -13339,7 +13340,6 @@ anywhence
 appurtenance
 anywhither
 anywither
-anhalonium
 areolar
 agon
 androgenic
