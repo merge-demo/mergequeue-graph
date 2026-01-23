@@ -1444,6 +1444,7 @@ gasalier
 gowks
 graves
 gamma
+galloway
 gerousia
 gigger
 gove
@@ -6198,7 +6199,6 @@ gossipdom
 guestimate
 gorgonacean
 gavotting
-galloway
 glue
 gatehouse
 glucosidase
