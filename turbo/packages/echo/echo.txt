@@ -2865,7 +2865,6 @@ expatiative
 evanid
 eleusinia
 explicantia
-extendible
 emasculator
 eventognath
 eleutherian
@@ -4849,6 +4848,7 @@ equalizing
 exponentiations
 elemental
 effeminateness
+extendible
 excludible
 explete
 enjamb

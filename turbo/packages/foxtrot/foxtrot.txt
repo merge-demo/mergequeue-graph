@@ -2450,7 +2450,6 @@ fornax
 ferruginated
 fungal
 fauvisms
-fiberizes
 foliocellosis
 fairnesses
 frithborgh
@@ -8641,6 +8640,7 @@ fermentarian
 findon
 flamberge
 freightless
+fiberizes
 filterability
 futharks
 feet
