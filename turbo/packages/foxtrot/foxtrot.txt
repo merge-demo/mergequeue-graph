@@ -4055,6 +4055,7 @@ fowlfoot
 foreyear
 fingerberry
 firmity
+fowlings
 fissionable
 featurish
 felapton
@@ -9028,7 +9029,6 @@ flux
 felonweed
 fared
 faultful
-fowlings
 fluvious
 fountained
 flashguns
