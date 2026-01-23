@@ -3830,7 +3830,6 @@ carboys
 cyathoid
 carbolate
 carbolated
-cerning
 cineolic
 carbolfuchsin
 caddesse
@@ -20017,6 +20016,7 @@ conductive
 cheerily
 commeasurable
 commeasured
+cerning
 commeddle
 commelina
 capers
