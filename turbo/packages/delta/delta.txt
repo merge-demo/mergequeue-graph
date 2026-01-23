@@ -3321,6 +3321,7 @@ dartrous
 definish
 decolored
 devastate
+digonoporous
 decapitalization
 definitely
 distrait
@@ -10487,7 +10488,6 @@ downfalling
 discriminant
 demonetized
 delapsion
-digonoporous
 depthless
 dacryocystorhinostomy
 danging
