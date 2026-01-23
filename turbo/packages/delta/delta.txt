@@ -12830,6 +12830,7 @@ democratising
 dismal
 dialogs
 dorsomedian
+dungeons
 decreptitude
 dehydrogenized
 downhaul
@@ -15077,7 +15078,6 @@ dogget
 doggrelize
 dottrels
 dorlot
-dungeons
 doghead
 doghood
 doghouse

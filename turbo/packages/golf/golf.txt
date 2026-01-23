@@ -560,7 +560,6 @@ gudgeoning
 gup
 galleryite
 gravidness
-garde
 goolah
 geranomorphae
 gazometer
@@ -809,6 +808,7 @@ gambe
 gourmanderie
 gambeered
 gutturalization
+garde
 glauke
 greenlandite
 gastrostenosis
