@@ -7500,6 +7500,7 @@ clergyman
 coolhouse
 cambrian
 ceraunoscopy
+canfieldite
 cyathophyllidae
 cercal
 calelectricity
@@ -19986,7 +19987,6 @@ commandoes
 ceraunomancy
 commandoman
 cyclopaedically
-canfieldite
 canoodled
 commandos
 colove
