@@ -221,6 +221,7 @@ greatens
 gradefinder
 gratiano
 gelasimus
+gurly
 guidman
 grandsir
 globalized
@@ -9360,7 +9361,6 @@ gustative
 grisette
 gymnoderinae
 glided
-gurly
 germanhood
 germigenous
 grannyknot
