@@ -4298,7 +4298,6 @@ careworn
 concorporation
 carex
 cottages
-carfare
 carfares
 carfloat
 crenic
@@ -5298,6 +5297,7 @@ charabancs
 cichoraceous
 cassia
 cassicus
+carfare
 cassidid
 catafalque
 cassididae
