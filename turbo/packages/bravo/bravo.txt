@@ -375,6 +375,7 @@ brewery
 bovarist
 bashkir
 bevelling
+bitstalk
 borings
 bedabble
 backhoe
@@ -10783,7 +10784,6 @@ baldachini
 brosse
 brewster
 bradford
-bitstalk
 blepharocarcinoma
 balinger
 beaumontia
