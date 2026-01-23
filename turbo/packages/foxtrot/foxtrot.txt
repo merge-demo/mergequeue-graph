@@ -3789,6 +3789,7 @@ filigreeing
 flanconnade
 forestall
 falsification
+fergusonite
 filmstrips
 filo
 filose
@@ -3945,7 +3946,6 @@ follyproof
 fossil
 footsteps
 focalise
-fergusonite
 fingerer
 flaunch
 flory
