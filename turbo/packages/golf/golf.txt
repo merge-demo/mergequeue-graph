@@ -3197,6 +3197,7 @@ gloppen
 grammies
 geraniums
 gebur
+glary
 galoping
 giron
 gap
@@ -4629,7 +4630,6 @@ gossoon
 glassin
 guisard
 glycuronic
-glary
 gradely
 graecism
 goglet
