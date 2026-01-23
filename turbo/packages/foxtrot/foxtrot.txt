@@ -4097,6 +4097,7 @@ fenestellid
 fartherer
 felicitously
 foresightless
+forepointer
 fungusy
 frostation
 featherbrain
@@ -9870,7 +9871,6 @@ feria
 fundatorial
 fogeys
 furloughs
-forepointer
 feridgi
 forefelt
 fluviomarine
