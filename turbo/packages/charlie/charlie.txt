@@ -1943,6 +1943,7 @@ camelopardalis
 consubstantiation
 carcinus
 cinnamomum
+chnuphis
 chiliarchy
 crowds
 camelopards
@@ -31003,7 +31004,6 @@ cumbre
 chickery
 celiocentesis
 conferee
-chnuphis
 cherkesser
 counterflight
 clinchpoop
