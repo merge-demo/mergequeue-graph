@@ -12828,6 +12828,7 @@ dismayfully
 declension
 datagrams
 diathermancy
+distr
 doubty
 dismail
 democratising
@@ -16623,7 +16624,6 @@ dispromise
 dragonesque
 daphnis
 dorados
-distr
 dragonflies
 didelphian
 dragonhood
