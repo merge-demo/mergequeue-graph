@@ -6407,6 +6407,7 @@ aguise
 antimeter
 axanthopsia
 antignostical
+aberrated
 auxanology
 acidifiers
 adams
@@ -16400,7 +16401,6 @@ aeneous
 agitationist
 aurelius
 antodontalgic
-aberrated
 antoeci
 antoecian
 ascogonia
