@@ -1718,7 +1718,6 @@ calotypic
 calotypist
 crossbolt
 congratulated
-cryptovalency
 cuddlier
 cladine
 calottes
@@ -27518,6 +27517,7 @@ containable
 coverages
 coverall
 coveralled
+cryptovalency
 coveralls
 coils
 coverchief
