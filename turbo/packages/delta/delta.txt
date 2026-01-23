@@ -2706,6 +2706,7 @@ derails
 decontrolled
 deconvolution
 deconvolve
+dipsosis
 desmon
 decor
 diplopic
@@ -17037,7 +17038,6 @@ dressier
 diva
 dullest
 donned
-dipsosis
 dreamsily
 depressively
 dressed
