@@ -3216,7 +3216,6 @@ demoniac
 defenceable
 defencive
 dents
-defend
 dikast
 dolmenic
 demimondaine
@@ -4283,6 +4282,7 @@ doab
 devilbird
 devoutness
 durning
+defend
 delimit
 duckhood
 dequeue
