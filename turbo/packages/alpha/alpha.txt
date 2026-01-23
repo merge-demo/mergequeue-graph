@@ -11752,6 +11752,7 @@ antimalarial
 anticeremonialism
 altocumulus
 antidysuric
+amaryllid
 africanthropus
 aglimmer
 axfetch
@@ -18431,7 +18432,6 @@ actions
 araucarioxylon
 antisepticising
 arawa
-amaryllid
 arawak
 arawakian
 anatomized
