@@ -4979,6 +4979,7 @@ denarinarii
 deluder
 dropshots
 denaro
+divers
 dawdy
 denasalize
 disconsolateness
@@ -8220,7 +8221,6 @@ dipus
 disspreading
 diadochy
 dablet
-divers
 damasked
 dissectors
 dulcor
