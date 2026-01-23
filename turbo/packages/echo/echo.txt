@@ -4301,6 +4301,7 @@ elytroclasia
 expulsive
 expansibleness
 enactor
+extendedness
 elutriated
 epigrammatize
 entoproct
@@ -14106,7 +14107,6 @@ egbo
 ericad
 emissile
 enzymically
-extendedness
 epiphyses
 exterraneous
 emptings
