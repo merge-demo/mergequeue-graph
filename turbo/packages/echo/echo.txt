@@ -2336,7 +2336,6 @@ evolvulus
 electrobath
 emplacements
 ethnologically
-escoted
 ellipticity
 epicenity
 epically
@@ -5105,6 +5104,7 @@ endocrinic
 existentialistic
 emergencies
 entogenous
+escoted
 enteroptotic
 extrudability
 eisell

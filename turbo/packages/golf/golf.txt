@@ -5138,7 +5138,6 @@ gorer
 gangliglions
 gumboots
 gracility
-grandfathership
 geognosist
 gleamily
 grasni
@@ -8634,6 +8633,7 @@ greatness
 gomuti
 greave
 gulash
+grandfathership
 gapers
 gavelet
 gisel
