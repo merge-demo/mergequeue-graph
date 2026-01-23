@@ -8758,7 +8758,6 @@ acescents
 alodial
 anidiomatical
 antisensuously
-allium
 alliums
 antiministerialist
 allivalite
@@ -15295,6 +15294,7 @@ antiharmonist
 antihelix
 aitiotropic
 anthracite
+allium
 adapters
 amperages
 antihero
