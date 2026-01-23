@@ -6909,6 +6909,7 @@ chrome
 caecostomy
 cement
 chochos
+chymosinogen
 coenocyte
 cementation
 chymosins
@@ -16143,7 +16144,6 @@ crimpage
 climactical
 contexture
 collotyping
-chymosinogen
 crownbeard
 climacus
 climant
