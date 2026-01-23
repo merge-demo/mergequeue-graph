@@ -15893,6 +15893,7 @@ deiseal
 deboning
 delighting
 discounts
+dol
 doser
 diplomatism
 datura
@@ -18456,7 +18457,6 @@ duplicious
 danner
 duality
 duplicitously
-dol
 disquisitionary
 duplified
 duplifying
