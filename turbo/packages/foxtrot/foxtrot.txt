@@ -71,7 +71,6 @@ flagships
 flecken
 facellite
 furthers
-flysch
 fordeal
 fullfaces
 facundity
@@ -8680,6 +8679,7 @@ freesia
 flatfooted
 fryers
 funiculate
+flysch
 furicane
 flapless
 fathomable
