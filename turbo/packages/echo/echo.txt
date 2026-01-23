@@ -7475,7 +7475,6 @@ encounterer
 ekphory
 euda
 ephraimite
-exocoetidae
 epigonousepigons
 extensively
 estrins
@@ -11168,6 +11167,7 @@ electragist
 exonuclease
 endospermic
 ectocarpaceous
+exocoetidae
 evaluated
 extratropical
 ecumenicist
