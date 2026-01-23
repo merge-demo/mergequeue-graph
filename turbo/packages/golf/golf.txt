@@ -150,7 +150,6 @@ geryon
 galipot
 graniteware
 gasthauser
-geoffrey
 ghettoized
 galactosyl
 galvanosurgery
@@ -3017,6 +3016,7 @@ gaggler
 grammatical
 grimoire
 graspable
+geoffrey
 glitteringly
 gibbed
 gyrostatically
