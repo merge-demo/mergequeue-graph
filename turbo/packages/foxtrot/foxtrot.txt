@@ -8146,7 +8146,6 @@ featurette
 fuchsias
 fanegadas
 fundmonger
-forcepses
 forevers
 foregate
 forthwith
@@ -11528,6 +11527,7 @@ foxfeet
 fuselages
 fuselike
 floeberg
+forcepses
 forecaddie
 fermentations
 faradiser
