@@ -5771,6 +5771,7 @@ flittermouse
 familiarization
 fairylike
 fellowship
+fescues
 flitters
 frequents
 flankwise
@@ -8451,7 +8452,6 @@ furs
 fantail
 fathercraft
 fidelia
-fescues
 fubbing
 formamidine
 fasels
