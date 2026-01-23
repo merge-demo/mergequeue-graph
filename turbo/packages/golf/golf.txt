@@ -2946,7 +2946,6 @@ gosh
 gooseflower
 gunks
 gusts
-gurkha
 gastroplenic
 gollop
 genecologic
@@ -8118,6 +8117,7 @@ goatling
 gangava
 granulet
 gorgonising
+gurkha
 gemsboks
 granulization
 ghastful
