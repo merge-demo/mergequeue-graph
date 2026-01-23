@@ -3796,6 +3796,7 @@ browsing
 bedsprings
 bescorched
 balancer
+bulwarked
 bauckie
 beerish
 benzole
@@ -17240,7 +17241,6 @@ bulten
 bandores
 borsch
 biltongs
-bulwarked
 blanketers
 basongo
 bleachhouse
