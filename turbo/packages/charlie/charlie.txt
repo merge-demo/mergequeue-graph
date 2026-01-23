@@ -5742,7 +5742,6 @@ catchcry
 corinthian
 conceptus
 corey
-colocates
 catched
 coccidioides
 concretions
@@ -11979,6 +11978,7 @@ colleen
 crete
 cosmological
 crucified
+colocates
 congeon
 chorioptic
 choripetalae
