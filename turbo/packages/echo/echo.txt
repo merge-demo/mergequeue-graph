@@ -5127,6 +5127,7 @@ electromedical
 endoenzyme
 epitrochoid
 entresol
+endermically
 elytrorrhaphy
 earbob
 epicarp
@@ -6629,7 +6630,6 @@ eurocentric
 elastases
 epichil
 eradicates
-endermically
 enuring
 exhedrae
 enterology
