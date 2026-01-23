@@ -5411,7 +5411,6 @@ copulates
 chamberfellow
 castellum
 caster
-crinicultural
 cinemograph
 corncob
 conchfishes
@@ -16017,6 +16016,7 @@ coolheadedness
 cleruchy
 crossbirth
 cracked
+crinicultural
 cluppe
 cleruchies
 cardroom
