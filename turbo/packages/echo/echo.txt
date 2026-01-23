@@ -6193,7 +6193,6 @@ explorement
 exhalations
 endopericarditis
 exhortator
-enorn
 enos
 eradiating
 embryony
@@ -12942,6 +12941,7 @@ enhaunt
 eulogiae
 expectancy
 endotherm
+enorn
 ephebea
 embrail
 epistemophilia
