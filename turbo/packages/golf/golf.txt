@@ -2127,7 +2127,6 @@ ghylls
 guillermo
 gazette
 ginnet
-gumshoing
 galactolipide
 gallywasp
 gymnolaematous
@@ -10033,6 +10032,7 @@ guideship
 gammation
 gargoyles
 greasing
+gumshoing
 granitoidal
 gisler
 guerdoner
