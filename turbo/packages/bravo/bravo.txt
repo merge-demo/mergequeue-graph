@@ -3921,7 +3921,6 @@ bdelloid
 bdellometer
 boarts
 booksellerish
-bombardier
 bocstaff
 brickbats
 bdelloura
@@ -6184,6 +6183,7 @@ blanker
 baited
 beltian
 barrigudo
+bombardier
 barbless
 buchmanism
 befinger
