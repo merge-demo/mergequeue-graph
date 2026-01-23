@@ -297,6 +297,7 @@ floosies
 frippery
 felicitations
 flumdiddle
+fon
 fiqh
 frappeing
 fiddlesticks
@@ -10868,7 +10869,6 @@ footholds
 fossors
 flavor
 frowardly
-fon
 fluvioterrestrial
 fustianist
 filigreing
