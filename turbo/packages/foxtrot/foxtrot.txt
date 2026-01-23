@@ -1865,7 +1865,6 @@ foreign
 febricant
 frictions
 fore
-feastless
 febrific
 feloid
 febrile
@@ -3664,6 +3663,7 @@ flaying
 furnacer
 freshener
 fibrolipomatous
+feastless
 finicking
 fiddleys
 filioque
