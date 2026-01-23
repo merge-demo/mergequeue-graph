@@ -8612,7 +8612,6 @@ drainless
 duckhouse
 dyarchies
 disjunctor
-dinge
 debugging
 diary
 diaglyph
@@ -10766,6 +10765,7 @@ diquat
 decolorization
 deoxidized
 dolphinfish
+dinge
 dirdums
 dernly
 demirelief
