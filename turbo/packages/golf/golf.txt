@@ -4952,6 +4952,7 @@ galleypot
 governesshood
 glaucousness
 ghouls
+gourd
 giganticidal
 gauls
 garridge
@@ -5498,7 +5499,6 @@ gamecocks
 globigerinae
 grainering
 guarnerius
-gourd
 glutition
 gaminish
 gird
