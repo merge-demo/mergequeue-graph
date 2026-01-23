@@ -170,7 +170,6 @@ ejidal
 enchantingness
 eugenetic
 exorcisms
-ergogram
 exploration
 electromotion
 electrolier
@@ -12024,6 +12023,7 @@ ervum
 eroding
 excommunicative
 excommunicator
+ergogram
 expetible
 exauthorate
 extrication
