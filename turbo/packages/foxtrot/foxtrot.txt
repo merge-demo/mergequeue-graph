@@ -6882,7 +6882,6 @@ fitly
 fidepromission
 feasible
 flacianism
-fallace
 folklores
 fp
 fow
@@ -9867,6 +9866,7 @@ frouncing
 funge
 feria
 fundatorial
+fallace
 fogeys
 furloughs
 feridgi
