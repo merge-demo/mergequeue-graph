@@ -7361,7 +7361,6 @@ cephalology
 cephalom
 coquettishness
 coccinella
-cephalomant
 cephalomeningitis
 catlin
 compute
@@ -26059,6 +26058,7 @@ cretin
 cosigners
 cubbies
 chowderheadedness
+cephalomant
 cithara
 capling
 cosigning
