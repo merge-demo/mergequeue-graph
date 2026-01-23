@@ -1382,6 +1382,7 @@ artinite
 acceptilation
 acceptingly
 arabesquerie
+airfoil
 anglican
 anticompetitive
 amadavat
@@ -6771,7 +6772,6 @@ amyctic
 airflow
 antimoralist
 aglipayan
-airfoil
 airfoils
 airglows
 airgraphics
