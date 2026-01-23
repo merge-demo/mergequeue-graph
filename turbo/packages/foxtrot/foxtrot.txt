@@ -4236,6 +4236,7 @@ firepot
 floodage
 foreflank
 forebooms
+fricandoes
 frangipanni
 floridians
 fusarium
@@ -5159,7 +5160,6 @@ frontierlike
 frivolers
 formalin
 fuchsia
-fricandoes
 familarity
 frumpery
 funest
