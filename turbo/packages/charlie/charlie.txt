@@ -15108,7 +15108,6 @@ cacumen
 chipling
 cladodial
 cladodium
-centinel
 crimsoning
 cladodont
 closetful
@@ -19967,6 +19966,7 @@ coenenchyme
 crosstoes
 commandery
 commanding
+centinel
 changeover
 corolitic
 commandingly
