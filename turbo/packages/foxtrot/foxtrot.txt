@@ -2214,7 +2214,6 @@ frecklish
 fondlesome
 foals
 feminineness
-feudee
 freshmanhood
 flours
 fiscus
@@ -11326,6 +11325,7 @@ fulvene
 fertilisational
 forecastors
 fermage
+feudee
 foreglimpsed
 forswat
 foldure
