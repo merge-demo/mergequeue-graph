@@ -21641,6 +21641,7 @@ assayable
 afterpotential
 assayed
 aphonous
+authenticated
 amorist
 assayers
 aphorists
@@ -23782,7 +23783,6 @@ avowance
 alto
 auspice
 alacrity
-authenticated
 aerohydroplane
 amorphozoa
 aposporic
