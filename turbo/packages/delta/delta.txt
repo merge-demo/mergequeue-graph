@@ -5306,6 +5306,7 @@ dorsimesal
 disblame
 daraf
 diaphoretic
+diureses
 displaced
 distylar
 denticle
@@ -14375,7 +14376,6 @@ dimetry
 dreadingly
 drawly
 diureide
-diureses
 dislustering
 diuresis
 difficile
