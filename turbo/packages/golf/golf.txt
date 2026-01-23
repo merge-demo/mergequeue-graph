@@ -2965,7 +2965,6 @@ gaolering
 geographies
 gemmologists
 galliardness
-glyptograph
 geoids
 gloriole
 gastrostomy
@@ -10138,6 +10137,7 @@ goodmanship
 grazers
 glean
 giddyish
+glyptograph
 gloried
 gloeal
 glideness
