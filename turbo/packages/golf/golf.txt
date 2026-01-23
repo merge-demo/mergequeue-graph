@@ -3026,6 +3026,7 @@ garnerage
 geoponics
 gaggler
 grammatical
+grimoire
 graspable
 glitteringly
 gibbed
@@ -5605,7 +5606,6 @@ gloomily
 gloomings
 graveward
 gunyang
-grimoire
 germanics
 gubernacular
 geyserine
