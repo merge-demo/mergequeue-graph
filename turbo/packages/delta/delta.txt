@@ -1675,6 +1675,7 @@ dichastic
 dandle
 deanships
 dothiorella
+dardani
 diallagite
 dehull
 diasynthesis
@@ -11891,7 +11892,6 @@ dehypnotized
 dingled
 daguerreotypic
 disdein
-dardani
 doubleheader
 dephlegmate
 disdenominationalize
