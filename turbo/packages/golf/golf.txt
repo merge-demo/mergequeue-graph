@@ -5099,7 +5099,6 @@ goldcrest
 gimpiest
 gundogs
 guerdon
-gammick
 geologised
 galactopathy
 ganoidei
@@ -5484,6 +5483,7 @@ globalizing
 gisants
 growls
 groggeries
+gammick
 gently
 gump
 grassfinch
