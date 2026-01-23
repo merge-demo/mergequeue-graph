@@ -499,7 +499,6 @@ abjugate
 aunty
 abjunct
 angiorrhagia
-antelopian
 assonantal
 acidities
 absterge
@@ -6615,6 +6614,7 @@ autosign
 ailsyte
 anthropotoxin
 ancestorial
+antelopian
 asteam
 ailuridae
 aneurilemmic
