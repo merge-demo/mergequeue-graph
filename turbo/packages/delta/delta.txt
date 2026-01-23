@@ -10233,7 +10233,6 @@ dowed
 doggonedest
 discocephalous
 dusts
-deconcentrating
 disaccustom
 doornail
 deifiers
@@ -14801,6 +14800,7 @@ docking
 dockization
 dockland
 doublehandedly
+deconcentrating
 docklands
 dominica
 dialogue
