@@ -2991,7 +2991,6 @@ explait
 equiprobabilism
 eliminated
 ectopia
-elymus
 ergotamine
 epitomes
 enallage
@@ -12137,6 +12136,7 @@ elasticin
 exuviating
 electroshock
 eggers
+elymus
 exploits
 ethnogeography
 etageres
