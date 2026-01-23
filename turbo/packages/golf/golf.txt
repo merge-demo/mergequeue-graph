@@ -8527,7 +8527,6 @@ gourmand
 grabbling
 generates
 geranomorph
-gusla
 gilo
 gonopores
 gasolene
@@ -9903,6 +9902,7 @@ grouter
 greith
 gormandized
 gravelly
+gusla
 grander
 grainsick
 gallop
