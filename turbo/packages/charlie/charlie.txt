@@ -5443,6 +5443,7 @@ concertmeister
 cinchotoxine
 chapourn
 chon
+clotures
 carpi
 clypeiform
 confervas
@@ -16725,7 +16726,6 @@ clotting
 characterful
 cloture
 clotured
-clotures
 confixed
 coachee
 cloturing
