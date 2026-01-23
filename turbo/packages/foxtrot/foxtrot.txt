@@ -4420,6 +4420,7 @@ float
 frowzly
 feelable
 flossy
+follyer
 fraternizer
 fishmouth
 frank
@@ -10730,7 +10731,6 @@ forbare
 forecount
 frumpishly
 fanciness
-follyer
 fructified
 filagree
 fringelike
