@@ -9627,7 +9627,6 @@ dipoles
 dexterous
 dihydrostreptomycin
 dihydrotachysterol
-dhaks
 dihydroxyacetone
 defaceable
 dihydroxysuccinic
@@ -10621,6 +10620,7 @@ difficultness
 dosology
 deviously
 dulias
+dhaks
 draying
 drey
 duncery
