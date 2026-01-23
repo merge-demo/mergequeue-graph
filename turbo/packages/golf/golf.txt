@@ -1772,7 +1772,6 @@ gambados
 garotting
 guiba
 guaycuruan
-galliambic
 gastrorrhea
 graecizes
 goutiest
@@ -9304,6 +9303,7 @@ geosyncline
 gnathalgia
 glopnen
 gerland
+galliambic
 groins
 grolieresque
 granulative
