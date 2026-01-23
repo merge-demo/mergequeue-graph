@@ -7597,7 +7597,6 @@ fairlike
 foredoomer
 fantasticism
 fructuarius
-funiculus
 fanciers
 frustrately
 flintworker
@@ -11199,6 +11198,7 @@ fetterer
 fictil
 farads
 firer
+funiculus
 failles
 flamethrowers
 fieldsman
