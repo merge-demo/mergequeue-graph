@@ -1415,6 +1415,7 @@ endpiece
 entodermal
 epipodialia
 entoretina
+ewery
 erythrocytolytic
 espoused
 ethnicon
@@ -11587,7 +11588,6 @@ end
 elderbush
 emergences
 evulsions
-ewery
 exciding
 empires
 ewes
