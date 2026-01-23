@@ -11709,7 +11709,6 @@ advecting
 anagrammatically
 atmocausis
 aneles
-appaumee
 annuation
 androgenesis
 alts
@@ -20574,6 +20573,7 @@ atomizer
 arthrodymic
 analytic
 aristotelian
+appaumee
 alkoxy
 administerings
 amniote
