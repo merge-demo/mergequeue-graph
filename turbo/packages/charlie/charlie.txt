@@ -5366,7 +5366,6 @@ cassowaries
 carotidean
 cellarers
 cast
-castable
 castagnole
 castalian
 castalides
@@ -15504,6 +15503,7 @@ claros
 chemotaxis
 contraposition
 cowtail
+castable
 competitioner
 constrainable
 constitutionalism
