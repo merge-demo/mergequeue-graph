@@ -12212,6 +12212,7 @@ dormie
 dobie
 dodoisms
 disfranchises
+dimensions
 drosophilae
 depel
 deride
@@ -17188,7 +17189,6 @@ doliolidae
 dreary
 decorums
 disentrammel
-dimensions
 dryopithecus
 diander
 dryopteroid
