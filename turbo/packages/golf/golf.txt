@@ -5389,7 +5389,6 @@ glossoepiglottidean
 germanly
 greenness
 glauconiidae
-garottes
 glyptodon
 glyptodontoid
 glebae
@@ -5826,6 +5825,7 @@ gasfiring
 grandesque
 glycogenous
 glutamates
+garottes
 goliards
 gallinaceous
 graphometrist
