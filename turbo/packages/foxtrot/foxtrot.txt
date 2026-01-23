@@ -10526,6 +10526,7 @@ frottola
 federalizations
 fortuities
 feodality
+fustics
 featherback
 flees
 frotton
@@ -11605,7 +11606,6 @@ fulgour
 formulizer
 fragilely
 fermata
-fustics
 feinschmecker
 forint
 facsimile
