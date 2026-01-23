@@ -1442,7 +1442,6 @@ glamouring
 generated
 goldbeater
 gasalier
-gaoler
 gowks
 graves
 gamma
@@ -7360,6 +7359,7 @@ goosiest
 grapenuts
 gunflints
 gelsemine
+gaoler
 grangerization
 gadean
 geniohyoglossus
