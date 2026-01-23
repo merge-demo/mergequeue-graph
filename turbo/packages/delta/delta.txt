@@ -3218,6 +3218,7 @@ dens
 dolichocnemic
 drunkards
 demoniac
+disusing
 defenceable
 defencive
 dents
@@ -4545,7 +4546,6 @@ dustlike
 dolichocrany
 desperance
 depths
-disusing
 detected
 digitigrade
 decretal
