@@ -4185,6 +4185,7 @@ cardiomelanosis
 contradivide
 cholecystotomies
 cardiometer
+calciminer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
@@ -9587,7 +9588,6 @@ corrodent
 coutumier
 cheeful
 cankerworm
-calciminer
 chanfrin
 cheek
 cheekbone
