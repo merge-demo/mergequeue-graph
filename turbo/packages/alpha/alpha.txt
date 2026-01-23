@@ -6576,6 +6576,7 @@ antidomestically
 atnah
 aiguille
 aiguillette
+antistrike
 anthropoids
 antinuke
 agorae
@@ -13813,7 +13814,6 @@ agglomerated
 afresh
 albumeniizer
 antiheroes
-antistrike
 afterhend
 archsynagogue
 anoscope
