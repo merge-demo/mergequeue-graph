@@ -10675,7 +10675,6 @@ erotology
 eugenism
 electrometry
 epikouros
-elatedness
 erioglaucine
 elaterins
 effetmen
@@ -12719,6 +12718,7 @@ exopterygotism
 epha
 englishman
 exorable
+elatedness
 exactingness
 etiolin
 eradication
