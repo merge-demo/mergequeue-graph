@@ -2794,7 +2794,6 @@ flections
 festivally
 fourieristic
 flareboard
-floppier
 fraze
 forker
 flatly
@@ -7879,6 +7878,7 @@ florent
 fusillades
 froeman
 fictionalizing
+floppier
 foresail
 feuilletonistic
 fasten
