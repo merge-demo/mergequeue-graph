@@ -3630,6 +3630,7 @@ fictions
 fatwood
 furfurol
 foretype
+fermentatively
 filigrane
 furlana
 frangula
@@ -5415,7 +5416,6 @@ furfuration
 fanatic
 fretsome
 fleeter
-fermentatively
 flex
 fusionless
 firefighter
