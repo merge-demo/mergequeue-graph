@@ -3114,6 +3114,7 @@ eyewash
 equiangularity
 epicalyces
 even
+eightieths
 epistolatory
 ecdysones
 echinorhinidae
@@ -3418,7 +3419,6 @@ elaine
 embassy
 eustomatous
 eriometer
-eightieths
 edeotomy
 eucirripedia
 enraptures
