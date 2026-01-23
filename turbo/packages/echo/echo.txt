@@ -1258,7 +1258,6 @@ eelworm
 epichlorohydrin
 extraditable
 ecorche
-eblis
 eucairite
 eoghanacht
 epinephrin
@@ -12761,6 +12760,7 @@ eidetically
 exam
 eyesights
 erwinia
+eblis
 employable
 exorcizement
 encodings
