@@ -15040,6 +15040,7 @@ disrout
 durnedest
 decided
 deformer
+drowsihead
 doggerelling
 deposals
 dioptrics
@@ -17496,7 +17497,6 @@ dhundia
 discarder
 decuplet
 dimwitted
-drowsihead
 drowte
 dreads
 duncify
