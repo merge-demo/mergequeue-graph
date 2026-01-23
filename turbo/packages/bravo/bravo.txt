@@ -4438,6 +4438,7 @@ bludging
 beclogs
 bonspells
 bilabials
+bedsit
 beclothe
 banting
 bonasus
@@ -16565,7 +16566,6 @@ bandster
 bruzz
 bsf
 becurse
-bedsit
 blepharophthalmia
 bocasine
 backpointers
