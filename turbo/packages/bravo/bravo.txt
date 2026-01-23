@@ -6014,7 +6014,6 @@ beautifulness
 bellow
 bemoan
 bookie
-bemoaned
 bowenite
 boiling
 brouette
@@ -9543,6 +9542,7 @@ birthstones
 buncos
 bulliform
 birthstool
+bemoaned
 birthwort
 bitnet
 brandreth
