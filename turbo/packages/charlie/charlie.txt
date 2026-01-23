@@ -14735,7 +14735,6 @@ cradlers
 canamary
 closen
 culler
-coursy
 cowering
 cityfied
 citifying
@@ -17237,6 +17236,7 @@ commoderate
 chambrel
 curseder
 coalier
+coursy
 coaliest
 coenzymatically
 coalify
