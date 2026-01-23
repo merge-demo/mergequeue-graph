@@ -13204,7 +13204,6 @@ blazonry
 blushless
 boustrophedonic
 boskier
-boasters
 bosn
 brinkless
 bosniak
@@ -18244,6 +18243,7 @@ butteryfingered
 butteris
 broo
 bottlenecks
+boasters
 blepharospasm
 bepat
 bivouacs
