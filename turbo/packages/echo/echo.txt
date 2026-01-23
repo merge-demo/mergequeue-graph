@@ -6065,6 +6065,7 @@ engraulis
 eulachon
 elasmosaur
 evanesce
+ereptase
 epifauna
 epirrhema
 electrocardiography
@@ -13156,7 +13157,6 @@ epiphonema
 epistlar
 exencephalia
 eugenist
-ereptase
 ethnicize
 euryalus
 extrajudicially

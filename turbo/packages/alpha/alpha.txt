@@ -1930,7 +1930,6 @@ awaiters
 aversive
 anamirtin
 acetylization
-avenges
 ammonization
 airflows
 aviso
@@ -12444,6 +12443,7 @@ algerines
 abandons
 autolithographer
 arsenotungstates
+avenges
 anhydrite
 aikidos
 antehistoric
