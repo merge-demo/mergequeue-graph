@@ -8666,7 +8666,6 @@ exfoliate
 encharging
 explicandum
 episcleritis
-epiglottides
 evangelists
 emendations
 endophyllous
@@ -12685,6 +12684,7 @@ erie
 emparadise
 electromyographical
 exodontics
+epiglottides
 estrogenically
 etoffe
 exonian
