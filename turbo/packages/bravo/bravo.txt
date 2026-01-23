@@ -4864,7 +4864,6 @@ brazenface
 bandcase
 baffing
 bagobo
-bratling
 bewrapped
 beekite
 bedur
@@ -10604,6 +10603,7 @@ blatting
 blattodea
 blattoid
 boresomely
+bratling
 besayle
 blastomas
 bereft
