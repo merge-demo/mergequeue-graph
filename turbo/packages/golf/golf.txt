@@ -2154,6 +2154,7 @@ gossep
 glout
 guacos
 galea
+gabling
 goniostat
 goldfinches
 galliards
@@ -8490,7 +8491,6 @@ guardian
 geognostical
 gulpers
 genie
-gabling
 gluttoness
 grownups
 geomedical
