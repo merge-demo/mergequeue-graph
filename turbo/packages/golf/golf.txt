@@ -310,6 +310,7 @@ gaudful
 gourami
 gadolinium
 grognard
+glusid
 grundsil
 gelatins
 galeorhinus
@@ -5259,7 +5260,6 @@ glabrous
 gothicness
 graving
 gangmaster
-glusid
 glycyrrhizin
 gimps
 glycogenolytic
