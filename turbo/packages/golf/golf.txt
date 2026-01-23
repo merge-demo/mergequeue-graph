@@ -2478,7 +2478,6 @@ grandity
 girdlelike
 gaucher
 golds
-gotch
 glunches
 gastroalbuminorrhea
 glibnesses
@@ -9254,6 +9253,7 @@ grizzly
 gaugeably
 grizzling
 ghosts
+gotch
 groanful
 gizzened
 gayly
