@@ -3832,6 +3832,7 @@ adios
 adipate
 amphitruo
 apophysis
+antitragicus
 aequorin
 amphithuron
 aggressions
@@ -16313,7 +16314,6 @@ accombination
 arborvitae
 armarium
 accusive
-antitragicus
 aricine
 alphabetizing
 assuagement
