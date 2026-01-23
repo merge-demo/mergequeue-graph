@@ -5893,6 +5893,7 @@ digestant
 disentraced
 dere
 defeatee
+disbelieves
 depreter
 depriment
 deprint
@@ -11180,7 +11181,6 @@ dowelling
 devocalise
 dazingly
 denotation
-disbelieves
 disavowals
 doughfeet
 deprives
