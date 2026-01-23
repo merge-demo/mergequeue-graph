@@ -694,7 +694,6 @@ gaddishness
 gideon
 granulomatosis
 goneril
-gastronomer
 gallying
 gemaric
 goniotropous
@@ -8372,6 +8371,7 @@ gulping
 guitarfishes
 grippes
 giantry
+gastronomer
 gunplay
 ghawazi
 grainfield
