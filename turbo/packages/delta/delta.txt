@@ -7219,6 +7219,7 @@ disnatured
 dux
 dietic
 dicotyl
+denotative
 dimetric
 detenue
 decussorium
@@ -16611,7 +16612,6 @@ dambose
 dissimilated
 denunciate
 dragonade
-denotative
 donjon
 derout
 denotations
