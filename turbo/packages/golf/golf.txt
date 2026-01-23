@@ -6522,6 +6522,7 @@ gleeman
 gastrologists
 gomer
 gesten
+ganza
 gut
 grew
 gurrah
@@ -9772,7 +9773,6 @@ gonochorismus
 gaulsh
 gean
 globetrotter
-ganza
 grunt
 grunter
 gravemaking
