@@ -3570,6 +3570,7 @@ files
 fiddle
 freijo
 fazing
+frowzily
 foreroom
 floatboard
 flagitation
@@ -7941,7 +7942,6 @@ frondesced
 forefit
 fortnightlies
 feudatories
-frowzily
 fadging
 falling
 ferreled
