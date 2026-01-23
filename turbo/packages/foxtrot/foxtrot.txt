@@ -3672,6 +3672,7 @@ frownless
 flavorlessness
 featherers
 feodal
+fosterland
 frousiest
 futurist
 facebread
@@ -10472,7 +10473,6 @@ fanterie
 flnerie
 foregoer
 forbodes
-fosterland
 fibroin
 foofaraw
 forepretended
