@@ -10622,6 +10622,7 @@ chimaera
 chimaeroid
 chimakum
 curled
+culminant
 cogon
 cephalomancy
 chimakuan
@@ -18332,7 +18333,6 @@ chasses
 clodpoll
 cogie
 cestraciontes
-culminant
 cogitabund
 cheviot
 cogitabundous
