@@ -3891,7 +3891,6 @@ gigasecond
 glamorously
 galleried
 gisla
-guidance
 glassite
 ghat
 geomorphy
@@ -8580,6 +8579,7 @@ genealogical
 guerdonless
 gibbeting
 gaudeamuses
+guidance
 geothermometer
 gaufrettes
 glucose
