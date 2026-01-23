@@ -6305,7 +6305,6 @@ benumbingly
 benumbs
 besodden
 brigalow
-botryomycosis
 battens
 balourdise
 benzalacetophenone
@@ -7872,6 +7871,7 @@ bels
 benamed
 biblicality
 biblicism
+botryomycosis
 biblicopsychological
 bicuculline
 biblike
