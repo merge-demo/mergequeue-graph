@@ -1082,7 +1082,6 @@ forensal
 fringillidae
 foraging
 fogas
-fastigiately
 faro
 fluoridization
 floriken
@@ -8542,6 +8541,7 @@ flatwise
 foramen
 forinsec
 fream
+fastigiately
 ferrule
 flexive
 fraxetin
