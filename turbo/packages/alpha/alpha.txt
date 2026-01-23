@@ -7541,6 +7541,7 @@ asylum
 asteraceae
 arrhythmical
 alchemy
+apiphobia
 angiomata
 alchemic
 antiviral
@@ -11398,7 +11399,6 @@ anywheres
 assets
 aneroids
 arthogram
-apiphobia
 antholysis
 akwapim
 antisquama
