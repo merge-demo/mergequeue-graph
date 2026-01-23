@@ -18090,6 +18090,7 @@ butadiyne
 beshout
 berthierite
 butane
+bucellas
 bismuthite
 burgage
 bonked
@@ -18341,7 +18342,6 @@ bulbs
 butts
 bolita
 bluestone
-bucellas
 bipontine
 bensail
 biblioclast
