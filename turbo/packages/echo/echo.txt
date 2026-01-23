@@ -4762,6 +4762,7 @@ executioners
 eventides
 excrementitiousness
 encolpia
+ethicians
 extinguisher
 ethanim
 equilibrator
@@ -10200,7 +10201,6 @@ esophagomycosis
 envenomation
 ethician
 emydian
-ethicians
 erroneous
 ethicoaesthetic
 ethicopolitical
