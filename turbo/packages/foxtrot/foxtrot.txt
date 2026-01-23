@@ -3687,7 +3687,6 @@ families
 feetless
 firedogs
 foalfoot
-flaccidities
 fillings
 furfuryl
 fricti
@@ -7898,6 +7897,7 @@ footslog
 fallers
 fletching
 foreseer
+flaccidities
 foresees
 fonder
 foreseize
