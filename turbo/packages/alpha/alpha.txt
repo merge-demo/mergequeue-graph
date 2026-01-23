@@ -632,7 +632,6 @@ alphameric
 arousal
 athamantin
 adherend
-arshins
 abolitionized
 askers
 ampholyte
@@ -18306,6 +18305,7 @@ anticoagulants
 appeaser
 amorphinism
 anacatharsis
+arshins
 avails
 arabophil
 araca
