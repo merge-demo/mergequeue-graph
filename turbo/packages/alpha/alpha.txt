@@ -4469,6 +4469,7 @@ adventitiousness
 archdemon
 adventive
 adventively
+advancer
 apaesthesia
 amounting
 acrography
@@ -22688,7 +22689,6 @@ atheroscleroses
 archbuffoon
 ateuchi
 atherosclerosis
-advancer
 atherosclerotic
 absent
 aeronomic
