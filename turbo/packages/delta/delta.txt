@@ -7299,7 +7299,6 @@ determiner
 diameters
 didine
 determinism
-disseise
 dunnest
 deterministic
 dollbeer
@@ -15458,6 +15457,7 @@ drongo
 doorway
 dominique
 despairingly
+disseise
 dewanship
 dominule
 dissociability
