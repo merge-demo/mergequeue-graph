@@ -333,7 +333,6 @@ fail
 fireplough
 faineancy
 fayles
-fimbricated
 furcal
 fayumic
 fricandelle
@@ -11071,6 +11070,7 @@ forficated
 fumariaceous
 flaunter
 freightment
+fimbricated
 flense
 footrace
 flew
