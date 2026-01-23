@@ -7809,6 +7809,7 @@ forenote
 fastness
 feltyflier
 fleamy
+forestiera
 felonwood
 fowlerite
 fritterers
@@ -9575,7 +9576,6 @@ farsi
 fleeciest
 freebooter
 freebootery
-forestiera
 freebooting
 feltwork
 facete
