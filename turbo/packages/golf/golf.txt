@@ -6228,7 +6228,6 @@ greats
 gregorianizer
 gob
 greediness
-gobber
 gazettes
 goateed
 guitarlike
@@ -9208,6 +9207,7 @@ gibberosity
 grippleness
 grazier
 gryllotalpa
+gobber
 glassworker
 griqualander
 geminis
