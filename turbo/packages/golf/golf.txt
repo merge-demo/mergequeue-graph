@@ -8177,6 +8177,7 @@ gris
 genevois
 graphically
 gerim
+gnotobiote
 glorioso
 graphiological
 gemotes
@@ -9116,7 +9117,6 @@ goetia
 gavelkinder
 gelong
 gazpacho
-gnotobiote
 greenbrier
 gigful
 gracious
