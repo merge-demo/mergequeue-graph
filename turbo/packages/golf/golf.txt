@@ -3276,6 +3276,7 @@ gazaboes
 guess
 graduatical
 germanized
+gtc
 germanizer
 germule
 germanness
@@ -7794,7 +7795,6 @@ grumble
 gurlet
 gasometric
 guttide
-gtc
 gun
 gorsy
 guhayna

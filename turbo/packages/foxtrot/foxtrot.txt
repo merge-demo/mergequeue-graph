@@ -1930,7 +1930,6 @@ forgiver
 farrowing
 flattery
 franklinization
-federalised
 federalism
 fykes
 foreshaft
@@ -3415,6 +3414,7 @@ florilegia
 fogy
 figeater
 floriate
+federalised
 fascisti
 freesp
 filthily
