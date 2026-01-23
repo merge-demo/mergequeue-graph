@@ -9044,7 +9044,6 @@ gavialoid
 gaffle
 gimcracky
 glossitis
-grimaced
 gulose
 genoese
 gis
@@ -10095,6 +10094,7 @@ gonfaloniership
 gasoscope
 goalage
 gazetteer
+grimaced
 gonystylus
 goldenfleece
 gnomic
