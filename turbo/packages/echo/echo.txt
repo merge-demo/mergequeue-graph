@@ -10094,6 +10094,7 @@ extrinsic
 exasperates
 esthetician
 encrinitic
+entrails
 electrophoresed
 earwax
 ether
@@ -11303,7 +11304,6 @@ entirety
 eagles
 exalbuminous
 evaporimeter
-entrails
 enterodelous
 electrocute
 ecdysons

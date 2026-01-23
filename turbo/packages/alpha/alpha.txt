@@ -3356,7 +3356,6 @@ adamite
 anselmian
 acanthocereus
 acetonation
-adamitism
 anacidity
 akhoond
 aliptae
@@ -24492,6 +24491,7 @@ avidous
 astragals
 atween
 autotransformer
+adamitism
 archeologically
 attemperately
 aetheric
