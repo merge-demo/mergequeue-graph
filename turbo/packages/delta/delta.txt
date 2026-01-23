@@ -5580,6 +5580,7 @@ desaturation
 depetalize
 disorganiser
 disprivilege
+dreading
 detainingly
 depravingly
 dissyllable
@@ -16896,7 +16897,6 @@ disadventurous
 disentailment
 despairingness
 douanes
-dreading
 demonstrandum
 distemperment
 descriptory
