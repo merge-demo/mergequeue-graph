@@ -3273,7 +3273,6 @@ ascomycetal
 acutest
 authorcraft
 anticipator
-aedine
 arpanet
 additament
 acutilingual
@@ -15848,6 +15847,7 @@ antipodal
 antipode
 antimensia
 anchorwise
+aedine
 autocoprophagous
 argufied
 antipoetical
