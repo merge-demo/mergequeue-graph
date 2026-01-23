@@ -925,7 +925,6 @@ fishhook
 forcive
 fistulatous
 fissipedial
-fantigue
 freighters
 fibry
 fezes
@@ -2948,6 +2947,7 @@ fluke
 fissiparity
 fewterer
 francophil
+fantigue
 fewtrils
 foretopmen
 follower
