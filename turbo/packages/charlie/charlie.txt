@@ -8482,7 +8482,6 @@ champions
 cytotaxonomic
 championships
 champleve
-cephalofacial
 chiselled
 cryogenies
 chams
@@ -13973,6 +13972,7 @@ cacique
 corruptions
 cionitis
 culprits
+cephalofacial
 cionorrhaphia
 conciliates
 cognitum
