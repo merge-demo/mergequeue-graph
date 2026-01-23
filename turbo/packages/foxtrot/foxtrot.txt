@@ -3270,6 +3270,7 @@ farsight
 fica
 flounces
 fortier
+formulizing
 filets
 fulgency
 finity
@@ -8557,7 +8558,6 @@ frenchwise
 foeffment
 fluorographic
 fleered
-formulizing
 frutescent
 flapdoodle
 formby
