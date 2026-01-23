@@ -4002,7 +4002,6 @@ eyeblack
 elucidations
 emphysema
 escalan
-episynaloephe
 endobronchitis
 emphyteutic
 emolumentary
@@ -7418,6 +7417,7 @@ erratical
 ecchondrotome
 ephestia
 enregistering
+episynaloephe
 emphatical
 encyclicals
 ephelcystic
