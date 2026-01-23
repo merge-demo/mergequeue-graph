@@ -9681,6 +9681,7 @@ bisks
 bysmalith
 bismark
 boulder
+butterfat
 bladed
 besmiles
 boisseau
@@ -18211,7 +18212,6 @@ beshadowing
 brisken
 bonhomous
 beyond
-butterfat
 bucranium
 bandages
 bushwhacks
