@@ -22430,7 +22430,6 @@ chemosensitivity
 cormophyte
 coniines
 conylene
-ceric
 calends
 conines
 coning
@@ -25281,6 +25280,7 @@ corkwing
 cormac
 concetto
 coardent
+ceric
 cormidium
 conversional
 concolour
