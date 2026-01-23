@@ -1488,7 +1488,6 @@ effuviate
 efph
 erringly
 entocondylar
-experimentarian
 electrothermal
 estantion
 empyesis
@@ -5056,6 +5055,7 @@ eclogites
 eardrums
 exited
 endoclinal
+experimentarian
 eternals
 eupanorthidae
 ectozoan
