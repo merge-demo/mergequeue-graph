@@ -2350,7 +2350,6 @@ fronton
 fetations
 frauder
 filmable
-flanneled
 force
 fencelike
 floaters
@@ -11551,6 +11550,7 @@ folio
 fretfully
 footlessly
 fusiform
+flanneled
 fusil
 frictionized
 fowage
