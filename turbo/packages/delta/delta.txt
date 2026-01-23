@@ -1942,7 +1942,6 @@ desire
 durocs
 dawsonite
 deaccession
-darat
 dissatisfyingly
 debruises
 discriminated
@@ -10658,6 +10657,7 @@ dinornithoid
 dankali
 dawties
 durned
+darat
 draws
 derivable
 dejectedness
