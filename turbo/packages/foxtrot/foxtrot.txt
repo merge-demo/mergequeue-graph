@@ -5637,6 +5637,7 @@ flancards
 friended
 fordone
 fuzz
+flatette
 firking
 fountains
 firebrands
@@ -9564,7 +9565,6 @@ freightyard
 forwalk
 foolmonger
 fluorid
-flatette
 figureless
 final
 foaly
