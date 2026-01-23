@@ -4927,7 +4927,6 @@ flamy
 fan
 facepiece
 floorages
-flamingant
 foremarch
 flaminical
 fomenters
@@ -9049,6 +9048,7 @@ foxbane
 foxberry
 foliums
 fribbleism
+flamingant
 familiariser
 forenent
 friesish
