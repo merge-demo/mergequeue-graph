@@ -8113,7 +8113,6 @@ gangava
 granulet
 gorgonising
 gurkha
-gemsboks
 granulization
 ghastful
 gleek
@@ -9192,6 +9191,7 @@ goffered
 gryde
 greenyard
 gripping
+gemsboks
 gelandesprung
 guayule
 goshawful
