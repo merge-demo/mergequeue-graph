@@ -3470,7 +3470,6 @@ farness
 follying
 fermentology
 fraternity
-fleches
 falcones
 fastigiate
 futtock
@@ -10647,6 +10646,7 @@ frugalities
 farrandly
 frugalness
 freck
+fleches
 fetiches
 frutilla
 fechnerian
