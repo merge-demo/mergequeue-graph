@@ -3332,6 +3332,7 @@ ecdyses
 entitative
 eyry
 eulogic
+etymologizable
 expresses
 environed
 embryoscopic
@@ -6134,7 +6135,6 @@ ethnomusicological
 elans
 evolvent
 enneagonal
-etymologizable
 externation
 enrolling
 endorachis
