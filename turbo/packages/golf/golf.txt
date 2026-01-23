@@ -1828,7 +1828,6 @@ grizel
 grassy
 glummer
 gabbier
-gatekeepers
 glos
 gentile
 groupage
@@ -9062,6 +9061,7 @@ gigahertz
 gentianwort
 ghast
 grimme
+gatekeepers
 grillroom
 gleet
 gymnasial

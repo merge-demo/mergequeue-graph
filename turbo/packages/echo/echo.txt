@@ -10100,7 +10100,6 @@ eutopia
 epiloguize
 euphausiacea
 ethereality
-epiboly
 eccaleobion
 etherealization
 extrusible
@@ -10831,6 +10830,7 @@ endostomata
 envineyard
 elaeoblastic
 enchase
+epiboly
 euphotic
 entailable
 eradicatory
