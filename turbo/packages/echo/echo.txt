@@ -684,6 +684,7 @@ ecology
 eromania
 encephalolith
 employing
+epispore
 enspell
 equidistant
 eidently
@@ -6877,7 +6878,6 @@ equalization
 endangered
 electrum
 endamageable
-epispore
 ectocardia
 eisteddfods
 endometria
