@@ -5484,7 +5484,6 @@ ethnically
 ensnarers
 enterocoel
 enetophobia
-entailed
 earthshattering
 elizabethans
 experimentalism
@@ -9283,6 +9282,7 @@ erst
 easers
 edited
 earlish
+entailed
 electroreceptive
 espacement
 entomolegist
