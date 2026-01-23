@@ -2700,6 +2700,7 @@ essed
 electrocoating
 ericolin
 electrograving
+ef
 elderwort
 electrophoresing
 endomycetaceae
@@ -4859,7 +4860,6 @@ elderberries
 ensured
 entablements
 excisions
-ef
 encumbrance
 extrabureau
 english
