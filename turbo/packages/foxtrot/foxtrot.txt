@@ -3195,6 +3195,7 @@ feracious
 fusilade
 flutterers
 flavourer
+fluors
 foods
 fogman
 feloness
@@ -9811,7 +9812,6 @@ faddist
 fretum
 fidget
 falsified
-fluors
 freudian
 filthiness
 fluorenyl
