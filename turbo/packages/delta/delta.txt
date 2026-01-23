@@ -5889,6 +5889,7 @@ densifier
 drew
 depressurize
 deaconate
+digestant
 disentraced
 dere
 defeatee
@@ -8381,7 +8382,6 @@ dobbins
 dreamlessly
 delocalizing
 darwinize
-digestant
 disniche
 dialysis
 digestional
