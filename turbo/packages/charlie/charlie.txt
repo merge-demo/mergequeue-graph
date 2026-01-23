@@ -653,7 +653,6 @@ caesardom
 caesarean
 caesareans
 cardiopyloric
-campagnol
 connubialism
 cottage
 caesarian
@@ -20244,6 +20243,7 @@ commodiously
 commodiousness
 commodity
 commodities
+campagnol
 commoigne
 cuticulae
 catchpolery
