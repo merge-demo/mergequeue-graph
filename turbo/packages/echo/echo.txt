@@ -7915,6 +7915,7 @@ eurystomatous
 emitter
 eatery
 exudates
+enthraller
 exordia
 ectepicondylar
 epimandibular
@@ -11509,7 +11510,6 @@ entoblast
 esophagus
 egesta
 evincive
-enthraller
 excavationist
 evite
 easinesses
