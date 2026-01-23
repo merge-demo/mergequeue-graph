@@ -4904,6 +4904,7 @@ eurytomid
 emulsifiers
 earnestful
 ephemerally
+epiploon
 enterocele
 eglestonite
 ecliptics
@@ -11956,7 +11957,6 @@ enteromesenteric
 epistemophilic
 evaporation
 epitaphist
-epiploon
 eelcatcher
 excitations
 escapees
