@@ -9696,6 +9696,7 @@ ejaculum
 epistomata
 embargo
 erethism
+espiglerie
 empyrical
 envapor
 essayed
@@ -12985,7 +12986,6 @@ exposals
 emotion
 entice
 expectorant
-espiglerie
 expectorated
 echinococcus
 enneahedria
