@@ -13028,6 +13028,7 @@ chickahominy
 cyanoplastid
 cyanoplatinite
 cooperative
+cysterethism
 cyanoplatinous
 cyanose
 chemitype
@@ -17794,7 +17795,6 @@ codebtors
 carrotiness
 codec
 centroclinal
-cysterethism
 conjunctivitis
 codeclination
 codecs
