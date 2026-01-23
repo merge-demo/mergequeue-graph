@@ -10245,6 +10245,7 @@ bibliotaph
 bootstraps
 bondhold
 blvd
+bibliophily
 bloodletter
 blackleg
 blacklegged
@@ -18073,7 +18074,6 @@ busts
 busulfans
 bughouse
 burbliest
-bibliophily
 backrush
 but
 beroll
