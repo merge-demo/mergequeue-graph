@@ -10781,6 +10781,7 @@ elaborating
 extraconstellated
 emoting
 euskera
+encincturing
 esterases
 epitactic
 empyemas
@@ -12627,7 +12628,6 @@ equiaxial
 epexegeses
 exodic
 equipped
-encincturing
 ephemeral
 emeralds
 essancia
