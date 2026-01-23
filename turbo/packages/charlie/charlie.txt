@@ -1963,6 +1963,7 @@ camenes
 coveters
 confeder
 crotalid
+clamant
 checkered
 capitols
 counterwill
@@ -15601,7 +15602,6 @@ clathrarian
 clathrate
 choose
 clathrinidae
-clamant
 clathroid
 clathrose
 cranes
