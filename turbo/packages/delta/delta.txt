@@ -432,6 +432,7 @@ desulfurise
 darwan
 dairymaids
 devaluate
+descend
 dogfighting
 dithered
 dorsoanterior
@@ -9133,7 +9134,6 @@ desmopathy
 dramatising
 didynamous
 diffractometer
-descend
 dunnage
 druggiest
 drummer
