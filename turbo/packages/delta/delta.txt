@@ -687,6 +687,7 @@ dampness
 dextrosuria
 distinguishing
 diacetylene
+dissimule
 digestory
 drainfield
 deans
@@ -7616,7 +7617,6 @@ differentiations
 distentions
 develop
 disembellish
-dissimule
 developable
 diuretically
 deceptious
