@@ -6455,7 +6455,6 @@ garrupa
 gannister
 gastraead
 guanare
-gangrenate
 gapeworms
 gurry
 goosebone
@@ -9402,6 +9401,7 @@ glycerolize
 grottoes
 gelatose
 grandeeism
+gangrenate
 geryonidae
 galloptious
 gynecopathic

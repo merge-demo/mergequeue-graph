@@ -4835,6 +4835,7 @@ fetching
 factuality
 fabricational
 funks
+fstore
 foldedly
 frumpy
 fives
@@ -5209,7 +5210,6 @@ flavorsome
 fluidises
 fossilage
 fills
-fstore
 flot
 fictionist
 fissiped
