@@ -6827,6 +6827,7 @@ entomol
 eyepopper
 exocentric
 eupolyzoan
+enterfeat
 ensky
 edging
 etherification
@@ -11995,7 +11996,6 @@ exclaves
 excavational
 expensed
 eryngium
-enterfeat
 exampleship
 essentials
 eigenspace
