@@ -1724,7 +1724,6 @@ goofier
 gammon
 gave
 gracileness
-gloeal
 goric
 glass
 guesses
@@ -10140,6 +10139,7 @@ grazers
 glean
 giddyish
 gloried
+gloeal
 glideness
 guardianly
 git
