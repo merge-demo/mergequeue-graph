@@ -850,6 +850,7 @@ baga
 benzenoid
 biniodide
 biochron
+brachyurous
 burghalpenny
 bromodeoxyuridine
 burnishers
@@ -15840,7 +15841,6 @@ belittled
 battiks
 broletti
 bi
-brachyurous
 broletto
 benzthiophen
 biders
