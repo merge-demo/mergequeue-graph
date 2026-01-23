@@ -8903,6 +8903,7 @@ blankmindedness
 biocenosis
 burgraviate
 basket
+bereave
 branchiopodan
 belialist
 biochemic
@@ -15450,7 +15451,6 @@ binominous
 brillante
 brilliance
 braata
-bereave
 bono
 beflout
 bacteriophage
