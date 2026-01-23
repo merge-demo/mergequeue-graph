@@ -2025,7 +2025,6 @@ dogwoods
 dinornis
 dearling
 denationalized
-diplococcal
 daucus
 decagonally
 detenus
@@ -16553,6 +16552,7 @@ demoralise
 draftings
 daliance
 diesinker
+diplococcal
 disinterred
 dallop
 dendrodont
