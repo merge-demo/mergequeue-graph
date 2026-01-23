@@ -9044,7 +9044,6 @@ dermatophobia
 defigure
 dictionarian
 dollying
-dropsywort
 disembattle
 discommodity
 diluvy
@@ -11685,6 +11684,7 @@ djinny
 defecates
 discountinuous
 dooming
+dropsywort
 deepeners
 dirhams
 disarranger
