@@ -4683,7 +4683,6 @@ executonis
 easter
 epacmaic
 epigean
-ensphering
 epilogize
 estre
 emplaced
@@ -5458,6 +5457,7 @@ ensuing
 endoplasmic
 extramundane
 endotheliomyxoma
+ensphering
 energize
 egging
 energizers
