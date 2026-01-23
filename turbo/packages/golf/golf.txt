@@ -3004,7 +3004,6 @@ guildsmen
 geomancy
 gildhalls
 garnered
-glosser
 gushingness
 gauchest
 gravipause
@@ -8513,6 +8512,7 @@ gramineae
 graverobbing
 gadger
 ghettoization
+glosser
 gravers
 gigsmen
 girliness
