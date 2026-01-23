@@ -5984,7 +5984,6 @@ enjoiners
 extravillar
 electrodesiccate
 electricalness
-embolomerism
 electrodynamism
 exhortative
 estampedero
@@ -8351,6 +8350,7 @@ exterminates
 errands
 epistolography
 epitrachelia
+embolomerism
 estrum
 erpetoichthys
 exceedable
