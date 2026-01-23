@@ -779,7 +779,6 @@ ganymede
 gamily
 glossolalist
 gerendum
-gutturize
 galvanothermometer
 ggr
 galliformes
@@ -1820,6 +1819,7 @@ gratility
 gaggling
 gouts
 gemmiparity
+gutturize
 gobleted
 guinean
 gladioluses
