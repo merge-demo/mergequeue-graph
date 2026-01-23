@@ -7242,6 +7242,7 @@ detenue
 decussorium
 desulfurize
 disprizing
+discoactine
 detenues
 dephlegmator
 digne
@@ -11433,7 +11434,6 @@ dorsals
 designlessness
 dollar
 deoccidentalize
-discoactine
 documentation
 diallages
 deedeed
