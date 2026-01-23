@@ -16268,6 +16268,7 @@ antithetic
 achropsia
 antithyroid
 anilid
+argulus
 antitintinnabularian
 averroist
 antitypal
@@ -19542,7 +19543,6 @@ asterinidae
 arguing
 admiration
 apnea
-argulus
 argument
 argumental
 autecious
