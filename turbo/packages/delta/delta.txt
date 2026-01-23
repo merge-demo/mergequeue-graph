@@ -2640,7 +2640,6 @@ dumpcarts
 dinglebird
 decreers
 decolours
-decommission
 decommissioned
 discriminably
 decian
@@ -4104,6 +4103,7 @@ dipodidae
 discomfited
 dolling
 darnedest
+decommission
 delirium
 deleaded
 disconanthae
