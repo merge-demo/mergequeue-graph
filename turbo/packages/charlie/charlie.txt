@@ -2666,6 +2666,7 @@ clumsiness
 comparativist
 cangy
 crankdisk
+chairlift
 cangia
 constitutively
 cangler
@@ -25644,7 +25645,6 @@ completed
 corpuscularity
 corpuscule
 corpusculous
-chairlift
 corradial
 corradiate
 corradiated
