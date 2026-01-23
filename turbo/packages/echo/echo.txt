@@ -1748,6 +1748,7 @@ epanorthoses
 enswathe
 eyepiece
 enrapturer
+eugenic
 everard
 extg
 embattle
@@ -6049,7 +6050,6 @@ eranthis
 expostulated
 encomienda
 engraulis
-eugenic
 eulachon
 elasmosaur
 evanesce
