@@ -4642,6 +4642,7 @@ fells
 ferrotungsten
 flewit
 freety
+frwy
 factable
 filicinean
 fearsome
@@ -11659,7 +11660,6 @@ foxskins
 functionalized
 fructiform
 fresne
-frwy
 fluorochrome
 faade
 ferrety
