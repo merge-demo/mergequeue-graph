@@ -11016,7 +11016,6 @@ buzzwigs
 botryopterid
 blitzkrieging
 brache
-bascology
 backstairs
 bladelike
 bullyrags
@@ -15162,6 +15161,7 @@ biddulphiaceae
 bryanism
 barsom
 bahuvrihis
+bascology
 brawlys
 briard
 bromins
