@@ -4250,6 +4250,7 @@ foreyard
 flail
 fireward
 forehead
+fyces
 firewater
 fictionisation
 fingerling
@@ -9466,7 +9467,6 @@ felid
 femininism
 frequenting
 fraudfully
-fyces
 forearmed
 fand
 fraudulent
