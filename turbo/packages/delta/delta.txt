@@ -12598,7 +12598,6 @@ diamantoid
 disintegrator
 deifications
 disintegrators
-dextrer
 disintegrity
 disinter
 diagenetic
@@ -16937,6 +16936,7 @@ disharmony
 dazzlers
 damnation
 deoxidate
+dextrer
 displeasingness
 devisability
 dobber

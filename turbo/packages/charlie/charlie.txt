@@ -12448,7 +12448,6 @@ chromoisomer
 chromoisomeric
 chamaenerion
 candelabra
-cerebralize
 chromoleucite
 chromolipoid
 clayen
@@ -24054,6 +24053,7 @@ converging
 conversable
 conversableness
 camarillas
+cerebralize
 cosmonautic
 cringing
 circularise
