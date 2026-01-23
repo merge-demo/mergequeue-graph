@@ -3270,7 +3270,6 @@ flaith
 flyting
 flasket
 foreconscious
-facewise
 fossilologist
 folklorist
 featherlessness
@@ -6976,6 +6975,7 @@ frayings
 fondled
 fondles
 fainter
+facewise
 formulize
 formalazine
 fumant
