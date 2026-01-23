@@ -10191,7 +10191,6 @@ faros
 fidepromissor
 flaskful
 frog
-frutilla
 filazer
 freudianism
 flopovers
@@ -10653,6 +10652,7 @@ farrandly
 frugalness
 freck
 fetiches
+frutilla
 fechnerian
 frugiferous
 flangers
