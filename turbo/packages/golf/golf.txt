@@ -8478,7 +8478,6 @@ glossotype
 gurgle
 gelatinization
 gravely
-galops
 groupers
 gayal
 grata
@@ -10434,6 +10433,7 @@ gumdrop
 gelseminine
 gumly
 gruffs
+galops
 gesticulatory
 gambeer
 gelees
