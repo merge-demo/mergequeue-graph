@@ -4285,7 +4285,6 @@ fibster
 fenland
 fungology
 furmeties
-flunkeys
 forrader
 filthier
 farhand
@@ -8950,6 +8949,7 @@ frisbee
 fusiformis
 floit
 flywort
+flunkeys
 fiacre
 footle
 feldspath
