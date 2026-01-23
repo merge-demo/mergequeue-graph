@@ -1531,7 +1531,6 @@ foresend
 faulx
 flugelman
 faults
-focusers
 fastidiously
 factionary
 ferruminating
@@ -7409,6 +7408,7 @@ flagellariaceae
 floreate
 fasciculation
 fey
+focusers
 fasti
 flots
 figgum
