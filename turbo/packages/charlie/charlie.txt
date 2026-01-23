@@ -3893,7 +3893,6 @@ carbonisable
 carbonise
 capernaism
 choirmaster
-canister
 carbonitride
 cincinatti
 countertranslation
@@ -29851,6 +29850,7 @@ circummeridian
 cablets
 coronillo
 chronos
+canister
 chuckler
 calculate
 crossband
