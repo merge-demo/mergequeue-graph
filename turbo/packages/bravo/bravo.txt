@@ -12079,7 +12079,6 @@ boronic
 bovinely
 bokharan
 bokom
-bosey
 burletta
 bolas
 bedell
@@ -14924,6 +14923,7 @@ bevilled
 baldie
 bignonia
 begulfing
+bosey
 breasthook
 bumpee
 bristol
