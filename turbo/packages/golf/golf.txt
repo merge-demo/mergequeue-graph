@@ -1094,6 +1094,7 @@ gentry
 goularo
 glossopharyngeal
 gormandizers
+gv
 gangsa
 gamboge
 genitives
@@ -5007,7 +5008,6 @@ goalkeeper
 golconda
 gecarcinus
 gastrogenital
-gv
 gustful
 garland
 genteelism
