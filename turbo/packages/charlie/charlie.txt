@@ -3066,6 +3066,7 @@ castigated
 canula
 canulae
 canulas
+chasings
 chthonophagy
 coistrel
 canulates
@@ -28834,7 +28835,6 @@ clinostat
 congrue
 churchwards
 crestline
-chasings
 creta
 counterorator
 chirographic
