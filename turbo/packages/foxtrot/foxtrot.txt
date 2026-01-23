@@ -2738,7 +2738,6 @@ fyce
 fusses
 frit
 fraela
-folklore
 faunas
 framing
 feedy
@@ -4136,6 +4135,7 @@ foisted
 ferrosilicon
 fluorometry
 freeheartedly
+folklore
 fennels
 fireback
 fumeuses
