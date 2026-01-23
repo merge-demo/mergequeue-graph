@@ -1394,7 +1394,6 @@ derry
 deworm
 dave
 disna
-disableness
 dollars
 daftar
 daunders
@@ -6081,6 +6080,7 @@ deraigning
 dispirits
 derailing
 demiworld
+disableness
 derailment
 decocts
 divvied
