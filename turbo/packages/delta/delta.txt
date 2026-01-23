@@ -14687,6 +14687,7 @@ dolent
 djuka
 diaskeuast
 dk
+deflectors
 dkg
 dkl
 deadener
@@ -15719,7 +15720,6 @@ ducted
 downbye
 dorask
 dorbeetle
-deflectors
 dorbel
 dorbugs
 defeatist
