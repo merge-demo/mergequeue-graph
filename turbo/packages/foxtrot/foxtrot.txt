@@ -10237,6 +10237,7 @@ fruticant
 fibrillations
 flakers
 forwarn
+farci
 frond
 franchisee
 fluxmeter
@@ -11609,7 +11610,6 @@ facsimile
 firecracker
 fortissimi
 floatingly
-farci
 fibrous
 fylgja
 fosite
