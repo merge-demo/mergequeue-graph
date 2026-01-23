@@ -1364,7 +1364,6 @@ demissive
 diploid
 draftsperson
 doggerelize
-dompt
 dauntingness
 discerners
 duelli
@@ -2538,6 +2537,7 @@ dimaris
 disgout
 diplococcus
 declaring
+dompt
 dwined
 declasses
 dorn
