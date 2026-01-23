@@ -7209,7 +7209,6 @@ economese
 ergatomorphism
 earthliest
 evolutionally
-epicurize
 enskied
 excrescences
 expunge
@@ -12323,6 +12322,7 @@ equilin
 elvanitic
 exercitorian
 efs
+epicurize
 emboliform
 effigurate
 eulogizers
