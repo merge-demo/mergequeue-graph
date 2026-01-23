@@ -8464,6 +8464,7 @@ becall
 banqueteering
 baignet
 bleachyard
+bilboquet
 blessed
 bildar
 bargainwise
@@ -13271,7 +13272,6 @@ becater
 briquettes
 blastoidea
 botany
-bilboquet
 bhaiachara
 berakes
 blennies
