@@ -3611,7 +3611,6 @@ deglory
 dermatoxerasia
 dec
 disarrangement
-decubation
 denounced
 despisement
 delinquencies
@@ -5514,6 +5513,7 @@ depatriate
 dispergation
 doornails
 dwarfishness
+decubation
 deposer
 disbarred
 depauperize
