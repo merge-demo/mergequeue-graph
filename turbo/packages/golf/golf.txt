@@ -208,6 +208,7 @@ gentleness
 graphing
 gliadines
 gallish
+glorious
 gaudsman
 glagolitsa
 greys
@@ -2053,7 +2054,6 @@ glossers
 gingkoes
 gnawer
 guars
-glorious
 gader
 gaulin
 geleem
