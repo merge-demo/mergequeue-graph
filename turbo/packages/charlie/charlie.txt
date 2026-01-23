@@ -7637,7 +7637,6 @@ chimblies
 caquetio
 ceremonies
 ceremonious
-canonici
 counterpoint
 congregates
 carreta
@@ -25419,6 +25418,7 @@ cornpipe
 cohert
 cornrick
 cornrow
+canonici
 cornstalks
 cebian
 cornstarch
