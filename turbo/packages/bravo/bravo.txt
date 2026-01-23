@@ -8830,7 +8830,6 @@ bounden
 besets
 bini
 beraking
-berakoth
 biniou
 binitarianism
 beworm
@@ -17849,6 +17848,7 @@ burthen
 bluewing
 betocsin
 bacteriaceous
+berakoth
 burthens
 burthensome
 bookings
