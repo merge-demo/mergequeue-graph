@@ -5126,6 +5126,7 @@ aether
 aromacity
 affrication
 audition
+articulating
 aethionema
 arsenides
 aetiologies
@@ -21964,7 +21965,6 @@ aquatical
 associativity
 adicity
 autochthones
-articulating
 anathemata
 apodictical
 aportoise
