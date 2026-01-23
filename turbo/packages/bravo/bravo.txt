@@ -4975,6 +4975,7 @@ beladied
 basement
 bethel
 bluebeardism
+backhander
 belleric
 booky
 beermaker
@@ -12691,7 +12692,6 @@ bungarus
 boroughmongering
 benchless
 baianism
-backhander
 bibulously
 blastophthoric
 bibliographically
