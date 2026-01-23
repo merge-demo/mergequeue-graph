@@ -3812,6 +3812,7 @@ galanas
 giftwrapping
 gazeless
 goats
+getatability
 geoaesthesia
 gushing
 gawkier
@@ -7946,7 +7947,6 @@ galeated
 granada
 glazy
 gables
-getatability
 groutnoll
 glistens
 gymnastical
