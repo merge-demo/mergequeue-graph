@@ -1378,7 +1378,6 @@ epitympanic
 eugubium
 eposes
 embellishes
-enchisel
 euler
 emissions
 encycl
@@ -1935,6 +1934,7 @@ ejaculatory
 erdvark
 elishah
 ejectively
+enchisel
 evehood
 enfierce
 encompany
