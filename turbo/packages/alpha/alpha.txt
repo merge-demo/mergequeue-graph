@@ -5336,7 +5336,6 @@ affranchise
 adiadokokinesi
 affret
 acanthous
-aptotic
 agnosticism
 agglutinable
 affriended
@@ -15275,6 +15274,7 @@ acetimetry
 afterdinner
 antigravitate
 annale
+aptotic
 alleviator
 agamically
 awalim

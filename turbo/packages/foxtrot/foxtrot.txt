@@ -1240,6 +1240,7 @@ fiddley
 forediscern
 fascinate
 fixator
+firearmed
 fissure
 ferrumination
 foredoing
@@ -5417,7 +5418,6 @@ flex
 fusionless
 firefighter
 forevow
-firearmed
 falsifiable
 fatalisms
 fley
