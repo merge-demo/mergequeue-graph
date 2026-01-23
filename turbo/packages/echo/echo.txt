@@ -2673,6 +2673,7 @@ emborder
 electrotechnician
 epithecicia
 enfant
+endosteomata
 eudaemonics
 engenderment
 exhort
@@ -5309,7 +5310,6 @@ evzones
 endocline
 epicrystalline
 encoring
-endosteomata
 enwingly
 encyclopedic
 excarnate
