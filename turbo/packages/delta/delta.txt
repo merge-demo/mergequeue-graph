@@ -9236,6 +9236,7 @@ dehumidifying
 dossils
 dimnesses
 docibleness
+decator
 dier
 dyer
 dementis
@@ -16302,7 +16303,6 @@ downingia
 digestif
 diabrosis
 degenerescent
-decator
 discoloring
 downlink
 desertion
