@@ -15928,6 +15928,7 @@ bearberries
 byreman
 bromoauric
 brazilianite
+bronchoplasty
 broaching
 bruising
 bullhide
@@ -16007,7 +16008,6 @@ bronchophony
 bayoneting
 boisseaux
 bibionidae
-bronchoplasty
 backstitching
 bronchorrhaphy
 bronchorrhea
