@@ -4468,7 +4468,6 @@ gawcey
 gorry
 graveless
 gymnotokous
-gouger
 glib
 gulp
 gypsophila
@@ -5885,6 +5884,7 @@ gaylussacia
 gluishness
 germy
 glumes
+gouger
 glucuronide
 gorman
 gritting
