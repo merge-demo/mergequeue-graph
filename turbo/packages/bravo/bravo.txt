@@ -14089,6 +14089,7 @@ berlinite
 burkites
 behaviour
 biserial
+bibliothecary
 bogusness
 boffins
 baldy
@@ -18195,7 +18196,6 @@ bulks
 bohereen
 broadest
 backdated
-bibliothecary
 busycon
 biloculina
 butsu
