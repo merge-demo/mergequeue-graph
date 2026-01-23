@@ -9482,6 +9482,7 @@ escout
 enstore
 es
 eery
+extrasystolic
 equipondious
 escry
 edifiers
@@ -10733,7 +10734,6 @@ eulogias
 entopopliteal
 epicycloidal
 excystation
-extrasystolic
 euphonic
 enid
 enclaret

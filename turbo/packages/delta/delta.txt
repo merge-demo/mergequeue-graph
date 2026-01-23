@@ -6880,6 +6880,7 @@ discolors
 deadliest
 deficit
 desorption
+denuclearizes
 drollist
 discomposes
 desoxalic
@@ -15641,7 +15642,6 @@ demonetised
 discomfiting
 doorpiece
 drivel
-denuclearizes
 doghouses
 detumescent
 displacement
