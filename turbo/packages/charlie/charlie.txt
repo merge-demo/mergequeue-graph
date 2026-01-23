@@ -19175,6 +19175,7 @@ chemesthesis
 cordless
 cattan
 colpoperineorrhaphy
+compone
 cuadrilla
 concrescences
 collophane
@@ -20836,7 +20837,6 @@ compoed
 cabiri
 citriculture
 compoer
-compone
 componed
 colloped
 componency
