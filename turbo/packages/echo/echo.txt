@@ -3530,7 +3530,6 @@ enicuridae
 emboli
 ergastulum
 ecumenism
-emuscation
 estriols
 enfoeffment
 exothermic
@@ -10619,6 +10618,7 @@ emblematically
 ecostate
 exodium
 elaterid
+emuscation
 eudaimonia
 eudaimonist
 electroscission
