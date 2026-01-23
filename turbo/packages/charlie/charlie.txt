@@ -276,7 +276,6 @@ cladautoicous
 comatose
 conchoid
 cachinnating
-cachinnatory
 caustify
 conchiform
 cachous
@@ -24597,6 +24596,7 @@ centigrade
 compellent
 choleuria
 carbonate
+cachinnatory
 culmiferous
 chiggak
 cypripedium
