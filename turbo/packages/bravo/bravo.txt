@@ -4257,6 +4257,7 @@ beaverkin
 bosnian
 beaverskin
 branded
+bakehead
 beaverteen
 braidings
 bebay
@@ -6560,7 +6561,6 @@ bushful
 berates
 blastospheric
 berattle
-bakehead
 bockeret
 boatside
 borickite
