@@ -632,7 +632,6 @@ eclegma
 ehrman
 etatism
 establishment
-equisufficiency
 etherialise
 esophagocele
 estonians
@@ -7779,6 +7778,7 @@ epigee
 elegise
 escapism
 endaze
+equisufficiency
 excyst
 electromagnetize
 extrudable
