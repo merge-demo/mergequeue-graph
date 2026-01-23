@@ -596,6 +596,7 @@ garron
 greaseball
 gallinaceae
 gallinacean
+galvanocontractility
 galesaurus
 guillotinism
 guilandina
@@ -5403,7 +5404,6 @@ gynophagite
 gaea
 graphitized
 glyptolith
-galvanocontractility
 grotesques
 girsle
 gonfanon
