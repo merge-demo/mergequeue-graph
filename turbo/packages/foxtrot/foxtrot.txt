@@ -3211,7 +3211,6 @@ friers
 feterita
 frostwort
 flexionless
-fuchsone
 forefend
 festered
 falern
@@ -4319,6 +4318,7 @@ foreleech
 firms
 firns
 freespac
+fuchsone
 fleshings
 formicivora
 ficiform
