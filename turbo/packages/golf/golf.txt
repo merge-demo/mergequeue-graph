@@ -3761,7 +3761,6 @@ goffers
 geodetics
 glirine
 galliass
-grungier
 gorst
 gastrosuccorrhea
 gibbosely
@@ -10487,6 +10486,7 @@ galangals
 gramenite
 gregal
 genizero
+grungier
 gimballed
 geyserite
 grandmas
