@@ -3411,6 +3411,7 @@ flatbed
 fenbank
 fraternalist
 fender
+feverlike
 forniciform
 forwards
 foreside
@@ -9133,7 +9134,6 @@ fearfullest
 fungosity
 freights
 fossorial
-feverlike
 fractionization
 fractions
 forncast
