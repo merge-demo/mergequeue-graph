@@ -2096,6 +2096,7 @@ frightened
 floria
 foredefine
 footgear
+filmgoer
 fesapo
 framea
 filletlike
@@ -4634,7 +4635,6 @@ flashproof
 famacide
 frivoling
 futharcs
-filmgoer
 faust
 fulani
 fells
