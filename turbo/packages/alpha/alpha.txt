@@ -686,7 +686,6 @@ ariot
 absorbency
 adversely
 abortive
-afebrile
 abortiveness
 american
 animadversion
@@ -2663,6 +2662,7 @@ aking
 acrawl
 amygdalic
 acre
+afebrile
 amount
 afoam
 aquamarine
