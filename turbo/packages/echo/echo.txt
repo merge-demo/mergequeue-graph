@@ -1608,7 +1608,6 @@ exequial
 extraphysiological
 expounded
 egret
-expedite
 euphony
 exsanguine
 egromancy
@@ -13244,6 +13243,7 @@ explicanda
 enneacontahedral
 exult
 equiliria
+expedite
 explicates
 euglenoidina
 eyewitness
