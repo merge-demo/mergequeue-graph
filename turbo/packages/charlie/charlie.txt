@@ -3558,7 +3558,6 @@ captioning
 captiousness
 captivance
 cucurbitine
-chaired
 colostral
 captivated
 captivates
@@ -25188,6 +25187,7 @@ corymbiated
 craylet
 coachlet
 corymblike
+chaired
 corymbose
 capitally
 codifiability
