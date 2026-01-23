@@ -5538,7 +5538,6 @@ afterreckoning
 audiotypist
 auxofluor
 andiroba
-absolute
 afters
 amphibrach
 antelude
@@ -6959,6 +6958,7 @@ ajava
 antipatharian
 antisemitism
 arsenophagy
+absolute
 ajitter
 ajiva
 astrolabical
