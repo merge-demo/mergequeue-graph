@@ -2351,6 +2351,7 @@ autocrat
 aciform
 abet
 anarithia
+aristocracy
 anomie
 anonyma
 aftercare
@@ -19677,7 +19678,6 @@ ascesis
 aristeas
 aristeia
 acetanilide
-aristocracy
 aristocraticalness
 allometric
 alphyn
