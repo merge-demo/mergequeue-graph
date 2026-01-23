@@ -8001,6 +8001,7 @@ floran
 fleying
 forecooler
 foreslow
+frothsome
 frumpled
 flatteur
 fowent
@@ -10027,7 +10028,6 @@ frizzer
 feminacy
 fortune
 fringilline
-frothsome
 fonted
 foreleader
 forearms
