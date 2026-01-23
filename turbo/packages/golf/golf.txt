@@ -3483,7 +3483,6 @@ gagee
 gregg
 gallimaufries
 griff
-goalers
 grosbeak
 gerontology
 greatening
@@ -8006,6 +8005,7 @@ groundable
 glassier
 granite
 grizzled
+goalers
 goodies
 gracy
 gypsydoms

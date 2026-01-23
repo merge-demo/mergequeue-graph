@@ -2776,7 +2776,6 @@ epidiplosis
 eighteenmo
 economicalness
 empalement
-elementalistic
 extrathoracic
 erythrosis
 estrangements
@@ -4455,6 +4454,7 @@ erth
 enceinte
 entozoology
 entozoal
+elementalistic
 endolabyrinthitis
 encephalomyelopathy
 encenter
