@@ -18486,7 +18486,6 @@ cookings
 cohenite
 cheve
 curr
-coherence
 capped
 coherer
 cumberworld
@@ -27564,6 +27563,7 @@ choucroute
 coprahs
 climacium
 colubriform
+coherence
 cheeriest
 coumara
 covetously
