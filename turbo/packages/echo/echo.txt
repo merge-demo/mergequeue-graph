@@ -11361,7 +11361,6 @@ expensefulness
 eccyesis
 exaristate
 embolism
-eventful
 extraction
 epsom
 ethnomusicologist
@@ -14050,6 +14049,7 @@ enliven
 epipactis
 eidolons
 excandescency
+eventful
 embellishments
 extrathermodynamic
 emes
