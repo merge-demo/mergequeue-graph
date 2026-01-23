@@ -6188,7 +6188,6 @@ bombardier
 barbless
 buchmanism
 befinger
-beadhouse
 biliary
 boarishly
 buttinsky
@@ -6695,6 +6694,7 @@ berkelium
 berkovets
 berkovtsi
 backstamp
+beadhouse
 bedull
 bayesian
 browsability
