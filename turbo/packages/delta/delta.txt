@@ -5704,7 +5704,6 @@ decd
 depolarise
 dehumidify
 depolarization
-dernly
 depolarize
 dextrorsal
 decouple
@@ -10766,6 +10765,7 @@ decolorization
 deoxidized
 dolphinfish
 dirdums
+dernly
 demirelief
 directdiscourse
 doyleys
