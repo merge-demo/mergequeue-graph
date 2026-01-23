@@ -3950,7 +3950,6 @@ flory
 fingerers
 feed
 fono
-fixature
 florissant
 falkland
 floperoo
@@ -10479,6 +10478,7 @@ foofaraw
 forepretended
 fantast
 forewarns
+fixature
 fluffs
 fidged
 frostfish
