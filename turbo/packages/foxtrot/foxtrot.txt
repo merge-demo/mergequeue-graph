@@ -5704,7 +5704,6 @@ figureheadless
 flubs
 foredeserved
 farth
-fecket
 fringepod
 folate
 fill
@@ -11222,6 +11221,7 @@ fabricative
 flexuosities
 ferned
 flemished
+fecket
 fluorescing
 funked
 flatbrod
