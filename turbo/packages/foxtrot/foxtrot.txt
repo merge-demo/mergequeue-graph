@@ -357,6 +357,7 @@ fivish
 factions
 forfeiture
 flyingly
+focsle
 fellatory
 fellers
 falcunculus
@@ -6602,7 +6603,6 @@ forwrap
 forgave
 formulaically
 femalely
-focsle
 fineish
 feminism
 flowerpot
