@@ -4648,6 +4648,7 @@ cutleria
 chuprassie
 caroline
 carolines
+chromolith
 caroling
 catholical
 carolinians
@@ -12466,7 +12467,6 @@ clayen
 choleinic
 cataria
 clarioned
-chromolith
 colent
 chromolithic
 concanavalin
