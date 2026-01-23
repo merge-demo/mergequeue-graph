@@ -3005,6 +3005,7 @@ coyest
 canticle
 carne
 campesino
+chronogrammatic
 canticles
 conceptualistically
 cantilating
@@ -12558,7 +12559,6 @@ chronocrator
 chronogeneous
 chronogram
 celestially
-chronogrammatic
 chronogrammatically
 cheetah
 cymatium
