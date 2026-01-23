@@ -2961,7 +2961,6 @@ epagomenal
 elaphebolion
 evolute
 endoplast
-eorhyolite
 etrogim
 encamped
 eliminant
@@ -3548,6 +3547,7 @@ entrefer
 embolize
 eupeptic
 elicit
+eorhyolite
 epididymal
 entocone
 enervator
