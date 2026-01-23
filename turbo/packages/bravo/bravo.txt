@@ -15751,6 +15751,7 @@ bathman
 beamster
 biliferous
 bandmasters
+bopper
 boyardom
 brainiest
 bruyere
@@ -15931,7 +15932,6 @@ broaching
 bruising
 bullhide
 bromomania
-bopper
 buro
 barbeyaceae
 biose
