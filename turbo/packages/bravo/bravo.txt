@@ -6076,6 +6076,7 @@ boarskin
 binauricular
 benchership
 bodge
+boyos
 blackbrush
 blusters
 benchful
@@ -7115,7 +7116,6 @@ beefless
 beaugregories
 babblish
 becalmed
-boyos
 bawdiness
 bespell
 bespelled
