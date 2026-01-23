@@ -359,6 +359,7 @@ greekery
 guillotines
 girouettes
 graters
+geswarp
 gofers
 galactophoritis
 gutwort
@@ -6930,7 +6931,6 @@ garhwali
 groundsman
 gastroepiploic
 gonystylaceae
-geswarp
 gambols
 gablewindowed
 galvanoplastical
