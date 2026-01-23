@@ -2770,7 +2770,6 @@ grimsir
 golandause
 goblets
 gluttonised
-graduals
 gurr
 gemeinde
 gaunt
@@ -6438,6 +6437,7 @@ gastraead
 guanare
 gapeworms
 goosebone
+graduals
 glycols
 guirlande
 ghazel
