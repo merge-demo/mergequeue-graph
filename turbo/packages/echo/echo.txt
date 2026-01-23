@@ -9673,6 +9673,7 @@ exhumate
 enterorrhexis
 esq
 existence
+exclaim
 evacue
 euselachii
 esquisse
@@ -12565,7 +12566,6 @@ ebionize
 epruinose
 exobasidiales
 etc
-exclaim
 ergonovine
 exobasidium
 eupathy
