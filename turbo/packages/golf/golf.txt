@@ -3233,7 +3233,6 @@ galagala
 gaut
 gossypol
 gyral
-gaelicist
 gustatory
 giddiest
 ghoster
@@ -5596,6 +5595,7 @@ geyserine
 gastralgic
 gobbling
 growsome
+gaelicist
 grubbiest
 glaringly
 groma
