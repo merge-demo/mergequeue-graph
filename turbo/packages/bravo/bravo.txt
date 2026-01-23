@@ -15218,6 +15218,7 @@ branchiosauria
 brickbatting
 brickcroft
 ballistocardiography
+broletto
 beautify
 bembex
 billhook
@@ -15849,7 +15850,6 @@ belittled
 battiks
 broletti
 bi
-broletto
 benzthiophen
 biders
 broncho
