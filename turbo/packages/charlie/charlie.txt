@@ -5983,6 +5983,7 @@ catties
 catheterisation
 cattail
 catheterise
+caudatum
 clienteles
 coiffes
 catheterised
@@ -26132,7 +26133,6 @@ consociative
 cloudlet
 cosmologically
 convocant
-caudatum
 compages
 chiromancist
 cercopidae
