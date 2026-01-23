@@ -1418,6 +1418,7 @@ diorites
 daviesite
 deleted
 dispel
+dimorph
 downdale
 dismain
 digitals
@@ -9965,7 +9966,6 @@ demigoddess
 dotardism
 derv
 disconnectiveness
-dimorph
 dimorphism
 dukker
 dissatisfactorily
