@@ -3208,7 +3208,6 @@ flexionless
 forefend
 festered
 falern
-forewarnings
 flinthearted
 flameholder
 fictioner
@@ -8953,6 +8952,7 @@ fusiformis
 floit
 flywort
 flunkeys
+forewarnings
 fiacre
 footle
 feldspath
