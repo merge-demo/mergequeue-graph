@@ -1676,6 +1676,7 @@ giveable
 glossiest
 galipots
 grievers
+greatmouthed
 girting
 gester
 gluts
@@ -4933,7 +4934,6 @@ ginger
 grisliest
 glamoured
 germanic
-greatmouthed
 grolier
 greensward
 gothonic
