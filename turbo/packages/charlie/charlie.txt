@@ -1078,6 +1078,7 @@ calced
 calcedon
 colory
 chitinocalcareous
+caulicule
 circumcisions
 calceolaria
 calceolate
@@ -26036,7 +26037,6 @@ cholralosed
 coshes
 coshing
 cosy
-caulicule
 cosier
 cedrine
 colotyphoid
