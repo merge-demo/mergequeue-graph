@@ -4874,6 +4874,7 @@ cinchonicin
 carriageway
 carryall
 carrick
+chemically
 carrycot
 chromatoplasm
 carried
@@ -14074,7 +14075,6 @@ circiter
 counterapproach
 calvity
 cattie
-chemically
 claudia
 catskin
 cardcastle
