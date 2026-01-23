@@ -15190,6 +15190,7 @@ conditionalities
 cornicle
 counterclaimed
 clairecole
+commendment
 cholesterin
 clairecolle
 catamneses
@@ -20061,7 +20062,6 @@ curwillet
 commender
 craftsman
 commending
-commendment
 chloric
 commensal
 chemurgies
