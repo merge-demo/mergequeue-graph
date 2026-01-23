@@ -5597,6 +5597,7 @@ gerunds
 gloomily
 gloomings
 graveward
+grandparent
 gunyang
 germanics
 gubernacular
@@ -8910,7 +8911,6 @@ gaufferer
 groove
 gingras
 gabbing
-grandparent
 gaffe
 gigi
 gladelike
