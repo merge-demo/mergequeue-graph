@@ -2849,6 +2849,7 @@ ganglionic
 gyrate
 gustavus
 guardsman
+goofiest
 gipser
 grasschat
 goethite
@@ -5731,7 +5732,6 @@ goosecap
 groovers
 galacaceae
 gangways
-goofiest
 garlicky
 gumhar
 garrulously
