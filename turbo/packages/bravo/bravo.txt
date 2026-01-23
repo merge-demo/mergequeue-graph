@@ -8869,6 +8869,7 @@ bombycids
 boxtops
 bedchamber
 bible
+bassist
 binotonous
 baltimorean
 bedeck
@@ -16008,7 +16009,6 @@ battels
 boatwoman
 bonchief
 broncholemmitis
-bassist
 burntweed
 baillone
 bronchophony
