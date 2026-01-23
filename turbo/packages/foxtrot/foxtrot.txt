@@ -4638,6 +4638,7 @@ finitudes
 figurante
 flaunched
 flexibilities
+foreseer
 fumariaceae
 fibred
 fragrantly
@@ -7911,7 +7912,6 @@ footeite
 footslog
 fallers
 fletching
-foreseer
 flaccidities
 foresees
 fonder
