@@ -7600,7 +7600,6 @@ alday
 alcohate
 assertorically
 alcoholature
-annot
 alcoholdom
 affableness
 abbrev
@@ -20013,6 +20012,7 @@ aroynts
 arolia
 artus
 acervatim
+annot
 azonal
 auspices
 aculeate
