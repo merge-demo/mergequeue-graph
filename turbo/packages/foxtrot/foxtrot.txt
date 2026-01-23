@@ -3424,6 +3424,7 @@ forebowline
 fartherance
 frag
 franklinist
+fastings
 forswearer
 flaccidly
 firmisternial
@@ -10172,7 +10173,6 @@ falcer
 fibroadenia
 frizzy
 foresightedly
-fastings
 fleishig
 formalism
 flint
