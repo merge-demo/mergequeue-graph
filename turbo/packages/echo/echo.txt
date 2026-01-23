@@ -2952,6 +2952,7 @@ elicitor
 equivalvular
 enricher
 exploiters
+estriol
 epagomenal
 elaphebolion
 evolute
@@ -12384,7 +12385,6 @@ electrolyze
 epistemonic
 eucleidae
 earn
-estriol
 encephalology
 ephemerida
 exposures
