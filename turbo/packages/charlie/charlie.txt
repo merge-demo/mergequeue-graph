@@ -18661,7 +18661,6 @@ coinsurance
 coinsurer
 chichituna
 coinsuring
-cointense
 codesigns
 countermeasures
 clearheaded
@@ -19655,6 +19654,7 @@ cautionary
 colza
 coating
 colzas
+cointense
 coma
 comprobate
 carillon
