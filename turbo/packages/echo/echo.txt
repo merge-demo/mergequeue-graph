@@ -10577,7 +10577,6 @@ euphroes
 enteria
 entosternal
 escallops
-elixation
 earthiness
 euchrome
 euclideanism
@@ -13333,6 +13332,7 @@ evolvable
 epauliere
 extrametaphysical
 encowl
+elixation
 enough
 erithacus
 entitled
