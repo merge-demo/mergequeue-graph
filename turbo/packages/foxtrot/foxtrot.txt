@@ -5358,6 +5358,7 @@ feridji
 figuration
 fittest
 fruittime
+furodiazole
 forthbringer
 formable
 flecking
@@ -9460,7 +9461,6 @@ fraternities
 fumarates
 fangs
 fritts
-furodiazole
 fantasm
 featish
 farming
