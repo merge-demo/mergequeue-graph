@@ -10865,7 +10865,6 @@ cardosanto
 compilable
 carpetbaggers
 counterinsult
-connectedness
 chippers
 coefficient
 chippewas
@@ -23522,6 +23521,7 @@ cassida
 contests
 cirratulus
 chinquapin
+connectedness
 clodding
 constatations
 contextive
