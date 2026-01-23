@@ -5848,6 +5848,7 @@ definitiveness
 diagnoses
 depreciation
 deleting
+droning
 droshky
 depredatory
 deontic
@@ -17001,7 +17002,6 @@ dampish
 destining
 dunning
 doorcheek
-droning
 dendrocoela
 disjoined
 diacritically
