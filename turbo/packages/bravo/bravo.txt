@@ -7021,6 +7021,7 @@ boxhaul
 behaviorism
 besnowing
 besognier
+baguettes
 besoil
 blowlamp
 biznagas
@@ -11409,7 +11410,6 @@ browbands
 basisolute
 brutism
 bluefin
-baguettes
 blaseness
 belonosphaerite
 barmkin
