@@ -2114,7 +2114,6 @@ guarabu
 gazeboes
 guestship
 gen
-galla
 gaudete
 garon
 gazellelike
@@ -8787,6 +8786,7 @@ garbles
 guileful
 generable
 gerful
+galla
 gangan
 goodenoviaceae
 glaiket
