@@ -1358,7 +1358,6 @@ gauss
 ginners
 garglers
 graplins
-glamorizer
 goneness
 glyoxylic
 ghastly
@@ -6880,6 +6879,7 @@ gaoling
 geochemically
 goodishness
 grallatores
+glamorizer
 gastight
 gibbosely
 gynecomorphous
