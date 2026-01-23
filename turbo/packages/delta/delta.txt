@@ -4272,7 +4272,6 @@ dovelet
 detraining
 divisiveness
 demagnetising
-dugway
 diacranteric
 desensitizer
 disheriting
@@ -16674,6 +16673,7 @@ drainman
 disgross
 daiva
 degums
+dugway
 dahabeah
 devillike
 dattock
