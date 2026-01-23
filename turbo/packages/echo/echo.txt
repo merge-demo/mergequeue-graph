@@ -5512,6 +5512,7 @@ effectful
 epilimnetic
 etherlike
 enfeoffing
+escript
 exestuate
 exhaustedly
 ethions
@@ -9493,7 +9494,6 @@ eschatologically
 ephyrula
 embryoferous
 epiphanising
-escript
 excerpta
 escritoire
 eleutherarch
