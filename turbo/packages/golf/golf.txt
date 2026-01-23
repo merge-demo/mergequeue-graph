@@ -764,6 +764,7 @@ gummaker
 goutwort
 groupings
 gladsomer
+goatherd
 gawkily
 graywether
 glome
@@ -7079,7 +7080,6 @@ gopherberry
 gopherberries
 garbologist
 guerrila
-goatherd
 gothics
 graphologic
 getting
