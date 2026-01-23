@@ -7130,7 +7130,6 @@ episterna
 enfamish
 echeneidid
 effectuation
-endocervical
 envolume
 embarment
 eucaryote
@@ -7665,6 +7664,7 @@ eustele
 eugenol
 exptl
 enukki
+endocervical
 effumability
 epideictic
 endomesoderm
