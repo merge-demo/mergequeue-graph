@@ -7690,6 +7690,7 @@ aldermancy
 aldermaness
 archisphere
 aldermanical
+asseveration
 assistency
 aration
 affiants
@@ -21828,7 +21829,6 @@ assessors
 anthophile
 apotheose
 antiquarium
-asseveration
 apaesthetic
 asseveratory
 asshead
