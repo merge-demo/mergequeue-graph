@@ -6788,6 +6788,7 @@ escribing
 eutrophies
 exostema
 elaphine
+eternalize
 enrooted
 entoil
 eggler
@@ -10003,7 +10004,6 @@ electrodiagnostically
 extrorsal
 electrodiagnostic
 expellable
-eternalize
 eternally
 extill
 embarking
