@@ -4139,7 +4139,6 @@ diadokokinesis
 duodena
 desynapsis
 drearfully
-distinct
 deceptibility
 deinsularize
 depopulations
@@ -4484,6 +4483,7 @@ dosimetric
 deistically
 demifigure
 donmeh
+distinct
 detroiter
 demigauntlet
 doting
