@@ -7029,7 +7029,6 @@ checkline
 centauridium
 checkrowing
 centauries
-constructure
 centauromachy
 cerebromeningeal
 centauromachia
@@ -24914,6 +24913,7 @@ crabit
 coranto
 crazier
 caproate
+constructure
 cynopodous
 corolliform
 cocaigne
