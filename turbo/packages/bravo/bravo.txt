@@ -80,6 +80,7 @@ balanite
 ballfield
 babelize
 beshlik
+berrichonne
 babels
 belinda
 botrytis
@@ -6780,7 +6781,6 @@ bergsonism
 biplace
 bumpier
 busulfan
-berrichonne
 bandleader
 boothite
 bunodont
