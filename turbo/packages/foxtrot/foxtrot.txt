@@ -1312,7 +1312,6 @@ frigs
 foins
 flechettes
 footlocker
-fossoria
 fluctuous
 flarfishes
 feminophobe
@@ -10316,6 +10315,7 @@ fustilugs
 futurely
 forecourt
 feaze
+fossoria
 foss
 fondants
 footcandles
