@@ -1713,7 +1713,6 @@ auricomous
 anglicanum
 archtraitor
 antediluvian
-adjutage
 aporia
 abases
 antrotympanic
@@ -8297,6 +8296,7 @@ alcippe
 amini
 adscriptive
 archdapifer
+adjutage
 ayield
 agricultor
 amacrine
