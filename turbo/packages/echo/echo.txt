@@ -2470,6 +2470,7 @@ eudemonia
 enhearten
 electrogilt
 ejecting
+eteostic
 electrogram
 endows
 eupolyzoa
@@ -9981,7 +9982,6 @@ efford
 ethnotechnography
 etching
 electrotest
-eteostic
 elemicin
 edgrew
 eterminable
