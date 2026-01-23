@@ -9348,7 +9348,6 @@ dinarchies
 differer
 differs
 dextrorsely
-duncify
 deprive
 difficileness
 difficilitate
@@ -17501,6 +17500,7 @@ dimwitted
 drowsihead
 drowte
 dreads
+duncify
 discrete
 daffle
 doubleheaders

@@ -1669,6 +1669,7 @@ besoms
 bedticks
 bensh
 bathless
+boastfully
 byganging
 barchan
 buqsha
@@ -11622,7 +11623,6 @@ bizant
 boarwood
 boas
 boaster
-boastfully
 boastfulness
 baits
 blameful
