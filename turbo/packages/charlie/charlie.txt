@@ -8472,6 +8472,7 @@ cryohydric
 carberry
 celebrated
 championed
+colonising
 championing
 championize
 caesium
@@ -19314,7 +19315,6 @@ clinid
 consumingness
 colonisationist
 colonised
-colonising
 colonist
 colonizable
 colonize
