@@ -2622,7 +2622,6 @@ excerpted
 exercitor
 enjelly
 epithelize
-exothecate
 electrophoretogram
 expansure
 estimated
@@ -3240,6 +3239,7 @@ esthesiometric
 enzymatically
 estocada
 effuso
+exothecate
 epigon
 embryoscope
 encamping

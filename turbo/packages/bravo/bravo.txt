@@ -4178,7 +4178,6 @@ blacktop
 beatifies
 batholite
 beatitude
-bandel
 bestially
 boxroom
 bioscientific
@@ -13941,6 +13940,7 @@ bacteriofluorescin
 borghese
 barathron
 brooders
+bandel
 baboos
 bassi
 broadening
