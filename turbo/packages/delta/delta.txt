@@ -2739,7 +2739,6 @@ decorist
 dragged
 durum
 demilancer
-disfeatured
 defeaters
 decorticated
 diathermometer
@@ -5219,6 +5218,7 @@ dabbled
 densifies
 disengagedness
 darr
+disfeatured
 dissemblers
 densifying
 disharmonism
