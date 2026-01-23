@@ -6735,7 +6735,6 @@ frized
 fleece
 feering
 foresworn
-felonweed
 felloe
 frayed
 fried
@@ -9014,6 +9013,7 @@ feudaries
 forelaid
 flintified
 flux
+felonweed
 fared
 faultful
 fowlings
