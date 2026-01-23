@@ -9982,7 +9982,6 @@ chalukya
 chequerwork
 chequin
 cherchez
-chercock
 cherem
 calcimine
 cherenkov
@@ -19230,6 +19229,7 @@ cheaters
 cymbate
 collusory
 collution
+chercock
 collutory
 cimbia
 collutoria
