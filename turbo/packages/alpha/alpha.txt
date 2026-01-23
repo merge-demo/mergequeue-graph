@@ -3026,6 +3026,7 @@ afterwar
 actinographic
 autotomy
 appriser
+amphibrach
 actinolitic
 anthropogenesis
 antimeson
@@ -5540,7 +5541,6 @@ audiotypist
 auxofluor
 andiroba
 afters
-amphibrach
 antelude
 allomerism
 attentat
