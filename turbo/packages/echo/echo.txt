@@ -603,7 +603,6 @@ entertained
 eclaircissement
 epeus
 echeneidoid
-enchant
 empyreumatic
 epipaleolithic
 emblic
@@ -11151,6 +11150,7 @@ extractibility
 exsiccate
 ectatic
 evacuator
+enchant
 evaded
 echinoidea
 earthlier
