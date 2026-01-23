@@ -9896,7 +9896,6 @@ dermatoptic
 deprived
 drear
 direly
-dimetry
 disorganizes
 densimetry
 dimyaria
@@ -14369,6 +14368,7 @@ desoxyribose
 dishallucination
 decimestrial
 diuranate
+dimetry
 dreadingly
 drawly
 diureide
