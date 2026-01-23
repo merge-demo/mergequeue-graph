@@ -15812,7 +15812,6 @@ alismataceae
 abiogenist
 alloisomeric
 antiphrases
-antiphthisic
 amberiferous
 atonements
 amphisbaenian
@@ -16188,6 +16187,7 @@ antispiritualistic
 antithesis
 annulate
 antispiritually
+antiphthisic
 antepenults
 albaspidin
 apheretic
