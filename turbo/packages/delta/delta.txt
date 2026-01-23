@@ -1272,6 +1272,7 @@ durational
 daterman
 datil
 devotement
+downdale
 decentering
 dating
 dentiferous
@@ -1421,7 +1422,6 @@ daviesite
 deleted
 dispel
 dimorph
-downdale
 dismain
 digitals
 delis
