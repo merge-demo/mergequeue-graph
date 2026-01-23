@@ -11652,7 +11652,6 @@ anaerobiont
 anaerobiosis
 anaerobiotic
 anaerobium
-avanti
 angulating
 anaesthesis
 abeltree
@@ -21456,6 +21455,7 @@ aldern
 apoferritin
 arillary
 acaricide
+avanti
 antirealistic
 anaclasis
 alantol
