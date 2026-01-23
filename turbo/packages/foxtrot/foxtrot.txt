@@ -2035,6 +2035,7 @@ fieldwards
 fathomage
 frogger
 furrowing
+footstalk
 fantasticly
 faineant
 feigners
@@ -2332,7 +2333,6 @@ feoffs
 fasciole
 fra
 fiftyfold
-footstalk
 formalizing
 fer
 firecoat
