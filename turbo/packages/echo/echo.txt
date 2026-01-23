@@ -1340,6 +1340,7 @@ encloser
 endoskeletal
 essentialness
 exomis
+electropower
 evasional
 ebcdic
 excludability
@@ -2635,7 +2636,6 @@ etymologisable
 exempla
 electrophrenic
 electroplater
-electropower
 embodying
 epistemonical
 evolvers
