@@ -8826,7 +8826,6 @@ dibbuks
 defied
 donzella
 dispensary
-diabolo
 disjuncture
 dibenzoyl
 detriments
@@ -9406,6 +9405,7 @@ deuteranomalous
 diamyl
 dereling
 dowerless
+diabolo
 dredge
 dismountable
 dejunkerize
