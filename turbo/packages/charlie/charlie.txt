@@ -13167,7 +13167,6 @@ cicisbeo
 cycl
 chromometer
 cyclades
-clavichordist
 cyclamen
 campshot
 cyclamens
@@ -18077,6 +18076,7 @@ coenobioid
 contentless
 conjugable
 capilliculture
+clavichordist
 cardinalism
 compactile
 coenobitical
