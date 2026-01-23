@@ -3571,7 +3571,6 @@ bereaven
 bask
 basion
 bathmism
-bedstands
 banker
 befathered
 bathoflore
@@ -17076,6 +17075,7 @@ bullamacow
 beamful
 bleakly
 brodekin
+bedstands
 bullate
 bullback
 bullbaiting
