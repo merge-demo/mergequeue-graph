@@ -19998,6 +19998,7 @@ carot
 commassee
 cigar
 commata
+cuniculus
 claustra
 commaterial
 cofeoffee
@@ -31126,7 +31127,6 @@ capitulation
 cunicular
 cuniculi
 camelid
-cuniculus
 crosspatches
 cuniforms
 cunila
