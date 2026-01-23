@@ -3299,7 +3299,6 @@ frets
 feture
 flabbergastation
 flexility
-fracted
 fidejussor
 furfur
 fidelio
@@ -7532,6 +7531,7 @@ ferial
 ferrocyanhydric
 foment
 feazes
+fracted
 forecastle
 forecastlehead
 fibrocystoma
