@@ -2550,7 +2550,6 @@ bardel
 barylalia
 buff
 beleaped
-blens
 bactrian
 backtalk
 barile
@@ -4002,6 +4001,7 @@ butcheries
 brevier
 bellite
 beakermen
+blens
 bunraku
 birdseeds
 beakers
