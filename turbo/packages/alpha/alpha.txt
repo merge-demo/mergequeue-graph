@@ -1766,7 +1766,6 @@ amassable
 adulce
 acemila
 antilepton
-allocthonous
 ahaaina
 affixing
 acromioscapular
@@ -12031,6 +12030,7 @@ anemosis
 architeuthis
 anastate
 anastatus
+allocthonous
 anastigmat
 anastigmatic
 alvah
