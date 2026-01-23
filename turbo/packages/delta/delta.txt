@@ -12008,7 +12008,6 @@ dowd
 disenchantments
 disenchantress
 disencharm
-doctrix
 dotting
 disenclose
 distrain
@@ -12735,6 +12734,7 @@ divel
 drafty
 dialysing
 decodings
+doctrix
 dolabriform
 dikamali
 disliking
