@@ -17104,7 +17104,6 @@ apods
 azotizing
 apogaeic
 aile
-aptera
 antipopulism
 ameliorator
 anatomic
@@ -25397,6 +25396,7 @@ alloxanic
 azured
 acronyx
 assesses
+aptera
 antiparagraphic
 antifeudalist
 attractively
