@@ -500,7 +500,6 @@ foin
 fracturs
 faker
 flaneries
-fungi
 fohns
 formicariidae
 frieseite
@@ -2520,6 +2519,7 @@ functionize
 faired
 frush
 favaginous
+fungi
 foulmouth
 formaldehyde
 frondescent
