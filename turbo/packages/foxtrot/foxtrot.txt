@@ -5518,7 +5518,6 @@ fascicle
 fibbing
 firmland
 felon
-flirtigig
 fungic
 flacourtiaceae
 flyby
@@ -8377,6 +8376,7 @@ fruitcakes
 filed
 foot
 fluoridate
+flirtigig
 framers
 federalized
 fiddlerfishes
