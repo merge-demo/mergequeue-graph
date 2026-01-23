@@ -2607,6 +2607,7 @@ altaid
 adffrozen
 adjacent
 acquest
+anthropidae
 armenite
 arriswise
 acquiesce
@@ -23262,7 +23263,6 @@ attn
 ascidium
 accroach
 antibubonic
-anthropidae
 angolan
 attollent
 attorn
