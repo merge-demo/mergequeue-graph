@@ -168,6 +168,7 @@ exacts
 ejidal
 enchantingness
 eugenetic
+exorcisms
 ergogram
 exploration
 electromotion
@@ -13311,7 +13312,6 @@ explosimeter
 exembryonate
 ecphore
 englishmen
-exorcisms
 explosively
 enolization
 explosiveness
