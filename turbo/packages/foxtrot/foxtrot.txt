@@ -4466,6 +4466,7 @@ fishspear
 festal
 fantocine
 fluffier
+foraged
 fountainwise
 frangulin
 feceris
@@ -7680,7 +7681,6 @@ formal
 fernier
 frayproof
 foreigneering
-foraged
 friend
 flexes
 firth
