@@ -4722,7 +4722,6 @@ ambrotype
 aeolist
 aeolus
 aeonicaeonist
-aeonist
 aphrodisia
 alaihi
 abashments
@@ -15387,6 +15386,7 @@ aspiculous
 amla
 affixt
 adjutancy
+aeonist
 affirmed
 arbitrator
 abators
