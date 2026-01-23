@@ -2806,6 +2806,7 @@ fistulized
 forbearer
 ftncmd
 foxtailed
+fissioning
 fotch
 filao
 frazzles
@@ -9221,7 +9222,6 @@ floccus
 falcation
 ficin
 feminate
-fissioning
 flopped
 furzetop
 fenagling
