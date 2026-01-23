@@ -4508,6 +4508,7 @@ flagging
 favissa
 flus
 farmlands
+freeish
 flagitiously
 feer
 forheed
@@ -7709,7 +7710,6 @@ flyeater
 foreknew
 farcically
 florian
-freeish
 falconlike
 fretty
 forsaken
