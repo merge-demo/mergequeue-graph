@@ -10705,7 +10705,6 @@ alumetize
 animosities
 anabolitic
 antaphrodisiac
-agrammaphasia
 alevins
 amire
 anthracometric
@@ -15688,6 +15687,7 @@ aquaphobia
 antipapistical
 afterfriend
 averagely
+agrammaphasia
 amercement
 aurothiosulphate
 antiparallel
