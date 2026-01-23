@@ -1443,6 +1443,7 @@ esconson
 electrophoresis
 eelpout
 effort
+entrapments
 ethmovomer
 environic
 emeline
@@ -9236,7 +9237,6 @@ existences
 ejido
 errancies
 endospermous
-entrapments
 electra
 exonerative
 exarch
