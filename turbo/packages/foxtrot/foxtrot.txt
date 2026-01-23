@@ -1157,6 +1157,7 @@ feverishness
 fractional
 fibrillary
 fraik
+fetlock
 filiates
 farthings
 forlornness
@@ -8524,7 +8525,6 @@ firework
 filefishes
 foederati
 facsimiling
-fetlock
 formols
 fiddledeedee
 formosity
