@@ -2611,6 +2611,7 @@ gabelled
 genetta
 grendel
 gibbetting
+geomorphogenic
 geomorphist
 gypsyweed
 gramma
@@ -3843,7 +3844,6 @@ guelph
 guaycuru
 gyroplane
 gatherings
-geomorphogenic
 globeholder
 garnetiferous
 gulosities
