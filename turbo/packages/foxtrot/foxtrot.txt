@@ -1476,7 +1476,6 @@ floorwalkers
 fringing
 fadmongering
 fetched
-fatuoid
 fatuus
 frankly
 fairtime
@@ -11438,6 +11437,7 @@ flic
 frayedly
 furcule
 flaffer
+fatuoid
 furfurylidene
 furrowy
 flap
