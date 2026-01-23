@@ -9307,7 +9307,6 @@ alphabetizer
 auditioned
 antineoplastic
 adamancies
-angulatogibbous
 anastomoses
 amidating
 antisudoral
@@ -12462,6 +12461,7 @@ arsenotungstates
 anhydrite
 aikidos
 antehistoric
+angulatogibbous
 arsenicated
 anthracitous
 anemias
