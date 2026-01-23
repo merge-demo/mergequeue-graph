@@ -3685,7 +3685,6 @@ etypical
 extratellurian
 ecklein
 effluvium
-enterotomy
 elucidators
 embryophore
 emulators
@@ -9824,6 +9823,7 @@ esterize
 euciliate
 enterocrinin
 exhumated
+enterotomy
 electorate
 emulsoid
 esters
