@@ -1531,6 +1531,7 @@ biradial
 ballatoon
 broiden
 budgie
+bisubstitution
 brunetteness
 berri
 blazer
@@ -9817,7 +9818,6 @@ bisubstituted
 bombarder
 bearding
 benzoquinone
-bisubstitution
 babblingly
 bubblebow
 blintz
