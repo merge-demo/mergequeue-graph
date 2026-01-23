@@ -540,6 +540,7 @@ getters
 gnetaceous
 geotechnic
 galler
+gorgio
 grandmammy
 grandsirs
 germanium
@@ -4456,7 +4457,6 @@ guzzling
 grufted
 gyromele
 gangliitis
-gorgio
 gays
 grubbers
 ghyll
