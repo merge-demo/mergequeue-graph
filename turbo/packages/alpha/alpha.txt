@@ -768,7 +768,6 @@ autostrada
 abridgable
 antiscia
 abitibi
-abridgement
 abridger
 acurative
 afternote
@@ -8390,6 +8389,7 @@ ankylostoma
 alkalinity
 alkalinities
 abactor
+abridgement
 aesthesics
 augmentations
 angiography
