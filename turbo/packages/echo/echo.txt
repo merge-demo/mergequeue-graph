@@ -7166,6 +7166,7 @@ equalizer
 enwove
 embira
 entrelac
+erethitic
 entender
 epistasis
 euphonym
@@ -8413,7 +8414,6 @@ email
 epicier
 emmenic
 elkhorn
-erethitic
 epicarides
 egressing
 eroticomaniacal
