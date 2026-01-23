@@ -1065,7 +1065,6 @@ gambesons
 gentlewomanhood
 gipsology
 gardenless
-gomphiasis
 gradus
 greyness
 grays
@@ -7754,6 +7753,7 @@ gayness
 glims
 gillstoup
 gingerberry
+gomphiasis
 gauchely
 glycolipine
 garnitures
