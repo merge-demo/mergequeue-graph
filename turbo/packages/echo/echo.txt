@@ -3255,7 +3255,6 @@ ecumenicize
 euphonize
 ethopoeia
 ellwand
-eludes
 entoproctous
 ermitophobia
 empathizes
@@ -8531,6 +8530,7 @@ epichoristic
 eclecticism
 equative
 eburneous
+eludes
 etherial
 elucid
 erase
