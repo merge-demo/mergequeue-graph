@@ -6474,6 +6474,7 @@ filches
 figurally
 fluted
 featherbedded
+fasinite
 fewnesses
 faintish
 frenzied
@@ -9258,7 +9259,6 @@ footmenfootpad
 fungologist
 fumarine
 foldwards
-fasinite
 fogrum
 fillingly
 foggily
