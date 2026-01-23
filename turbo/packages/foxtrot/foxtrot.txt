@@ -560,6 +560,7 @@ filicites
 froggy
 federacy
 fatstock
+fgn
 factorability
 frenchily
 falters
@@ -7584,7 +7585,6 @@ forjudgment
 fatimid
 fairlike
 foredoomer
-fgn
 fantasticism
 fructuarius
 funiculus
