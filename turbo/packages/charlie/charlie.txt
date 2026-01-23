@@ -2881,7 +2881,6 @@ canons
 canonship
 canoodles
 counsinhood
-canopy
 canalised
 canopies
 clarigate
@@ -30891,6 +30890,7 @@ culsdesac
 chrysanthous
 conjegates
 concipient
+canopy
 cresoxide
 cultches
 cultellation
