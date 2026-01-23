@@ -2957,6 +2957,7 @@ epagomenal
 elaphebolion
 evolute
 endoplast
+eorhyolite
 etrogim
 encamped
 eliminant
@@ -7230,7 +7231,6 @@ ensealed
 eopalaeozoic
 egocentrically
 erysipelothrix
-eorhyolite
 extinguishable
 eos
 earshot
