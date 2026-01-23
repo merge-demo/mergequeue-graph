@@ -3769,7 +3769,6 @@ bacterian
 blephillia
 batwing
 baysmelt
-beswitch
 bioenvironmental
 betatrons
 batwomen
@@ -17579,6 +17578,7 @@ bleacherite
 bumbelo
 barons
 brightwork
+beswitch
 biltongue
 bervie
 brushball
