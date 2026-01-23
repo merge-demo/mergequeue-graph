@@ -13416,7 +13416,6 @@ cydonium
 cie
 cierge
 cierzo
-chamberletted
 cainogenesis
 certificator
 comeuppance
@@ -19479,6 +19478,7 @@ colourational
 comagistracy
 cutitis
 coltpixie
+chamberletted
 colourative
 colourer
 colourers
