@@ -5900,7 +5900,6 @@ enhancing
 enharbour
 exocytosis
 endsweep
-enharden
 eurytopicity
 exoenzymic
 embuskin
@@ -11429,6 +11428,7 @@ eligibility
 esuriently
 embryophagous
 equiform
+enharden
 esthacyte
 enlevement
 evese
