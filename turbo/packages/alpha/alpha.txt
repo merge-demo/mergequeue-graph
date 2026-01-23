@@ -7921,7 +7921,6 @@ acritical
 amatungula
 archidium
 alethoscope
-amulae
 anthogenous
 aletocyte
 anticombination
@@ -23875,6 +23874,7 @@ autarchic
 ashlaring
 autarchies
 autarchist
+amulae
 acalypterae
 autarkies
 allosaurus
