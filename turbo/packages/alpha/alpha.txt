@@ -3603,7 +3603,6 @@ adatom
 adenitis
 anticeremonious
 asthenies
-alces
 anomaloscope
 adenoacanthoma
 adenocarcinomas
@@ -20900,6 +20899,7 @@ anilopyrin
 avowe
 alexandrianism
 ambulating
+alces
 alveolar
 acetifies
 arthrogastra
