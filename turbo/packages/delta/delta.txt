@@ -1544,6 +1544,7 @@ dallies
 dicacodyl
 dartman
 delphinium
+dopey
 disciplinarity
 dextrously
 dicranoid
@@ -15686,7 +15687,6 @@ detective
 discased
 dreamlore
 distemperance
-dopey
 dormin
 decrements
 doper
