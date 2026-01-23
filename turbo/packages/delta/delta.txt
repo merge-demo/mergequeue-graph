@@ -497,7 +497,6 @@ depreciatively
 dame
 deveining
 declivous
-decistere
 doctrinarian
 distilling
 dogs
@@ -875,6 +874,7 @@ defix
 dubiosity
 devoicing
 decalcification
+decistere
 dowered
 deaerates
 debarrance
