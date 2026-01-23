@@ -7527,7 +7527,6 @@ cercopithecid
 contracting
 cercopithecidae
 catodon
-cercopithecus
 cimbri
 cercosporella
 canalisation
@@ -14995,6 +14994,7 @@ civically
 civicism
 civicisms
 civics
+cercopithecus
 civie
 contractively
 cilantros
