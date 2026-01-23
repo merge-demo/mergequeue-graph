@@ -8154,6 +8154,7 @@ chairmaning
 chattack
 chairmanning
 chairmans
+choledochoenterostomy
 chondroclasis
 chairmanship
 congrid
@@ -13666,7 +13667,6 @@ connation
 coots
 cinching
 cincholoipon
-choledochoenterostomy
 countercharging
 contusing
 counterthwarting
