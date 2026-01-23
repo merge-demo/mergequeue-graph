@@ -266,7 +266,6 @@ expiries
 easterling
 exhumers
 epigoneion
-enqueue
 enantioblastic
 endognath
 ectocuniform
@@ -948,6 +947,7 @@ eudiagnostic
 execution
 effluviable
 ethmolachrymal
+enqueue
 embryulci
 eddied
 eponymic
