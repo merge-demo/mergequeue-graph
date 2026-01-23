@@ -6247,6 +6247,7 @@ agramed
 afterpeak
 agrammatism
 authorized
+amblycephalus
 agrammatologia
 annattos
 agranuloplastic
@@ -10031,7 +10032,6 @@ awakes
 appulsive
 axmen
 antiformant
-amblycephalus
 atmology
 amblydactyla
 asymptomatically
