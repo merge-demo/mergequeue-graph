@@ -10664,7 +10664,6 @@ anthrachrysone
 antichrome
 aminobenzoic
 appetency
-aminoglutaric
 aminoid
 agrement
 aminoketone
@@ -11152,6 +11151,7 @@ amia
 amphibrachic
 amphicarpaea
 amphicarpia
+aminoglutaric
 autallotriomorphic
 abrin
 acold
