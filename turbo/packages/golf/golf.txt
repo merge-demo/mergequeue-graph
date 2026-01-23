@@ -3761,7 +3761,6 @@ glirine
 galliass
 gorst
 gastrosuccorrhea
-gibbosely
 goosepimply
 gibbous
 ganching
@@ -6880,6 +6879,7 @@ geochemically
 goodishness
 grallatores
 gastight
+gibbosely
 gynecomorphous
 glyoxyl
 ganoidean
