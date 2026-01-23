@@ -9859,7 +9859,6 @@ agaricic
 amassing
 attractile
 abrotin
-antheridium
 alfiona
 alascan
 asternal
@@ -14786,6 +14785,7 @@ anticeremoniousness
 aristocratic
 aloofness
 antichamber
+antheridium
 allogenically
 archicleistogamy
 anadipsic
