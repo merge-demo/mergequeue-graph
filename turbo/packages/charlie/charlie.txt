@@ -13061,7 +13061,6 @@ cibarial
 ceroxyle
 champaca
 cibarian
-cibaries
 conyrine
 cibbaria
 calorisator
@@ -29757,6 +29756,7 @@ croodle
 challenged
 cheder
 colpheg
+cibaries
 crura
 confessory
 crookbacked
