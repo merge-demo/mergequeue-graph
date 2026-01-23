@@ -6961,7 +6961,6 @@ entrec
 escalin
 exiting
 effecting
-ephoric
 excisor
 encauma
 emetically
@@ -13921,6 +13920,7 @@ ephymnium
 enworthy
 engineer
 etheria
+ephoric
 esthesio
 extrameridional
 extrametrical
