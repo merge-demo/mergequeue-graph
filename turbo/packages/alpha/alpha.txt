@@ -14618,7 +14618,6 @@ antialcoholist
 abacli
 antialdoxime
 angiectopia
-anchorless
 advisee
 anthropogeographer
 aurichalcite
@@ -19143,6 +19142,7 @@ archways
 arceuthobium
 aargh
 anciens
+anchorless
 arcifinious
 acholuria
 alluvion
