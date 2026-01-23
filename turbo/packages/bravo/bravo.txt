@@ -12834,7 +12834,6 @@ branchiopulmonata
 biestings
 boardbill
 beefcake
-barracuda
 boon
 brevifoliate
 bibliog
@@ -15792,6 +15791,7 @@ brogueries
 beneficence
 becaps
 bove
+barracuda
 bedecks
 beauing
 billethead
