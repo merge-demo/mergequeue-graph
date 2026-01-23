@@ -11870,7 +11870,6 @@ excentric
 eumeromorphic
 essenic
 entrepot
-extensions
 emits
 echium
 except
@@ -14183,6 +14182,7 @@ eebree
 extrauterine
 exesion
 eyght
+extensions
 excogitative
 ewound
 extracapsular
