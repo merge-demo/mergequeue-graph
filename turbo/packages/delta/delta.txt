@@ -4110,7 +4110,6 @@ dipodidae
 discomfited
 dolling
 darnedest
-decommission
 delirium
 deleaded
 disconanthae
@@ -8391,6 +8390,7 @@ digestional
 debauchedness
 diduction
 dialystaminous
+decommission
 dialystely
 dialister
 dilatator
