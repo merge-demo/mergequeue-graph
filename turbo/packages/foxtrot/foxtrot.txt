@@ -3076,6 +3076,7 @@ funning
 frenching
 freightage
 faddiness
+fractal
 fisherboy
 ferngale
 fipple
@@ -6009,7 +6010,6 @@ fetiparous
 fustic
 fleam
 finking
-fractal
 fluviology
 fibromas
 faeroese
