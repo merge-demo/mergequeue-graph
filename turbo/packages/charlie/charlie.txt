@@ -14763,7 +14763,6 @@ chamkanni
 couriers
 calocarpum
 citizeness
-citizenish
 coneen
 coracoradialis
 citizenism
@@ -31269,6 +31268,7 @@ curatess
 cliency
 curation
 cutworks
+citizenish
 curative
 curativeness
 curatorium

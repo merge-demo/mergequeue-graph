@@ -3670,6 +3670,7 @@ fiddleys
 filioque
 fleur
 foysen
+foreigner
 fruitwise
 futurisms
 fathead
@@ -4512,7 +4513,6 @@ freeish
 flagitiously
 feer
 forheed
-foreigner
 forslake
 flooded
 fountainhead
