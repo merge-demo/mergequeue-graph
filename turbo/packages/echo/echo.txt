@@ -2690,6 +2690,7 @@ epispadia
 electrotherapeutical
 entrep
 eliphalet
+epitaphical
 estampie
 expectorating
 excitors
@@ -11634,7 +11635,6 @@ exacter
 escallop
 equianchorate
 elocutionary
-epitaphical
 exacting
 electroirrigation
 electivity
