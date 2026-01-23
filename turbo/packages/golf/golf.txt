@@ -6439,7 +6439,6 @@ gannister
 gastraead
 guanare
 gapeworms
-gurry
 goosebone
 glycols
 guirlande
@@ -8727,6 +8726,7 @@ gaged
 graminaceous
 gerenuks
 greenish
+gurry
 grisgris
 gymnosophical
 goodlihead
