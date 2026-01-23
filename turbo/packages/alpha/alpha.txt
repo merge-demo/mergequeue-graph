@@ -11954,7 +11954,6 @@ anapterygotism
 awe
 anarcestes
 alteregoistic
-abators
 archibuteo
 anarchy
 aerocolpos
@@ -15394,6 +15393,7 @@ affixt
 adjutancy
 affirmed
 arbitrator
+abators
 announcers
 atmiatrics
 antiliturgist
