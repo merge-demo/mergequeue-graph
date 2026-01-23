@@ -6,6 +6,7 @@ ferriprussic
 fimbrial
 footropes
 fabaceae
+fernambuck
 floatmen
 franciums
 felucca
@@ -1329,7 +1330,6 @@ fructivorous
 fatefully
 fanaticise
 findability
-fernambuck
 flustered
 finality
 fibromata
