@@ -2239,7 +2239,6 @@ forgetting
 filtrated
 filesave
 fainaiguer
-femora
 fatil
 furcately
 fain
@@ -4947,6 +4946,7 @@ funiculi
 foundationally
 fleetingness
 fettle
+femora
 flood
 faured
 flaneurs
