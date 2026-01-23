@@ -16390,7 +16390,6 @@ antler
 adherescence
 antlers
 accroached
-audibly
 antlid
 antre
 antling
@@ -18843,6 +18842,7 @@ aroma
 archflamen
 archfoe
 ancestresses
+audibly
 aedoeagus
 angloid
 acervose
