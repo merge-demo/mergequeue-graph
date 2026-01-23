@@ -935,7 +935,6 @@ griffons
 gursh
 gingeli
 gammerel
-gammerstang
 garboils
 gastropneumatic
 gokuraku
@@ -5836,6 +5835,7 @@ glances
 glucoside
 goshawk
 grandparents
+gammerstang
 gestening
 galvaniser
 gynephobia
