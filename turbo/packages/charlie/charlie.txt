@@ -17719,7 +17719,6 @@ cashier
 cocoanut
 chasing
 cocoawood
-churchgoing
 cocobola
 cocobolas
 comeupance
@@ -30051,6 +30050,7 @@ crushers
 croupe
 cabochons
 crouperbush
+churchgoing
 compulsions
 cuggermugger
 clearstarch
