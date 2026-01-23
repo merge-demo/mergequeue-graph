@@ -254,7 +254,6 @@ abashing
 admonition
 aquamaniles
 aristolochiales
-anchovy
 abdicant
 abhorrence
 abdications
@@ -14611,6 +14610,7 @@ antialbumin
 assignments
 antialcoholic
 akerite
+anchovy
 antialcoholism
 antialcoholist
 abacli
