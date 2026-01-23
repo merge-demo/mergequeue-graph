@@ -14555,6 +14555,7 @@ cyclolith
 cystelcosis
 cosmologic
 choppy
+circs
 cistercianism
 cisternae
 cisternal
@@ -24767,7 +24768,6 @@ catocathartic
 copses
 classicized
 copsewood
-circs
 contraceptives
 copter
 cyclomania
