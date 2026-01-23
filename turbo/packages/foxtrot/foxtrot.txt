@@ -1465,7 +1465,6 @@ foodful
 frimitts
 freewheel
 fatuism
-ferox
 felicify
 filasse
 firmness
@@ -4657,6 +4656,7 @@ fibred
 fragrantly
 frivolizing
 fibroreticulate
+ferox
 fictitiousness
 fortitudes
 fixer
