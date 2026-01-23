@@ -5129,7 +5129,6 @@ gassiest
 greathearted
 guidwillie
 gainsay
-gunbright
 grandioseness
 gaussbergite
 gleamy
@@ -6029,6 +6028,7 @@ gonzo
 gallature
 gingle
 grinding
+gunbright
 gnathostomata
 gawkiness
 gluttery
