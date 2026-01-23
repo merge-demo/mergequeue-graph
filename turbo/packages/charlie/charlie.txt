@@ -385,6 +385,7 @@ cacomagician
 cacomelia
 cacomistle
 cacomixle
+coccerin
 cacomorphia
 ceramography
 cacomorphosis
@@ -17550,7 +17551,6 @@ cohoshes
 colloid
 coccaceous
 conducible
-coccerin
 corr
 coccic
 coccidae
