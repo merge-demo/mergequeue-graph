@@ -2120,6 +2120,7 @@ elastose
 epeisodia
 equilibrated
 embryologists
+equestrians
 endoabdominal
 emcees
 engarde
@@ -7139,7 +7140,6 @@ excandescence
 earthshine
 endymion
 empassion
-equestrians
 enwinding
 elemis
 entomoid
