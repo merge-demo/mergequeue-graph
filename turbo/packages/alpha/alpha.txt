@@ -14381,7 +14381,6 @@ acolyte
 anthotaxis
 andries
 analgetic
-allocations
 assortatively
 anisocycle
 abnegate
@@ -23672,6 +23671,7 @@ ao
 aureomycin
 afterlove
 abalation
+allocations
 anticlimactic
 aureous
 acroa
