@@ -2698,7 +2698,6 @@ genitocrural
 gingerbread
 grout
 gallooned
-gasproof
 gripingly
 gelidium
 guptavidya
@@ -10341,6 +10340,7 @@ glebal
 guarana
 gaums
 gaywings
+gasproof
 gulfweeds
 greenlandish
 gadgety
