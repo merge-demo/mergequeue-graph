@@ -2750,7 +2750,6 @@ disbelievingly
 daemonurgy
 darbies
 decortication
-dematerialization
 decorticator
 determinants
 dolichocephalous
@@ -16834,6 +16833,7 @@ diametrical
 delaines
 deucing
 dominee
+dematerialization
 dey
 demurely
 decurtate
