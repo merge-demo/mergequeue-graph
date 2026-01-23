@@ -4917,6 +4917,7 @@ carrotweed
 corporation
 canonization
 clomben
+cerniture
 catstep
 carrotwood
 callityping
@@ -7702,7 +7703,6 @@ commissar
 cavaliership
 cityward
 croquet
-cerniture
 cernuous
 cerographer
 contestants
