@@ -16301,7 +16301,6 @@ clypeastridea
 chicky
 clypeastrina
 clypeastroid
-carnivaller
 clypeate
 conspicuous
 colporrhexis
@@ -20079,6 +20078,7 @@ commensurating
 codings
 commensuration
 corking
+carnivaller
 comment
 cattlegate
 commentable
