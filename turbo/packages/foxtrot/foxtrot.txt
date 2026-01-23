@@ -1457,6 +1457,7 @@ fall
 fiddled
 foofaraws
 fichus
+frument
 funis
 fattishness
 fother
@@ -2106,7 +2107,6 @@ forebodies
 finetop
 focusable
 fleshen
-frument
 fayence
 fermentate
 fluming
