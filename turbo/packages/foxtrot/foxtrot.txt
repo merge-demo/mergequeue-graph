@@ -2570,7 +2570,6 @@ fumes
 forechase
 flongs
 ferrocyanate
-ferroelectric
 foreplot
 fingerbreadth
 fattier
@@ -4941,6 +4940,7 @@ forestcraft
 fringiest
 focused
 frappeed
+ferroelectric
 flyswatter
 flibbertigibbety
 figbird
