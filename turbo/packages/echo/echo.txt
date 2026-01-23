@@ -1574,7 +1574,6 @@ eglomise
 episkeletal
 errite
 eurasia
-entires
 enumerator
 eucaines
 evacuations
@@ -5179,6 +5178,7 @@ eretrian
 ethologies
 equilibrate
 endomitosis
+entires
 endomorphy
 exta
 ekebergite
