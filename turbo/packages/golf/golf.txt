@@ -7595,7 +7595,6 @@ gleaminess
 geospiza
 gradationally
 giraffidae
-grandeza
 goals
 germinancy
 gassier
@@ -7659,6 +7658,7 @@ gunpowderous
 geniuses
 globus
 geomyid
+grandeza
 goldworker
 gamins
 grouf

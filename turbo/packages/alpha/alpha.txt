@@ -4409,7 +4409,6 @@ antirevisionist
 afghans
 awonder
 abductores
-amomis
 ap
 adumbrating
 adumbrations
@@ -21008,6 +21007,7 @@ amortises
 adipomata
 alborak
 apographal
+amomis
 aeroenterectasia
 ascians
 anteluminary
