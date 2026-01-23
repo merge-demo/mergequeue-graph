@@ -15408,6 +15408,7 @@ battiness
 baronetcy
 benzylidene
 brighid
+bushfighting
 bannerlike
 brighten
 brainwork
@@ -17909,7 +17910,6 @@ brimstony
 boopis
 busher
 bernoo
-bushfighting
 bushfires
 backslider
 blamed
