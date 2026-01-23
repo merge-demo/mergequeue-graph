@@ -13846,7 +13846,6 @@ barleybird
 biduous
 boathook
 bang
-bowie
 balr
 blatter
 beanfeast
@@ -16043,6 +16042,7 @@ belucki
 bozos
 bespectacled
 brindle
+bowie
 barythymia
 basifiers
 boubous
