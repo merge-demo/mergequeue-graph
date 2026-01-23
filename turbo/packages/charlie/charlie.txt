@@ -11148,7 +11148,6 @@ clumper
 chizz
 chizzel
 chladnite
-chondrite
 churlishly
 chlamyd
 chlamydate
@@ -20217,6 +20216,7 @@ caramelization
 chappie
 cowlick
 commodata
+chondrite
 commodate
 clerics
 commodation
