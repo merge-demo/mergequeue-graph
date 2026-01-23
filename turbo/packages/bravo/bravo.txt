@@ -4004,7 +4004,6 @@ butcheries
 brevier
 bellite
 beakermen
-bacitracin
 bunraku
 birdseeds
 beakers
@@ -14068,6 +14067,7 @@ brachyglossal
 biblicistic
 barracudas
 blase
+bacitracin
 bidarkees
 baring
 blusterously
