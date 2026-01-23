@@ -3801,7 +3801,6 @@ adiaphoron
 anisopterous
 adiated
 ammodytidae
-adiathermancy
 antioxidase
 alcoranist
 allogeneity
@@ -11758,6 +11757,7 @@ anticephalalgic
 analgias
 akeki
 amakebe
+adiathermancy
 avenses
 analgic
 antimalarial
