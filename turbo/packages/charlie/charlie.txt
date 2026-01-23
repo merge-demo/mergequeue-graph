@@ -12378,7 +12378,6 @@ chromatophilous
 chesses
 chromatophobia
 chromatophore
-carpel
 chromatophoric
 canthectomy
 chevroned
@@ -13983,6 +13982,7 @@ cyperaceae
 chiliarch
 coxwaining
 contacted
+carpel
 counterparadox
 curneys
 congees
