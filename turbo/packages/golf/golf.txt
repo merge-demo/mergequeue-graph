@@ -513,7 +513,6 @@ glaucodot
 grama
 gullably
 geminations
-gnomes
 geomorphology
 gisement
 graff
@@ -10593,6 +10592,7 @@ glossmeter
 gadidae
 geohydrologist
 gourmetism
+gnomes
 glandaceous
 gowned
 goldenmouth
