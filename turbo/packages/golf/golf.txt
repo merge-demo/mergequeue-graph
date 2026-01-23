@@ -906,6 +906,7 @@ gelatinizability
 genome
 gravata
 gaverick
+gramicidin
 geld
 guna
 gelatinate
@@ -4115,7 +4116,6 @@ gallowses
 gerontological
 gazee
 generalissimos
-gramicidin
 granularity
 gaitt
 gibleh
