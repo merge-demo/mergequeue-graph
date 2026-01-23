@@ -795,6 +795,7 @@ goombay
 gastrospasm
 grillework
 glycosidase
+geoid
 gianthood
 graf
 gimlet
@@ -9087,7 +9088,6 @@ grinch
 glassed
 grope
 goldwork
-geoid
 garotte
 governableness
 grumose
