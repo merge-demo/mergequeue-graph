@@ -7353,6 +7353,7 @@ feudalism
 fleshly
 forby
 fullnesses
+freehandedness
 formicina
 famelessly
 foreparent
@@ -10789,7 +10790,6 @@ fanaticize
 flittermice
 films
 fritz
-freehandedness
 fjeld
 flagstaffs
 fth
