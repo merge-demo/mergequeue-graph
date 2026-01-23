@@ -1242,7 +1242,6 @@ dextrines
 desanding
 dialyzers
 diapasonal
-dermatoskeleton
 dreggier
 daystars
 datebook
@@ -11221,6 +11220,7 @@ dangler
 decrescendos
 dissyllabification
 depurating
+dermatoskeleton
 dissweeten
 disparish
 dysbulia
