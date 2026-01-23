@@ -6570,7 +6570,6 @@ aquaculture
 alveolite
 archsteward
 afterbeat
-aymaran
 astatizer
 assembles
 anodynous
@@ -9042,6 +9041,7 @@ anticommunistical
 antivaccinist
 alludes
 angustiseptate
+aymaran
 afterdecks
 allumette
 acipenser
