@@ -9099,6 +9099,7 @@ dispunct
 dichoptic
 didelphidae
 discursive
+diphase
 dingdong
 disweapon
 didelphoid
@@ -16951,7 +16952,6 @@ doorways
 drearihead
 deliver
 depositories
-diphase
 dartles
 duledge
 dreggiest
