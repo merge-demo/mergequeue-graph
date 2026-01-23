@@ -10290,7 +10290,6 @@ diseuses
 devises
 demurrers
 diagrammers
-ditton
 diopter
 diopters
 decumary
@@ -17582,6 +17581,7 @@ decelerated
 demimentoniere
 dactylate
 diatomous
+ditton
 dactyls
 drumlins
 dorsiferous
