@@ -3580,7 +3580,6 @@ fazing
 foreroom
 floatboard
 flagitation
-frosting
 fili
 filially
 filiating
@@ -6991,6 +6990,7 @@ flexions
 fichtean
 filla
 functor
+frosting
 frison
 frittered
 fondues
