@@ -1060,7 +1060,6 @@ defeasible
 darling
 disobligingness
 divorcer
-darlingness
 darn
 darndest
 darnels
@@ -12955,6 +12954,7 @@ dimensionless
 disomatic
 dermostosis
 degreeing
+darlingness
 docilities
 distemperer
 discolor
