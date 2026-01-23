@@ -6410,6 +6410,7 @@ cribbers
 cilantro
 cautery
 cauteries
+crozer
 cauterisation
 cauterise
 criance
@@ -24410,7 +24411,6 @@ challenge
 coontah
 collaborateur
 coop
-crozer
 christs
 concertanto
 cooped
