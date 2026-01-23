@@ -7822,7 +7822,6 @@ devons
 desirability
 devoration
 dadaists
-dairyings
 devoted
 dimmed
 dipsomaniacal
@@ -18184,6 +18183,7 @@ domic
 dwalm
 duplexing
 dineuric
+dairyings
 dotriacontane
 doyley
 dorsolateral
