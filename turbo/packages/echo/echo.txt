@@ -11077,7 +11077,6 @@ electrocapillary
 experimentist
 evangelisation
 energized
-evans
 expiate
 eusthenopteron
 electros
@@ -13644,6 +13643,7 @@ epilemma
 eccentric
 eggcup
 environmentalist
+evans
 expansometer
 engrosses
 empeo
