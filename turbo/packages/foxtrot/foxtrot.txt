@@ -2898,7 +2898,6 @@ fumigations
 fortressing
 footmark
 frizzen
-factoring
 fumier
 flagonless
 flyboy
@@ -4558,6 +4557,7 @@ flippance
 forestwards
 fibrinokinase
 ferromagnesian
+factoring
 fooldom
 flirtishness
 frees
