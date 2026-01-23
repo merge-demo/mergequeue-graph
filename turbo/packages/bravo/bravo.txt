@@ -5549,7 +5549,6 @@ blackeners
 brutified
 brominism
 bejuggle
-bejumbles
 bejumbling
 bunko
 browses
@@ -12533,6 +12532,7 @@ battle
 bonification
 bolshevik
 bacubert
+bejumbles
 bud
 brashness
 buttonwood
