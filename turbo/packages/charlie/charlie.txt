@@ -5841,6 +5841,7 @@ chondrified
 cessionary
 categorically
 categories
+corollaries
 cardiazol
 cottus
 cannabins
@@ -25482,7 +25483,6 @@ contradictions
 corollarial
 corollarially
 callionymus
-corollaries
 corollet
 cholecystonephrostomy
 corolliferous
