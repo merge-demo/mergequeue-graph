@@ -5607,6 +5607,7 @@ endocentric
 edenic
 encouraging
 eirene
+entryways
 epilogation
 enforest
 epacme
@@ -8445,7 +8446,6 @@ endures
 epsilons
 extravasate
 expressionistic
-entryways
 empathy
 emda
 enregiment
