@@ -15241,6 +15241,7 @@ deny
 disyllabized
 dolite
 dolium
+deficient
 darogha
 dureful
 distinguishability
@@ -17110,7 +17111,6 @@ dryfoot
 drift
 defter
 driftage
-deficient
 decatyl
 diaboleptic
 detenebrate
