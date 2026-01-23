@@ -10787,7 +10787,6 @@ bywords
 befrill
 boatsmen
 blepharadenitis
-blepharanthracosis
 bromaurate
 boylike
 brutalise
@@ -14353,6 +14352,7 @@ braidist
 braids
 bifidly
 bechalked
+blepharanthracosis
 brayera
 brayerin
 brionies
