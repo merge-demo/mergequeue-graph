@@ -2099,7 +2099,6 @@ anything
 alabastrums
 accedence
 arcuation
-agglutinations
 allopatry
 atomechanics
 antadiform
@@ -16081,6 +16080,7 @@ antiscientific
 ande
 armorica
 auto
+agglutinations
 antiscolic
 antiscorbutical
 antiscrofulous
