@@ -9734,7 +9734,6 @@ apophonies
 amalgamate
 ambolic
 antigrowth
-adjutory
 anisole
 antimonarchical
 anamesite
@@ -22159,6 +22158,7 @@ argute
 acromegalies
 antebrachium
 alcavala
+adjutory
 asthenia
 anarchically
 abampere
