@@ -2785,7 +2785,6 @@ batea
 bureaus
 barites
 bolding
-bell
 betulaceous
 banded
 blonder
@@ -15423,6 +15422,7 @@ brighten
 brainwork
 brightish
 bottomers
+bell
 bebelted
 bescoundrel
 banged
