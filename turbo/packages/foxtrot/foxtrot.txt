@@ -1235,7 +1235,6 @@ fusilier
 fashing
 fleeted
 francolite
-fritt
 fiddley
 forediscern
 fascinate
@@ -3701,6 +3700,7 @@ finales
 furling
 fillips
 flics
+fritt
 flexibilty
 freeholder
 fecundates
