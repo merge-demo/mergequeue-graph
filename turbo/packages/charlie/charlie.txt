@@ -8659,7 +8659,6 @@ commonest
 cheiloplasties
 chantry
 chanukah
-chaology
 chaori
 campholide
 credibilities
@@ -13845,6 +13844,7 @@ chronogenetic
 cheapie
 contiguously
 carina
+chaology
 cingulectomy
 consumership
 cingulectomies
