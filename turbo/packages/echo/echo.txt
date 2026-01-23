@@ -3449,6 +3449,7 @@ excusative
 esterellite
 epistemologist
 evinces
+emmetropia
 eductive
 ensepulchering
 enamels
@@ -10870,7 +10871,6 @@ exion
 empair
 esclandre
 exsolve
-emmetropia
 eutectic
 extensor
 embryoplastic

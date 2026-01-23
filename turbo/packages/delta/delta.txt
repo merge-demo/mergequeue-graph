@@ -5458,7 +5458,6 @@ dister
 downheaded
 depardieu
 dinger
-dewdrops
 diaxon
 denials
 departer
@@ -6451,6 +6450,7 @@ dequeues
 descant
 dentinoblast
 disencumber
+dewdrops
 diffusedly
 deranged
 descanted
