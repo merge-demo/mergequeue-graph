@@ -1727,6 +1727,7 @@ gnarrs
 goofier
 gammon
 gave
+gracileness
 gloeal
 goric
 glass
@@ -9617,7 +9618,6 @@ georgian
 garbing
 guisarme
 goodsire
-gracileness
 goosewinged
 genson
 grozart
