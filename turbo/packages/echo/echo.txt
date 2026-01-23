@@ -3235,7 +3235,6 @@ eyesore
 entrench
 episcleral
 emancipates
-esophagospasm
 embuia
 elution
 embourgeoisement
@@ -9126,6 +9125,7 @@ endothermism
 emporiums
 erliche
 estuosity
+esophagospasm
 etiolating
 envision
 eldern
