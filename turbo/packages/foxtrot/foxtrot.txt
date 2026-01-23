@@ -83,7 +83,6 @@ folkright
 flattening
 flowerfence
 foliobranch
-fiendish
 fortyfives
 flagrantness
 funambulating
@@ -7103,6 +7102,7 @@ footstick
 figurant
 fractionator
 fripper
+fiendish
 flaker
 fiddleback
 fusel
