@@ -5387,7 +5387,6 @@ fabian
 feasten
 furor
 flurt
-fittingness
 fault
 firstfruits
 finnip
@@ -11245,6 +11244,7 @@ funkiness
 forerunnings
 fucivorous
 funmaking
+fittingness
 fulmines
 flit
 fusariose
