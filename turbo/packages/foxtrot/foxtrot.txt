@@ -7450,6 +7450,7 @@ fiftypenny
 feminine
 filipendulous
 funditores
+furrily
 fantasists
 fumeuse
 fudges
@@ -11424,7 +11425,6 @@ firebase
 fiducially
 fluviose
 falteringly
-furrily
 frigage
 frostless
 fathoms
