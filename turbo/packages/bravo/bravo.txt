@@ -4904,6 +4904,7 @@ bobac
 burrowstown
 beefalo
 beefaloes
+buskined
 basketweaving
 birefringence
 bilimbis
@@ -18025,7 +18026,6 @@ bicornuous
 bromise
 busket
 baseness
-buskined
 beadmen
 busload
 busman
