@@ -6556,6 +6556,7 @@ gimmerpet
 groyne
 goulan
 gorebill
+galilean
 ghostwrite
 gingivolabial
 gruis
@@ -7456,7 +7457,6 @@ gordon
 greenleaf
 geometrically
 gaet
-galilean
 gelatinizable
 gastromenia
 griffade
