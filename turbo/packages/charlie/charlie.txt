@@ -22227,7 +22227,6 @@ congenerous
 congeners
 coeffluent
 congenial
-chemakuan
 commiserative
 capes
 calaber
@@ -22785,6 +22784,7 @@ consecrator
 consecratory
 consectary
 cardines
+chemakuan
 consecutive
 consecutively
 consenescency

@@ -11190,6 +11190,7 @@ foremanship
 forwardsearch
 fippence
 futuric
+forestership
 fasciolae
 fetterer
 fictil
@@ -11384,7 +11385,6 @@ functionlessness
 frosk
 feater
 forksmith
-forestership
 footmanry
 faceharden
 flustrum
