@@ -2532,7 +2532,6 @@ footsore
 functionize
 faired
 frush
-flunky
 favaginous
 foulmouth
 formaldehyde
@@ -5545,6 +5544,7 @@ forcemeat
 forgette
 fader
 fibrinocellular
+flunky
 flycatchers
 flicflac
 flintiness
