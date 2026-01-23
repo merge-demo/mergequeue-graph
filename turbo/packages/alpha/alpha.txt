@@ -9981,6 +9981,7 @@ accusation
 andrenid
 avidya
 ambidextrously
+antitheistic
 autarkikal
 avellan
 axion
@@ -21992,7 +21993,6 @@ alectoropodous
 anthropic
 antiphagocytic
 arterin
-antitheistic
 aquameter
 aminize
 assuetude
