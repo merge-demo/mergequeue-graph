@@ -4920,7 +4920,6 @@ fictileness
 forbiddingness
 farmhold
 flamers
-foxing
 flamy
 fan
 facepiece
@@ -6503,6 +6502,7 @@ furcular
 foldskirt
 fortifying
 felicitators
+foxing
 forests
 fulminant
 forwore
