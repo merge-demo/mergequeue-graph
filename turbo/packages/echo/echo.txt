@@ -10205,7 +10205,6 @@ ethicopolitical
 emoter
 ethicoreligious
 erased
-elytriform
 etesian
 epanodos
 exantlate
@@ -13128,6 +13127,7 @@ equipendent
 exfodiate
 enunciators
 eternality
+elytriform
 episioplasty
 ethoxyethane
 experimenter
