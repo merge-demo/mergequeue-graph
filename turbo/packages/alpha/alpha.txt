@@ -5359,7 +5359,6 @@ acroneurosis
 amylopectin
 anapnea
 assishly
-apophysate
 abranchious
 afghanistan
 arided
@@ -23200,6 +23199,7 @@ atterr
 aggressionist
 attest
 attestable
+apophysate
 amphibology
 artel
 arsonvalization
