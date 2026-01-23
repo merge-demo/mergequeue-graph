@@ -2422,6 +2422,7 @@ essayical
 epistle
 eumenidean
 empiristic
+emulates
 esloign
 ehrwaldite
 executioneress
@@ -14136,7 +14137,6 @@ episcopates
 ebonizing
 ephemerality
 enplanement
-emulates
 enlard
 entocuneiform
 excussion
