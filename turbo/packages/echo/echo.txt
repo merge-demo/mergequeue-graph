@@ -954,6 +954,7 @@ eddied
 eponymic
 enterococcus
 eastwards
+endocrinological
 ethyl
 esoterics
 exhumes
@@ -10556,7 +10557,6 @@ ergosterol
 euchlorite
 eleutherodactylus
 elbuck
-endocrinological
 evangelistarium
 equationist
 endboard
