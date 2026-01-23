@@ -1705,7 +1705,6 @@ exploder
 evener
 exaggerating
 endoergic
-enunciatory
 enamel
 earpieces
 echolocate
@@ -7942,6 +7941,7 @@ evaniidae
 epimerized
 ephebus
 enclisis
+enunciatory
 ectozoic
 epimers
 encyclopaedia
