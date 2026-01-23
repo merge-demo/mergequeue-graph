@@ -2540,7 +2540,6 @@ candlelight
 candlelighter
 chaloth
 confraternities
-candlelighting
 cohusband
 carvels
 circumcinct
@@ -27310,6 +27309,7 @@ courbette
 courbettes
 clogginess
 cemental
+candlelighting
 carcaneted
 cantillation
 courgette
