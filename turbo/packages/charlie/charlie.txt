@@ -2913,6 +2913,7 @@ chalcis
 cantabrian
 cantabrigian
 cantalever
+coaler
 cantaliver
 catacombs
 cackled
@@ -17213,7 +17214,6 @@ craterous
 cramoisy
 coaled
 cariosity
-coaler
 coalers
 crucifer
 coalescence
