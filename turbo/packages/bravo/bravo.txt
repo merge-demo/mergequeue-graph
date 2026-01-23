@@ -8558,6 +8558,7 @@ bagtikan
 bassanello
 baar
 bandos
+biflorate
 bennis
 barih
 bejeweling
@@ -16047,7 +16048,6 @@ boubous
 brisance
 brahmanaspati
 bludgeoning
-biflorate
 border
 bishoprics
 bronk
