@@ -7260,7 +7260,6 @@ centuple
 clematises
 centuples
 codbank
-capitaling
 chaldese
 centuplicate
 centuplicating
@@ -9707,6 +9706,7 @@ cherna
 commendingly
 carboniser
 contemplatingly
+capitaling
 cheyenne
 cheyennes
 conchyliated
