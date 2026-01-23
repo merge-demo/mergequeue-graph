@@ -4248,7 +4248,6 @@ exemplifiable
 etherene
 esotrope
 echoless
-excruciatingly
 earjewel
 encephaloscopy
 emulsions
@@ -9319,6 +9318,7 @@ erugos
 eleocharis
 eruption
 eruptional
+excruciatingly
 ellen
 eruptive
 extortioner
