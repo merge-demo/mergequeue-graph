@@ -735,7 +735,6 @@ galvanizing
 gemmiferousness
 gunner
 galvanologist
-giantlikeness
 gollywog
 gonoplasm
 gerbillinae
@@ -4972,6 +4971,7 @@ gelt
 geosynclinal
 glaum
 gilliflirt
+giantlikeness
 gamekeepers
 glariness
 gregarinae
