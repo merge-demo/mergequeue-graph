@@ -717,6 +717,7 @@ aver
 alternize
 anglicized
 animine
+alypum
 antivaccination
 accourt
 aphid
@@ -8320,7 +8321,6 @@ anthophagous
 alipterion
 amoebidae
 abjectedness
-alypum
 amarelle
 aliquots
 aisled
