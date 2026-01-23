@@ -4552,6 +4552,7 @@ bater
 bool
 beagles
 barricadoed
+butanol
 biggening
 bargello
 butterjags
@@ -18091,7 +18092,6 @@ berthierite
 butane
 bismuthite
 burgage
-butanol
 bonked
 bibliopegistical
 butanols
