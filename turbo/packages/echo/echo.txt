@@ -8253,7 +8253,6 @@ eschynite
 embosoms
 eurus
 episcopally
-epithalamize
 equivalve
 ennobles
 exactions
@@ -12333,6 +12332,7 @@ elric
 exertions
 enurny
 eseptate
+epithalamize
 equilobate
 eupepsies
 edgeling
