@@ -2831,7 +2831,6 @@ casimeres
 cryptoanalyst
 cukes
 canoewood
-cadence
 coincident
 cuprammonium
 canoing
@@ -27840,6 +27839,7 @@ crescendoed
 crabber
 campit
 crabbery
+cadence
 carnivaler
 crabby
 croqueted

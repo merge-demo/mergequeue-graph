@@ -3500,6 +3500,7 @@ aulostomid
 agamobia
 addlebrained
 allegation
+anutraminosa
 addlehead
 addleheadedness
 addleness
@@ -13707,7 +13708,6 @@ anomia
 acquiet
 anaesthatic
 albation
-anutraminosa
 apparatchik
 andorran
 anomodont
