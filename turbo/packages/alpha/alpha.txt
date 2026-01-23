@@ -4932,6 +4932,7 @@ antimonide
 atame
 alluvivia
 arake
+apotropaic
 aerohydrous
 archagitator
 anoestrus
@@ -20443,7 +20444,6 @@ arteriac
 artistes
 allomorphic
 archchaplain
-apotropaic
 antimilitaristically
 aerogenous
 atechnic
