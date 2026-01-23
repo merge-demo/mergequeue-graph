@@ -6808,6 +6808,7 @@ banjore
 bert
 blowhole
 berteroa
+balmony
 berthas
 bulkages
 bibliotaphic
@@ -6917,7 +6918,6 @@ bibliopolistic
 beshade
 begrudges
 beslaver
-balmony
 blindfold
 beshadowed
 beauxite
