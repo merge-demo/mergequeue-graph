@@ -14261,7 +14261,6 @@ autochthonous
 anhedonia
 anthelix
 archaeomagnetism
-anthem
 anthemas
 anthemata
 agavose
@@ -15928,6 +15927,7 @@ aporiae
 antipsalmist
 antimetropia
 acidimeter
+anthem
 armill
 accidia
 amici
