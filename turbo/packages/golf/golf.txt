@@ -6463,6 +6463,7 @@ galvanocautery
 golly
 gleanings
 gymnospermal
+gossamered
 glucolipine
 ghostwrote
 gamete
@@ -7295,7 +7296,6 @@ gonfalonier
 glumpiness
 guildhall
 gosports
-gossamered
 galega
 gossamers
 geochronometric
