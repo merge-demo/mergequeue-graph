@@ -339,6 +339,7 @@ dummyweed
 disarm
 deltaite
 derecho
+discoloring
 damier
 depasturage
 desalted
@@ -16305,7 +16306,6 @@ downingia
 digestif
 diabrosis
 degenerescent
-discoloring
 downlink
 desertion
 dentalization
