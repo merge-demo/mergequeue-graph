@@ -869,7 +869,6 @@ gammy
 gynecomazia
 ganglionitis
 gilded
-goldfields
 glycerinize
 gazi
 galvanizes
@@ -2431,6 +2430,7 @@ glycohemia
 gainsayer
 ghoulish
 globally
+goldfields
 gastraeum
 glaver
 galravage

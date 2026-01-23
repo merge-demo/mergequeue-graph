@@ -3327,7 +3327,6 @@ elaeodendron
 erythrin
 executions
 euphroe
-equiangular
 emphemeralness
 expensefully
 ecdyses
@@ -9692,6 +9691,7 @@ eventuated
 entoptoscopic
 eschaufe
 essay
+equiangular
 ejaculum
 epistomata
 embargo
