@@ -4400,7 +4400,6 @@ bonzian
 bepress
 barrable
 breechclout
-booleans
 butyrousness
 bouquiniste
 bickers
@@ -5486,6 +5485,7 @@ bootyless
 beelines
 bobbled
 beydom
+booleans
 bechained
 beige
 becapping
