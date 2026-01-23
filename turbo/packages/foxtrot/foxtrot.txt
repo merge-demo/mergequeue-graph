@@ -3544,6 +3544,7 @@ filariids
 forechoice
 frangipane
 flagellative
+faulted
 funding
 forboding
 fairylands
@@ -6629,7 +6630,6 @@ footpath
 forevouched
 foehnlike
 fluyts
-faulted
 fulgurating
 forenotice
 foemanship

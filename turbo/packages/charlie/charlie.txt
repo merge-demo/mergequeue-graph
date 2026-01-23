@@ -9976,7 +9976,6 @@ cump
 cherish
 chordeiles
 crawfishes
-counteractant
 chymic
 cherisher
 cherishment
@@ -22252,6 +22251,7 @@ congers
 chemigraphically
 cupride
 congestedness
+counteractant
 cucujidae
 commote
 congestible
