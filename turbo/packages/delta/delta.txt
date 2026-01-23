@@ -498,7 +498,6 @@ dame
 deveining
 declivous
 doctrinarian
-distilling
 dogs
 demob
 droughtiest
@@ -3538,6 +3537,7 @@ descendence
 discredence
 derivably
 dawcock
+distilling
 drumlin
 defunction
 disfrock
