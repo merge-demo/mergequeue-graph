@@ -1344,7 +1344,6 @@ fineleaf
 fyttes
 flyable
 factionally
-frantically
 fluxible
 fatherly
 feest
@@ -5854,6 +5853,7 @@ feague
 floral
 fangas
 flinted
+frantically
 furnishings
 flocculent
 flushes
