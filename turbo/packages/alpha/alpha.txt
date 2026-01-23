@@ -297,7 +297,6 @@ admiratively
 abdominothoracic
 acquiescent
 astoundment
-abdominous
 articulate
 ampullulae
 abductions
@@ -11131,6 +11130,7 @@ airiest
 agynous
 aerologists
 authority
+abdominous
 attesting
 attainability
 apocyneous
