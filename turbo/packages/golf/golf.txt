@@ -3902,6 +3902,7 @@ geneal
 gigawatt
 gutser
 glochchidia
+griskin
 garote
 gratuito
 graphomaniac
@@ -5048,7 +5049,6 @@ guilelessly
 gilten
 guernseyed
 glareproof
-griskin
 gamelan
 grainsmen
 goldeneye
