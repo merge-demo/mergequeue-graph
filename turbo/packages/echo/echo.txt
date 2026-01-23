@@ -7254,6 +7254,7 @@ establisher
 epa
 equiatomic
 extraversion
+existentialistically
 efferous
 expeditating
 explodent
@@ -12528,7 +12529,6 @@ esne
 enumerably
 excoecaria
 effluvious
-existentialistically
 eupione
 enzymology
 exculpative
