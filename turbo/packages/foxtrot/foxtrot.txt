@@ -2654,6 +2654,7 @@ father
 fraters
 feedings
 froufrou
+fiked
 flickering
 foxfishes
 fifty
@@ -7834,7 +7835,6 @@ fencible
 flits
 frolicked
 flagellating
-fiked
 forepossessed
 forlornest
 formulate

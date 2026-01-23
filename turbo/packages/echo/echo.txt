@@ -4273,7 +4273,6 @@ en
 enjoined
 extirpation
 episiorrhagia
-epicarides
 ejectment
 exaltedness
 euphausid
@@ -8413,6 +8412,7 @@ email
 epicier
 emmenic
 elkhorn
+epicarides
 egressing
 eroticomaniacal
 epopoeias
