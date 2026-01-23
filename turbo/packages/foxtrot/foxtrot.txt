@@ -11242,6 +11242,7 @@ funmaking
 fulmines
 flit
 flakeless
+fusariose
 famble
 featherwork
 fourer
@@ -11495,7 +11496,6 @@ flagellist
 flammable
 flouncy
 fluently
-fusariose
 fanfold
 fratercula
 frankfort
