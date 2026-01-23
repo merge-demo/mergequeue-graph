@@ -2532,6 +2532,7 @@ enounce
 eophyton
 endopterygote
 epiphytal
+exonerate
 emoluments
 emancipators
 enwheeling
@@ -12666,7 +12667,6 @@ excrementary
 entame
 echoisms
 epicotyledonary
-exonerate
 exonerating
 ephemerous
 episcopicide
