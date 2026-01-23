@@ -9479,6 +9479,7 @@ eczematoid
 escout
 enstore
 es
+eery
 equipondious
 escry
 edifiers
@@ -13199,7 +13200,6 @@ encephala
 echinite
 empyreal
 expressibility
-eery
 expiringly
 empressement
 espies
