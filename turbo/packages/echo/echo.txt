@@ -1014,6 +1014,7 @@ emberizinae
 enslavedness
 emblem
 epipleura
+embue
 elberta
 efl
 expeditions
@@ -7334,7 +7335,6 @@ enstranged
 eyries
 epee
 epeeist
-embue
 exstipulate
 epeiric
 exciseman
