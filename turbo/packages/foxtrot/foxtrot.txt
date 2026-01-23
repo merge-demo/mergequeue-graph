@@ -9021,7 +9021,6 @@ fared
 faultful
 fowlings
 fluvious
-feverlike
 fountained
 flashguns
 flies
@@ -9133,6 +9132,7 @@ fearfullest
 fungosity
 freights
 fossorial
+feverlike
 fractionization
 fractions
 forncast
