@@ -3882,7 +3882,6 @@ dekameters
 decumani
 duo
 dahlsten
-decan
 dollied
 dekare
 dinsome
@@ -13485,6 +13484,7 @@ despotism
 droyl
 disobediently
 disrobement
+decan
 danseur
 dunnites
 debi

@@ -779,7 +779,6 @@ epeira
 eurytopic
 enter
 euplotid
-emplection
 extravisceral
 evincibly
 eggment
@@ -1728,6 +1727,7 @@ enticeful
 eyelessness
 epikia
 extrinsicality
+emplection
 exert
 ecdemic
 eyelet
