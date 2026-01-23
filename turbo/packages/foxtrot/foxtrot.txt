@@ -5080,6 +5080,7 @@ fishiest
 fainness
 flashgun
 fifteenth
+flecked
 factitive
 fict
 furculae
@@ -9432,7 +9433,6 @@ felonsetting
 formic
 fraternised
 following
-flecked
 fraternism
 fitfulness
 faux
