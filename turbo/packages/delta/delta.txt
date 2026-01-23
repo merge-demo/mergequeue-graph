@@ -4211,7 +4211,6 @@ diluvial
 disacknowledge
 deltas
 dukeling
-dook
 desipiency
 dopaminergic
 disputatious
@@ -12646,6 +12645,7 @@ descendentalist
 dodgeries
 duplicidentate
 dechemicalization
+dook
 disjunctive
 disjunctively
 deseed
