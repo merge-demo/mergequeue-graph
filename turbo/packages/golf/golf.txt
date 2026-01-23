@@ -1436,6 +1436,7 @@ guidebookish
 gimbawawed
 goatsucker
 geophagous
+gallflies
 grossart
 generical
 grillages
@@ -6649,7 +6650,6 @@ glitters
 garmentless
 giantism
 gastroscopies
-gallflies
 golach
 gimlets
 gayway
