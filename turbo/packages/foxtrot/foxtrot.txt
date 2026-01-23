@@ -196,7 +196,6 @@ foreignism
 florin
 folletage
 footstock
-freedwoman
 ferns
 factotum
 felsitic
@@ -9175,6 +9174,7 @@ faroff
 frostproofing
 fulfulde
 forward
+freedwoman
 filices
 filenames
 fifteenths
