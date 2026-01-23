@@ -3263,6 +3263,7 @@ azimin
 ambassadeur
 algebraize
 acutance
+acanthodea
 anankes
 amyloids
 acutances
@@ -17516,7 +17517,6 @@ appeal
 adders
 appealable
 askance
-acanthodea
 appealingly
 agruif
 antiposition
