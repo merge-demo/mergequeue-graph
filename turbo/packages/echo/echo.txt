@@ -4829,7 +4829,6 @@ englished
 eulogizes
 externalize
 expectorator
-empaneled
 electroed
 exportable
 episcopolatry
@@ -6156,6 +6155,7 @@ etherealizing
 edacious
 equiparant
 electrogasdynamics
+empaneled
 eschatologist
 enneaphyllous
 evacuating
