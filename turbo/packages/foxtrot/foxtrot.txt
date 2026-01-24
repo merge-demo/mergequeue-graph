@@ -3869,6 +3869,7 @@ feckless
 figurato
 forenoon
 fionnuala
+flambes
 fanwe
 floras
 fits
@@ -5124,7 +5125,6 @@ formnail
 frotteur
 frankfurter
 flavanone
-flambes
 formicidae
 funambulism
 flatness
