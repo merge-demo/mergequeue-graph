@@ -45,7 +45,6 @@ gypsydom
 gmelina
 grawls
 gabions
-genotypically
 groats
 graperies
 gangue
@@ -8643,6 +8642,7 @@ gisel
 greaved
 gravecloth
 graminous
+genotypically
 gigartinales
 gummic
 gonocalycine
