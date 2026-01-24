@@ -5796,6 +5796,7 @@ batfish
 bimetallism
 berengelite
 bonasa
+beefburger
 bellhouse
 belli
 buckstone
@@ -9138,7 +9139,6 @@ biostatic
 biostatical
 buffleheaded
 banc
-beefburger
 bhaktas
 branchial
 bubbybush
