@@ -6056,7 +6056,6 @@ der
 deboites
 dendrometer
 domatium
-deracinating
 demasculinising
 domiciliar
 divinising
@@ -15588,6 +15587,7 @@ diphenylchloroarsine
 doodab
 demurrages
 dehnstufe
+deracinating
 dyvours
 doodlebug
 doodlers
