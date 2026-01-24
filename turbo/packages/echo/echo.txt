@@ -3135,7 +3135,6 @@ externalizing
 eloigned
 eleometer
 euphonetic
-endoscopy
 earthsmoke
 eloigning
 enactment
@@ -7245,6 +7244,7 @@ epimyth
 etonian
 ectozoon
 eosate
+endoscopy
 effigial
 eosinic
 ergatogynous
