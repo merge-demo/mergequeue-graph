@@ -6811,7 +6811,6 @@ bertie
 bertolonia
 bioacoustics
 basigenous
-bertrum
 beachy
 broadsided
 ber
@@ -6972,6 +6971,7 @@ beslap
 bushbashing
 bastillion
 bearherd
+bertrum
 bouchee
 bedsite
 bestrid
