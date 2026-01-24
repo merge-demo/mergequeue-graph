@@ -975,6 +975,7 @@ endorsing
 excel
 enquiring
 exorbital
+exsurge
 earthwork
 explosibility
 encapsules
@@ -12229,7 +12230,6 @@ exocyclica
 eclogue
 executress
 elshin
-exsurge
 exch
 endosteal
 electrometallurgy
