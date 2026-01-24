@@ -8311,6 +8311,7 @@ eland
 eucarpic
 enslaved
 enravished
+emotionalistic
 ethylbenzene
 endocyemate
 epithetic
@@ -10238,7 +10239,6 @@ eavesdropped
 equisized
 eastlander
 eclair
-emotionalistic
 elzevirian
 elaborates
 extruders
