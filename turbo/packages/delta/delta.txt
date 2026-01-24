@@ -1548,7 +1548,6 @@ disciplinarity
 dextrously
 dicranoid
 doubtfulness
-deactivation
 deactivators
 distressedness
 drail
@@ -10200,6 +10199,7 @@ dinking
 defatting
 dinkum
 duroc
+deactivation
 dormitory
 decillionth
 dishcross
