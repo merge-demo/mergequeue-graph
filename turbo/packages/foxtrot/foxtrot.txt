@@ -1043,6 +1043,7 @@ feeblest
 foglietto
 fascicles
 flexuose
+feuilletonism
 flatlong
 fren
 fumosity
@@ -4824,7 +4825,6 @@ ferocities
 formalness
 followable
 flails
-feuilletonism
 furoic
 fissipalmation
 friesic
