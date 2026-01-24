@@ -3336,6 +3336,7 @@ demitting
 duddery
 destiny
 domesticable
+dolesman
 datiscoside
 downweight
 dicot
@@ -14208,7 +14209,6 @@ dunair
 disunify
 disorientates
 drably
-dolesman
 diastatically
 dermatomic
 disunion
