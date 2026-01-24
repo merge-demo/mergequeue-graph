@@ -5303,6 +5303,7 @@ fldxt
 foolhardier
 frower
 fasts
+footlight
 filtrability
 frugalism
 featherweight
@@ -10103,7 +10104,6 @@ franion
 fainted
 foretopman
 fructuary
-footlight
 frithles
 fellowheirship
 forklifts
