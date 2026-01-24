@@ -13308,7 +13308,6 @@ brachioradialis
 botanizes
 bulbless
 balsamed
-bacterially
 bemat
 botaurus
 blooie
@@ -15884,6 +15883,7 @@ beef
 bowwort
 bluntly
 butyls
+bacterially
 bindingly
 battered
 bloodstainedness
