@@ -370,6 +370,7 @@ flowerily
 fattiness
 flusterer
 forcedness
+favillae
 franklandite
 from
 fieldfight
@@ -3445,7 +3446,6 @@ formboard
 figo
 fulwa
 foraminifer
-favillae
 figshell
 flankard
 fury
