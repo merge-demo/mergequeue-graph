@@ -22305,7 +22305,6 @@ coward
 congratulational
 costumire
 congratulations
-congratulatory
 congree
 commandant
 congregable
@@ -22973,6 +22972,7 @@ cookdom
 cetraria
 consitutional
 consociational
+congratulatory
 corniculum
 chili
 cive
