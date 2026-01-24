@@ -142,7 +142,6 @@ gigantology
 gaelic
 gynostegia
 gs
-graveman
 guy
 gentisin
 gratelike
@@ -4531,6 +4530,7 @@ gyrencephala
 gutturalized
 gilim
 grammaticaster
+graveman
 gobbledygook
 graphometry
 glim
