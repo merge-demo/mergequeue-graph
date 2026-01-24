@@ -7083,6 +7083,7 @@ formfeeds
 footful
 foolhardiness
 fitzclarence
+facetted
 fradicin
 fabulousness
 foolhardiship
@@ -10691,7 +10692,6 @@ furnisher
 fibular
 fruitlets
 fumish
-facetted
 fainting
 felsophyre
 forescent
