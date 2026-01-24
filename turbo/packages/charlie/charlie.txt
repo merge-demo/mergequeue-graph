@@ -20742,7 +20742,6 @@ cheloid
 cryotron
 carvy
 complexing
-complexion
 chromos
 complexional
 carioling
@@ -29280,6 +29279,7 @@ collenchymatous
 ceinte
 cryptoclimate
 checking
+complexion
 cryptococci
 caulophylline
 clout
