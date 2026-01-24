@@ -1524,7 +1524,6 @@ calligraphers
 college
 calligraphy
 calligraphic
-chiba
 calligraphically
 calling
 cigarillo
@@ -4334,6 +4333,7 @@ conserving
 cariban
 caribbeans
 chelation
+chiba
 caribbee
 coeliotomy
 cestracion
