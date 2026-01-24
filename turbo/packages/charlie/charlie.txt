@@ -258,7 +258,6 @@ cognati
 condensing
 caches
 capitan
-cachespell
 cagayans
 cacheting
 calicate
@@ -2396,6 +2395,7 @@ churly
 cumbly
 canavali
 canavalia
+cachespell
 crambly
 correlatively
 canc
