@@ -1803,6 +1803,7 @@ freckledness
 feathertop
 frogmen
 flabra
+fair
 fourteenthly
 flutina
 foreby
@@ -11642,7 +11643,6 @@ federational
 furbishing
 filamented
 funerealness
-fair
 forded
 foreknowing
 feedlot
