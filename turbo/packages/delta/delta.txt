@@ -4082,7 +4082,6 @@ died
 decodes
 daschagga
 dankish
-deitate
 deintellectualization
 decapitated
 delinquency
@@ -16488,6 +16487,7 @@ diagramming
 dazed
 datiscin
 dracone
+deitate
 decelerator
 draconian
 disagreeance
