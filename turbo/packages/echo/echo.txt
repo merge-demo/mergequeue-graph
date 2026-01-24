@@ -2370,7 +2370,6 @@ epilogical
 electrochronometric
 enfroward
 estafetted
-entendres
 electroplating
 expostulate
 electroplates
@@ -7237,6 +7236,7 @@ egocentrically
 erysipelothrix
 extinguishable
 eos
+entendres
 earshot
 epimyth
 etonian
