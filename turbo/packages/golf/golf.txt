@@ -1820,7 +1820,6 @@ gouts
 gemmiparity
 gutturize
 gobleted
-guinean
 gladioluses
 gullah
 gatekeeper
@@ -7480,6 +7479,7 @@ glabellous
 gryllus
 garrotted
 gubernaculum
+guinean
 grigri
 germanical
 graypate
