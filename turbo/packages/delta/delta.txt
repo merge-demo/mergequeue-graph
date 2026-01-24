@@ -6661,7 +6661,6 @@ decadianome
 drawarm
 datum
 dipneedle
-danders
 detonator
 deescalations
 deserving
@@ -8282,6 +8281,7 @@ diagonic
 drum
 diagram
 deliriousness
+danders
 drahthaar
 demobilize
 dextroaural
