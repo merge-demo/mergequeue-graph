@@ -354,7 +354,6 @@ granaries
 galactometer
 gorling
 gaussian
-grilses
 gleen
 gerontologic
 governingly
@@ -9668,6 +9667,7 @@ griphe
 guric
 gametange
 gradative
+grilses
 garnetter
 glareous
 galapee
