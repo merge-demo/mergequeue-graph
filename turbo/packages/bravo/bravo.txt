@@ -2719,6 +2719,7 @@ beladies
 betters
 bellypiece
 batholitic
+bescribbling
 breadwinner
 baroko
 bonder
@@ -10969,7 +10970,6 @@ billowy
 blips
 boehmenite
 bliss
-bescribbling
 branchiostegous
 bucketshop
 birdcatcher
