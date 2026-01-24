@@ -5605,7 +5605,6 @@ catalyte
 cyclopean
 cyanosis
 cabalassou
-cyniatria
 consigne
 calotermitidae
 cassinoid
@@ -27625,6 +27624,7 @@ cowboy
 cowbrute
 cervicolumbar
 crenellate
+cyniatria
 cowcatchers
 cancelling
 congener

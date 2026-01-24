@@ -1358,6 +1358,7 @@ gauss
 ginners
 graplins
 goneness
+gousty
 glyoxylic
 grue
 ghastly
@@ -1835,7 +1836,6 @@ grasses
 glutenous
 generalcies
 gemmules
-gousty
 gadabout
 goloshes
 geographize
