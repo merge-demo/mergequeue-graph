@@ -655,7 +655,6 @@ frithsoken
 figuring
 falx
 further
-fallbacks
 fluocarbonate
 fireclays
 fortitudinous
@@ -8693,6 +8692,7 @@ forthgaze
 forthgo
 ferreling
 footcandle
+fallbacks
 furlong
 febrifuge
 fissility
