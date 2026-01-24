@@ -8456,7 +8456,6 @@ deflexed
 dooxidize
 dextro
 decrowns
-daimonology
 decise
 deration
 didymis
@@ -14076,6 +14075,7 @@ disappearances
 draggy
 diaphototropism
 details
+daimonology
 damonico
 distressed
 disfigured
