@@ -1492,7 +1492,6 @@ dbridement
 decidual
 diagredium
 dracma
-dc
 depressure
 deaccessioning
 drawbolt
@@ -3615,6 +3614,7 @@ dermatoxerasia
 dec
 disarrangement
 denounced
+dc
 despisement
 delinquencies
 designed
