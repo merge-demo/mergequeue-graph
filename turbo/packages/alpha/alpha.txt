@@ -588,6 +588,7 @@ anatomical
 amynodont
 abococket
 abode
+armorially
 aryballus
 auricularly
 archbishoprics
@@ -14755,7 +14756,6 @@ anticapitalistically
 anticardiac
 anticarious
 aeronautism
-armorially
 activized
 anticatalytically
 apodous
