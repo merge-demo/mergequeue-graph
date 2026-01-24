@@ -15964,7 +15964,6 @@ cyclos
 clergymen
 chandleries
 clergion
-clergywoman
 clementine
 culverfoot
 clerical
@@ -19582,6 +19581,7 @@ columbiformes
 condemned
 colonizing
 creophagist
+clergywoman
 columbine
 chamfrons
 cusp
