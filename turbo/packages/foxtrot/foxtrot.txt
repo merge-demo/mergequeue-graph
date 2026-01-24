@@ -10377,6 +10377,7 @@ fragrances
 foreboard
 feldspathization
 flashcube
+florikan
 fletcherite
 formatting
 fatnesses
@@ -11281,7 +11282,6 @@ folletti
 falun
 fully
 formularized
-florikan
 fersmite
 fleming
 fledging
