@@ -12414,6 +12414,7 @@ deforms
 declivate
 dishevelled
 dishevelling
+dynamics
 delomorphic
 dismissingly
 doeskins
@@ -17179,7 +17180,6 @@ dromedaries
 diaphaneity
 diswont
 drinks
-dynamics
 dansants
 daffiest
 dinnerly
