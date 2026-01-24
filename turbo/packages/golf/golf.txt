@@ -8865,7 +8865,6 @@ goodliest
 gremlins
 grenadierial
 gratuitously
-goniotheca
 glaucochroite
 gonycampsis
 groundberry
@@ -10434,6 +10433,7 @@ galops
 gesticulatory
 gambeer
 gelees
+goniotheca
 guaiacs
 gittite
 gastronomically
