@@ -5504,6 +5504,7 @@ glutition
 gaminish
 gird
 greens
+gunnung
 gemutlichkeit
 graysbies
 grammel
@@ -9787,7 +9788,6 @@ gumfield
 grylle
 gonothecal
 geognosies
-gunnung
 guacacoa
 goyish
 grimacer
