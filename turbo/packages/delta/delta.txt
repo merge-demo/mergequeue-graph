@@ -6045,7 +6045,6 @@ dramaticism
 disaster
 depressiveness
 degraders
-deonerate
 debriefed
 deaconal
 dilutent
@@ -9851,6 +9850,7 @@ divergences
 delitescence
 diosphenol
 dinmont
+deonerate
 doctrinable
 dimber
 doek
