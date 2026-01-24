@@ -1075,7 +1075,6 @@ fogas
 faro
 fluoridization
 floriken
-floter
 foredestining
 furriery
 flustration
@@ -9263,6 +9262,7 @@ frontispieced
 fraktur
 fasciolet
 fibroglioma
+floter
 fresnel
 foresentence
 fatless
