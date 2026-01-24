@@ -4101,7 +4101,6 @@ fylgjur
 foolship
 finnicize
 foresightedness
-fluctisonant
 fenestellid
 fartherer
 felicitously
@@ -5288,6 +5287,7 @@ fridays
 formonitrile
 festuca
 fingerprinting
+fluctisonant
 ferry
 faitery
 flb
