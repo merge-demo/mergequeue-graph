@@ -7165,7 +7165,6 @@ centraxonial
 centre
 clinoaxis
 centreboard
-centred
 centref
 centrepiece
 canephoroe
@@ -28547,6 +28546,7 @@ credibly
 creditable
 coinfinite
 creditably
+centred
 caracaras
 crediting
 comd
