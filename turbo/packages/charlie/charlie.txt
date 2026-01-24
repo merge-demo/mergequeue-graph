@@ -6623,6 +6623,7 @@ congenitalness
 ceratitic
 creesh
 cebollite
+coeval
 checkmated
 crewellery
 cecally
@@ -18189,7 +18190,6 @@ coetaneous
 coeternal
 coeternity
 caninity
-coeval
 camorrist
 coevalness
 carboline
