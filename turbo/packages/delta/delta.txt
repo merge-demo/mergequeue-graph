@@ -5773,6 +5773,7 @@ deposito
 depositor
 daytime
 dicoelious
+drabbets
 deleatur
 dichronous
 dishful
@@ -8185,7 +8186,6 @@ dragooning
 deputable
 dactylic
 dart
-drabbets
 diffractions
 dicyema
 diactinic
