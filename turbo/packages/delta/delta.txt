@@ -7790,7 +7790,6 @@ desires
 dadburned
 decolourising
 depopulative
-dyak
 devoir
 devoirs
 dholes
@@ -11581,6 +11580,7 @@ diphthongised
 dithering
 discerpibility
 disconsolately
+dyak
 datasets
 drolly
 dispeopling
