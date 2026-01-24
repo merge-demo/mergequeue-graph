@@ -9851,7 +9851,6 @@ eyebolt
 electrology
 esthesiogen
 entophyte
-epoophoron
 envelopments
 epigonism
 esthesiogeny
@@ -11756,6 +11755,7 @@ esquireship
 ericetum
 excorticating
 exappendiculate
+epoophoron
 empover
 electroacoustic
 exarate
