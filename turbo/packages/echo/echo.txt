@@ -5402,7 +5402,6 @@ enterozoic
 earthmen
 emblematology
 endwise
-eneclann
 elaboratory
 equilaterally
 epigynies
@@ -8766,6 +8765,7 @@ electrodepositable
 elegist
 expedients
 extradites
+eneclann
 explosionist
 eviller
 etcetera
