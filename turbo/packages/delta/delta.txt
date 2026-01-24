@@ -7341,6 +7341,7 @@ deterrence
 disprejudice
 dodunk
 detersiveness
+distributer
 disunions
 detestation
 damoisel
@@ -14099,7 +14100,6 @@ designative
 doocot
 dolichocephalic
 doggrel
-distributer
 distributing
 dispace
 dialist
