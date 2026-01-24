@@ -604,7 +604,6 @@ claggy
 caducities
 caducous
 caryocaraceae
-caduke
 cadwal
 cagers
 callaesthetic
@@ -23043,6 +23042,7 @@ counteradvantage
 consopite
 consort
 crown
+caduke
 chowderhead
 curtest
 consortable
