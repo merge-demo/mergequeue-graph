@@ -2706,6 +2706,7 @@ genyophrynidae
 gingers
 gascoign
 gilbertese
+galeated
 genyplasty
 globularness
 gallicole
@@ -7950,7 +7951,6 @@ gipper
 gabbroic
 grudgment
 gasterosteoid
-galeated
 granada
 glazy
 gables
