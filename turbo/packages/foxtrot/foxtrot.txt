@@ -4243,7 +4243,6 @@ floridians
 fusarium
 flaxbird
 foreignize
-feverish
 fungose
 flatterers
 frenzying
@@ -6029,6 +6028,7 @@ fateful
 floriation
 freet
 flunkeyize
+feverish
 forayers
 farting
 flavorfulness
