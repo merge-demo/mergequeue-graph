@@ -1291,7 +1291,6 @@ guessworker
 gnawingly
 gargalize
 grump
-government
 geeing
 gulliver
 geodiatropism
@@ -7588,6 +7587,7 @@ gracilis
 gracing
 greyly
 graft
+government
 gerbil
 glooms
 gyal
