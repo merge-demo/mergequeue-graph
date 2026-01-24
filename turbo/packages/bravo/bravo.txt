@@ -2811,7 +2811,6 @@ bitis
 begalled
 bulkiest
 baudery
-beclap
 barothermograph
 bowelling
 barotrauma
@@ -5342,6 +5341,7 @@ begoniales
 backslapping
 ballisticians
 billionaires
+beclap
 bloodlines
 begorah
 brevicipitidae
