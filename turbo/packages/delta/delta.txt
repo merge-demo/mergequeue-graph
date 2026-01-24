@@ -10717,7 +10717,6 @@ disavow
 delaminate
 depriver
 drad
-dun
 delocalisation
 donship
 diacanthous
@@ -15345,6 +15344,7 @@ decarboxylate
 dromic
 devoutlessly
 dedignation
+dun
 displeasureable
 descendability
 dittander
