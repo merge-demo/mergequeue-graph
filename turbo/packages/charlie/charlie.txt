@@ -4377,6 +4377,7 @@ crum
 caricologist
 cowlstaff
 caricous
+calumet
 craker
 crestfish
 caridean
@@ -14645,7 +14646,6 @@ customarily
 cholochrome
 campodeiform
 cystophora
-calumet
 cystophore
 cistophorus
 coadjustment
