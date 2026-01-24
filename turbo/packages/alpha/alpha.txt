@@ -3732,6 +3732,7 @@ agones
 adhaka
 atticized
 advisership
+anisoiconia
 adhere
 atticists
 adhered
@@ -13263,7 +13264,6 @@ anisomyodian
 amtrak
 aortopathy
 anisognathism
-anisoiconia
 amphodelite
 alcoholometry
 anorexia
