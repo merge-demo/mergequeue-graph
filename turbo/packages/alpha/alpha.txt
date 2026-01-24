@@ -7885,6 +7885,7 @@ aristippus
 aleppo
 alerce
 alerse
+apiaceae
 agglutinates
 alerta
 anorak
@@ -16864,7 +16865,6 @@ apyrene
 anaerobe
 apiaca
 ambushlike
-apiaceae
 apiarian
 apiarians
 apiarists
