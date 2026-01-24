@@ -3640,6 +3640,7 @@ degradative
 decile
 degraded
 degradement
+doomsdays
 dozing
 depsid
 disrupt
@@ -7192,7 +7193,6 @@ destructionist
 dattos
 disafforest
 divest
-doomsdays
 dehiscence
 demultiplexing
 detainee
