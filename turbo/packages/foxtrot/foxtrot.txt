@@ -5517,7 +5517,6 @@ flagon
 fol
 fural
 forestays
-flexion
 foreclosable
 fleecer
 foraminiferous
@@ -6966,6 +6965,7 @@ flay
 festucous
 fetishization
 fissicostate
+flexion
 franks
 foetus
 foments
