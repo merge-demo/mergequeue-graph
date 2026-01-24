@@ -12854,6 +12854,7 @@ anglian
 apportionment
 anglicanisms
 antispiritual
+assentator
 abscise
 arverni
 apolysin
@@ -21745,7 +21746,6 @@ assembler
 assemblyman
 aerohydrotherapy
 antiperistatical
-assentator
 arcifera
 anilingus
 anthropoidean
