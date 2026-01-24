@@ -2958,7 +2958,6 @@ fezzed
 favosite
 fluvanna
 fallway
-fadings
 frothing
 fy
 fiacres
@@ -7575,6 +7574,7 @@ forecourts
 freeholding
 furuncles
 faille
+fadings
 fifers
 forerecited
 felsite
