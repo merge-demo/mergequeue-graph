@@ -3914,7 +3914,6 @@ depersonalised
 demes
 dispeopler
 delayer
-delayful
 dooli
 decanate
 devitalisation
@@ -9504,6 +9503,7 @@ digraphic
 dynamogeny
 dreg
 dialysers
+delayful
 demiurge
 digital
 drunkest
