@@ -6615,7 +6615,6 @@ dioscuri
 desorb
 defatigated
 duendes
-dustband
 dipped
 dictyotaceae
 desertfully
@@ -17574,6 +17573,7 @@ depolarised
 disinflationary
 disappeared
 drumlinoid
+dustband
 decelerated
 demimentoniere
 dactylate
