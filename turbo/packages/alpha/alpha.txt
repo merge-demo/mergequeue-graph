@@ -16616,7 +16616,6 @@ archeunuch
 acalculia
 apeek
 adipocyte
-apelles
 acuminate
 athirst
 affiliate
@@ -21666,6 +21665,7 @@ anethol
 amatorial
 alphabetising
 assailer
+apelles
 adopters
 assailers
 axiform
