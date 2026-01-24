@@ -3772,7 +3772,6 @@ batwomen
 brevipennate
 beetlestock
 batz
-beldamship
 bestubble
 benchland
 blundering
@@ -17724,6 +17723,7 @@ bombshell
 burned
 burner
 benempt
+beldamship
 billian
 bedlamize
 blastophaga
