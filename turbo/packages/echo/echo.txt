@@ -1673,7 +1673,6 @@ enlivening
 earner
 euphuized
 epiphloedal
-electromerism
 enodation
 electrotaxis
 emigr
@@ -9320,6 +9319,7 @@ extendability
 extralegal
 ectrogeny
 eructative
+electromerism
 ericaceous
 elfenfolk
 emersions
