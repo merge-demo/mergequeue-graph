@@ -7110,7 +7110,6 @@ gored
 gluck
 gores
 goldenness
-guango
 gingerbready
 giggler
 gastrotaxis
@@ -9129,6 +9128,7 @@ grapline
 grusinian
 gonococcoid
 gearcase
+guango
 glyconeogenesis
 grooming
 gardant
