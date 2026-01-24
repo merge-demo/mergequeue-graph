@@ -11348,7 +11348,6 @@ equidifferent
 epitrochlear
 evenfall
 ennerve
-eupnoeic
 enervative
 embellished
 exhaustibility
@@ -11532,6 +11531,7 @@ epiphytical
 eviting
 evangeline
 emprize
+eupnoeic
 endosteitis
 epineolithic
 edital
