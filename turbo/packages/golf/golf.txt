@@ -5521,6 +5521,7 @@ grugrus
 guardrail
 gymnocalycium
 gussies
+gonidial
 globous
 georgical
 gadus
@@ -9935,7 +9936,6 @@ garb
 gumptions
 grilladed
 guarico
-gonidial
 graphostatic
 getaways
 grievousness
