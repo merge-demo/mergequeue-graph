@@ -3506,6 +3506,7 @@ deformation
 deflections
 delete
 deformations
+deli
 deformedly
 dandily
 downfold
@@ -9843,7 +9844,6 @@ downslide
 dextrality
 demythologizing
 dimastigate
-deli
 dehumidification
 divergences
 delitescence
