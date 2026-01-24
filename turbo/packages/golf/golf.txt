@@ -1798,6 +1798,7 @@ gastrocolostomy
 geodesia
 gastrovascular
 gunfires
+gewgawed
 gthite
 goala
 gulleries
@@ -8054,7 +8055,6 @@ graded
 gastrin
 gauzes
 gapeworm
-gewgawed
 graduality
 gulch
 grayhound
