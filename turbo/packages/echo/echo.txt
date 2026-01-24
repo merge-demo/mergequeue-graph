@@ -3707,7 +3707,6 @@ eweries
 embryotome
 exhalatory
 eeten
-ephemerons
 echelette
 exhaustivity
 extractorship
@@ -5943,6 +5942,7 @@ exemplupla
 erythrose
 euflavine
 enheritance
+ephemerons
 eking
 expectorates
 enigmas
