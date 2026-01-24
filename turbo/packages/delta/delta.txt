@@ -458,7 +458,6 @@ diathermous
 dimercaprol
 daises
 defiance
-dangleberries
 discept
 debates
 darksum
@@ -4009,6 +4008,7 @@ directitude
 desuetudes
 dislikeful
 dysepulotic
+dangleberries
 dextrorse
 deliberalization
 duiker
