@@ -3638,6 +3638,7 @@ batoon
 biconjugate
 backsettler
 batophobia
+besiege
 benzdioxazine
 balloonery
 bepierce
@@ -16699,7 +16700,6 @@ bucketmaking
 blithehearted
 biotherapy
 brillolette
-besiege
 bishopship
 basilisk
 bilaan
