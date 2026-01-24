@@ -1554,7 +1554,6 @@ drail
 deadlier
 deaden
 dakir
-droops
 diadelphian
 drippings
 dauncy
@@ -5951,6 +5950,7 @@ discommoded
 diaschistic
 dispraise
 droopy
+droops
 demisecond
 devitation
 domajigger
