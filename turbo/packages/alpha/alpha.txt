@@ -10048,6 +10048,7 @@ alkaloidal
 architective
 antiphrasis
 anisette
+availability
 autolaryngoscope
 antinationally
 adelpholite
@@ -17478,7 +17479,6 @@ acantholimon
 armaturing
 auxotrophic
 aerodyne
-availability
 anamorphic
 armers
 amplifying
