@@ -843,7 +843,6 @@ fons
 flemings
 forrad
 forerequest
-flindosy
 fiddlehead
 foveolarious
 frown
@@ -1309,6 +1308,7 @@ foins
 flechettes
 footlocker
 fluctuous
+flindosy
 flarfishes
 feminophobe
 fatalists
