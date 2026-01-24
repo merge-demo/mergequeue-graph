@@ -2528,7 +2528,6 @@ gaudier
 glen
 gumption
 generations
-growleries
 gastrula
 gobangs
 ganch
@@ -6752,6 +6751,7 @@ gyrostatics
 genal
 gunsmith
 genros
+growleries
 gondola
 goniums
 glanis
