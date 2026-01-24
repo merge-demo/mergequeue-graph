@@ -1124,6 +1124,7 @@ belonesite
 bairns
 bootful
 berne
+bewailingly
 banquets
 backwall
 borates
@@ -5741,7 +5742,6 @@ bechance
 belittle
 bailees
 burnettize
-bewailingly
 boanergism
 bamboozled
 bonos
