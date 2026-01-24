@@ -7972,6 +7972,7 @@ chablis
 coelarium
 crannog
 chabouk
+chinese
 crankshaft
 chabuk
 chabuks
@@ -30596,7 +30597,6 @@ cuca
 cluff
 clambers
 corraded
-chinese
 conduction
 cuchia
 cauterizes
