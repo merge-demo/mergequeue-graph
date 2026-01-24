@@ -6768,7 +6768,6 @@ entiris
 extinguishing
 exasperate
 embryoniform
-entitatively
 entitle
 elixed
 evangelistarion
@@ -7537,6 +7536,7 @@ enripen
 exponence
 explanitory
 epicheiremata
+entitatively
 executer
 ependyma
 endomysium
