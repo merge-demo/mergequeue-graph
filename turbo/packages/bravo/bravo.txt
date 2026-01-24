@@ -15166,7 +15166,6 @@ biflecnode
 bullionless
 bram
 biddulphiaceae
-bryanism
 barsom
 bahuvrihis
 bascology
@@ -16508,6 +16507,7 @@ blent
 bishoplet
 brookie
 borasque
+bryanism
 bimillennium
 bozal
 breathableness
