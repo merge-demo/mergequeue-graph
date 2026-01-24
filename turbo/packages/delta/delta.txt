@@ -5284,7 +5284,6 @@ donis
 dolor
 dentatoserrate
 darkest
-decennary
 disputable
 damnii
 dentatosinuate
@@ -9855,6 +9854,7 @@ dimber
 doek
 desilicification
 dace
+decennary
 dimensionally
 dimensioning
 dimensum
