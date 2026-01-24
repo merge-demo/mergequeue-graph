@@ -1375,7 +1375,6 @@ cutify
 cephalobranchiate
 curveball
 caliculate
-calyculate
 cavernitis
 calyculated
 coercing
@@ -4959,6 +4958,7 @@ cassava
 carter
 clown
 carters
+calyculate
 cartesian
 cartful
 carthame
