@@ -3804,7 +3804,6 @@ geometer
 glossophorous
 gigelira
 gaolerness
-gold
 granthi
 guanylic
 granulitization
@@ -6684,6 +6683,7 @@ gastronephritis
 gonidic
 genes
 gauges
+gold
 gametangia
 gyrostats
 glomerate
