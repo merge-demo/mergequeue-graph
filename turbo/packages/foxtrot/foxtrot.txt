@@ -6692,6 +6692,7 @@ feudary
 fogfruits
 frizel
 fluerics
+frowners
 fasciculated
 formicariae
 femaleness
@@ -10540,7 +10541,6 @@ firemen
 frowl
 frivoled
 feminization
-frowners
 fading
 fatlike
 faciend
