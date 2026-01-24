@@ -1573,6 +1573,7 @@ defilades
 deadish
 dysgenesic
 dhanush
+doli
 disbuds
 demand
 disposition
@@ -15190,7 +15191,6 @@ defunctness
 distributable
 dolabrate
 dialectalize
-doli
 disulphide
 dolcemente
 dolci
