@@ -1478,7 +1478,6 @@ etui
 emeraude
 epizootically
 effused
-elasmobranchii
 explanatorily
 exhumed
 exonarthex
@@ -7447,6 +7446,7 @@ eyess
 egremoigne
 extracivically
 endangering
+elasmobranchii
 eumorphous
 ephetae
 effulged
