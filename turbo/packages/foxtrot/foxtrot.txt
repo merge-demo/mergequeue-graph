@@ -4992,6 +4992,7 @@ feathers
 fixup
 faineantise
 falsificate
+fawe
 fenianism
 forepad
 fallows
@@ -5638,7 +5639,6 @@ feudalizable
 finedraw
 fumet
 fermium
-fawe
 fragility
 fibrine
 freckles
