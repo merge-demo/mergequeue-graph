@@ -825,6 +825,7 @@ acesodyne
 alnitak
 anam
 athrogenic
+antenniferous
 absconce
 abscond
 absconded
@@ -2073,7 +2074,6 @@ absconds
 airtime
 anthologion
 aphagia
-antenniferous
 advertent
 apout
 auditor
