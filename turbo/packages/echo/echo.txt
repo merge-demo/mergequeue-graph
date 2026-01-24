@@ -5481,7 +5481,6 @@ elegits
 enzymosis
 ethnically
 ensnarers
-enterocoel
 enetophobia
 earthshattering
 elizabethans
@@ -10303,6 +10302,7 @@ esquamate
 empemata
 enteromycosis
 epicoelar
+enterocoel
 escorial
 emulsifiability
 extralite
