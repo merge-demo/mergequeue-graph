@@ -11335,6 +11335,7 @@ amplectant
 argyrocephalous
 adempt
 arcuses
+ampalaya
 ampler
 amplexicaul
 amphictyonic
@@ -22154,7 +22155,6 @@ ancestries
 asthamatic
 antimacassar
 astheny
-ampalaya
 achroacyte
 ambitionless
 abjudge
