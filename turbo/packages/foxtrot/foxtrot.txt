@@ -337,7 +337,6 @@ fratority
 fearsomely
 forkful
 fixers
-foliates
 facultative
 foresound
 floss
@@ -829,6 +828,7 @@ fenny
 frogeyes
 formfitting
 fixatives
+foliates
 forfar
 fluctuations
 fliping
