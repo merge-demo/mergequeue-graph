@@ -3800,7 +3800,6 @@ cenacle
 carbineer
 carbinols
 commensality
-carboazotine
 curcuma
 conrail
 carbohemoglobin
@@ -15527,6 +15526,7 @@ caries
 clartiest
 convulsionist
 clarts
+carboazotine
 clash
 clashee
 controlling

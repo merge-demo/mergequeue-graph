@@ -1402,7 +1402,6 @@ grandgore
 garancine
 gallinazo
 gnamma
-gothicism
 golfs
 gemologists
 gargle
@@ -6419,6 +6418,7 @@ goldener
 guary
 gonotokont
 goldentop
+gothicism
 glochideous
 governor
 geyseric
