@@ -4802,7 +4802,6 @@ excellences
 effulgence
 epigne
 ephydriad
-expertise
 emblematizing
 encourages
 embusy
@@ -5362,6 +5361,7 @@ echinocactus
 electively
 evangelium
 endotys
+expertise
 endotracheal
 ectoenzym
 empresario
