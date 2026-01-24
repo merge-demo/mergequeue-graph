@@ -5236,6 +5236,7 @@ exscribe
 exfiguration
 embryotrophy
 emanator
+eequinoctium
 epitomatory
 etaerio
 excommunicated
@@ -8170,7 +8171,6 @@ exergual
 empowered
 excalfaction
 episiotomies
-eequinoctium
 enroots
 episodical
 episodically
