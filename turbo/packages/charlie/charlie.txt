@@ -4798,7 +4798,6 @@ crewels
 choanoflagellata
 cowlings
 chalcidid
-carpolith
 confides
 clitellus
 carpology
@@ -8616,6 +8615,7 @@ channelbill
 coendou
 couching
 channeling
+carpolith
 clubbish
 catarrhous
 channelize
