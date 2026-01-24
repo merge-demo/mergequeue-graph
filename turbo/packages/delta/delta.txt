@@ -2732,7 +2732,6 @@ deliberated
 disaffiliate
 decopperization
 devonshire
-dictates
 dissembling
 decore
 dewcup
@@ -8312,6 +8311,7 @@ doryline
 disabused
 disregardance
 diaguite
+dictates
 despeed
 dapper
 duskly
