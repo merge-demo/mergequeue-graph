@@ -1727,7 +1727,6 @@ forestep
 fasciolariidae
 flourless
 faviform
-feasibly
 formagenic
 flighted
 fascio
@@ -9718,6 +9717,7 @@ frenatae
 frenched
 flamenco
 furiously
+feasibly
 frenchify
 fido
 fremd
