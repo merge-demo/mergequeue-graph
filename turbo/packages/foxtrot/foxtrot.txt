@@ -10284,7 +10284,6 @@ fishful
 fratched
 frammit
 fibrinolysin
-falernian
 furnishness
 folkmot
 faultless
@@ -10771,6 +10770,7 @@ foreinclined
 fileting
 foredated
 fouth
+falernian
 formlessly
 fruticose
 folles
