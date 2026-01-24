@@ -1190,7 +1190,6 @@ acanthomeridae
 autoantibody
 acanthopanax
 agriot
-aculeata
 anlia
 acanthophorous
 acanthopodous
@@ -6679,6 +6678,7 @@ arrivederla
 autofrettage
 amortisable
 ainoi
+aculeata
 appellatory
 antioxygen
 amplifies
