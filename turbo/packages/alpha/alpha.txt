@@ -14821,7 +14821,6 @@ aforetime
 anglicisms
 ascomycetes
 antepagmenta
-aiwain
 antichrists
 amphichrome
 appendence
@@ -18091,6 +18090,7 @@ apteryla
 alternance
 agentship
 aptest
+aiwain
 anticonvulsive
 aureity
 amazonian
