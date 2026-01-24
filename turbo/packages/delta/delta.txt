@@ -6239,7 +6239,6 @@ dividable
 deciduoma
 defenser
 directress
-dermatomere
 dermatomyces
 deploredness
 diplokaryon
@@ -17208,6 +17207,7 @@ deprecated
 diabolically
 dripstone
 duffers
+dermatomere
 difformed
 disintricate
 drysne
