@@ -4066,6 +4066,7 @@ foreyear
 fingerberry
 firmity
 fax
+fleeing
 fowlings
 fissionable
 featurish
@@ -10754,7 +10755,6 @@ focuses
 flat
 fomentation
 friendships
-fleeing
 flagstaves
 flirter
 fletches

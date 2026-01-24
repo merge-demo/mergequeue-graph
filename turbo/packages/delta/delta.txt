@@ -7502,7 +7502,6 @@ deuteranope
 deuteration
 demarcator
 desulfurized
-digitalizing
 disenchain
 dittos
 dearnesses
@@ -18172,6 +18171,7 @@ disavowable
 digress
 dump
 disreputably
+digitalizing
 deaminase
 degerming
 dyaster
