@@ -1617,6 +1617,7 @@ extraphysiological
 expounded
 egret
 euphony
+ephraim
 egromancy
 emptiness
 egurgitate
@@ -8795,7 +8796,6 @@ eldmother
 epithymetical
 extracurial
 elide
-ephraim
 ethos
 exteriorate
 ensellure
