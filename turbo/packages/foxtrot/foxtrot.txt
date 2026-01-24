@@ -1732,6 +1732,7 @@ fascio
 floats
 filicin
 fortravail
+foxinesses
 fibrocyte
 feastfully
 finny
@@ -10336,7 +10337,6 @@ frustrated
 fikey
 friendless
 fallings
-foxinesses
 fosterers
 fraternise
 ferrelling

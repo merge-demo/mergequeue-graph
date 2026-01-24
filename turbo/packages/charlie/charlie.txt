@@ -12780,7 +12780,6 @@ cicindelidae
 curbing
 coelogastrula
 cantharophilous
-chaenactis
 chun
 chunam
 camuse
@@ -28074,6 +28073,7 @@ chondrigen
 crandall
 curded
 crandallite
+chaenactis
 cuspidine
 coastwise
 crane
