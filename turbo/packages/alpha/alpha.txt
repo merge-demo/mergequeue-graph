@@ -8070,6 +8070,7 @@ alfilerillo
 arrowheads
 algerian
 algerienne
+archbishopry
 alizarins
 algerite
 aciduric
@@ -18714,7 +18715,6 @@ aliptic
 accusably
 addlebrain
 autocephality
-archbishopry
 airmail
 archbishopric
 acroamata
