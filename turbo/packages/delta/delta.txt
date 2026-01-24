@@ -7382,7 +7382,6 @@ discount
 demoniacally
 demiadult
 detonating
-decenyl
 disowned
 detonations
 dusking
@@ -18317,6 +18316,7 @@ dextorsal
 doray
 desmepithelium
 danaan
+decenyl
 densimeter
 dibranchious
 dunpickle
