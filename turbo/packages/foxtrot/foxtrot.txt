@@ -6843,7 +6843,6 @@ format
 favoringly
 foliate
 favourableness
-flourishable
 facemaking
 fistiness
 floridities
@@ -8217,6 +8216,7 @@ fluoroscoping
 fishways
 faded
 frijolito
+flourishable
 forage
 funicles
 fauvists
