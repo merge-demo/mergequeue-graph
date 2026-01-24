@@ -704,7 +704,6 @@ basidiomycetous
 brolga
 brilliantine
 bellmouthed
-boglander
 bodied
 bischofite
 bombardo
@@ -5614,6 +5613,7 @@ bettas
 brabblement
 baggages
 backlashing
+boglander
 baptistery
 bima
 blarina
