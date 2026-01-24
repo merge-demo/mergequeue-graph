@@ -4772,7 +4772,6 @@ glacieret
 garookuh
 glacierist
 gymnothorax
-gladhearted
 greeted
 geometroidea
 giggish
@@ -7826,6 +7825,7 @@ glochis
 gour
 gorals
 gardevin
+gladhearted
 greece
 galvanometrical
 grammarless
