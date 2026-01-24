@@ -2084,6 +2084,7 @@ bannerols
 billed
 bannisters
 birthmarks
+bovate
 bioflavinoid
 bannock
 buyers
@@ -13747,7 +13748,6 @@ bescurf
 burga
 bufflehorn
 burgout
-bovate
 bonniness
 besmirching
 bries
