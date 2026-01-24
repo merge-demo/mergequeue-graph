@@ -1354,7 +1354,6 @@ garments
 gerodermia
 gauss
 ginners
-garglers
 graplins
 goneness
 glyoxylic
@@ -6787,6 +6786,7 @@ gonocoele
 gruppo
 gerontologist
 gt
+garglers
 gudesire
 gonophs
 galloflavine
