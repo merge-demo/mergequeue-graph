@@ -8090,7 +8090,6 @@ encephalothlipsis
 electrovection
 enbibe
 embellish
-episarkine
 ethnology
 elutriate
 epiural
@@ -13377,6 +13376,7 @@ expostulating
 elachistaceous
 ecophysiological
 empodium
+episarkine
 epidermoidal
 expostulative
 entobranchiate
