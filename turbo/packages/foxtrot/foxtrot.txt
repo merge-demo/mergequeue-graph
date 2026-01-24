@@ -355,7 +355,6 @@ fivish
 factions
 forfeiture
 flyingly
-focsle
 fellatory
 fellers
 falcunculus
@@ -1507,6 +1506,7 @@ faultiest
 fishmeal
 fairgoer
 fairlead
+focsle
 fila
 flutings
 fetcher
