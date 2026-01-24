@@ -170,6 +170,7 @@ goliardic
 gerontocratic
 gag
 gooseliver
+guidebooks
 glamour
 groggily
 gamecraft
@@ -8077,7 +8078,6 @@ grantors
 granular
 girandole
 granulary
-guidebooks
 glyoxalin
 glottalization
 gobs
