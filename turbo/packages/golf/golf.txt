@@ -5486,6 +5486,7 @@ gustier
 genear
 gambles
 globalizing
+glucagon
 gisants
 growls
 groggeries
@@ -9231,7 +9232,6 @@ grist
 growthiness
 gluttons
 grit
-glucagon
 gyroceran
 gemeled
 gristlier
