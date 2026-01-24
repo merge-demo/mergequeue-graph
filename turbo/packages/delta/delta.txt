@@ -10766,7 +10766,6 @@ diptychs
 differencing
 diver
 disadvantageous
-diquat
 decolorization
 deoxidized
 dolphinfish
@@ -16779,6 +16778,7 @@ diplasic
 dangersome
 diatomaceous
 dravidian
+diquat
 delaying
 designations
 dayboy
