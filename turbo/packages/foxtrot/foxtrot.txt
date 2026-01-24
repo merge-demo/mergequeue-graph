@@ -297,7 +297,6 @@ flumdiddle
 fon
 fiqh
 frappeing
-fiddlesticks
 faeryland
 fleabitten
 fertilization
@@ -9431,6 +9430,7 @@ forlore
 frescoer
 fausant
 feminology
+fiddlesticks
 fireboats
 flexors
 felicity
