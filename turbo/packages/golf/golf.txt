@@ -7174,6 +7174,7 @@ geotectonics
 give
 grubstake
 gynecol
+gastaldite
 gape
 gels
 gorgosaurus
@@ -8428,7 +8429,6 @@ guaguanche
 guinea
 galinsoga
 glottises
-gastaldite
 gadzooks
 gushet
 gomphosis
