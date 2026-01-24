@@ -1941,7 +1941,6 @@ acetylperoxide
 aslope
 affinite
 acetylphenol
-agogic
 acetyls
 acce
 acetyltropeine
@@ -7088,6 +7087,7 @@ antibiotics
 argovian
 antiodontalgic
 aweigh
+agogic
 alabamide
 alabamine
 armillaria
