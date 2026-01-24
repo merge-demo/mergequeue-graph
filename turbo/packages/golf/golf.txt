@@ -3539,6 +3539,7 @@ gastronomes
 gandertmeeth
 glowerer
 groper
+gherkin
 ghanaian
 glimpsing
 greekling
@@ -9076,7 +9077,6 @@ gappy
 galactidrosis
 giraffa
 garishness
-gherkin
 gentlehood
 grinch
 glassed

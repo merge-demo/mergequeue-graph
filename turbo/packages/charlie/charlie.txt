@@ -6660,7 +6660,6 @@ cosheath
 chromule
 cedrat
 conglution
-cedrate
 cedrela
 cocamine
 cedrene
@@ -14966,6 +14965,7 @@ counterparallel
 crossjack
 citreous
 chefrinia
+cedrate
 confabulates
 citrination
 congressmen
