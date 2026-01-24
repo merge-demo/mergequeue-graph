@@ -10892,7 +10892,6 @@ exothermic
 exemplificator
 ethanoyl
 esthete
-electromuscular
 effront
 eanlings
 eudemian
@@ -12256,6 +12255,7 @@ emarginating
 ensignry
 evilwishing
 entrochus
+electromuscular
 efflorescency
 enerve
 enteromegaly
