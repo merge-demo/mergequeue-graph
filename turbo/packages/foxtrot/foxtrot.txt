@@ -8380,7 +8380,6 @@ freedoms
 formicative
 flebile
 forklike
-forswornness
 finickily
 foundations
 foliage
@@ -10955,6 +10954,7 @@ flubdub
 farcialize
 fedayee
 fructifying
+forswornness
 finally
 fluework
 fallfish
