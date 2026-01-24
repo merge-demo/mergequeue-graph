@@ -4233,7 +4233,6 @@ escambio
 emulousness
 elegancy
 eaux
-eumeristic
 expolish
 expendible
 expressways
@@ -7766,6 +7765,7 @@ enlighteningly
 emblematic
 expectably
 elementality
+eumeristic
 encyclopaedize
 engjateigur
 evangelion
