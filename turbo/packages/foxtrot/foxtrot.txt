@@ -1111,6 +1111,7 @@ franticness
 fishling
 foremention
 fastback
+fraunch
 frizing
 foulish
 farfetched
@@ -4910,7 +4911,6 @@ fermiums
 flamencos
 funtumia
 fevertwitch
-fraunch
 flameout
 foreappoint
 fourflushers
