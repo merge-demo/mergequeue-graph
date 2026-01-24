@@ -2591,6 +2591,7 @@ barytophyllite
 blawed
 bridgelike
 barkary
+biotope
 bluestocking
 barkbound
 bamoth
@@ -9484,7 +9485,6 @@ bores
 barbarian
 birn
 byrnie
-biotope
 battlefront
 bisulphide
 biron
