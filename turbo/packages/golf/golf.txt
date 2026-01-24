@@ -683,6 +683,7 @@ gilour
 gastrojejunostomy
 galgulidae
 geropiga
+gyrostabilizer
 gravelish
 gangboard
 gamely
@@ -4264,7 +4265,6 @@ gastrological
 gustativeness
 guiltsick
 gnocchetti
-gyrostabilizer
 girse
 grubless
 gravidity
