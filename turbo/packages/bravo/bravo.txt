@@ -2650,6 +2650,7 @@ barleybrake
 broadener
 barleycorn
 bournonite
+battakhin
 bilge
 bimensal
 bellying
@@ -11506,7 +11507,6 @@ barish
 baba
 baublery
 banyoro
-battakhin
 begged
 bathometer
 bumboatman
