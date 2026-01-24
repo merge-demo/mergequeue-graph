@@ -4135,6 +4135,7 @@ emplunge
 empodia
 eclegm
 extracranial
+evidence
 energids
 expungement
 erythrodermia
@@ -11460,7 +11461,6 @@ extrasyllogistic
 evictions
 emboldens
 evictor
-evidence
 earned
 evidences
 ethereous

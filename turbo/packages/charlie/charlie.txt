@@ -24103,7 +24103,6 @@ conformation
 coregonoid
 conference
 convertiplane
-convertise
 convertism
 convertite
 comfortless
@@ -28829,6 +28828,7 @@ coffee
 cressiest
 cresswort
 coauthor
+convertise
 crest
 carvacrol
 clinostat
