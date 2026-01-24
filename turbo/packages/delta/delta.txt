@@ -5699,7 +5699,6 @@ deplumes
 dentation
 doliolum
 divergenge
-deoxidiser
 demonland
 depoetize
 distaff
@@ -5814,6 +5813,7 @@ dewaxing
 deadtongue
 dermatocoptic
 deprecable
+deoxidiser
 deprecating
 diverticula
 doorbrand
