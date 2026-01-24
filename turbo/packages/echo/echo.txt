@@ -4365,7 +4365,6 @@ electroamalgamation
 engagers
 excretes
 embryons
-evacuates
 enations
 euripos
 enlightening
@@ -12266,6 +12265,7 @@ elegises
 everduring
 exemplarism
 exempli
+evacuates
 embodier
 evocatrix
 everlasting
