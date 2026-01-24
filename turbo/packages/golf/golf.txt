@@ -2322,7 +2322,6 @@ gingivoglossitis
 geldings
 garlandage
 germanely
-gelated
 gorgets
 gustfulness
 gymnics
@@ -8309,6 +8308,7 @@ gasket
 genetical
 geophytic
 gastrophthisis
+gelated
 gnarling
 gnar
 glunimie
