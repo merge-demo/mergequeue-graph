@@ -5936,7 +5936,6 @@ downbeats
 darcy
 decimetres
 doubledamn
-decimation
 deckswabber
 debord
 decuples
@@ -5977,6 +5976,7 @@ dicliny
 depure
 distortedly
 dytiscid
+decimation
 diagonally
 disinfecting
 daffadowndillies
