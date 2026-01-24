@@ -3546,6 +3546,7 @@ guises
 gourmandize
 galvanisation
 gentilitious
+gathic
 gelatinoid
 gharnao
 glossa
@@ -7571,7 +7572,6 @@ gigolo
 gerenda
 garpike
 gilbertite
-gathic
 griffaun
 gubernacula
 glacialist

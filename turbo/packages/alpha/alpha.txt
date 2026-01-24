@@ -800,7 +800,6 @@ apptd
 algarot
 additur
 abstruse
-ammiral
 abs
 aitchbone
 ammophila
@@ -14100,6 +14099,7 @@ afoot
 anestrus
 arkansans
 antemillennial
+ammiral
 ambulomancy
 antemundane
 antennae
