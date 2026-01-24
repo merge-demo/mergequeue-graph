@@ -2078,6 +2078,7 @@ campagi
 coquettes
 counteraverment
 campagna
+cautioners
 campagne
 conli
 campaign
@@ -6427,7 +6428,6 @@ copsing
 compurgatorial
 collocationable
 cautioner
-cautioners
 conclusum
 caff
 cornutus
