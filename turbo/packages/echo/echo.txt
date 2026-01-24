@@ -6509,6 +6509,7 @@ entamoebic
 encarpium
 endostosis
 ephyra
+exclaimer
 exactly
 extratension
 entomophthora
@@ -11119,7 +11120,6 @@ euthytatic
 exopt
 eutychian
 everly
-exclaimer
 embanked
 eutrophication
 externalised
