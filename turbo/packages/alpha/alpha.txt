@@ -19948,6 +19948,7 @@ abbreviated
 alexander
 armpiece
 ananthropism
+asthenolith
 aramis
 avengement
 acclimatised
@@ -22177,7 +22178,6 @@ arrowstone
 apetalousness
 astriferous
 archeology
-asthenolith
 asthenology
 achaenodon
 anabaptistry
