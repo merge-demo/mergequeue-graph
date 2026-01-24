@@ -6896,7 +6896,6 @@ facelessness
 fruity
 fifes
 felafel
-fanakalo
 flintwood
 flosculous
 februaries
@@ -8500,6 +8499,7 @@ formica
 foolishly
 fasciculate
 fitty
+fanakalo
 failingness
 formicate
 freeward
