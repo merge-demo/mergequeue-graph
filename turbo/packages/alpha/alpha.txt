@@ -11639,7 +11639,6 @@ anaerobion
 apocrisiary
 amides
 anaerobiont
-anaerobiosis
 anaerobiotic
 anaerobium
 angulating
@@ -20290,6 +20289,7 @@ auditual
 arbute
 arrouse
 abhorrers
+anaerobiosis
 austria
 arrowbush
 accounting
