@@ -3083,6 +3083,7 @@ causata
 cocarde
 canvasser
 canzona
+chondrify
 crickety
 canzones
 canzonet
@@ -11706,7 +11707,6 @@ cocomats
 charon
 columbian
 curdiest
-chondrify
 chondrification
 cygnine
 chantress

@@ -678,7 +678,6 @@ grihyasutra
 gallantries
 grindstones
 goodheartedly
-gilour
 gastrojejunostomy
 galgulidae
 geropiga
@@ -1731,6 +1730,7 @@ gammon
 gave
 gracileness
 goric
+gilour
 glass
 guesses
 gottlieb
