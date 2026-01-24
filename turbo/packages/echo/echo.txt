@@ -3373,7 +3373,6 @@ epilobium
 earsh
 excursioner
 envelopes
-escalloniaceae
 encyclopaedial
 embannered
 emetine
@@ -8207,6 +8206,7 @@ electromagnetist
 elephantiasic
 exonerates
 epilimnionia
+escalloniaceae
 epistatic
 empyrosis
 epistaxis

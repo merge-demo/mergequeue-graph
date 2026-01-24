@@ -3755,7 +3755,6 @@ ananke
 arteriosclerotic
 archaizer
 astrogeny
-allayers
 antidemocracies
 anthobiology
 alberta
@@ -6619,6 +6618,7 @@ aneurilemmic
 archvillain
 ankyloblepharon
 anoterite
+allayers
 ailuroidea
 ailurophilic
 affirmation
