@@ -2631,6 +2631,7 @@ electrophoretically
 eudiaphoresis
 excerpted
 exercitor
+episematic
 enjelly
 epithelize
 electrophoretogram
@@ -4471,7 +4472,6 @@ encephalitic
 executively
 encephalographic
 ekphorize
-episematic
 earlock
 enamelling
 euchysiderite
