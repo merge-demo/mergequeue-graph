@@ -10321,6 +10321,7 @@ demove
 dioptric
 dioptrical
 duhr
+disposer
 diorama
 daroo
 douziemes
@@ -18442,7 +18443,6 @@ daidle
 dysphemize
 diamondbacks
 dactylograph
-disposer
 demichamfron
 disulphuret
 disodic
