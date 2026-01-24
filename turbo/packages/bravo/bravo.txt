@@ -6811,7 +6811,6 @@ bertolonia
 bioacoustics
 basigenous
 bertrum
-bullarium
 beachy
 broadsided
 ber
@@ -7356,6 +7355,7 @@ bocklogged
 blacknob
 bullidae
 bilbies
+bullarium
 bunker
 burritos
 becumber
