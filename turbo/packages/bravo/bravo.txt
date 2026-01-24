@@ -2689,6 +2689,7 @@ betweenbrain
 beelzebub
 barneys
 bourr
+bulgy
 bichlorides
 beefiness
 britannian
@@ -4154,7 +4155,6 @@ bradypus
 beastling
 bullswool
 beastlings
-bulgy
 beastman
 barracoutas
 beastship

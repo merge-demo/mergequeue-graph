@@ -3803,7 +3803,6 @@ galleriies
 gruffed
 geometer
 glossophorous
-gonococcic
 gigelira
 gaolerness
 gold
@@ -7341,6 +7340,7 @@ gardenful
 gossipped
 gallberry
 gonorrhoeic
+gonococcic
 glochidial
 gestor
 glomerule
