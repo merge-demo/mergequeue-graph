@@ -1269,6 +1269,7 @@ frederica
 fineableness
 footwall
 fearful
+ferment
 flatten
 filmdom
 frostier
@@ -6933,7 +6934,6 @@ foretrace
 forbode
 fastball
 foxlike
-ferment
 farthingales
 formication
 follicular
