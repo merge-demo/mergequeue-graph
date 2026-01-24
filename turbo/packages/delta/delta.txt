@@ -12308,6 +12308,7 @@ dionaeaceae
 daff
 donatives
 dracontites
+demonologer
 disemployed
 dinos
 dragonne
@@ -17750,7 +17751,6 @@ delegative
 dubitable
 dichondra
 dubitably
-demonologer
 descried
 drachmal
 desicate
