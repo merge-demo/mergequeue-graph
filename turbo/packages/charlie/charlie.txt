@@ -18949,7 +18949,6 @@ collarette
 carnifices
 clypeaster
 carpuspi
-coupelet
 cochal
 conjugate
 cryptoclimatology
@@ -26104,6 +26103,7 @@ cosmochemical
 consanguineal
 cheese
 centrum
+coupelet
 cervical
 cyclohexatriene
 creamier
