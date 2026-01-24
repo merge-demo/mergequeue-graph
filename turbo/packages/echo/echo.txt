@@ -1784,7 +1784,6 @@ erinose
 entericoid
 epigraphical
 engravers
-entera
 electrification
 exomphalous
 encompasser
@@ -5633,6 +5632,7 @@ estrif
 elaeagnaceous
 extinct
 essayist
+entera
 extraterrestrially
 eucalypts
 etherifies
