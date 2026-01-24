@@ -8096,7 +8096,6 @@ epiploitis
 elicits
 enthuse
 epiprecoracoid
-extrude
 elegant
 epipubis
 expostulations
@@ -8625,6 +8624,7 @@ ethylamide
 egol
 equilibria
 equilibrious
+extrude
 extraliminal
 estimating
 eighteens
