@@ -603,6 +603,7 @@ eversions
 entertained
 eclaircissement
 epeus
+emulsoidal
 echeneidoid
 empyreumatic
 epipaleolithic
@@ -2711,7 +2712,6 @@ emyds
 elaeopten
 escribed
 ephippial
-emulsoidal
 exteriorise
 essed
 electrocoating
