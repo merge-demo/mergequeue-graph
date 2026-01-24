@@ -10092,6 +10092,7 @@ chessom
 claves
 chesstree
 cerias
+cowshot
 chest
 curing
 chesterfield
@@ -27722,7 +27723,6 @@ connecters
 cowshed
 cowsheds
 choplogical
-cowshot
 capitellar
 camorristi
 chough
