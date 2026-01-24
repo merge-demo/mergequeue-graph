@@ -1960,6 +1960,7 @@ goring
 grubroot
 glut
 gripes
+gonystylaceous
 grudged
 ghastlier
 guttable
@@ -7782,7 +7783,6 @@ gerately
 gufa
 greenkeeper
 glassblowers
-gonystylaceous
 gabriella
 gook
 glead
