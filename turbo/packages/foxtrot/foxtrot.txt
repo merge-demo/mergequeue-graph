@@ -4105,7 +4105,6 @@ forepointer
 fungusy
 frostation
 featherbrain
-fattable
 forgery
 fatalness
 fossilated
@@ -8206,6 +8205,7 @@ feudalities
 flaggelated
 friezing
 forfaulture
+fattable
 francophile
 fluminose
 fernandinite
