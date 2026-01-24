@@ -4975,6 +4975,7 @@ conduct
 cartilagines
 chancroids
 cartilaginoid
+cliftonite
 cartels
 cartilaginous
 coulometry
@@ -5247,7 +5248,6 @@ carmine
 conflation
 cellulosed
 catchers
-cliftonite
 casketed
 caskets
 credens
