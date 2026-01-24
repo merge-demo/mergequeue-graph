@@ -12331,7 +12331,6 @@ balatronic
 bombes
 babaylan
 buckpot
-bombesins
 brightsomeness
 beeregar
 brandle
@@ -17371,6 +17370,7 @@ bentincks
 becrawled
 beachier
 bogledom
+bombesins
 bliny
 bailie
 bloodmobiles
