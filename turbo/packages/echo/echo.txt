@@ -580,7 +580,6 @@ epizoarian
 echoing
 echoism
 epigeal
-enhydros
 echometer
 echopractic
 examinate
@@ -1037,6 +1036,7 @@ eagerly
 enhypostatic
 exsheath
 edged
+enhydros
 eidolon
 edgeshot
 edgeway
