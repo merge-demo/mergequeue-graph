@@ -5854,6 +5854,7 @@ advisor
 absence
 anophyte
 ages
+anomite
 altisonant
 actinocrinidae
 achroiocythemia
@@ -10448,7 +10449,6 @@ amicous
 absolutistically
 amicronucleate
 aubaine
-anomite
 affirmly
 assertorily
 amidation
