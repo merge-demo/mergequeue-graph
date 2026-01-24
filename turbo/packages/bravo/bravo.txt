@@ -1003,7 +1003,6 @@ bourdon
 blinger
 baycuru
 baidarka
-baidarkas
 binders
 baiera
 boti
@@ -3541,6 +3540,7 @@ blonds
 bathylithic
 bathymetry
 bathymetrical
+baidarkas
 biggonet
 bathing
 bastinadoes
