@@ -5561,6 +5561,7 @@ epiklesis
 embryulcus
 enflower
 essexite
+electrochemical
 evaporate
 electrologic
 ectognatha
@@ -6867,7 +6868,6 @@ earwaxes
 esthesiography
 eucryptite
 epic
-electrochemical
 entomophthorales
 erythrodextrin
 enfeoffed
