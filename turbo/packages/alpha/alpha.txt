@@ -5764,6 +5764,7 @@ abscissae
 adducent
 amberjack
 aviation
+alapa
 anthropol
 aerothermodynamics
 acrocephalia
@@ -13139,7 +13140,6 @@ animalivorous
 anticreativity
 aspergilla
 abducted
-alapa
 animalized
 andaquian
 alluvia
