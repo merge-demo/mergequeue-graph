@@ -3585,6 +3585,7 @@ figurize
 foxery
 flavored
 filibusterers
+fittiest
 fourble
 foundered
 fence
@@ -8349,7 +8350,6 @@ firmament
 fatherlike
 fleys
 flatulentness
-fittiest
 foundling
 florulae
 fils
