@@ -6603,6 +6603,7 @@ bronchioles
 berenice
 bereshith
 beresite
+breezing
 beret
 brangler
 berets
@@ -15921,7 +15922,6 @@ beswim
 behest
 berylate
 bendell
-breezing
 bodysurfing
 broomball
 bansela
