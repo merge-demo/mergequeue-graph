@@ -9411,7 +9411,6 @@ electroretinographic
 enstool
 echeneid
 enantobiosis
-escaper
 endball
 enfranchiser
 extent
@@ -10331,6 +10330,7 @@ ela
 elicited
 exobiological
 ebullitions
+escaper
 ethnocracy
 energising
 expendable

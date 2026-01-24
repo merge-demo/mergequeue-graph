@@ -5350,6 +5350,7 @@ floccillation
 ferrocyanide
 faverel
 figged
+fretless
 fluoridise
 foredetermine
 flunkyistic
@@ -8153,7 +8154,6 @@ fundmonger
 forevers
 foregate
 forthwith
-fretless
 ferberite
 fossilology
 forecastleman
