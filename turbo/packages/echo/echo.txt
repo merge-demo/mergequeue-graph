@@ -2506,7 +2506,6 @@ eluviate
 elaeometer
 ecosphere
 epicanthic
-exterminative
 elasticum
 electroless
 exsecants
@@ -13495,6 +13494,7 @@ equianharmonic
 endymal
 egocentricities
 edge
+exterminative
 erk
 endotropic
 epifolliculitis
