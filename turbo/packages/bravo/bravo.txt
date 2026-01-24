@@ -13214,7 +13214,6 @@ boskier
 bosn
 brinkless
 bosniak
-battlewise
 bifer
 benzoyl
 barundi
@@ -16241,6 +16240,7 @@ bathmotropism
 baiter
 browden
 browet
+battlewise
 blossoms
 brander
 becrimed
