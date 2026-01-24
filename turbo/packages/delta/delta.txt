@@ -10751,7 +10751,6 @@ decap
 divinization
 dipteraceae
 dipterygian
-dipteryx
 deinodontidae
 dipterocarp
 dipterocarpaceae
@@ -14059,6 +14058,7 @@ dibromide
 delumbate
 druxiness
 desmoid
+dipteryx
 disparadise
 disporum
 detoxicating
