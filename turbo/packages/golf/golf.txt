@@ -5402,7 +5402,6 @@ grotesques
 girsle
 gonfanon
 gallah
-gluing
 gladful
 gentlest
 gyrovagi
@@ -10773,6 +10772,7 @@ gonadectomy
 gresil
 gandered
 goadlike
+gluing
 gignitive
 gamesomely
 geminative
