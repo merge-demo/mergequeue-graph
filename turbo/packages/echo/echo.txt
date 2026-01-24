@@ -5392,7 +5392,6 @@ elsewhither
 electronvolt
 ergotization
 endowment
-ectene
 emporium
 excantation
 endpoints
@@ -5629,6 +5628,7 @@ enfort
 embarrasses
 epicritic
 enforth
+ectene
 estrangle
 eigenvalue
 epithi
