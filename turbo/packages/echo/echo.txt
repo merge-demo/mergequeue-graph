@@ -8918,7 +8918,6 @@ errhine
 eudaemonist
 erical
 exoskeletal
-eteoclus
 endosmotically
 ericales
 eserin
@@ -12599,6 +12598,7 @@ epicardium
 exocoelum
 epifascial
 empresa
+eteoclus
 eustathian
 eyeserver
 exocrines
