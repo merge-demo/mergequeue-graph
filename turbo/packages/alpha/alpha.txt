@@ -12349,6 +12349,7 @@ aquilon
 androclus
 agastreae
 agialid
+anthicidae
 absoil
 aspergilliform
 automelon
@@ -14301,7 +14302,6 @@ adrop
 augustinianism
 anthesterin
 antiqued
-anthicidae
 arthroplastic
 amercements
 anthills
