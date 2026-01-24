@@ -15561,7 +15561,6 @@ demodulator
 drummers
 desolately
 donnas
-dereligionize
 donnerd
 donnick
 donnock
@@ -17074,6 +17073,7 @@ deda
 dryadetum
 devicefully
 damners
+dereligionize
 dentistic
 dactyliographer
 dosers
