@@ -6469,6 +6469,7 @@ cavalrymen
 carbazide
 coryl
 cavate
+conkanee
 conynge
 cancelability
 churning
@@ -10130,7 +10131,6 @@ chevener
 cheventayn
 cheverel
 carcassed
-conkanee
 cheveret
 cheveril
 cahoot
