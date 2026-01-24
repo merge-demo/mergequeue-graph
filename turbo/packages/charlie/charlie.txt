@@ -8531,7 +8531,6 @@ chanco
 clogdogdo
 comminative
 clearing
-crosstree
 cohesibility
 chancriform
 chancroid
@@ -13779,6 +13778,7 @@ chroniclers
 cantons
 carcase
 crestfallen
+crosstree
 carrageen
 cochromatography
 cinematically
