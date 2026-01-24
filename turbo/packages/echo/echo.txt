@@ -7374,7 +7374,6 @@ ensculpture
 entasia
 exsanguineous
 epiblasts
-epenla
 edgings
 exotic
 eleotrid
@@ -9639,6 +9638,7 @@ enclosing
 eocarboniferous
 emissaries
 epicycles
+epenla
 espy
 espial
 electrocoagulation
