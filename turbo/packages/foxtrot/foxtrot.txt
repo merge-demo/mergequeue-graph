@@ -4283,6 +4283,7 @@ fungology
 furmeties
 forrader
 filthier
+frizes
 farhand
 farragos
 flutemouth
@@ -10446,7 +10447,6 @@ fisted
 faithbreach
 frontstall
 forstall
-frizes
 fellah
 forninst
 foederatus
