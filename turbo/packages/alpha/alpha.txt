@@ -10211,6 +10211,7 @@ auxoblast
 amelcorn
 alchemister
 amelet
+autodetector
 ameliorableness
 applemonger
 amylocellulose
@@ -14172,7 +14173,6 @@ alexiterical
 aspic
 apoplexy
 anticatalyst
-autodetector
 amarillo
 absinthial
 anteri
