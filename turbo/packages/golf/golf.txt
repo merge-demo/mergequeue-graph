@@ -2374,6 +2374,7 @@ gongoristic
 gentianal
 gilver
 gote
+goldfields
 grind
 gaulish
 gobioidei
@@ -2431,7 +2432,6 @@ glycohemia
 gainsayer
 ghoulish
 globally
-goldfields
 gastraeum
 glaver
 galravage
