@@ -1597,7 +1597,6 @@ ghazism
 goldie
 gillygaupus
 gayals
-gl
 graphology
 gunz
 glycyrrhiza
@@ -4501,6 +4500,7 @@ geography
 gambrel
 gills
 graminiform
+gl
 gerbille
 gobstick
 gaisling
