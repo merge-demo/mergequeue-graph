@@ -3493,6 +3493,7 @@ fodderless
 flexuoseness
 feud
 fitchets
+foliages
 floundering
 flicked
 fyke
@@ -4569,7 +4570,6 @@ frees
 festing
 fesswise
 fringilliformes
-foliages
 fissidens
 feetage
 fossilify
