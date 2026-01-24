@@ -1399,7 +1399,6 @@ caliga
 caligate
 caligation
 caliginosity
-caliginously
 cyanin
 cunctipotent
 colubaria
@@ -4254,6 +4253,7 @@ careful
 ceilidh
 carefull
 carefuller
+caliginously
 carefullest
 chemosensitivities
 condensation
