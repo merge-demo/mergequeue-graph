@@ -8550,6 +8550,7 @@ chandlers
 contester
 chylothorax
 carrion
+cachoeira
 consumpt
 calenturing
 cablish
@@ -10292,7 +10293,6 @@ chick
 chelidosaurus
 chickabiddy
 chemosorb
-cachoeira
 clactonian
 cyanidation
 comfortable

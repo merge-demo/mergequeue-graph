@@ -1315,6 +1315,7 @@ focimetry
 felstones
 fibrocrystalline
 foxtails
+faeculence
 flutework
 fogginess
 fructivorous
@@ -7648,7 +7649,6 @@ figary
 fixed
 fritillaries
 floruits
-faeculence
 foreimagination
 flashlike
 foregift
