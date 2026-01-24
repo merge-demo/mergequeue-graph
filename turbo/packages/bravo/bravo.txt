@@ -609,6 +609,7 @@ beethoven
 bidget
 bacteriochlorophyll
 bacteriocin
+bronzings
 broomsticks
 balmorals
 betrothal
@@ -5023,7 +5024,6 @@ beetrave
 braggest
 brakier
 bedunces
-bronzings
 beetroots
 becarve
 beeweed
