@@ -5652,7 +5652,6 @@ exordiums
 excommunicates
 exposable
 epispinal
-erysiphaceae
 ectocelic
 extranatural
 everbearing
@@ -11400,6 +11399,7 @@ everydayness
 everyhow
 ectethmoidal
 everywhen
+erysiphaceae
 emergentness
 euahlayi
 escorting
