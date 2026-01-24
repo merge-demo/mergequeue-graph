@@ -16515,6 +16515,7 @@ auriscope
 aortal
 aortarctia
 aortas
+arithmomania
 avogadro
 aegagri
 antheral
@@ -19862,7 +19863,6 @@ antimatrimonial
 autotomized
 aimful
 aposelene
-arithmomania
 aromatising
 armilla
 astraphobia
