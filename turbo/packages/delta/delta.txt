@@ -358,7 +358,6 @@ dermathemia
 detrimentally
 daygoing
 desiccation
-daiker
 diiodide
 dcor
 densest
@@ -8746,6 +8745,7 @@ demimonk
 decime
 distastefully
 dentalgia
+daiker
 demythologisation
 dichogamy
 diatonic
