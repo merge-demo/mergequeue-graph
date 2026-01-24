@@ -1099,7 +1099,6 @@ edwina
 extempory
 epeisodion
 esterification
-elatrometer
 electrotypes
 epitrichial
 exsanguinated
@@ -6201,6 +6200,7 @@ etymologization
 explorement
 exhalations
 endopericarditis
+elatrometer
 exhortator
 enos
 eradiating
