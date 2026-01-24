@@ -16076,7 +16076,6 @@ coxalgia
 clich
 cliche
 cryopathy
-cliches
 click
 clicked
 clicker
@@ -27574,6 +27573,7 @@ carapus
 covinous
 charioteership
 covisitor
+cliches
 conventicler
 covite
 covolume
