@@ -1554,6 +1554,7 @@ fauteuil
 fussy
 foreteach
 farrow
+fetuses
 festival
 flowcontrol
 fishbowl
@@ -9229,7 +9230,6 @@ finnac
 forpining
 frivolism
 frillback
-fetuses
 floccus
 falcation
 ficin
