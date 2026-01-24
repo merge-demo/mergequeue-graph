@@ -420,6 +420,7 @@ eburin
 ec
 ecardines
 extravagate
+essoins
 ecballium
 expugnable
 enrolle
@@ -10117,7 +10118,6 @@ earwax
 ether
 excising
 esther
-essoins
 exploitee
 elenchically
 eumolpus
