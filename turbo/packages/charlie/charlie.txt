@@ -1502,7 +1502,6 @@ cadginess
 callat
 conchologist
 callback
-closish
 conversus
 cryptoxanthin
 coffeepot
@@ -22096,6 +22095,7 @@ cataclasmic
 chowders
 customhouse
 conformationally
+closish
 couvert
 conformations
 canoe
