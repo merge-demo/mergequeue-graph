@@ -3647,6 +3647,7 @@ decile
 degraded
 degradement
 doomsdays
+downstroke
 dozing
 depsid
 disrupt
@@ -5703,7 +5704,6 @@ depolarization
 depolarize
 dextrorsal
 decouple
-downstroke
 diaphany
 downloads
 diazotizability
