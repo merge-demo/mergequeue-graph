@@ -5874,7 +5874,6 @@ gnathobase
 gossipries
 goofs
 gambirs
-glamourizer
 gluepot
 garrison
 gemitorial
@@ -10196,6 +10195,7 @@ geopolitician
 guyers
 gobet
 grindstone
+glamourizer
 gitanemuk
 globalism
 gladdon
