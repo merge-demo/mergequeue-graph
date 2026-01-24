@@ -3785,6 +3785,7 @@ frizzliest
 fistulate
 frijolillo
 fumblingness
+factor
 filigreeing
 flanconnade
 forestall
@@ -11586,7 +11587,6 @@ foregallery
 fussbudgety
 fevers
 filtrates
-factor
 fussers
 faradic
 fargite

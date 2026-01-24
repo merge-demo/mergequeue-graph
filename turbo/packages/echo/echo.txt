@@ -13489,7 +13489,6 @@ exauthorize
 effervescency
 exposing
 ethmoidal
-eudaemonic
 eucalypti
 equianharmonic
 endymal
@@ -13619,6 +13618,7 @@ escrowed
 exhibit
 empedoclean
 electrolytically
+eudaemonic
 effossion
 elinvar
 epiphytically
