@@ -2258,6 +2258,7 @@ gastrohepatic
 genettes
 globelike
 ghi
+glyconics
 graben
 germanophilist
 garance
@@ -3666,7 +3667,6 @@ ghostish
 glyceric
 gelatigenous
 gangetic
-glyconics
 gracilescent
 gussying
 graphiter
