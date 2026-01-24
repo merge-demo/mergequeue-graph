@@ -6073,6 +6073,7 @@ bedrift
 buccinidae
 bataan
 boarskin
+brooms
 binauricular
 benchership
 bodge
@@ -10950,7 +10951,6 @@ bowses
 basta
 beckets
 bartonia
-brooms
 beadroll
 blinker
 balancewise

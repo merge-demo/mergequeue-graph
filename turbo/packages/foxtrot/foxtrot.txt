@@ -1668,7 +1668,6 @@ furbelowed
 firetraps
 filmcards
 focally
-fustiest
 fice
 feaberry
 ferrandin
@@ -6603,6 +6602,7 @@ freemanship
 firmer
 frothily
 fiends
+fustiest
 floristically
 fascioliasis
 fringetail
