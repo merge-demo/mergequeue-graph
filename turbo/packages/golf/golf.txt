@@ -4170,7 +4170,6 @@ geed
 gynaecological
 gabbiness
 gobbing
-gastornis
 grouting
 gynaeconitis
 gaillard
@@ -4887,6 +4886,7 @@ galangal
 grangerizing
 gamdia
 gardens
+gastornis
 grenadierly
 guddle
 grondwet
