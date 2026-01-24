@@ -412,7 +412,6 @@ dainchas
 dihalid
 dainteous
 dainty
-decentralise
 decoder
 diarhemia
 daintified
@@ -7479,6 +7478,7 @@ dopster
 downtowner
 deuced
 dizenment
+decentralise
 deuces
 densimetric
 detested
