@@ -3899,7 +3899,6 @@ gyroceras
 gleeting
 gipsy
 gynaecocratic
-ghostess
 geneal
 gigawatt
 gutser
@@ -6550,6 +6549,7 @@ gesture
 gambeson
 grummets
 girons
+ghostess
 gimmerpet
 groyne
 goulan
