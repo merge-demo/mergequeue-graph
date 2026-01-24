@@ -9208,6 +9208,7 @@ epiderm
 erotylidae
 enlarges
 extremer
+equipper
 etheric
 earthless
 educatedly
@@ -9629,7 +9630,6 @@ effervescible
 ewer
 encense
 entangleable
-equipper
 epenthesize
 epacris
 encourage

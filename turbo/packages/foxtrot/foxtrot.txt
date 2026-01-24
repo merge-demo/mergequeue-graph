@@ -4484,6 +4484,7 @@ ferrovanadium
 flour
 fisnoga
 flouncing
+fatness
 felinae
 figurer
 forblow
@@ -10489,7 +10490,6 @@ fordid
 forbad
 flegm
 fluitant
-fatness
 foggier
 frostings
 fanzine
