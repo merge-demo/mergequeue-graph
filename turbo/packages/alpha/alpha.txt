@@ -13658,7 +13658,6 @@ astrometrical
 aunt
 absolutization
 anethum
-aboriginal
 antivariolous
 anomalies
 anomaliped
@@ -19372,6 +19371,7 @@ assurd
 apiin
 acontius
 aho
+aboriginal
 assure
 arithmetics
 ahorseback
