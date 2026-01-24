@@ -2836,7 +2836,6 @@ griefful
 gelofer
 gynaecic
 geogenous
-gater
 goutweed
 genua
 graafian
@@ -7441,6 +7440,7 @@ grabbier
 geometrized
 guanosine
 grunerite
+gater
 gourmandizer
 grapplement
 gists
