@@ -6093,6 +6093,7 @@ dualin
 detrimental
 dropout
 dimission
+derning
 durgen
 dissolvable
 deckedout
@@ -8221,7 +8222,6 @@ diadochi
 ductible
 depigment
 deossify
-derning
 dados
 dipus
 disspreading
