@@ -1513,7 +1513,6 @@ evected
 egality
 etch
 epembryonic
-extraregarding
 ettarre
 emmetropism
 eggberries
@@ -6549,6 +6548,7 @@ entente
 ethnohistorian
 epipolism
 enteradenological
+extraregarding
 enteral
 ensuant
 enterectomy
