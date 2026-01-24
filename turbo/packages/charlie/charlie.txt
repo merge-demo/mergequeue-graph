@@ -1073,6 +1073,7 @@ calceate
 curiology
 calced
 calcedon
+capsuligerous
 colory
 chitinocalcareous
 caulicule
@@ -7449,7 +7450,6 @@ ceratiasis
 ceratiid
 ceratins
 ceratioid
-capsuligerous
 curarized
 caffle
 ceratitis
