@@ -3828,6 +3828,7 @@ fairhead
 firewoods
 fisticuffer
 furthermore
+forepleasure
 fineless
 fract
 fiberglas
@@ -7989,7 +7990,6 @@ fourscorth
 forget
 funnelwise
 familiarised
-forepleasure
 fringiness
 fiddling
 fiz
