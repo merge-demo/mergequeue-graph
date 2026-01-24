@@ -11735,6 +11735,7 @@ biogenetic
 bobfloat
 bobierrite
 bobjerom
+bealing
 bioelectricity
 boorish
 backpacker
@@ -12137,7 +12138,6 @@ boldos
 basketball
 besmutch
 bugger
-bealing
 butterweed
 boled
 bolelike
