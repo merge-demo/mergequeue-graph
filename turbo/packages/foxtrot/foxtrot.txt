@@ -3424,6 +3424,7 @@ filthily
 fortunation
 flinching
 forebowline
+fragilely
 fartherance
 frag
 franklinist
@@ -11604,7 +11605,6 @@ frack
 forewinning
 fulgour
 formulizer
-fragilely
 fermata
 feinschmecker
 forint

@@ -1567,7 +1567,6 @@ beknighting
 brummagem
 ballyhoo
 ballyrags
-bioelectrogenetic
 belat
 ballised
 bordure
@@ -10777,6 +10776,7 @@ beavered
 boody
 biorhythmic
 bronchomotor
+bioelectrogenetic
 bullfights
 bleo
 befuddlers
