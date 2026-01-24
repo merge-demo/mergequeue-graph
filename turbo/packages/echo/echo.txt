@@ -1469,7 +1469,6 @@ enplaning
 eurythermous
 electivism
 electroshocks
-exposal
 embolium
 embarrased
 empathic
@@ -4987,6 +4986,7 @@ emblazonment
 enders
 expelled
 evangelistics
+exposal
 endgate
 enneads
 extorsively
