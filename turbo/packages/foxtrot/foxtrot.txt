@@ -4678,7 +4678,6 @@ fluidram
 formula
 forefeels
 forlese
-fucales
 fathomless
 firesideship
 fantasticate
@@ -10438,6 +10437,7 @@ fullery
 foreadvice
 frontotemporal
 flackery
+fucales
 forestian
 frontsman
 frontspieces
