@@ -3164,6 +3164,7 @@ closemouth
 caper
 caperbush
 capercaillie
+cowskin
 chaulmoogric
 colored
 capercut
@@ -27726,7 +27727,6 @@ capitellar
 camorristi
 chough
 cowshut
-cowskin
 countercommand
 cowson
 criticsm
