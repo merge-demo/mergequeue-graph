@@ -981,7 +981,6 @@ genre
 grivet
 gilgamesh
 gorkun
-grouting
 galloped
 ganched
 goner
@@ -4173,6 +4172,7 @@ gynaecological
 gabbiness
 gobbing
 gastornis
+grouting
 gynaeconitis
 gaillard
 gynandria
