@@ -8572,6 +8572,7 @@ fleered
 frutescent
 flapdoodle
 formby
+forcedly
 foeture
 frightment
 fanfarons
@@ -10741,7 +10742,6 @@ flam
 flotsams
 fideisms
 frumps
-forcedly
 fuder
 frustrating
 fairing
