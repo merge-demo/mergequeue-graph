@@ -720,7 +720,6 @@ gals
 galtrap
 guidable
 gastroenterologically
-guebucu
 glossographical
 galvanically
 glossatorial
@@ -2571,6 +2570,7 @@ generant
 generate
 gigliato
 guitars
+guebucu
 gypsiferous
 gazetteerage
 gomerel
