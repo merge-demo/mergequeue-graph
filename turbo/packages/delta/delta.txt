@@ -16247,7 +16247,6 @@ dindymus
 distilled
 defease
 downcastness
-disabling
 doubter
 downcome
 dogtail
@@ -16719,6 +16718,7 @@ dramme
 dottler
 dioecious
 dorrbeetle
+disabling
 downlinking
 distributedly
 dormitary

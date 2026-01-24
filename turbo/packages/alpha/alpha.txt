@@ -2763,7 +2763,6 @@ acrobryous
 alarms
 airglow
 apotropaion
-autopista
 acrocephalic
 accompanable
 anguished
@@ -19510,6 +19509,7 @@ alphabetize
 aerolith
 accessoriness
 anandrarious
+autopista
 assaults
 adenotomy
 aitchpiece
