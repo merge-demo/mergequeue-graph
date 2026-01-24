@@ -3545,6 +3545,7 @@ glumella
 guises
 gourmandize
 galvanisation
+gentilitious
 gelatinoid
 gharnao
 glossa
@@ -9508,7 +9509,6 @@ grimp
 gymnosporous
 granting
 guiltiness
-gentilitious
 graals
 glutinize
 guanaco
