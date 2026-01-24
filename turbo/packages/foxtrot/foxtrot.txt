@@ -7725,7 +7725,6 @@ formalizations
 flicky
 fireshine
 frankpledge
-fumigants
 furfuraceous
 fawnlike
 frere
@@ -10091,6 +10090,7 @@ frithy
 firstly
 fluviometer
 fiberizing
+fumigants
 falsifying
 flyover
 forewent
