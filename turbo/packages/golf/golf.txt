@@ -5360,7 +5360,6 @@ guffer
 grebo
 glyn
 galatotrophic
-glynn
 gamogenetical
 groundflower
 gumchewer
@@ -6713,6 +6712,7 @@ groomy
 globulolysis
 girlfriends
 gascheck
+glynn
 glycolysis
 grey
 grandmotherism
