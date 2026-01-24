@@ -2864,6 +2864,7 @@ gummosity
 genuflex
 glyptal
 groggier
+gormands
 gallerylike
 gigmanhood
 gravediggers
@@ -4650,7 +4651,6 @@ gooder
 gourmandise
 guessed
 gibbsite
-gormands
 gauping
 glazen
 geisothermal
