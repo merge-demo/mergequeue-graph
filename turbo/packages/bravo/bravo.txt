@@ -4571,6 +4571,7 @@ bemingles
 bobberies
 betrunk
 buckteeth
+bowleggedness
 bicellular
 backjaw
 bedarkening
@@ -13865,7 +13866,6 @@ bauno
 bountiful
 bitbrace
 bowleg
-bowleggedness
 beedi
 bowles
 balwarra
