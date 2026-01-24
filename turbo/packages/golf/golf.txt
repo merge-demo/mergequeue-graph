@@ -5984,7 +5984,6 @@ gutturonasal
 gravitation
 gingerly
 goodwilly
-geranium
 gamier
 gelatinously
 griffinesque
@@ -10520,6 +10519,7 @@ gilly
 gadsbodikins
 gonal
 gunfights
+geranium
 ghillie
 gossipingly
 gudesakes
