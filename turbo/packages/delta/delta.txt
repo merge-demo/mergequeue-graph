@@ -4407,7 +4407,6 @@ demerit
 demiluster
 damoetas
 drones
-despairfulness
 desultory
 demesgne
 dudleyite
@@ -11649,6 +11648,7 @@ discordance
 dedenda
 discordancy
 diaeretic
+despairfulness
 discordancies
 discordant
 dialling
