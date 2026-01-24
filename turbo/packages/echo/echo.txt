@@ -2957,6 +2957,7 @@ elicitation
 elicitor
 equivalvular
 enricher
+epimeral
 exploiters
 estriol
 epagomenal
@@ -10536,7 +10537,6 @@ expansional
 enswathed
 eucharists
 excogitates
-epimeral
 entrymen
 expenses
 emule

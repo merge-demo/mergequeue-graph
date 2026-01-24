@@ -1630,7 +1630,6 @@ gunnera
 geom
 greetingly
 gypsite
-groovier
 grousewards
 grosgrain
 grammes
@@ -6925,6 +6924,7 @@ gilgie
 galoshed
 grinds
 grasseye
+groovier
 grapevine
 gages
 goodwives
