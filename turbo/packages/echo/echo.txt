@@ -4791,7 +4791,6 @@ encompassment
 excusation
 echard
 embosks
-encores
 ereptic
 enemas
 epicranium
@@ -10864,6 +10863,7 @@ euphemise
 elected
 euphemising
 enshroud
+encores
 euphemistically
 euphemize
 eyebeam
