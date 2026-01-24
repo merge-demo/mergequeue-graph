@@ -5129,7 +5129,6 @@ entresol
 endermically
 elytrorrhaphy
 earbob
-epicarp
 encyclic
 erava
 essonite
@@ -12484,6 +12483,7 @@ ethicality
 exilement
 electrobiological
 escalading
+epicarp
 escheatable
 exility
 evened
