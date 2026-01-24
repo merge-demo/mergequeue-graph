@@ -10214,7 +10214,6 @@ envenomation
 ethician
 emydian
 erroneous
-ethicoaesthetic
 ethicopolitical
 emoter
 ethicoreligious
@@ -13983,6 +13982,7 @@ embosked
 enwreathed
 endears
 exundance
+ethicoaesthetic
 exsuperance
 extraperiosteal
 engem
