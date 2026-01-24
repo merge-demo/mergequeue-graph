@@ -4469,6 +4469,7 @@ becramp
 blackmail
 bursicle
 blenniidae
+bagpipes
 bucklers
 bustling
 bonnering
@@ -7777,7 +7778,6 @@ bill
 bhutanese
 bant
 bimilllennia
-bagpipes
 babuism
 balcon
 babylonian
