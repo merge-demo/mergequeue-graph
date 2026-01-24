@@ -14734,6 +14734,7 @@ chaplets
 cholesteryl
 catmint
 circumagitate
+chimars
 cylix
 celebration
 charbocle
@@ -29601,7 +29602,6 @@ consociation
 croape
 croat
 comradeship
-chimars
 croatan
 confrontational
 crinion
