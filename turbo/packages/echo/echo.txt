@@ -261,7 +261,6 @@ eightsmen
 electrostatic
 enring
 encashed
-emportment
 electroplated
 expiries
 easterling
@@ -5555,6 +5554,7 @@ expediences
 evangel
 extratympanic
 experiential
+emportment
 enomania
 empathetically
 enduringness
