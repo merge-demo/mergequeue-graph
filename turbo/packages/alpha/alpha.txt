@@ -4565,6 +4565,7 @@ advisees
 autobiology
 advisement
 atli
+alcanna
 abreacting
 arranger
 addax
@@ -7503,7 +7504,6 @@ altaite
 allegiant
 autoclastic
 alcalizate
-alcanna
 acardiac
 ainus
 anastomos
