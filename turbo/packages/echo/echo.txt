@@ -5015,7 +5015,6 @@ ectoproct
 endmost
 etwee
 enamellar
-exemplum
 editorialized
 endoaortitis
 entoolitic
@@ -6702,6 +6701,7 @@ epulis
 espundia
 entertainingly
 entertainment
+exemplum
 endosepsis
 echimys
 epicenters
