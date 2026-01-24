@@ -518,7 +518,6 @@ gravimetrical
 gelatin
 gye
 glaucodot
-grama
 gullably
 geminations
 geomorphology
@@ -6285,6 +6284,7 @@ geochemists
 glossalgia
 gruneritization
 goblins
+grama
 goldenpert
 gallivanters
 gardevisure
