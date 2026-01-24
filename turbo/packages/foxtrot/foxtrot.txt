@@ -3105,6 +3105,7 @@ faring
 fulminancy
 freshwater
 fibroferrite
+fibropolypus
 firewarden
 franciscans
 flashflood
@@ -11361,7 +11362,6 @@ factish
 focalizing
 fossane
 fluorindin
-fibropolypus
 fruitade
 faute
 furnacelike
