@@ -10727,7 +10727,6 @@ decessor
 dipsie
 discontinuance
 declared
-decarboxylize
 drainspout
 drools
 discomfiture
@@ -16501,6 +16500,7 @@ disnumber
 depside
 dracontic
 dwellings
+decarboxylize
 demagogical
 dairywoman
 detached
