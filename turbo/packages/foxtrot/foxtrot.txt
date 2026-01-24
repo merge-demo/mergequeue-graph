@@ -2195,6 +2195,7 @@ felwort
 fathearted
 faciobrachial
 fairsome
+forgathers
 forestery
 filius
 flounciest
@@ -10416,7 +10417,6 @@ fringeflower
 fossified
 featherwood
 fountainously
-forgathers
 firsts
 flandan
 fluorinated
