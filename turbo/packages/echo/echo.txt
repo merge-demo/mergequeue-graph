@@ -2147,7 +2147,6 @@ edwardian
 ensorceling
 electropult
 erotica
-elation
 euphonise
 enrib
 effloresces
@@ -2401,6 +2400,7 @@ ectogenetic
 energist
 electrodeposition
 ebriosity
+elation
 epitrochlea
 electrodes
 elotherium
