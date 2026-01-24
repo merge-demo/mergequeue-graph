@@ -35,6 +35,7 @@ eanling
 ear
 endosporia
 enumerated
+enecate
 estimableness
 epidemiological
 electrothermic
@@ -3786,7 +3787,6 @@ exercising
 electroacoustical
 embussing
 espigle
-enecate
 explored
 emceeing
 enquirer
