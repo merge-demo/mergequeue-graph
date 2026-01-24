@@ -5725,6 +5725,7 @@ eau
 educabilia
 etherolate
 emerald
+endolemma
 entrenches
 engirdle
 ebullient
@@ -13578,7 +13579,6 @@ exsufflation
 exacerbated
 encephalotomies
 extracutaneous
-endolemma
 evasions
 echidnas
 escheating
