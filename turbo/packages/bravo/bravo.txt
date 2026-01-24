@@ -10755,7 +10755,6 @@ bosseyed
 brickwise
 bairnie
 blandishes
-bebatter
 blennorrhagia
 bollworms
 bailee
@@ -11806,6 +11805,7 @@ bardolphian
 bullishly
 breechblock
 bod
+bebatter
 barebone
 bodach
 bihamate

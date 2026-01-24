@@ -1848,7 +1848,6 @@ errabund
 edaciousness
 elaterin
 equitemporal
-expeller
 eremology
 erastian
 eila
@@ -5581,6 +5580,7 @@ ethiopia
 euthanatize
 evibrate
 enfolders
+expeller
 epimacus
 emigratory
 enteropneustal
