@@ -12714,7 +12714,6 @@ boxty
 breviate
 barrenwort
 beaux
-barging
 bharal
 bimetallist
 ballant
@@ -13147,6 +13146,7 @@ borotungstate
 baleful
 borough
 bufotenine
+barging
 bouquetin
 biseriate
 bugged
