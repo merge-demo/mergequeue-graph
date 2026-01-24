@@ -2638,6 +2638,7 @@ gadling
 gathering
 goers
 greatest
+gymnocarpous
 gastropodan
 globously
 gonotocont
@@ -7185,7 +7186,6 @@ gabbarts
 gonial
 gratin
 globosite
-gymnocarpous
 gizzen
 gromatical
 galahad
