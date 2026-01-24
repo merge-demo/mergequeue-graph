@@ -945,6 +945,7 @@ branny
 bungaloid
 brownout
 bagwigged
+burglarproofed
 bagwyn
 bustier
 bagwork
@@ -13812,7 +13813,6 @@ balatte
 bashilange
 bulbuls
 bulbophyllum
-burglarproofed
 beforetimes
 bower
 bowerbird
