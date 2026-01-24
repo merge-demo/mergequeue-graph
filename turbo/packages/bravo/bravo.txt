@@ -2820,7 +2820,6 @@ behowling
 bravest
 barotraumas
 barotropic
-barouchette
 bioecologic
 baroxyton
 benignantly
@@ -14609,6 +14608,7 @@ bonito
 branniness
 binodal
 bonapartist
+barouchette
 bassara
 boasted
 branning
