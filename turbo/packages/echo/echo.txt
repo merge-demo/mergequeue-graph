@@ -1270,7 +1270,6 @@ eucairite
 eoghanacht
 epinephrin
 epigramme
-eq
 eeriness
 epithalamion
 encircler
@@ -10028,6 +10027,7 @@ extrorsal
 electrodiagnostic
 expellable
 eternally
+eq
 extill
 embarking
 excisable
