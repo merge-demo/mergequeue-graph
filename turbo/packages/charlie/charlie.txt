@@ -4140,6 +4140,7 @@ cardiocele
 chevronelly
 cardiocirrhosis
 cacuminate
+chador
 consubsistency
 contrarieties
 cardiodilator
@@ -8004,7 +8005,6 @@ colloquy
 catsup
 civilianization
 caryophyllaceous
-chador
 conscientious
 chaenolobus
 chaetae
