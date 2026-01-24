@@ -2761,6 +2761,7 @@ gippers
 garbs
 garnished
 gelotometer
+globigerinidae
 glottochronological
 gristly
 gabies
@@ -4391,7 +4392,6 @@ galuchat
 glamours
 gazangabin
 ginseng
-globigerinidae
 gynura
 goyazite
 gadsman
