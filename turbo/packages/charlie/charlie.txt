@@ -15626,6 +15626,7 @@ capryl
 conure
 colorfully
 corvinae
+cloisonne
 ceratodus
 criminologists
 chrysanisic
@@ -16548,7 +16549,6 @@ cloisonless
 chancering
 clammish
 cloisonn
-cloisonne
 convival
 carrigeen
 cloisonnism
