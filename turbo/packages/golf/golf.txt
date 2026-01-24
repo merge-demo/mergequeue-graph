@@ -4491,6 +4491,7 @@ geography
 gambrel
 gills
 graminiform
+gundie
 gl
 gerbille
 gobstick
@@ -10504,7 +10505,6 @@ glavering
 gypsous
 grayishness
 garn
-gundie
 graspingness
 goladar
 girl
