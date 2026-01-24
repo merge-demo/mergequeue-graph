@@ -91,7 +91,6 @@ cabbed
 cubics
 cabbie
 crenelate
-cabbies
 cabble
 cabbled
 cabbler
@@ -13755,6 +13754,7 @@ cinemas
 cinematheque
 carsmith
 cheeringly
+cabbies
 consumers
 comakers
 catallactically
