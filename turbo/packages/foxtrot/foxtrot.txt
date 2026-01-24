@@ -11210,6 +11210,7 @@ ferret
 funic
 footlers
 faradise
+forcepses
 fistulae
 fennecs
 foreday
@@ -11528,7 +11529,6 @@ foxfeet
 fuselages
 fuselike
 floeberg
-forcepses
 forecaddie
 fermentations
 faradiser
