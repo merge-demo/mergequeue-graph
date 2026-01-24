@@ -7231,7 +7231,6 @@ asters
 accessoriusorii
 adoptant
 aglauros
-angioplerosis
 alba
 athrob
 ayahuca
@@ -8759,6 +8758,7 @@ allobar
 allobaric
 ammonolyses
 adolescency
+angioplerosis
 anthophore
 allobrogical
 abidance
