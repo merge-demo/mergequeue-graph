@@ -7654,7 +7654,6 @@ detestability
 deray
 drawers
 develops
-dumfounds
 devels
 devenustate
 disjeune
@@ -7997,6 +7996,7 @@ dionaea
 dishonoured
 discording
 degummer
+dumfounds
 deemsters
 demanganize
 deliberate
