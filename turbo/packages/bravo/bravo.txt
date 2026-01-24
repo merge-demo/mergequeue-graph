@@ -13752,7 +13752,6 @@ bries
 baldachinos
 burnable
 bejig
-bezil
 bestrowed
 begazes
 buffet
@@ -13818,6 +13817,7 @@ bower
 bowerbird
 bituberculated
 biathlons
+bezil
 binominal
 bidential
 brewing
