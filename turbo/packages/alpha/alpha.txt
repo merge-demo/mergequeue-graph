@@ -11249,7 +11249,6 @@ actuated
 administratorship
 apiose
 acropodium
-amphisbaenas
 amphisbaenoid
 abri
 arts
@@ -20657,6 +20656,7 @@ arthrostomy
 arthrotyphoid
 amputative
 azimide
+amphisbaenas
 arthrotome
 ansi
 accinged
