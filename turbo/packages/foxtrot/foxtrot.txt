@@ -4164,7 +4164,6 @@ farkleberries
 fellowcraft
 floerkea
 fibrils
-faintness
 fluophosphate
 foreaccounting
 flunkeydom
@@ -10775,6 +10774,7 @@ fruticose
 folles
 forweep
 farreation
+faintness
 foils
 fruticous
 firstness
