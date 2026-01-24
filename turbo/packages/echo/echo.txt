@@ -2031,6 +2031,7 @@ etruscans
 electrometeor
 eligibleness
 encephalometric
+eczematosis
 electrograph
 embroilments
 evicted
@@ -12469,7 +12470,6 @@ ext
 elocutionists
 exigences
 encouragers
-eczematosis
 entomophthorous
 examiner
 exiguously
