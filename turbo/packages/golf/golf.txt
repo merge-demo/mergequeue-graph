@@ -3692,6 +3692,7 @@ garnierite
 gess
 ghoulishly
 gastrocystis
+glandered
 gyse
 granivore
 galvanoplastics
@@ -4914,7 +4915,6 @@ genealogists
 goofballs
 growled
 guariba
-glandered
 global
 gorgonesque
 genially
