@@ -14822,6 +14822,7 @@ bunked
 blier
 bandaged
 billycock
+beclothing
 baulks
 baku
 backwaters
@@ -15549,7 +15550,6 @@ balut
 balaghaut
 bestreak
 banakite
-beclothing
 bionts
 brinksmanship
 batted
