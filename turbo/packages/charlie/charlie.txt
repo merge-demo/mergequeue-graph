@@ -333,6 +333,7 @@ cradle
 cemented
 cysticercus
 cacodemon
+classical
 cacodemonia
 cowtongue
 cacodemoniac
@@ -16510,7 +16511,6 @@ clogged
 cruisken
 channelization
 cucumbers
-classical
 cloggier
 coldly
 chiliasm
