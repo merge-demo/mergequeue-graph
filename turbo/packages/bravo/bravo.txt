@@ -5458,7 +5458,6 @@ bahmani
 bloomy
 bootid
 broadmouth
-baronets
 behoovefulness
 barrier
 behooves
@@ -6202,6 +6201,7 @@ batavian
 bengola
 bipartient
 beni
+baronets
 buckjumper
 bessel
 bremely
