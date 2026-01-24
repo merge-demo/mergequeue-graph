@@ -3610,7 +3610,6 @@ gedder
 gossipy
 gro
 gastroenterological
-giglot
 gluconeogenic
 goldest
 gastrotubotomy
@@ -5762,6 +5761,7 @@ gloveless
 glorifiable
 gym
 gamble
+giglot
 grain
 gadarene
 gloveman

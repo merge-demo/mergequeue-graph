@@ -2859,7 +2859,6 @@ autostylic
 autarchical
 agonium
 apium
-abidal
 azaleas
 acronymizing
 anchorage
@@ -18821,6 +18820,7 @@ archeries
 acoustically
 armida
 abjuring
+abidal
 allomerization
 agoniatite
 archers
