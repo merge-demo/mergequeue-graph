@@ -5676,6 +5676,7 @@ cataphoresis
 cataphoria
 cataphract
 counterargue
+cogency
 cosmetology
 cataphracted
 cataphrenia
@@ -13768,7 +13769,6 @@ clodpole
 chauve
 cinematic
 comedienne
-cogency
 coulibiaca
 cooboo
 cascavel
