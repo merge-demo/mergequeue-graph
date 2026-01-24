@@ -8473,6 +8473,7 @@ eurindic
 erases
 elongates
 epuration
+esoterize
 exculpable
 euchloric
 effectual
@@ -9606,7 +9607,6 @@ expertism
 eventlessness
 exceptionary
 ensearch
-esoterize
 esotropia
 esp
 elatha
