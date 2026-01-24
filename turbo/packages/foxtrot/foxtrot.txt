@@ -4194,7 +4194,6 @@ foliating
 fanions
 flummadiddle
 federals
-ferfathmur
 felonries
 foothold
 flittermmice
@@ -11498,6 +11497,7 @@ furzy
 fastest
 flagellist
 flammable
+ferfathmur
 flouncy
 fluently
 fanfold
