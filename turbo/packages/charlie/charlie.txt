@@ -8385,7 +8385,6 @@ chamecephalous
 chamecephalus
 cannibals
 chameleon
-chameleonlike
 cantilena
 commercialized
 cckw
@@ -11577,6 +11576,7 @@ complimenting
 cholecystitis
 cozies
 christophany
+chameleonlike
 cholecystnephrostomy
 creek
 cupellation
