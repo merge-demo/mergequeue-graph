@@ -17708,6 +17708,7 @@ cockroaches
 cozing
 cockscombed
 coco
+chiffonade
 cocoach
 cte
 chessboards
@@ -19232,7 +19233,6 @@ collutories
 cafeteria
 collutorium
 colluvial
-chiffonade
 countlessly
 cousins
 colluvium
