@@ -5997,7 +5997,6 @@ gyrons
 gigantical
 graymalkin
 grindal
-gnathitis
 gragers
 ganevs
 guerre
@@ -6387,6 +6386,7 @@ gloats
 glassman
 glossotherium
 gobiesocid
+gnathitis
 geostrophic
 gymnocladus
 geegaws
