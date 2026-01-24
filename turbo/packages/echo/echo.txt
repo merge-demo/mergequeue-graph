@@ -8233,7 +8233,6 @@ epigeic
 escapado
 electrodialytic
 epitoke
-erratums
 emulate
 endolaryngeal
 endplay
@@ -9129,6 +9128,7 @@ entwining
 endosiphuncle
 eggbeaters
 exograph
+erratums
 endothermism
 emporiums
 erliche
