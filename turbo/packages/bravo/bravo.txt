@@ -10853,6 +10853,7 @@ bronteum
 bonhomme
 brancardier
 bonism
+borghalpenny
 blew
 bodilessness
 bds
@@ -11235,7 +11236,6 @@ beacher
 brazenness
 bracts
 bezesteen
-borghalpenny
 bletia
 bespeaker
 bisilicate
