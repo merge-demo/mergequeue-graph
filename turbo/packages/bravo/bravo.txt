@@ -6565,6 +6565,7 @@ boatside
 borickite
 brekky
 benzothiazole
+brewings
 breastrope
 biohazard
 berberid
@@ -13109,7 +13110,6 @@ benchmen
 bregmatic
 boringness
 bilging
-brewings
 bubblies
 benzalphenylhydrazone
 befluster
