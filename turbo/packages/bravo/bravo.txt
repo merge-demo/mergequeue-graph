@@ -9870,7 +9870,6 @@ bitewing
 beryx
 based
 backswording
-balladry
 bebleed
 brail
 bunds
@@ -16554,6 +16553,7 @@ budzat
 bandeaux
 broadpiece
 bisellium
+balladry
 bisonant
 brutely
 blindstitch
