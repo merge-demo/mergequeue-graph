@@ -2893,7 +2893,6 @@ cansos
 chartophylaxes
 congenialize
 cant
-connectionless
 crayfish
 cantabank
 canonic
@@ -15371,6 +15370,7 @@ coembedded
 camelhair
 curnie
 cyanole
+connectionless
 chrysalidal
 characteristics
 cryptostegia
