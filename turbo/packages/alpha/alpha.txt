@@ -10578,7 +10578,6 @@ arride
 amylidene
 amylo
 autochemical
-allergens
 amyloclastic
 assists
 aponogetonaceae
@@ -20870,6 +20869,7 @@ asale
 asana
 aconitin
 argling
+allergens
 arachnidism
 avalvular
 arcate
