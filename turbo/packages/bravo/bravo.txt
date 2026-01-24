@@ -6461,6 +6461,7 @@ bergmannite
 bilati
 beothukan
 bellicose
+boondocks
 braggartly
 boschbok
 basidiogenetic
@@ -8123,7 +8124,6 @@ bracken
 bidden
 buttal
 brum
-boondocks
 bulbine
 becarpet
 barbadian
