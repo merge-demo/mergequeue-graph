@@ -3984,7 +3984,6 @@ extramodal
 empatron
 extemporizes
 etrurian
-empyema
 eupatorin
 eyestalks
 empearl
@@ -9738,6 +9737,7 @@ esdragol
 eucommiaceae
 epimorphic
 eight
+empyema
 esselenian
 electrotonus
 emotionable
