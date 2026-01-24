@@ -4580,7 +4580,6 @@ autonomize
 apparatchiki
 alkalemia
 androcentric
-angolar
 acetylic
 amphibious
 avidnesses
@@ -5005,6 +5004,7 @@ aerophyte
 airfield
 antiparagraphe
 assessory
+angolar
 angiohyalinosis
 adinvention
 aerophobic
