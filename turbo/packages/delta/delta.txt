@@ -9151,7 +9151,6 @@ didonia
 duodenas
 dihexahedron
 daubry
-dipsaceae
 decapods
 dreamfully
 dowses
@@ -16416,6 +16415,7 @@ doeuvre
 downwind
 dowp
 dowse
+dipsaceae
 defibrillative
 dihydric
 drolled
