@@ -6074,6 +6074,7 @@ dictyostele
 dislaurel
 diatheses
 decompound
+donut
 dizened
 deraigning
 dispirits
@@ -12046,7 +12047,6 @@ devotionist
 disenmesh
 dibrom
 derf
-donut
 dwine
 deacon
 disensanity
