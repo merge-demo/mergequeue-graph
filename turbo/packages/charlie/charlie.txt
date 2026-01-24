@@ -22660,6 +22660,7 @@ caseworms
 conocarpus
 conocephalum
 conocuneus
+calcipexy
 coderiving
 conceivers
 conodont
@@ -27036,7 +27037,6 @@ counterpush
 caneva
 celibatarian
 counterreckoning
-calcipexy
 counterrefer
 congoni
 coccule
