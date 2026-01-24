@@ -12559,6 +12559,7 @@ anes
 anesone
 ashthroat
 apexes
+armouchiquois
 anacatadidymus
 anesthesimeter
 axiomatizations
@@ -19930,7 +19931,6 @@ aqueous
 apophyge
 artistically
 acle
-armouchiquois
 ammine
 armour
 armourbearer
