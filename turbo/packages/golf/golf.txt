@@ -2449,6 +2449,7 @@ generatrix
 gabrielrache
 garbo
 gon
+gladier
 gromwells
 garbure
 gemote
@@ -4822,7 +4823,6 @@ gorgonizing
 giinwale
 gladiatrix
 goyim
-gladier
 guaranteeing
 glozes
 gyrotheca
