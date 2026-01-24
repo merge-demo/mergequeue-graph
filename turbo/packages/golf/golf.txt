@@ -2218,6 +2218,7 @@ gekkonid
 gibers
 gulfing
 gallivanter
+graecism
 gristle
 grapnels
 gossipmongering
@@ -4633,7 +4634,6 @@ glassin
 guisard
 glycuronic
 gradely
-graecism
 goglet
 grosbeaks
 girted
