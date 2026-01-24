@@ -8963,6 +8963,7 @@ cortex
 chariot
 continuo
 charioting
+cleche
 chariotman
 collegiately
 causalities
@@ -15865,7 +15866,6 @@ cleaver
 cleavers
 crusilee
 coremaker
-cleche
 capacitance
 clechee
 constants
