@@ -6889,7 +6889,6 @@ fornacic
 forebackwardly
 farmout
 farris
-febriferous
 foreword
 flammeous
 fitly
@@ -7187,6 +7186,7 @@ flukewort
 foothalt
 filths
 fend
+febriferous
 fishified
 fishers
 fixative
