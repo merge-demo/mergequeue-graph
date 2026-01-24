@@ -576,6 +576,7 @@ baubee
 barbitos
 balisaur
 baconian
+bakingly
 benzalacetone
 bishopric
 bistro
@@ -1201,7 +1202,6 @@ bakersfield
 bakeshop
 bakie
 bicirrose
-bakingly
 bakli
 baymen
 boches
