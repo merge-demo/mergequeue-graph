@@ -19800,7 +19800,6 @@ compellability
 captained
 combwise
 catapulting
-centurion
 castlewards
 ceraunics
 creatines
@@ -25060,6 +25059,7 @@ chetif
 coreigns
 corejoice
 caryophyllene
+centurion
 corelated
 corelates
 chemosurgical
