@@ -2407,7 +2407,6 @@ contrasters
 cyprinidae
 cancellarius
 cymobotryose
-conessine
 chinois
 corynite
 cremnophobia
@@ -12477,6 +12476,7 @@ chromolithographic
 chromomere
 chondrosarcoma
 chromone
+conessine
 carboxide
 creamers
 cantonments
