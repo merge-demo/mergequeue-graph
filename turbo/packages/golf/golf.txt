@@ -8772,7 +8772,6 @@ gust
 gawk
 genual
 gelatined
-glacious
 greet
 gloves
 gadid
@@ -10647,6 +10646,7 @@ generalizeable
 gurgitation
 gasolines
 grummeter
+glacious
 gladius
 gyric
 goatsbane
