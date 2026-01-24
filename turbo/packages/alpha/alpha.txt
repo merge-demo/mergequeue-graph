@@ -10541,7 +10541,6 @@ archduchy
 aequian
 anophele
 amygdalin
-antepenuit
 antiderivative
 anachromasis
 amygdalinic
@@ -13065,6 +13064,7 @@ antiparliament
 acronical
 ascus
 anil
+antepenuit
 anilau
 allen
 almucantar
