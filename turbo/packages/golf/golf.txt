@@ -6638,6 +6638,7 @@ gonfalcon
 glossopyrosis
 generational
 gantlets
+geophagies
 gong
 gekkota
 gynodioeciously
@@ -9742,7 +9743,6 @@ gambes
 gorged
 gastrodynia
 glutens
-geophagies
 gazetteerish
 guignardia
 gladiators
