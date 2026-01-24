@@ -2579,7 +2579,6 @@ adjacently
 acoup
 acousticon
 allotriognathi
-assist
 acoustoelectric
 acpt
 acridinic
@@ -11331,6 +11330,7 @@ argyrocephalous
 adempt
 arcuses
 ampalaya
+assist
 ampler
 amplexicaul
 amphictyonic
