@@ -2423,6 +2423,7 @@ climatographical
 chimneys
 culicine
 cancer
+copei
 cancerated
 coyed
 cambeva
@@ -8379,7 +8380,6 @@ chambers
 chambertin
 chambioa
 chambray
-copei
 colloquist
 calyciferous
 comport
