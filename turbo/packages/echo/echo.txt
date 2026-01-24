@@ -2774,6 +2774,7 @@ eutocia
 extrusions
 exhilaratory
 evergreenite
+elektra
 exchangeably
 equangular
 explorations
@@ -14044,7 +14045,6 @@ embiotocoid
 ecclesiasticalism
 escoting
 eyeline
-elektra
 enliven
 epipactis
 eidolons
