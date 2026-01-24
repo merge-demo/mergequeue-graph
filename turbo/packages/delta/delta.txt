@@ -16105,7 +16105,6 @@ dunger
 doughhead
 derabbinize
 doughier
-doughiness
 dilemmatical
 dowress
 denshire
@@ -16226,6 +16225,7 @@ dunches
 dent
 dodecatyl
 dowery
+doughiness
 derailer
 diethanolamine
 dichogamous
