@@ -1445,6 +1445,7 @@ dawning
 desocialize
 dawnlike
 demimetope
+disintegrates
 disoccident
 draco
 decenniums
@@ -15734,7 +15735,6 @@ dakota
 dendrochronologist
 dismarch
 deescalation
-disintegrates
 deciduary
 doris
 diaxonic
