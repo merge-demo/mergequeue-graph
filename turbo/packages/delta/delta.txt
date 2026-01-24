@@ -5641,6 +5641,7 @@ deplace
 damayanti
 devests
 dipl
+disapprover
 disrobe
 dentelliere
 dawdled
@@ -13565,7 +13566,6 @@ doumas
 diving
 disassociated
 dortiship
-disapprover
 donorship
 defterdar
 disaccharose
