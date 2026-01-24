@@ -444,6 +444,7 @@ chondroepiphysis
 chromatology
 cactal
 cacti
+celiolymph
 crowners
 concrete
 cactiform
@@ -4069,7 +4070,6 @@ caliginous
 costarring
 cardiacle
 cardiagra
-celiolymph
 cardiagram
 cardiagraphy
 cardial

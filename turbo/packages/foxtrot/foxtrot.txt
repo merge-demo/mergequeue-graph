@@ -3776,7 +3776,6 @@ freya
 flintwork
 ferroconcretor
 fizzer
-fraterniser
 fuci
 flyflap
 freon
@@ -5398,6 +5397,7 @@ fledgiest
 floatless
 foisonless
 fabian
+fraterniser
 feasten
 furor
 flurt
