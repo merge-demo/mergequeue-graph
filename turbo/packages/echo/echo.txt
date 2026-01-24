@@ -2915,7 +2915,6 @@ encashment
 exteriors
 elevenses
 eleventeenth
-evernia
 eleventh
 evicts
 excitation
@@ -7156,6 +7155,7 @@ eyedness
 eucharistize
 ecthymatous
 enwomb
+evernia
 engnessang
 epharmonic
 emforth
