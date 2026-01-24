@@ -5856,7 +5856,6 @@ crumbs
 commercia
 categorized
 categorizer
-chromeplated
 cabas
 crawling
 chateau
@@ -23111,6 +23110,7 @@ cephidae
 constantinopolitan
 catechumenate
 canvassed
+chromeplated
 coruscate
 constantly
 constantness
