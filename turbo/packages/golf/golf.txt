@@ -4787,7 +4787,6 @@ gobiesociform
 gypaetus
 griffinism
 gynecidal
-garlicwort
 glades
 graupels
 grush
@@ -5017,6 +5016,7 @@ grapplers
 glasshouses
 gateaux
 gasts
+garlicwort
 glued
 gnarr
 griecep
