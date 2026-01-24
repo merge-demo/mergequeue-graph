@@ -11244,7 +11244,6 @@ enclothe
 enthronements
 earflower
 endostraca
-emigre
 equinities
 enthronized
 earwort
@@ -12703,6 +12702,7 @@ ephemerae
 exophasic
 evidentially
 etchers
+emigre
 exalted
 exophthalmia
 embloom
