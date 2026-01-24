@@ -3590,7 +3590,6 @@ exemplifies
 extravehicular
 emulable
 egocentric
-esperantism
 exhibits
 epitomically
 embows
@@ -4963,6 +4962,7 @@ eloine
 endbrains
 ecarte
 estonia
+esperantism
 edema
 escritorial
 eurhythmical
