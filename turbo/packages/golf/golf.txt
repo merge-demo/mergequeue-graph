@@ -2097,6 +2097,7 @@ gastrins
 galactopoietic
 gawkish
 grecomania
+gung
 gurglet
 gibberish
 gipsied
@@ -2761,7 +2762,6 @@ geopolitik
 gastrotympanites
 gentianella
 gadhelic
-gung
 granulitic
 gippers
 garbs
