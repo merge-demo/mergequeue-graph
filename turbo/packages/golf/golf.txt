@@ -6180,6 +6180,7 @@ gytrash
 gilbertine
 glissader
 gregor
+girasole
 garrisoned
 gastrimargy
 guillotinade
@@ -9034,7 +9035,6 @@ gramophonical
 grateful
 gyrates
 gnatcatcher
-girasole
 girlism
 gryllos
 gavialoid
