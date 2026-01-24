@@ -797,6 +797,7 @@ beeline
 biometrical
 bibliotherapy
 bethorn
+burlaps
 blackout
 basilidan
 building
@@ -15610,7 +15611,6 @@ bristled
 bakhtiari
 bavarian
 biomagnetism
-burlaps
 biopsychical
 born
 bushlet
