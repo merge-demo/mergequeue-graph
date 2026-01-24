@@ -4605,7 +4605,6 @@ delineable
 drysalter
 decem
 dualisms
-deliming
 demiss
 demivolt
 disprobative
@@ -17186,6 +17185,7 @@ dryopithecus
 diander
 dryopteroid
 dysmerism
+deliming
 dripolator
 deaves
 dribbing
