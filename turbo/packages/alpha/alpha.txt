@@ -5406,7 +5406,6 @@ anthomania
 anastomotic
 antirestoration
 antiliquor
-anableps
 astylosternus
 anterospinal
 africanize
@@ -12515,6 +12514,7 @@ apatosaurus
 amandus
 alogia
 appositionally
+anableps
 anthribid
 anencephalic
 angka
