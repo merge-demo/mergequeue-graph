@@ -4059,6 +4059,7 @@ fowlfoot
 foreyear
 fingerberry
 firmity
+fax
 fowlings
 fissionable
 featurish
@@ -7099,7 +7100,6 @@ fungicide
 fulth
 foolproof
 foolproofness
-fax
 finalists
 fibulare
 frocking
