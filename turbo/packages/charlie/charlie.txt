@@ -8928,6 +8928,7 @@ catechumenical
 catholicizing
 chareter
 charette
+cyder
 chemisms
 chargable
 combmaker
@@ -15142,7 +15143,6 @@ cladoptosis
 copilots
 cladose
 catawamptious
-cyder
 coleosporiaceae
 colyba
 cladus
