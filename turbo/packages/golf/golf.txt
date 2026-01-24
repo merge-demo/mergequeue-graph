@@ -610,6 +610,7 @@ germanity
 gigue
 guarauno
 galactose
+genteelish
 glumal
 galbulinae
 guaranian
@@ -8023,7 +8024,6 @@ gaslightness
 granitite
 geomagnetism
 ghain
-genteelish
 gesning
 gentlewoman
 gybes
