@@ -4431,6 +4431,7 @@ giddyhead
 gepoun
 gugu
 gypsyfy
+genarchaship
 ganoblast
 gunshot
 gnathites
@@ -6300,7 +6301,6 @@ geomance
 gutturalised
 gemots
 gearings
-genarchaship
 graptoloidea
 glycosaemia
 graplines
