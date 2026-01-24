@@ -1476,6 +1476,7 @@ bacchanalias
 bushtit
 ballad
 bibliomaniacal
+bejumbled
 benzylic
 barillas
 beflounce
@@ -17745,7 +17746,6 @@ bookbindery
 bellies
 bede
 baneberries
-bejumbled
 bouzoukis
 burnoosed
 burnoused
