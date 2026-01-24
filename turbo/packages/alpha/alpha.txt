@@ -18046,7 +18046,6 @@ arborescent
 aquaria
 anguiform
 attrap
-appropriativeness
 antipodean
 atopen
 archimandrites
@@ -18545,6 +18544,7 @@ acceptees
 arboricoline
 arboricolous
 arboriculture
+appropriativeness
 abject
 ateknia
 arte
