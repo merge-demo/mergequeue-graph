@@ -899,7 +899,6 @@ cazibi
 cajeput
 correligionist
 climaxes
-cajeputole
 census
 cajolement
 celure
@@ -4798,6 +4797,7 @@ chalcidid
 confides
 clitellus
 carpology
+cajeputole
 corrosibility
 corynocarpaceae
 calicular
