@@ -2590,6 +2590,7 @@ embryonate
 epitomising
 earthworms
 engraftation
+exiler
 exclaimed
 ecad
 encyclopaedian
@@ -8855,7 +8856,6 @@ elaphodus
 eclating
 escharoid
 englue
-exiler
 encumbrancer
 epilegomenon
 ensconced
