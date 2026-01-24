@@ -18381,7 +18381,6 @@ antiunionist
 araliaceous
 alloplasm
 algaroba
-abattis
 anisometrope
 assembling
 androgynus
@@ -24678,6 +24677,7 @@ achaemenidae
 avenida
 aveniform
 astatic
+abattis
 avshar
 aventails
 axiom
