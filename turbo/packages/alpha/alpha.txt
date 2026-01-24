@@ -18985,6 +18985,7 @@ architecture
 anticize
 architypographer
 astringence
+astrochemistry
 angiolith
 actinine
 ambagiousness
@@ -22350,7 +22351,6 @@ adret
 alrighty
 angiolymphoma
 afterdrops
-astrochemistry
 aurignacian
 astrocytic
 achilleid
