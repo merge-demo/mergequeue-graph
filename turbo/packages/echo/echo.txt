@@ -2715,7 +2715,6 @@ ef
 elderwort
 electrophoresing
 endomycetaceae
-evanish
 evovae
 electiveness
 enchodontid
@@ -2996,6 +2995,7 @@ enterosepsis
 eradiation
 etiologies
 embind
+evanish
 explait
 equiprobabilism
 eliminated

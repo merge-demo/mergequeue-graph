@@ -17748,7 +17748,6 @@ applicative
 ammunition
 applicatively
 applicatory
-appliedly
 afterdischarge
 allegorized
 alcibiadean
@@ -19255,6 +19254,7 @@ apathia
 amove
 astrocaryum
 ardurous
+appliedly
 amphipneust
 acetylglycine
 areach
