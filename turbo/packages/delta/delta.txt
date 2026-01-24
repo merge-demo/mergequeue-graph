@@ -4863,7 +4863,6 @@ detractory
 dubiosities
 depopulating
 dispersive
-derfly
 dovishness
 demonstrated
 dehiscing
@@ -10001,6 +10000,7 @@ dimwittedly
 demodulation
 detailer
 deck
+derfly
 disordain
 decemfoliolate
 dynactinometer
