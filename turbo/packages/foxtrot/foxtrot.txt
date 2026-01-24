@@ -3603,7 +3603,6 @@ fielder
 floatsman
 froglets
 figurate
-forebitter
 facticide
 fimetarious
 fretsaws
@@ -4007,6 +4006,7 @@ facades
 forwean
 forefaces
 feute
+forebitter
 fallible
 foredawn
 forasmuch
