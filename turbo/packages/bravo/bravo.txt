@@ -3451,6 +3451,7 @@ bovarism
 basuto
 bancos
 buphaga
+bagne
 bander
 barkpeeler
 boobook
@@ -11692,7 +11693,6 @@ bipaleolate
 buffoonery
 beefalos
 bobadil
-bagne
 biotomy
 bobadilian
 broadbill
