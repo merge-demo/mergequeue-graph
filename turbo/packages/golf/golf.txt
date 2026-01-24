@@ -5514,7 +5514,6 @@ grugrus
 guardrail
 gymnocalycium
 gussies
-granuloblast
 globous
 georgical
 gadus
@@ -8228,6 +8227,7 @@ gaseosity
 gurries
 gara
 geeks
+granuloblast
 geopolitist
 glycocin
 gainfulness
