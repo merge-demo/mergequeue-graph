@@ -4978,7 +4978,6 @@ epithelioblastoma
 endogastric
 emblazonment
 enders
-expelled
 evangelistics
 exposal
 endgate
@@ -7088,6 +7087,7 @@ episcenia
 excerpting
 envelope
 exurbanites
+expelled
 extemporaneously
 empanada
 endpaper
