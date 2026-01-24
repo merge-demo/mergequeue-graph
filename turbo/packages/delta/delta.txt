@@ -1264,7 +1264,6 @@ departements
 dentalise
 dhoolies
 drink
-durational
 daterman
 datil
 devotement
@@ -13997,6 +13996,7 @@ distomatosis
 doryphorus
 diactin
 dichroism
+durational
 deys
 daubed
 distomes
