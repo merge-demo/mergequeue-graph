@@ -1654,6 +1654,7 @@ folkway
 featishly
 fazes
 flophouse
+fragilaria
 fied
 foreannounce
 fellowless
@@ -8112,7 +8113,6 @@ flasklet
 factorist
 fumacious
 floodplain
-fragilaria
 flamboyer
 formalized
 feasances
