@@ -955,7 +955,6 @@ foundry
 ft
 foragers
 fed
-fasola
 fourchite
 fortunateness
 forms
@@ -11605,6 +11604,7 @@ frack
 forewinning
 fulgour
 fancifully
+fasola
 formulizer
 fermata
 feinschmecker
