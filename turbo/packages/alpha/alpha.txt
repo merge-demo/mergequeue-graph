@@ -5077,6 +5077,7 @@ ardisiaceae
 abased
 amberfishes
 apolloship
+augurous
 aesthetes
 aesthetic
 astomous
@@ -23530,7 +23531,6 @@ anarcotin
 astasia
 algaeology
 auguring
-augurous
 auldest
 achroma
 adenocyst
