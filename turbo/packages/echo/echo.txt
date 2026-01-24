@@ -3218,7 +3218,6 @@ escheatage
 elaters
 engendure
 eluating
-ernesse
 enambush
 esotery
 eluctate
@@ -5907,6 +5906,7 @@ evaluates
 ethmonasal
 enheart
 exantlation
+ernesse
 endobronchially
 exhilaration
 ergoism
