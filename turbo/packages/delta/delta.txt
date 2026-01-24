@@ -1045,6 +1045,7 @@ displanted
 darkly
 despumated
 dizain
+dextrogyre
 darkliest
 decaspermal
 draffsack
@@ -1700,7 +1701,6 @@ dupability
 disadvantage
 dignity
 disentrain
-dextrogyre
 dispond
 duckstone
 distringas
