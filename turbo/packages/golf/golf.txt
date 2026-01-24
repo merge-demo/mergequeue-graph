@@ -1847,7 +1847,6 @@ grandfer
 gunfighting
 galerus
 gulinulae
-gateposts
 gatewaying
 gawain
 ghibellinism
@@ -5261,6 +5260,7 @@ gimps
 glycogenolytic
 gangsters
 gammaroid
+gateposts
 goodman
 gambusia
 gutturalism
