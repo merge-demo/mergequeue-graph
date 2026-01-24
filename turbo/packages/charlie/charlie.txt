@@ -12010,7 +12010,6 @@ cribrately
 cariyo
 cutes
 chorograph
-chorographer
 continuately
 chorographical
 criticizable
@@ -18712,6 +18711,7 @@ caressive
 cojusticiar
 confessionalian
 campily
+chorographer
 connect
 coke
 clinocephalism
