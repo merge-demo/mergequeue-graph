@@ -2091,7 +2091,6 @@ gawking
 glucinic
 gastrins
 galactopoietic
-generality
 gawkish
 grecomania
 gurglet
@@ -10540,6 +10539,7 @@ grilling
 guillemot
 graverobber
 gambetta
+generality
 grandmaster
 goustie
 gatepost
