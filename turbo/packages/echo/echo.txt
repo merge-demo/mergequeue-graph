@@ -5621,7 +5621,6 @@ encouraging
 eirene
 entryways
 epilogation
-enforest
 epacme
 elicitable
 enform
@@ -11192,6 +11191,7 @@ exuberantly
 enspheres
 electroacoustically
 econometrist
+enforest
 evanesces
 etuis
 extatic
