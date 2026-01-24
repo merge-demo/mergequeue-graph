@@ -189,7 +189,6 @@ flimsies
 finitary
 factoryship
 fiberglass
-floatiness
 fusinite
 flashily
 feuar
@@ -11178,6 +11177,7 @@ flatboat
 frontiersman
 fusobacteria
 foetalization
+floatiness
 fungoes
 flotorial
 fanaticism
