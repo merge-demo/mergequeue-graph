@@ -5408,7 +5408,6 @@ circumposition
 copulates
 chamberfellow
 castellum
-caster
 cinemograph
 corncob
 conchfishes
@@ -31756,6 +31755,7 @@ customer
 cervisial
 customers
 customhouses
+caster
 copernicia
 controvertist
 copresent

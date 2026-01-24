@@ -4495,7 +4495,6 @@ epirrheme
 encephalomyelitis
 entalent
 enrange
-ectotheca
 ethiopian
 erucin
 encephalomyocarditis
@@ -7614,6 +7613,7 @@ exactest
 extrafascicular
 extratelluric
 epicondylic
+ectotheca
 epoptist
 equichangeable
 enviousness
