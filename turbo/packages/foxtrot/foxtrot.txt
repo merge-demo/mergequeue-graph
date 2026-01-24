@@ -1413,7 +1413,6 @@ filaree
 fermatas
 frith
 figitidae
-fatnesses
 furaciousness
 forges
 fatsia
@@ -10380,6 +10379,7 @@ feldspathization
 flashcube
 fletcherite
 formatting
+fatnesses
 frontierless
 fireproofness
 farmyards
