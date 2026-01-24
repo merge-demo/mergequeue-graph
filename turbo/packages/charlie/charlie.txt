@@ -9235,6 +9235,7 @@ chemotherapists
 copperproof
 corrosionproof
 conceive
+curval
 corporeality
 chathamites
 chatoyant
@@ -24227,7 +24228,6 @@ convolvulic
 convolvulinic
 cholecystoduodenostomy
 constraining
-curval
 comr
 convolvulus
 coercively
