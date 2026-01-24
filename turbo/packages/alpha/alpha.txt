@@ -1228,7 +1228,6 @@ anarthropod
 avian
 asexualizing
 acaridean
-angelical
 ambitus
 acarina
 acrasy
@@ -25248,6 +25247,7 @@ azeotrope
 alveoloclasia
 abstrict
 azeotropic
+angelical
 azerbaijani
 azerbaijanian
 agrology
