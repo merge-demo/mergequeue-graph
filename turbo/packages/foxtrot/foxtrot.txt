@@ -231,7 +231,6 @@ fimbles
 fulimart
 frostbound
 friezed
-fritterer
 facultize
 fulgur
 floorer
@@ -4123,6 +4122,7 @@ fipples
 floscule
 foisted
 ferrosilicon
+fritterer
 fluorometry
 freeheartedly
 folklore
