@@ -2526,7 +2526,6 @@ cardiophobe
 candymaking
 candite
 candyweed
-candle
 coehorn
 candleball
 candleberries
@@ -25132,6 +25131,7 @@ corruptedly
 colitis
 corfiote
 cataian
+candle
 cathartae
 camails
 crampoons
