@@ -9258,6 +9258,7 @@ bladebone
 balanoid
 bipinnarias
 bribe
+borago
 bipinnated
 bipinnatipartite
 butyrals
@@ -13003,7 +13004,6 @@ bibles
 baptismally
 bully
 boraginaceous
-borago
 bedamn
 boran
 boranes
