@@ -3770,7 +3770,6 @@ gaudily
 gastrophilist
 gouaree
 gaul
-gygis
 gibstaff
 greyhound
 gratefulness
@@ -7351,6 +7350,7 @@ gonococcic
 glochidial
 gestor
 glomerule
+gygis
 gilthead
 gallach
 gynostemia
