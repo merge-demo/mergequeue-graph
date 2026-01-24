@@ -2322,7 +2322,6 @@ archdukes
 ambrosterol
 androcles
 acierated
-arteriectopia
 acierates
 adc
 archduxe
@@ -7049,6 +7048,7 @@ akkadian
 akmite
 aftershock
 aetheogam
+arteriectopia
 autopelagic
 acumble
 arthroderm
