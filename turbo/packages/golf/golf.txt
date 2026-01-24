@@ -2377,7 +2377,6 @@ gote
 goldfields
 grind
 gaulish
-gobioidei
 geminid
 geminous
 gratinating
@@ -9132,6 +9131,7 @@ gazeful
 grapline
 grusinian
 gonococcoid
+gobioidei
 gearcase
 guango
 glyconeogenesis
