@@ -2194,7 +2194,6 @@ gestational
 gooseskin
 goaves
 grogshop
-geoparallelotropic
 goes
 gemwork
 gastrolith
@@ -6132,6 +6131,7 @@ grouted
 griffithite
 galactophore
 goniatite
+geoparallelotropic
 gigantolite
 gunmanship
 goyin
