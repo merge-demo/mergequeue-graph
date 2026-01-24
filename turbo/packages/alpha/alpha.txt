@@ -2659,6 +2659,7 @@ aquamarine
 ammochaeta
 acreage
 anamirta
+adjudicate
 arrythmic
 angara
 acreman
@@ -25261,7 +25262,6 @@ alieners
 aphasiology
 azygobranchiate
 allemontite
-adjudicate
 azygote
 armfuls
 antimonopolization
