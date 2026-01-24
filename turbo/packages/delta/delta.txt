@@ -8103,7 +8103,6 @@ dinosaurs
 ditrochean
 drooling
 dandyprat
-demetallize
 demineralize
 denominative
 dwarfling
@@ -9222,6 +9221,7 @@ deferred
 dielectric
 doziest
 disparately
+demetallize
 dismerit
 depender
 discontinuor
