@@ -11628,6 +11628,7 @@ althing
 arrage
 assuror
 anaemotropy
+aphonous
 adrad
 anaeretic
 ambulacrum
@@ -21643,7 +21644,6 @@ acetometrically
 assayable
 afterpotential
 assayed
-aphonous
 authenticated
 amorist
 assayers
