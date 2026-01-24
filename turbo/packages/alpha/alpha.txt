@@ -14156,6 +14156,7 @@ antepirrhema
 absolutions
 avine
 anteporticoes
+acquiesces
 appellant
 anteporticos
 anteprohibition
@@ -20226,7 +20227,6 @@ although
 aeolodion
 athetosis
 arricciato
-acquiesces
 applicator
 apetaly
 areroscope
