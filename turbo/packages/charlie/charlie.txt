@@ -9688,7 +9688,6 @@ cheetahs
 cheetul
 casse
 coagent
-cheewink
 cheezit
 chef
 chefs
@@ -26811,6 +26810,7 @@ chilopod
 counterfeits
 counterfessed
 counterflange
+cheewink
 cruzados
 counterfleury
 counterfoil
