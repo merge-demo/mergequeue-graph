@@ -2195,6 +2195,7 @@ gestational
 gooseskin
 goaves
 grogshop
+geoparallelotropic
 goes
 gemwork
 gastrolith
@@ -9909,7 +9910,6 @@ growingly
 genevese
 girderless
 glebes
-geoparallelotropic
 gateway
 gratulatorily
 grisailles
