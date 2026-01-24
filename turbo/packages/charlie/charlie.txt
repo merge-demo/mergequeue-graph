@@ -15467,7 +15467,6 @@ cryptorrhesis
 clarinettists
 clarini
 chlorates
-cenosite
 citronella
 clarion
 clarionet
@@ -25098,6 +25097,7 @@ cubas
 craniologically
 calomba
 chatillon
+cenosite
 connotes
 chirotherium
 cooperatives
