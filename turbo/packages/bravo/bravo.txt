@@ -4456,7 +4456,6 @@ birched
 behinds
 bailment
 beached
-baptismal
 bestuur
 becomed
 becometh
@@ -11676,6 +11675,7 @@ bribability
 boattail
 byeworkman
 blazoners
+baptismal
 bosks
 boatward
 blackboys
