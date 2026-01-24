@@ -2761,7 +2761,6 @@ gentianella
 gadhelic
 granulitic
 gippers
-garbs
 garnished
 gelotometer
 globigerinidae
@@ -10161,6 +10160,7 @@ guidepost
 glossophobia
 geostrategist
 gurneyite
+garbs
 gerusia
 gowf
 gastropathy
