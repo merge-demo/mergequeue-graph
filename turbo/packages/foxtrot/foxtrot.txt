@@ -3044,7 +3044,6 @@ falces
 forches
 flowerfly
 finances
-fusariosis
 forfeitableness
 festology
 flagged
@@ -7290,6 +7289,7 @@ freesheet
 fiants
 freshment
 femereil
+fusariosis
 fibrilations
 fossilism
 filefish
