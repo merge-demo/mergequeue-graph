@@ -560,7 +560,6 @@ fatstock
 fgn
 factorability
 frenchily
-falters
 fronts
 formamidoxime
 foresays
@@ -5462,6 +5461,7 @@ forehear
 fiant
 friseurs
 fossed
+falters
 fretwork
 forbarred
 fratching
