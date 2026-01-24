@@ -734,7 +734,6 @@ fictionizing
 frustrater
 fana
 feoffment
-fluxion
 feministics
 fragmentate
 fogscoffer
@@ -10060,6 +10059,7 @@ foretaste
 foamiest
 fiercly
 footnotes
+fluxion
 fetalism
 flammability
 fellowed
