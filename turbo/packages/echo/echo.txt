@@ -4634,7 +4634,6 @@ evolve
 eremiteship
 enchoric
 extraterritorials
-encyclopedias
 enoughs
 ekoi
 entanglers
@@ -7906,6 +7905,7 @@ exarchic
 eidola
 enlargement
 epeiridae
+encyclopedias
 ethonone
 eccentrate
 euphemistic
