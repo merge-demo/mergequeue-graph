@@ -12940,6 +12940,7 @@ cyanates
 cyaneous
 contrail
 cubs
+cropweed
 cyanformate
 chockful
 chloropal
@@ -29822,7 +29823,6 @@ crops
 cropshin
 cropsick
 cashiering
-cropweed
 calorimeters
 casekeeper
 criminalese
