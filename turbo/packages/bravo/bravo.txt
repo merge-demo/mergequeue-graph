@@ -3409,7 +3409,6 @@ birimose
 bindlet
 butyrin
 bullfoot
-biophysically
 boatshop
 bleaching
 belzebuth
@@ -11045,6 +11044,7 @@ basilemma
 bails
 between
 bloats
+biophysically
 brachygnathous
 byelorussian
 brachistochronous

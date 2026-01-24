@@ -524,7 +524,6 @@ geomorphology
 gisement
 graff
 galivants
-gleamiest
 growthful
 guruship
 grooty
@@ -5439,6 +5438,7 @@ glyster
 grande
 ganoids
 gimmer
+gleamiest
 gentlemen
 goodyera
 goldilocks
