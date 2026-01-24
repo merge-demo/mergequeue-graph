@@ -1329,7 +1329,6 @@ gignate
 gra
 ganoine
 goanese
-guslee
 greenhouse
 garishly
 galligaskins
@@ -10733,6 +10732,7 @@ garnish
 greedygut
 grandma
 gournard
+guslee
 gorgonise
 gagers
 groggy
