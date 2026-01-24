@@ -3251,6 +3251,7 @@ chevronny
 capitaldom
 capitaled
 capitalisable
+considerable
 capitalised
 capitalising
 cynocrambaceae
@@ -22890,7 +22891,6 @@ consy
 consider
 circumrenal
 canidae
-considerable
 considerableness
 considerably
 compreg
