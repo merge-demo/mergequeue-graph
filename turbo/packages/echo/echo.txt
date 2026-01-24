@@ -4025,7 +4025,6 @@ elute
 evaporative
 exedent
 evidenced
-esuriency
 evangelize
 excudit
 ensafe
@@ -5090,6 +5089,7 @@ ergatomorph
 edificate
 epiplanktonic
 encrustment
+esuriency
 episiotomy
 ember
 elaeoblast
