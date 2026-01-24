@@ -6118,7 +6118,6 @@ garters
 geelbec
 gadsbud
 gauche
-goadsman
 grihastha
 genovino
 gazetteers
@@ -8629,6 +8628,7 @@ gastronomical
 gests
 grizzliness
 groynes
+goadsman
 griffes
 gratae
 gapeseed

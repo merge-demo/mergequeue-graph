@@ -14655,6 +14655,7 @@ betusked
 brevis
 brasiletto
 brasilin
+blepharoclonus
 bibliomancy
 balustrade
 balletically
@@ -17542,7 +17543,6 @@ burweeds
 barraged
 bricklay
 bureaucratization
-blepharoclonus
 bureaucratizes
 bicentenaries
 boletic
