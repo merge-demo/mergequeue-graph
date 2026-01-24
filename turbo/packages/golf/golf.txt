@@ -6058,6 +6058,7 @@ goosebeak
 gullibly
 gconv
 gryphosaurus
+geraniol
 gnessic
 gastromancy
 golcondas
@@ -7521,7 +7522,6 @@ guserid
 gigglier
 gynecophoric
 gnatter
-geraniol
 guidances
 gemini
 gibbetted
