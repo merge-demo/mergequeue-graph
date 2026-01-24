@@ -3901,7 +3901,6 @@ geneal
 gigawatt
 gutser
 glochchidia
-griskin
 garote
 gratuito
 graphomaniac
@@ -8730,6 +8729,7 @@ gladless
 gralloch
 gaged
 graminaceous
+griskin
 gerenuks
 greenish
 gurry
