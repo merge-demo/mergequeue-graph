@@ -2522,7 +2522,6 @@ cantorial
 countermands
 coasters
 candies
-candying
 candymaker
 cardiophobe
 candymaking
@@ -5047,6 +5046,7 @@ carum
 coachwork
 correlational
 caruncles
+candying
 caruncula
 crusades
 canaanites
