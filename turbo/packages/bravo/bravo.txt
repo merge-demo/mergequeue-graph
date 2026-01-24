@@ -9814,7 +9814,6 @@ boos
 brigandish
 bisubstituted
 bombarder
-bearding
 benzoquinone
 babblingly
 bubblebow
@@ -15363,6 +15362,7 @@ bighearted
 brieflessly
 balsamodendron
 besieges
+bearding
 briefness
 bleeds
 bedstaves
