@@ -1908,7 +1908,6 @@ ernst
 emptional
 electropneumatically
 extemporize
-eluting
 exemplary
 endearance
 euhemerized
@@ -12130,6 +12129,7 @@ esperantic
 erpetologist
 eg
 eyelike
+eluting
 excursionist
 excurvated
 emaciate
