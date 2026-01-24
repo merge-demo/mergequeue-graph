@@ -8178,7 +8178,6 @@ franzy
 florulent
 fantailed
 fruitfullest
-fluffily
 ferula
 fantastry
 feverberries
@@ -9177,6 +9176,7 @@ foreteller
 foll
 fracturing
 federarie
+fluffily
 flock
 filicide
 frenchiness
