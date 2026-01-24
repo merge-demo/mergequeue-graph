@@ -24041,6 +24041,7 @@ comps
 convergency
 columbary
 convergent
+cultivate
 cytogeny
 chemoceptor
 converges
@@ -30915,7 +30916,6 @@ cultivability
 cactaceous
 csc
 cenozoic
-cultivate
 cultivates
 cultivating
 cooeed
