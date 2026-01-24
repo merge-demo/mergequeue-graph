@@ -4800,7 +4800,6 @@ chalcidid
 confides
 clitellus
 carpology
-cajeputole
 corrosibility
 corynocarpaceae
 calicular
@@ -12526,6 +12525,7 @@ collophore
 chromospheric
 colytic
 committitur
+cajeputole
 cadjan
 cranemen
 chromotypy
