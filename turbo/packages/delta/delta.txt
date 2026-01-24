@@ -14654,7 +14654,6 @@ docmac
 dirling
 dixain
 decentre
-decameter
 draftees
 degradability
 disinvite
@@ -18474,6 +18473,7 @@ dermatophony
 devastavit
 dipterous
 diose
+decameter
 dislocation
 dwt
 dupped
