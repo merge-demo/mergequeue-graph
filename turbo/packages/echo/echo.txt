@@ -4402,7 +4402,6 @@ encapsulation
 emitted
 encapsuled
 enure
-endurability
 encaptivate
 essence
 expectorate
@@ -12368,6 +12367,7 @@ electrization
 erodibility
 exhalents
 endocarditic
+endurability
 eurhodol
 etude
 entermise
