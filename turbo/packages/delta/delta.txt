@@ -9009,7 +9009,6 @@ dicotyls
 distortive
 debel
 depeach
-dicots
 diamondwise
 disembed
 depravate
@@ -16305,6 +16304,7 @@ downpipe
 downplay
 downplays
 depending
+dicots
 dozenth
 disagreeable
 decidability
