@@ -15341,7 +15341,6 @@ arbuscle
 antiinsurrectionists
 anamniotic
 antikathode
-abatements
 adulterate
 antikenotoxin
 astrologists
@@ -23889,6 +23888,7 @@ autarkist
 arising
 adenopathy
 abanga
+abatements
 apilary
 appulse
 ashed
