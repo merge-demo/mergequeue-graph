@@ -7016,7 +7016,6 @@ besmudge
 bronzite
 bespouses
 boxhaul
-behaviorism
 besnowing
 besognier
 baguettes
@@ -14416,6 +14415,7 @@ bypath
 brainstems
 brainstone
 biconical
+behaviorism
 bodykins
 boxfuls
 bacchanalian
