@@ -1618,6 +1618,7 @@ chitinoid
 cinderella
 corded
 concertize
+clupeidae
 coassumed
 calls
 cosavior
@@ -16806,7 +16807,6 @@ criophoros
 clover
 cloverlay
 citizen
-clupeidae
 cloverleafs
 cloverleaves
 cloverley
