@@ -5037,6 +5037,7 @@ galliots
 gardenwise
 gynaecea
 grudgeful
+gammadion
 gadinic
 grumph
 griffins
@@ -10219,7 +10220,6 @@ glaucous
 gowpin
 gweduck
 gobbet
-gammadion
 gunless
 guillotinist
 glutaraldehyde
