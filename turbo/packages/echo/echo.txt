@@ -3799,7 +3799,6 @@ entrusts
 emeers
 emeership
 emend
-exscribe
 embolomalerism
 epistolizing
 electroplax
@@ -5247,6 +5246,7 @@ eneid
 errorist
 endoradiosonde
 extract
+exscribe
 exfiguration
 embryotrophy
 emanator
