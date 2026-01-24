@@ -4632,7 +4632,6 @@ fractonimbus
 flaubertian
 flashproof
 famacide
-frivoling
 futharcs
 faust
 fulani
@@ -5417,6 +5416,7 @@ fashion
 frolickly
 forseek
 fitchery
+frivoling
 fusobteria
 femur
 filterable
