@@ -1551,6 +1551,7 @@ grounder
 gazetting
 gainbirth
 gunsels
+glyptodontidae
 glaik
 grulla
 glimes
@@ -6176,7 +6177,6 @@ gamblesome
 gardener
 geomyidae
 guahibo
-glyptodontidae
 grimacier
 goatfishes
 gigmanic

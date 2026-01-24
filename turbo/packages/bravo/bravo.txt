@@ -5829,6 +5829,7 @@ buildress
 boxcar
 bullsnake
 berseem
+bonbon
 bittock
 borazons
 bribeworthy
@@ -12408,7 +12409,6 @@ bests
 bromelin
 bonbo
 bowerlike
-bonbon
 betsimisaraka
 behap
 bicapitate
