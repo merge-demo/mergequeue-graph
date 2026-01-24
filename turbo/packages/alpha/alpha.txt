@@ -8694,7 +8694,6 @@ alliancing
 affluxion
 alliant
 allicampane
-antiketogen
 avosets
 allicient
 anglist
@@ -22310,6 +22309,7 @@ athermic
 atomization
 anisilic
 astragalus
+antiketogen
 astrain
 apostils
 ansation

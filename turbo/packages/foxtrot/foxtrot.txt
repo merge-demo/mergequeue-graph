@@ -6306,6 +6306,7 @@ flummer
 frigidoreceptor
 flickerproof
 fettling
+fraenular
 fusionism
 futurable
 flumping
@@ -8734,7 +8735,6 @@ fortis
 filigraned
 flabbella
 fortissimo
-fraenular
 fole
 forlie
 foredecks
