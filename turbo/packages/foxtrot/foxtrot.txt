@@ -1054,6 +1054,7 @@ fubby
 flourishing
 foussa
 fulfill
+ferventness
 farmeress
 fireling
 flerrying
@@ -2690,7 +2691,6 @@ fountainous
 frizziness
 forlet
 fervence
-ferventness
 frighteningness
 floodwall
 fumage
