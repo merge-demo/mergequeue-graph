@@ -165,6 +165,7 @@ geophagy
 graniticoline
 gunwhale
 grandson
+gastrotaxis
 glassworm
 goliardic
 gerontocratic
@@ -7118,7 +7119,6 @@ gores
 goldenness
 gingerbready
 giggler
-gastrotaxis
 gabbros
 gabelle
 glistering

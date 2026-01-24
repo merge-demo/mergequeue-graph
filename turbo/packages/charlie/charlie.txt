@@ -1622,7 +1622,6 @@ calls
 cosavior
 callum
 calluna
-calamarioid
 coenzyme
 creasy
 calmant
@@ -2067,6 +2066,7 @@ camouflagic
 coincidence
 companionship
 cruddle
+calamarioid
 camouflaging
 combats
 chandlery
