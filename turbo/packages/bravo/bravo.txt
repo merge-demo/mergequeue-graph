@@ -3542,7 +3542,6 @@ blonds
 bathylithic
 bathymetry
 bathymetrical
-baidarkas
 biggonet
 bathing
 bastinadoes
@@ -17576,6 +17575,7 @@ beadrow
 baraca
 blayne
 boorishly
+baidarkas
 belong
 burgau
 benzidins
