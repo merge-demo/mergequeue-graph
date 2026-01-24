@@ -4406,7 +4406,6 @@ feulamort
 farand
 forfeit
 footpick
-fishily
 fatigues
 farinaceously
 fishiness
@@ -6807,6 +6806,7 @@ frontal
 flaccidity
 footbeat
 farinosel
+fishily
 forfalt
 faithfuls
 finmark
