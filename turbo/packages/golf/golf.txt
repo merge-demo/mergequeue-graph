@@ -5389,7 +5389,6 @@ glyptodontoid
 glebae
 ghostwrites
 galactophlebitis
-gracelike
 griphosaurus
 golaseccan
 gynophagite
@@ -5803,6 +5802,7 @@ gunship
 gedact
 galvanoplastic
 grundel
+gracelike
 graham
 gate
 gymnosporangium
