@@ -1580,7 +1580,6 @@ equinity
 exect
 eglomerate
 eaglets
-eglomise
 episkeletal
 errite
 eurasia
@@ -5861,6 +5860,7 @@ extravagence
 engraver
 expalpate
 engysseismology
+eglomise
 ethiops
 episyntheton
 estamp
