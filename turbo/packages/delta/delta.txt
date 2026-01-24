@@ -4026,7 +4026,6 @@ denier
 darknesses
 domicil
 dismissible
-delicatessen
 dynam
 dominance
 delice
@@ -4342,6 +4341,7 @@ dinical
 drummock
 dextrotartaric
 demaree
+delicatessen
 discomedusoid
 demarked
 depredating
