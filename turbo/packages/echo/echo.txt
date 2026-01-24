@@ -735,6 +735,7 @@ endermatic
 effascinate
 exuvium
 ecotype
+exocline
 ecotipically
 ecotypically
 enclaved
@@ -7996,7 +7997,6 @@ embrasured
 epiotic
 eutannin
 exopterygota
-exocline
 elasticized
 enigmaticalness
 exscript
