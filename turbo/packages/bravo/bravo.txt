@@ -6498,6 +6498,7 @@ bepiece
 betinge
 bolshie
 boca
+bittered
 bumbled
 blowiness
 backstrip
@@ -9904,7 +9905,6 @@ besmirches
 bitter
 bradytelic
 bitterbloom
-bittered
 beyerite
 bitterender
 ballooning
