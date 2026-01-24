@@ -18938,7 +18938,6 @@ angili
 arteriostosis
 alsatian
 artilize
-anthropologist
 aesculapian
 auricle
 asphyxiated
@@ -20263,6 +20262,7 @@ amateurish
 afocal
 anthropomorphization
 alkalify
+anthropologist
 arrogates
 amphiboly
 attitudinizing
