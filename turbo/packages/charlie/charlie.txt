@@ -5019,7 +5019,6 @@ conceptuality
 crystallizing
 chevrony
 cartulary
-cartularies
 carapache
 cabbagelike
 collaring
@@ -31910,6 +31909,7 @@ cutworm
 claimless
 coldblooded
 cuvee
+cartularies
 cuvettes
 cuvy
 cuzceno
