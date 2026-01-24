@@ -6844,6 +6844,7 @@ dragnet
 deadflat
 deltic
 drammed
+dig
 domesticative
 derivative
 desmopathology
@@ -18559,7 +18560,6 @@ derri
 durry
 dappled
 durrin
-dig
 daedalist
 durrs
 durukuli

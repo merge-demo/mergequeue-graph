@@ -4235,6 +4235,7 @@ care
 coerect
 constitutiveness
 coronated
+chieftaincy
 corbeille
 carecloth
 cadetcy
@@ -10369,7 +10370,6 @@ chiefest
 cervalet
 chiefish
 chieftain
-chieftaincy
 chieftainess
 chieftainry
 complexify
