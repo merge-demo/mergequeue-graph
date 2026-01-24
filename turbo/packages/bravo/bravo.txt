@@ -12324,7 +12324,6 @@ beldame
 baillie
 bonds
 behoovefully
-bombasticness
 bombasts
 bombed
 beseemed
@@ -12887,6 +12886,7 @@ burdenable
 birle
 bungmaker
 babka
+bombasticness
 bump
 bursectomy
 brachigerous
