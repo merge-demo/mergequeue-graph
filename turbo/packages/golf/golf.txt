@@ -7106,7 +7106,6 @@ gorble
 gorblin
 glucosin
 gorcocks
-gypsylike
 grasscut
 guayaba
 greenfly
@@ -8829,6 +8828,7 @@ grosser
 gainlier
 galleyworm
 graphostatical
+gypsylike
 gabbard
 gastness
 gypsiologist
