@@ -1111,6 +1111,7 @@ franticness
 fishling
 foremention
 fastback
+frizing
 foulish
 farfetched
 fleerish
@@ -6427,7 +6428,6 @@ farset
 fluorobenzene
 fructifies
 firebreaks
-frizing
 foreship
 frogeye
 fluoaluminate
