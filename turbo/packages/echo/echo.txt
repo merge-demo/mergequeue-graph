@@ -3404,6 +3404,7 @@ eavedropper
 embark
 epitomize
 eucharistized
+eluxate
 embarkment
 embarks
 equipage
@@ -8269,7 +8270,6 @@ electropuncturation
 ecumenicality
 electrolyzability
 embryonated
-eluxate
 ependytes
 embrown
 extremis
