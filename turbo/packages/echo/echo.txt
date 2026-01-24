@@ -8377,7 +8377,6 @@ epitrope
 exclusionism
 embryous
 epivalve
-elatcha
 equerries
 eardrum
 erodible
@@ -13810,6 +13809,7 @@ encyclopedical
 egyptologist
 establishmentarianism
 equiped
+elatcha
 engraftment
 extorts
 ecteron
