@@ -4787,6 +4787,7 @@ forties
 footbath
 frostbiter
 fibrinuria
+ferromagneticism
 flume
 fracticipita
 faunus
@@ -11364,7 +11365,6 @@ fruitade
 faute
 furnacelike
 fids
-ferromagneticism
 flashlamp
 flect
 facies
