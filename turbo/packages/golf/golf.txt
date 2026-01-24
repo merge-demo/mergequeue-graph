@@ -2953,7 +2953,6 @@ goluptious
 glutinousness
 gigantomachy
 glueing
-gynecocentric
 glitterance
 geogeny
 gerara
@@ -10013,6 +10012,7 @@ grammatolator
 gesneriaceous
 goog
 grissens
+gynecocentric
 genetoid
 geomancies
 gangliac
