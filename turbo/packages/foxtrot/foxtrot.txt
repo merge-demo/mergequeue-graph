@@ -4779,7 +4779,6 @@ forties
 footbath
 frostbiter
 fibrinuria
-fumish
 flume
 fracticipita
 faunus
@@ -10690,6 +10689,7 @@ facultied
 furnisher
 fibular
 fruitlets
+fumish
 facetted
 fainting
 felsophyre
