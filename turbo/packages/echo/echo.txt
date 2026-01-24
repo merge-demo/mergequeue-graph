@@ -264,6 +264,7 @@ electroplated
 expiries
 easterling
 exhumers
+exults
 epigoneion
 enantioblastic
 endognath
@@ -6848,7 +6849,6 @@ emanations
 epedaphic
 epituberculosis
 ermine
-exults
 educability
 entomologize
 entrap
