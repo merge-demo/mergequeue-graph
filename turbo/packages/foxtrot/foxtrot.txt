@@ -6961,7 +6961,6 @@ fungivorous
 fadeless
 fendy
 frizzler
-flexographically
 faintling
 faineance
 flay
@@ -7830,6 +7829,7 @@ finns
 filterman
 furiousity
 flittered
+flexographically
 forgetters
 fruitwood
 falcial
