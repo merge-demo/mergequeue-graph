@@ -13021,7 +13021,6 @@ cyanophile
 chresard
 chickahominy
 cyanoplastid
-cyanoplatinite
 cooperative
 cysterethism
 cyanoplatinous
@@ -14060,6 +14059,7 @@ cypselus
 collinsia
 cyptozoic
 cosmologies
+cyanoplatinite
 cedi
 cyrano
 craunching
