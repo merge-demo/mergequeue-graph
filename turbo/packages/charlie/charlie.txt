@@ -1878,7 +1878,6 @@ chamfrain
 consociate
 cambia
 cambiata
-charlatanry
 choregy
 cambio
 cementa
@@ -31052,6 +31051,7 @@ centiliters
 cicala
 cheilanthes
 chainage
+charlatanry
 calescence
 crepe
 cremation
