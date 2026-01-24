@@ -8202,6 +8202,7 @@ airfields
 acrostic
 acceleratory
 antitheological
+algors
 agouties
 acetylacetone
 ancylodactyla
@@ -11312,7 +11313,6 @@ acroteric
 amphora
 amphorae
 acappella
-algors
 alohas
 apiator
 abuzz
