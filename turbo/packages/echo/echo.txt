@@ -8572,7 +8572,6 @@ eyebar
 endotheliomas
 endemial
 etymologized
-electrotherapeutic
 encompassing
 epigrammatism
 egall
@@ -10247,6 +10246,7 @@ experiences
 embedded
 expellees
 excavators
+electrotherapeutic
 ethyldichloroarsine
 emphraxis
 euripidean
