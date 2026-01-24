@@ -9408,7 +9408,6 @@ basidial
 boastless
 basocyte
 buriti
-baronetship
 bullyrook
 bulges
 birdless
@@ -12319,6 +12318,7 @@ bombline
 bowdrill
 bombast
 buglers
+baronetship
 blepharotomy
 bezzi
 beldame
