@@ -20960,6 +20960,7 @@ chambering
 comprisal
 controllability
 catacorolla
+chasidim
 conceives
 concertatos
 casseroles
@@ -25515,7 +25516,6 @@ chamaerrhine
 climbable
 coronership
 compilations
-chasidim
 coroneted
 caburn
 chaise
