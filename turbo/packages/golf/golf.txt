@@ -1842,6 +1842,7 @@ goloshes
 geographize
 gatemaker
 gladfully
+geothermal
 gerhardtite
 gregory
 grandfer
@@ -10693,7 +10694,6 @@ gobelin
 gyascutus
 germanophobic
 greenweed
-geothermal
 gu
 grams
 gumma
