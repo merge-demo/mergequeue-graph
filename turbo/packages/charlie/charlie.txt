@@ -1451,6 +1451,7 @@ chapiters
 calyptoblastic
 criticize
 calyptorhynchus
+catenating
 calyptraea
 cradleman
 calyptranthes
@@ -5879,7 +5880,6 @@ catenas
 caudaite
 catenate
 crooisite
-catenating
 catenation
 catenative
 capomo
