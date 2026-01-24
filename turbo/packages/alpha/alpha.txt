@@ -2398,7 +2398,6 @@ actinozoon
 aedes
 academicianship
 acipenserine
-antihemisphere
 acipenseroid
 artistdom
 acipenseroidei
@@ -17132,6 +17131,7 @@ antibody
 appendicle
 apogamies
 albuginaceae
+antihemisphere
 antirecruiting
 alebion
 archfool
