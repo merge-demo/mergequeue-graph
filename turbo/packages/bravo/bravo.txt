@@ -6528,6 +6528,7 @@ blooping
 bootlegged
 boson
 bartramiaceae
+belonite
 bactericidin
 bequests
 buster
@@ -14810,7 +14811,6 @@ breached
 breacher
 beanfeaster
 breachers
-belonite
 bulborectal
 breachful
 briefcases
