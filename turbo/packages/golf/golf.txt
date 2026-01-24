@@ -1964,7 +1964,6 @@ gripes
 grudged
 ghastlier
 guttable
-gaugership
 gonif
 galician
 goschens
@@ -4320,6 +4319,7 @@ grooms
 graphicalness
 grylli
 gunky
+gaugership
 guz
 glottochronology
 gondi
