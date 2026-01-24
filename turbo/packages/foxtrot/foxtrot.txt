@@ -1938,6 +1938,7 @@ fixure
 feminities
 foamless
 furtherance
+fuage
 finback
 feteritas
 feoffee
@@ -7378,7 +7379,6 @@ fasted
 featous
 foobar
 forbiddenly
-fuage
 florideae
 fulling
 fenestellae
