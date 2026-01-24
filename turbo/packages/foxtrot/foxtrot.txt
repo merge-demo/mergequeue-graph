@@ -6942,7 +6942,6 @@ flub
 ferthumlungur
 flag
 fumarase
-fun
 fibromatosis
 fauconnier
 fructuosity
@@ -11154,6 +11153,7 @@ fiddly
 frowy
 fungation
 fungia
+fun
 fremdness
 flyblowing
 felspar

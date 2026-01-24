@@ -7784,7 +7784,6 @@ bravure
 barytas
 buckeyed
 biacid
-basoko
 blessings
 bethwine
 balibuntl
@@ -10204,6 +10203,7 @@ bufferrers
 bontebok
 beroida
 bid
+basoko
 betweenmaid
 badgering
 binghi
