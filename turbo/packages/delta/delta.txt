@@ -7936,6 +7936,7 @@ dowitch
 dysyntribite
 didapper
 dolomize
+disease
 demur
 doublets
 delawarean
@@ -11908,7 +11909,6 @@ dramm
 dhunchi
 decalescence
 discuses
-disease
 dentalisation
 defectively
 deductile
