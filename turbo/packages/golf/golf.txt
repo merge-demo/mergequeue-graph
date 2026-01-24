@@ -4033,6 +4033,7 @@ griph
 gastroduodenotomy
 grasshop
 grasped
+gregarine
 gimel
 gobernadora
 gol
@@ -9765,7 +9766,6 @@ gluttonizing
 gradino
 gastriloquial
 gelatinous
-gregarine
 gonochorismus
 gaulsh
 gean
