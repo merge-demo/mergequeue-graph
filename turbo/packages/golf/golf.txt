@@ -1218,7 +1218,6 @@ gratulate
 guilelessness
 garage
 guatemaltecan
-galapago
 gastrotricha
 getatableness
 gadded
@@ -10411,6 +10410,7 @@ gadgetries
 gnateater
 gillbird
 giller
+galapago
 graphiology
 gum
 gluiness
