@@ -4227,6 +4227,7 @@ deltohedron
 drepanis
 dogvanes
 donacidae
+dolisie
 delubra
 diabolonian
 delude
@@ -15244,7 +15245,6 @@ dioritic
 depreciated
 downing
 defamers
-dolisie
 deny
 disyllabized
 dolite
