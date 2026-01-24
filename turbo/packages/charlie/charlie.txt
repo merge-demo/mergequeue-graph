@@ -6434,6 +6434,7 @@ compurgatorial
 collocationable
 cautioner
 cautioners
+conclusum
 caff
 cornutus
 cienega
@@ -21452,7 +21453,6 @@ cementlike
 cyetic
 conclusory
 calybite
-conclusum
 caseful
 chapellage
 concoagulate
