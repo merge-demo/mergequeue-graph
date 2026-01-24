@@ -1034,7 +1034,6 @@ calastic
 calathea
 calathi
 calathidia
-chamberlainship
 calathiform
 calathiscus
 calathos
@@ -17292,6 +17291,7 @@ cinnamoned
 chronist
 coamings
 caryophyllous
+chamberlainship
 couter
 centum
 comprehensives
