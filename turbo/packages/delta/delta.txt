@@ -2309,6 +2309,7 @@ digestors
 dynamical
 deliberant
 decentralising
+deringa
 duckhunting
 decentralize
 dewatering
@@ -6149,7 +6150,6 @@ deriding
 divertor
 dwells
 diplegic
-deringa
 diffuseness
 demonstrability
 did
