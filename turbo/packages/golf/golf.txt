@@ -1983,7 +1983,6 @@ grounds
 gleefully
 goosewing
 gaspingly
-galleass
 goutify
 galatian
 gars
@@ -3468,6 +3467,7 @@ genipaps
 geometrised
 gnathotheca
 gutter
+galleass
 gussied
 gestical
 gummage
