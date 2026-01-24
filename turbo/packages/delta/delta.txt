@@ -5494,7 +5494,6 @@ deuteronomy
 departmentally
 discomfits
 depancreatize
-depending
 devilries
 drawrod
 drainermen
@@ -16309,6 +16308,7 @@ dvaita
 downpipe
 downplay
 downplays
+depending
 dozenth
 disagreeable
 decidability

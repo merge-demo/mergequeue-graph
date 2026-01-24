@@ -796,7 +796,6 @@ flunker
 feudal
 folkloric
 footworn
-fulmen
 flogging
 fatality
 fibbed
@@ -2882,6 +2881,7 @@ fimbricate
 featuring
 feudalists
 fractionising
+fulmen
 freetrader
 funkers
 fulham
