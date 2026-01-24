@@ -2332,7 +2332,6 @@ feoffs
 fasciole
 fra
 fiftyfold
-footstalk
 formalizing
 fer
 firecoat
@@ -9157,6 +9156,7 @@ fiaschi
 fashionableness
 florification
 feat
+footstalk
 foveole
 folded
 federations
