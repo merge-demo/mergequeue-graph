@@ -1332,6 +1332,7 @@ flear
 flirtation
 fluoridised
 flookan
+faverole
 flout
 functionality
 fallowness
@@ -8267,7 +8268,6 @@ fistulated
 fulltime
 feckly
 fructuose
-faverole
 fractionalizing
 filix
 friction

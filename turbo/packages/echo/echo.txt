@@ -7554,7 +7554,6 @@ ependyma
 endomysium
 endovenous
 equivalently
-equalling
 extemporal
 epichondrosis
 epichordal
@@ -10575,6 +10574,7 @@ elevates
 excursionary
 encoffinment
 egged
+equalling
 ethylenic
 ephectic
 eckehart
