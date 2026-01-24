@@ -12394,7 +12394,6 @@ electrolyze
 epistemonic
 eucleidae
 earn
-encephalology
 ephemerida
 exposures
 exhibition
@@ -13229,6 +13228,7 @@ explanting
 explat
 empurples
 exertive
+encephalology
 ety
 endemical
 ethize
