@@ -2557,7 +2557,6 @@ edits
 elections
 euonymous
 endosmose
-encomiologic
 expeditely
 escadrilles
 exorcist
@@ -10836,6 +10835,7 @@ endostomata
 envineyard
 elaeoblastic
 enchase
+encomiologic
 epiboly
 euphotic
 entailable

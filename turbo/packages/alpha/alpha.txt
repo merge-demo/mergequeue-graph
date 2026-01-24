@@ -8419,7 +8419,6 @@ alkanethiol
 antherine
 antinomy
 amebocyte
-autophyllogeny
 acanthosis
 alkapton
 alkaptone
@@ -13569,6 +13568,7 @@ apostasis
 ambuscading
 annulosa
 antings
+autophyllogeny
 annuls
 adorableness
 aboundingly
