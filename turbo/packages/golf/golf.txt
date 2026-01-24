@@ -1147,7 +1147,6 @@ gastronomics
 galyac
 groupment
 gunpowder
-granddam
 gypsologist
 gravamens
 guava
@@ -4216,6 +4215,7 @@ gynecological
 gramineousness
 glutaminic
 gaunty
+granddam
 gigglers
 goon
 gantleting
