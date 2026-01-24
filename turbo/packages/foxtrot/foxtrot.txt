@@ -2952,6 +2952,7 @@ foretopmen
 follower
 francium
 flanned
+fruity
 freethinker
 ferrels
 fellies
@@ -6900,7 +6901,6 @@ folklores
 fp
 fow
 facelessness
-fruity
 fifes
 felafel
 flintwood
