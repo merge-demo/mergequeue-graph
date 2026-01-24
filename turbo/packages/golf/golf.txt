@@ -2781,7 +2781,6 @@ growling
 gimmor
 gascoigny
 greatcoat
-gyro
 guydom
 gramophonist
 gyne
@@ -10562,6 +10561,7 @@ gurmukhi
 grasshouse
 gneissitic
 greenwithe
+gyro
 gatewoman
 grenadiership
 grommets
