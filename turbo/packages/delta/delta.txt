@@ -565,7 +565,6 @@ damars
 decoratory
 devocate
 doesnt
-delivers
 dromon
 disbursable
 disfranchiser
@@ -9087,6 +9086,7 @@ depickle
 decongestants
 dunted
 desynaptic
+delivers
 damie
 didactical
 didacticality
