@@ -4142,6 +4142,7 @@ frenula
 fulk
 felonry
 fatling
+faradonervous
 fenchyl
 feezed
 fireboy
@@ -10051,7 +10052,6 @@ familistical
 fascinated
 figure
 funnelled
-faradonervous
 fleyed
 foretaste
 foamiest
