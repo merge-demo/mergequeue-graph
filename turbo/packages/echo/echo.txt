@@ -2450,7 +2450,6 @@ encratite
 exciple
 ebonist
 electroencephalographical
-egualmente
 essentialize
 electionary
 evoker
@@ -5097,6 +5096,7 @@ engirt
 esterifies
 endocrines
 endocrinic
+egualmente
 existentialistic
 emergencies
 entogenous

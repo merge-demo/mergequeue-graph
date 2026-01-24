@@ -24403,7 +24403,6 @@ cooniness
 challenge
 coontah
 collaborateur
-coop
 christs
 concertanto
 cooped
@@ -29380,6 +29379,7 @@ consolidationist
 cryptos
 cryptoscope
 cryptoscopy
+coop
 cryptosplenetic
 canonicalizing
 cavaedium
