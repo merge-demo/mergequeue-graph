@@ -1302,6 +1302,7 @@ dandyism
 disking
 datsuns
 duplify
+dissemblance
 digitise
 demigardebras
 dissyllabize
@@ -15406,7 +15407,6 @@ demineralizer
 detectivism
 domification
 distoma
-dissemblance
 decempedate
 dynamize
 dedications
