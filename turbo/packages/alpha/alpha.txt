@@ -3235,7 +3235,6 @@ antilevelling
 accusatorial
 aleberry
 agitprop
-astropectinidae
 acupuncturator
 acupuncture
 abonne
@@ -5237,6 +5236,7 @@ anticlinal
 anapophysial
 ammonifier
 affine
+astropectinidae
 amidist
 antiatheistically
 affined
