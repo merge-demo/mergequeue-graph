@@ -6728,7 +6728,6 @@ griped
 garvanzo
 gonionia
 genericness
-guib
 glaciers
 ganam
 gestatorial
@@ -6958,6 +6957,7 @@ geason
 goofiness
 grafter
 grutching
+guib
 grassflat
 gaseousness
 guayabera
