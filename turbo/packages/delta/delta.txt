@@ -11398,6 +11398,7 @@ dastardy
 dockyard
 daleths
 dissuader
+disserted
 demivotary
 determinoid
 debug
@@ -17909,7 +17910,6 @@ dejectedly
 donate
 duenas
 duenesses
-disserted
 diddles
 duennas
 datable
