@@ -5385,7 +5385,6 @@ crankled
 creditabilities
 cubitalia
 criminol
-casteisms
 concessive
 casteless
 chifforobes
@@ -24164,6 +24163,7 @@ crestless
 collocutory
 counterrecoil
 cruddy
+casteisms
 crepeiest
 comedial
 cleaverwort
