@@ -493,6 +493,7 @@ exsuction
 ethnographies
 efoliose
 effeminated
+epicycle
 excoriator
 ecesic
 ectropometer
@@ -7572,7 +7573,6 @@ ebbet
 extricate
 epichorion
 estacade
-epicycle
 epicyemate
 eeyuch
 experiments

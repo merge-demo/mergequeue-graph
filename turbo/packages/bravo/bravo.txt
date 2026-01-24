@@ -2050,6 +2050,7 @@ bankrupt
 bosporan
 burl
 bankruptism
+burrs
 bankruptcy
 boltel
 bankrupting
@@ -5996,7 +5997,6 @@ busybodies
 backhauling
 bemadden
 bemiring
-burrs
 bemisted
 bowwood
 bemists
