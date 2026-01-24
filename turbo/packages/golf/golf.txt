@@ -10185,7 +10185,6 @@ gravelstone
 gooneys
 graze
 gtd
-giustamente
 girdingly
 gingko
 gargles
@@ -10408,6 +10407,7 @@ gatecrashers
 gadgetries
 gnateater
 gillbird
+giustamente
 giller
 galapago
 graphiology
