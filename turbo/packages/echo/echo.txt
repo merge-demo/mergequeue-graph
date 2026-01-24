@@ -3982,7 +3982,6 @@ emparchment
 exaltative
 enruin
 expiations
-egalite
 extramodal
 empatron
 extemporizes
@@ -7521,6 +7520,7 @@ employs
 exstemporaneous
 exocarp
 epicede
+egalite
 eroticomaniac
 epicedia
 ecuadoran
