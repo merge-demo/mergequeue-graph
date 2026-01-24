@@ -7338,7 +7338,6 @@ enstranged
 eyries
 epee
 epeeist
-exstipulate
 epeiric
 exciseman
 enunciate
@@ -13503,6 +13502,7 @@ editing
 etruscologist
 enflowered
 evaporite
+exstipulate
 erythrophagous
 eristic
 epitomic
