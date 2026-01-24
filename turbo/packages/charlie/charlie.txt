@@ -6137,6 +6137,7 @@ catso
 catsos
 carloadings
 catspaw
+clarifying
 catstane
 catstick
 ciderkin
@@ -15453,7 +15454,6 @@ clarification
 clarifier
 clarifiers
 chiefry
-clarifying
 chivalrously
 cantrap
 clarin
