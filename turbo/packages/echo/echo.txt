@@ -13212,6 +13212,7 @@ enrheum
 exsiccated
 ekphorias
 enzooty
+entocuneiform
 epheboi
 explainable
 expropriated
@@ -14137,7 +14138,6 @@ ebonizing
 ephemerality
 enplanement
 enlard
-entocuneiform
 excussion
 endearment
 epitaphic
