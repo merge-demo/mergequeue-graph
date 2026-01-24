@@ -10983,7 +10983,6 @@ counterprophet
 caphite
 cavascope
 canvaslike
-chiropodistry
 callan
 chiropodists
 cfh
@@ -15272,6 +15271,7 @@ capricornus
 clamjamfery
 compupil
 clammed
+chiropodistry
 caramelizes
 clammy
 cardiagraph
