@@ -6524,6 +6524,7 @@ buster
 bushelful
 blenniiformes
 bolar
+benumbment
 berakah
 breadstuff
 belowground
@@ -14717,7 +14718,6 @@ biobibliographic
 bowpots
 bowlings
 brattled
-benumbment
 bratwurst
 brauna
 burgheristh
