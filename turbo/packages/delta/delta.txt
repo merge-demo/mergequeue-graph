@@ -5689,7 +5689,6 @@ decasyllabic
 demit
 deplorability
 duals
-deplorableness
 disrepair
 deplore
 deplumated
@@ -15174,6 +15173,7 @@ dolently
 duodecuple
 disensoul
 decalcifying
+deplorableness
 dedolomitizing
 dewal
 descriptionist
