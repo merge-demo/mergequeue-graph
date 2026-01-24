@@ -578,7 +578,6 @@ electrodynamics
 effable
 endophyllaceae
 estancia
-equipt
 emblematize
 epizoarian
 echoing
@@ -10827,6 +10826,7 @@ exemplars
 enoptromancy
 engine
 electrocuting
+equipt
 execrates
 etherealising
 eupepticity
