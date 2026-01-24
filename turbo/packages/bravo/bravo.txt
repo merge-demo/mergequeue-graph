@@ -3201,6 +3201,7 @@ beknave
 baclava
 bravish
 basidiospore
+biolite
 basidiosporous
 buckbush
 batiked
@@ -5396,7 +5397,6 @@ blastomycotic
 bakshish
 begummed
 boat
-biolite
 barbacoa
 behallow
 bedin
