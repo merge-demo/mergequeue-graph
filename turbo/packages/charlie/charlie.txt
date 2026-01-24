@@ -21084,7 +21084,6 @@ caulked
 chargfaires
 coms
 comsat
-clostridial
 competingly
 cotrustee
 cray
@@ -28537,6 +28536,7 @@ cassada
 credentialed
 carrot
 countercampaign
+clostridial
 croomia
 cystines
 credently
