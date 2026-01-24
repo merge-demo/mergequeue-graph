@@ -1548,6 +1548,7 @@ dicranoid
 doubtfulness
 deactivators
 distressedness
+dissight
 drail
 deadlier
 deaden
@@ -9621,7 +9622,6 @@ despot
 dihydroergotamine
 destructs
 diplexer
-dissight
 dipoles
 dexterous
 dihydrostreptomycin
