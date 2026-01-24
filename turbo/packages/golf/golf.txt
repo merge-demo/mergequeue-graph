@@ -2770,7 +2770,6 @@ gabies
 governably
 glassie
 gelee
-greenhearted
 gantlope
 grimsir
 golandause
@@ -5185,6 +5184,7 @@ groundline
 gaffer
 gleety
 glottidean
+greenhearted
 glottiscope
 gastriloquist
 gibbals
