@@ -11357,7 +11357,6 @@ dissimulator
 disci
 diabases
 dermatocele
-disciflorae
 disunifying
 dispensating
 dissociably
@@ -16799,6 +16798,7 @@ disposability
 desisted
 decolorate
 demirobe
+disciflorae
 dyscrasial
 detritivorous
 dichroscopic
