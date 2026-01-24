@@ -14088,6 +14088,7 @@ circiter
 counterapproach
 calvity
 cattie
+cloisters
 claudia
 catskin
 cardcastle
@@ -20368,7 +20369,6 @@ communistic
 communists
 communital
 coetaneousness
-cloisters
 communitarianism
 community
 communitive
