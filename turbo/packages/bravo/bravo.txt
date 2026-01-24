@@ -3443,6 +3443,7 @@ boughpot
 bef
 bastite
 brushfire
+barbated
 brigade
 basto
 baguios
@@ -15955,7 +15956,6 @@ bucrania
 bromoprotein
 baham
 boomtown
-barbated
 brainlike
 bathroomed
 blattering
