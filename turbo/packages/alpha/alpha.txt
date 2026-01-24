@@ -3495,6 +3495,7 @@ allegation
 anutraminosa
 addlehead
 addleheadedness
+apostrophe
 addleness
 abscissa
 activists
@@ -5248,7 +5249,6 @@ alemanni
 aggerate
 affinities
 affinition
-apostrophe
 affinitive
 affirmable
 affirmably
