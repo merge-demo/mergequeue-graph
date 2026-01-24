@@ -3663,7 +3663,6 @@ caraipi
 carlish
 cucumiform
 caraja
-carajas
 carambole
 coextensively
 caramboling
@@ -13638,6 +13637,7 @@ coattests
 chalazal
 cristi
 chairwoman
+carajas
 chalkboards
 coppras
 chiropraxis
