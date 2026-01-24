@@ -324,6 +324,7 @@ fessed
 fittage
 fornicatory
 fplot
+farles
 feods
 forces
 fail
@@ -7069,7 +7070,6 @@ floweriest
 fossiform
 fanger
 forcut
-farles
 freighter
 fluentness
 felix
