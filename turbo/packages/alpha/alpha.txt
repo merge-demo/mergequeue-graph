@@ -4993,7 +4993,6 @@ abv
 aerophysics
 areolation
 apologising
-alkylogen
 anile
 aerophyte
 airfield
@@ -22879,6 +22878,7 @@ atmosphereless
 announces
 almendro
 antidyscratic
+alkylogen
 apochromat
 axometry
 algefacient
