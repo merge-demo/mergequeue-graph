@@ -3714,7 +3714,6 @@ dehisce
 dasymeter
 dichromism
 deglutinate
-depot
 domitic
 delegated
 dehkan
@@ -5846,6 +5845,7 @@ definitiveness
 diagnoses
 depreciation
 deleting
+depot
 droning
 droshky
 depredatory
