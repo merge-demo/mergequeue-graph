@@ -25490,6 +25490,7 @@ corolliferous
 corollifloral
 chincona
 capsidae
+cheder
 corollitic
 cespitose
 cochlitis
@@ -29751,7 +29752,6 @@ conjoining
 cactales
 croodle
 challenged
-cheder
 colpheg
 cibaries
 crura
