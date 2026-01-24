@@ -15168,6 +15168,7 @@ amphimictical
 aberrometer
 amil
 arachnoidea
+autochronograph
 arctocephalus
 abbreviature
 airframe
@@ -25106,7 +25107,6 @@ atwirl
 apodematal
 accusativeness
 acropetally
-autochronograph
 afflictively
 anthyllis
 aeolopantalon
