@@ -1846,7 +1846,6 @@ brigading
 baroscope
 broadlings
 befogging
-barkinji
 bandfile
 bandh
 burdon
@@ -6028,6 +6027,7 @@ blephariglottis
 buttstrap
 blacktail
 bemuddlement
+barkinji
 battarismus
 bemuddles
 bemuddling
