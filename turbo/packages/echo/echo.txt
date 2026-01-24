@@ -1923,7 +1923,6 @@ eluants
 eyeleted
 enabled
 estoppal
-elaphe
 essenical
 ejected
 epitasis
@@ -5831,6 +5830,7 @@ elia
 esox
 engrandize
 ebrillade
+elaphe
 ectogeneous
 ecesis
 engrandizement
