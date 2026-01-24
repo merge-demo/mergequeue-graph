@@ -2287,6 +2287,7 @@ galidictis
 ganofs
 gelant
 gadgeteers
+gastrochaenidae
 ganta
 granulation
 graduates
@@ -8063,7 +8064,6 @@ gapeworm
 graduality
 gulch
 grayhound
-gastrochaenidae
 guacharo
 gourdworm
 grantia
