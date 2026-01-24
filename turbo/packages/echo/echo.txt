@@ -4587,7 +4587,6 @@ efficaciously
 enchymatous
 ervenholder
 ephebeia
-emony
 estimably
 epithalamic
 enchytraeid
@@ -8843,6 +8842,7 @@ egregiousness
 endocellular
 eoith
 eremitism
+emony
 euploidy
 ecuelling
 epitheloid
