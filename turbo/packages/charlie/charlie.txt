@@ -15702,7 +15702,6 @@ cothurnian
 controllingly
 clavered
 chivvies
-clavi
 cerithioid
 chirres
 clavy
@@ -29929,6 +29928,7 @@ criolla
 containments
 crossleted
 coelenterata
+clavi
 chopfallen
 cuculidae
 crosslight
