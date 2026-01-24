@@ -494,7 +494,6 @@ betweentimes
 bromacetone
 buffo
 backstaff
-bridely
 blathering
 bahoo
 blumed
@@ -15380,6 +15379,7 @@ buggiest
 briered
 brandless
 brainwasher
+bridely
 bagatelles
 brierroot
 butterfingers
