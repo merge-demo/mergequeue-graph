@@ -5842,7 +5842,6 @@ barbermonger
 blacklisted
 boozily
 bellyland
-bellyman
 biunique
 biogenetical
 balopticon
@@ -7066,6 +7065,7 @@ bola
 byre
 beknots
 biodegrade
+bellyman
 barbute
 billiardist
 besouth

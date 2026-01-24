@@ -5314,7 +5314,6 @@ granulite
 gitter
 goodnesses
 gelandejump
-gunplays
 glazework
 gutting
 guanajuatite
@@ -10668,6 +10667,7 @@ glyphographic
 germicide
 generalty
 glycerols
+gunplays
 gurnard
 gib
 gastroenteroptosis
