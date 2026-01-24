@@ -22081,7 +22081,6 @@ conformably
 conformal
 complexed
 crosstalk
-cloyne
 consistence
 corcass
 cataclasmic
@@ -23017,6 +23016,7 @@ consomme
 consommes
 consonance
 consonancy
+cloyne
 consonant
 consonantal
 consonantalize
