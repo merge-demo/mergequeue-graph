@@ -4794,6 +4794,7 @@ faunus
 fishberries
 foveolet
 flinthead
+friskers
 fleay
 fainer
 foil
@@ -5065,7 +5066,6 @@ fidejussion
 frangipane
 fecundated
 flavaniline
-friskers
 fluidacetextract
 fitout
 freighting
