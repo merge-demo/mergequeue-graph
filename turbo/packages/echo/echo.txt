@@ -1618,7 +1618,6 @@ extraphysiological
 expounded
 egret
 euphony
-exsanguine
 egromancy
 emptiness
 egurgitate
@@ -8678,6 +8677,7 @@ evangelists
 emendations
 endophyllous
 erotical
+exsanguine
 euphemizing
 epilepsy
 ejecta
