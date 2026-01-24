@@ -1959,6 +1959,7 @@ forworn
 formulization
 fishlet
 flagellantism
+ferule
 femoropopliteal
 fowlery
 foreknower
@@ -10836,7 +10837,6 @@ fumose
 falutin
 fulfillment
 flavorous
-ferule
 fulfillments
 fennici
 fdtype
