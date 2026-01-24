@@ -3813,6 +3813,7 @@ cysticarpic
 carbohydraturia
 cameoed
 chalkier
+cupeling
 chorioid
 carbohydride
 carbohydrogen
@@ -4952,7 +4953,6 @@ circumambages
 cartelist
 costars
 cartelistic
-cupeling
 cassava
 carter
 clown
