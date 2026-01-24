@@ -6080,6 +6080,7 @@ cotylosacral
 candify
 catlike
 crowns
+cabinets
 catling
 catlings
 cairds
@@ -22621,7 +22622,6 @@ connochaetes
 counterpleading
 casuarinaceae
 clowning
-cabinets
 connotate
 connotation
 ceratitoid
