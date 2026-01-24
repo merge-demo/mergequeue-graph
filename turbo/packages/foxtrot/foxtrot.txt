@@ -7934,6 +7934,7 @@ foreshortened
 foreshadow
 frisket
 fingerboard
+fruitfullness
 foreshadowed
 featherman
 flammivomous
@@ -9544,7 +9545,6 @@ fermenter
 freckle
 furnace
 fieldmouse
-fruitfullness
 flasks
 financier
 formative
