@@ -6476,7 +6476,6 @@ descendable
 dimensioned
 dentellated
 disqualification
-delignated
 disomatous
 descendent
 dalesfolk
@@ -10115,6 +10114,7 @@ dynes
 ductilized
 deminatured
 dinetic
+delignated
 dinette
 denazifies
 dissentiency
