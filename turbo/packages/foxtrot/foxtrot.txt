@@ -1575,6 +1575,7 @@ feaster
 financiers
 froufrous
 fortyfold
+foiler
 frey
 flights
 fazenda
@@ -2411,7 +2412,6 @@ falsiteit
 fashionable
 fifie
 ferlying
-foiler
 ferling
 furls
 fatidical
