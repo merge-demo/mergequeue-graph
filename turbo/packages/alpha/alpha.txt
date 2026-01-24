@@ -11846,7 +11846,6 @@ abortively
 ankylenteron
 anamorphosis
 accurre
-acetarious
 aspermatous
 autochromy
 ananaples
@@ -12052,6 +12051,7 @@ anastrophy
 advocator
 advisements
 activital
+acetarious
 anat
 anatase
 ardebs

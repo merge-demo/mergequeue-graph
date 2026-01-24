@@ -7341,7 +7341,6 @@ gamming
 gullishness
 gardenful
 gossipped
-gallberry
 gonorrhoeic
 gonococcic
 glochidial
@@ -8423,6 +8422,7 @@ goldbricks
 glaciarium
 goonch
 gratuitant
+gallberry
 glossograph
 grenatite
 guaguanche
