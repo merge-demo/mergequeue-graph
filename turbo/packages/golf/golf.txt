@@ -6248,7 +6248,6 @@ gobbles
 goolde
 ginzoes
 gerahs
-gullable
 gobies
 gallify
 gasogenes
@@ -6616,6 +6615,7 @@ gitterns
 gangliform
 geostrategic
 gamboller
+gullable
 glottitis
 glossolabiopharyngeal
 grumped
