@@ -4581,7 +4581,6 @@ ethologically
 eucryphiaceae
 epistolean
 erethizontidae
-equitably
 epilimnion
 echevin
 exeunt
@@ -6364,6 +6363,7 @@ episcopize
 eprouvette
 enshrined
 enshrinement
+equitably
 enterochromaffin
 embars
 enshrinements
