@@ -390,7 +390,6 @@ fairfieldite
 facets
 florences
 faceoff
-fancifully
 fairground
 fairy
 foresettle
@@ -11604,6 +11603,7 @@ frough
 frack
 forewinning
 fulgour
+fancifully
 formulizer
 fermata
 feinschmecker
