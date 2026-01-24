@@ -12460,7 +12460,6 @@ anemochord
 anemochore
 aleutic
 aforehand
-anaboly
 appropriated
 aimlessness
 antipacifist
@@ -24259,6 +24258,7 @@ automaticity
 aperu
 antidogmatically
 allowing
+anaboly
 antepatriarchal
 antronasal
 automatizes
