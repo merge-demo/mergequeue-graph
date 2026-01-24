@@ -796,7 +796,6 @@ defs
 dispurpose
 drawn
 devolatilize
-dacryocystotomy
 dandles
 discute
 delirament
@@ -3632,6 +3631,7 @@ dermatoplasty
 dawish
 diploic
 deprogrammer
+dacryocystotomy
 depreciators
 dunt
 deglutition
