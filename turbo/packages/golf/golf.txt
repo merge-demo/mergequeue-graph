@@ -5982,7 +5982,6 @@ graspless
 gnarls
 gaidropsaridae
 gravelweed
-geminative
 gingerwork
 guard
 gutturonasal
@@ -10776,6 +10775,7 @@ gandered
 goadlike
 gignitive
 gamesomely
+geminative
 guttated
 gorki
 gaffs
