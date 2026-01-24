@@ -60,6 +60,7 @@ argusfish
 arcadian
 abaiser
 abbadide
+annotates
 avery
 androgynic
 anticreative
@@ -8957,7 +8958,6 @@ allothogenic
 astrakanite
 angora
 allotypes
-annotates
 acidified
 anthroropolith
 angelon
