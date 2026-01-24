@@ -3007,7 +3007,6 @@ fairyfolk
 frenchen
 fissioned
 forensical
-friendlies
 forhoo
 fibbers
 fustin
@@ -7278,6 +7277,7 @@ fameuse
 fancysick
 fortlet
 fronture
+friendlies
 federalise
 footwarmer
 focalized
