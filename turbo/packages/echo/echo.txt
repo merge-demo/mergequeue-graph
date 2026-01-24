@@ -13172,7 +13172,6 @@ equiconvex
 erythea
 erotisms
 enfeature
-episcotister
 entailment
 enties
 expiation
@@ -14145,6 +14144,7 @@ encomium
 electly
 electroextraction
 electrologist
+episcotister
 expromission
 ecoles
 enigmatology
