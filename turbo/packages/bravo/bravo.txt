@@ -11597,7 +11597,6 @@ bathers
 bighorns
 becomma
 badgeman
-baggageman
 boa
 budgeted
 bisontine
@@ -12620,6 +12619,7 @@ bellware
 bonxie
 brineman
 boucher
+baggageman
 bistriazole
 blithers
 bookworms
