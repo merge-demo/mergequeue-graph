@@ -14785,7 +14785,6 @@ anticeremoniously
 anticeremoniousness
 aristocratic
 aloofness
-antichamber
 antheridium
 allogenically
 archicleistogamy
@@ -19885,6 +19884,7 @@ avn
 autor
 analogized
 arminianize
+antichamber
 arminianizer
 armipotence
 arfvedsonite
