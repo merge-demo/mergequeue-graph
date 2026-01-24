@@ -851,7 +851,6 @@ cainian
 cainish
 copepod
 contaminated
-carburation
 cainite
 charbroils
 cainitic
@@ -9316,6 +9315,7 @@ cerris
 custos
 chauk
 calodaemon
+carburation
 catagmatic
 chaukidari
 castrate
