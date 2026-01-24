@@ -16206,7 +16206,6 @@ ailerons
 alkalinised
 adipomatous
 antisquatting
-athymy
 airbound
 afara
 antistadholder
@@ -21826,6 +21825,7 @@ apparencies
 alloeotic
 appetibility
 auguries
+athymy
 antimethod
 antifertilizer
 abaxial
