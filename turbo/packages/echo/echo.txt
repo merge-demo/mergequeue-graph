@@ -10252,7 +10252,6 @@ esperanto
 exasperated
 epigenous
 emanationist
-exiture
 esponton
 eucalypteol
 exculpates
@@ -12604,6 +12603,7 @@ eyeserver
 exocrines
 emanative
 ectethmoid
+exiture
 endostoma
 enriches
 effectualness
