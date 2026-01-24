@@ -2503,7 +2503,6 @@ autoserum
 acolhuan
 absciss
 amidate
-arthropleura
 archdissembler
 autosymbiontic
 antluetic
@@ -6948,6 +6947,7 @@ antipatharian
 antisemitism
 arsenophagy
 absolute
+arthropleura
 ajitter
 ajiva
 astrolabical
