@@ -4281,7 +4281,6 @@ gingered
 gaugeable
 guss
 glendover
-garrulity
 glomerular
 gumbo
 gingerness
@@ -9723,6 +9722,7 @@ georgiana
 gandurah
 gambades
 grocerwise
+garrulity
 glossaries
 gelants
 gaelicism
