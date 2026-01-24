@@ -799,6 +799,7 @@ epispadias
 efficiencies
 edaphically
 euglenidae
+enterograph
 ectypal
 ectype
 epicarpal
@@ -1142,7 +1143,6 @@ enterobiasis
 edomitish
 eutomous
 exorbitate
-enterograph
 edoni
 excisemen
 entrochite
