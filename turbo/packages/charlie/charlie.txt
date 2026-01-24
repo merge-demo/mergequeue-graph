@@ -2031,7 +2031,6 @@ cassique
 camises
 chloroaurite
 cytosin
-cognominally
 camisole
 cautela
 cosmolabe
@@ -29421,6 +29420,7 @@ crispier
 cryptophyte
 carcinolytic
 contemporizing
+cognominally
 crispiest
 curtelace
 crispin
