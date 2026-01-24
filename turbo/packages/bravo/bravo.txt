@@ -5383,7 +5383,6 @@ boggishness
 branchiopodous
 begruntle
 biographical
-begrutten
 beguess
 beguilement
 biunial
@@ -9528,6 +9527,7 @@ birthed
 budgerigars
 bakairi
 byrthynsak
+begrutten
 basilyst
 birthless
 bathkol

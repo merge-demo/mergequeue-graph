@@ -9619,7 +9619,6 @@ cubiculary
 contrabandism
 cheered
 cheerfulize
-cheerfuller
 columbier
 combatted
 carceral
@@ -17958,6 +17957,7 @@ cecum
 cattlehide
 coelenterate
 catharses
+cheerfuller
 crotin
 coelenterates
 coelenteric
