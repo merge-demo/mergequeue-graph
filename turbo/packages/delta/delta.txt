@@ -8264,6 +8264,7 @@ draped
 disputableness
 diagonal
 diagonalizable
+diplogenesis
 diagnosing
 duel
 denude
@@ -10569,7 +10570,6 @@ dispensive
 dependable
 debouched
 decorticate
-diplogenesis
 deseam
 dirges
 doxographical
