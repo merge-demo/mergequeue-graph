@@ -4595,7 +4595,6 @@ ballbuster
 bedazzles
 bedazzlingly
 bibliopolery
-beckon
 baptise
 bedbugs
 boden
@@ -5129,6 +5128,7 @@ bartered
 bhangs
 bombshells
 beflowered
+beckon
 biotas
 batta
 befuddles
