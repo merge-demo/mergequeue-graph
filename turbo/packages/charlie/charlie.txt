@@ -8588,7 +8588,6 @@ complementaries
 cohesionless
 changelessness
 changelings
-changement
 cuissard
 changeovers
 chiefs
@@ -31690,6 +31689,7 @@ cushionless
 ciruses
 cushionlike
 cushions
+changement
 cushitic
 costotransverse
 cusie

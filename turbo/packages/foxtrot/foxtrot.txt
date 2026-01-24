@@ -214,7 +214,6 @@ faire
 flatway
 facular
 fruitworm
-foliolate
 feverroot
 fluorotype
 firelock
@@ -4155,6 +4154,7 @@ fraticelli
 firebomb
 fakiness
 fractionlet
+foliolate
 faithwise
 figuredly
 forthrights
