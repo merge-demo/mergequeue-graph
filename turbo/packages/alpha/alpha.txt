@@ -9165,7 +9165,6 @@ almury
 alnage
 alnaschar
 aposiopestic
-astracism
 awest
 alethic
 authenticating
@@ -9356,6 +9355,7 @@ aerobated
 assessments
 accumulates
 alraun
+astracism
 alreadiness
 anthill
 alruna
