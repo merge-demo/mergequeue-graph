@@ -1052,6 +1052,7 @@ farinometer
 farinose
 founce
 flannelly
+fubby
 flourishing
 foussa
 fulfill
@@ -7634,7 +7635,6 @@ filling
 fools
 faluns
 fordays
-fubby
 fatiscent
 foetiparous
 forefield
