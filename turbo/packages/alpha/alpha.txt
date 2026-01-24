@@ -6167,7 +6167,6 @@ avirulent
 amazing
 annexer
 activable
-amphioxis
 audile
 amyluria
 alchemise
@@ -12344,6 +12343,7 @@ androclinia
 atrabilaire
 apprest
 abjection
+amphioxis
 androclinium
 aquilon
 androclus

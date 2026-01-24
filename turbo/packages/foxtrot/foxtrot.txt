@@ -826,7 +826,6 @@ firmans
 flusher
 florilege
 faucial
-faun
 fumigating
 fraist
 fecundating
@@ -4384,6 +4383,7 @@ factually
 fearers
 fraus
 fealties
+faun
 feinschmeckers
 fishes
 filibranchiate
