@@ -7463,7 +7463,6 @@ feminine
 funditores
 furrily
 fantasists
-fumeuse
 fudges
 fossarian
 filer
@@ -8535,6 +8534,7 @@ foederati
 facsimiling
 formols
 fiddledeedee
+fumeuse
 formosity
 fidley
 flailing
