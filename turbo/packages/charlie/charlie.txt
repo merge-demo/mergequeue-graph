@@ -12929,6 +12929,7 @@ concentre
 cuesta
 cia
 crystallised
+chaine
 cyan
 cyanamid
 conspires
@@ -13411,7 +13412,6 @@ christabel
 ciderish
 crozzle
 chapping
-chaine
 chlorinates
 counterturn
 cydippe
