@@ -13937,7 +13937,6 @@ bowwow
 bethels
 bumbershoot
 blitzes
-bibulosity
 becluster
 boxing
 boxmaker
@@ -17248,6 +17247,7 @@ bulten
 bandores
 borsch
 biltongs
+bibulosity
 blanketers
 basongo
 bleachhouse
