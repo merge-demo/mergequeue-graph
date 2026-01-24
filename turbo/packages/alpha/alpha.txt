@@ -4599,7 +4599,6 @@ advocacy
 anahao
 afterspeech
 advocative
-acanthological
 acquests
 aq
 avicularian
@@ -22107,6 +22106,7 @@ aftercast
 asteriidae
 aquatically
 aplasia
+acanthological
 achromatophilic
 abaculus
 antimonarchicalness
