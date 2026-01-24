@@ -5378,7 +5378,6 @@ begrimmed
 baileys
 brachycardia
 biweekly
-berglet
 ballogan
 begrown
 begrudge
@@ -17730,6 +17729,7 @@ blastophaga
 bemuzzled
 bott
 bewinged
+berglet
 bellicoseness
 beknit
 bashaws
