@@ -7623,6 +7623,7 @@ cerebrospinant
 cerebrosuria
 cerebrovascular
 collarets
+cyanophoric
 cerements
 crestal
 caballo
@@ -13022,7 +13023,6 @@ casemented
 craniates
 curies
 cyanophile
-cyanophoric
 chresard
 chickahominy
 cyanoplastid
