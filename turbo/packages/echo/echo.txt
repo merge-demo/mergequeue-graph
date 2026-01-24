@@ -721,6 +721,7 @@ encephalopathic
 elucidated
 exitial
 esthesises
+elementaloid
 edifice
 ensamples
 erythropoietin
@@ -2792,7 +2793,6 @@ erythrosis
 estrangements
 elementalize
 ephori
-elementaloid
 encincture
 eidology
 emperil
