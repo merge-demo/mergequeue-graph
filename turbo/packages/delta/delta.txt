@@ -4521,7 +4521,6 @@ demiman
 dali
 detax
 drooled
-dungyard
 disproportionality
 derided
 dibranchiata
@@ -12851,6 +12850,7 @@ dirhem
 dismarket
 dispence
 dunnages
+dungyard
 dicotyledon
 devotionally
 dominial
