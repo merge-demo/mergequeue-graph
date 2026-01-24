@@ -2880,7 +2880,6 @@ farsightedly
 flows
 floorcloth
 find
-febricide
 fimbricate
 featuring
 feudalists
@@ -5694,6 +5693,7 @@ fitroot
 flurry
 flippancies
 freshness
+febricide
 ferrary
 fetor
 flirty
