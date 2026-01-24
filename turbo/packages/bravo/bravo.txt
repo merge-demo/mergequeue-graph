@@ -6253,7 +6253,6 @@ bennies
 benomyl
 benightedness
 benorth
-benefact
 beme
 bensall
 barbigerous
@@ -10883,6 +10882,7 @@ bohemianism
 boatwise
 blimey
 braced
+benefact
 brokership
 blattiform
 backpacks
