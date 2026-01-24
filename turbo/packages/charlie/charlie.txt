@@ -4880,6 +4880,7 @@ carrycot
 chromatoplasm
 carried
 carryed
+cleuk
 carrier
 carryings
 carriole
@@ -11990,7 +11991,6 @@ colocates
 congeon
 chorioptic
 choripetalae
-cleuk
 choripetalous
 chirality
 cognizee
