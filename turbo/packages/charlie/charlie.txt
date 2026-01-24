@@ -10100,6 +10100,7 @@ collaudation
 chestnut
 chestnuts
 chet
+comb
 cheth
 communalized
 characteries
@@ -17444,7 +17445,6 @@ cobaea
 corbeil
 cotters
 cobalamin
-comb
 cobalt
 cobaltamine
 complanation
