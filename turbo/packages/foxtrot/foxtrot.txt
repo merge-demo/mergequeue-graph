@@ -3594,6 +3594,7 @@ foregut
 filiformed
 footmaker
 frisbees
+forgivenesses
 farmable
 fridstool
 frictionlessly
@@ -7929,7 +7930,6 @@ foreshortened
 foreshadow
 frisket
 fingerboard
-forgivenesses
 foreshadowed
 featherman
 flammivomous
