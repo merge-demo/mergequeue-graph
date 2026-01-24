@@ -5377,7 +5377,6 @@ gastricism
 gastroesophageal
 gulfside
 ghilzai
-glyoxalic
 galliwasp
 guniter
 gild
@@ -7076,6 +7075,7 @@ gestates
 gasterotrichan
 granger
 gambrels
+glyoxalic
 gopherberry
 gopherberries
 garbologist
