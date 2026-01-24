@@ -6444,6 +6444,7 @@ euphemiser
 eskars
 encroachment
 extensionless
+eyebeam
 embroideries
 elvira
 encephalometer
@@ -10868,7 +10869,6 @@ enshroud
 encores
 euphemistically
 euphemize
-eyebeam
 enneapetalous
 euxine
 equilibrations
