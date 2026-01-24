@@ -8283,7 +8283,6 @@ fishman
 factualistic
 figgy
 freelances
-forgivable
 fluidism
 fortunate
 flirting
@@ -9832,6 +9831,7 @@ friar
 freeboot
 fremitus
 filchingly
+forgivable
 firings
 frogs
 fouler
