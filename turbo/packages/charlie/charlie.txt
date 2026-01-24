@@ -16699,6 +16699,7 @@ clomb
 cloth
 clothe
 clothed
+combater
 confusional
 calathian
 clothesbag
@@ -19712,7 +19713,6 @@ chroma
 chrismale
 combatant
 cimbalom
-combater
 cotonier
 combaters
 combating
