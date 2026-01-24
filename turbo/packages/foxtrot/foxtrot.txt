@@ -3882,6 +3882,7 @@ fripperies
 fevertrap
 footslogged
 fluidextract
+forgoer
 findable
 fruz
 familiarize
@@ -8297,7 +8298,6 @@ frontlets
 forgiving
 flintify
 finableness
-forgoer
 fidges
 forgoers
 fetas
