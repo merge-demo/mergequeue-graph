@@ -11269,7 +11269,6 @@ aguador
 amphitene
 amphitheatre
 arrivance
-aglycons
 anilin
 aniliid
 amphithecia
@@ -20188,6 +20187,7 @@ amaryllises
 astern
 acromioclavicular
 arrester
+aglycons
 alphanumerically
 aiglette
 anisalcohol
