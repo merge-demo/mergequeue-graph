@@ -2146,7 +2146,6 @@ gamelang
 gaycat
 gastrotomy
 grainer
-gaze
 genteelly
 gossep
 glout
@@ -6152,6 +6151,7 @@ gargarize
 glamorousness
 gladdening
 goalpost
+gaze
 geopony
 gagster
 geadephaga

@@ -508,7 +508,6 @@ abjurer
 abjurers
 amerism
 abkhasian
-ashtrays
 abl
 asperities
 ablates
@@ -12983,6 +12982,7 @@ archly
 anhaemolytic
 anagrammatism
 agios
+ashtrays
 antiprism
 anhalonin
 anhalonine
