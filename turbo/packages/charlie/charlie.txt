@@ -2092,6 +2092,7 @@ colostric
 campana
 campane
 campanella
+completer
 coadjuvancy
 campania
 cecils
@@ -2307,7 +2308,6 @@ canal
 clerks
 cookeys
 canalatura
-completer
 cromorne
 canalboat
 charales
