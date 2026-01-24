@@ -2510,7 +2510,6 @@ elaeometer
 ecosphere
 epicanthic
 exterminative
-electrokinetics
 elasticum
 electroless
 exsecants
@@ -8003,6 +8002,7 @@ eriosoma
 ernestine
 ecological
 elitism
+electrokinetics
 exorganic
 eolian
 ethicize
