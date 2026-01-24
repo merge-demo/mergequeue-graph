@@ -6827,6 +6827,7 @@ gauntlets
 glucoprotein
 geaster
 genitival
+gynaecia
 grainman
 galeas
 goshen
@@ -8271,7 +8272,6 @@ guaiaconic
 grucche
 gromil
 gaingiving
-gynaecia
 galimatias
 gossiphood
 glod
