@@ -11633,6 +11633,7 @@ chelicerate
 cholerine
 choleroid
 cholerophobia
+cruciferous
 camphylene
 cyanamids
 cholesteatoma
@@ -31647,7 +31648,6 @@ carduelis
 conscripttion
 curvulate
 cuscohygrin
-cruciferous
 cuscus
 cuscuta
 convivio
