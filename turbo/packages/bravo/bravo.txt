@@ -3528,7 +3528,6 @@ backslidden
 bicondylar
 baryons
 becudgel
-bimini
 bathycentesis
 birthy
 benincasa
@@ -15365,6 +15364,7 @@ balsamodendron
 besieges
 bearding
 briefness
+bimini
 bleeds
 bedstaves
 barblet
