@@ -9982,6 +9982,7 @@ ambigu
 anorthitite
 acinacity
 ambilateralaterally
+arteriolar
 annonce
 antipatharia
 ambiopia
@@ -11437,7 +11438,6 @@ aporrhea
 argolic
 antiphilosophism
 acaulose
-arteriolar
 adenophore
 appetites
 algoristic
