@@ -6362,7 +6362,6 @@ agronomy
 automobilistic
 atelene
 agronomists
-antieducationally
 arapaimas
 agrostemma
 acrogamy
@@ -19522,6 +19521,7 @@ argonne
 argons
 argosy
 archaizes
+antieducationally
 acanthuses
 antimediaeval
 argots

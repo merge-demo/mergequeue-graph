@@ -203,7 +203,6 @@ ferrihemoglobin
 frasier
 factrix
 footmanship
-factorials
 fanons
 frass
 fatiscence
@@ -4736,6 +4735,7 @@ fieldstrip
 fingal
 footwalls
 feif
+factorials
 filipino
 faikes
 falsifiability
