@@ -1469,7 +1469,6 @@ fairtime
 fractureproof
 filago
 frameable
-fireside
 furacana
 focussing
 forestial
@@ -11520,6 +11519,7 @@ fistic
 fab
 furtiveness
 frena
+fireside
 foxfeet
 fuselages
 fuselike
