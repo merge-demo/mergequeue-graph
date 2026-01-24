@@ -3873,7 +3873,6 @@ electroculture
 exotheca
 emigrating
 extrajudicial
-enflagellate
 epidotic
 enfeebled
 eclipsis
@@ -8034,6 +8033,7 @@ expansiveness
 expiator
 embarred
 epigrammatizer
+enflagellate
 epiphegus
 enwombed
 eteocles
