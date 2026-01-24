@@ -3434,7 +3434,6 @@ bluebonnet
 bastings
 blepharopyorrhea
 bailiff
-bastions
 boughpot
 bef
 bastite
@@ -10622,6 +10621,7 @@ blazers
 bursts
 borzois
 bridgeheads
+bastions
 bicepses
 blusterous
 bunodonta
