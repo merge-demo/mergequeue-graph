@@ -4948,7 +4948,6 @@ focused
 frappeed
 ferroelectric
 flyswatter
-flibbertigibbety
 figbird
 funiculi
 foundationally
@@ -5001,6 +5000,7 @@ fumatory
 forekeel
 faithbreaker
 fragrance
+flibbertigibbety
 faconne
 fulmarus
 flapdock
