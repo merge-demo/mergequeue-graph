@@ -3536,6 +3536,7 @@ cosmotheistic
 captacula
 captain
 captaincy
+creaturize
 captaincies
 caprioled
 captainry
@@ -28502,7 +28503,6 @@ coruscant
 carapo
 creatureship
 conversibility
-creaturize
 creaze
 crebricostate
 crebrisulcate
