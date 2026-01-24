@@ -1913,7 +1913,6 @@ contraposing
 camboose
 cambouis
 concernedly
-cambresine
 cuir
 calumnia
 cartonnage
@@ -15704,6 +15703,7 @@ cerithioid
 chirres
 clavy
 clavicembalist
+cambresine
 clavicembalo
 claviceps
 caiarara
