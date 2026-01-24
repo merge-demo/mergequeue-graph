@@ -10532,7 +10532,6 @@ escaladed
 endogastritis
 epilachnides
 embowel
-estop
 eucharistial
 eurylaimoid
 eudaemony
@@ -13720,6 +13719,7 @@ epitaxy
 expiatist
 ermanaric
 enfasten
+estop
 epinephelidae
 epiplasm
 equiaxe
