@@ -15489,7 +15489,6 @@ bilboes
 breaststroker
 breadberry
 bodoni
-bummel
 banding
 babyish
 bout
@@ -18009,6 +18008,7 @@ bowled
 boners
 benzophenoxazine
 blanketing
+bummel
 brachypleural
 bonnock
 ballyragging
