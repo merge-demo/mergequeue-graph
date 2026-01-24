@@ -10017,7 +10017,6 @@ fryer
 foollike
 flans
 fringehead
-fringelet
 fruitier
 filibusterism
 fringent
@@ -11653,6 +11652,7 @@ forcingly
 farasula
 fut
 futhorc
+fringelet
 fishwoman
 fleshers
 forepale
