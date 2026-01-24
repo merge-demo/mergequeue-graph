@@ -4243,7 +4243,6 @@ differentials
 dribber
 delusionary
 doctorate
-dumpish
 delusively
 deporting
 dichotomous
@@ -17002,6 +17001,7 @@ disjoined
 diacritically
 displenish
 dregs
+dumpish
 defrication
 dampeners
 disemplaned
