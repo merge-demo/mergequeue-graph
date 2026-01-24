@@ -813,7 +813,6 @@ encrust
 ectypography
 epitheton
 emendable
-entrecote
 exulate
 ectiris
 ectocarpus
@@ -9930,6 +9929,7 @@ exoculated
 enskies
 effemination
 epidermatic
+entrecote
 expiatoriness
 economizer
 etaballi
