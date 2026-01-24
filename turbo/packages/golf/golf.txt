@@ -474,6 +474,7 @@ galeid
 genny
 gyms
 gemmation
+gamotropic
 gerontogeous
 glaucophanite
 gonopoietic
@@ -7406,7 +7407,6 @@ glycines
 gandering
 grizzlies
 greggriffin
-gamotropic
 grewt
 guttule
 guahiban
