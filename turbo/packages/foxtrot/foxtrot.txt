@@ -1825,6 +1825,7 @@ fores
 ferninst
 forbesite
 folkmots
+freshen
 flak
 flaithship
 frustules
@@ -7356,7 +7357,6 @@ flying
 faeces
 fat
 forbborne
-freshen
 feudalism
 fleshly
 forby
