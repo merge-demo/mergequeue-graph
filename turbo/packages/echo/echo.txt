@@ -6745,6 +6745,7 @@ elaborator
 entrechat
 endoceratitic
 enthusiastically
+escribano
 exculpated
 eta
 enthusiastly
@@ -13278,7 +13279,6 @@ endemiology
 egregious
 enflagellation
 extrorsely
-escribano
 exhaustlessness
 exploitatory
 endocrinopath

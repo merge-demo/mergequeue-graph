@@ -10343,7 +10343,6 @@ disassimilate
 dioscurian
 disenfranchised
 diazoanhydride
-dwelling
 discrimination
 dictronics
 diosmosed
@@ -13202,6 +13201,7 @@ depositive
 dhava
 dongolas
 diazole
+dwelling
 duoviri
 dovetailed
 detribalized
