@@ -1878,7 +1878,6 @@ flabellation
 frutify
 fatuously
 fec
-fibrositis
 fight
 floruit
 feelingly
@@ -4973,6 +4972,7 @@ fissive
 filmcard
 flaneur
 frescoes
+fibrositis
 foremartyr
 fiddlewood
 filet
