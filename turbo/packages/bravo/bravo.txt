@@ -5984,7 +5984,6 @@ bouncingly
 bevaring
 bemask
 bricktop
-bossier
 befooling
 brewis
 brasseys
@@ -10577,6 +10576,7 @@ bilo
 blathered
 blathery
 blackprint
+bossier
 baretta
 blathers
 bazookamen
