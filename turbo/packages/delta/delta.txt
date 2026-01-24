@@ -6367,7 +6367,6 @@ derogatory
 dooja
 dischurch
 defrayers
-drawer
 deplorate
 disincorporating
 deferentially
@@ -7380,6 +7379,7 @@ detonize
 detour
 duncifying
 detectability
+drawer
 detouring
 deliriums
 diadoche
