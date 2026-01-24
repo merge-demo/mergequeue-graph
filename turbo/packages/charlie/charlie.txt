@@ -2175,7 +2175,6 @@ camphol
 campholic
 compilatory
 coleorhiza
-camphols
 contemnor
 camphorated
 camphorates
@@ -12172,6 +12171,7 @@ chrysis
 chebulinic
 conjuncted
 cottidae
+camphols
 choregrapher
 chrismation
 chrismatite
