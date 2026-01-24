@@ -5578,7 +5578,6 @@ afterwise
 afterwit
 afterwork
 agathodemon
-apinage
 aint
 afterworld
 antischool
@@ -18749,6 +18748,7 @@ agenesia
 archdetective
 amputee
 apurpose
+apinage
 ammonobasic
 archdiplomatist
 archdivine

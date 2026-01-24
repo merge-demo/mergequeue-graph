@@ -2550,7 +2550,6 @@ childproof
 cacqueteuse
 candlenut
 candlepins
-cerevis
 candler
 candlerent
 concealed
@@ -30870,6 +30869,7 @@ corbeils
 compromissary
 cantut
 culottic
+cerevis
 chitchatted
 culottism
 culpabilis
