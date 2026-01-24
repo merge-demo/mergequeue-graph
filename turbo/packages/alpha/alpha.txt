@@ -4715,7 +4715,6 @@ ambrotype
 aeolist
 aeolus
 aeonicaeonist
-aphrodisia
 alaihi
 abashments
 antefixes
@@ -18958,6 +18957,7 @@ aotearoa
 androginous
 archipin
 archiplasm
+aphrodisia
 alluviums
 anisamide
 alhacena
