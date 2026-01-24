@@ -364,7 +364,6 @@ farandoles
 facsim
 fluids
 flowerily
-fattiness
 flusterer
 forcedness
 favillae
@@ -3345,6 +3344,7 @@ fishermen
 frivols
 filipinos
 follicles
+fattiness
 frothed
 flokite
 frameableness
