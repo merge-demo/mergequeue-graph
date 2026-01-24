@@ -9562,7 +9562,6 @@ forgone
 factabling
 foller
 frederik
-futilitarian
 freightyard
 forwalk
 foolmonger
@@ -11578,6 +11577,7 @@ federalization
 fluence
 fruitlike
 fthm
+futilitarian
 fusionist
 forlanas
 freity
