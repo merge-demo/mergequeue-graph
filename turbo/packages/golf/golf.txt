@@ -1964,6 +1964,7 @@ gripes
 grudged
 ghastlier
 guttable
+gaugership
 gonif
 galician
 goschens
@@ -3674,7 +3675,6 @@ gadgeteer
 ghostland
 grantha
 gabbling
-gaugership
 grumpier
 ghostly
 gaura
