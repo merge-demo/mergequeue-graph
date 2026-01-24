@@ -1885,7 +1885,6 @@ earthstar
 epurate
 eptatretidae
 entrepeneur
-eurythmy
 erasability
 equiseta
 extrovert
@@ -14088,6 +14087,7 @@ extremeless
 etymography
 extremeness
 effeminate
+eurythmy
 ethnologist
 esteem
 evolutionistically
