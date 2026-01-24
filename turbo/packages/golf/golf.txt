@@ -1166,7 +1166,6 @@ genio
 galactometry
 gnetums
 guffin
-gaol
 gulls
 grinners
 galliney
@@ -9936,6 +9935,7 @@ garb
 gumptions
 grilladed
 guarico
+gaol
 graphostatic
 getaways
 grievousness
