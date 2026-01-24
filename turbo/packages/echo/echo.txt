@@ -2482,6 +2482,7 @@ ejecting
 eteostic
 electrogram
 endows
+evangelion
 eupolyzoa
 eleve
 exegete
@@ -7766,7 +7767,6 @@ elementality
 eumeristic
 encyclopaedize
 engjateigur
-evangelion
 excircle
 evanescence
 epigastria
