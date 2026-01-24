@@ -1383,7 +1383,6 @@ fullword
 filicology
 fratchy
 forspoke
-fishboat
 fatly
 floscularia
 februation
@@ -8511,6 +8510,7 @@ formicine
 fayettism
 femorotibial
 floormen
+fishboat
 fashiousness
 fondler
 fluidal
