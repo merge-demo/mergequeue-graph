@@ -12016,6 +12016,7 @@ boyau
 bilinigrin
 boyaux
 bronchostomies
+bombic
 bertin
 bojite
 biscuitry
@@ -17637,7 +17638,6 @@ burgundy
 barragon
 bishareen
 burhel
-bombic
 bisson
 bisie
 bickerers

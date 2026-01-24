@@ -5703,6 +5703,7 @@ amant
 arrowwood
 adaty
 antisacerdotal
+aurelius
 assimilatory
 anabaenas
 agapai
@@ -16410,7 +16411,6 @@ antlophobia
 antocular
 aeneous
 agitationist
-aurelius
 antodontalgic
 antoeci
 antoecian
