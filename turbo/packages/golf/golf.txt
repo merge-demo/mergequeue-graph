@@ -400,6 +400,7 @@ gavot
 glimed
 glaive
 glossophagine
+glitteringly
 goto
 glumpily
 goatskins
@@ -3021,7 +3022,6 @@ grammatical
 grimoire
 graspable
 geoffrey
-glitteringly
 gibbed
 gyrostatically
 gromet
