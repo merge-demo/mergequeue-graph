@@ -9101,7 +9101,6 @@ escrowee
 ephors
 epigones
 equinoxes
-evasion
 embordered
 erythropsia
 entwist
@@ -10470,6 +10469,7 @@ etherin
 entempest
 epochist
 exalate
+evasion
 encroachingly
 elance
 expiscatory
