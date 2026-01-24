@@ -5778,6 +5778,7 @@ forestside
 forepromised
 fussiest
 forebear
+farnesses
 fossiliferous
 fructicultural
 fumeroot
@@ -10299,7 +10300,6 @@ fingerings
 formulators
 fluormeter
 ferrates
-farnesses
 frenziedness
 forleaving
 foundationless
