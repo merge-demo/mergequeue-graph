@@ -2516,6 +2516,7 @@ electroless
 exsecants
 educables
 expansivity
+embossman
 embryopathology
 emender
 enervators
@@ -12156,7 +12157,6 @@ entertainments
 ethaldehyde
 estrado
 electric
-embossman
 embergoose
 excuser
 elytron
