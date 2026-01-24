@@ -1844,6 +1844,7 @@ elaterin
 equitemporal
 eremology
 erastian
+eeten
 eila
 evenoo
 eileen
@@ -3702,7 +3703,6 @@ embryotega
 eweries
 embryotome
 exhalatory
-eeten
 ephemerons
 echelette
 exhaustivity
