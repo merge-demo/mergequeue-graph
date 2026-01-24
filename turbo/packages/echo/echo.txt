@@ -468,7 +468,6 @@ estevin
 earshell
 emacerate
 erythrophilous
-ecclesiological
 ecclesiologically
 exchanging
 expunged
@@ -3383,6 +3382,7 @@ encyclopaedial
 embannered
 emetine
 equivokes
+ecclesiological
 eremopteris
 ethanethiol
 ensealing
