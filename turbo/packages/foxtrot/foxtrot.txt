@@ -7071,6 +7071,7 @@ fanger
 forcut
 farles
 freighter
+fluentness
 felix
 fullness
 formfeeds
@@ -9764,7 +9765,6 @@ foolhardiest
 fishworm
 farfel
 flenches
-fluentness
 faerie
 fourball
 foresettled
