@@ -4180,7 +4180,6 @@ atonics
 apepsy
 acroparalysis
 ador
-adorable
 ablegate
 amicrobic
 archimperialistic
@@ -13751,6 +13750,7 @@ altimeter
 accrementition
 ancyrene
 alani
+adorable
 acted
 asfetida
 anopisthographically
