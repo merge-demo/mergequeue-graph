@@ -3312,6 +3312,7 @@ gavall
 glossologies
 guha
 gerundial
+gebang
 gingalls
 gangshag
 germier
@@ -6286,7 +6287,6 @@ gruneritization
 goblins
 goldenpert
 gallivanters
-gebang
 gardevisure
 grandest
 gobo
