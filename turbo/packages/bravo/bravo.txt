@@ -3061,7 +3061,6 @@ bannack
 blague
 bullary
 breather
-blastplate
 bating
 badminton
 barware
@@ -9598,6 +9597,7 @@ bedim
 bahut
 blastomata
 biscutate
+blastplate
 bisdiapason
 binary
 bicapsular
