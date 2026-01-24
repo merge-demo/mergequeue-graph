@@ -6409,6 +6409,7 @@ cautery
 cauteries
 crozer
 cauterisation
+circulant
 cauterise
 criance
 collision
@@ -14119,7 +14120,6 @@ circuits
 clochan
 cardioneural
 capsulize
-circulant
 countersigning
 circular
 colistins
