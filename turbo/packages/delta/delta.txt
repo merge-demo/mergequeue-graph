@@ -7146,6 +7146,7 @@ decompose
 dispersement
 diductor
 drawboring
+didacticity
 deerkill
 desulphurize
 depauperate
@@ -9612,7 +9613,6 @@ devastations
 decolourizer
 dishonestly
 dollardom
-didacticity
 depass
 despot
 dihydroergotamine
