@@ -13370,6 +13370,7 @@ benjamite
 bothriocephalus
 boomdas
 brownier
+butch
 becut
 bothrium
 bromothymol
@@ -18101,7 +18102,6 @@ bind
 bergander
 bouderie
 bovld
-butch
 bedoyo
 bolbanac
 butcher
