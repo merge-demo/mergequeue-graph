@@ -9843,7 +9843,6 @@ agaricic
 amassing
 attractile
 abrotin
-alfiona
 alascan
 asternal
 amatembu
@@ -17984,6 +17983,7 @@ allodialism
 anthropophysiography
 areometric
 allothigene
+alfiona
 authenticate
 amphidesmous
 azoformic
