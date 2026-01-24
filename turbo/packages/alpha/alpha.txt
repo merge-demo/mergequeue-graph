@@ -17181,6 +17181,7 @@ applause
 apologue
 apologues
 apolousis
+aquincubital
 astacidae
 apolune
 aralie
@@ -18473,7 +18474,6 @@ arber
 autolesion
 aviates
 anthragallol
-aquincubital
 avern
 arbitrager
 arbitragers
