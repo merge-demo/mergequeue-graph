@@ -16818,7 +16818,6 @@ aphorize
 abos
 aphorizes
 ancienter
-approve
 anlet
 auxiliary
 aphra
@@ -20500,6 +20499,7 @@ actinobacilli
 actuaryship
 accomplishment
 autotoxemia
+approve
 aerophilatelic
 arteriometer
 arteriomotor
