@@ -4270,7 +4270,6 @@ geocoronium
 globosity
 gawks
 geodesist
-galeopsis
 gingered
 gaugeable
 guss
@@ -8243,6 +8242,7 @@ grinderies
 gudgeon
 gamestress
 graphotype
+galeopsis
 grapier
 garrisons
 gusseting
