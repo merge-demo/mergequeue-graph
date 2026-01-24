@@ -8799,6 +8799,7 @@ audiometries
 alderliefest
 adermin
 alids
+austrophil
 acculturate
 allochiria
 adaptionism
@@ -23647,7 +23648,6 @@ ammocoetidae
 auntrous
 antiethnic
 auntsary
-austrophil
 aural
 auramine
 aurang
