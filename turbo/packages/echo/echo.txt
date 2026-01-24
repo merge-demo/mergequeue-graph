@@ -3020,6 +3020,7 @@ efflorescence
 evocative
 extern
 encorpore
+embrighten
 economy
 eliot
 elbowroom
@@ -6795,7 +6796,6 @@ entocyemate
 everett
 efoliolate
 enneatic
-embrighten
 enwood
 encinillo
 escribing
