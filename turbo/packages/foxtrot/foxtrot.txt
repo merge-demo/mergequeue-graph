@@ -7164,6 +7164,7 @@ flimflammery
 footfolk
 fourniture
 ficklewise
+factorized
 fourteenth
 fruticulture
 flabel
@@ -8483,7 +8484,6 @@ ferritic
 filmsetter
 fortin
 frondesce
-factorized
 fluorane
 formatter
 floridans

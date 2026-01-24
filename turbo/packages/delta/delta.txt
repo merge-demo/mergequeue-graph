@@ -7437,7 +7437,6 @@ densitometry
 disseised
 detrivorous
 dervish
-damn
 doggereled
 doebird
 designation
@@ -16855,6 +16854,7 @@ diaphanoscopy
 deprecatingly
 darbukka
 drawliest
+damn
 declamando
 donnishly
 dilettante
