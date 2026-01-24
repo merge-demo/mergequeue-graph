@@ -903,7 +903,6 @@ decrescendo
 dandling
 deliberative
 dansy
-dansker
 danta
 droppy
 determent
@@ -3592,6 +3591,7 @@ degenerescence
 diammonium
 degeneroos
 degerm
+dansker
 dihalogen
 donnish
 degerminate
