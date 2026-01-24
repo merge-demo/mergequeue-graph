@@ -4496,6 +4496,7 @@ graminiform
 gerbille
 gobstick
 gaisling
+gallicize
 gigantomachia
 gawp
 globoids
@@ -5671,7 +5672,6 @@ glendale
 glossocele
 graian
 gaduin
-gallicize
 gummoses
 grandmother
 gantline
