@@ -1635,6 +1635,7 @@ brasquing
 bandi
 beerhouses
 bardesanism
+briareus
 beclose
 barrulety
 bloodfin
@@ -11836,7 +11837,6 @@ bodybuilder
 betrinket
 birthing
 bard
-briareus
 browbeater
 bulrushlike
 bootlegging
