@@ -804,7 +804,6 @@ glycosidase
 geoid
 gianthood
 graf
-gimlet
 gambade
 garrotting
 gastroenteritic
@@ -1360,6 +1359,7 @@ ginners
 graplins
 goneness
 gousty
+gimlet
 glyoxylic
 grue
 ghastly
