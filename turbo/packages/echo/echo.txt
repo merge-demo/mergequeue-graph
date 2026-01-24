@@ -3929,6 +3929,7 @@ emodins
 efflorescent
 emollience
 escharotic
+ethoses
 elevenths
 estruate
 earthbound
@@ -8400,7 +8401,6 @@ ethicosocial
 enwrought
 epocha
 epollicate
-ethoses
 eponge
 ethopoetic
 extensure
