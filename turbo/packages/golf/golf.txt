@@ -4866,7 +4866,6 @@ geomaly
 gangway
 guvacoline
 gidyea
-goan
 giantize
 gallimatia
 gradational
@@ -8831,6 +8830,7 @@ galleyworm
 graphostatical
 gypsylike
 gabbard
+goan
 gastness
 gypsiologist
 greenlandish
