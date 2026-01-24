@@ -11130,7 +11130,6 @@ bizygomatic
 bacchanalia
 bloodcurdling
 bloodcurdlingly
-booboos
 bloodies
 bewimple
 blooding
@@ -15788,6 +15787,7 @@ batholiths
 broderer
 brodiaea
 benchboard
+booboos
 bilateralistic
 bractlet
 berberin
