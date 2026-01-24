@@ -7717,6 +7717,7 @@ alcatras
 aldimin
 accepted
 anabantidae
+apterial
 aldm
 aghast
 acetaminol
@@ -18079,7 +18080,6 @@ alcoholics
 aeonic
 arrenotokous
 areolate
-apterial
 apterygidae
 apterygiformes
 almsgiver
