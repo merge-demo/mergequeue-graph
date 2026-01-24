@@ -260,6 +260,7 @@ abdications
 angaralite
 asouth
 adze
+awn
 amphistyly
 aphenoscope
 abditory
@@ -1844,7 +1845,6 @@ airinesses
 acerous
 acertannin
 allseed
-awn
 antitabetic
 avalent
 acerval
