@@ -1373,7 +1373,6 @@ calycozoa
 cutify
 cephalobranchiate
 curveball
-caliculate
 cavernitis
 calyculated
 coercing
@@ -26809,6 +26808,7 @@ counterfeisance
 counterfeit
 counterfeitly
 captaculum
+caliculate
 cudava
 chilopod
 counterfeits
