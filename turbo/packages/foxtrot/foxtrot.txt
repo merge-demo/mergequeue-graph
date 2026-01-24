@@ -1228,6 +1228,7 @@ fusilier
 fashing
 fleeted
 francolite
+falconoid
 fiddley
 forediscern
 fascinate
@@ -6982,7 +6983,6 @@ fordless
 fond
 fondateur
 fonded
-falconoid
 fondest
 favilla
 fonding
