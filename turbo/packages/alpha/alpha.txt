@@ -12626,7 +12626,6 @@ anticryptically
 ajivika
 angarias
 abanet
-aeronomist
 arpeggiation
 annus
 angareb
@@ -20910,6 +20909,7 @@ anilopyrin
 avowe
 alexandrianism
 ambulating
+aeronomist
 alces
 alveolar
 acetifies
