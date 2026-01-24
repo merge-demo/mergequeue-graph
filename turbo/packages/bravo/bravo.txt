@@ -6757,7 +6757,6 @@ bushiest
 berry
 berrugate
 buchnerite
-bathyscaphe
 binturong
 brotherlike
 banshee
@@ -14483,6 +14482,7 @@ beerily
 balanophorin
 battleful
 brame
+bathyscaphe
 bilgier
 biblicist
 bridgings
