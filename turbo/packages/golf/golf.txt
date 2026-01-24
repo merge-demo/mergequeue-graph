@@ -3575,7 +3575,6 @@ gnathobdellae
 gargil
 gaelicize
 galany
-guttiform
 gananciales
 gantries
 glack
@@ -9333,6 +9332,7 @@ griffs
 gruf
 geophila
 graduate
+guttiform
 galleasses
 goliad
 gunnysacks
