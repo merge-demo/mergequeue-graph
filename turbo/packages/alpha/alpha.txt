@@ -1362,6 +1362,7 @@ abevacuation
 adenolymphoma
 antiprotozoal
 azygospore
+amnionic
 armonica
 anophthalmos
 allotriodontia
@@ -25186,7 +25187,6 @@ acidifiable
 anthropomantist
 asynartetic
 avera
-amnionic
 angrite
 axoneure
 anticonventionalist
