@@ -463,6 +463,7 @@ expositionary
 explants
 estevin
 earshell
+emacerate
 erythrophilous
 ecclesiological
 ecclesiologically
@@ -10711,7 +10712,6 @@ euhemerist
 entangled
 erichthus
 exothecium
-emacerate
 enarthrodia
 ecologic
 euhyostylic
