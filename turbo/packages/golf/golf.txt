@@ -3691,6 +3691,7 @@ garnierite
 gess
 ghoulishly
 gastrocystis
+gelosie
 glandered
 gyse
 granivore
@@ -5918,7 +5919,6 @@ gazogenes
 gaunter
 ginkgoes
 guttles
-gelosie
 geoemtry
 gastroparesis
 garreted
