@@ -2066,6 +2066,7 @@ grovelled
 glottology
 guilefully
 gawgaw
+groans
 goldenseal
 governments
 graminological
@@ -10375,7 +10376,6 @@ gelatiniser
 gutta
 gullies
 gems
-groans
 girandola
 graphemically
 goujon
