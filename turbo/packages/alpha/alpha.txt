@@ -12536,6 +12536,7 @@ anubis
 anepigraphous
 algae
 anepithymia
+asthmatoid
 arteriectomy
 awnlike
 ardennite
@@ -22185,7 +22186,6 @@ arviculture
 archaic
 asthmatical
 aceric
-asthmatoid
 arthrotomies
 asthmogenic
 asthore
