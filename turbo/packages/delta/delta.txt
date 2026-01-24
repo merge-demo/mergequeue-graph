@@ -14800,6 +14800,7 @@ dockhouse
 deringers
 dockyards
 docking
+duodecane
 dockization
 dockland
 doublehandedly
@@ -15755,7 +15756,6 @@ desolator
 dormeuse
 dormice
 dormilona
-duodecane
 dormitive
 dormitories
 dissenting
