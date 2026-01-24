@@ -1976,6 +1976,7 @@ bombard
 ballocks
 basilicas
 bangkok
+bugala
 bacteriogenous
 bangladesh
 bespatters
@@ -17286,7 +17287,6 @@ beman
 bateman
 behinder
 blastogenetic
-bugala
 bummack
 brechan
 backlighting
