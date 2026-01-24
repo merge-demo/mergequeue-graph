@@ -3469,7 +3469,6 @@ bagworms
 blotlessness
 boyla
 biosis
-batarde
 bullaces
 batatas
 batavi
@@ -16708,6 +16707,7 @@ bucklum
 backstair
 bucky
 besa
+batarde
 buckishness
 buddled
 buckland
