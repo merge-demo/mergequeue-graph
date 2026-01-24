@@ -8748,7 +8748,6 @@ glaserite
 glyceryls
 gravel
 gazpachos
-giantesses
 greenstone
 gimballing
 grippelike
@@ -9103,6 +9102,7 @@ guarache
 grummel
 gambier
 groping
+giantesses
 grandiose
 gluily
 goetia
