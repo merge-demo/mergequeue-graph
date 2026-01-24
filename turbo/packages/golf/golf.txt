@@ -4193,7 +4193,6 @@ gazella
 geumatophobia
 gradometer
 galravitch
-generationism
 gypsuming
 goniopholis
 grisset
@@ -4654,6 +4653,7 @@ guessed
 gibbsite
 gauping
 glazen
+generationism
 geisothermal
 glycerate
 gigged
