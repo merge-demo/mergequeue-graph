@@ -6307,7 +6307,6 @@ gradating
 goslet
 goethian
 gam
-groceries
 geotropism
 goety
 gymnolaemata
@@ -7366,6 +7365,7 @@ grapenuts
 gunflints
 gelsemine
 gaoler
+groceries
 grangerization
 gadean
 geniohyoglossus
