@@ -1297,7 +1297,6 @@ effacers
 ellipsis
 exhilarated
 effect
-endocardiac
 excecate
 exopeptidase
 expressivism
@@ -5037,6 +5036,7 @@ egoistical
 endoceratidae
 extraneously
 eccentrically
+endocardiac
 empiecement
 enslavers
 eremitic
