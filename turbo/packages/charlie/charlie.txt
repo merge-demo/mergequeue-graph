@@ -16472,6 +16472,7 @@ clockless
 cuon
 clockmaking
 crewer
+costards
 clockwatcher
 clusterberry
 cingulum
@@ -29164,7 +29165,6 @@ cloys
 cluniacensian
 convallariaceous
 clauster
-costards
 cryological
 cryometry
 cocashweed
