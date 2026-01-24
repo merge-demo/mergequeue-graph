@@ -1520,7 +1520,6 @@ ballas
 baronetised
 blacktopping
 banks
-beeherd
 burger
 bersiamite
 bulbiform
@@ -4107,6 +4106,7 @@ brachycera
 bearfoots
 bearhug
 babirousa
+beeherd
 bock
 baetylus
 bilicyanin
