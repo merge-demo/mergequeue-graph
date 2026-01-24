@@ -2960,6 +2960,7 @@ cantharidized
 cantharus
 clotter
 chank
+chlamydoselachidae
 carabini
 cleverest
 caustic
@@ -22567,7 +22568,6 @@ chg
 cosech
 connaturalness
 connature
-chlamydoselachidae
 calumniatory
 connaught
 connectable
