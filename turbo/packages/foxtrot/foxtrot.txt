@@ -3793,7 +3793,6 @@ falsification
 fergusonite
 filmstrips
 filo
-filose
 furnitureless
 foreflap
 filterableness
@@ -4218,6 +4217,7 @@ fireflirt
 foolishest
 figurative
 fancied
+filose
 firelight
 flab
 feistier
