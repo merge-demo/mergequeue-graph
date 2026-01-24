@@ -7154,7 +7154,6 @@ canthi
 conusable
 centralities
 croupy
-chaeta
 cyancarbonic
 cither
 chauceriana
@@ -16391,6 +16390,7 @@ cleridae
 clithe
 clithral
 clitia
+chaeta
 copolymerizations
 chromobacterieae
 cylindruria
