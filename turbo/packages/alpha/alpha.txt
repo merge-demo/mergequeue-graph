@@ -853,7 +853,6 @@ amurcosity
 absentminded
 aerobics
 absentness
-avicennism
 aiver
 abshenry
 allure
@@ -10433,6 +10432,7 @@ anticlimactically
 amice
 anatriptic
 algomian
+avicennism
 aasvogels
 amyclaean
 alisonite
