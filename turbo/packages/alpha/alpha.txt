@@ -1192,7 +1192,6 @@ antivitamin
 acanthomas
 acanthomeridae
 autoantibody
-acanthopanax
 agriot
 anlia
 acanthophorous
@@ -15780,6 +15779,7 @@ aviolite
 amidic
 antiphylloxeric
 amphibiotica
+acanthopanax
 acarpellous
 arist
 arthrempyesis
