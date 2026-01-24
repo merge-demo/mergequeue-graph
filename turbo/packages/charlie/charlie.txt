@@ -9687,7 +9687,6 @@ chef
 chefs
 collocate
 chego
-coruscated
 caretakes
 chegoes
 chegre
@@ -16984,6 +16983,7 @@ catechu
 caprifigs
 coerceable
 circumviate
+coruscated
 cashibo
 confervales
 calcareoargillaceous
