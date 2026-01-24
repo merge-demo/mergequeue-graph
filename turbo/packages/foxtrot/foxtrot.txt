@@ -589,6 +589,7 @@ flamier
 frequentative
 frappe
 feeblish
+fashions
 funerate
 fenugreek
 flagstaff
@@ -2707,7 +2708,6 @@ fouette
 fervor
 flanks
 frondous
-fashions
 fruitive
 funnier
 figpecker
