@@ -6315,7 +6315,6 @@ beneficential
 bandeaus
 beedom
 benzalethylamine
-benzalphenylhydrazone
 beaconwise
 benzamide
 benzoxate
@@ -13109,6 +13108,7 @@ boringness
 bilging
 brewings
 bubblies
+benzalphenylhydrazone
 befluster
 beaned
 brachycephalous
