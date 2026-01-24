@@ -3728,7 +3728,6 @@ dehorner
 diplography
 dehorners
 desiredness
-dehorning
 disconcertingly
 developers
 disour
@@ -8805,6 +8804,7 @@ disadvise
 deratization
 dolefuller
 displacements
+dehorning
 devolatilising
 dimethyl
 dysphotic
