@@ -2809,7 +2809,6 @@ gypseian
 geraniales
 galactorrhea
 gentler
-gutnish
 gingelly
 gilgulim
 gifture
@@ -6092,6 +6091,7 @@ gammarus
 gnosis
 grate
 galenist
+gutnish
 glaserian
 gnotobiosis
 gnotobiotically
