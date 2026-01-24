@@ -4860,7 +4860,6 @@ cetaceous
 carriageable
 cacotrichia
 carriageful
-clachans
 carriages
 crosstie
 carriagesmith
@@ -11577,6 +11576,7 @@ cholecystenterostomy
 cholecystgastrostomy
 carburisation
 cholecystic
+clachans
 cholecystis
 complimenting
 cholecystitis
