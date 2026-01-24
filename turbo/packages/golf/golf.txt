@@ -6630,6 +6630,7 @@ gait
 gash
 grandioso
 gopak
+gussets
 grees
 glissandos
 gruiformes
@@ -10713,7 +10714,6 @@ grandeur
 gubernatorial
 graphometric
 gox
-gussets
 gloms
 gairfish
 gassers

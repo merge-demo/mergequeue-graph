@@ -6868,7 +6868,6 @@ eluvies
 extramarginal
 ey
 entomophila
-entomophobia
 earwaxes
 esthesiography
 eucryptite
@@ -9310,6 +9309,7 @@ espieglerie
 elbowboard
 erubescent
 entelechy
+entomophobia
 ecus
 electroori
 eggbeater
