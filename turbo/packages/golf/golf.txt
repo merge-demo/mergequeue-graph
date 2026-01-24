@@ -3249,7 +3249,6 @@ gahnites
 gunrack
 gpm
 getspa
-geriatrician
 geriatrist
 goxes
 german
@@ -7188,6 +7187,7 @@ gizzen
 gromatical
 galahad
 gonoblastidial
+geriatrician
 grabbler
 globulose
 graciosity
