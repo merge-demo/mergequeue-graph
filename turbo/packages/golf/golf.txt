@@ -8298,7 +8298,6 @@ gynosporangium
 geomagnetics
 gentes
 gastrojejunostomies
-greeneries
 gladness
 gelation
 grailing
@@ -8464,6 +8463,7 @@ gilders
 grivets
 glaze
 glands
+greeneries
 grangousier
 golfing
 graveclod
