@@ -367,6 +367,7 @@ electrepeter
 entelodont
 eighteenfold
 educ
+encumberment
 exoneural
 enterorrhea
 epicalyxes
@@ -6446,7 +6447,6 @@ encheck
 exercisable
 ensorcellment
 ensorrow
-encumberment
 eyednesses
 endometriosis
 embolismus
