@@ -1549,7 +1549,6 @@ effigiation
 eggnog
 exareolate
 embrasures
-eggrolls
 eggs
 emplastra
 excerptive
@@ -4000,6 +3999,7 @@ emphasize
 emphasized
 embargos
 exogens
+eggrolls
 eyeblack
 elucidations
 emphysema
