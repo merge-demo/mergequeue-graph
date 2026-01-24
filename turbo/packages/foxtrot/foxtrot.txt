@@ -9709,7 +9709,6 @@ fremontodendron
 fidging
 frazing
 foreigns
-fideicommissum
 firmly
 firebrat
 favella
@@ -10519,6 +10518,7 @@ fortuities
 feodality
 fustics
 featherback
+fideicommissum
 flees
 frotton
 fum
