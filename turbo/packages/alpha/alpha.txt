@@ -4433,7 +4433,6 @@ aldoxime
 aftmost
 adv
 aquatinter
-archbanc
 archimago
 argue
 advaita
@@ -5495,6 +5494,7 @@ apophylaxis
 afterheat
 acalycal
 anatifae
+archbanc
 afterhope
 animatist
 antimonarchistic
