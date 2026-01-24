@@ -472,6 +472,7 @@ daytimes
 decolonisation
 disburthen
 disaccharide
+dulseman
 daywrit
 dakerhen
 dakhini
@@ -16184,7 +16185,6 @@ desireless
 deplasmolysis
 declassified
 dovetailwise
-dulseman
 drainway
 drinkery
 dowager
