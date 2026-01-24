@@ -5387,6 +5387,7 @@ enfester
 ed
 emigrants
 eightsman
+endnote
 example
 esexual
 elsewhither
@@ -13737,7 +13738,6 @@ elementarity
 epicarid
 ellick
 elatine
-endnote
 extratemporal
 ensnares
 esteemed
