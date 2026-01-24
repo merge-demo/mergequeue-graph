@@ -8260,6 +8260,7 @@ eschynite
 embosoms
 eurus
 episcopally
+escheatable
 equivalve
 ennobles
 exactions
@@ -12483,7 +12484,6 @@ exilement
 electrobiological
 escalading
 epicarp
-escheatable
 exility
 evened
 exanthem
