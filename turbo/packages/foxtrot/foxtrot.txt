@@ -6457,7 +6457,6 @@ fordy
 fellatrix
 forsar
 flurn
-flurried
 futhorks
 fernbird
 furiosa
@@ -7750,6 +7749,7 @@ fidicula
 franciscanism
 fisticuffery
 favillous
+flurried
 flabelliform
 forsaker
 foremasts
