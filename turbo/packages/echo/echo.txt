@@ -921,6 +921,7 @@ endorsements
 electrophoretic
 ectropion
 euclase
+entryway
 eluvia
 erogenesis
 effatum
@@ -4682,7 +4683,6 @@ exponentiating
 encircle
 emittent
 elocutive
-entryway
 electrowin
 erythrodegenerative
 eelware
