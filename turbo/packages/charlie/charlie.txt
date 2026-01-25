@@ -17560,6 +17560,7 @@ cohoshes
 colloid
 coccaceous
 conducible
+contemporize
 corr
 coccic
 coccidae
@@ -23442,7 +23443,6 @@ contemporary
 coalfishes
 calombo
 contemporising
-contemporize
 contemporized
 contemptibility
 contemptible
