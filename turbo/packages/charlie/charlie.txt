@@ -8301,7 +8301,6 @@ chalkline
 columnated
 chalkone
 chalkos
-chalkotheke
 chalkpit
 chalkrail
 catechizable
@@ -11401,6 +11400,7 @@ cloggily
 creakingly
 carib
 cgs
+chalkotheke
 cellulomonadeae
 chemotroph
 chlorpicrin
