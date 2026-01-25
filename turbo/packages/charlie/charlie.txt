@@ -41,7 +41,6 @@ causable
 cherrystones
 cocozelle
 caballero
-ceratopteridaceous
 caballos
 cardiae
 centillions
@@ -5673,6 +5672,7 @@ catamites
 chickenhearted
 catamiting
 cordaitean
+ceratopteridaceous
 catapasm
 caducity
 comprizable
