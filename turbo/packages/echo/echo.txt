@@ -3745,6 +3745,7 @@ ethnish
 epaulette
 endoceratite
 eyeglasses
+epicondylic
 ejulate
 embrowning
 embrues
@@ -7612,7 +7613,6 @@ engines
 exactest
 extrafascicular
 extratelluric
-epicondylic
 ectotheca
 epoptist
 equichangeable
