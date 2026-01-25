@@ -5236,6 +5236,7 @@ degasifier
 damme
 dispositioned
 diatomaceoid
+doomlike
 detestable
 detinue
 dentale
@@ -8634,7 +8635,6 @@ discourtesy
 diffused
 dactylus
 dato
-doomlike
 delfs
 diascope
 domed
