@@ -2909,6 +2909,7 @@ barreleyes
 barrelet
 batuque
 botanical
+berairou
 bundies
 beachheads
 beartongue
@@ -11385,7 +11386,6 @@ bescorches
 bluebill
 bustic
 bromouracil
-berairou
 bayness
 bibliographies
 blousy
