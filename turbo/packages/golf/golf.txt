@@ -5762,6 +5762,7 @@ gynecologic
 gosling
 gratters
 gigamaree
+gaw
 gauchos
 grieveship
 gast
@@ -7660,7 +7661,6 @@ guildic
 glaringness
 getter
 gynandrophore
-gaw
 gerontism
 gest
 gaveling

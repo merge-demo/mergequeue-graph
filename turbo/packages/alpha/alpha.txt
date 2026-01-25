@@ -8124,7 +8124,6 @@ algoman
 approachabl
 algometrically
 alictisal
-apathize
 applicant
 anastasis
 algophagous
@@ -14200,6 +14199,7 @@ actiniarian
 anteroexternal
 anterofixation
 autobahns
+apathize
 anastaltic
 allectory
 allomorph
