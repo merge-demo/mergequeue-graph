@@ -222,6 +222,7 @@ fixtures
 faculties
 faunistically
 fringy
+fruitier
 functionaries
 fimbles
 fulimart
@@ -10027,7 +10028,6 @@ fryer
 foollike
 flans
 fringehead
-fruitier
 filibusterism
 fringent
 fogram

@@ -8567,7 +8567,6 @@ gemel
 gonidioid
 gise
 gravure
-gossameriness
 gametically
 genealogical
 guerdonless
@@ -9912,6 +9911,7 @@ gorgers
 giddea
 gulleting
 guardable
+gossameriness
 gastroparalysis
 greening
 gathered
