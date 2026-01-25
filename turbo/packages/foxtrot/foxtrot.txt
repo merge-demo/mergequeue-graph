@@ -140,7 +140,6 @@ fracturable
 flayers
 fifthly
 fellaheen
-facks
 forefront
 fumitories
 favus
@@ -4164,6 +4163,7 @@ frier
 forecloses
 franchisor
 fining
+facks
 filaria
 fucaceae
 fanos
