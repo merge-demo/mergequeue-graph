@@ -7628,6 +7628,7 @@ gyppery
 greenlet
 gleary
 guamuchil
+guru
 grader
 goaded
 grouseward
@@ -8333,7 +8334,6 @@ gedecktwork
 geast
 geoblast
 gaize
-guru
 glycoluric
 grandstander
 glides
