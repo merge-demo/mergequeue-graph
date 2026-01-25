@@ -3282,6 +3282,7 @@ diluvialist
 dominants
 dalles
 doty
+deipnosophist
 deteriority
 deterging
 dragoons
@@ -10703,7 +10704,6 @@ dragonlike
 dips
 diadelphia
 dipsacaceous
-deipnosophist
 disavow
 delaminate
 depriver
