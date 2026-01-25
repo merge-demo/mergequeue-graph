@@ -3695,7 +3695,6 @@ carangids
 coenaesthesis
 cooking
 coleopterological
-chromicize
 coemptive
 conjugation
 chabutra
@@ -14877,6 +14876,7 @@ cosmine
 complected
 cheapies
 cajolingly
+chromicize
 cytopathogenic
 cytopathogenicity
 confuting
