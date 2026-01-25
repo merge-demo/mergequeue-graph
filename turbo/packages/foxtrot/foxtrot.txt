@@ -7980,7 +7980,6 @@ featherlight
 flagrantly
 femic
 frize
-felicitousness
 fingerprint
 flaunty
 fourscorth
@@ -11743,6 +11742,7 @@ factorage
 fumados
 fishfall
 fuzees
+felicitousness
 fauvette
 fenchol
 faultfinders
