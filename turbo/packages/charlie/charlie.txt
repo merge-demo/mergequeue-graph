@@ -12824,6 +12824,7 @@ commonplacer
 camellias
 church
 courageousness
+compellability
 churchcraft
 churches
 chondrocranium
@@ -19793,7 +19794,6 @@ communicativeness
 combusts
 combinedness
 capiases
-compellability
 captained
 combwise
 catapulting
