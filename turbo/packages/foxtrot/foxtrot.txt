@@ -2567,7 +2567,6 @@ forcet
 functionalities
 franked
 foud
-facetiation
 fossicked
 footrests
 finicalness
@@ -8019,6 +8018,7 @@ fixgig
 feminises
 fumeless
 forespeaking
+facetiation
 flavorer
 feuter
 farfugium
