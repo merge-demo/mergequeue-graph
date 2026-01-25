@@ -2411,7 +2411,6 @@ furls
 fatidical
 fortnightly
 fobbed
-festivities
 fatigate
 freemasons
 fractur
@@ -7670,6 +7669,7 @@ forehandedness
 fellingbird
 flowering
 fishergirl
+festivities
 fixedness
 franchised
 flourishment
