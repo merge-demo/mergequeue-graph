@@ -2294,7 +2294,6 @@ fondness
 fellowess
 featherheaded
 febrility
-fast
 fixities
 fixatifs
 flagitious
@@ -7320,6 +7319,7 @@ fluttery
 flushermen
 fumitory
 favelloid
+fast
 fleeched
 foaminess
 fixation
