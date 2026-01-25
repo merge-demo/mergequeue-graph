@@ -3241,7 +3241,6 @@ babbling
 biotechnological
 betty
 basilic
-bantingize
 bedouin
 basilica
 belverdian
@@ -7566,6 +7565,7 @@ bread
 bevvy
 bewailers
 brewage
+bantingize
 belimousined
 blowpit
 boiloffs
