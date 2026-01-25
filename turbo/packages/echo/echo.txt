@@ -4114,7 +4114,6 @@ earthwall
 ejacula
 enrooting
 eslabon
-excursus
 envisaged
 endives
 exedral
@@ -10372,6 +10371,7 @@ elvers
 ecumenistic
 endorsement
 englacially
+excursus
 excitability
 edgestone
 ellagic
