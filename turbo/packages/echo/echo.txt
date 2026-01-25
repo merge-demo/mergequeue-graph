@@ -1493,6 +1493,7 @@ estivate
 ebbs
 eclegme
 escadrille
+ennerve
 effusively
 entasias
 effuviate
@@ -11345,7 +11346,6 @@ eveline
 equidifferent
 epitrochlear
 evenfall
-ennerve
 enervative
 embellished
 exhaustibility
