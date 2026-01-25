@@ -3274,7 +3274,6 @@ basinets
 basinful
 benzines
 bewhig
-beneficiaries
 broggle
 begartered
 bethank
@@ -15783,6 +15782,7 @@ brodiaea
 benchboard
 booboos
 bilateralistic
+beneficiaries
 bractlet
 berberin
 baalish
