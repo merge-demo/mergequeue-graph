@@ -8660,7 +8660,6 @@ dryads
 dialectology
 diastasimetry
 dipnoan
-devilfishes
 deraigned
 demobbed
 deboners
@@ -9234,6 +9233,7 @@ dochmii
 dishorse
 dihydrazone
 disemic
+devilfishes
 debite
 digitalic
 dieselize
