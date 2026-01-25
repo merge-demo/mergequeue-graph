@@ -522,7 +522,6 @@ boart
 bu
 blenny
 backtenter
-beggingwise
 blennioid
 backtracking
 backtracks
@@ -13566,6 +13565,7 @@ bougie
 botry
 boodlers
 barite
+beggingwise
 bouldered
 bevatrons
 byssi
