@@ -4452,6 +4452,7 @@ glint
 garvance
 gret
 giraffe
+glabriety
 gynocardic
 gypsyism
 gowk
@@ -8545,7 +8546,6 @@ grat
 governess
 growths
 gastrocnemius
-glabriety
 griqua
 gravity
 glochines

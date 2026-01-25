@@ -6625,6 +6625,7 @@ conferment
 calamariaceae
 cebalrai
 culteranismo
+chipwood
 cebell
 crystallite
 cecidogenous
@@ -10897,7 +10898,6 @@ chipproof
 crucifying
 clocher
 cariacine
-chipwood
 chiquito
 clavate
 chiral
