@@ -8174,7 +8174,6 @@ chairway
 cryptogamian
 conjunctivae
 chairwarmer
-chairwomen
 cyanocitta
 chaises
 comfortabilities
@@ -15165,6 +15164,7 @@ commanderies
 claye
 clayey
 clayer
+chairwomen
 contchar
 clayier
 centetes
