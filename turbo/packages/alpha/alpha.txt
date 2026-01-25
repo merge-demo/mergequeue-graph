@@ -10271,6 +10271,7 @@ ankylopoietic
 anolympiad
 autompne
 atrabilarian
+aglossate
 amentiform
 aplodiorite
 aerobe
@@ -15009,7 +15010,6 @@ anametadromous
 achondroplasia
 antigyrous
 anticryptic
-aglossate
 anlage
 anosphresia
 autoimmune
