@@ -1508,7 +1508,6 @@ electrothermal
 elemi
 estantion
 empyesis
-endophytous
 epispermic
 egad
 elderlies
@@ -1768,6 +1767,7 @@ encasing
 eyeseed
 entophytically
 eyeservant
+endophytous
 eyeshade
 enticingness
 euglenales
