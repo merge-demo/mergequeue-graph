@@ -5383,6 +5383,7 @@ begrudge
 boggishness
 branchiopodous
 begruntle
+bepatched
 biographical
 beguess
 beguilement
@@ -6473,7 +6474,6 @@ burge
 butolism
 backdate
 bellon
-bepatched
 blarneys
 benighter
 bettergates
