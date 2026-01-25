@@ -803,7 +803,6 @@ ecthesis
 emmers
 epispadias
 efficiencies
-edaphically
 euglenidae
 enterograph
 ectypal
@@ -3370,6 +3369,7 @@ excursioner
 envelopes
 escalloniaceae
 encyclopaedial
+edaphically
 embannered
 emetine
 equivokes
