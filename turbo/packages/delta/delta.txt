@@ -5906,6 +5906,7 @@ degrader
 dimethylnitrosamine
 deceiver
 disconcerts
+dioecian
 davy
 doublehandedness
 dingly
@@ -10246,7 +10247,6 @@ dioecy
 dislodged
 desiderium
 dioecia
-dioecian
 dioeciopolygamous
 disclout
 deorganization

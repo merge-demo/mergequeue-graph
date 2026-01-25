@@ -4806,7 +4806,6 @@ fairwater
 falsifiers
 flues
 fasting
-frabbit
 forearm
 froglet
 flagellatory
@@ -5699,6 +5698,7 @@ firepinks
 fuzzball
 frontlessly
 furnage
+frabbit
 frostfishes
 frequentation
 fractuosity
