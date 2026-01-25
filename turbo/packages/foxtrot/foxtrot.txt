@@ -4430,7 +4430,6 @@ flueless
 flameproof
 fazed
 fishponds
-ferahan
 fishtailed
 fibrilled
 fishpotter
@@ -9674,6 +9673,7 @@ fromage
 foredivine
 frocked
 fashionmonger
+ferahan
 fletcher
 furfures
 fregata
