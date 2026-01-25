@@ -2021,7 +2021,6 @@ disregardable
 dogleg
 dogwoods
 dinornis
-dearling
 denationalized
 daucus
 decagonally
@@ -13778,6 +13777,7 @@ derm
 dissolutional
 dissolutionism
 dissolvableness
+dearling
 dental
 dissolvative
 dissolve
