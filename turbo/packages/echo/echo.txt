@@ -6956,6 +6956,7 @@ ecophysiology
 entre
 elwood
 entreasuring
+eatery
 enforcingly
 easily
 entreatful
@@ -7922,7 +7923,6 @@ entomophaga
 endomixis
 eurystomatous
 emitter
-eatery
 exudates
 enthraller
 exordia
