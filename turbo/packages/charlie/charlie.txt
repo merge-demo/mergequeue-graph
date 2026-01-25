@@ -4122,7 +4122,6 @@ cardigan
 cameoing
 cornmaster
 condalia
-cardin
 clarissimo
 cardinal
 cardinalfish
@@ -27304,6 +27303,7 @@ cemental
 candlelighting
 carcaneted
 cantillation
+cardin
 courgette
 courida
 cherokees
