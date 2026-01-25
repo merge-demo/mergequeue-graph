@@ -543,7 +543,6 @@ damageably
 detonatable
 damaged
 detort
-dimness
 deaccessions
 dovyalis
 deliber
@@ -17568,6 +17567,7 @@ decemjugate
 decolour
 disassimilation
 diabrotic
+dimness
 dynamiter
 drumliest
 desisting
