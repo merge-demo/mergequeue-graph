@@ -10960,7 +10960,6 @@ chirometer
 chiromys
 cryostase
 chalcioecus
-chlorochrous
 chela
 chironym
 caecum
@@ -11080,6 +11079,7 @@ chitlin
 chitling
 chitlings
 cowbirds
+chlorochrous
 candours
 carloads
 calamus
