@@ -3188,7 +3188,6 @@ forefend
 festered
 falern
 flinthearted
-flameholder
 fictioner
 furbisher
 furnishment
@@ -8143,6 +8142,7 @@ foretell
 figurehead
 filmiest
 foiling
+flameholder
 fillister
 fathogram
 foretellers
