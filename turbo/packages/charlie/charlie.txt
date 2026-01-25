@@ -10064,6 +10064,7 @@ cheskey
 campine
 cheslep
 crestings
+carfuffle
 clothesbrush
 chimney
 chemise
@@ -23477,7 +23478,6 @@ contentional
 contentions
 catoism
 campephagidae
-carfuffle
 contently
 contentment
 coralloidal
