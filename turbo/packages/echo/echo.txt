@@ -12184,6 +12184,7 @@ epigraphs
 exec
 epiphonemas
 eudemonist
+exsufflate
 exacervation
 excogitation
 enflame
@@ -13572,7 +13573,6 @@ extumescence
 ectadenia
 egeria
 emulation
-exsufflate
 exsufflation
 exacerbated
 encephalotomies
