@@ -1030,7 +1030,6 @@ dumbed
 digest
 daffling
 dypnone
-dolorimetric
 definement
 darkies
 drupel
@@ -11897,6 +11896,7 @@ discuses
 dentalisation
 defectively
 deductile
+dolorimetric
 diseased
 deifying
 dissyllabify
