@@ -1253,6 +1253,7 @@ enrobe
 ecclesiarch
 eclated
 expands
+engravement
 equilibriate
 equitability
 eeliest
@@ -3597,7 +3598,6 @@ earspool
 embraceries
 evangelized
 embracingly
-engravement
 embraid
 emotions
 empowers
