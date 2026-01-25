@@ -2514,6 +2514,7 @@ foulmouth
 formaldehyde
 frondescent
 fluorine
+fellowman
 folsom
 fiatconfirmatio
 feeler
@@ -5973,7 +5974,6 @@ frequencies
 foo
 fidiculae
 ferroelectrically
-fellowman
 fibrinoplastin
 forthrightness
 fiducinales
