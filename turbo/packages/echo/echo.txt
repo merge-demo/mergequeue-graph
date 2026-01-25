@@ -1987,7 +1987,6 @@ extortionists
 elastin
 edward
 exostome
-enolate
 exophoric
 experienceless
 eryngo
@@ -6971,6 +6970,7 @@ entrec
 escalin
 exiting
 effecting
+enolate
 excisor
 encauma
 emetically
