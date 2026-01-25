@@ -55,6 +55,7 @@ bacterioblast
 babbit
 baton
 botrytises
+besaiel
 barberish
 babblings
 beauclerk
@@ -13829,7 +13830,6 @@ blenniid
 baas
 balaustine
 burettes
-besaiel
 brokenheartedness
 bookshelves
 bottomrying
