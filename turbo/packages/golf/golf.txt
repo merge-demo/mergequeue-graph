@@ -3065,7 +3065,6 @@ ghorkhar
 geat
 gynethusia
 grulla
-gunpoint
 guardroom
 generally
 glucokinin
@@ -6166,6 +6165,7 @@ goalpost
 gaze
 geopony
 gagster
+gunpoint
 geadephaga
 goaltender
 goanna
