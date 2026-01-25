@@ -3648,7 +3648,6 @@ bioplasm
 batoon
 biconjugate
 backsettler
-batophobia
 besiege
 benzdioxazine
 balloonery
@@ -5958,6 +5957,7 @@ belts
 bloodspilling
 beadlike
 bionomy
+batophobia
 branchireme
 broads
 bowdlerizations
