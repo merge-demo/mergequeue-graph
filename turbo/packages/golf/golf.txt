@@ -1555,6 +1555,7 @@ grassless
 gassed
 gypsumed
 gastritic
+grovellings
 gulfy
 grana
 gymnasisiums
@@ -9560,7 +9561,6 @@ gnus
 gingersnap
 geishas
 gneissoid
-grovellings
 growan
 gogmagog
 gravelike

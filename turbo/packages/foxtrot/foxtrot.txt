@@ -687,6 +687,7 @@ fizzier
 folliculina
 fireman
 filemot
+furriery
 funkier
 flannelmouths
 fatiguing
@@ -1075,7 +1076,6 @@ fogramite
 fluoridization
 floriken
 foredestining
-furriery
 flustration
 fiberboard
 ferriages
