@@ -5714,7 +5714,6 @@ engrege
 engirdled
 exodromy
 edestan
-engirdling
 emplectite
 electroblasting
 eyeglance
@@ -11001,6 +11000,7 @@ epiglot
 enridged
 epiclastic
 electrodialitically
+engirdling
 editorializations
 eurypharyngidae
 extund
