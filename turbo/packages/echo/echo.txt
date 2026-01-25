@@ -5303,7 +5303,6 @@ evidentness
 expulsions
 encharm
 epiphyte
-epituberculous
 endosteoma
 essentialism
 exosepsis
@@ -11766,6 +11765,7 @@ electroacoustic
 exarate
 egyptianization
 eremochaeta
+epituberculous
 enstatitite
 epithelioid
 extracorpuscular
