@@ -6819,7 +6819,6 @@ gagwriter
 ghostflower
 gastrojejunal
 grandpa
-gremmie
 gaoled
 gobonee
 gnomonic
@@ -10523,6 +10522,7 @@ geranium
 ghillie
 gossipingly
 gudesakes
+gremmie
 gentamicin
 gunge
 germinability
