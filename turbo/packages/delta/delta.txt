@@ -12112,7 +12112,6 @@ doorknobs
 dialogism
 dp
 deutoscolex
-deescalates
 doand
 disparager
 delusion
@@ -15321,6 +15320,7 @@ dudman
 dummies
 dismit
 dition
+deescalates
 dotal
 deafforestation
 dolphus
