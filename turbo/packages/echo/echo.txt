@@ -445,6 +445,7 @@ enanthesis
 expediteness
 evector
 enumerable
+epizoite
 elateridae
 ecclesiarchy
 ensnarls
@@ -624,7 +625,6 @@ electropoion
 ecphorable
 embryogeny
 eyestones
-epizoite
 eighthes
 enterogram
 eluviating
