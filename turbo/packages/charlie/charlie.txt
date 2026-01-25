@@ -3453,7 +3453,6 @@ caprylyl
 coat
 caprylone
 chivarro
-counterplan
 caprimulgiformes
 chinwood
 caprin
@@ -4647,6 +4646,7 @@ canescene
 chronisotherm
 cangenet
 caryotin
+counterplan
 cutleria
 chuprassie
 caroline

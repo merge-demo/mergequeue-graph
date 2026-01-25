@@ -7016,6 +7016,7 @@ akhyana
 anopsias
 astrild
 agaricin
+acquisition
 annectant
 aperture
 abnerval
@@ -14462,7 +14463,6 @@ ackey
 antiuating
 anthrophore
 anthropical
-acquisition
 anthropobiology
 apneumatosis
 antimorality
