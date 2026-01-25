@@ -3271,7 +3271,6 @@ defiber
 deionized
 duodecillionth
 doublethought
-departs
 defibrillated
 diluvialist
 dominants
@@ -8927,6 +8926,7 @@ dihydride
 dated
 dichroitic
 dichromasia
+departs
 defrayed
 deltafication
 disafforestation
