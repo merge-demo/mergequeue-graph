@@ -867,7 +867,6 @@ exhumating
 economically
 expectance
 epitheliosis
-ectopy
 engulfed
 ectoplasmatic
 expansibly
@@ -10408,6 +10407,7 @@ exodromic
 exchanged
 ethoxide
 endocardium
+ectopy
 enchiriridia
 earthshaking
 eruct
