@@ -3990,7 +3990,6 @@ digressiveness
 dibasicity
 dialing
 dipteros
-dirten
 delegations
 delegator
 discomposedly
@@ -10236,6 +10235,7 @@ dusts
 disaccustom
 doornail
 deifiers
+dirten
 defunctive
 dioctahedral
 dioctophyme
