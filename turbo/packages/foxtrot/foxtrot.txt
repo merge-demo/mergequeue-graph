@@ -2793,7 +2793,6 @@ festucine
 forelady
 flaxiest
 fumigation
-forehood
 firsthand
 folacins
 finlander
@@ -6183,6 +6182,7 @@ fairgoing
 flaxes
 foretops
 feebless
+forehood
 feebling
 frequency
 furbished
