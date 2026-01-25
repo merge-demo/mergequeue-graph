@@ -3898,7 +3898,6 @@ formature
 fischerite
 fry
 forebrain
-firmamental
 fraple
 ferrocyanogen
 falsehearted
@@ -5314,6 +5313,7 @@ fleadock
 fleahopper
 fatiha
 flinger
+firmamental
 fructuously
 fimbrilla
 framing
