@@ -1688,6 +1688,7 @@ fellest
 flatworm
 fieldmice
 fragmentation
+famatinite
 folioing
 fleshless
 festa
@@ -1752,7 +1753,6 @@ fossildom
 fibropsammoma
 fantasmagoric
 frailero
-famatinite
 featheredged
 fanzines
 forejudgment
