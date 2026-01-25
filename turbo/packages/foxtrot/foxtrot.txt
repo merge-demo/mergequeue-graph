@@ -885,6 +885,7 @@ formatively
 freshet
 faltboats
 falconets
+foothook
 forzando
 footlike
 folliculose
@@ -4811,7 +4812,6 @@ florida
 flivvers
 fairwater
 falsifiers
-foothook
 flues
 fasting
 frabbit
