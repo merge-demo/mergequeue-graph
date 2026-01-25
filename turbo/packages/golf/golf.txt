@@ -586,7 +586,6 @@ gormandiser
 gagership
 goldflower
 globalize
-granddaddy
 geologize
 ginhound
 galut
@@ -6222,6 +6221,7 @@ gregorianizer
 gob
 greediness
 gazettes
+granddaddy
 goateed
 guitarlike
 gregariousness
