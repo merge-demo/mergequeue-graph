@@ -4665,6 +4665,7 @@ ducklar
 demivambrace
 dorsicollar
 darkling
+decimeters
 drusean
 diminutivize
 dollops
@@ -7952,7 +7953,6 @@ disallowable
 demicylinder
 downsteepy
 diathermal
-decimeters
 disgustful
 dismes
 drupiferous
