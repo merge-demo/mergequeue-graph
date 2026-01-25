@@ -17542,7 +17542,6 @@ abeyancy
 anthracaemia
 apteroid
 adjoining
-apophthegmatist
 amalings
 appeasements
 arrogantness
@@ -19993,6 +19992,7 @@ arnee
 astrofell
 advitant
 arnold
+apophthegmatist
 aptitudinally
 ashweed
 arnusian
