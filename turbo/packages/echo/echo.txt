@@ -2750,7 +2750,6 @@ elegy
 emblematicize
 elegiacally
 eighthly
-exprobate
 essie
 excrescently
 eucatropine
@@ -13833,6 +13832,7 @@ edeology
 extracerebral
 embolo
 elucidative
+exprobate
 effervescingly
 electrophilic
 earworm
