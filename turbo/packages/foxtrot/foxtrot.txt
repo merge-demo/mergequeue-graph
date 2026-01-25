@@ -1688,7 +1688,6 @@ flocculent
 flatworm
 fieldmice
 fragmentation
-famatinite
 folioing
 fleshless
 festa
@@ -6770,6 +6769,7 @@ fantasy
 fleechment
 frosts
 fatstocks
+famatinite
 fadedness
 frosteds
 fledgeless
