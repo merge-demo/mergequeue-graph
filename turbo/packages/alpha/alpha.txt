@@ -5164,7 +5164,6 @@ aphididae
 achen
 affaite
 affect
-anaxonia
 aflicker
 authoritarianism
 amores
@@ -8804,6 +8803,7 @@ allanturic
 actinal
 admirably
 antevocalic
+anaxonia
 arrayment
 armouries
 audiometries
