@@ -4679,7 +4679,6 @@ disnaturalize
 dolente
 diffareation
 demiwolf
-deprivals
 dislip
 devi
 disremember
@@ -16022,6 +16021,7 @@ demihague
 disturn
 diapedesis
 diaphototropic
+deprivals
 decorrugative
 doublespeak
 deamidization
