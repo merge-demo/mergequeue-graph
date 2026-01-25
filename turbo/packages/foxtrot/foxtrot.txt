@@ -3775,7 +3775,6 @@ factor
 filigreeing
 flanconnade
 forestall
-fergusonite
 filmstrips
 filo
 furnitureless
@@ -7345,6 +7344,7 @@ foolheaded
 foraminulate
 fought
 france
+fergusonite
 foraneen
 ferrateen
 formaldehydesulphoxylic
