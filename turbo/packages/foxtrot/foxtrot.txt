@@ -1108,7 +1108,6 @@ franticness
 fishling
 foremention
 fastback
-fraunch
 frizing
 foulish
 farfetched
@@ -9064,6 +9063,7 @@ faineantism
 fractionalize
 forthinking
 freakful
+fraunch
 foreparents
 fleetwing
 frap
