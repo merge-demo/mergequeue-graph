@@ -11234,7 +11234,6 @@ beaker
 boder
 backage
 burkes
-beacher
 brazenness
 bracts
 bezesteen
@@ -17666,6 +17665,7 @@ barbettes
 biotoxin
 bilsteds
 bulldogs
+beacher
 bookkeeper
 burkha
 beplague
