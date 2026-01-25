@@ -3526,6 +3526,7 @@ bedust
 bestore
 brookites
 bathed
+ballonette
 bellower
 bathes
 backslidden
@@ -4993,7 +4994,6 @@ beest
 babbools
 bibation
 bromatology
-ballonette
 breastsummer
 bilinguist
 boodling
