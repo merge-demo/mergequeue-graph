@@ -3798,7 +3798,6 @@ goldang
 gruffy
 gids
 gingeleys
-grandchild
 granulitize
 griddlecakes
 gifola
@@ -3810,6 +3809,7 @@ gigelira
 gaolerness
 granthi
 guanylic
+grandchild
 granulitization
 gell
 galanas
