@@ -11229,7 +11229,6 @@ chlorguanide
 crisps
 chlorhexidine
 chlorhydric
-chalcophile
 chloriamb
 chloriambus
 chlorid
@@ -27658,6 +27657,7 @@ clockers
 chincloth
 cowier
 cyanaurate
+chalcophile
 copalms
 cowiest
 carnage
