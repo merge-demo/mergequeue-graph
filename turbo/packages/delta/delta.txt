@@ -5924,7 +5924,6 @@ depeculate
 deadeningly
 demilitarizes
 deprogrammings
-deprograms
 dropforged
 deuterostoma
 deprome
@@ -12767,6 +12766,7 @@ disloyalty
 decrepity
 downcomer
 doored
+deprograms
 disloyalties
 dislove
 dandlingly
