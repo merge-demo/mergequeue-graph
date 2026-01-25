@@ -1575,7 +1575,6 @@ electrosynthetically
 energeticness
 eglantines
 endocardia
-ethnogenist
 exobiologist
 equinity
 exect
@@ -5018,6 +5017,7 @@ euthenasia
 extensionally
 eldorado
 empathizing
+ethnogenist
 epitheliotoxin
 ectrodactylism
 eleutheria
