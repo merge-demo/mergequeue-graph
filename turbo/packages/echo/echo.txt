@@ -426,7 +426,6 @@ ecballium
 expugnable
 enrolle
 ecbole
-explained
 ellipsone
 elytroposis
 enemyship
@@ -769,6 +768,7 @@ euomphalid
 ecrase
 entifical
 enclitic
+explained
 escort
 extense
 eremophilous
