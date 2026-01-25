@@ -3216,6 +3216,7 @@ gesturer
 gutti
 gametophytic
 goodhearted
+genapper
 grainedness
 genuses
 goldminer
@@ -4062,7 +4063,6 @@ gilder
 glycerogelatin
 giraffish
 glazed
-genapper
 guanase
 gimleteyed
 glutamine
