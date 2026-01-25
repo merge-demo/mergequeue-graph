@@ -5543,7 +5543,6 @@ catabolin
 catabolism
 catabolite
 catabolized
-claim
 counterwrite
 congaing
 catachreses
@@ -17289,6 +17288,7 @@ chronist
 coamings
 caryophyllous
 chamberlainship
+claim
 couter
 centum
 comprehensives
