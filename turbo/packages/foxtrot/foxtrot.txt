@@ -405,7 +405,6 @@ fibber
 firetrap
 frustraneous
 frutices
-fribbled
 fasciae
 fibrocartilaginous
 flouting
@@ -5419,6 +5418,7 @@ foresummer
 feridjee
 fanatic
 fretsome
+fribbled
 fleeter
 flex
 fusionless
