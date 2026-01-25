@@ -16165,7 +16165,6 @@ adeps
 allometry
 antiskid
 amorphia
-apteryges
 agathism
 antsigne
 andron
@@ -19200,6 +19199,7 @@ amidship
 asexualize
 arctoidean
 arctos
+apteryges
 arctosis
 ager
 allituric
