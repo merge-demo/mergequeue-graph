@@ -6525,6 +6525,7 @@ afterripening
 arbalestre
 apocarpous
 anoraks
+altrose
 acknowledgment
 asperge
 asplanchnic
@@ -15574,7 +15575,6 @@ anomophyllous
 armadillo
 ailurophile
 aquage
-altrose
 assumpt
 antimoralistic
 acron
