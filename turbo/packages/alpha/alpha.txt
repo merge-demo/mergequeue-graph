@@ -16665,7 +16665,6 @@ araby
 apertness
 audubonistic
 acetomorphine
-abnormalism
 ambocoelia
 actionable
 apertometer
@@ -25184,6 +25183,7 @@ almonry
 agist
 acidifiable
 anthropomantist
+abnormalism
 asynartetic
 avera
 angrite
