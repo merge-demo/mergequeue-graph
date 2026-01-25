@@ -11542,7 +11542,6 @@ fishings
 famose
 fibs
 fress
-folio
 fretfully
 footlessly
 fusiform
@@ -11557,6 +11556,7 @@ fusile
 flytier
 fulgurator
 fulmar
+folio
 futhermore
 finnickiest
 forthbringing

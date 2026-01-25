@@ -6952,7 +6952,6 @@ galvanoplastical
 goof
 gwantus
 goofah
-guaiac
 greystone
 gebanga
 gauntries
@@ -8129,6 +8128,7 @@ granulocytic
 gambroon
 glazier
 gemmiparous
+guaiac
 goosing
 gossipers
 geotaxy
