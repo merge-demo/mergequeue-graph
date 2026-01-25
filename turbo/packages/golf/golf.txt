@@ -4539,6 +4539,7 @@ gilim
 grammaticaster
 graveman
 gobbledygook
+glossotherium
 graphometry
 glim
 goobers
@@ -6402,7 +6403,6 @@ gephyrocercy
 glossopteris
 gloats
 glassman
-glossotherium
 gobiesocid
 gnathitis
 geostrophic
