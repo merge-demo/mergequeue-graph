@@ -2437,7 +2437,6 @@ bareback
 butterwort
 bummalo
 benzpinacone
-bums
 bareca
 briar
 bristlecone
@@ -13376,6 +13375,7 @@ bisulc
 beothuk
 boltant
 bothway
+bums
 bunched
 bediapers
 botocudo
