@@ -5793,6 +5793,7 @@ ephoi
 effluvia
 environing
 elephant
+embryotrophe
 electroencephalograms
 egyptologer
 embraces
@@ -12304,7 +12305,6 @@ entach
 exerce
 equimultiple
 exceptious
-embryotrophe
 epanisognathous
 endotracheitis
 equimolecular
