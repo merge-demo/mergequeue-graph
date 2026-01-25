@@ -4841,7 +4841,6 @@ foldedly
 frumpy
 fives
 fibrinate
-fungian
 fellage
 forbears
 freedmen
@@ -7932,6 +7931,7 @@ fike
 firy
 fantasticness
 fervorous
+fungian
 federalisation
 flakeless
 fopdoodle
