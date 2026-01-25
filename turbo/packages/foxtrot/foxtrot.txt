@@ -5647,7 +5647,6 @@ freestyle
 fishwife
 flinkite
 ferricyanide
-fluffer
 fordicidia
 ferratin
 frictionlessness
@@ -7624,6 +7623,7 @@ foolhardy
 flaxy
 flashlights
 freibergite
+fluffer
 fileted
 fortyish
 frankmarriage
