@@ -12084,7 +12084,6 @@ chouanize
 committment
 churchwise
 cobaltite
-compluvium
 chounce
 coalesced
 collapsible
@@ -27276,6 +27275,7 @@ cattiness
 coupon
 cornbrash
 cowal
+compluvium
 concatenating
 coupons
 coups
