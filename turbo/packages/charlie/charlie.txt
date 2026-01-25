@@ -6678,7 +6678,6 @@ cetologies
 cedrol
 corticiform
 cedrus
-crioceris
 cardiosymphysis
 cedula
 cee
@@ -9111,6 +9110,7 @@ charterism
 charterless
 chartermaster
 circumpacific
+crioceris
 charters
 cryptograms
 cindered
