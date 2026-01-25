@@ -1526,7 +1526,6 @@ foulards
 flauntiness
 forepiece
 faunish
-fleecing
 foamers
 falsism
 followeth
@@ -10981,6 +10980,7 @@ fumbled
 farde
 fausen
 frostiest
+fleecing
 flintiest
 foreproffer
 foreweep
