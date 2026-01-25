@@ -5823,7 +5823,6 @@ fowling
 factorially
 floatsmen
 filled
-fosterable
 fluff
 flaxbush
 farthingale
@@ -11581,6 +11580,7 @@ forlanas
 freity
 floscular
 fissional
+fosterable
 foregallery
 fussbudgety
 fevers
