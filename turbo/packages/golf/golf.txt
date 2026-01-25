@@ -8378,7 +8378,6 @@ gurging
 gheber
 graycoat
 graveside
-gravamen
 georgia
 gyves
 guaiacums
@@ -9376,6 +9375,7 @@ guarinite
 griots
 genotypic
 goffering
+gravamen
 garroting
 gesticulating
 grosshead
