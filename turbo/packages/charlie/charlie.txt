@@ -4623,6 +4623,7 @@ cavalcading
 cyanea
 chutnee
 colorationally
+csects
 carnosine
 carnous
 carns
@@ -8003,7 +8004,6 @@ chacmas
 chaco
 calfs
 chacona
-csects
 chaconnes
 caudatolenticular
 countermovement
