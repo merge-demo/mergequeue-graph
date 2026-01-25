@@ -9845,6 +9845,7 @@ chemiotropism
 crinet
 cannonading
 cryptogenic
+cochlitis
 chemism
 choosy
 chemisorb
@@ -25484,7 +25485,6 @@ capsidae
 cheder
 corollitic
 cespitose
-cochlitis
 coromell
 chronoscopv
 coronach
