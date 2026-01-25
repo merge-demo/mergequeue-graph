@@ -13454,7 +13454,6 @@ bracteate
 brayer
 bottlenose
 bottlestone
-bottling
 blemishes
 borstall
 baronethood
@@ -17374,6 +17373,7 @@ bunged
 busheling
 buccinator
 bimorphemic
+bottling
 bijection
 bunghole
 butteries
