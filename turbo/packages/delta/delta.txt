@@ -13103,7 +13103,6 @@ dispensed
 dabbed
 disglory
 duce
-diactine
 daggered
 dispeople
 daresay
@@ -15849,6 +15848,7 @@ dankly
 dynastes
 deputise
 detent
+diactine
 deputyship
 dorsopleural
 derationalization
