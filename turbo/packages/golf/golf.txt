@@ -7322,7 +7322,6 @@ gossamers
 geochronometric
 glareole
 ghee
-gobstopper
 groggery
 graphs
 gaberlunzie
@@ -9207,6 +9206,7 @@ gryllotalpa
 gobber
 glassworker
 griqualander
+gobstopper
 geminis
 gleaning
 gardenmaking
