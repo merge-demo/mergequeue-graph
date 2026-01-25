@@ -22808,7 +22808,6 @@ consenters
 consentience
 consentient
 consenting
-consentingly
 chaldee
 cytoblastematous
 consentive
@@ -29577,6 +29576,7 @@ crittur
 cardiokinetic
 consular
 crivetz
+consentingly
 chastening
 constraint
 coenogenetic
