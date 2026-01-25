@@ -3461,7 +3461,6 @@ fixture
 figurae
 foredetermination
 flusk
-formulism
 fictionalizes
 fisetin
 farness
@@ -6017,6 +6016,7 @@ fluoresce
 fetiparous
 fustic
 fleam
+formulism
 finking
 fluviology
 faeroese
