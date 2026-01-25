@@ -9639,6 +9639,7 @@ firnification
 finalities
 flukier
 foamer
+fever
 frons
 freezer
 freeloaded
@@ -11482,7 +11483,6 @@ flotant
 fructuousness
 fashery
 forhooie
-fever
 fructidor
 furunculous
 furzeling
