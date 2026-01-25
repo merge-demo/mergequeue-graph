@@ -5252,7 +5252,6 @@ excretolic
 enslaves
 endocorpuscular
 endorsed
-enchantress
 emendating
 effector
 emeriti
@@ -9462,6 +9461,7 @@ electives
 eliquation
 exsculp
 electronic
+enchantress
 extroverted
 escortage
 ekaboron
