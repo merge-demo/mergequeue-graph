@@ -931,6 +931,7 @@ bismarine
 boscage
 berryless
 bivinyl
+battlesome
 biopsychic
 belligerently
 bagsful
@@ -3725,7 +3726,6 @@ battler
 battleships
 barrace
 blushiness
-battlesome
 brigantes
 battlestead
 battlewagon
