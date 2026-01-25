@@ -5269,7 +5269,6 @@ gangmaster
 glycyrrhizin
 gimps
 glycogenolytic
-gangsters
 gammaroid
 gateposts
 goodman
@@ -10368,6 +10367,7 @@ griddles
 glycyls
 gelatiniser
 gutta
+gangsters
 gullies
 gems
 groans
