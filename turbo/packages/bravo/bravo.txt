@@ -3171,7 +3171,6 @@ baptisin
 bataleur
 bashmuric
 boryl
-biperforate
 bivouacking
 branchiomerism
 busine
@@ -13474,6 +13473,7 @@ barbaloin
 blennotorrhea
 brotherton
 becomes
+biperforate
 boulter
 bedticks
 bottstick
