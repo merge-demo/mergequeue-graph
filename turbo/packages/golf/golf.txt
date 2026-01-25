@@ -1882,6 +1882,7 @@ germ
 glycogenic
 gaussmeter
 gatteridge
+gagwriter
 galacaceae
 gomart
 gammaridae
@@ -6815,7 +6816,6 @@ gallican
 gamelotte
 glaciomarine
 gunnings
-gagwriter
 ghostflower
 gastrojejunal
 grandpa
