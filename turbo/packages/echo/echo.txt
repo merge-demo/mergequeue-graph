@@ -1071,7 +1071,6 @@ extraposition
 elective
 exfigure
 earock
-equipoised
 envined
 edificatory
 epimerize
@@ -3092,6 +3091,7 @@ epistolographist
 edgewise
 engrossers
 eonisms
+equipoised
 encyclopedically
 expirant
 euectic
