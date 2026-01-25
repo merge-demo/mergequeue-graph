@@ -2596,6 +2596,7 @@ greillade
 glaucine
 gesticular
 gasometrical
+glasser
 glossolabial
 geiger
 goutte
@@ -9050,7 +9051,6 @@ glottogonic
 greffotome
 groset
 glassworking
-glasser
 genitive
 gigahertz
 gentianwort
