@@ -5002,7 +5002,6 @@ densification
 dayal
 drivingly
 denaturalised
-denaturalising
 denaturalized
 dynamogeneses
 drovy
@@ -13042,6 +13041,7 @@ decimosexto
 dispassion
 debonnaire
 dispended
+denaturalising
 dissipative
 dopes
 dipeptide
