@@ -2036,7 +2036,6 @@ feigners
 fluoridation
 flosses
 foody
-feigns
 fidleys
 flitch
 farouche
@@ -4491,6 +4490,7 @@ fabulist
 fingernails
 fikie
 flammule
+feigns
 filleul
 francophobia
 formylating
