@@ -3192,7 +3192,6 @@ annamese
 alphabeted
 aob
 attributer
-actuality
 actualization
 actualness
 allochromatic
@@ -14276,6 +14275,7 @@ anthemata
 agavose
 amugis
 anthemia
+actuality
 archebiosis
 archflatterer
 avogram
