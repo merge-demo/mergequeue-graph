@@ -11038,7 +11038,6 @@ amounters
 amouli
 anathematiser
 antilepsis
-apogeic
 ariki
 amovable
 acronarcotic
@@ -19948,6 +19947,7 @@ angusticlave
 abbreviated
 alexander
 armpiece
+apogeic
 ananthropism
 asthenolith
 aramis
