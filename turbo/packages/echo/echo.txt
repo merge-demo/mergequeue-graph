@@ -1680,7 +1680,6 @@ eisteddfodic
 eyeballed
 eyeballing
 entrusting
-eyebalm
 electromotograph
 entarthrotic
 eyeberry
@@ -5030,6 +5029,7 @@ ethicist
 enunciation
 escrod
 escrol
+eyebalm
 eavesdrop
 endearingly
 ectropium
