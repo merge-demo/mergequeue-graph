@@ -9896,6 +9896,7 @@ gormandized
 gravelly
 gusla
 grander
+gonomere
 grainsick
 gallop
 galiots
@@ -10045,7 +10046,6 @@ gimmal
 gyneconitis
 grabens
 gumshoed
-gonomere
 gigabits
 gibblegable
 guerrillas
