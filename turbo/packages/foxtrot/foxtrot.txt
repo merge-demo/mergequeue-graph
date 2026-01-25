@@ -1382,7 +1382,6 @@ fruticeous
 flaxdrop
 filecard
 flenser
-fullword
 filicology
 fratchy
 forspoke
@@ -4070,6 +4069,7 @@ fanaticised
 fusibly
 flophouses
 formulist
+fullword
 fendered
 flateria
 fluffy
