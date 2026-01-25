@@ -160,7 +160,6 @@ butteraceous
 blowzed
 busboys
 babouvism
-babouvist
 babs
 besweeten
 bombastic
@@ -6193,6 +6192,7 @@ bedraggles
 beetle
 baffy
 brazas
+babouvist
 bibliography
 bijugous
 benevolency

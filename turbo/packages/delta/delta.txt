@@ -3074,7 +3074,6 @@ deadliness
 downbent
 doohickus
 dentaria
-defacer
 danes
 dentiscalp
 desole
@@ -6024,6 +6023,7 @@ demanding
 deselecting
 demolitionary
 deputes
+defacer
 damiana
 disacknowledgement
 doughbelly
