@@ -4791,6 +4791,7 @@ encountering
 eros
 ecclesial
 evilspeaking
+elvanitic
 ethical
 erysimum
 ecize
@@ -12325,7 +12326,6 @@ etymologicon
 elecampane
 effortless
 equilin
-elvanitic
 exercitorian
 efs
 epicurize
