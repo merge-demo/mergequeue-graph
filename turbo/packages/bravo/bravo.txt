@@ -5356,7 +5356,6 @@ blueweed
 besoothement
 buyable
 barodynamic
-barbarisation
 birne
 begrett
 begrim
@@ -15744,6 +15743,7 @@ benzophenazine
 backtracked
 brochant
 bananaquit
+barbarisation
 beneficiating
 brochettes
 burble
