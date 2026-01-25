@@ -927,7 +927,6 @@ falangism
 fadaise
 fracedinous
 fallouts
-ferrate
 faquir
 farad
 faradaic
@@ -7287,6 +7286,7 @@ fibrilations
 fossilism
 filefish
 frache
+ferrate
 fenestral
 fagald
 factorylike
