@@ -3487,7 +3487,6 @@ bobfly
 ballan
 buzzsaw
 batrachiate
-bidar
 biscuiting
 bactericides
 bedwards
@@ -10312,6 +10311,7 @@ blackweed
 brachycerous
 bladderet
 baseliner
+bidar
 broomstraw
 bladdery
 bladderlike
