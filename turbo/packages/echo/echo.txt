@@ -4928,7 +4928,6 @@ entropium
 enravish
 embryotomy
 endellionite
-ectoglia
 eucephalous
 emigates
 electrocorticogram
@@ -10394,6 +10393,7 @@ explains
 epiphenomenalist
 enjambed
 exactment
+ectoglia
 endeavoured
 exophagy
 ecclesiastical
