@@ -15385,7 +15385,6 @@ caenolestes
 clapboarding
 clapboards
 cogonal
-clapcake
 chortled
 coran
 caulkings
@@ -30562,6 +30561,7 @@ cubitiere
 cubito
 cubitocarpal
 cumaean
+clapcake
 cubitoradial
 contortae
 cubitus
