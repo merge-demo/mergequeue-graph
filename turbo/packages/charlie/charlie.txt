@@ -11641,7 +11641,6 @@ cholerophobia
 cruciferous
 camphylene
 cyanamids
-cholesteatoma
 concorrezanes
 cholesteatomatous
 cholesteremia
@@ -15108,6 +15107,7 @@ cladanthous
 cladding
 couplet
 chlorophyceous
+cholesteatoma
 conidia
 clade
 cornucopia
