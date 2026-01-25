@@ -8138,6 +8138,7 @@ fanaticalness
 foretell
 figurehead
 filmiest
+foiling
 fillister
 fathogram
 foretellers
@@ -10611,7 +10612,6 @@ filigrain
 fuzzes
 fulgent
 fuddler
-foiling
 fix
 foilsman
 fringillaceous
