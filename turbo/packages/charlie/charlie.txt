@@ -7631,7 +7631,6 @@ coiffing
 cyclings
 curettes
 concessionist
-centralizer
 confinements
 chrysoeriol
 content
@@ -18360,6 +18359,7 @@ cogman
 coralloid
 counterbuilding
 conformers
+centralizer
 cogmen
 chenevixite
 conterminant
