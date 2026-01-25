@@ -5023,7 +5023,6 @@ ectrodactylism
 eleutheria
 etudes
 ethicist
-enunciation
 escrod
 escrol
 eyebalm
@@ -9447,6 +9446,7 @@ eschewed
 expand
 ecbolics
 earth
+enunciation
 embedment
 eam
 euryale
