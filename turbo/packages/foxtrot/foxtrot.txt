@@ -5329,7 +5329,6 @@ flanken
 fullmouth
 fascia
 flitterbat
-fruiteries
 ferulaic
 foreclosed
 fissured
@@ -7180,6 +7179,7 @@ foremind
 flukewort
 foothalt
 filths
+fruiteries
 fend
 febriferous
 fishified
