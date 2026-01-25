@@ -109,6 +109,7 @@ featheredges
 fluidization
 facient
 furaldehyde
+feminized
 facilitate
 flocks
 facilitation
@@ -11746,7 +11747,6 @@ felicitousness
 fauvette
 fenchol
 faultfinders
-feminized
 fuzzier
 fuzziest
 forstraught
