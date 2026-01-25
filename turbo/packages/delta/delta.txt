@@ -5862,7 +5862,6 @@ disprofit
 damsel
 diploptera
 dyscrasy
-disaccustomed
 dandyisms
 dispender
 danicism
@@ -11223,6 +11222,7 @@ disburdenment
 disgage
 donnybrooks
 disbury
+disaccustomed
 dryster
 diosmose
 definitively
