@@ -3500,6 +3500,7 @@ getpenny
 greaselessness
 gatewayman
 girlfully
+grannom
 ganymede
 gossans
 gracile
@@ -6513,7 +6514,6 @@ graciles
 grammatophyllum
 grand
 ganglioneural
-grannom
 glaucic
 graceless
 gasolineless
