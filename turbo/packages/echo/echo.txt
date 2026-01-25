@@ -4931,7 +4931,6 @@ engraphic
 excreation
 ebonises
 exiguous
-essentia
 exul
 effuses
 enschedule
@@ -12241,6 +12240,7 @@ exch
 endosteal
 electrometallurgy
 enchases
+essentia
 expertized
 encommon
 evolutionarily
