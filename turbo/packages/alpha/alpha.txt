@@ -1356,6 +1356,7 @@ accension
 annulately
 agapanthus
 accept
+assumpt
 approximating
 antistimulant
 amintor
@@ -15578,7 +15579,6 @@ anomophyllous
 armadillo
 ailurophile
 aquage
-assumpt
 antimoralistic
 acron
 accrescence
