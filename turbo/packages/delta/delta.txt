@@ -2133,6 +2133,7 @@ diabolify
 decangular
 dermotropic
 daedalus
+diaphysial
 decently
 dynamitish
 discour
@@ -8551,7 +8552,6 @@ diaphones
 demilitarising
 dexterously
 deflex
-diaphysial
 derisiveness
 dataries
 diaphonic
