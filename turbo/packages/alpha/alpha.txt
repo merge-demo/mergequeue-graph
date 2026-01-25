@@ -3978,7 +3978,6 @@ ankuses
 acronymize
 advect
 aphaeresis
-allocate
 admi
 anhydrously
 apopemptic
@@ -4191,6 +4190,7 @@ agatelike
 adorer
 andhra
 adorers
+allocate
 adoringly
 abomas
 australianism
