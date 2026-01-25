@@ -9680,6 +9680,7 @@ cubiti
 chevre
 convocate
 cheetahs
+countermen
 cheetul
 casse
 coagent
@@ -31462,7 +31463,6 @@ contradict
 conscripted
 currantworm
 caulking
-countermen
 crewelist
 curred
 contorta
