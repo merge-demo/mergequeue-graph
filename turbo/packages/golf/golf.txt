@@ -1401,6 +1401,7 @@ goodnight
 graphological
 grandgore
 garancine
+garlandlike
 gnamma
 golfs
 gemologists
@@ -2143,7 +2144,6 @@ gharris
 grossness
 gerontine
 gdinfo
-garlandlike
 golfings
 gamelang
 gaycat
