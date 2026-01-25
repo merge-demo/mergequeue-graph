@@ -4001,7 +4001,6 @@ cosmosphere
 corniculate
 coassisted
 crotalinae
-carcharias
 cerotene
 carchariid
 clerisy
@@ -11230,6 +11229,7 @@ chlorhexidine
 chlorhydric
 chloriamb
 chloriambus
+carcharias
 chlorid
 chicanos
 chloridate
