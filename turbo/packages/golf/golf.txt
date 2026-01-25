@@ -1569,7 +1569,6 @@ glassless
 ghegish
 gaited
 gregarinoidea
-gluelikeness
 gout
 gassing
 gremmies
@@ -6069,6 +6068,7 @@ gravities
 goodby
 gordiacean
 girja
+gluelikeness
 gardinol
 gallimaufry
 guanos
