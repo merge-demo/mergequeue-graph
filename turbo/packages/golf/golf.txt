@@ -5614,7 +5614,6 @@ gaelicist
 grubbiest
 glaringly
 groma
-glyoxal
 goodbye
 gratefuller
 glasses
@@ -7597,6 +7596,7 @@ greyly
 graft
 government
 gerbil
+glyoxal
 glooms
 gyal
 gunkholing
