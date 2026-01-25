@@ -868,7 +868,6 @@ gloriousness
 greeing
 gire
 grammaticality
-gonagia
 gonadotropin
 gameless
 gammy
@@ -1416,6 +1415,7 @@ graviers
 governless
 glumpiest
 gnosticity
+gonagia
 gadget
 gangrels
 guild
