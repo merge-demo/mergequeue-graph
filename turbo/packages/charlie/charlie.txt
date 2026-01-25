@@ -5891,7 +5891,6 @@ catenane
 catenarian
 catenas
 caudaite
-catenate
 crooisite
 catenation
 catenative
@@ -28932,6 +28931,7 @@ colloquialism
 cribbed
 cribbing
 compensating
+catenate
 cribbiting
 crocheted
 cholericly
