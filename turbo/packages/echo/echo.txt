@@ -7105,7 +7105,6 @@ epiplexis
 extrabranchial
 epithesis
 electrodeless
-energic
 expelling
 esophagismus
 epitaxially
@@ -9211,6 +9210,7 @@ extremer
 equipper
 etheric
 earthless
+energic
 educatedly
 excerption
 erotogenetic
