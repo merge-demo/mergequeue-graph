@@ -4969,7 +4969,6 @@ epithelioblastoma
 endogastric
 emblazonment
 enders
-evangelistics
 exposal
 endgate
 enneads
@@ -10873,6 +10872,7 @@ euphemisation
 enarme
 euphemise
 elected
+evangelistics
 euphemising
 enshroud
 encores
