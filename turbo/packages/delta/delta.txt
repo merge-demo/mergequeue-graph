@@ -5944,7 +5944,6 @@ darcy
 decimetres
 doubledamn
 deckswabber
-debord
 decuples
 dragons
 diopside
@@ -10180,6 +10179,7 @@ delitescency
 deemed
 dinkier
 dismalities
+debord
 dinkiest
 dinking
 defatting
