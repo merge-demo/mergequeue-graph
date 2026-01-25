@@ -5937,7 +5937,6 @@ groucho
 granitizing
 guytrash
 gimmicked
-gurneys
 galliambus
 gome
 glutelins
@@ -8943,6 +8942,7 @@ gametogony
 groutiest
 gillion
 glycogelatin
+gurneys
 grimalkin
 germless
 gastrodidymus
