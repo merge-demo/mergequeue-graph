@@ -2526,7 +2526,6 @@ enounce
 eophyton
 endopterygote
 epiphytal
-exonerate
 emoluments
 emancipators
 enwheeling
@@ -12967,6 +12966,7 @@ examines
 enfeeble
 erythrol
 expectantly
+exonerate
 expectation
 emictory
 exodoi
