@@ -206,6 +206,7 @@ ehuawa
 entte
 exoticalness
 edaphodont
+epitheliolysis
 empetrous
 eluvium
 echogram
@@ -5700,7 +5701,6 @@ engineers
 engineless
 engineman
 eneuch
-epitheliolysis
 eudidymite
 egalites
 expostulates
