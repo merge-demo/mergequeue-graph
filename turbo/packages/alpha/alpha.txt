@@ -525,6 +525,7 @@ ablatitious
 acephala
 ablatival
 agitator
+axonic
 alimentotherapy
 ablative
 anatomopathological
@@ -10387,7 +10388,6 @@ autogenetic
 altarwise
 alkanna
 abbeys
-axonic
 acceptances
 adstipulation
 apoplectoid
