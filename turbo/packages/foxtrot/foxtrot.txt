@@ -621,6 +621,7 @@ frazil
 fluctiferous
 flavorless
 fumers
+filosus
 fragaria
 floodways
 fleshes
@@ -6315,7 +6316,6 @@ frags
 fluidity
 fuzzy
 funicle
-filosus
 flubdubbery
 flatulence
 flack
