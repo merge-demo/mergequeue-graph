@@ -10476,7 +10476,6 @@ adfrozen
 antisensuous
 amidoazo
 anchoic
-amidofluorid
 aperulosid
 anointer
 amidoguaiacol
@@ -20166,6 +20165,7 @@ aplectrum
 arrases
 acoelomata
 arrastra
+amidofluorid
 aoli
 acidulation
 arratel
