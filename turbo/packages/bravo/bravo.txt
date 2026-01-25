@@ -8994,6 +8994,7 @@ bossisms
 biographies
 boreable
 balei
+boeotic
 bummerish
 brattles
 bioherm
@@ -16189,7 +16190,6 @@ brazilians
 breweries
 bourgs
 bibliomanianism
-boeotic
 borrowing
 begnawed
 bramblier
