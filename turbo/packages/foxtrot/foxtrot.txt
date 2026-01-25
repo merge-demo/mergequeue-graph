@@ -3078,6 +3078,7 @@ foursomes
 fogbank
 foreshow
 fountainheads
+flocculose
 fibrocement
 frenzies
 fieulamort
@@ -11396,7 +11397,6 @@ fleurette
 filminess
 flushboard
 feasor
-flocculose
 furniture
 flatlings
 frustrable
