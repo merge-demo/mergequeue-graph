@@ -5886,7 +5886,6 @@ coigning
 chaffier
 catella
 ctenodactyl
-catena
 catenae
 catenane
 catenarian
@@ -8564,6 +8563,7 @@ cablish
 cymaphen
 catanadromous
 chandui
+catena
 chandul
 chane
 caitiff
