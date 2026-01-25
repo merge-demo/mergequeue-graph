@@ -6902,6 +6902,7 @@ exclaims
 expense
 encyrtid
 embargoed
+enframing
 evangelicality
 enjoyableness
 erick
@@ -9064,7 +9065,6 @@ ectasia
 epistropheus
 echevaria
 equivocations
-enframing
 educe
 endearedness
 enteromorpha
