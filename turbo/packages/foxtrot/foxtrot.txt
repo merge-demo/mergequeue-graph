@@ -7566,6 +7566,7 @@ foreconclude
 flagonet
 floggers
 ficoidal
+fractions
 futuristically
 forecourts
 freeholding
@@ -9164,7 +9165,6 @@ fungosity
 freights
 fossorial
 fractionization
-fractions
 forncast
 fads
 formularizer
