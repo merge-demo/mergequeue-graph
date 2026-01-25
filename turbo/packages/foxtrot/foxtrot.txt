@@ -362,6 +362,7 @@ foredenounce
 farandoles
 facsim
 fluids
+familistery
 flowerily
 flusterer
 forcedness
@@ -2835,7 +2836,6 @@ fisty
 finable
 figworm
 fungid
-familistery
 fortuned
 fettered
 frowstiness
