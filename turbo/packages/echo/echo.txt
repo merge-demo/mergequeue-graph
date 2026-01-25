@@ -394,7 +394,6 @@ emotiveness
 exacters
 ebonized
 enfolden
-enshadow
 epact
 eutrophic
 embayed
@@ -1935,6 +1934,7 @@ endict
 exarchateship
 elementalist
 ejaculatory
+enshadow
 erdvark
 elishah
 ejectively
