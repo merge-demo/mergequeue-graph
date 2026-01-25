@@ -737,6 +737,7 @@ ecospecific
 emblematised
 extoled
 effaces
+evaporate
 espinel
 endermatic
 effascinate
@@ -5549,7 +5550,6 @@ embryulcus
 enflower
 essexite
 electrochemical
-evaporate
 electrologic
 ectognatha
 epidendrum
