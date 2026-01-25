@@ -2296,6 +2296,7 @@ geognosis
 guaranis
 gondoliere
 ge
+glaciers
 gagsters
 gingival
 guige
@@ -6740,7 +6741,6 @@ garvanzo
 gonionia
 genital
 genericness
-glaciers
 ganam
 gestatorial
 gamgee
