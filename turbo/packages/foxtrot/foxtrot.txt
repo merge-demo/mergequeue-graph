@@ -8042,7 +8042,6 @@ fungaceous
 forestal
 firbolg
 forestalls
-funerals
 flutterer
 fundraise
 fitment
@@ -10727,6 +10726,7 @@ fellmongering
 flavedo
 frutescence
 fetter
+funerals
 forbare
 forecount
 frumpishly
