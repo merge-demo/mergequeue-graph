@@ -3882,7 +3882,6 @@ courie
 carbonylene
 chalukyan
 carbonimeter
-carbonimide
 choultries
 contrastimulant
 chinkle
@@ -16272,6 +16271,7 @@ contraindicate
 clinoid
 clinology
 clinometer
+carbonimide
 clinometry
 coryphaeus
 clinometric
