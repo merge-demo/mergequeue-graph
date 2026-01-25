@@ -901,6 +901,7 @@ geognost
 grassfire
 gobioid
 gusseted
+gospeller
 goosebird
 gharial
 gelatinizability
@@ -2243,7 +2244,6 @@ geotilla
 gradation
 glasswort
 gipons
-gospeller
 gangrel
 grandpaternal
 glamoury
