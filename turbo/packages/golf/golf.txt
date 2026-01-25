@@ -4643,7 +4643,6 @@ girts
 gazelline
 gettered
 gynomonecious
-gise
 granges
 gooder
 gourmandise
@@ -8566,6 +8565,7 @@ gypping
 gastrolatrous
 gemel
 gonidioid
+gise
 gravure
 gossameriness
 gametically
