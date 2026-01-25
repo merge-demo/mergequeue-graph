@@ -6379,7 +6379,6 @@ gongorist
 geostationary
 gaols
 girlchild
-goitral
 guam
 gamboges
 geognostic
@@ -8681,6 +8680,7 @@ greekize
 gavelling
 grammars
 gearing
+goitral
 gastraeal
 gates
 glunching
