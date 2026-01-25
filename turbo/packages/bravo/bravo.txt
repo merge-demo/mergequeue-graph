@@ -6146,7 +6146,6 @@ baske
 benefactrices
 bepearl
 blest
-beneficed
 baubees
 beice
 brangle
@@ -9417,6 +9416,7 @@ blennoemesis
 bimolecularly
 bailieship
 bluecaps
+beneficed
 blencorn
 birdseye
 brazil
