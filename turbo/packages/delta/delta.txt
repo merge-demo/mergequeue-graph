@@ -9854,7 +9854,6 @@ dampproofer
 diosgenin
 dynamic
 diversipedate
-dimerism
 defectuous
 dimerization
 dipropargyl
@@ -16513,6 +16512,7 @@ detached
 disagreeables
 disfavouring
 diastole
+dimerism
 dungan
 dradge
 dottiness
