@@ -3230,6 +3230,7 @@ gauze
 geotropically
 grimaces
 galagala
+gazogenes
 gaut
 gossypol
 gyral
@@ -5924,7 +5925,6 @@ glanduligerous
 gensengs
 graylag
 geodesics
-gazogenes
 gaunter
 ginkgoes
 guttles
