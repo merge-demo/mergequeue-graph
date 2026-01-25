@@ -5249,7 +5249,6 @@ deterrent
 degressively
 downhearted
 darkener
-disband
 dentalia
 dentalism
 dodoes
@@ -13831,6 +13830,7 @@ delectation
 dialogistically
 demurral
 deader
+disband
 driftpin
 dramatis
 dogvane
