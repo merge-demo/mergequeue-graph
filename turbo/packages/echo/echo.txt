@@ -4696,6 +4696,7 @@ emptiest
 encysts
 evenest
 eyepieces
+epigee
 euphrosyne
 enarthrosis
 effulgent
@@ -7784,7 +7785,6 @@ epigastria
 engagement
 embiotocidae
 epigastrocele
-epigee
 elegise
 escapism
 endaze
