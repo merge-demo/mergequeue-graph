@@ -4429,7 +4429,6 @@ belchers
 bypassing
 becloaks
 blackfriars
-batule
 becloak
 bereavement
 boojum
@@ -11981,6 +11980,7 @@ bimillenary
 brother
 bogued
 bogus
+batule
 bottled
 bohemium
 bidders
