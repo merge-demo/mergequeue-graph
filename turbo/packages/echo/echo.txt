@@ -2187,7 +2187,6 @@ emissitious
 engineering
 elderliness
 exponentiated
-expect
 estancieros
 enamor
 enchurch
@@ -10407,6 +10406,7 @@ earwigging
 epiphanize
 electropositive
 enfranchisable
+expect
 exodromic
 exchanged
 ethoxide
