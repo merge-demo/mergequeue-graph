@@ -5036,7 +5036,6 @@ diminishes
 derailed
 donatary
 decalogist
-dendrochirota
 disinhume
 dessicate
 disenabling
@@ -12208,6 +12207,7 @@ depel
 deride
 discoursiveness
 dwarfish
+dendrochirota
 dovecots
 disfrocking
 dysfunctional
