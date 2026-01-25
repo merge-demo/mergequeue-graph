@@ -5073,7 +5073,6 @@ endocoele
 enaliosaurian
 exploiter
 effaced
-expositoriness
 evanishment
 endoconidia
 ergatomorph
@@ -7439,6 +7438,7 @@ ephemerid
 ewe
 ephemeridae
 ephemeroptera
+expositoriness
 eigne
 electronographic
 eyess
