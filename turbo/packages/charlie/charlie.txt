@@ -11724,6 +11724,7 @@ credential
 coexchangeable
 countercouchant
 chondroarthritis
+casserole
 contestant
 chondroblastoma
 chondrocyte
@@ -27384,7 +27385,6 @@ couscous
 castilloa
 couscousou
 creamed
-casserole
 cousinage
 corral
 coffeehoused
