@@ -5605,7 +5605,6 @@ fascism
 frumpiest
 fianchetto
 fillers
-furriners
 flapperish
 fud
 forethinking
@@ -11210,6 +11209,7 @@ funiculus
 failles
 flamethrowers
 fieldsman
+furriners
 footbridge
 fetoplacental
 fatigability
