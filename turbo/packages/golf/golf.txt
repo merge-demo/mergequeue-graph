@@ -1013,7 +1013,6 @@ gangamopteris
 givers
 groundward
 gynobase
-ghassanid
 gilse
 gurnetty
 grimacing
@@ -1207,6 +1206,7 @@ gimcrackery
 gimmicking
 glanders
 garrisonian
+ghassanid
 geloscopy
 glossectomies
 galegine

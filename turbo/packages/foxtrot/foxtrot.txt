@@ -2307,6 +2307,7 @@ furrowless
 fritter
 fensive
 flippest
+fivebar
 furner
 falbalas
 frillings
@@ -4612,7 +4613,6 @@ fourthly
 fatale
 flange
 folkmooter
-fivebar
 forages
 falconidae
 fractonimbus
