@@ -1303,6 +1303,7 @@ flechettes
 footlocker
 fluctuous
 flindosy
+febrifuges
 flarfishes
 feminophobe
 fatalists
@@ -4262,7 +4263,6 @@ foreordains
 fendable
 fastuous
 floors
-febrifuges
 filacer
 facsimilist
 fumaroid
