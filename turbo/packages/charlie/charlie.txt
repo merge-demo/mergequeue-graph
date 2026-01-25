@@ -6551,7 +6551,6 @@ caviller
 chemins
 cavillous
 cavils
-cyaathia
 cavina
 cynicisms
 cavitary
@@ -20536,6 +20535,7 @@ compassionate
 couthiness
 candidateship
 compassionateness
+cyaathia
 catalepsy
 compassive
 coinhere

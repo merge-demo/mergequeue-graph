@@ -1098,7 +1098,6 @@ evodia
 exploders
 extermined
 exhibitorship
-erinite
 edwina
 extempory
 epeisodion
@@ -7138,6 +7137,7 @@ entomoid
 emboltement
 enwing
 ecclesiasticus
+erinite
 enamines
 eyedness
 eucharistize
