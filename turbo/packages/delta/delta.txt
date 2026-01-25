@@ -2378,6 +2378,7 @@ dee
 discocarp
 diplographic
 diluted
+dimethylamine
 differentiated
 dionise
 drugget
@@ -14448,7 +14449,6 @@ depreciatory
 demeter
 diversory
 disfiguringly
-dimethylamine
 dyester
 divert
 dioptrometer
