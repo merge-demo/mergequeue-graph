@@ -6378,7 +6378,6 @@ doggones
 diglyphic
 diplosphene
 docquet
-druidic
 deewans
 deportment
 disadvanced
@@ -11840,6 +11839,7 @@ discusses
 disciplinate
 discussion
 dominations
+druidic
 dietzeite
 drumfires
 dromomania
