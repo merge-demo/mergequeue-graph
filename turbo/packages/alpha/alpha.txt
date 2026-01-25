@@ -8631,7 +8631,6 @@ alleluiah
 agers
 amnesiacs
 appareled
-allemand
 alleniate
 allentato
 agaty
@@ -10342,6 +10341,7 @@ axe
 androgen
 anatomisable
 anesthesiologies
+allemand
 aviararies
 amerinds
 ailuromania
