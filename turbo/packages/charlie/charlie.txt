@@ -8326,7 +8326,6 @@ capsulolenticular
 cessionaries
 challis
 challises
-challot
 challote
 catalogers
 chalmer
@@ -13834,6 +13833,7 @@ cinerous
 correllation
 cingalese
 cortinae
+challot
 corrupted
 cynghanedd
 catalysis
