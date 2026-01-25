@@ -844,6 +844,7 @@ dwell
 dams
 dyscrystalline
 danoranja
+dactylogram
 disembalm
 debenture
 dolerites
@@ -6482,7 +6483,6 @@ dispositionally
 distressfulness
 dissevering
 determinate
-dactylogram
 disanney
 dynamited
 demonist
