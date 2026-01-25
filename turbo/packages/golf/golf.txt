@@ -6035,6 +6035,7 @@ gruffiness
 gemuetlich
 grizelin
 gonzo
+gamelote
 gallature
 gingle
 grinding
@@ -6998,7 +6999,6 @@ gavel
 gummer
 goofily
 goops
-gamelote
 gladioli
 gumshoes
 glazier
