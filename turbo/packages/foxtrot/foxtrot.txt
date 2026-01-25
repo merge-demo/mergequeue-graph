@@ -3169,7 +3169,6 @@ fiches
 findjan
 feracious
 fusilade
-flutterers
 flavourer
 fluors
 foods
@@ -10935,6 +10934,7 @@ fecundations
 francs
 fulminurate
 fulness
+flutterers
 fess
 fulnesses
 flanconade
