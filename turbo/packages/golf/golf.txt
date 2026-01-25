@@ -1882,6 +1882,7 @@ germ
 glycogenic
 gaussmeter
 gatteridge
+gomart
 gammaridae
 guayabo
 gaucho
@@ -6997,7 +6998,6 @@ gundalow
 gaelicization
 grillade
 grindle
-gomart
 growers
 gigameter
 gaudish
