@@ -1824,6 +1824,7 @@ grizel
 grassy
 glummer
 gabbier
+gypaetus
 glos
 gentile
 gillyflower
@@ -4783,7 +4784,6 @@ geometroidea
 giggish
 guideway
 gobiesociform
-gypaetus
 griffinism
 gynecidal
 glades
