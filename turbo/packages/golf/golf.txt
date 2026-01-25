@@ -620,7 +620,6 @@ glumal
 galbulinae
 guaranian
 glockenspiels
-glossopalatine
 grieben
 guineas
 gorgoniacea
@@ -7977,6 +7976,7 @@ gossiper
 geta
 grandpapa
 geepound
+glossopalatine
 grunting
 geophysicists
 grotesquerie

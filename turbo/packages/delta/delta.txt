@@ -5377,7 +5377,6 @@ disc
 denuder
 dermolysis
 douched
-diligentia
 dialysation
 denumerantive
 disestablished
@@ -16168,6 +16167,7 @@ doo
 desecrate
 deoxygenize
 drewite
+diligentia
 devisal
 dovening
 desireless
