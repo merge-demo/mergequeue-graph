@@ -201,7 +201,6 @@ frasier
 factrix
 footmanship
 fanons
-frass
 fatiscence
 forborne
 forestarling
@@ -7180,6 +7179,7 @@ foothalt
 filths
 fruiteries
 fend
+frass
 febriferous
 fishified
 fishers
