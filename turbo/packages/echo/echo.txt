@@ -3342,6 +3342,7 @@ egglike
 embays
 ergastic
 expulsion
+eyecup
 evangelistic
 ethylenediamine
 extranormal
@@ -5026,7 +5027,6 @@ eyebalm
 eavesdrop
 endearingly
 ectropium
-eyecup
 exemptible
 evertebrata
 emotiovascular
