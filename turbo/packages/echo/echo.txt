@@ -338,7 +338,6 @@ electrodynamic
 enchantment
 expressive
 eczematization
-empeirema
 epacridaceous
 espying
 emulsifier
@@ -1003,6 +1002,7 @@ epigonation
 egilops
 eudyptes
 evitable
+empeirema
 earhole
 elaterist
 economics
