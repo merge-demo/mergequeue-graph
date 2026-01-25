@@ -305,6 +305,7 @@ dorsalis
 demisheath
 dayanim
 daybeacon
+diamagnetism
 dealbate
 daybed
 devchar
@@ -8431,7 +8432,6 @@ dorsiventrally
 duopsony
 degreed
 diamagnet
-diamagnetism
 dredging
 ditrochee
 deflexed
