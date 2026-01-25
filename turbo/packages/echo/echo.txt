@@ -6604,7 +6604,6 @@ embryoctonic
 eched
 exoderms
 enthralled
-entomophagan
 exchangite
 escambron
 enteroischiocele
@@ -12602,6 +12601,7 @@ exocoelum
 epifascial
 empresa
 eteoclus
+entomophagan
 eustathian
 eyeserver
 exocrines
