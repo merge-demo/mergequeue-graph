@@ -707,6 +707,7 @@ bellmouthed
 bodied
 bischofite
 bombardo
+begem
 breathable
 balteus
 boweling
@@ -5264,7 +5265,6 @@ begazing
 bimasty
 borderer
 bedabbling
-begem
 bridesmaiding
 bestseller
 blankbook
