@@ -1651,7 +1651,6 @@ gamuts
 gamelion
 gorkiesque
 grates
-gif
 guilt
 gastrodermal
 gastrodermis
@@ -7454,6 +7453,7 @@ galvanizers
 gonorrhoea
 groundwater
 gazing
+gif
 glaire
 gulpy
 goura
