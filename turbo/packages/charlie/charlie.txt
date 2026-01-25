@@ -7437,6 +7437,7 @@ cystine
 cerasein
 chouser
 cythera
+crick
 cerebrophysiology
 cerastes
 conciliatory
@@ -21605,7 +21606,6 @@ captivities
 condensaries
 condensates
 cultivars
-crick
 corbeled
 crateris
 condensed
