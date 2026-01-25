@@ -2670,6 +2670,7 @@ forkers
 ferulaceous
 ferular
 foreimpression
+fulwa
 fireshaft
 freakery
 feruled
@@ -3438,7 +3439,6 @@ fatigation
 fighting
 formboard
 figo
-fulwa
 foraminifer
 figshell
 flankard
