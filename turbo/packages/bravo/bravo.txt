@@ -394,6 +394,7 @@ bullocky
 beri
 ballium
 broguish
+battalions
 bermudite
 bewailed
 bahuma
@@ -6239,7 +6240,6 @@ brucins
 bearleap
 bookism
 bissextus
-battalions
 biuret
 bosporus
 blastogenesis
