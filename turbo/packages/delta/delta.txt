@@ -2716,7 +2716,6 @@ desmon
 decor
 diplopic
 dappledness
-decurves
 decorable
 deist
 delectable
@@ -10190,6 +10189,7 @@ dishcross
 doblons
 disseisee
 diphthong
+decurves
 defibrination
 desobligeant
 decoys
