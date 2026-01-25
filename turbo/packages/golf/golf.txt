@@ -3958,6 +3958,7 @@ germanish
 galvanograph
 gteau
 geared
+glamorization
 gemmer
 geek
 girlishness
@@ -8978,7 +8979,6 @@ gigant
 greenbelt
 glaucously
 guiltier
-glamorization
 glumaceae
 geosynchronous
 glagah
