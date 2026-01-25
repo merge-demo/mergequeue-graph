@@ -4740,6 +4740,7 @@ dwaibly
 diffeomorphism
 deaconing
 discreetness
+dopants
 demihag
 dodecatylic
 deair
@@ -17631,7 +17632,6 @@ denaturised
 debatefully
 dance
 diffinity
-dopants
 democratism
 diaphragms
 destructibleness
