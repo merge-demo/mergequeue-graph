@@ -886,6 +886,7 @@ bagful
 baggagemaster
 bedamning
 brachydome
+bristlelike
 benzidin
 benzalcohol
 beffroy
@@ -15611,7 +15612,6 @@ born
 bushlet
 bromacetanilide
 barenecked
-bristlelike
 brigander
 beingless
 borer
