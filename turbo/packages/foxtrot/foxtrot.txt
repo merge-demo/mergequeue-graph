@@ -3924,7 +3924,6 @@ flauto
 finew
 fish
 fermentor
-fruitcakey
 fines
 freedom
 frenziedly
@@ -4875,6 +4874,7 @@ flidder
 frogflower
 flatteringly
 fergusite
+fruitcakey
 frenetic
 filamented
 formly
