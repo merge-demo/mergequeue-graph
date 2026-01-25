@@ -2326,6 +2326,7 @@ faultier
 feoffs
 fasciole
 fra
+fade
 fiftyfold
 formalizing
 fer
@@ -4986,7 +4987,6 @@ fungoidal
 forepaw
 ferreous
 ferries
-fade
 fumatory
 forekeel
 faithbreaker
