@@ -5997,7 +5997,6 @@ catheterise
 caudatum
 clienteles
 coiffes
-catheterised
 crabgrass
 catheterism
 catheterization
@@ -19577,6 +19576,7 @@ clours
 columbate
 columbeion
 climath
+catheterised
 columbiad
 columbidae
 cobblestones
