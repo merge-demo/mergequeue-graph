@@ -2581,7 +2581,6 @@ glires
 gn
 generative
 glabbella
-gerrhosaurid
 granatum
 gifts
 generification
@@ -10705,6 +10704,7 @@ guywire
 gerbera
 germinated
 gushily
+gerrhosaurid
 gaumless
 gearwheel
 glyoxim
