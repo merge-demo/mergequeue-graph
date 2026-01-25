@@ -777,7 +777,6 @@ bicentennially
 badland
 badlands
 boation
-buba
 bat
 brushcut
 bygoing
@@ -2605,6 +2604,7 @@ barkcutter
 bifronted
 bhaiyachara
 borana
+buba
 bunglesome
 barkey
 briers
