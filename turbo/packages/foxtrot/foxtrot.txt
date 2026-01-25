@@ -8117,7 +8117,6 @@ fieldmen
 feeble
 flasklet
 factorist
-fumacious
 floodplain
 flamboyer
 formalized
@@ -9601,6 +9600,7 @@ facete
 flounderingly
 familia
 forensic
+fumacious
 floreta
 fieldward
 fumaroidal
