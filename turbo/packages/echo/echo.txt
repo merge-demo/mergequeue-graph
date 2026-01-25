@@ -1647,7 +1647,6 @@ eide
 excommunications
 enemies
 encephalitogenic
-enactors
 empetraceae
 eyewashes
 epigastrium
@@ -2797,6 +2796,7 @@ evasive
 exclamations
 enjeopard
 extricates
+enactors
 ecthyma
 ephebeibeia
 engarble
