@@ -7274,7 +7274,6 @@ dinginess
 desiccative
 doukhobor
 devisers
-defecters
 defecation
 donnie
 dress
@@ -14520,6 +14519,7 @@ dromograph
 dividivis
 diaphanometer
 drugge
+defecters
 disports
 didn
 dad
