@@ -8931,7 +8931,6 @@ chargeably
 chargeant
 charged
 cupping
-chargee
 cataphasia
 chargeful
 chargehouse
@@ -31031,6 +31030,7 @@ clairaudiently
 cuminal
 capitalize
 carbaryl
+chargee
 cuminic
 cuminol
 classes

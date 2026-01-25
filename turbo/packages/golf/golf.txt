@@ -5952,7 +5952,6 @@ gainspeaking
 gluttonish
 grainsman
 granulous
-geometry
 gutterman
 goniatitic
 gyve
@@ -6496,6 +6495,7 @@ geanticlinal
 ghis
 gunster
 geotherm
+geometry
 gamopetalous
 gardenesque
 goldsmithry
