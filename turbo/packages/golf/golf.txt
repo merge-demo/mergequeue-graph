@@ -6020,7 +6020,6 @@ guttiest
 gyttja
 gairfowl
 gnawers
-grinningly
 grane
 gnathopodite
 gneissic
@@ -8143,6 +8142,7 @@ goos
 goulash
 grapelike
 gazingstock
+grinningly
 galeodes
 grapery
 gied
