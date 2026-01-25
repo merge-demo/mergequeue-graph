@@ -7700,6 +7700,7 @@ formal
 fernier
 frayproof
 foreigneering
+fulfillment
 friend
 flexes
 firth
@@ -10839,7 +10840,6 @@ fulfiller
 flambeaux
 fumose
 falutin
-fulfillment
 flavorous
 fulfillments
 fennici
