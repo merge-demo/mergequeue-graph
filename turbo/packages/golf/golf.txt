@@ -2886,6 +2886,7 @@ gomlah
 globulite
 glazes
 grapy
+gemmule
 gaincope
 gomphoses
 gargoylish
@@ -4117,7 +4118,6 @@ globuloid
 glycoproteid
 gastroarthritis
 guaranin
-gemmule
 gaslit
 gainful
 geographical
