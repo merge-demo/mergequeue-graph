@@ -1454,7 +1454,6 @@ fatuism
 felicify
 filasse
 firmness
-futhork
 fatuitous
 foothil
 familiarise
@@ -11092,6 +11091,7 @@ foulard
 furivae
 fessewise
 frostwork
+futhork
 flatter
 functionalist
 fundamentalist
