@@ -2957,7 +2957,6 @@ goluptious
 glutinousness
 gigantomachy
 glueing
-gynecocentric
 glitterance
 geogeny
 gerara
@@ -6669,6 +6668,7 @@ gromatic
 geochronometry
 gibbergunyah
 grattage
+gynecocentric
 growse
 geodic
 gardenize

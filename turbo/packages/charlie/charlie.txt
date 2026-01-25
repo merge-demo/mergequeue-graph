@@ -16320,7 +16320,6 @@ clypeate
 conspicuous
 colporrhexis
 caraco
-columbo
 clypeated
 clypeola
 clypeolar
@@ -17532,6 +17531,7 @@ cocaines
 coeducational
 cygneous
 camelback
+columbo
 cocainisation
 chirology
 circumscriptively
