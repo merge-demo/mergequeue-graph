@@ -4189,7 +4189,6 @@ cardiomyopathy
 camshaft
 cafoy
 cardionecrosis
-cannibal
 cardioneurosis
 cardiopath
 cardiopathic
@@ -10763,6 +10762,7 @@ chillily
 charleen
 chining
 clava
+cannibal
 chinkapin
 craggier
 consequents
