@@ -3854,7 +3854,6 @@ articulary
 antiopiumite
 archrobber
 adipopexia
-adipopexis
 apolline
 aleft
 acrook
@@ -19293,6 +19292,7 @@ archbishopess
 arenga
 another
 axonometry
+adipopexis
 anlas
 agrimony
 arenicolite
