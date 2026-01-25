@@ -10457,6 +10457,7 @@ entocoelic
 emetology
 ettling
 euripi
+ejectives
 etiologue
 endocortex
 execrable
@@ -11809,7 +11810,6 @@ epileptics
 eplot
 externization
 enviably
-ejectives
 ensisternal
 electromagnetically
 equibalance
