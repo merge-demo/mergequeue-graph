@@ -2810,7 +2810,6 @@ chemicophysiological
 calycozoon
 clownish
 cannonier
-cannonries
 cyrtandraceae
 corruptibility
 cannons
@@ -14731,6 +14730,7 @@ citharist
 collectivistic
 coprophiliac
 coesite
+cannonries
 cygnets
 chaiseless
 citharoedi
