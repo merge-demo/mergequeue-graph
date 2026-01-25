@@ -2405,6 +2405,7 @@ electrodes
 elotherium
 electrodiagnosis
 esterling
+erzahler
 embiid
 epepophysis
 evangelization
@@ -2897,7 +2898,6 @@ endangeitis
 extraparochially
 entrancingly
 enthrall
-erzahler
 epitheliomuscular
 eyewear
 encashment

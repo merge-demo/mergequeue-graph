@@ -1072,6 +1072,7 @@ fringillidae
 foraging
 fogas
 faro
+fogramite
 fluoridization
 floriken
 foredestining
@@ -7691,7 +7692,6 @@ forehooves
 forpit
 foreboding
 fissidentaceae
-fogramite
 flowoff
 flarfish
 flawful
