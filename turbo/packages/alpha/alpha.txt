@@ -6394,6 +6394,7 @@ aguavina
 agudist
 arsonite
 acolous
+antimensia
 agueweeds
 alphitomancy
 aguglia
@@ -15853,7 +15854,6 @@ antiplurality
 antipodal
 antipode
 absinthial
-antimensia
 anchorwise
 aedine
 autocoprophagous

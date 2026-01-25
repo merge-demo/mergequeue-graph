@@ -2288,7 +2288,6 @@ gelant
 gadgeteers
 gastrochaenidae
 ganta
-granulation
 graduates
 gelatinating
 greyfish
@@ -10230,6 +10229,7 @@ geographics
 gershom
 gomontia
 geechee
+granulation
 gonophore
 glacier
 gustiness
