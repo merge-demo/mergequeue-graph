@@ -684,7 +684,6 @@ ened
 emic
 ecology
 eromania
-encephalolith
 employing
 epispore
 enspell
@@ -7434,6 +7433,7 @@ ewe
 ephemeridae
 ephemeroptera
 eigne
+encephalolith
 electronographic
 eyess
 egremoigne
