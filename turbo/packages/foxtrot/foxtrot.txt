@@ -9052,7 +9052,6 @@ frumentaceous
 flotsan
 flashbacks
 faineantism
-fix
 fractionalize
 forthinking
 freakful
@@ -10611,6 +10610,7 @@ fuzzes
 fulgent
 fuddler
 foiling
+fix
 foilsman
 fringillaceous
 fusht
