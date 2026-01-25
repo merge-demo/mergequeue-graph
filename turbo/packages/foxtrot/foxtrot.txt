@@ -9626,7 +9626,6 @@ flytime
 forte
 floggingly
 firemaster
-freeholdership
 falcata
 ferias
 fortalice
@@ -10693,6 +10692,7 @@ fibular
 fruitlets
 fumish
 fainting
+freeholdership
 felsophyre
 forescent
 firked
