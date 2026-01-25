@@ -1882,6 +1882,7 @@ germ
 glycogenic
 gaussmeter
 gatteridge
+galacaceae
 gomart
 gammaridae
 guayabo
@@ -5732,7 +5733,6 @@ goldbird
 gestio
 goosecap
 groovers
-galacaceae
 gangways
 garlicky
 gumhar
