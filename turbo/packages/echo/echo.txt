@@ -5303,6 +5303,7 @@ expatriations
 evzones
 endocline
 epicrystalline
+entomophaga
 encoring
 enwingly
 encyclopedic
@@ -7908,7 +7909,6 @@ ensiferi
 entreater
 epizootiology
 epinikion
-entomophaga
 endomixis
 eurystomatous
 emitter
