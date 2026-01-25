@@ -9029,7 +9029,6 @@ ephesine
 emlen
 eleoplast
 endothermic
-exocyclic
 equiglacial
 episcenium
 empyreans
@@ -10910,6 +10909,7 @@ ebriated
 euktolite
 evolutoid
 euphory
+exocyclic
 enchondrosis
 euphoriant
 eaglewood
