@@ -9290,6 +9290,7 @@ byee
 bobolink
 biplanes
 beclogging
+birthstool
 bullterrier
 bonavist
 butler
@@ -9541,7 +9542,6 @@ births
 birthstones
 buncos
 bulliform
-birthstool
 bemoaned
 browd
 birthwort
