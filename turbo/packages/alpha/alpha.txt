@@ -9238,7 +9238,6 @@ along
 ambeer
 ataxiameter
 alongships
-abasements
 alongshore
 archbishops
 alemana
@@ -10123,6 +10122,7 @@ avulsion
 artotyrite
 ambulator
 ambulatory
+abasements
 additiment
 affluent
 apanage
