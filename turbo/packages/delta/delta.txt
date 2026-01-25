@@ -439,7 +439,6 @@ dithered
 dorsoanterior
 drinker
 dairywomen
-daunder
 diphthongisation
 descanting
 dayrooms
@@ -6955,6 +6954,7 @@ disshroud
 despisingly
 demagnify
 despiteful
+daunder
 digs
 daphnia
 dinoflagellate
