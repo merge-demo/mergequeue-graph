@@ -22567,7 +22567,6 @@ connaturalize
 chg
 cosech
 connaturalness
-connature
 calumniatory
 connaught
 connectable
@@ -29237,6 +29236,7 @@ cryptarchy
 caracols
 crypteroniaceae
 cryptical
+connature
 chinaroot
 cryptically
 crypticness
