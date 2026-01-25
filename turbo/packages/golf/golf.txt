@@ -4313,6 +4313,7 @@ gharries
 gumbotil
 ginglymostoma
 gnathion
+gleization
 grooms
 graphicalness
 grylli
@@ -7910,7 +7911,6 @@ gymnospermy
 glumness
 genuclast
 gametogonium
-gleization
 gregaloid
 gyniolatry
 glucocorticoid
