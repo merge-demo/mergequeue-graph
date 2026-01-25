@@ -105,7 +105,6 @@ abasers
 abashed
 abashedness
 amelcorns
-autopyotherapy
 abashes
 achromatous
 astony
@@ -19737,6 +19736,7 @@ ambatch
 antinihilistic
 arithmancy
 anticommerciality
+autopyotherapy
 autophthalmoscope
 ammonium
 astrobiological
