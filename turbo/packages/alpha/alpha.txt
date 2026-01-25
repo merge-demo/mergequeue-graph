@@ -8281,6 +8281,7 @@ aliipoe
 alikeness
 alikewise
 abr
+apis
 alilonghi
 arundinaceous
 arnaut
@@ -22962,7 +22963,6 @@ adless
 anteriorly
 azobenzoic
 appositional
-apis
 alose
 atria
 antipodeans

@@ -10217,6 +10217,7 @@ chiasmic
 cleruchic
 chiasms
 chiasmus
+clasping
 coeline
 curacao
 chiastoneural
@@ -27132,7 +27133,6 @@ cavalry
 carcasses
 cataspilite
 counterterrorism
-clasping
 counterterrorist
 counterthought
 counterthreat
