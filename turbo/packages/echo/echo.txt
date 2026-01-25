@@ -4667,6 +4667,7 @@ englishism
 enciphering
 enrapture
 eulogism
+empirical
 engerminate
 executonis
 easter
@@ -7792,7 +7793,6 @@ extenuation
 echolalia
 exodermis
 edmund
-empirical
 endopoditic
 equivocators
 extrudes
