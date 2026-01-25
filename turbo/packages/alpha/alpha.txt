@@ -2571,7 +2571,6 @@ autogeneal
 aljamiah
 ancestrial
 arctomys
-affrontedness
 acouometer
 azocoralline
 antihelminthic
@@ -15681,6 +15680,7 @@ adsignify
 atrazine
 armoury
 antiskepticism
+affrontedness
 antipacifistic
 aplobasalt
 angriest
