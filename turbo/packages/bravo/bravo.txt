@@ -3217,6 +3217,7 @@ biolite
 basidiosporous
 buckbush
 batiked
+bursaries
 bodiless
 bedights
 bathtub
@@ -17814,7 +17815,6 @@ banghy
 begani
 bursarial
 blypes
-bursaries
 bursars
 barnstorming
 bubby
