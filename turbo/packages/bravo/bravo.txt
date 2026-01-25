@@ -626,6 +626,7 @@ birdcages
 baraka
 barracked
 brin
+bufagin
 bletherskate
 bisellia
 bemingle
@@ -5942,7 +5943,6 @@ basidiomycete
 ballahoo
 besticking
 bedroom
-bufagin
 bangalay
 bude
 benumbing
