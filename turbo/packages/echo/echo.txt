@@ -6505,7 +6505,6 @@ eleventhly
 erythrocytometer
 entamoebic
 encarpium
-endostosis
 ephyra
 exclaimer
 exactly
@@ -10339,6 +10338,7 @@ extemporise
 exaggerative
 eupomatiaceae
 ethonomics
+endostosis
 ethnocentric
 epeirogenic
 encyclopaedical
