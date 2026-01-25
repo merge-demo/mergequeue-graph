@@ -4408,7 +4408,6 @@ flexing
 floppiest
 float
 frowzly
-feelable
 flossy
 follyer
 fraternizer
@@ -5292,6 +5291,7 @@ focusses
 fairstead
 fldxt
 foolhardier
+feelable
 frower
 fasts
 footlight
