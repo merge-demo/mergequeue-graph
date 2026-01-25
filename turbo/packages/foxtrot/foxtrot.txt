@@ -1596,7 +1596,6 @@ floristic
 favorites
 furstone
 fadges
-flavobacterium
 favosely
 ferroaluminum
 formidability
@@ -4921,6 +4920,7 @@ foremarch
 flaminical
 fomenters
 flowcharting
+flavobacterium
 fintadores
 fuligula
 frenulum
