@@ -6453,7 +6453,6 @@ embrocated
 electrolyzing
 ergatomorphic
 ensurance
-ensuring
 equators
 enswathement
 elementariness
@@ -11094,6 +11093,7 @@ eusthenopteron
 electros
 esquiredom
 encage
+ensuring
 effeminised
 eugeosyncline
 entune
