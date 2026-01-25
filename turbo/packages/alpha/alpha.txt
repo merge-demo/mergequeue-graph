@@ -9207,7 +9207,6 @@ archcriminal
 armaries
 aloesol
 angie
-amphion
 analemmas
 acellular
 aloetical
@@ -10832,6 +10831,7 @@ ammocoetiform
 antischolastic
 ammoniuret
 archcozener
+amphion
 antiproteolysis
 acer
 argolian
