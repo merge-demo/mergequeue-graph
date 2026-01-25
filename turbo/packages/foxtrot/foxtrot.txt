@@ -8530,6 +8530,7 @@ flunkydom
 fistiana
 flowages
 firework
+furrowlike
 filefishes
 foederati
 facsimiling
@@ -11437,7 +11438,6 @@ furrowy
 flap
 forletting
 fiuman
-furrowlike
 forewish
 fiction
 fissury
