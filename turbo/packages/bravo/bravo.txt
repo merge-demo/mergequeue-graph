@@ -7802,7 +7802,6 @@ baluchitheria
 biangulous
 biannually
 biarchy
-biarcuate
 barrulee
 braise
 breccia
@@ -12929,6 +12928,7 @@ bucktails
 berthold
 boardinghouses
 bootman
+biarcuate
 boots
 bottoms
 bephilter
