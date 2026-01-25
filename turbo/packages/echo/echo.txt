@@ -3615,6 +3615,7 @@ enddamaging
 equated
 elaeocarpaceous
 ecocidal
+egoity
 epitrachelion
 epithermal
 embread
@@ -14078,7 +14079,6 @@ errantry
 entoplastral
 epigastral
 equilibrative
-egoity
 ebonize
 explicits
 entwinement
