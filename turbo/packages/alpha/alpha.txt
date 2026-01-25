@@ -3075,7 +3075,6 @@ accordable
 adjudications
 apocryphalist
 actinophrys
-aspics
 archimorphic
 actinopteran
 ascidian
@@ -13140,6 +13139,7 @@ animalivorous
 anticreativity
 aspergilla
 abducted
+aspics
 animalized
 andaquian
 alluvia
