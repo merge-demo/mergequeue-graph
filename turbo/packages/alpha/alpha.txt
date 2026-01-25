@@ -997,7 +997,6 @@ adviso
 azogreen
 award
 artifice
-arthrochondritis
 acroaesthesia
 abtruse
 aquitanian
@@ -2168,6 +2167,7 @@ agrostology
 alure
 alqueire
 amyelotrophy
+arthrochondritis
 aummbulatory
 achordata
 achorion

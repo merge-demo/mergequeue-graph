@@ -8050,7 +8050,6 @@ bleakish
 babble
 bicolorous
 betrayal
-bicolors
 beadleism
 binna
 biconcave
@@ -11138,6 +11137,7 @@ bipenniform
 bespit
 bruckled
 besom
+bicolors
 balsamina
 bawley
 brachypnea
