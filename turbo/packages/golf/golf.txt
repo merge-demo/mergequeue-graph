@@ -2227,7 +2227,6 @@ gossipmongering
 gruffing
 galactase
 gastrotome
-grifts
 gonorrhea
 gonidiogenous
 glumiferous
@@ -3600,6 +3599,7 @@ genarcha
 ghazi
 grubber
 guiser
+grifts
 guttatim
 gogos
 grewhound
