@@ -13350,7 +13350,6 @@ dodecaphonist
 disputatiously
 disputatiousness
 disputator
-disputeful
 dacrydium
 disgracement
 disfeature
@@ -14261,6 +14260,7 @@ ditas
 decolourizing
 daggerbush
 deme
+disputeful
 drygoodsman
 dumbly
 disembargo
