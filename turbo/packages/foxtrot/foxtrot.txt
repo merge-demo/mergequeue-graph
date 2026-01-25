@@ -4197,6 +4197,7 @@ fibrospongiae
 fruitlessness
 finialed
 fragmentally
+fas
 flagrant
 fibrilliform
 fired
@@ -11688,7 +11689,6 @@ flapcake
 foredispose
 flagellums
 fracas
-fas
 far
 foretellableness
 flugelhorn
