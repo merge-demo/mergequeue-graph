@@ -12518,7 +12518,6 @@ disindividualize
 doorkeep
 dilative
 disinfectants
-drafter
 disinfected
 deceivers
 denaturizer
@@ -15651,6 +15650,7 @@ doorstop
 devotionality
 diverge
 dockman
+drafter
 diodes
 downheartedly
 dennis
