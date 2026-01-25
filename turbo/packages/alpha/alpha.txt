@@ -8354,7 +8354,6 @@ anthrathiophene
 antilipoid
 adjusted
 aljamia
-areological
 attirail
 atfalati
 aortostenosis
@@ -9967,6 +9966,7 @@ avellan
 axion
 asyllabical
 ambiency
+areological
 adiposogenital
 anomy
 ambients
