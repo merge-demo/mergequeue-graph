@@ -3008,7 +3008,6 @@ canticles
 conceptualistically
 cantilating
 cantilene
-cantilever
 cantilevered
 cantilevers
 cantily
@@ -27165,6 +27164,7 @@ countertruth
 chelas
 corses
 counterturned
+cantilever
 cicatrised
 curnock
 creepingly
