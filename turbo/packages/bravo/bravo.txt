@@ -11518,7 +11518,6 @@ benighting
 blunderbuss
 blunderbusses
 boundure
-bestare
 blunderhead
 buttonbur
 backspread
@@ -13528,6 +13527,7 @@ bouffancy
 beggarlice
 brunel
 biennale
+bestare
 biquarterly
 barhop
 bouffant
