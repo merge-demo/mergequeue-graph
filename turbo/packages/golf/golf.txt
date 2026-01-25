@@ -3430,7 +3430,6 @@ gretel
 gehey
 geodes
 grumbles
-gessoes
 gerrhosauridae
 gila
 gestalt
@@ -4575,6 +4574,7 @@ gluttonism
 grecianize
 giro
 glossae
+gessoes
 gastronomist
 germanyl
 gruys
