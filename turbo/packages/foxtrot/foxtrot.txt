@@ -6198,7 +6198,6 @@ flightily
 fairgrounds
 forlana
 freyja
-floccules
 fascinative
 formwork
 foundationary
@@ -11092,6 +11091,7 @@ functors
 formational
 foulard
 furivae
+floccules
 fessewise
 frostwork
 futhork

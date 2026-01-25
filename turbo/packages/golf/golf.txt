@@ -2554,6 +2554,7 @@ gangliasthenia
 goosefish
 galvo
 granodiorite
+gink
 giltheads
 gibber
 guillotined
@@ -4338,7 +4339,6 @@ gambias
 gynaecomorphous
 grindings
 groundhog
-gink
 goles
 gorgoneia
 grandsonship
