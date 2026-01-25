@@ -5178,6 +5178,7 @@ caseinogen
 caseload
 caseloads
 casemaker
+coaxy
 caprylene
 cackle
 cacogastric
@@ -17419,7 +17420,6 @@ coawareness
 coaxal
 coaxation
 coaxes
-coaxy
 cordigeri
 coaxial
 cellarman
