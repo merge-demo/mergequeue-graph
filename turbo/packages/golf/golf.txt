@@ -6791,7 +6791,6 @@ gravilea
 glycosyls
 gat
 gonochorismal
-geryonia
 garle
 glutimate
 gonococci
@@ -10708,6 +10707,7 @@ gaumless
 gearwheel
 glyoxim
 goonda
+geryonia
 grumping
 grandeur
 gubernatorial
