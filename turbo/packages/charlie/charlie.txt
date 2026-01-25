@@ -649,6 +649,7 @@ caeremoniarius
 coynye
 callate
 coatimundi
+causon
 caesardom
 caesarean
 caesareans
@@ -6384,7 +6385,6 @@ cannellated
 causewaying
 clubfeet
 causidical
-causon
 counterassurance
 caustical
 caustically
