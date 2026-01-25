@@ -12729,7 +12729,6 @@ diazotizing
 dislive
 defectoscope
 dislluminate
-difference
 dislocability
 dosimetry
 dustcloth
@@ -15376,6 +15375,7 @@ dehumidifies
 diobolon
 deciliters
 difformity
+difference
 dikaryotic
 disencumbrance
 demicivilized
