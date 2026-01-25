@@ -4607,7 +4607,6 @@ gaonic
 gasconade
 gentrice
 graphophobia
-gyronny
 gamophyllous
 gravitational
 gyrophoraceous
@@ -4714,6 +4713,7 @@ gamboised
 groundwork
 grouseless
 gosther
+gyronny
 gametophyll
 goosegirl
 glene
