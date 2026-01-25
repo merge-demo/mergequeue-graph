@@ -8244,7 +8244,6 @@ bb
 bobstay
 balagan
 bewildered
-brothership
 bespurt
 bulgaric
 biforate
@@ -15952,6 +15951,7 @@ bathroomed
 blattering
 burgh
 bromuret
+brothership
 bromus
 birdlet
 bellota
