@@ -8579,6 +8579,7 @@ eumerogenesis
 electronically
 endocarp
 estrogen
+exodromic
 equidistribution
 extraphysical
 ericas
@@ -10399,7 +10400,6 @@ epiphanize
 electropositive
 enfranchisable
 expect
-exodromic
 exchanged
 ethoxide
 endocardium
