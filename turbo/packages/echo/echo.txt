@@ -854,7 +854,6 @@ ensorcerize
 entering
 encomiastical
 endophyte
-ectomorph
 ectoparasite
 exemptionist
 euxanthic
@@ -2615,6 +2614,7 @@ ebulus
 exportability
 etherical
 ecphova
+ectomorph
 epityphlitis
 emory
 expurgative
