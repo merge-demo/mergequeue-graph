@@ -6207,6 +6207,7 @@ ferrimagnetic
 folden
 fractionating
 fluffiness
+ferruler
 flexography
 foreleg
 flatlet
@@ -11513,7 +11514,6 @@ fissidactyl
 foldout
 filmsetting
 forleave
-ferruler
 fistic
 fab
 furtiveness
