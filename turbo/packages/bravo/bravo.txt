@@ -297,6 +297,7 @@ backbar
 begrutch
 biolith
 booter
+boost
 bakeware
 barbe
 benzacridine
@@ -12869,7 +12870,6 @@ bulldog
 bertrandite
 blondes
 beauticians
-boost
 bromizes
 bruin
 biblicolegal

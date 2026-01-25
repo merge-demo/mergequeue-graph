@@ -2837,7 +2837,6 @@ decastellate
 draggle
 depuratory
 desidious
-decrypt
 decryption
 dasyus
 decrowning
@@ -15888,6 +15887,7 @@ dol
 diplomatism
 datura
 dogproof
+decrypt
 dosing
 dubs
 dehairer
