@@ -1337,6 +1337,7 @@ costliest
 contrist
 cesarolite
 caliburno
+chrobat
 colossuses
 crawfished
 calycanthin
@@ -27584,7 +27585,6 @@ clientry
 caesuras
 cowages
 cowardice
-chrobat
 cowardish
 carabinieri
 chionophobia
