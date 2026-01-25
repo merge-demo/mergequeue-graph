@@ -10297,6 +10297,7 @@ chemosorb
 cachoeira
 clactonian
 cyanidation
+chartered
 comfortable
 chickamauga
 chickasaw
@@ -29629,7 +29630,6 @@ calkage
 crofter
 cauliflory
 cottagey
-chartered
 crocketed
 conder
 clouded
