@@ -14698,6 +14698,7 @@ cystotrachelotomy
 cadenza
 cystourethritis
 chirurgy
+complexing
 calyxes
 cystourethrography
 cypraea
@@ -20747,7 +20748,6 @@ chelidonate
 cheloid
 cryotron
 carvy
-complexing
 chromos
 complexional
 carioling
