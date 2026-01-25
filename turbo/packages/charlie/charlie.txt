@@ -29144,7 +29144,6 @@ coelacanthini
 crioceras
 crioceratite
 cinefaction
-crioceratitic
 cornicing
 companionably
 chirruping
@@ -30866,6 +30865,7 @@ compromissary
 cantut
 culottic
 cerevis
+crioceratitic
 chitchatted
 culottism
 culpabilis
