@@ -7046,6 +7046,7 @@ francis
 floater
 fulfilment
 functioning
+fumeuse
 fulfilled
 forums
 fribby
@@ -8542,7 +8543,6 @@ foederati
 facsimiling
 formols
 fiddledeedee
-fumeuse
 formosity
 fidley
 flailing
