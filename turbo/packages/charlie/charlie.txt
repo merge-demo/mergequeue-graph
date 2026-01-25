@@ -8027,7 +8027,6 @@ coats
 capercally
 chaetodontidae
 chaetognatha
-cityscape
 chaetophobia
 crumples
 chiack
@@ -8484,6 +8483,7 @@ congealedness
 chanca
 chance
 clow
+cityscape
 chemosterilants
 chanced
 categorical
