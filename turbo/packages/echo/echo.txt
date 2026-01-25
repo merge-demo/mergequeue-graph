@@ -4128,7 +4128,6 @@ erectly
 extracranial
 evidence
 energids
-expungement
 erythrodermia
 externum
 encl
@@ -12722,6 +12721,7 @@ englishman
 exorable
 elatedness
 exactingness
+expungement
 etiolin
 eradication
 elderberry
