@@ -7676,6 +7676,7 @@ geniuses
 globus
 geomyid
 grandeza
+graecize
 goldworker
 gamins
 grouf
@@ -10053,7 +10054,6 @@ galivanting
 glore
 grobianism
 gauntest
-graecize
 gainings
 gentiles
 gramophonically
