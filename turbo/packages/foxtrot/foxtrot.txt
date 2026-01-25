@@ -5151,7 +5151,6 @@ furfurous
 flaubert
 forestudy
 fleeten
-flossies
 formularist
 fosterlings
 fadable
@@ -8386,6 +8385,7 @@ forgot
 frontenis
 fragmenting
 fightable
+flossies
 forking
 flaveria
 forkless
