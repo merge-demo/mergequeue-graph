@@ -4030,7 +4030,6 @@ febris
 finishes
 fultz
 formenic
-fetch
 fuminess
 foyaitic
 fibered
@@ -8139,6 +8138,7 @@ fretsaw
 falisci
 forewrought
 fractionate
+fetch
 fanaticalness
 foretell
 figurehead
