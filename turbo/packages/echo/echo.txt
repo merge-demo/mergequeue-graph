@@ -5751,7 +5751,6 @@ exchangeability
 extranidal
 exhilarating
 exterritoriality
-eolipiles
 eucharistical
 excl
 englobe
@@ -13367,6 +13366,7 @@ erose
 expository
 expositorial
 ephererist
+eolipiles
 ethnopsychological
 enfevers
 exits
