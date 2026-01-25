@@ -11236,7 +11236,6 @@ depolymerized
 discabinet
 discamp
 drawstring
-discanted
 dermochelys
 dragon
 dropt
@@ -17307,6 +17306,7 @@ dischase
 demilion
 dermatophytosis
 delphinius
+discanted
 distinguishably
 drolling
 delighter
