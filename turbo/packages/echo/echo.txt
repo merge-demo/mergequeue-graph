@@ -6737,6 +6737,7 @@ enthronizing
 evacuation
 ellfish
 ediface
+emasculations
 extrinsical
 enthusiasms
 elaborator
@@ -13675,7 +13676,6 @@ encomiendas
 eject
 enphytotic
 enramada
-emasculations
 erratum
 epistolizable
 exteriorness
