@@ -5721,7 +5721,6 @@ deadpay
 davened
 depolished
 deaconed
-depolishes
 depoliticized
 donia
 dredged
@@ -13675,6 +13674,7 @@ dandyishly
 dognapper
 disjoins
 dush
+depolishes
 doucin
 degases
 dissymmetric
