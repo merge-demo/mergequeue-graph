@@ -410,7 +410,6 @@ cystoureteritis
 coronels
 cacorhythmic
 coterminous
-clanged
 cacorrhinia
 coelevate
 circumvents
@@ -19725,6 +19724,7 @@ cocainized
 chrysanthemum
 crokinole
 carbone
+clanged
 combatting
 connoisseur
 commixed
