@@ -1546,6 +1546,7 @@ fivers
 fauteuil
 feticide
 fussy
+flightiness
 foreteach
 farrow
 fetuses
@@ -5998,7 +5999,6 @@ filarious
 fresco
 fierce
 fermorite
-flightiness
 finger
 feudalized
 fontange
