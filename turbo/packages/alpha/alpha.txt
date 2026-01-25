@@ -12939,7 +12939,6 @@ axine
 accinging
 angula
 aldus
-authoriser
 angular
 arointing
 assistors
@@ -22620,6 +22619,7 @@ ammiaceae
 avitic
 anorexies
 atemoya
+authoriser
 alintatao
 aten
 antiparticle
