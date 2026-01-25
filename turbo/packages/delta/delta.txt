@@ -9102,7 +9102,6 @@ disinclines
 derisory
 detriment
 disdiaclasis
-disgracement
 dyingly
 derog
 didicoy
@@ -13358,6 +13357,7 @@ disputatiousness
 disputator
 disputeful
 dacrydium
+disgracement
 disfeature
 deceitful
 disputer
