@@ -1481,7 +1481,6 @@ gastrulae
 guarachas
 gunocracy
 gasifies
-glengarry
 gasterolichenes
 grainier
 guittonian
@@ -10258,6 +10257,7 @@ gratifies
 gustoish
 guise
 galv
+glengarry
 garnel
 guestimating
 gipsyhood
