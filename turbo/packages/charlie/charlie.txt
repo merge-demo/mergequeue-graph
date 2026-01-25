@@ -14499,7 +14499,6 @@ cyrtomium
 cyrtopia
 ciruela
 cosets
-croceins
 cyrus
 choroidocyclitis
 captainess
@@ -29732,6 +29731,7 @@ cyeses
 croquignole
 cramboes
 cronet
+croceins
 crisscross
 crony
 collaboration
