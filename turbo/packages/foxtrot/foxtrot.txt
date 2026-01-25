@@ -4378,6 +4378,7 @@ fishes
 filibranchiate
 fascistic
 fiancees
+fossilology
 feirie
 fleta
 fishfinger
@@ -8163,7 +8164,6 @@ forevers
 foregate
 forthwith
 ferberite
-fossilology
 forecastleman
 fountful
 frequentable
