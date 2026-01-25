@@ -931,6 +931,7 @@ cakette
 chaptalization
 cakewalked
 cakewalker
+chloroformic
 cakewalking
 caressant
 carnotite
@@ -11320,7 +11321,6 @@ chloroformate
 churched
 collarinos
 chalcophanite
-chloroformic
 conged
 cubica
 chromicizing
