@@ -6549,6 +6549,7 @@ dipole
 dockize
 disematism
 deavely
+duraspinalis
 dendrologic
 danda
 dioicous
@@ -18501,7 +18502,6 @@ datch
 drongos
 durances
 downcast
-duraspinalis
 diacritic
 duration
 durations
