@@ -800,6 +800,7 @@ gastrospasm
 grillework
 glycosidase
 geoid
+gastrocolotomy
 gianthood
 graf
 gimlet
@@ -7388,7 +7389,6 @@ gotra
 germarium
 granulomatous
 granville
-gastrocolotomy
 gaudery
 galen
 gruffiest
