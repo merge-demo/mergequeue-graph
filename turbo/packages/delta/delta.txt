@@ -6094,7 +6094,6 @@ dissolvable
 deckedout
 derated
 diphtheroid
-derater
 dijudicant
 disilane
 duperies
@@ -16587,6 +16586,7 @@ dishallow
 doctorly
 descensories
 dentical
+derater
 draggletailed
 deuteromycetes
 deepsome
