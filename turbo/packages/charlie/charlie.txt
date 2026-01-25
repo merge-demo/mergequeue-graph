@@ -2408,7 +2408,6 @@ canceler
 cancellable
 contrasters
 cyprinidae
-cancellarius
 cymobotryose
 chinois
 corynite
@@ -11661,6 +11660,7 @@ cholla
 cryogen
 criniger
 chollas
+cancellarius
 choller
 chameleonize
 claries
