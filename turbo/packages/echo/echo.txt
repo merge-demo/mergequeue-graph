@@ -3806,7 +3806,6 @@ extolled
 engrain
 emended
 ecu
-emending
 emerge
 ecart
 escapology
@@ -7823,6 +7822,7 @@ euconjugatae
 epigonium
 euraquilo
 extractions
+emending
 epigonous
 efractory
 enlaces
