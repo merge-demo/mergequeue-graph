@@ -1284,6 +1284,7 @@ escuages
 explicatively
 ericophyte
 efface
+eau
 equalized
 enage
 effacers
@@ -5702,7 +5703,6 @@ egalites
 expostulates
 engineries
 embrace
-eau
 educabilia
 etherolate
 emerald
