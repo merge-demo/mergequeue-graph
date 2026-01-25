@@ -8967,6 +8967,7 @@ chondri
 chaplaincy
 chalchihuitl
 coracomandibular
+crebrisulcate
 conceivability
 cryptal
 countersignature
@@ -28502,7 +28503,6 @@ creatureship
 conversibility
 creaze
 crebricostate
-crebrisulcate
 cooeys
 coteau
 canny
