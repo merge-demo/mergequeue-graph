@@ -1309,7 +1309,6 @@ gorging
 gargler
 gynecologies
 greeting
-gargoyley
 gested
 gheleem
 galium
@@ -9831,6 +9830,7 @@ grousy
 gametophagia
 guajiras
 guama
+gargoyley
 garcinia
 glaniostomi
 glandiform
