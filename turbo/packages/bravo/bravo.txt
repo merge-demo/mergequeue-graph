@@ -5545,7 +5545,6 @@ bhava
 biopsies
 blockline
 biosome
-breastfeeding
 bejewelling
 bejezebel
 bessera
@@ -7192,6 +7191,7 @@ bestand
 bestatued
 burrito
 brogues
+breastfeeding
 bijous
 besteads
 besteal
