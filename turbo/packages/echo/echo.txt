@@ -4076,6 +4076,7 @@ equiponderated
 emplastic
 emplastration
 expending
+electrogilding
 expulsionist
 essenism
 eutheria
@@ -10780,7 +10781,6 @@ enemying
 eumenides
 emblema
 encrinus
-electrogilding
 exflagellate
 endosporic
 eumycete
