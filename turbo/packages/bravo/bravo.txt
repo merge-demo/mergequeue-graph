@@ -926,6 +926,7 @@ bookland
 bdellotomy
 bagpipers
 bandyball
+bricksetter
 bismarine
 boscage
 berryless
@@ -2156,7 +2157,6 @@ bugling
 blahlaut
 baptisias
 bonehead
-bricksetter
 burnishes
 bonsai
 bediapered
