@@ -15944,6 +15944,7 @@ clenchers
 clarshech
 clenches
 cleoid
+corks
 cleomes
 chimbs
 clep
@@ -25264,7 +25265,6 @@ crome
 conicein
 corklike
 chiromant
-corks
 corkscrew
 cyanotrichite
 cacophonize
