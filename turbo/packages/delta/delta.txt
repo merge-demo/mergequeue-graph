@@ -4918,7 +4918,6 @@ demote
 demoted
 demotes
 disomus
-demotions
 deferent
 dimyarian
 dysmeromorph
@@ -7225,6 +7224,7 @@ denotative
 dimetric
 detenue
 decussorium
+demotions
 desulfurize
 disprizing
 discoactine
