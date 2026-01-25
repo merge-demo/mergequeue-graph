@@ -143,7 +143,6 @@ gaelic
 gynostegia
 gs
 guy
-gentisin
 gratelike
 ghats
 garrot
@@ -1129,6 +1128,7 @@ gurnards
 globalization
 glossing
 ganoidian
+gentisin
 gaillardia
 geonyctitropic
 gutsiest
