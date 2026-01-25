@@ -6032,7 +6032,6 @@ disacknowledgement
 doughbelly
 doover
 diopsis
-diplomats
 dolous
 dells
 digitalization
@@ -15208,6 +15207,7 @@ drostdy
 dolichocephalize
 disingenuously
 derepress
+diplomats
 dermohemal
 disfigurement
 dwayne
