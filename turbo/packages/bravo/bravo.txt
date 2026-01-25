@@ -580,6 +580,7 @@ baubee
 barbitos
 balisaur
 baconian
+bombast
 bakingly
 benzalacetone
 bishopric
@@ -12304,7 +12305,6 @@ bombardments
 billion
 bombline
 bowdrill
-bombast
 buglers
 baronetship
 blepharotomy
