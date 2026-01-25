@@ -3139,7 +3139,6 @@ escheat
 engrossing
 eloiner
 essentiate
-eburated
 ethnarchs
 euplocomi
 eskimoes
@@ -13469,6 +13468,7 @@ elizabethanize
 expurgate
 equivocate
 ethionine
+eburated
 equivocated
 embraceorr
 enallachrome
