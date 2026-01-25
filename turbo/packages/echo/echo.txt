@@ -479,7 +479,6 @@ ecderon
 exocrinologies
 erythroderma
 episcias
-electorship
 encydlopaedic
 extermining
 endocrinologists
@@ -2624,6 +2623,7 @@ epithelize
 electrophoretogram
 expansure
 estimated
+electorship
 elanet
 eave
 engladden
