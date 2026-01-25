@@ -6197,7 +6197,6 @@ embryony
 egophony
 epitapher
 enostosis
-erugatory
 editorialize
 enforcedly
 egrid
@@ -10805,6 +10804,7 @@ essang
 ethide
 estivates
 euphemizer
+erugatory
 emanation
 ethicalism
 exequatur
