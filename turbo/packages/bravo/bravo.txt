@@ -2945,7 +2945,6 @@ bloodybones
 billowed
 bonus
 beath
-battalias
 bigeyes
 bennettitaceous
 barrets
@@ -14094,6 +14093,7 @@ bucoliast
 brachiosaurus
 bishopful
 brachyphyllum
+battalias
 bargainers
 boycottage
 blah
