@@ -9760,7 +9760,6 @@ collisions
 conjunctiva
 chelicer
 cysts
-chelide
 clouds
 csardas
 cowheart
@@ -19731,6 +19730,7 @@ comby
 cryptomnesic
 combinability
 cytozyme
+chelide
 combinable
 combinably
 combinant
