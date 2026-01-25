@@ -5426,6 +5426,7 @@ extoll
 echoized
 entranced
 elding
+exteriorization
 epacrid
 estimatingly
 extrasystole
@@ -13514,7 +13515,6 @@ equipollence
 ectosteal
 examine
 elephantous
-exteriorization
 electrocauterization
 elbert
 earcap
