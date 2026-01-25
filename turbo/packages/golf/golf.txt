@@ -4925,7 +4925,6 @@ gantry
 grouselike
 gauging
 gallantize
-gyrenes
 gingelis
 germanization
 genom
@@ -5600,6 +5599,7 @@ gubernacular
 geyserine
 gastralgic
 gobbling
+gyrenes
 growsome
 gaelicist
 grubbiest
