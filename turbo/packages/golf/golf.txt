@@ -2976,6 +2976,7 @@ ghetti
 gondite
 gavialis
 gelly
+gaffing
 gluttonized
 galvanocauteries
 gravimetric
@@ -3752,7 +3753,6 @@ geobios
 gallantry
 gibberellin
 grandmotherhood
-gaffing
 greenhew
 goffers
 geodetics
