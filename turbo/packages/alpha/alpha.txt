@@ -17327,7 +17327,6 @@ auguste
 actors
 apeirophobia
 autocollimator
-algaecide
 antiforeign
 apostatically
 apostatise
@@ -24898,6 +24897,7 @@ autocoherer
 acknown
 antinoness
 aponeurotome
+algaecide
 anarchosocialist
 agrees
 avuncular
