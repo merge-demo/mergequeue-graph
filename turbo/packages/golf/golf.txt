@@ -4663,6 +4663,7 @@ glycerate
 gigged
 galchic
 gifting
+grano
 giraffes
 generis
 gastraeas
@@ -10093,7 +10094,6 @@ gropers
 glairin
 greynesses
 gardyloo
-grano
 gynaeceum
 guffawed
 gamy
