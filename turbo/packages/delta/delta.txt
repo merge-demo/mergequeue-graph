@@ -6166,7 +6166,6 @@ disnosed
 disconnects
 derivations
 degrading
-describably
 demising
 daredevil
 ditted
@@ -8887,6 +8886,7 @@ dichas
 demivolts
 dichasia
 decolonizing
+describably
 distributiveness
 dichasium
 deordination
