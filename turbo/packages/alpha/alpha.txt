@@ -9088,7 +9088,6 @@ alman
 adenovirus
 anorectic
 arrowplate
-almander
 aeginetic
 almandines
 aldime
@@ -19091,6 +19090,7 @@ abelian
 avys
 adjudicator
 askingly
+almander
 approvals
 archprelatical
 armenize
