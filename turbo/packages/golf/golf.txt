@@ -3839,7 +3839,6 @@ gigaherz
 gymnarchidae
 genips
 gausses
-gighe
 gustfully
 gedeckt
 gramaryes
@@ -10132,6 +10131,7 @@ gloried
 gloeal
 glideness
 guardianly
+gighe
 git
 gingely
 grown
