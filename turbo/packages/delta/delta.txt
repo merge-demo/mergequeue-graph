@@ -4273,6 +4273,7 @@ dissemble
 draggletail
 delver
 dittay
+deriv
 dernful
 disannexation
 demasculinise
@@ -4903,7 +4904,6 @@ defailment
 dolichocercic
 displeased
 duranta
-deriv
 demoralized
 demoralizers
 draughty
