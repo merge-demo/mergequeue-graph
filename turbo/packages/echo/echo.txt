@@ -7640,7 +7640,6 @@ extrasomatic
 emplead
 electrographite
 enterostasis
-enchilada
 earworms
 eton
 epicrasis
@@ -8863,6 +8862,7 @@ episcopalism
 embossers
 eelworms
 etymology
+enchilada
 enteron
 erewhile
 erewhiles
