@@ -19380,6 +19380,7 @@ ahorseback
 arrayer
 acolytus
 ambrosian
+alfuro
 allergins
 anoplothere
 accountability
@@ -19731,7 +19732,6 @@ aristotle
 arytenoepiglottic
 astigmatometry
 amphiblestritis
-alfuro
 ambatch
 antinihilistic
 arithmancy

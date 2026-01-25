@@ -2873,6 +2873,7 @@ encephalalgia
 enolic
 euhemeristic
 ensorcel
+elementate
 endew
 egos
 empark
@@ -7852,7 +7853,6 @@ enc
 epigrams
 entozoan
 epiguanine
-elementate
 enablement
 eireannach
 extincts
