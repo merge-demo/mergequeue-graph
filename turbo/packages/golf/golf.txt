@@ -7741,7 +7741,6 @@ grayling
 grossulariaceae
 galivanted
 giantism
-guessers
 girnal
 glacial
 gunung
@@ -10004,6 +10003,7 @@ graybeard
 gigantostracous
 goujay
 gaonate
+guessers
 grammatolator
 gesneriaceous
 goog
