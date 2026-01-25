@@ -6920,6 +6920,7 @@ acetanisidine
 apedom
 antineutrally
 accipitral
+ariidae
 arsenite
 ayuntamiento
 assentatious
@@ -16390,7 +16391,6 @@ araneoidea
 affiliates
 antiwedge
 allocating
-ariidae
 alyssums
 arcos
 anguidae
