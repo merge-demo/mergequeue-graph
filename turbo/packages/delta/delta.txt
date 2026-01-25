@@ -7040,6 +7040,7 @@ dessous
 doodad
 durst
 destabilization
+descry
 doolie
 difficultly
 destabilize
@@ -16752,7 +16753,6 @@ depencil
 dratchell
 drats
 doughiest
-descry
 discomfortable
 dryinid
 dratting
