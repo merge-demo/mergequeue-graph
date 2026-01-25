@@ -1857,7 +1857,6 @@ abiezer
 anadyomene
 athlothete
 acestes
-acceleration
 adstrict
 anthropomorphological
 advanced
@@ -23341,6 +23340,7 @@ appetitiveness
 atune
 athenee
 adunc
+acceleration
 apteria
 anthelmintic
 abirritated
