@@ -6409,6 +6409,7 @@ flannelled
 flisky
 fetches
 fitchet
+faustian
 forescene
 fairm
 flaggier
@@ -8999,7 +9000,6 @@ flagellates
 foelike
 feature
 foursquareness
-faustian
 fourteener
 frangibleness
 froren
