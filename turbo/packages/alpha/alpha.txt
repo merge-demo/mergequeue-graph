@@ -4661,6 +4661,7 @@ arthriticine
 ataxias
 asphaltus
 abasing
+arecas
 airchecks
 anagoges
 aftercost
@@ -17766,7 +17767,6 @@ assorters
 annuloida
 apinae
 antidora
-arecas
 acylated
 archipallial
 archiepiscopally
