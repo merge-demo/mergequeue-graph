@@ -10314,6 +10314,7 @@ apitpat
 angiotonase
 autonym
 aneled
+annabergite
 audio
 amphoricity
 americanizing
@@ -13390,7 +13391,6 @@ accompanying
 amazedness
 artiste
 alibies
-annabergite
 antiminsion
 antimnemonic
 annaly
