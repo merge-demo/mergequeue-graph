@@ -11248,6 +11248,7 @@ aloofly
 amphisarca
 aqua
 aperitifs
+acrogynous
 actuated
 administratorship
 apiose
@@ -22759,7 +22760,6 @@ avoidment
 acrasins
 amazes
 arrondissement
-acrogynous
 arthrodira
 aeronef
 athwartships
