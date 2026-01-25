@@ -2962,7 +2962,6 @@ fluttersome
 formaldehyd
 fistmele
 flowers
-fasciate
 fifing
 fiestas
 fdubs
@@ -4485,6 +4484,7 @@ foreshank
 flicking
 fissilinguia
 flinder
+fasciate
 fontinalis
 fabulist
 fingernails
