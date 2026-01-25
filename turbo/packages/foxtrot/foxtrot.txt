@@ -2074,7 +2074,6 @@ foremasthand
 fumatorium
 freeform
 fideistic
-fogle
 federalist
 floriculture
 felicitator
@@ -5060,6 +5059,7 @@ fidejussion
 frangipane
 fecundated
 flavaniline
+fogle
 fluidacetextract
 fitout
 freighting
