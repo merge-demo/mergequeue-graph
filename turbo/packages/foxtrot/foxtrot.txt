@@ -3283,7 +3283,6 @@ forebreast
 featheredge
 fonctionnaire
 fameworthy
-frist
 fruggan
 finnier
 fullmouthedly
@@ -10041,6 +10040,7 @@ forearms
 flauntily
 feasibleness
 feedman
+frist
 fantee
 ferriferous
 folklorish
