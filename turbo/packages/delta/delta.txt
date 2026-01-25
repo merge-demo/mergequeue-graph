@@ -10599,7 +10599,6 @@ discogastrula
 deaminized
 diauli
 dissatisfying
-dysporomorph
 diplonema
 deuteric
 detritus
@@ -13224,6 +13223,7 @@ dronte
 deportable
 deuterofibrinose
 dinnerless
+dysporomorph
 dyspneas
 ducat
 diaphragmatically
