@@ -3216,6 +3216,7 @@ goodhearted
 genapper
 grainedness
 genuses
+glittery
 goldminer
 graywacke
 gruellers
@@ -8318,7 +8319,6 @@ glunimie
 genitalia
 greeniest
 grins
-glittery
 genioglossi
 gulled
 gopherroot
