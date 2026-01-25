@@ -2784,7 +2784,6 @@ diamondized
 decreet
 desmogen
 dugal
-dop
 dorsalward
 disharmonize
 decremeter
@@ -15113,6 +15112,7 @@ degenerated
 dogtooth
 diabetogenous
 delegare
+dop
 demographist
 dyaus
 doddering
