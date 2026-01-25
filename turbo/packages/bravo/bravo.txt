@@ -6692,7 +6692,6 @@ berkelium
 berkovets
 berkovtsi
 backstamp
-beadhouse
 bedull
 bayesian
 browsability
@@ -14309,6 +14308,7 @@ brahmana
 balloonful
 barouni
 bookboard
+beadhouse
 bikini
 bounciness
 brahmanist
