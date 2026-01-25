@@ -5443,7 +5443,6 @@ citraconic
 caracoa
 castigations
 chivariing
-coappellee
 castigator
 castigatory
 castigators
@@ -29788,6 +29787,7 @@ counterambush
 croon
 crooned
 cankeredness
+coappellee
 cullible
 caliperer
 circumtropical
