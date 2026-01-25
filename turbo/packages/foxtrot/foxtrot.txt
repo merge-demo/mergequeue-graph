@@ -2283,6 +2283,7 @@ foambow
 filicales
 formulable
 flotation
+fosses
 foreface
 fistulizing
 flatterous
@@ -5012,7 +5013,6 @@ flappable
 frankalmoin
 figlike
 fishline
-fosses
 fetialis
 foveated
 flake
