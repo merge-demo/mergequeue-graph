@@ -4129,7 +4129,6 @@ glaswegian
 gasolenes
 gelofre
 gammas
-genealogy
 gollar
 gaspergou
 gienah
@@ -8235,6 +8234,7 @@ gladii
 graphophone
 glyceroxide
 graphophonic
+genealogy
 graphoscope
 glycoprotein
 grinderies
