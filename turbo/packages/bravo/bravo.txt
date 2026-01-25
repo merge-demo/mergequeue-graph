@@ -5258,7 +5258,6 @@ backmost
 blastocyst
 bolters
 bioblast
-bespurred
 bastes
 bothsided
 begazing
@@ -18092,6 +18091,7 @@ butadiyne
 beshout
 berthierite
 butane
+bespurred
 bucellas
 bismuthite
 burgage
