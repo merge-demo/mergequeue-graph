@@ -2222,7 +2222,6 @@ bibliolatrist
 buxaceae
 bowback
 baghla
-belshazzar
 bodword
 blockade
 bostonite
@@ -3640,6 +3639,7 @@ batlon
 blackball
 budded
 bumbleberry
+belshazzar
 betacism
 brazenfacedly
 botchery
