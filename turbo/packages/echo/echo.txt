@@ -325,7 +325,6 @@ enclaret
 encephalograph
 estops
 eastre
-enturret
 extramolecular
 empresse
 embleming
@@ -5354,6 +5353,7 @@ exceptive
 endothermal
 endothermy
 erthling
+enturret
 echinocactus
 electively
 evangelium
