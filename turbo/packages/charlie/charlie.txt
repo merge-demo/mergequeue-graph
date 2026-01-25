@@ -3078,7 +3078,6 @@ clarino
 cycadeous
 canvasado
 canvasbacks
-canvasers
 carbonero
 coralroot
 cumaldehyde
@@ -19345,6 +19344,7 @@ catechise
 clacks
 colophony
 corinthians
+canvasers
 cropland
 cavillatory
 conscriptionist

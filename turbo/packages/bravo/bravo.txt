@@ -496,6 +496,7 @@ breakax
 bismillah
 betweentimes
 bromacetone
+batch
 buffo
 backstaff
 blathering
@@ -2709,7 +2710,6 @@ beastings
 beblood
 butein
 bottomries
-batch
 beadflush
 bemaul
 barnman
