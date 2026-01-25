@@ -10852,7 +10852,6 @@ aitches
 aguada
 anticult
 absolvatory
-amphib
 afrits
 ammonolyzing
 athwarthawse
@@ -12421,6 +12420,7 @@ admensuration
 algesis
 armchairs
 abarambo
+amphib
 anecdotage
 astart
 ajowan
