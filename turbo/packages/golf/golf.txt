@@ -1915,7 +1915,6 @@ garnetwork
 graperoot
 garibaldi
 gnomesque
-gear
 goalkeepers
 gushy
 goriness
@@ -9168,6 +9167,7 @@ glaucomas
 glochidian
 gastrodiaphanoscopy
 gradine
+gear
 gammer
 gasteropoda
 goniometrically
