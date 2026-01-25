@@ -18835,7 +18835,6 @@ chromizes
 clammily
 corylet
 chatterbag
-coli
 cerebellocortex
 crommel
 coly
@@ -23120,6 +23119,7 @@ constate
 curettement
 confers
 celtically
+coli
 constellate
 coystrel
 curupay
