@@ -5273,6 +5273,7 @@ fridays
 formonitrile
 festuca
 fingerprinting
+fuchi
 fluctisonant
 ferry
 faitery
@@ -10127,7 +10128,6 @@ fulciform
 fortuitus
 fissiparously
 frittering
-fuchi
 feltings
 frivolity
 fingerstone

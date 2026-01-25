@@ -2438,6 +2438,7 @@ bareback
 butterwort
 bummalo
 benzpinacone
+biographize
 bareca
 briar
 bristlecone
@@ -14226,7 +14227,6 @@ bolden
 burelly
 benzaldoxime
 blites
-biographize
 brads
 brainsickness
 butyne
