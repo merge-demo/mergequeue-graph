@@ -28103,7 +28103,6 @@ cled
 caput
 craniniums
 craniocele
-cowgirls
 cachetic
 cordial
 caunus
@@ -28901,6 +28900,7 @@ calendarer
 cradlefellow
 canular
 crewman
+cowgirls
 crewmanship
 crewmen
 crewneck

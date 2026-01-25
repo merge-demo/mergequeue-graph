@@ -5482,7 +5482,6 @@ elizabethans
 experimentalism
 edentulate
 episporangium
-excipuliform
 enfatico
 ecttypal
 enfeeblements
@@ -11863,6 +11862,7 @@ eparchate
 enteroparesis
 embrowns
 espinillo
+excipuliform
 elopers
 enfranchisement
 enervation
