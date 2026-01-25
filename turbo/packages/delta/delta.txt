@@ -1549,6 +1549,7 @@ dextrously
 dicranoid
 doubtfulness
 deactivators
+disjointness
 distressedness
 dissight
 drail
@@ -16477,7 +16478,6 @@ detinuit
 doubtance
 disaffects
 dirhinous
-disjointness
 dishonourable
 debag
 dropwise
