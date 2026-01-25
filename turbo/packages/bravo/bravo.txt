@@ -7591,6 +7591,7 @@ beneficent
 beweeps
 bombilate
 bastardize
+blosmy
 bloodripe
 begiggle
 barnacle
@@ -11210,7 +11211,6 @@ bereavers
 bloopers
 bloops
 blooth
-blosmy
 biglandular
 beheadal
 blossomless
