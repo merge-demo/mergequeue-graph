@@ -51,7 +51,6 @@ enzyms
 excites
 exciton
 electroretinograph
-escarped
 eremite
 exhibiter
 earldoms
@@ -8044,6 +8043,7 @@ enwombed
 eteocles
 ectodermal
 exteriorly
+escarped
 eskar
 ego
 ektodynamorphic
