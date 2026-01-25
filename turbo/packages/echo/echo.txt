@@ -6512,7 +6512,6 @@ entomophthora
 eelier
 exponentials
 electrophysics
-endurant
 epibolism
 ended
 entangledness
@@ -9380,6 +9379,7 @@ excresce
 escalope
 erlking
 engraced
+endurant
 expatriates
 embryogenic
 epoptic
