@@ -7778,6 +7778,7 @@ aleatory
 archcorsair
 aleatoric
 academics
+antifungal
 aquae
 analphabetical
 apologetically
@@ -15234,7 +15235,6 @@ amalgamates
 antifreeze
 antifriction
 antifrost
-antifungal
 apoenzyme
 anatomicopathological
 ataentsic
