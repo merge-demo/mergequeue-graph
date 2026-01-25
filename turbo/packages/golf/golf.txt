@@ -4741,7 +4741,6 @@ glycogenize
 gordius
 gjedost
 gastropleuritis
-gyniatrics
 gravedo
 goys
 glorifies
@@ -5854,6 +5853,7 @@ glucosidically
 gleave
 goback
 gynecide
+gyniatrics
 ging
 glamorizations
 ginkgoales
