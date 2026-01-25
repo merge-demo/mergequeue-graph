@@ -3945,6 +3945,7 @@ ditchdigging
 doms
 dominant
 diabetometer
+directiveness
 delightedly
 diarize
 dkm
@@ -13167,7 +13168,6 @@ demonophobia
 desiccations
 disguisement
 didoes
-directiveness
 dysphonia
 dislimned
 dispicion
