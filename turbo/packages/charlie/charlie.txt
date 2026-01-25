@@ -22819,7 +22819,6 @@ causticized
 consequency
 combinableness
 cheirotherium
-consequent
 communalist
 consequentiality
 consequentialities
@@ -25935,6 +25934,7 @@ colley
 coruco
 circuitousness
 chlamydoselachus
+consequent
 corve
 cousiny
 corvees
