@@ -3886,7 +3886,6 @@ dejects
 dicyanide
 drake
 dejeration
-dejeuner
 dekadrachm
 dekagramme
 discommunity
@@ -5464,6 +5463,7 @@ drummy
 dister
 downheaded
 depardieu
+dejeuner
 dinger
 diaxon
 denials
