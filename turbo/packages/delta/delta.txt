@@ -4564,6 +4564,7 @@ dejecting
 dights
 diastases
 decard
+dispersion
 disorienting
 dellies
 disroof
@@ -8020,7 +8021,6 @@ derbylite
 doylt
 dietician
 duomi
-dispersion
 dhal
 dimension
 dorsointestinal
