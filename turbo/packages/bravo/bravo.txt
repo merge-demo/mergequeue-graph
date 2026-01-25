@@ -7146,6 +7146,7 @@ backstick
 backsets
 bespray
 bobet
+bathroom
 ballute
 bespreng
 bedraggle
@@ -8203,7 +8204,6 @@ browpost
 boyism
 biens
 benefice
-bathroom
 bienvenue
 bayaderes
 burfish
