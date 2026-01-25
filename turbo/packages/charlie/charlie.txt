@@ -5947,6 +5947,7 @@ convolutionary
 cathay
 cathayan
 cathar
+crabfish
 cathari
 catharina
 carminite
@@ -15269,7 +15270,6 @@ colfox
 cassique
 chaining
 clamcracker
-crabfish
 cercolabes
 clame
 cheeseboard
