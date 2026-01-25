@@ -1328,7 +1328,6 @@ gra
 ganoine
 goanese
 greenhouse
-garishly
 galligaskins
 glycosine
 growingupness
@@ -10459,6 +10458,7 @@ guimpe
 guanophore
 grundlov
 glossarially
+garishly
 goatbrush
 gagor
 gonium
