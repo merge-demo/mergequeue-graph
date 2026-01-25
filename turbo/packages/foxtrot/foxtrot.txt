@@ -165,7 +165,6 @@ factionistism
 flips
 flirtatious
 friborg
-fabulous
 fourquine
 fours
 ferryboat
@@ -7796,6 +7795,7 @@ fecundify
 fleaweed
 forenight
 fripperer
+fabulous
 flogger
 frondivorous
 fleshiest
