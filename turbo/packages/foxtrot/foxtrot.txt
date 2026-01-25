@@ -1,7 +1,6 @@
 firedrake
 first
 fasciolidae
-fallacia
 ferriprussic
 fimbrial
 footropes
@@ -4188,6 +4187,7 @@ federals
 felonries
 foothold
 flittermmice
+fallacia
 froe
 fidicinales
 fetus
