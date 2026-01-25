@@ -81,6 +81,7 @@ darndests
 dacoiting
 depressibility
 debilitating
+darkeys
 dactylion
 dobbin
 damning
@@ -1022,7 +1023,6 @@ doubleprecision
 dark
 dinkeys
 darked
-darkeys
 decagynous
 daneball
 debauchee
