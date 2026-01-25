@@ -1623,6 +1623,7 @@ chitinoid
 cinderella
 corded
 concertize
+chansonnier
 clupeidae
 coassumed
 calls
@@ -5859,7 +5860,6 @@ crinose
 currish
 categorise
 categorised
-chansonnier
 cultivated
 cochlearia
 chemicopharmaceutical
