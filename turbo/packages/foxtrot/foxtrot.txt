@@ -3547,7 +3547,6 @@ feddan
 fairbanks
 fluorindine
 flashover
-fardels
 flank
 filers
 fallotomy
@@ -7919,6 +7918,7 @@ foreseeable
 futchel
 footeite
 footslog
+fardels
 fallers
 fletching
 flaccidities
