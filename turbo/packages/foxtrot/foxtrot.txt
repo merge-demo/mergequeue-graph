@@ -2739,6 +2739,7 @@ ficary
 faliscan
 frizer
 foreparts
+fosite
 freddo
 fibroserous
 fights
@@ -11613,7 +11614,6 @@ fortissimi
 floatingly
 fibrous
 fylgja
-fosite
 funestal
 finestiller
 foreacquaint
