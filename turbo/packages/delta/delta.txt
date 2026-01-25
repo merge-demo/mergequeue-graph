@@ -452,7 +452,6 @@ dibs
 drenchers
 dimyaric
 diathermous
-dimercaprol
 daises
 defiance
 discept
@@ -11233,6 +11232,7 @@ dogstail
 disburse
 disillusionist
 deictic
+dimercaprol
 duckpins
 divinistre
 dilatability
