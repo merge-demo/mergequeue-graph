@@ -17190,7 +17190,6 @@ apolunes
 apartment
 adaptableness
 ankerites
-apolusis
 amoebiasis
 apomecometer
 apomictical
@@ -19386,6 +19385,7 @@ adjuror
 accidentalness
 argel
 admissable
+apolusis
 admaxillary
 argentamid
 amadi
