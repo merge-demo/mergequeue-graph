@@ -182,6 +182,7 @@ gabarit
 gammacism
 groschen
 greenheaded
+giraffoid
 gelled
 garred
 glaky
@@ -2191,7 +2192,6 @@ granth
 grotty
 genarchship
 granted
-giraffoid
 geoidal
 garmented
 gestational
