@@ -10671,6 +10671,7 @@ chiminage
 chimla
 chimleys
 chain
+calibogus
 cynicalness
 cutlass
 clothespin
@@ -12133,7 +12134,6 @@ centrosymmetry
 celluliferous
 chria
 chris
-calibogus
 caraunda
 chrysalid
 coronet
