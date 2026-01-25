@@ -3191,7 +3191,6 @@ flinthearted
 fictioner
 furbisher
 furnishment
-foci
 forestay
 forestish
 fictionized
@@ -5767,6 +5766,7 @@ fossiliferous
 fructicultural
 fumeroot
 fastigium
+foci
 foreswearing
 filmer
 flamingly
