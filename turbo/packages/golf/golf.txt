@@ -2948,7 +2948,6 @@ geminorum
 gastroenterostomy
 geomant
 gasaliers
-goluptious
 glutinousness
 gigantomachy
 glueing
@@ -6899,6 +6898,7 @@ gibbosely
 gynecomorphous
 glyoxyl
 ganoidean
+goluptious
 goodlier
 germany
 greekdom
