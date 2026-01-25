@@ -6401,7 +6401,6 @@ egestion
 exsanguinate
 egbert
 eucryphiaceous
-eastern
 epithetician
 encasserole
 equatorial
@@ -9832,6 +9831,7 @@ engin
 enslumber
 esterified
 eclipsation
+eastern
 eatage
 esterization
 esterize
