@@ -263,7 +263,6 @@ encashed
 electroplated
 expiries
 easterling
-exhumers
 exults
 epigoneion
 enantioblastic
@@ -987,6 +986,7 @@ explosibility
 encapsules
 empanelled
 euthanasic
+exhumers
 enterocinetic
 epoxide
 endearments
