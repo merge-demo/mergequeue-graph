@@ -3583,7 +3583,6 @@ batholithic
 balaamite
 butchers
 balconet
-bathometry
 blockmaking
 bathool
 balneary
@@ -9561,6 +9560,7 @@ besputter
 buplever
 baister
 bicipitous
+bathometry
 boarfish
 barbacoan
 brokenly
