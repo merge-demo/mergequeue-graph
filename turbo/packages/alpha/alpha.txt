@@ -3012,7 +3012,6 @@ auditors
 abhorrency
 appear
 appearances
-actinograph
 attenuate
 aporobranchiata
 acinaces
@@ -12845,6 +12844,7 @@ anglehook
 aphthitalite
 anglepod
 anglepods
+actinograph
 amianthine
 adffroze
 arousement
