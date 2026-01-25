@@ -767,7 +767,6 @@ archenteric
 acratia
 abreed
 acetate
-autostrada
 abridgable
 antiscia
 abitibi
@@ -2856,6 +2855,7 @@ aceratherium
 acronymic
 akvavits
 autostylic
+autostrada
 autarchical
 agonium
 apium
