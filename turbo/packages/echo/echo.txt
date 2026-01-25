@@ -2137,6 +2137,7 @@ etherealise
 epitria
 exoneration
 electrosurgical
+effetely
 endleaf
 enfoil
 enanthematous
@@ -4940,7 +4941,6 @@ effuses
 enschedule
 emplume
 endemicity
-effetely
 epichirema
 electrofused
 eco
