@@ -405,6 +405,7 @@ grandmamma
 guisian
 gps
 galant
+guid
 galanthus
 guilery
 ganymedes
@@ -6680,7 +6681,6 @@ goosey
 goup
 gypsine
 gassings
-guid
 gonid
 gabeler
 gluttonies
