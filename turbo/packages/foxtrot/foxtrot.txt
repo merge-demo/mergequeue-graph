@@ -7736,6 +7736,7 @@ fauvist
 facer
 fanfaronade
 flower
+fiddlerfishes
 flanes
 faffle
 firearms
@@ -8397,7 +8398,6 @@ fluoridate
 flirtigig
 framers
 federalized
-fiddlerfishes
 floppy
 felling
 forcipes
