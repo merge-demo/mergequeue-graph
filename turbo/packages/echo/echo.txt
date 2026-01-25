@@ -7249,7 +7249,6 @@ expeditating
 explodent
 exoascaceae
 ejicient
-enclitics
 exlex
 elechi
 excheat
@@ -12492,6 +12491,7 @@ exanthem
 educatory
 exacerbation
 enneadic
+enclitics
 electrifying
 electroosmosis
 escarbuncle
