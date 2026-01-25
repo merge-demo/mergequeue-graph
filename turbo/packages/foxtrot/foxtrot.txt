@@ -3213,6 +3213,7 @@ freehearted
 fluorinate
 fittit
 foreknowledge
+fixups
 freestanding
 faradizer
 foppery
@@ -11056,7 +11057,6 @@ foggiest
 frontality
 funambuloes
 fibrohemorrhagic
-fixups
 functionated
 fogbow
 fructed
