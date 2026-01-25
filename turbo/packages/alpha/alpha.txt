@@ -13749,7 +13749,6 @@ approved
 amusable
 antiship
 abortuses
-ambisyllabic
 altimeter
 accrementition
 ancyrene
@@ -24822,6 +24821,7 @@ anxious
 axle
 avis
 ampelography
+ambisyllabic
 aflare
 ambagitory
 augitite

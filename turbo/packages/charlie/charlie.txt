@@ -7876,7 +7876,6 @@ chromophotolithograph
 cataphoretic
 cest
 cesta
-cestidae
 cestodes
 copatron
 coronize
@@ -27513,6 +27512,7 @@ coils
 coverchief
 cannulated
 cerberean
+cestidae
 covercle
 coprolalia
 carangidae
