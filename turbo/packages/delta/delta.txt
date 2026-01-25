@@ -2657,7 +2657,6 @@ demissory
 decompensating
 delinquents
 decenniad
-decompensations
 dasylirion
 doorkeeper
 decompiler
@@ -13861,6 +13860,7 @@ disjoining
 deceptitious
 daytide
 dysphemia
+decompensations
 dogeared
 driftier
 drapetomania
