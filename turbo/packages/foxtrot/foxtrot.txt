@@ -9017,6 +9017,7 @@ fasc
 flabellate
 foremistress
 fizelyite
+frankenstein
 feeling
 flimflammer
 fistle
@@ -9359,7 +9360,6 @@ factual
 fellowly
 futurize
 fluoresces
-frankenstein
 fakeer
 fascista
 franker
