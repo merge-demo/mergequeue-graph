@@ -21762,7 +21762,6 @@ condones
 clematis
 conspiringly
 cambric
-chemospheric
 circumscriptly
 condoning
 condos
@@ -22765,6 +22764,7 @@ consecrates
 clearage
 citrals
 coticular
+chemospheric
 clovers
 cabers
 consecrator
