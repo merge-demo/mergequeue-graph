@@ -8749,7 +8749,6 @@ greenling
 grogram
 glaserite
 glyceryls
-gravel
 gazpachos
 greenstone
 gimballing
@@ -10506,6 +10505,7 @@ graspingness
 goladar
 girl
 geometrina
+gravel
 geodesical
 glucosid
 gratiola
