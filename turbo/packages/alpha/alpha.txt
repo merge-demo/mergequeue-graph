@@ -6647,7 +6647,6 @@ autocamp
 artocarpad
 autogiros
 aimee
-artize
 adenotyphus
 atacameno
 anseres
@@ -15133,6 +15132,7 @@ augury
 antiepiscopal
 afterform
 albumenised
+artize
 arigue
 antiestablishment
 anthoecology
