@@ -7934,6 +7934,7 @@ alternates
 aleurodes
 aleurometer
 anorthographically
+ande
 aleuronat
 absi
 aleurone
@@ -16088,7 +16089,6 @@ antipool
 atomises
 autoparasitism
 antiscientific
-ande
 armorica
 auto
 agglutinations
