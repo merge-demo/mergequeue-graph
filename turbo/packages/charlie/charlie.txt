@@ -15226,7 +15226,6 @@ conquerableness
 chondrophyte
 clairvoyances
 contraposaune
-clairvoyancy
 cicatrized
 clairvoyant
 ceratoduses
@@ -31002,6 +31001,7 @@ chickery
 celiocentesis
 conferee
 cherkesser
+clairvoyancy
 counterflight
 clinchpoop
 cumbrous

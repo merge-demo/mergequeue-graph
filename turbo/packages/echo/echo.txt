@@ -4016,6 +4016,7 @@ epirogenetic
 elute
 evaporative
 exedent
+euchroite
 evidenced
 evangelize
 excudit
@@ -13843,7 +13844,6 @@ extracivic
 energeticist
 engenderer
 enscale
-euchroite
 effacing
 erepsins
 encarditis
