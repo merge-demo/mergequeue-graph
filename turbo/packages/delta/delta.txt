@@ -10234,6 +10234,7 @@ defunctive
 dioctahedral
 dioctophyme
 deave
+doomster
 distains
 distritbuted
 defaulting
@@ -15612,7 +15613,6 @@ desegregating
 doomsday
 diols
 decussating
-doomster
 domina
 decoders
 diversionist
