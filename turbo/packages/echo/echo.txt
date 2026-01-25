@@ -10599,6 +10599,7 @@ escallops
 earthiness
 euchrome
 euclideanism
+embus
 euclidian
 epicoeliac
 exhalant
@@ -12716,7 +12717,6 @@ emboweling
 engramma
 exopod
 epimorphism
-embus
 exopterygotism
 epha
 englishman
