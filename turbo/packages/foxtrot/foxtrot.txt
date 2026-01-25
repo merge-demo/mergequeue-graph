@@ -5537,7 +5537,6 @@ fratch
 flybys
 forfault
 floodlet
-flinter
 fiendlike
 folkvangr
 flockowner
@@ -7026,6 +7025,7 @@ fucation
 fratricelli
 fauxbourdon
 fainty
+flinter
 folkloristic
 forgiveness
 fierily

@@ -3897,7 +3897,6 @@ gleeting
 gipsy
 gynaecocratic
 geneal
-gigawatt
 gutser
 glochchidia
 garote
@@ -8324,6 +8323,7 @@ goldurnedest
 globeflower
 gearwheels
 gravest
+gigawatt
 graminaceae
 galvanoglyphy
 glucofrangulin
