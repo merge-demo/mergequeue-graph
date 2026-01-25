@@ -267,6 +267,7 @@ fellagha
 fusains
 fatidic
 felsic
+flaglike
 flooders
 fairly
 folk
@@ -5550,7 +5551,6 @@ flunky
 flycatchers
 flicflac
 flintiness
-flaglike
 flicker
 fixity
 frapler
