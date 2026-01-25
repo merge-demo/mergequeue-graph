@@ -3415,7 +3415,6 @@ bastardized
 bastardizes
 bastardliness
 birimose
-bindlet
 butyrin
 bullfoot
 boatshop
@@ -10274,6 +10273,7 @@ bibby
 bloomingness
 ballhawks
 bosoms
+bindlet
 blackness
 bebump
 bilged

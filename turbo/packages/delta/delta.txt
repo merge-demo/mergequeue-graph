@@ -11062,7 +11062,6 @@ dictatorial
 drakonite
 disapprovals
 demagog
-disapproves
 delousing
 disillusioned
 demonetisation
@@ -11570,6 +11569,7 @@ dramming
 disconsent
 diphthongised
 dithering
+disapproves
 discerpibility
 disconsolately
 dyak
