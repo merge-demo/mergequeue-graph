@@ -13918,7 +13918,6 @@ criminalities
 cynomys
 criticizingly
 cynomolgus
-cynomoriaceae
 cytosome
 comptible
 computerize
@@ -14660,6 +14659,7 @@ cystopus
 comptoir
 cystoradiography
 cairo
+cynomoriaceae
 cistori
 conforbably
 chayote
