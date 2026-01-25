@@ -7468,7 +7468,6 @@ ceratitis
 ceratitoidea
 cataleptics
 ceratoblast
-cryptesthesia
 ceratodidae
 centrifugalization
 capelet
@@ -13862,6 +13861,7 @@ cingulectomies
 cynhyena
 chondromalacia
 cicisbei
+cryptesthesia
 cynias
 cryptanalytical
 cyniatrics
