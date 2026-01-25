@@ -7521,6 +7521,7 @@ bancales
 beneaped
 brachypodine
 booteries
+boviculture
 blubbered
 benamidar
 beveil
@@ -17687,7 +17688,6 @@ boomlets
 burleycue
 burlesquer
 bushmaster
-boviculture
 burlesquing
 burlet
 butterfly
