@@ -5634,7 +5634,6 @@ entera
 extraterrestrially
 eucalypts
 etherifies
-enfree
 exordiums
 excommunicates
 exposable
@@ -11970,6 +11969,7 @@ epistemophilic
 evaporation
 epitaphist
 eelcatcher
+enfree
 excitations
 escapees
 escapes
