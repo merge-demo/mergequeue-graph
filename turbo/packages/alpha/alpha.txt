@@ -11963,7 +11963,6 @@ anarchist
 anarchists
 anarcho
 antisophistry
-atrium
 alpha
 amphithalmi
 amara
@@ -13052,6 +13051,7 @@ authenticity
 affronty
 allmouths
 arsonous
+atrium
 acidimetry
 aniconic
 aniconism
