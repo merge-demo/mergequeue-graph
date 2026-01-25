@@ -2280,6 +2280,7 @@ agreer
 arthrozoic
 avoidably
 abruptedly
+antihierarchy
 arachnephobia
 avgasses
 almagest
@@ -15305,7 +15306,6 @@ amperages
 antihero
 amphoriskos
 azulejo
-antihierarchy
 akimbo
 alco
 aidless
