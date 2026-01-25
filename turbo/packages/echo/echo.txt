@@ -5103,7 +5103,6 @@ elegibility
 eigh
 eumerogenetic
 enteroparalysis
-effluviate
 encryptions
 expression
 endodontology
@@ -11548,6 +11547,7 @@ elenchus
 epiblastema
 embrittled
 errantness
+effluviate
 extracloacal
 ennoy
 evocator
