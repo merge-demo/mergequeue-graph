@@ -5801,6 +5801,7 @@ chapatti
 cottony
 comminuate
 concinnating
+convolutional
 catechisable
 citharoedic
 catechised
@@ -24211,7 +24212,6 @@ carboxypeptidase
 convoked
 centigram
 convolutedly
-convolutional
 convolutions
 convolve
 ceratothecae
