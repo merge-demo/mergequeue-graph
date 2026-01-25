@@ -2835,6 +2835,7 @@ actuals
 adinida
 acromphalus
 acronic
+atua
 acronically
 acronych
 armamentaria
@@ -23332,7 +23333,6 @@ attunement
 anodynes
 ablation
 asgmt
-atua
 atule
 assafetida
 abatjour
