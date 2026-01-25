@@ -1063,6 +1063,7 @@ abundance
 accurtation
 alcelaphine
 ammoniojarosite
+amanori
 apparelled
 abundancy
 abundant
@@ -9701,7 +9702,6 @@ amahuaca
 assoil
 antigen
 algebraic
-amanori
 aeroscope
 accoutrements
 amain
