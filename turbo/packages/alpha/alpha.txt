@@ -13379,6 +13379,7 @@ aetolian
 aminase
 ameban
 awny
+ansate
 ankush
 astringe
 aristulate
@@ -24051,7 +24052,6 @@ autoconduction
 archive
 anantherate
 antimellin
-ansate
 alemite
 autocopist
 acrophonies
