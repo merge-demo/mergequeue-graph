@@ -11206,7 +11206,6 @@ bedclothes
 borean
 bronchiloquy
 boulevardiers
-bicyclists
 brooching
 boththridia
 bereavers
@@ -12665,6 +12664,7 @@ brochures
 bronchoconstrictor
 bubblier
 butylates
+bicyclists
 boysenberry
 bororo
 benthamite
