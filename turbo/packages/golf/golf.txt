@@ -3016,7 +3016,6 @@ gallicolous
 gulinula
 geminate
 guiding
-geomantically
 garnerage
 geoponics
 gaggler
@@ -3113,6 +3112,7 @@ grassplot
 georgemas
 germanite
 gurgles
+geomantically
 georgics
 glycosyl
 gnathal
