@@ -2442,6 +2442,7 @@ exciple
 ebonist
 electroencephalographical
 essentialize
+enteradenographic
 electionary
 evoker
 electroendosmosis
@@ -10441,7 +10442,6 @@ equalities
 endothelium
 etiolated
 etiology
-enteradenographic
 europeanism
 enlacing
 etiologist

@@ -4303,7 +4303,6 @@ bushbodies
 batiker
 boebera
 barly
-bahamians
 becalm
 becalming
 biaural
@@ -9580,6 +9579,7 @@ ballhawk
 biscayanism
 blackarm
 burnover
+bahamians
 barbal
 biscayner
 biscuitlike
