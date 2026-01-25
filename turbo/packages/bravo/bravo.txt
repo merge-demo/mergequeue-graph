@@ -7328,7 +7328,6 @@ betel
 buttwood
 baseboards
 barad
-betell
 bisexualism
 bambuba
 brandish
@@ -17438,6 +17437,7 @@ brooklime
 babel
 bronchiolus
 beard
+betell
 balsawood
 birdnester
 brocage
