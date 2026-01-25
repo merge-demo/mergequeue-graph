@@ -9500,6 +9500,7 @@ chorological
 checkerbloom
 calyciform
 cleaner
+cyanogens
 checkery
 checkering
 consignifying
@@ -29468,7 +29469,6 @@ crystallization
 cyrtidae
 crystallize
 crystallizes
-cyanogens
 crystallochemical
 calvinist
 chaldaism
