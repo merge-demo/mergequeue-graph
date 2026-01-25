@@ -1315,7 +1315,6 @@ foxtails
 flutework
 fogginess
 fructivorous
-fatefully
 fanaticise
 findability
 flustered
@@ -3004,6 +3003,7 @@ forensical
 forhoo
 fibbers
 fustin
+fatefully
 fiber
 fritillary
 formolite
