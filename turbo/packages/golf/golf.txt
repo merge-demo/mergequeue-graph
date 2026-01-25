@@ -21,7 +21,6 @@ gledy
 genetous
 goter
 gastroadynamic
-gashouse
 geotropic
 gabbro
 girthline
@@ -6276,6 +6275,7 @@ goblin
 gettable
 goth
 gullible
+gashouse
 garston
 gigartinaceous
 gameness
