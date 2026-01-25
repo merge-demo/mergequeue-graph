@@ -2543,7 +2543,6 @@ gain
 guilder
 gynecium
 gomeisa
-gonochorism
 gussies
 galenites
 grosses
@@ -4928,6 +4927,7 @@ grouselike
 gauging
 gallantize
 gingelis
+gonochorism
 germanization
 genom
 ganof
