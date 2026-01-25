@@ -16611,7 +16611,6 @@ clonorchis
 cardinality
 chapeaus
 catacomb
-circumoesophagal
 crooner
 cosponsorships
 circut
@@ -30514,6 +30513,7 @@ counterweighed
 chockman
 cubby
 cavin
+circumoesophagal
 cubbing
 codein
 choiring
