@@ -5145,7 +5145,6 @@ dyings
 daemon
 disobedient
 decephalization
-deathly
 diaheliotropic
 detruncating
 devoid
@@ -6285,6 +6284,7 @@ detoxify
 dermatrophia
 disgrade
 dephlegmatory
+deathly
 dermenchysis
 delacrimation
 dermestid
