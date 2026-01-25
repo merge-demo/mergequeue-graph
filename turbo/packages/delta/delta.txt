@@ -2741,7 +2741,6 @@ devonshire
 dissembling
 decore
 dewcup
-decorist
 dragged
 durum
 demilancer
@@ -12245,6 +12244,7 @@ dysgenical
 dsect
 dimication
 dobermans
+decorist
 disglut
 dysgonic
 dehortation
