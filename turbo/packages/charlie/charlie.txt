@@ -3419,6 +3419,7 @@ capreolate
 chimericalness
 crossbarring
 continuua
+ceriphs
 capri
 capric
 checkhook
@@ -8974,7 +8975,6 @@ charismatic
 collationer
 collunaria
 cunabular
-ceriphs
 chalazia
 charisms
 cancrophagous
