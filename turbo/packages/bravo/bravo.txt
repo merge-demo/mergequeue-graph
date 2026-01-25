@@ -2076,6 +2076,7 @@ barefooted
 bollixing
 bannat
 baulky
+blowgun
 bannerline
 bannerole
 blossomry
@@ -10871,7 +10872,6 @@ blighia
 bloodlike
 belauds
 blastomycetic
-blowgun
 blighters
 bestowing
 bluish
