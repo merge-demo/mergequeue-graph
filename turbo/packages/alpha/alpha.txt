@@ -4248,6 +4248,7 @@ aparejo
 acquiesced
 adrenalize
 acetract
+asop
 amianth
 archconspirator
 aecidiaceae
@@ -7533,7 +7534,6 @@ antileft
 auxographic
 alcestis
 ammonolyze
-asop
 antisteapsin
 atrocity
 arabite
