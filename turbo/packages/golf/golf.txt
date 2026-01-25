@@ -6066,6 +6066,7 @@ gconv
 gryphosaurus
 geraniol
 gnessic
+galiots
 gastromancy
 golcondas
 grogging
@@ -9895,7 +9896,6 @@ grander
 gonomere
 grainsick
 gallop
-galiots
 glamorizing
 groundnut
 growingly
