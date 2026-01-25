@@ -10318,7 +10318,6 @@ ela
 elicited
 exobiological
 ebullitions
-escaper
 ethnocracy
 energising
 expendable
@@ -11593,6 +11592,7 @@ evonymuses
 electroencephalographically
 exportations
 end
+escaper
 elderbush
 emergences
 evulsions
