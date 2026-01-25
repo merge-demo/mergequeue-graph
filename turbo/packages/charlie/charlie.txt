@@ -23186,6 +23186,7 @@ coiffure
 constrainingly
 cubbyhole
 constraints
+compurgator
 confervaceous
 cardioscope
 constrict
@@ -26053,7 +26054,6 @@ cosily
 coupled
 chasuble
 cosymmedian
-compurgator
 cosinage
 cosine
 culverineer
