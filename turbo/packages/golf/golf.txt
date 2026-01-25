@@ -7078,7 +7078,6 @@ gasterotrichan
 granger
 gambrels
 glyoxalic
-gopherberry
 gopherberries
 garbologist
 guerrila
@@ -9945,6 +9944,7 @@ gipsyfy
 galvayned
 goldi
 gymnodinium
+gopherberry
 greisen
 gozell
 gazetted
