@@ -10405,7 +10405,6 @@ blandishments
 braggadocian
 ballooned
 briticism
-banner
 badling
 bronco
 bullyrock
@@ -13654,6 +13653,7 @@ belander
 birred
 blames
 bromethylene
+banner
 barathrum
 bocci
 bourdons
