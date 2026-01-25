@@ -5563,7 +5563,6 @@ forefeel
 fossilation
 formulary
 fuming
-fmt
 flyer
 fingerwise
 fucuses
@@ -8414,6 +8413,7 @@ familist
 fornications
 fightings
 fikh
+fmt
 forficulate
 funaria
 filiate
