@@ -4310,7 +4310,6 @@ firms
 firns
 freespac
 fuchsone
-fleshings
 formicivora
 ficiform
 fermi
@@ -5620,6 +5619,7 @@ fishnets
 feudalizable
 finedraw
 fumet
+fleshings
 fermium
 fragility
 fibrine
