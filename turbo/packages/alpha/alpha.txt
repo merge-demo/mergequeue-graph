@@ -3012,6 +3012,7 @@ appearances
 actinograph
 attenuate
 aporobranchiata
+acinaces
 amboceptoid
 afterwar
 actinographic
@@ -17646,7 +17647,6 @@ automobilist
 aquotize
 appetibleness
 alula
-acinaces
 atlantad
 alerted
 aviate
