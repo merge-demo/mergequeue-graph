@@ -6817,7 +6817,6 @@ cellarwoman
 cellblock
 celled
 coelom
-cliffy
 centennium
 cellepore
 cellfalcicula
@@ -12010,6 +12009,7 @@ catalanist
 chorizont
 chorizontal
 comprehensible
+cliffy
 cribrately
 cariyo
 cutes
