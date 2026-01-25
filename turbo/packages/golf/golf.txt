@@ -1662,7 +1662,6 @@ gastritis
 gottfried
 gamed
 gommier
-garlanded
 gibson
 gastroenteritis
 glycerolysis
@@ -4463,6 +4462,7 @@ gypsywise
 guzzling
 grufted
 gyromele
+garlanded
 gangliitis
 gays
 grubbers

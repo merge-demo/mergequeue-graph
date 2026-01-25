@@ -659,7 +659,6 @@ caesarian
 caesarism
 caesarist
 cosufferer
-congruently
 caesaropapist
 caesarotomy
 choice
@@ -2072,6 +2071,7 @@ contradictorily
 camouflagers
 camouflagic
 coincidence
+congruently
 companionship
 cruddle
 calamarioid
