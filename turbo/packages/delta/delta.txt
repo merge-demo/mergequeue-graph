@@ -3907,7 +3907,6 @@ drisheen
 douser
 duopoly
 disleal
-diaphemetric
 deyship
 demagnification
 defendress
@@ -15786,6 +15785,7 @@ diallela
 dorsabdominal
 dungier
 dihydroxytoluene
+diaphemetric
 demurred
 depicting
 dipsacus
