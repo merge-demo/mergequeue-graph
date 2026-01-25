@@ -807,7 +807,6 @@ familiarizes
 fantasticalness
 forcible
 frisk
-fowl
 fermate
 frizado
 freeloaders
@@ -7644,6 +7643,7 @@ fantasie
 flustroid
 forefinger
 figary
+fowl
 fixed
 fritillaries
 faeculence

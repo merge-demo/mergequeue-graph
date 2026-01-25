@@ -6797,6 +6797,7 @@ berserks
 barnumize
 balize
 bootlessness
+botchily
 berhyme
 banjore
 bert
@@ -13313,7 +13314,6 @@ botcherly
 bedlams
 bitterbump
 botchy
-botchily
 becrimson
 botella
 botels
