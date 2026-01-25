@@ -4140,7 +4140,6 @@ grandfather
 gnathopod
 gosmore
 glotum
-gatchwork
 geod
 gleesome
 ganef
@@ -4980,6 +4979,7 @@ gilliflirt
 giantlikeness
 gamekeepers
 glariness
+gatchwork
 gregarinae
 gatch
 galvanotropic
