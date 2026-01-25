@@ -1544,6 +1544,7 @@ foreshift
 foetuses
 fauterer
 fauteuil
+feticide
 fussy
 foreteach
 farrow
@@ -2812,7 +2813,6 @@ farmhand
 fanam
 fishnet
 flowerets
-feticide
 front
 flossie
 frough
