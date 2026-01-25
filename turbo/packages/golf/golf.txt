@@ -2900,7 +2900,6 @@ gerontocracy
 gigots
 glycollic
 glints
-glittering
 gledes
 gonocyte
 gallinulelike
@@ -10760,6 +10759,7 @@ ganoin
 gloam
 graminin
 gimbals
+glittering
 gallium
 glamourie
 geranyl

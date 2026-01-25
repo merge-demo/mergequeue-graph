@@ -1690,7 +1690,6 @@ eyliad
 electrotheraputics
 exosseous
 extemporaneous
-eyecup
 emollescence
 experimently
 effectualize
@@ -5027,6 +5026,7 @@ eyebalm
 eavesdrop
 endearingly
 ectropium
+eyecup
 exemptible
 evertebrata
 emotiovascular
