@@ -8123,6 +8123,7 @@ byronian
 blooper
 binous
 bracken
+betrace
 bidden
 buttal
 boondocks
@@ -16458,7 +16459,6 @@ butt
 bladesmith
 buttonholder
 bestick
-betrace
 botas
 bouffage
 balbriggan
