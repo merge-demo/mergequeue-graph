@@ -4685,6 +4685,7 @@ gnawn
 gitim
 groveled
 glamourousness
+graphometry
 gecks
 garshuni
 goniale
@@ -8802,7 +8803,6 @@ gustoes
 gallus
 globate
 gm
-graphometry
 gunne
 greegrees
 gooses
