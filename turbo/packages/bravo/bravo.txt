@@ -350,6 +350,7 @@ bloman
 brushes
 billywix
 belches
+beggary
 bequeath
 backfires
 brontolite
@@ -5272,7 +5273,6 @@ biogeochemistry
 bundlings
 byssin
 burrier
-beggary
 bicrescentic
 bringsel
 beggarlike
