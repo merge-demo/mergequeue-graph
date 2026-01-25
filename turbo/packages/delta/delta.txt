@@ -1241,6 +1241,7 @@ dextrines
 desanding
 dialyzers
 diapasonal
+decentness
 dreggier
 daystars
 datebook
@@ -11064,7 +11065,6 @@ dirt
 denitrified
 deink
 dandyling
-decentness
 drakes
 dundreary
 disarmed
