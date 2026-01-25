@@ -3924,6 +3924,7 @@ autotyphization
 acanthine
 absinthes
 adjust
+alltud
 animalculum
 abdal
 astre
@@ -18177,7 +18178,6 @@ archivists
 amylosynthesis
 aquascope
 asqueal
-alltud
 ashberry
 aquate
 astalk
