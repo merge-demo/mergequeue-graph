@@ -114,7 +114,6 @@ eaves
 excrementally
 exsculptate
 engobe
-eartab
 eparch
 euphonised
 echinoderma
@@ -7083,6 +7082,7 @@ empanada
 endpaper
 envelops
 erect
+eartab
 euphorbiaceous
 enduing
 estimations
