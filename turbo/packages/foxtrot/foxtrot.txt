@@ -7719,6 +7719,7 @@ feudality
 fruggin
 flyeater
 foreknew
+foilable
 farcically
 florian
 falconlike
@@ -10914,7 +10915,6 @@ fruitist
 forgeful
 footgrip
 fi
-foilable
 flexity
 fullonian
 ferrying
