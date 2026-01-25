@@ -5799,6 +5799,7 @@ agedness
 agee
 aerugos
 ageing
+aprioristic
 ardass
 assumptive
 archiannelida
@@ -24852,7 +24853,6 @@ accupy
 alcoholization
 avoid
 avoidable
-aprioristic
 anarchosyndicalist
 avoidant
 anginoid
