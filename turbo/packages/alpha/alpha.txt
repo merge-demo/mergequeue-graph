@@ -11435,7 +11435,6 @@ acone
 armaments
 aloemodin
 afterturn
-arabize
 accoutring
 avengeress
 acrinyl
@@ -18156,6 +18155,7 @@ amphipoda
 artware
 apeak
 allodiary
+arabize
 astigmatically
 alivincular
 aquaregia
