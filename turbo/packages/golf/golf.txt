@@ -122,7 +122,6 @@ giher
 gastly
 gazogene
 gypsyhood
-girdled
 guerdoned
 gyros
 gadroonage
@@ -6161,6 +6160,7 @@ gonococcus
 gargarize
 glamorousness
 goalpost
+girdled
 gaze
 geopony
 gagster
