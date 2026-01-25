@@ -4276,7 +4276,6 @@ gingered
 gaugeable
 guss
 glendover
-granophyre
 glomerular
 gumbo
 gingerness
@@ -4633,6 +4632,7 @@ gipsyish
 gastrohelcosis
 geomorphologic
 glossarian
+granophyre
 gynecocratic
 gerbilles
 gossoon
