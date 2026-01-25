@@ -9750,7 +9750,6 @@ gonimium
 geobotany
 grumphie
 guesstimates
-grise
 gonangiums
 grumpy
 grun
@@ -10334,6 +10333,7 @@ gonoph
 grot
 glebal
 guarana
+grise
 gaums
 gaywings
 gasproof
