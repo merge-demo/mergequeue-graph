@@ -4225,6 +4225,7 @@ eaux
 expolish
 expendible
 expressways
+earing
 equidiagonal
 escutcheons
 experiment
@@ -9778,7 +9779,6 @@ equalisation
 ejectamenta
 extenuator
 emplanement
-earing
 extracellular
 essoinment
 essorant
