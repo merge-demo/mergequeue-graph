@@ -10286,7 +10286,6 @@ acupressure
 abscam
 apivorous
 attains
-anaphorically
 affination
 aristocratically
 alkalic
@@ -21141,6 +21140,7 @@ arnottos
 atramental
 atrial
 alcoholism
+anaphorically
 alpinely
 alkyloxy
 aulacomniaceae
