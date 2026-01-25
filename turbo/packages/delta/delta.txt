@@ -7560,6 +7560,7 @@ dilute
 djellaba
 deuton
 deutonymph
+dedicated
 danli
 distingu
 debated
@@ -8708,7 +8709,6 @@ disestablishment
 disproportionateness
 discriminate
 diatomales
-dedicated
 deplorer
 diatomicity
 duetted
