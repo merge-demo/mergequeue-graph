@@ -1188,7 +1188,6 @@ elenge
 entosarc
 entirities
 espathate
-enlute
 esodic
 educationist
 eurypyga
@@ -8909,6 +8908,7 @@ ergotoxine
 ergots
 evap
 erses
+enlute
 egestive
 essive
 epiphanies
