@@ -112,7 +112,6 @@ glossolaryngeal
 grillers
 gofferer
 geezer
-gluers
 gujerat
 ganguela
 grammarianism
@@ -2207,6 +2206,7 @@ gaster
 gonfalonierate
 gastrocatarrhal
 goodbyes
+gluers
 gibby
 galactohemia
 gleit
