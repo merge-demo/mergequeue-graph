@@ -1555,7 +1555,6 @@ blauboks
 beclowning
 ballerina
 ballet
-balletomane
 bigged
 blithemeat
 blastiest
@@ -2416,6 +2415,7 @@ bardlike
 barkiest
 bazar
 brinks
+balletomane
 bilaterality
 betowel
 bowditch
