@@ -2243,7 +2243,6 @@ exhume
 eruction
 educing
 encyclopedian
-encell
 epauletted
 epop
 electragy
@@ -12333,6 +12332,7 @@ emboliform
 effigurate
 eulogizers
 erythroglucin
+encell
 effusiometer
 emanators
 exerted
