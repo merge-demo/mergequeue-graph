@@ -7386,7 +7386,6 @@ festiveness
 flutterment
 forbiddingly
 fanglet
-featherweights
 farfels
 fewnes
 flatworms
@@ -10865,6 +10864,7 @@ fabledom
 faddism
 fulgidity
 flaite
+featherweights
 functionally
 fantasizing
 fossors
