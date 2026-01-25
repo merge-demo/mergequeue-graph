@@ -13406,7 +13406,6 @@ annalists
 authotype
 ajatasatru
 arctician
-annamite
 autosender
 arvicolous
 adverseness
@@ -18401,6 +18400,7 @@ asoak
 aristida
 ankylotia
 angelic
+annamite
 arapahos
 azorian
 adversant
