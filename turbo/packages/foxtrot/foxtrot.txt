@@ -2196,6 +2196,7 @@ fixe
 fogged
 feminal
 fruiting
+femaleness
 fragrancy
 feminility
 feminin
@@ -6682,7 +6683,6 @@ fluerics
 frowners
 fasciculated
 formicariae
-femaleness
 furrier
 freaky
 flaughtbred
