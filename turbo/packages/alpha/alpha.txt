@@ -4964,7 +4964,6 @@ aeronautical
 aeronomer
 amyliferous
 aumil
-aeronomical
 anisogametic
 aeronomics
 anthropopathia
@@ -14664,6 +14663,7 @@ antiaristocracies
 attendees
 arauna
 agaricine
+aeronomical
 antarctically
 arteriectasis
 alpinisms
