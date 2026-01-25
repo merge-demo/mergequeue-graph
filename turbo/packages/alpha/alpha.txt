@@ -4976,7 +4976,6 @@ anthropopathia
 amphisbaenid
 argentate
 acaridan
-auriculate
 admissibleness
 aeropathy
 arthritides
@@ -13735,6 +13734,7 @@ ashler
 antifouler
 anonyme
 austenitize
+auriculate
 antiabrasion
 aeolian
 anonymity
