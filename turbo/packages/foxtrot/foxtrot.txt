@@ -2183,7 +2183,6 @@ felts
 forthtell
 fishworker
 feltwort
-fastidiosity
 felwort
 fathearted
 faciobrachial
@@ -11007,6 +11006,7 @@ floodlight
 fabliaux
 fusuma
 farmery
+fastidiosity
 forcipate
 falafel
 fumets
