@@ -3849,7 +3849,6 @@ adipopexis
 apolline
 aleft
 acrook
-adiposuria
 andante
 adipsy
 attainableness
@@ -16723,6 +16722,7 @@ aphanisis
 atropaceous
 appraisal
 arteriotomies
+adiposuria
 agrotechny
 allocatee
 anthoxanthum
