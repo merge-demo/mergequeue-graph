@@ -3452,7 +3452,6 @@ glathsheim
 gimper
 girny
 grudger
-gynandromorphism
 graphicly
 gemul
 gewgawry
@@ -6762,6 +6761,7 @@ gashly
 gentilitial
 generalities
 geologically
+gynandromorphism
 gazania
 gyrostatics
 genal
