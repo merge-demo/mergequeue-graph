@@ -8820,6 +8820,7 @@ gablelike
 galley
 graecized
 goldeye
+gean
 granitized
 greyed
 grosser
@@ -9758,7 +9759,6 @@ gelatinous
 gregarine
 gonochorismus
 gaulsh
-gean
 globetrotter
 grunt
 grunter
