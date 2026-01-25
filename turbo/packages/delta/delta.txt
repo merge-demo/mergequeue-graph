@@ -12141,6 +12141,7 @@ declinations
 divinail
 dehusk
 depthometer
+determination
 diacetine
 dha
 deadlily
@@ -17705,7 +17706,6 @@ dense
 disgradulate
 duan
 desiderate
-determination
 drenching
 ducatus
 diecase
