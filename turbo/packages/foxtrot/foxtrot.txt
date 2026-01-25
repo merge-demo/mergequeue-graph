@@ -956,6 +956,7 @@ fanfishes
 filtering
 flightless
 faxing
+fetialis
 fosterer
 fleecers
 flueric
@@ -5011,7 +5012,6 @@ flappable
 frankalmoin
 figlike
 fishline
-fetialis
 foveated
 flake
 footbaths
