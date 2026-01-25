@@ -5193,7 +5193,6 @@ glottiscope
 gastriloquist
 gibbals
 gourding
-guardianships
 girouette
 gleys
 grindery
@@ -6235,6 +6234,7 @@ gobble
 gowpen
 gierfalcon
 gobbled
+guardianships
 gothicizer
 gyroidal
 grundyist
