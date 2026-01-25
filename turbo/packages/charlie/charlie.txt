@@ -4754,7 +4754,6 @@ carpeting
 carpetlayer
 carpetmaking
 clubability
-captivation
 carpets
 chant
 concolorous
@@ -15598,6 +15597,7 @@ classists
 classmanship
 clive
 conima
+captivation
 curdlers
 classwork
 clastics
