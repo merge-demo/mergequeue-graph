@@ -1107,6 +1107,7 @@ giroflore
 groat
 grooviness
 ghebeta
+gyrator
 gonangium
 ganja
 genically
@@ -1266,7 +1267,6 @@ ged
 goethites
 genetics
 graptolithina
-gyrator
 glyphographer
 gumpus
 grallina
