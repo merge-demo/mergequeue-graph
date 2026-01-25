@@ -9520,7 +9520,6 @@ esculin
 expansively
 essences
 eugenesis
-extrasolar
 exempt
 envois
 enneateric
@@ -13375,6 +13374,7 @@ ethnopsychological
 enfevers
 exits
 erythrolein
+extrasolar
 expositorially
 expostulating
 elachistaceous
