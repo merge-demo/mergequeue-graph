@@ -11960,7 +11960,6 @@ centrifugation
 cornbread
 counterculturist
 choriocarcinomas
-choriocele
 corked
 cichoriaceous
 covens
@@ -12314,6 +12313,7 @@ christological
 corseted
 christophe
 churrworm
+choriocele
 coastside
 centripetally
 christopher
