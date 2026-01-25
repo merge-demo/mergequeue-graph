@@ -1385,7 +1385,6 @@ anglican
 anticompetitive
 amadavat
 apar
-acceptors
 antifreezes
 acervuline
 acceptress
@@ -16315,6 +16314,7 @@ absurdism
 antitoxic
 antitoxin
 alquifou
+acceptors
 antitoxine
 antitrade
 aconuresis
