@@ -2287,7 +2287,6 @@ downcut
 derby
 decemviral
 deepish
-decemvirship
 decayer
 decene
 depurator
@@ -17663,6 +17662,7 @@ diplococci
 disapprobation
 decaffeinated
 dreamed
+decemvirship
 duadic
 demilitarise
 difluence
