@@ -3312,6 +3312,7 @@ gerundial
 gebang
 gingalls
 gangshag
+greyware
 germier
 goatsfoot
 gaetulian
@@ -3414,7 +3415,6 @@ grandiosely
 gertie
 geggery
 glamourize
-greyware
 gesturist
 goaled
 gynecic
