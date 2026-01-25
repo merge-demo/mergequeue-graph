@@ -15181,7 +15181,6 @@ claimed
 consumables
 cacothelin
 claimers
-claymore
 claims
 covenable
 claypans
@@ -16902,6 +16901,7 @@ coachwhip
 clucking
 clue
 cleanlier
+claymore
 cabinetry
 continuations
 clued
