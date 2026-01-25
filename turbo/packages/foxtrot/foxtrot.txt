@@ -2192,7 +2192,6 @@ forestery
 filius
 flounciest
 facetious
-feldspathoid
 facilitated
 febricitation
 farraginous
@@ -4048,6 +4047,7 @@ freefd
 finitism
 finitive
 freshwoman
+feldspathoid
 fowlfoot
 foreyear
 fingerberry
