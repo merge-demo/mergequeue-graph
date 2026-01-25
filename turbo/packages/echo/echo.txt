@@ -5818,7 +5818,6 @@ expansum
 exfoliation
 epicele
 engrafter
-exibilate
 engrailed
 elsewards
 epizoicide
@@ -10667,6 +10666,7 @@ extricating
 exclamatorily
 eudiometrical
 eudiometrically
+exibilate
 eudist
 eudoxian
 exogenic
