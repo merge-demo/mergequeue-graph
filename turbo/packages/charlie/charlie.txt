@@ -3077,6 +3077,7 @@ cycadeous
 canvasado
 canvasbacks
 canvasers
+carbonero
 coralroot
 cumaldehyde
 capriola
@@ -9386,7 +9387,6 @@ chawk
 clipsheet
 contabescence
 chawn
-carbonero
 capitolian
 coying
 cromwell
