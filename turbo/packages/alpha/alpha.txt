@@ -2343,7 +2343,6 @@ apprehend
 albeit
 autocrat
 aciform
-abet
 anarithia
 anomie
 anonyma
@@ -10411,6 +10410,7 @@ aegle
 aphanisia
 antireactive
 achimenes
+abet
 acanthoma
 aponogetonaceous
 amianthus
