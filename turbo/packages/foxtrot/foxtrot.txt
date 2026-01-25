@@ -4008,7 +4008,6 @@ fallible
 foredawn
 forasmuch
 fissural
-frettiest
 faveolus
 fingram
 fossilisable
@@ -5741,6 +5740,7 @@ finings
 ferrochrome
 flitfold
 flytiers
+frettiest
 fictile
 flutteration
 farmage
