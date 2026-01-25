@@ -1769,7 +1769,6 @@ debriefs
 devocalization
 drof
 deathward
-ductility
 docent
 downlier
 dispersonify
@@ -11553,6 +11552,7 @@ dosology
 deglamorize
 disconformities
 disconjure
+ductility
 disconnectedness
 diphtheroidal
 diphead
