@@ -10616,7 +10616,6 @@ aquarid
 amyloplast
 appertaining
 amyloplastid
-antichronism
 adenase
 anteromedian
 arborolater
@@ -18035,6 +18034,7 @@ antithetical
 ascaridia
 amulla
 april
+antichronism
 abadia
 arborescent
 aquaria
