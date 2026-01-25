@@ -563,6 +563,7 @@ ff
 fertilely
 figless
 foxwood
+felted
 federative
 fallectomy
 forebays
@@ -6701,7 +6702,6 @@ frontrunner
 frustrations
 folksily
 flame
-felted
 fogless
 fogo
 frescoists
