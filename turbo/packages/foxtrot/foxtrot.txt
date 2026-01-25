@@ -8660,6 +8660,7 @@ farstepped
 furthering
 frigidness
 faintest
+frigates
 footing
 flaunt
 fliffus
@@ -9941,7 +9942,6 @@ fudge
 fantoms
 freckled
 fa
-frigates
 flocculated
 frightens
 frighting
