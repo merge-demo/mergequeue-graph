@@ -9932,7 +9932,6 @@ epicentrum
 equicellular
 electroosmotically
 estrayed
-epididymodeferential
 ebraick
 estral
 evermore
@@ -10263,6 +10262,7 @@ economical
 elucidatory
 endoscopist
 ethylation
+epididymodeferential
 entrust
 earlap
 embroiled
