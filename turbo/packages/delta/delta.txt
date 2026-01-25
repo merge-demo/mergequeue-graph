@@ -14729,6 +14729,7 @@ detained
 decahedral
 dcbname
 doctorbird
+dissemblies
 dekametre
 declinedness
 darnation
@@ -15920,7 +15921,6 @@ dormition
 dims
 distileries
 dossmen
-dissemblies
 diatryma
 decamerous
 desaminase
