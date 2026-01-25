@@ -681,7 +681,6 @@ fresser
 frawn
 fiancing
 flitwite
-fidgety
 focalised
 fizzier
 folliculina
@@ -4629,6 +4628,7 @@ frwy
 factable
 filicinean
 fearsome
+fidgety
 finitudes
 figurante
 flaunched
