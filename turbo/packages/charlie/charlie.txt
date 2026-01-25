@@ -6424,6 +6424,7 @@ collision
 cloudland
 cauterism
 carafe
+crinivorous
 correcter
 casefies
 conchfish
@@ -8916,7 +8917,6 @@ chared
 condensator
 charely
 consultation
-crinivorous
 catechumenical
 catholicizing
 chareter
