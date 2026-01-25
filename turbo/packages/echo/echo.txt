@@ -3893,7 +3893,6 @@ effodient
 exede
 examinability
 endexine
-emissory
 emitting
 eluviation
 electropathic
@@ -14201,6 +14200,7 @@ enlists
 effecters
 enjoyments
 enow
+emissory
 equiradiate
 exerciser
 exust
