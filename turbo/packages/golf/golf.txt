@@ -8200,6 +8200,7 @@ glam
 gadwalls
 geranin
 grouthead
+gallberry
 glucosan
 guidebooky
 girdlingly
@@ -8423,7 +8424,6 @@ goldbricks
 glaciarium
 goonch
 gratuitant
-gallberry
 glossograph
 grenatite
 guaguanche
