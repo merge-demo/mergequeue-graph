@@ -9994,7 +9994,6 @@ framableness
 fenceless
 fanga
 forerevelation
-fecundations
 foredeclare
 foxite
 frilled
@@ -10930,6 +10929,7 @@ flexure
 field
 fadridden
 fack
+fecundations
 francs
 fulminurate
 fulness
