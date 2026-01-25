@@ -550,7 +550,6 @@ deaccessions
 dovyalis
 deliber
 damagers
-dextrorotation
 demobilized
 dialyzing
 diplosis
@@ -13559,6 +13558,7 @@ defterdar
 disaccharose
 dhoni
 dungeoner
+dextrorotation
 disperse
 disquisitive
 disrelishable
