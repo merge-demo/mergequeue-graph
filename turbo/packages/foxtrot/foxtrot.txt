@@ -4830,6 +4830,7 @@ fixes
 firmhearted
 frondiferous
 fetching
+feelers
 factuality
 fabricational
 funks
@@ -8641,7 +8642,6 @@ fingerfishes
 ferryage
 futileness
 faddishly
-feelers
 felt
 fearfully
 fibromucous
