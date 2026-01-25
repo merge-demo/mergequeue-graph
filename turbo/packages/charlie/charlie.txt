@@ -18059,7 +18059,6 @@ coenenchym
 casualness
 cephalosporin
 coenenchymal
-communality
 capouch
 coenesthesia
 coengage
@@ -25500,6 +25499,7 @@ coronagraph
 controversionalism
 counter
 confervous
+communality
 coronaled
 coronalled
 coronals
