@@ -13195,7 +13195,6 @@ aecium
 alloplasmic
 animistic
 anabatic
-accretionary
 amaltas
 anilidic
 allude
@@ -17484,6 +17483,7 @@ appanage
 arthrostraca
 appanaged
 abusage
+accretionary
 agreements
 adsbud
 acinacifoliate

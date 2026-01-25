@@ -4255,7 +4255,6 @@ firewater
 fictionisation
 fingerling
 freudism
-fatiguability
 fulsomely
 ferdwit
 foreshortens
@@ -9379,6 +9378,7 @@ formularisation
 faradism
 foretimed
 fritillaria
+fatiguability
 federator
 frigatoon
 frostbiting
