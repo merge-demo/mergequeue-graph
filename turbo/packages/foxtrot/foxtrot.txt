@@ -5043,7 +5043,6 @@ felter
 forvay
 flarer
 fescue
-folklike
 funorin
 fiendliest
 foursquarely
@@ -11158,6 +11157,7 @@ frowy
 fungation
 fungia
 fun
+folklike
 fremdness
 flyblowing
 felspar
