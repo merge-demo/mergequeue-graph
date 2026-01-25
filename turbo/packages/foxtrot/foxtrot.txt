@@ -3297,7 +3297,6 @@ flon
 firebrats
 forsung
 flench
-furuncle
 fidge
 frogfoot
 fractionally
@@ -5928,6 +5927,7 @@ feretories
 furzes
 fearlessly
 favonius
+furuncle
 frenchification
 frailly
 fivepins
