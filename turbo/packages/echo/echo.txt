@@ -4216,6 +4216,7 @@ emulations
 echograph
 exporters
 expiree
+econometrician
 escarping
 escambio
 emulousness
@@ -5432,7 +5433,6 @@ eigenstate
 entitledness
 edematous
 energid
-econometrician
 earthgall
 enfolded
 ensuing
