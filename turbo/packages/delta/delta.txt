@@ -9157,6 +9157,7 @@ doors
 darnel
 delobranchiata
 dyeability
+disentrail
 denazification
 demilance
 devilman
@@ -12077,7 +12078,6 @@ drepanaspis
 disentombment
 disclaimers
 deplaceable
-disentrail
 disentrainment
 disentrance
 depilatory
