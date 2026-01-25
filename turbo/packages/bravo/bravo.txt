@@ -1732,7 +1732,6 @@ balsamine
 become
 balsamitic
 balsamiticness
-benzoylating
 boldheartedly
 balsamorrhiza
 burkei
@@ -6159,6 +6158,7 @@ balsamweed
 baccarat
 bromvoel
 blacker
+benzoylating
 beneficialness
 bloodthirsting
 banlieue
