@@ -8883,7 +8883,6 @@ behen
 bezantee
 brimmimg
 biorhythmicity
-bathypelagic
 bioactivities
 bungling
 bioassaying
@@ -17926,6 +17925,7 @@ bibliopegist
 bahmanid
 brahmanda
 beminstrel
+bathypelagic
 bushless
 bareness
 bisti
