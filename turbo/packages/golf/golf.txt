@@ -1422,7 +1422,6 @@ gadget
 gangrels
 guild
 garbages
-gulfy
 gemutlich
 gainward
 glossarial
@@ -1559,6 +1558,7 @@ grassless
 gassed
 gypsumed
 gastritic
+gulfy
 grana
 gymnasisiums
 gentlemens
