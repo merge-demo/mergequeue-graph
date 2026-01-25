@@ -4195,7 +4195,6 @@ gradometer
 galravitch
 gypsuming
 goniopholis
-grisset
 gubbo
 gnu
 gynecocracies
@@ -8296,6 +8295,7 @@ gentes
 gastrojejunostomies
 gladness
 gelation
+grisset
 grailing
 gudes
 grandparental
