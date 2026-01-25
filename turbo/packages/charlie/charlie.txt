@@ -7223,7 +7223,6 @@ centriscoid
 cappadine
 centriscus
 centrism
-clark
 cinemascope
 comite
 crispen
@@ -14485,6 +14484,7 @@ conscription
 cassatas
 counterpuncher
 cirsectomies
+clark
 cirsoid
 cirsophthalmia
 completable
