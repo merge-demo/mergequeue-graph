@@ -12258,7 +12258,6 @@ degreasing
 dromedarist
 diazomethane
 disgospel
-diminuendos
 disgracer
 dipicrate
 disenchanted
@@ -14711,6 +14710,7 @@ diphylleia
 dotlike
 discarnation
 difflation
+diminuendos
 diaristic
 dibrach
 despumate
