@@ -3476,6 +3476,7 @@ capsella
 calyptras
 capshore
 capsian
+chaucerian
 ceruses
 chullpa
 capsicums
@@ -9288,7 +9289,6 @@ colorably
 chromotherapy
 chalutz
 cordite
-chaucerian
 chauchat
 ceratophyllaceae
 cuorin
