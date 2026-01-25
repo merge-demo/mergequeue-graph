@@ -10993,6 +10993,7 @@ anarthropodous
 aphanites
 aerobion
 agomphious
+adjectivism
 adelphophagy
 amorphism
 agednesses
@@ -20970,7 +20971,6 @@ alexine
 archeologian
 affects
 ascarids
-adjectivism
 alpinist
 agog
 ascelli
