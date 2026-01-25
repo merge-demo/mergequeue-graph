@@ -18292,7 +18292,6 @@ adultlike
 adustiosis
 arabism
 abstinent
-aquiculture
 arabist
 appreciator
 arabit
@@ -21637,6 +21636,7 @@ aphronia
 annexes
 applicability
 aspredo
+aquiculture
 antirickets
 agilities
 akasha
