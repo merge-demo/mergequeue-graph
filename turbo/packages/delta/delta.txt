@@ -3206,6 +3206,7 @@ dictums
 dasyures
 damselflies
 dudelsack
+deaminize
 defeit
 de
 dogdom
@@ -16041,7 +16042,6 @@ drainboard
 dockers
 doormats
 demystify
-deaminize
 diacoelosis
 doublette
 decursively
