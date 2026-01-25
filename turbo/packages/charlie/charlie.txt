@@ -12065,7 +12065,6 @@ carpophalangeal
 calcydon
 chose
 chophouses
-coursed
 choses
 chott
 czechoslovakian
@@ -25968,6 +25967,7 @@ commissars
 cosaque
 corneum
 coppled
+coursed
 coscet
 coscinomancy
 cose

@@ -9090,7 +9090,6 @@ anaspid
 agrising
 alman
 adenovirus
-anorectic
 arrowplate
 aeginetic
 almandines
@@ -9248,6 +9247,7 @@ antitumor
 alopecia
 alopecias
 alopecoid
+anorectic
 antrectomy
 alophas
 adventitious
