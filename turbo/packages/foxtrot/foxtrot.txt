@@ -3869,6 +3869,7 @@ fanwe
 floras
 fianced
 fits
+friary
 fortuitously
 fluidness
 flowable
@@ -6578,7 +6579,6 @@ fortuitist
 flyboats
 falconiform
 franseria
-friary
 flipping
 formalazine
 flunkeyism
