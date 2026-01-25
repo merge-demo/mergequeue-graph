@@ -10983,7 +10983,6 @@ ciliium
 chiropodial
 chiropodic
 chiropodical
-counterprophet
 caphite
 cavascope
 canvaslike
@@ -20076,6 +20075,7 @@ campodeid
 commensals
 chamosite
 commensurability
+counterprophet
 commensurable
 cajoled
 commensurate
