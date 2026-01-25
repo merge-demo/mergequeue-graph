@@ -3413,7 +3413,6 @@ coagulatory
 caprella
 capreol
 commotional
-capreolar
 clamper
 canonizant
 capreolary
@@ -13267,6 +13266,7 @@ cycloidean
 coalshed
 culmicolous
 cycloidotrope
+capreolar
 capercailzie
 cesura
 cadee
