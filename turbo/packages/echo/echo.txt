@@ -10551,6 +10551,7 @@ euchlorine
 eluents
 ectrodactylia
 enteropathy
+ectosphere
 exogenae
 estates
 ergosterol
@@ -13750,7 +13751,6 @@ emblazoning
 extersive
 exerting
 epitrochoidal
-ectosphere
 egghead
 extincted
 enterostomies
