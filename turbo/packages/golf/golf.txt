@@ -7564,7 +7564,6 @@ gangism
 grassweed
 gledge
 gloomful
-gyrus
 grille
 gambians
 grab
@@ -9563,6 +9562,7 @@ gingersnap
 geishas
 gneissoid
 growan
+gyrus
 gogmagog
 gravelike
 gobbed
