@@ -439,6 +439,7 @@ dorsoanterior
 drinker
 dairywomen
 daunder
+diphthongisation
 descanting
 dayrooms
 deities
@@ -10455,7 +10456,6 @@ dilutedness
 dendrodra
 disordeine
 diphthonging
-diphthongisation
 deisticalness
 dipterad
 dozent
