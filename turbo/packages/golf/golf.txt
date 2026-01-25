@@ -50,6 +50,7 @@ groats
 graperies
 gangue
 glaucolite
+galgulidae
 guemal
 geometrine
 gelatinousness
@@ -681,7 +682,6 @@ grindstones
 goodheartedly
 gilour
 gastrojejunostomy
-galgulidae
 geropiga
 gyrostabilizer
 gravelish
