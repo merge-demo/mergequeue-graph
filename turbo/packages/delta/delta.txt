@@ -545,7 +545,6 @@ detonatable
 damaged
 detort
 dimness
-damageous
 deaccessions
 dovyalis
 deliber
@@ -9981,6 +9980,7 @@ diplomas
 dramalogue
 dimpled
 deputised
+damageous
 dessertspoonfuls
 disobliger
 dimplement
