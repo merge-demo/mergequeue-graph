@@ -646,7 +646,6 @@ gradatory
 gluside
 guenepe
 guideline
-gramineal
 geodetic
 gweducs
 gardencraft
@@ -10162,6 +10161,7 @@ gastropathy
 granulated
 governable
 gloriana
+gramineal
 goosery
 goldin
 genethliac
