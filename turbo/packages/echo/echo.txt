@@ -2966,7 +2966,6 @@ embolectomy
 engagee
 equaeval
 epihydrinic
-elides
 electrotropism
 epistoler
 ekronite
@@ -4163,6 +4162,7 @@ esbay
 earthlight
 everyman
 empresses
+elides
 emprint
 emprises
 employes
