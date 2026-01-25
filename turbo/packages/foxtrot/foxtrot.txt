@@ -7140,7 +7140,6 @@ friszka
 footboy
 footboys
 floodgate
-fairling
 failed
 fumarolic
 frostlike
@@ -7393,6 +7392,7 @@ floatplane
 foreprise
 frost
 foziest
+fairling
 fabricating
 fattened
 fierding
