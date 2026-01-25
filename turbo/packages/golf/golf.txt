@@ -2971,6 +2971,7 @@ gaolering
 geographies
 gemmologists
 galliardness
+giantism
 geoids
 gloriole
 gastrostomy
@@ -7742,7 +7743,6 @@ guapena
 grayling
 grossulariaceae
 galivanted
-giantism
 girnal
 glacial
 gunung
