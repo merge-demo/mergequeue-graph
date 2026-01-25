@@ -8646,6 +8646,7 @@ basigenic
 baraza
 billon
 baronizing
+bombards
 billow
 bimorph
 balladeroyal
@@ -17158,7 +17159,6 @@ bullies
 broll
 bezaleel
 bagrationite
-bombards
 bullyism
 bintangor
 brushmaking
