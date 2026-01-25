@@ -4926,7 +4926,6 @@ fintadores
 fuligula
 frenulum
 forehinting
-flyway
 feebleheartedly
 flanch
 farcemeat
@@ -6356,6 +6355,7 @@ flagpole
 fontes
 forementioned
 flang
+flyway
 fullterm
 fluoran
 fennish
