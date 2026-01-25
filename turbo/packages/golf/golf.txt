@@ -8762,6 +8762,7 @@ gekko
 gulfs
 goalless
 greese
+guacharos
 gust
 gawk
 genual
@@ -9426,7 +9427,6 @@ geonic
 grounden
 gallybeggar
 gorgeous
-guacharos
 glutamic
 gigues
 gallinulinae
