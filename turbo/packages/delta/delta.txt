@@ -3561,6 +3561,7 @@ defuze
 dakoities
 dissociative
 degames
+dado
 deganglionate
 dystome
 degasify
@@ -11475,7 +11476,6 @@ demerse
 disseminates
 demiparallel
 deepened
-dado
 discomedusae
 defrauded
 dentiphone
