@@ -5451,7 +5451,6 @@ endotheliomyxoma
 ensphering
 energize
 egging
-energizers
 eyrant
 eosinophilia
 elasmosaurus
@@ -14084,6 +14083,7 @@ ebonize
 explicits
 entwinement
 extremeless
+energizers
 etymography
 extremeness
 effeminate
