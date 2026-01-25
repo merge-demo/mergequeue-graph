@@ -1686,6 +1686,7 @@ fathometer
 frypan
 faucets
 fellest
+flocculent
 flatworm
 fieldmice
 fragmentation
@@ -5858,7 +5859,6 @@ fangas
 flinted
 frantically
 furnishings
-flocculent
 flushes
 flaxier
 flocker
