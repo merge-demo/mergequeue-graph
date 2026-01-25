@@ -2280,7 +2280,6 @@ galante
 gumihan
 gestant
 grosse
-giddyberry
 gripmen
 geological
 grallatorial
@@ -4639,6 +4638,7 @@ gynecocratic
 gerbilles
 gossoon
 glassin
+giddyberry
 guisard
 glycuronic
 gradely
