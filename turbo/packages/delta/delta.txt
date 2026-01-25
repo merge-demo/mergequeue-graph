@@ -859,7 +859,6 @@ dartmoor
 disinterested
 drizzling
 deteriorator
-dischevel
 duralumin
 duotone
 decrudescence
@@ -7063,6 +7062,7 @@ dz
 dollhood
 defensed
 diplacanthus
+dischevel
 democratically
 dermophyte
 duncan
