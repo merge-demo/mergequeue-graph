@@ -2682,6 +2682,7 @@ canille
 canine
 consuetudinary
 canines
+crypto
 caning
 caniniform
 confidantes
@@ -29241,7 +29242,6 @@ crypticness
 chalicotherioid
 covenantally
 carragheenin
-crypto
 cryptoagnostic
 cynogenealogist
 cryptoanalytically
