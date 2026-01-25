@@ -3837,7 +3837,6 @@ emesa
 emeses
 effigiate
 ethnobotanical
-emesis
 entrapment
 easiness
 emanated
@@ -4181,6 +4180,7 @@ execrating
 exocardiac
 enghle
 etherialisation
+emesis
 emeutes
 enwound
 entrants
