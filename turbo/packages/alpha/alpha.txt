@@ -245,6 +245,7 @@ abbreviation
 angiohypotonia
 abcoulomb
 abietineous
+aortomalaxis
 automative
 aba
 apodictic
@@ -16534,7 +16535,6 @@ aortectasis
 asea
 aortic
 amurcous
-aortomalaxis
 arabianize
 alkaptonuria
 antichoromanic
