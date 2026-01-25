@@ -15460,6 +15460,7 @@ antimelancholic
 attainder
 assented
 anapestic
+acceptees
 archisperm
 antimere
 antimerism
@@ -18536,7 +18537,6 @@ anyplace
 arborical
 arboricole
 addresses
-acceptees
 arboricoline
 arboricolous
 arboriculture
