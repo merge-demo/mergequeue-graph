@@ -3483,6 +3483,7 @@ emblazoner
 emblazonments
 embellisher
 endodermis
+electrokinematics
 elastic
 etherialising
 escandalize
@@ -10993,7 +10994,6 @@ eigenfrequency
 escobita
 embarrassingly
 ennuye
-electrokinematics
 excavates
 eurybenthic
 etacist
