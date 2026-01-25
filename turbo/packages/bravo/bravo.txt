@@ -12665,7 +12665,6 @@ butylates
 boysenberry
 bororo
 benthamite
-biotechnology
 bubbles
 burlecue
 bieennia
@@ -17712,6 +17711,7 @@ begazed
 bestead
 bollard
 beshouts
+biotechnology
 bookways
 bombshell
 burned
