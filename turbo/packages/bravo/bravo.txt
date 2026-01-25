@@ -6454,6 +6454,7 @@ bolection
 benzoxyacetic
 blanchers
 ballast
+boatful
 bisulcate
 bulldogged
 biostratigraphy
@@ -13759,7 +13760,6 @@ blesseder
 bugeye
 bedlam
 bogs
-boatful
 brontide
 brachydactyly
 bait
