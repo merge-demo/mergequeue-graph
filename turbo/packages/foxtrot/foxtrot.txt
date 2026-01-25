@@ -9267,6 +9267,7 @@ fascinery
 frontispieced
 fraktur
 fasciolet
+fomites
 fibroglioma
 floter
 fresnel
@@ -9706,7 +9707,6 @@ foamingly
 feoffor
 frankensteins
 faying
-fomites
 foeship
 fremontodendron
 fidging
