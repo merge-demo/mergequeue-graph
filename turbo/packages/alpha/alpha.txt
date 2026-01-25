@@ -225,7 +225,6 @@ anis
 anhungered
 antisensitizer
 abbotric
-allokinesis
 alchemistical
 adipolytic
 ajourise
@@ -4592,6 +4591,7 @@ advisories
 acrock
 antipill
 amreeta
+allokinesis
 advocacy
 anahao
 afterspeech
