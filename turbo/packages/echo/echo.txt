@@ -5627,6 +5627,7 @@ estrif
 elaeagnaceous
 extinct
 essayist
+entreaties
 entera
 extraterrestrially
 eucalypts
@@ -10285,7 +10286,6 @@ excipulum
 experimentize
 electronography
 entrapper
-entreaties
 erump
 ethmyphitis
 existents
