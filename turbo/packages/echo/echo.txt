@@ -2706,6 +2706,7 @@ elaeopten
 escribed
 ephippial
 exteriorise
+electrophonic
 essed
 electrocoating
 ericolin
@@ -8979,7 +8980,6 @@ exhilarant
 explorative
 emboldening
 enjoinment
-electrophonic
 ecclesiasticism
 epizootiological
 effected
