@@ -6036,7 +6036,6 @@ bemurmur
 bondwoman
 butyral
 botaniser
-bemurmure
 bemurmuring
 bereaved
 bittier
@@ -13493,6 +13492,7 @@ bags
 bigamistic
 bourre
 beseek
+bemurmure
 boondoggle
 boneyards
 botulisms
