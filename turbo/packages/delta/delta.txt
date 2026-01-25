@@ -11579,7 +11579,6 @@ datasets
 drolly
 dispeopling
 demophobe
-digester
 divulgator
 diagnosticians
 disposable
@@ -16131,6 +16130,7 @@ doup
 dingee
 douping
 disperses
+digester
 deformity
 deforcing
 dour
