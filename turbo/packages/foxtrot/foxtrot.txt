@@ -182,7 +182,6 @@ factitively
 flatfoots
 featherless
 flier
-factorable
 flimsies
 finitary
 factoryship
@@ -5202,6 +5201,7 @@ farandole
 fidfad
 factum
 fortemente
+factorable
 fratcher
 flavoriness
 foremilks
