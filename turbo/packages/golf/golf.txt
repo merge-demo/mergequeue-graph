@@ -7114,7 +7114,6 @@ guayaba
 greenfly
 gaboon
 gile
-gore
 gordioid
 guardianess
 gearboxes
@@ -9282,6 +9281,7 @@ gunj
 guidebook
 gi
 geodynamicist
+gore
 grief
 grapeline
 girnel
