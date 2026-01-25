@@ -13370,7 +13370,6 @@ dayflower
 demonstrableness
 deadmen
 decurving
-disequilibria
 disputisoun
 duala
 disheartens
@@ -13491,6 +13490,7 @@ dialectologer
 dustiness
 demicircle
 disrooting
+disequilibria
 ditrigonal
 dizygous
 disruddered
