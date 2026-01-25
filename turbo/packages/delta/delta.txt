@@ -8462,7 +8462,6 @@ downset
 directionize
 dodecyl
 downgrades
-dorcopsis
 diamondbacked
 debaucher
 declassify
@@ -15467,6 +15466,7 @@ ductule
 domnei
 deoxyribonucleic
 duffing
+dorcopsis
 dopehead
 demonstratory
 dope
