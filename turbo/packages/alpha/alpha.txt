@@ -15077,7 +15077,6 @@ aeroperitonia
 aruke
 antidote
 anteroventrally
-appraise
 agnosias
 antidoted
 acraldehyde
@@ -25244,6 +25243,7 @@ ammonal
 azelaic
 antical
 aciduria
+appraise
 azeotrope
 alveoloclasia
 abstrict
