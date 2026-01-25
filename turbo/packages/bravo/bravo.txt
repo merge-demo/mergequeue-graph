@@ -3224,7 +3224,6 @@ bedights
 bathtub
 blatters
 barkpeel
-basigynium
 basilarchia
 beware
 blotchily
@@ -11126,6 +11125,7 @@ bougies
 bygane
 barotaxy
 bizygomatic
+basigynium
 bacchanalia
 bloodcurdling
 bloodcurdlingly
