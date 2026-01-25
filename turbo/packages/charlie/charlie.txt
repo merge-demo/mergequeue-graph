@@ -7290,7 +7290,6 @@ cep
 cholangioitis
 crisis
 cepaceous
-comitatus
 cepe
 crossroads
 cepes
@@ -22201,6 +22200,7 @@ crematoriums
 cresotate
 connusable
 characterizer
+comitatus
 campanularian
 choicer
 cloxacillin
