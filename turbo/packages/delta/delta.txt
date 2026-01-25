@@ -15617,6 +15617,7 @@ decoders
 diversionist
 dooputty
 doorhead
+dragoonage
 detergible
 diener
 dooring
@@ -16640,7 +16641,6 @@ dragonwort
 dedolent
 dation
 denunciable
-dragoonage
 dragrope
 decades
 dexterousness
