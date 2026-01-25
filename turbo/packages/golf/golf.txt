@@ -2229,7 +2229,6 @@ galactase
 gastrotome
 grifts
 gonorrhea
-gonidiogenous
 glumiferous
 gehlenite
 goblet
@@ -4867,6 +4866,7 @@ gliomata
 gorier
 gorse
 glauberite
+gonidiogenous
 glair
 glosses
 gradual
