@@ -801,7 +801,6 @@ emmers
 epispadias
 efficiencies
 euglenidae
-enterograph
 ectypal
 ectype
 epicarpal
@@ -8179,6 +8178,7 @@ equidominant
 equidistantly
 ergophobia
 elderbrotherish
+enterograph
 euthenic
 earlobe
 ethnomaniac
