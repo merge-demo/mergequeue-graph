@@ -5976,6 +5976,7 @@ gourdes
 gnarliest
 gnarliness
 gasconaded
+graphiologist
 grassiness
 graspless
 gnarls
@@ -7268,7 +7269,6 @@ garcon
 gastraea
 gauffer
 glazers
-graphiologist
 glutaric
 gubernator
 glitches
