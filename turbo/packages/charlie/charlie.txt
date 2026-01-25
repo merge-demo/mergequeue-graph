@@ -19290,7 +19290,6 @@ colonette
 colongitude
 colony
 crabbier
-cabezones
 coresidence
 chelem
 colonialists
@@ -25196,6 +25195,7 @@ coreless
 coryneform
 corineus
 candelabrums
+cabezones
 caucussed
 corynid
 corynine
