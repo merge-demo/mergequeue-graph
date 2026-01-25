@@ -1842,6 +1842,7 @@ feudalize
 fops
 flabellum
 fating
+foresees
 feedbags
 footwalk
 flexographic
@@ -7924,7 +7925,6 @@ fardels
 fallers
 fletching
 flaccidities
-foresees
 fonder
 foreseize
 flatteries
