@@ -19602,7 +19602,6 @@ antiphonies
 arianizer
 auxocyte
 anhydraemic
-antitheses
 arybballi
 archichlamydeous
 adhesions
@@ -23561,6 +23560,7 @@ algedi
 alizarate
 auld
 aulder
+antitheses
 anorganism
 auldfarrantlike
 auletai
