@@ -173,7 +173,6 @@ factiously
 fontinalaceae
 floristics
 forthought
-facile
 feather
 flirtable
 fanmaker
@@ -9760,6 +9759,7 @@ factored
 fridges
 ferijee
 fishweir
+facile
 frequentest
 feldspar
 frapp
