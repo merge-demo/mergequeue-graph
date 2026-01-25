@@ -1069,7 +1069,6 @@ dishes
 diacodium
 deas
 disobliging
-dutra
 darner
 darners
 darning
@@ -15343,6 +15342,7 @@ displeasureable
 descendability
 dittander
 domba
+dutra
 disbogue
 daimioate
 donationes
