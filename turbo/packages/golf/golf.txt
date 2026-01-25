@@ -2689,6 +2689,7 @@ glaciological
 gigantocyte
 gyrencephalic
 gastroenterologists
+genuclast
 groupthink
 ganodont
 geoteuthis
@@ -7910,7 +7911,6 @@ gymnurinae
 guesdist
 gymnospermy
 glumness
-genuclast
 gametogonium
 gregaloid
 gyniolatry
