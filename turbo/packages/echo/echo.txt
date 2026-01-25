@@ -1854,7 +1854,6 @@ eileen
 epictetian
 eurygnathism
 epexegesis
-expletives
 executant
 executrix
 eimak
@@ -7577,6 +7576,7 @@ embarkations
 exterminate
 eikonology
 enamelware
+expletives
 enfeoffs
 essling
 effoliate
