@@ -756,6 +756,7 @@ fibrilliferous
 footbreadth
 falangist
 fanatism
+flagpoles
 farcilite
 flybelt
 frozenness
@@ -1194,7 +1195,6 @@ forfex
 filicineae
 fraying
 friponerie
-flagpoles
 faraway
 focalize
 funder
