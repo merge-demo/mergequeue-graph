@@ -5448,7 +5448,6 @@ augurer
 anele
 afterburning
 abigail
-aftercareer
 aminoquinoline
 aftercataract
 aloe
@@ -7590,6 +7589,7 @@ actual
 alectorides
 anorogenic
 alcmene
+aftercareer
 alcogene
 algocyan
 atheists
