@@ -3169,6 +3169,7 @@ gie
 gastrocnemian
 geologers
 gotiglacial
+glauconitization
 guerdoning
 gephyrea
 gwendolen
@@ -9146,7 +9147,6 @@ glaceed
 garapata
 geogonic
 gouldian
-glauconitization
 gripgrass
 grouchily
 grantsman
