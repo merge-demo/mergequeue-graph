@@ -4440,7 +4440,6 @@ advaita
 advance
 antiphoner
 azurine
-arriet
 asymmetron
 advancedness
 anagenetic
@@ -22454,6 +22453,7 @@ astrometeorology
 aforenamed
 apprend
 asterina
+arriet
 aenigma
 allegorization
 astrometry
