@@ -3778,7 +3778,6 @@ fumblingness
 factor
 filigreeing
 flanconnade
-fiendishness
 forestall
 fergusonite
 filmstrips
@@ -4519,6 +4518,7 @@ frocklike
 fiscalify
 frontier
 firlot
+fiendishness
 fetishic
 fanatically
 foreglance
