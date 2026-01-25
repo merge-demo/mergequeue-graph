@@ -5397,6 +5397,7 @@ galactophlebitis
 griphosaurus
 golaseccan
 gynophagite
+ginner
 gaea
 graphitized
 glyptolith
@@ -8345,7 +8346,6 @@ guns
 grieshoch
 glucid
 gasterosteiform
-ginner
 gynaecoid
 grillading
 grandisonant
