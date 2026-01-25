@@ -2850,6 +2850,7 @@ downstater
 daur
 desiring
 diaclasis
+dumpoke
 decubiti
 deculturate
 dextropedal
@@ -18186,7 +18187,6 @@ dumpled
 discreetest
 depositaries
 dynamicity
-dumpoke
 deltohedra
 dissective
 dumsola
