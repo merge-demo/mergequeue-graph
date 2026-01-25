@@ -1621,7 +1621,6 @@ euphony
 ephraim
 egromancy
 emptiness
-egurgitate
 egurgitated
 eheu
 explanatively
@@ -10069,6 +10068,7 @@ enchainment
 exoneretur
 ebonies
 emission
+egurgitate
 encephalographically
 editorially
 entitlement
