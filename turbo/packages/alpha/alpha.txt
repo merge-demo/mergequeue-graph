@@ -5580,7 +5580,6 @@ arctogaeal
 afterwise
 afterwit
 afterwork
-agathodemon
 aint
 afterworld
 antischool
@@ -17235,6 +17234,7 @@ accendibility
 anteroom
 apophatic
 akhrot
+agathodemon
 anticrepuscule
 admonitively
 aseismicity
