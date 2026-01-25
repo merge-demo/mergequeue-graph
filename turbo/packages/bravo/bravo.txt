@@ -13618,7 +13618,6 @@ bhoots
 boundless
 beggaress
 buttressless
-backspliced
 bespecklement
 blights
 buttermaking
@@ -15699,6 +15698,7 @@ bands
 bonbonniere
 bogglebo
 barbering
+backspliced
 battarism
 brunonia
 broadlooms
