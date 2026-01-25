@@ -6929,7 +6929,6 @@ ariidae
 arsenite
 ayuntamiento
 assentatious
-assaulters
 acceptilating
 ayurveda
 aptitudes
@@ -17224,6 +17223,7 @@ androphagous
 althaeas
 almudes
 antivirus
+assaulters
 aponeurotomy
 aponic
 archipterygial
