@@ -2833,7 +2833,6 @@ faithed
 fetology
 foolfishes
 fibroglia
-furunculosis
 flatwares
 filibeg
 flamefish
@@ -8818,6 +8817,7 @@ fecundation
 foxie
 fixedly
 foddered
+furunculosis
 firebombing
 forgers
 filletster
