@@ -9136,6 +9136,7 @@ fielded
 fleeceflower
 floridly
 fr
+fuchsine
 flintlike
 furdle
 funambulated
@@ -10813,7 +10814,6 @@ farmerette
 fort
 floundered
 faintful
-fuchsine
 fridge
 flustra
 facet
