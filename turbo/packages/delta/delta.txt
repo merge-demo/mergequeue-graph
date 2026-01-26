@@ -11370,6 +11370,7 @@ dowagers
 disclass
 dermorhynchous
 disclimax
+depasturation
 dialogite
 drossing
 dastardy
@@ -14049,7 +14050,6 @@ daddled
 distraining
 depreciatingly
 diddling
-depasturation
 dehydrocorticosterone
 distraite
 door
