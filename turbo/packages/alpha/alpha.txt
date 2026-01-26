@@ -1668,7 +1668,6 @@ astr
 anorganic
 alkalimeter
 arank
-autecologically
 ambiguously
 aphidid
 acculturation
@@ -12962,6 +12961,7 @@ assimilable
 athelings
 alkalisable
 angareeb
+autecologically
 apolitically
 apologist
 afar
