@@ -2643,6 +2643,7 @@ acranial
 alcaaba
 alfilerilla
 anachronistical
+amperometric
 antisepticize
 aphthic
 amiloun
@@ -10913,7 +10914,6 @@ amoebalike
 amoebas
 asmolder
 aggregatory
-amperometric
 abusion
 apologize
 azotate

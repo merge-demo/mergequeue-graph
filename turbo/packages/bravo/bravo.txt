@@ -1017,7 +1017,6 @@ baycuru
 baidarka
 binders
 baiera
-boti
 bibliology
 baiginet
 biparental
@@ -4924,6 +4923,7 @@ beefier
 bequest
 beefsteak
 biers
+boti
 beefwoods
 beegerite
 bootlick
