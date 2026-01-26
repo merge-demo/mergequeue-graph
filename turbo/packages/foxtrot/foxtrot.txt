@@ -4206,7 +4206,6 @@ finialed
 fragmentally
 fas
 flagrant
-fibrilliform
 fired
 finnish
 firefighting
@@ -5556,6 +5555,7 @@ fixity
 frapler
 floatable
 fiords
+fibrilliform
 ferfel
 flickermouse
 flannelmouthed
