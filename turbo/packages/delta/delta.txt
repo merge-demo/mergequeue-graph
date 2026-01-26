@@ -2065,6 +2065,7 @@ diety
 dummy
 defaced
 deplumation
+decolletage
 devolution
 disproportionally
 decal
@@ -2623,7 +2624,6 @@ decoll
 deguelia
 dumbcow
 dispensaries
-decolletage
 displeaser
 discontinues
 dollmaking
