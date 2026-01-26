@@ -4600,7 +4600,6 @@ dicebox
 denticulate
 demise
 demised
-depas
 didynamia
 diploglossate
 delineable
@@ -9660,6 +9659,7 @@ dilatate
 decremented
 discutient
 dodecahedron
+depas
 distillations
 durometer
 duffles
