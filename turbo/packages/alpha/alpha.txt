@@ -4796,7 +4796,6 @@ aberdevine
 azygous
 aspide
 addnl
-aero
 ausones
 aspermatism
 aerobate
@@ -4816,6 +4815,7 @@ awakener
 autocross
 aerobiosis
 addleheaded
+aero
 absorbability
 aerobious
 allotypy
