@@ -6500,6 +6500,7 @@ chawl
 cavatine
 checkpoint
 calciphylactically
+citess
 confluxes
 collogues
 celebrating
@@ -14723,7 +14724,6 @@ cenanthy
 citer
 citers
 cites
-citess
 citharas
 citharexylum
 citharist
