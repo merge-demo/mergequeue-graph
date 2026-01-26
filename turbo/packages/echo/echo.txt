@@ -10448,7 +10448,6 @@ etiolated
 etiology
 europeanism
 enlacing
-etiologist
 entocoelic
 emetology
 ettling
@@ -13008,6 +13007,7 @@ endocondensation
 evanescenrly
 equivale
 excellence
+etiologist
 estoppage
 ebons
 enjoins
