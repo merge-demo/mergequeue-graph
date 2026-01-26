@@ -455,7 +455,6 @@ goober
 gair
 guests
 gastrology
-glucic
 gymnogene
 gemsbucks
 gamosepalous
@@ -6550,6 +6549,7 @@ gregarinida
 gonadotrope
 glaziest
 gemminess
+glucic
 ganowanian
 gnatty
 grovelingly
