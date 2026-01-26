@@ -6017,6 +6017,7 @@ eolith
 eryngos
 exhusband
 elasmobranchiate
+emborders
 eddaic
 enlargeable
 eigenvectors
@@ -10856,7 +10857,6 @@ explicitness
 ereption
 euphemian
 enlivenments
-emborders
 econometrics
 ergot
 enologist

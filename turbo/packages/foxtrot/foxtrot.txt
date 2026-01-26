@@ -7518,7 +7518,6 @@ forebodes
 forebody
 frostweed
 facetiously
-fibrosity
 flaser
 flannelleaves
 forsakers
@@ -9847,6 +9846,7 @@ freudist
 friar
 freeboot
 fremitus
+fibrosity
 filchingly
 forgivable
 firings
