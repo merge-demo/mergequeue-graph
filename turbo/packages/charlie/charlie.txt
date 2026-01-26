@@ -2059,7 +2059,6 @@ cyperus
 commandants
 camorrism
 corrections
-cropper
 capitalizer
 chicomecoatl
 coinventor
@@ -18489,6 +18488,7 @@ callaloos
 croceus
 candidest
 cowthwort
+cropper
 calmer
 cohesible
 cleidoscapular
