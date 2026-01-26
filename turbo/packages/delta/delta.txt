@@ -9364,7 +9364,6 @@ dechlore
 demilitarizing
 diamin
 diffusible
-disembarrassed
 demagoguism
 diffusibleness
 diffusing
@@ -17829,6 +17828,7 @@ dedifferentiation
 dragging
 duckmeat
 duckpin
+disembarrassed
 desalinate
 dower
 dermatological
