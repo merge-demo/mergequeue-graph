@@ -7021,7 +7021,6 @@ bioplasms
 basing
 branchiostomidae
 ballpoints
-boardly
 bowingly
 balnea
 brothel
@@ -7452,6 +7451,7 @@ batrachia
 barbules
 becovet
 buboes
+boardly
 bashalick
 betterment
 bulbocavernous
