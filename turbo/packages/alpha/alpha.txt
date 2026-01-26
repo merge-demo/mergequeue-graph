@@ -9187,6 +9187,7 @@ affectable
 argentamin
 architectural
 autometric
+anaplerotic
 aphony
 asaraceae
 abhorrent
@@ -22756,7 +22757,6 @@ atonia
 athort
 athrive
 algebraizing
-anaplerotic
 avoidment
 acrasins
 amazes
