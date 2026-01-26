@@ -1577,6 +1577,7 @@ ballised
 bordure
 britches
 binate
+borreria
 ballista
 basketlike
 balboa
@@ -13154,7 +13155,6 @@ bankrupts
 borowolframic
 barometrograph
 borrasca
-borreria
 bandoliered
 bonanzas
 borrowable
