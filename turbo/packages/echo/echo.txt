@@ -3323,7 +3323,6 @@ elaeodendron
 erythrin
 executions
 euphroe
-emphemeralness
 expensefully
 ecdyses
 entitative
@@ -6299,6 +6298,7 @@ euclidean
 ens
 emmenagogue
 elenchtic
+emphemeralness
 estafa
 ensanguine
 equalise
