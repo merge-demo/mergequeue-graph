@@ -18167,6 +18167,7 @@ circumesophagal
 compital
 coptis
 cyanopia
+cervicolumbar
 coessentiality
 centerless
 coessentially
@@ -27611,7 +27612,6 @@ cracksman
 carbonadoed
 cowboy
 cowbrute
-cervicolumbar
 crenellate
 cyniatria
 cowcatchers
