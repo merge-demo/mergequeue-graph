@@ -4209,7 +4209,6 @@ eosinophilous
 eerie
 enantiotropic
 empirically
-epicurism
 euascomycetes
 emulant
 earwiggy
@@ -5364,6 +5363,7 @@ exuviated
 exinanite
 engirdles
 evolution
+epicurism
 enfester
 ed
 emigrants
