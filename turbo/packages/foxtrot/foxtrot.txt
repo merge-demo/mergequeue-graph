@@ -6523,6 +6523,7 @@ foetid
 floccose
 frailish
 flutist
+flycaster
 frenchman
 firebed
 forecover
@@ -9737,7 +9738,6 @@ facework
 fluviograph
 flabs
 forestick
-flycaster
 fanworts
 fuchsins
 fevery
