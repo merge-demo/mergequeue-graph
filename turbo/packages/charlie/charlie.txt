@@ -6738,7 +6738,6 @@ cheapjack
 celature
 capicha
 clition
-crutch
 cohesions
 celebrants
 cerebellipetal
@@ -29470,6 +29469,7 @@ crystallizable
 crystallization
 cyrtidae
 crystallize
+crutch
 crystallizes
 crystallochemical
 calvinist
