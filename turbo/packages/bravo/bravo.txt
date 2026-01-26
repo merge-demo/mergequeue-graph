@@ -14015,6 +14015,7 @@ brachyaxis
 bukat
 brachycephali
 brachycephalism
+ballistocardiogram
 bragging
 berust
 browallia
@@ -17860,7 +17861,6 @@ burushaski
 barmfel
 bilateralities
 balanites
-ballistocardiogram
 bus
 busaos
 bloodleaf
