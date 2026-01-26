@@ -1337,7 +1337,6 @@ greenhouse
 galligaskins
 glycosine
 growingupness
-garlandless
 ganocephalan
 guillotiner
 greenalite
@@ -9992,6 +9991,7 @@ goldfinny
 glastonbury
 greenfinch
 guardstone
+garlandless
 gypsy
 gloatingly
 graybeard
