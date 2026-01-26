@@ -2246,6 +2246,7 @@ auride
 armigeri
 antiager
 avatara
+allantoxaidin
 axel
 ampherotoky
 achuete
@@ -8519,7 +8520,6 @@ awfullest
 allantoinase
 ampullosity
 acetoxim
-allantoxaidin
 anthropoclimatology
 actinouranium
 allegorised
