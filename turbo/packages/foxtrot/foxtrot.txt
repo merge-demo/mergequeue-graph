@@ -110,7 +110,6 @@ featheredges
 fluidization
 facient
 furaldehyde
-feminized
 facilitate
 flocks
 facilitation
@@ -11296,6 +11295,7 @@ formularized
 fersmite
 fleming
 fledging
+feminized
 furcate
 firearm
 fulmicotton
