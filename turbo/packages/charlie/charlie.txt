@@ -9511,6 +9511,7 @@ checkery
 checkering
 consignifying
 checkerist
+calcining
 collet
 clavola
 checkers
@@ -28696,7 +28697,6 @@ crengle
 creophagy
 chromidiogamy
 creephole
-calcining
 clung
 crenothrix
 crenula
