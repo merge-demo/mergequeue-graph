@@ -5812,7 +5812,6 @@ billowiness
 bracozzo
 bellyaching
 bizarrely
-benevolences
 brustling
 beleaps
 bromoketone
@@ -15523,6 +15522,7 @@ botanophilist
 brynhild
 burn
 blist
+benevolences
 barbes
 bebar
 bontebok
