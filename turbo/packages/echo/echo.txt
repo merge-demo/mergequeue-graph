@@ -3069,7 +3069,6 @@ expurgational
 eremital
 ellenyard
 enshrine
-emetia
 exhaustible
 excreters
 epentheses
@@ -12919,6 +12918,7 @@ earstones
 eggberries
 electropuncturing
 evzone
+emetia
 epinine
 extraprostatic
 eyrir
