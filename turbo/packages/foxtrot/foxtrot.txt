@@ -8791,7 +8791,6 @@ faceless
 finaglers
 fungo
 facelifts
-foreplace
 flyball
 fraud
 frugality
@@ -10896,6 +10895,7 @@ fieldbird
 fulled
 feeing
 fieldwort
+foreplace
 fliskier
 forsworn
 falloffs
