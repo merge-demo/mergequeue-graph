@@ -4370,6 +4370,7 @@ carica
 caricaceae
 chenica
 countermeet
+coprolite
 camerated
 cribbings
 caricaceous
@@ -10671,7 +10672,6 @@ chimes
 chymes
 caseoses
 ctenophorous
-coprolite
 compassless
 chymia
 chymics
