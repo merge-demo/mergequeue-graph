@@ -5002,7 +5002,6 @@ fatteners
 fenetre
 flirtationless
 flaperon
-flippantly
 fiducial
 forthgoing
 flappable
@@ -9055,6 +9054,7 @@ felonweed
 fared
 faultful
 fluvious
+flippantly
 fountained
 flashguns
 flies
