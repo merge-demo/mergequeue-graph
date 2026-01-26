@@ -7545,6 +7545,7 @@ canalisation
 cercus
 cerdonian
 cereal
+ceratoid
 centrifugalizing
 carrus
 collative
@@ -22889,7 +22890,6 @@ conserver
 cassaba
 couchette
 cepheid
-ceratoid
 conservers
 colposcope
 circuitry
