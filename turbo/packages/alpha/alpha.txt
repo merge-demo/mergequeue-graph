@@ -14744,6 +14744,7 @@ advantaged
 atomistically
 anticamera
 arrastre
+areometry
 anticancer
 attaboy
 anaryan
@@ -19322,7 +19323,6 @@ adagy
 areologist
 autumnity
 administratress
-areometry
 awm
 areometrical
 anthologizer
