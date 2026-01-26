@@ -1676,6 +1676,7 @@ deanships
 dothiorella
 dardani
 diallagite
+dephlegmated
 dehull
 diasynthesis
 dwarfness
@@ -6566,7 +6567,6 @@ desegmentation
 dynamiters
 denigratory
 damoiselle
-dephlegmated
 doubtsome
 desegregated
 despotist
