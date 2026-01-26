@@ -522,7 +522,6 @@ corymbous
 ceja
 callbacks
 cades
-ceremoniary
 chainmaking
 cadet
 canonize
@@ -18406,6 +18405,7 @@ cognitively
 cokelike
 cognitivity
 cognizable
+ceremoniary
 cognizant
 cognize
 conveyancer
