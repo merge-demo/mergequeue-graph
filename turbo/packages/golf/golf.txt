@@ -4894,7 +4894,6 @@ gladdened
 greenbottle
 gestural
 get
-gent
 galangal
 grangerizing
 gamdia
@@ -9936,6 +9935,7 @@ guarrau
 garbanzos
 glyptic
 googols
+gent
 gipsyfy
 galvayned
 goldi
