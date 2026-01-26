@@ -8019,6 +8019,7 @@ genipap
 gybe
 gruffness
 gravels
+glycerolize
 gasify
 glenoidal
 granitiform
@@ -9394,7 +9395,6 @@ glumiflorae
 guatoan
 glissandi
 gymel
-glycerolize
 grottoes
 gelatose
 grandeeism
