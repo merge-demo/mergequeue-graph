@@ -2666,6 +2666,7 @@ dogwatches
 decompoundable
 diffractional
 decompoundly
+dovelike
 delinquent
 downstairs
 desmoma
@@ -16157,7 +16158,6 @@ dysmeromorphic
 dovecot
 dynamist
 disenchanting
-dovelike
 dumbledore
 dephosphorization
 decadarch
