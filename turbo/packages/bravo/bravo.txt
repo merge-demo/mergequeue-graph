@@ -55,7 +55,6 @@ bacterioblast
 babbit
 baton
 botrytises
-besaiel
 barberish
 babblings
 beauclerk
@@ -2879,6 +2878,7 @@ bravoing
 buphthalmic
 bloedite
 becousined
+besaiel
 blinkards
 bodybuilders
 bowle
