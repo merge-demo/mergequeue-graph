@@ -2488,6 +2488,7 @@ cancrums
 cand
 candelabras
 candelabrum
+circumzenithal
 corelatively
 clarenceuxship
 candelilla
@@ -14403,7 +14404,6 @@ circumvolution
 curdler
 circumvolve
 circumvolved
-circumzenithal
 climb
 crosses
 circus
