@@ -7842,6 +7842,7 @@ cervus
 cesare
 cesareans
 cesarevitch
+caprifigs
 chamfering
 caramelizing
 cesarians
@@ -16978,7 +16979,6 @@ clustered
 cabbalistically
 clusterfist
 catechu
-caprifigs
 coerceable
 circumviate
 coruscated
