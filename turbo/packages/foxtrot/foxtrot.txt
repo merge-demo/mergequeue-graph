@@ -1310,6 +1310,7 @@ febrifuges
 flarfishes
 feminophobe
 fatalists
+frigoric
 fop
 fleeced
 former
@@ -9982,7 +9983,6 @@ feedbin
 franco
 fumigate
 feloniousness
-frigoric
 foun
 futureless
 fibroid
