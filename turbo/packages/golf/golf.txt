@@ -468,7 +468,6 @@ gheraoes
 grassiness
 gynecotelic
 glandlike
-genesiac
 garliclike
 gloating
 gaping
@@ -10051,6 +10050,7 @@ gigman
 galivanting
 glore
 grobianism
+genesiac
 gauntest
 gainings
 gentiles
