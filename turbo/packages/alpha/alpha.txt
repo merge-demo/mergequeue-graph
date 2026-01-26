@@ -13010,6 +13010,7 @@ antikinase
 anhydrate
 altering
 anhydride
+attractiveness
 anthozoic
 antidecalogue
 axseed
@@ -23289,7 +23290,6 @@ achroite
 alleyways
 attracter
 accommodately
-attractiveness
 adipogenous
 abactinally
 antship
