@@ -20505,6 +20505,7 @@ approve
 aerophilatelic
 arteriometer
 arteriomotor
+astigmometer
 antiasthmatic
 arterioplasty
 arteriorenal
@@ -22219,7 +22220,6 @@ astigmatoscope
 astigmatoscopy
 astigmic
 antiphon
-astigmometer
 aglossa
 astigmometry
 alluviate
