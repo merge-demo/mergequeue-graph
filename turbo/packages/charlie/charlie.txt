@@ -8183,6 +8183,7 @@ chairwarmer
 cyanocitta
 chaises
 comfortabilities
+checkrack
 circumbendibuses
 chaitra
 cheekpiece
@@ -9540,7 +9541,6 @@ checkpoints
 condense
 commonize
 cogitative
-checkrack
 casehardens
 cricotracheotomy
 calaththi
