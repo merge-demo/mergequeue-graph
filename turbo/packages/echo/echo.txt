@@ -2595,7 +2595,6 @@ entertainable
 etua
 enantioblastous
 eruginous
-evaporativity
 eighteenthly
 ensnarl
 exudatory
@@ -6255,6 +6254,7 @@ exspoliation
 electroengrave
 erythron
 embolectomies
+evaporativity
 enrober
 enrive
 eyeholes
