@@ -10154,7 +10154,6 @@ chevrolet
 chevrolets
 chlorodized
 chevron
-charioteer
 cronied
 chevronwise
 chevrotain
@@ -27854,6 +27853,7 @@ chemisette
 concerting
 crunchy
 cormel
+charioteer
 crabeating
 canchas
 concentive
