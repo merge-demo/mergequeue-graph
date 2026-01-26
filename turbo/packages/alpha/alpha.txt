@@ -8630,6 +8630,7 @@ allelomorphic
 allelotropy
 allelotropic
 attendantly
+ammunition
 allelotropism
 alleluia
 applesauce
@@ -17743,7 +17744,6 @@ applications
 anecdotalist
 appositely
 applicative
-ammunition
 applicatively
 applicatory
 afterdischarge
