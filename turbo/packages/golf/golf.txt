@@ -6749,6 +6749,7 @@ genericness
 ganam
 gestatorial
 gamgee
+gnomonological
 gratias
 gobbe
 gud
@@ -10723,7 +10724,6 @@ gentilities
 gustatorial
 groupie
 groundlessly
-gnomonological
 graille
 gavage
 galloot
