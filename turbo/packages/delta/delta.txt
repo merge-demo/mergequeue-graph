@@ -14569,6 +14569,7 @@ develope
 decomposition
 digitalein
 deckels
+darned
 desalinize
 dondine
 divisorial
@@ -15931,7 +15932,6 @@ dewaxes
 daydream
 dotages
 doubleword
-darned
 duddle
 disesteemed
 drawlingly

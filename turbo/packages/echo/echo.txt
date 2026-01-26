@@ -319,6 +319,7 @@ embetter
 entwist
 escots
 engaze
+extort
 eastman
 enclaret
 encephalograph
@@ -10747,7 +10748,6 @@ excystation
 euphonic
 enid
 enclaret
-extort
 ephemeran
 egotistically
 eigenvector
