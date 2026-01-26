@@ -1921,7 +1921,6 @@ blowers
 bandolerismo
 buckayros
 bandoleros
-barouche
 bandor
 baaskaap
 bifidate
@@ -7825,6 +7824,7 @@ biaxiality
 birdseyes
 brooklyn
 bicephalous
+barouche
 bogman
 biface
 bark
