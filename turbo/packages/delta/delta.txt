@@ -3769,7 +3769,6 @@ deicers
 defacingly
 deicides
 dismutation
-deictical
 devilkin
 dreissiger
 dunno
@@ -9970,6 +9969,7 @@ derelictness
 dummkopfs
 dimplier
 disrespectfulness
+deictical
 deadcenter
 denudement
 dimpsy
