@@ -6381,6 +6381,7 @@ disadvanced
 derride
 disleave
 derriere
+dualist
 dactyli
 duster
 discriminatory
@@ -16154,7 +16155,6 @@ dousing
 dout
 desorbing
 decrypted
-dualist
 dysmeromorphic
 dovecot
 dynamist
