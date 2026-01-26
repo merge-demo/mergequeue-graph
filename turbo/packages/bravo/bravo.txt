@@ -669,7 +669,6 @@ bechances
 bluebush
 bronchocavernous
 bynames
-bkpr
 backbitten
 boigid
 bedposts
@@ -16913,6 +16912,7 @@ bulbil
 blastomycete
 barvell
 bufotalin
+bkpr
 bufotoxin
 biconcavity
 burglar
