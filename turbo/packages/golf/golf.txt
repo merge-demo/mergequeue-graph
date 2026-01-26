@@ -743,7 +743,6 @@ gor
 galactotherapy
 gambling
 gugglet
-gripple
 galvanizing
 gemmiferousness
 gunner
@@ -10855,6 +10854,7 @@ gravidation
 gweeon
 girds
 geomagnetician
+gripple
 gravewards
 gush
 gymnasisia
