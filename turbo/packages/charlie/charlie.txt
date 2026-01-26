@@ -14682,7 +14682,6 @@ cystostomies
 chamberlet
 catilinarian
 cystotome
-cystotomy
 cystotomies
 cystotrachelotomy
 cadenza
@@ -27756,6 +27755,7 @@ cordleaf
 coxcombity
 coxcomically
 coastlines
+cystotomy
 cenobitical
 cytocentrum
 coxed
