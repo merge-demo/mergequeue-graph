@@ -10394,7 +10394,6 @@ ethologists
 euphonical
 expediently
 edulcorator
-embrase
 exhance
 earwigging
 epiphanize
@@ -14012,6 +14011,7 @@ entemple
 electrolytic
 extraprofessional
 extrapunitive
+embrase
 endogen
 extraregularly
 ecstrophy
