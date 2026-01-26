@@ -7243,6 +7243,7 @@ gorgoneion
 gez
 gromyl
 gormand
+guttulate
 gemmingia
 glycerine
 gormandised
@@ -9871,7 +9872,6 @@ gurnets
 glaked
 genapp
 gabi
-guttulate
 gobioids
 guaque
 geometric
