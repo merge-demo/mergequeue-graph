@@ -231,7 +231,6 @@ elate
 elaborative
 easer
 episodic
-electroluminescence
 easy
 epionychium
 extratubal
@@ -3579,6 +3578,7 @@ epitomically
 embows
 editorializing
 enculturate
+electroluminescence
 enclog
 entamoeba
 encyclopaediac
