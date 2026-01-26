@@ -3706,6 +3706,7 @@ brightest
 baddest
 batting
 battings
+bubals
 battledores
 bywork
 barotraumata
@@ -16585,7 +16586,6 @@ bourreau
 bubales
 bandwork
 beefish
-bubals
 belling
 bubastid
 backorder
