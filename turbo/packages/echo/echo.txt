@@ -6193,6 +6193,7 @@ embryony
 egophony
 epitapher
 enostosis
+emission
 editorialize
 enforcedly
 egrid
@@ -10063,7 +10064,6 @@ envenoming
 enchainment
 exoneretur
 ebonies
-emission
 egurgitate
 encephalographically
 editorially
