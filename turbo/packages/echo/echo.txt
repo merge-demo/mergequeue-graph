@@ -10832,7 +10832,6 @@ eloigners
 entosternum
 earache
 educes
-echini
 embassiate
 endostomata
 envineyard
@@ -13339,6 +13338,7 @@ erithacus
 entitled
 exceedingly
 enrough
+echini
 entreated
 epicotyleal
 encyclopaedias
