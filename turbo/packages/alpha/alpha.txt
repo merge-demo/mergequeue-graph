@@ -1036,6 +1036,7 @@ assonances
 asimina
 abt
 autoschediasm
+antilogs
 archreactionary
 aphelion
 abthainrie
@@ -14869,7 +14870,6 @@ anticipatingly
 abe
 attendancy
 austrian
-antilogs
 anticipative
 attensity
 activeness
