@@ -467,6 +467,7 @@ gheraoes
 grassiness
 gynecotelic
 glandlike
+genesiac
 garliclike
 gloating
 gaping
@@ -6549,7 +6550,6 @@ gentianales
 glandarious
 guilders
 grandaddy
-genesiac
 gpcd
 gregarinida
 gonadotrope
