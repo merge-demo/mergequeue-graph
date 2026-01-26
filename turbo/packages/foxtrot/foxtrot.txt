@@ -6154,7 +6154,6 @@ fluohydric
 furnacemen
 flowerwork
 flowing
-finnicking
 fascisticization
 flowingness
 forestless
@@ -11246,6 +11245,7 @@ funky
 filter
 functional
 fylfot
+finnicking
 fornent
 fabiform
 fatherkin
