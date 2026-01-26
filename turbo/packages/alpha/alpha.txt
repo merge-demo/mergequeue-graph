@@ -2787,7 +2787,6 @@ anarithmia
 agonistic
 argonauta
 accise
-abalienation
 acrodontism
 amyxorrhoea
 acetum
@@ -17588,6 +17587,7 @@ aquacultural
 appendicalgia
 ataraxias
 ausonian
+abalienation
 antipodist
 ascii
 alienees
