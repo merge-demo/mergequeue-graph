@@ -3054,7 +3054,6 @@ azotise
 arsonate
 abdominoanterior
 alligatoring
-averish
 aught
 aphanophyre
 alienable
@@ -24211,6 +24210,7 @@ apteryxes
 assuage
 ampalea
 anthesterol
+averish
 angiocholecystitis
 assuaging
 anisotropical
