@@ -4149,6 +4149,7 @@ gymnotus
 gutling
 geomagnetic
 gimped
+galee
 gastrectasis
 galactolytic
 gliosa
@@ -10629,7 +10630,6 @@ genera
 glassfuls
 galvanocauterization
 guppies
-galee
 gnomed
 gastroperiodynia
 gurged
