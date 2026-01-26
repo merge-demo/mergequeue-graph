@@ -20439,7 +20439,6 @@ compactor
 clobbered
 compactors
 comites
-compacture
 crumbliness
 compadre
 cantaro
@@ -26419,6 +26418,7 @@ colonoscopy
 cotitular
 cotland
 chowk
+compacture
 cotoin
 cubit
 cotorment
