@@ -24110,7 +24110,6 @@ candlelit
 cocowort
 conclavist
 coassignee
-chedites
 conformation
 coregonoid
 conference
@@ -25378,6 +25377,7 @@ cornhusker
 concertati
 chamades
 cornhusking
+chedites
 coulombic
 consummate
 commensalism
