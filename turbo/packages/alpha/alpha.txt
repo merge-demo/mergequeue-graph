@@ -5625,6 +5625,7 @@ aspectant
 againstand
 albuginitis
 antilens
+antiexpressiveness
 amphidromia
 actiniums
 amphistomatic
@@ -8574,7 +8575,6 @@ adjudicatory
 avizandum
 asterias
 accentuates
-antiexpressiveness
 antibishop
 agametes
 autistic
