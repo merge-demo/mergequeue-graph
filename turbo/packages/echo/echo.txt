@@ -1112,7 +1112,6 @@ editorialization
 epoxides
 elsa
 ecphory
-expunction
 enclosed
 emblematising
 editorializers
@@ -2631,6 +2630,7 @@ ecthetically
 execrations
 etymologisable
 exempla
+expunction
 electrophrenic
 electroplater
 embodying
