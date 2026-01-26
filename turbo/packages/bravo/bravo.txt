@@ -158,7 +158,6 @@ baboonish
 butteraceous
 blowzed
 busboys
-babouvism
 babs
 besweeten
 bombastic
@@ -11451,6 +11450,7 @@ blancmange
 brawner
 bluesy
 bluesman
+babouvism
 bleachfield
 bathflower
 beaverkill
