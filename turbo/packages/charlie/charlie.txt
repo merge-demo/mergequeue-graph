@@ -3079,6 +3079,7 @@ canun
 canvas
 chaffinches
 chiasmodon
+consignable
 croppa
 clarino
 cycadeous
@@ -25402,7 +25403,6 @@ corniform
 chaft
 cornigerous
 cornin
-consignable
 corning
 cornishman
 cornless
