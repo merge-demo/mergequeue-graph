@@ -9281,6 +9281,7 @@ broncholithiasis
 bewearied
 beshrewing
 blockader
+barbouillage
 biplane
 byee
 bobolink
@@ -16464,7 +16465,6 @@ bellwine
 bebless
 bloodiness
 brushful
-barbouillage
 bluenoser
 bloodshotten
 bendys
