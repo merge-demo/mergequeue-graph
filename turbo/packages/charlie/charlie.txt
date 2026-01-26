@@ -8271,7 +8271,6 @@ cronyism
 canadianisms
 chalcus
 chaldean
-chiver
 caucused
 caricetum
 ciliation
@@ -21463,6 +21462,7 @@ concocter
 counteraddress
 concoctions
 cornerpiece
+chiver
 conspectuity
 calcination
 cohabitancy
