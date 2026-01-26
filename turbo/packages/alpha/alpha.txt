@@ -17096,7 +17096,6 @@ adiabolist
 asperated
 antistes
 administrant
-atomic
 apodemas
 autogamy
 asportation
@@ -20227,6 +20226,7 @@ although
 aeolodion
 athetosis
 arricciato
+atomic
 applicator
 apetaly
 areroscope
