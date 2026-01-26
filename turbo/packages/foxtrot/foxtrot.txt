@@ -2948,6 +2948,7 @@ fluke
 fissiparity
 fewterer
 francophil
+fraticellian
 fantigue
 fewtrils
 foretopmen
@@ -3240,7 +3241,6 @@ fiddlecome
 farewells
 fiddlefaced
 fiddlerfish
-fraticellian
 ferrites
 flabbily
 faunology
