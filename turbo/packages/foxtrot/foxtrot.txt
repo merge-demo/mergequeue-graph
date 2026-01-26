@@ -4129,6 +4129,7 @@ fontanel
 fratriage
 farrantly
 flouting
+fumblingly
 fipples
 floscule
 foisted
@@ -10851,7 +10852,6 @@ furoin
 fishpool
 forficate
 flaminian
-fumblingly
 flots
 funt
 frumpier
