@@ -1467,6 +1467,7 @@ fatuus
 frankly
 fairtime
 fractureproof
+fishful
 filago
 frameable
 furacana
@@ -10285,7 +10286,6 @@ faitour
 ferricyanhydric
 figuriste
 frolicsome
-fishful
 fratched
 frammit
 fibrinolysin
