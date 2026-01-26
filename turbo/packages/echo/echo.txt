@@ -8922,7 +8922,6 @@ egestive
 essive
 epiphanies
 errhine
-eudaemonist
 erical
 exoskeletal
 endosmotically
@@ -12677,6 +12676,7 @@ entame
 echoisms
 epicotyledonary
 exonerating
+eudaemonist
 ephemerous
 episcopicide
 equipaga
