@@ -1180,7 +1180,6 @@ grift
 groatsworth
 guidingly
 gaslights
-gaon
 gartered
 glues
 gynaecomasty
@@ -8306,6 +8305,7 @@ gasket
 genetical
 geophytic
 gastrophthisis
+gaon
 gelated
 gnarling
 gnar
