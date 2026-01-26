@@ -3055,7 +3055,6 @@ bdellostomatidae
 baruria
 barvel
 bunnell
-beduin
 brainwashing
 bimetal
 bedspreads
@@ -9044,6 +9043,7 @@ biopsychology
 bidental
 boulevardier
 bringal
+beduin
 bize
 bitentaculate
 busheler

@@ -2887,7 +2887,6 @@ glazes
 grapy
 gemmule
 gaincope
-gomphoses
 gargoylish
 gastrorrhagia
 gruesomeness
@@ -10818,6 +10817,7 @@ glimmers
 gargol
 glucocorticord
 gnostical
+gomphoses
 grazings
 gelatinizing
 glyphograph
