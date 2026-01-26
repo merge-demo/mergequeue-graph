@@ -6207,7 +6207,6 @@ guillotinade
 gregorianist
 gamopetalae
 gp
-galactophagist
 glucosamine
 glissade
 gonfalons
@@ -6542,6 +6541,7 @@ grew
 gurrah
 gpss
 glutting
+galactophagist
 greyskin
 guiders
 gentianales
