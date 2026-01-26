@@ -2497,7 +2497,6 @@ blurriest
 bandelet
 barfish
 buckraming
-billbugs
 bargaining
 beechwoods
 brabanter
@@ -5780,6 +5779,7 @@ bellevue
 bonhommie
 begreen
 bradyseismal
+billbugs
 boxers
 bibliothecaire
 bromocyanide
