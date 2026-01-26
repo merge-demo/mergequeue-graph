@@ -5339,6 +5339,7 @@ affrightment
 affronted
 anidiomatic
 adenose
+antecessor
 affronts
 affuse
 alkarsine
@@ -25227,7 +25228,6 @@ abscisse
 amoralize
 axwise
 aeon
-antecessor
 axwort
 acquirable
 antiliturgical
