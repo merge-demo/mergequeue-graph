@@ -11872,7 +11872,6 @@ bortzes
 battleplane
 bouillons
 boedromion
-brevirostrate
 besmutting
 barabora
 boron
@@ -15901,6 +15900,7 @@ bopyridian
 bromhydrate
 besprinkling
 bourignianist
+brevirostrate
 bromidically
 bibliographer
 baulea
