@@ -2297,7 +2297,6 @@ graduates
 gelatinating
 greyfish
 geognosis
-guaranis
 gondoliere
 ge
 glaciers
@@ -4348,6 +4347,7 @@ giddyish
 galactopyra
 gnomists
 ganggang
+guaranis
 galantine
 grevillea
 goozle
