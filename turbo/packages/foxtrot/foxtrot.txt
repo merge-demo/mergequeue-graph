@@ -8119,7 +8119,6 @@ flatcar
 fluellite
 fundi
 furify
-foreswore
 flavouring
 fieldmen
 feeble
@@ -10161,6 +10160,7 @@ fashed
 falcidian
 fussle
 foresing
+foreswore
 fief
 freycinetia
 flaxen
