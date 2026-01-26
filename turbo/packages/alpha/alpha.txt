@@ -16474,6 +16474,7 @@ acrochordidae
 anuretic
 absorbent
 anury
+aldononose
 arthrogenous
 arctoidea
 airish
@@ -19953,7 +19954,6 @@ asthenolith
 aramis
 avengement
 acclimatised
-aldononose
 anchusine
 astrologe
 absentia
