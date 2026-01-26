@@ -772,7 +772,6 @@ duelistic
 diselectrification
 didnt
 diselenide
-demagnetisable
 delimitized
 dominicale
 drapeable
@@ -15563,6 +15562,7 @@ donnas
 donnerd
 donnick
 donnock
+demagnetisable
 diazoles
 donought
 deathlessly
