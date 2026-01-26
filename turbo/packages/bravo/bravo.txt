@@ -10942,7 +10942,6 @@ bourrees
 blinkard
 blesbuck
 bedlamism
-bowses
 basta
 beckets
 bartonia
@@ -17696,6 +17695,7 @@ burlesquing
 burlet
 butterfly
 biotically
+bowses
 blastema
 bidiurnal
 blarney
