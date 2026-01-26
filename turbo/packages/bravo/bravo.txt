@@ -3494,7 +3494,6 @@ bissext
 birdcall
 batched
 batcher
-bogging
 bitterhearted
 bateau
 bateleur
@@ -15241,6 +15240,7 @@ bucketing
 balneal
 bestrewn
 benchers
+bogging
 bridale
 basehearted
 bridally
