@@ -2686,6 +2686,7 @@ filaze
 fawner
 fountainous
 frizziness
+fribblery
 forlet
 fervence
 frighteningness
@@ -8206,7 +8207,6 @@ flossed
 frenate
 furtherances
 faldetta
-fribblery
 foothils
 frailest
 flakier
