@@ -4263,7 +4263,6 @@ grubless
 gravidity
 gymnic
 gloeosporiose
-geocoronium
 globosity
 gawks
 geodesist
@@ -9953,6 +9952,7 @@ guaza
 glycerinated
 gendarmerie
 goodbys
+geocoronium
 glycolide
 glossagra
 guillevat
