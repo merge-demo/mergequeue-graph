@@ -2584,7 +2584,6 @@ acpt
 acridinic
 acquaint
 acquaintanceship
-antilift
 acidophilus
 acquisible
 aggeration
@@ -5410,6 +5409,7 @@ antirestoration
 antiliquor
 astylosternus
 anterospinal
+antilift
 africanize
 africanoid
 affrettando
