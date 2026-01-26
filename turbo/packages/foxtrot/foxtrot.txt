@@ -504,6 +504,7 @@ friz
 fertilizing
 frenne
 filicite
+funned
 fumify
 figgle
 fossilization
@@ -5225,7 +5226,6 @@ fusus
 flavourful
 fieldy
 flavourless
-funned
 flavourous
 flockier
 fideicommissa
