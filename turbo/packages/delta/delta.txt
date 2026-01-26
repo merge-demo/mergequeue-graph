@@ -2923,7 +2923,6 @@ downbeat
 diastataxy
 disorientating
 dedication
-drafting
 disfavor
 duodecimals
 dedicatory
@@ -16877,6 +16876,7 @@ debasers
 demicaponier
 discophile
 donnishness
+drafting
 dribbet
 deadlock
 durwan

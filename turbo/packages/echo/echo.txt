@@ -4257,7 +4257,6 @@ emulsoids
 enteropathogenic
 exfiltration
 elohim
-enlay
 epicenes
 epithalamia
 escarpments
@@ -12846,6 +12845,7 @@ eleomargaric
 exoterically
 erythremomelalgia
 equity
+enlay
 episcopal
 exoticness
 epicoelian
