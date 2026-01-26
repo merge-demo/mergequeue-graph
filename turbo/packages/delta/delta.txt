@@ -3978,7 +3978,6 @@ dermographism
 darst
 dolose
 digressiveness
-dibasicity
 dialing
 dipteros
 delegations
@@ -9639,6 +9638,7 @@ dipneusti
 disentail
 disharmonised
 dispense
+dibasicity
 daphnias
 ditting
 dynamomorphic
