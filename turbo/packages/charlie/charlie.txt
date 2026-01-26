@@ -19685,6 +19685,7 @@ coquilla
 camarilla
 copintank
 catogene
+chastens
 compendiousness
 claptrap
 chemisorption
@@ -25468,7 +25469,6 @@ coroll
 cartooning
 corollary
 centrosymmetric
-chastens
 contradictions
 corollarial
 corollarially
