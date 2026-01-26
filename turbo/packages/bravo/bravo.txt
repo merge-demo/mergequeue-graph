@@ -5760,7 +5760,6 @@ barnyards
 biocellate
 bunn
 bioluminescence
-bystander
 bufo
 bellbird
 bellboy
@@ -8717,6 +8716,7 @@ basibranchial
 besoothes
 booklike
 borborygmies
+bystander
 barbet
 birring
 bestraddled
