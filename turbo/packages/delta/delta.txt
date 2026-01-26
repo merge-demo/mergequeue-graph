@@ -5325,7 +5325,6 @@ dressoirs
 denting
 defrayal
 duotype
-dentirostral
 drumbeating
 deceptory
 dribbler
@@ -17149,6 +17148,7 @@ disconcertedly
 dislocated
 defiladed
 dharana
+dentirostral
 diffusibility
 decade
 divagations
