@@ -1931,7 +1931,6 @@ bandore
 balsa
 bandrol
 beatific
-bonniest
 bework
 boreus
 birdeen
@@ -9591,6 +9590,7 @@ biscutate
 blastplate
 bisdiapason
 binary
+bonniest
 bicapsular
 bandlimits
 bisectors
