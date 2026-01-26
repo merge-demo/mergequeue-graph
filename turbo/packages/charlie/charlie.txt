@@ -14731,7 +14731,6 @@ cannonries
 cygnets
 chaiseless
 citharoedi
-chaplets
 cholesteryl
 catmint
 circumagitate
@@ -27154,6 +27153,7 @@ catholicus
 confessors
 collodionize
 consolatoriness
+chaplets
 countertruth
 chelas
 corses
