@@ -3395,7 +3395,6 @@ embarkment
 embarks
 equipage
 exteroceptor
-elohist
 extravertive
 embarricado
 embarring
@@ -13545,6 +13544,7 @@ exscutellate
 extravagancy
 elflock
 excitements
+elohist
 earthquakes
 exuviae
 emmarbling
