@@ -708,7 +708,6 @@ forehard
 farcial
 forgettably
 flunkies
-flair
 foziness
 frettier
 favourably
@@ -7242,6 +7241,7 @@ flaxboard
 forepeak
 fordwine
 filature
+flair
 fleetings
 forel
 fecial
