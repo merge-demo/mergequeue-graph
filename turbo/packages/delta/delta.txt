@@ -388,7 +388,6 @@ davallia
 daimyo
 dawdlers
 debasingly
-dihydrated
 dreadness
 deaconhood
 deadening
@@ -2554,6 +2553,7 @@ disequality
 dematerialize
 discus
 dorsocephalic
+dihydrated
 declensionally
 dentalizing
 danaro
