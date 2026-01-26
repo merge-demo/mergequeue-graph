@@ -11946,7 +11946,6 @@ cane
 chores
 crwths
 choreus
-choreutic
 chorial
 cilician
 choriamb
@@ -20447,6 +20446,7 @@ compadres
 compage
 compagnies
 coprophagan
+choreutic
 cresols
 concamerate
 companable
