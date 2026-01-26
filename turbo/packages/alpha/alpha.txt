@@ -732,7 +732,6 @@ abrahamite
 alazor
 aedicula
 abramis
-apeling
 abrase
 accersitor
 aswail
@@ -20960,6 +20959,7 @@ appertains
 adipometer
 acclimated
 antirust
+apeling
 arter
 anticlea
 arseno
