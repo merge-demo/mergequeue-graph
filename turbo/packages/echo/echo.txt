@@ -475,6 +475,7 @@ enregistered
 expellers
 excavations
 embrangling
+elves
 ecderon
 exocrinologies
 erythroderma
@@ -2801,7 +2802,6 @@ electroendosmotic
 elenchi
 eirenicon
 elenchic
-elves
 elenchize
 ecthlipsis
 ecdemite
