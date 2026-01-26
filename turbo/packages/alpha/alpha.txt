@@ -2967,6 +2967,7 @@ antitropical
 axtree
 aulostomi
 actiniomorpha
+augmenter
 addisoniana
 actinisms
 arginine
@@ -13692,7 +13693,6 @@ albinism
 asps
 anomaluridae
 archmonarchy
-augmenter
 antileak
 alibis
 alertly
