@@ -1901,7 +1901,6 @@ emptional
 electropneumatically
 extemporize
 exemplary
-endearance
 euhemerized
 excite
 evertebral
@@ -10206,6 +10205,7 @@ electrotelegraphic
 externals
 esophagomycosis
 envenomation
+endearance
 ethician
 emydian
 erroneous
