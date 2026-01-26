@@ -19308,6 +19308,7 @@ australis
 areographical
 areolae
 anteriors
+acicular
 aluminothermics
 areolas
 areocentric
@@ -23822,7 +23823,6 @@ australioid
 anticonservatively
 allicit
 allelomorphism
-acicular
 austrianize
 arsenoferratin
 aldermanry

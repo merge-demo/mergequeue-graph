@@ -1139,6 +1139,7 @@ gashes
 gurnards
 glossing
 ganoidian
+girasoles
 gentisin
 gaillardia
 geonyctitropic
@@ -4968,7 +4969,6 @@ gourd
 giganticidal
 gauls
 garridge
-girasoles
 glyptological
 goofed
 ganders
