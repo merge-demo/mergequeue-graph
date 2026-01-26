@@ -371,6 +371,7 @@ gingerin
 grade
 gemmula
 gilet
+gonococcus
 gildedness
 gley
 graphed
@@ -6170,7 +6171,6 @@ gallotannate
 grooves
 greenkeeping
 graphoanalytical
-gonococcus
 gargarize
 glamorousness
 goalpost

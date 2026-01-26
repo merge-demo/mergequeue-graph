@@ -8923,7 +8923,6 @@ essive
 epiphanies
 errhine
 erical
-exoskeletal
 endosmotically
 ericales
 eserin
@@ -12622,6 +12621,7 @@ effray
 encirclement
 excoriate
 exoculate
+exoskeletal
 ecclesiasticalness
 exoculation
 exoderm
