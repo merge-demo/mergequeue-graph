@@ -6038,7 +6038,6 @@ deaconal
 dilutent
 dermorhynchi
 dysphemized
-diencephala
 dermatherm
 disarmers
 disgraded
@@ -7335,6 +7334,7 @@ demasculinize
 datsun
 diplopias
 debatement
+diencephala
 deticker
 dogtoothing
 desertedness
