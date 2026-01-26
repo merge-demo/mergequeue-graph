@@ -3936,7 +3936,6 @@ delvers
 dissertating
 ditchdigging
 doms
-dominant
 diabetometer
 directiveness
 delightedly
@@ -18652,6 +18651,7 @@ definiteness
 disforest
 drowsily
 disubstitution
+dominant
 discountenanced
 disseisor
 devitrification
