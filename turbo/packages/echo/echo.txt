@@ -4121,7 +4121,6 @@ emundation
 eniac
 emplunge
 empodia
-eclegm
 erectly
 extracranial
 evidence
@@ -13420,6 +13419,7 @@ eltime
 espadrilles
 energizer
 embruted
+eclegm
 earthed
 encephalomalacosis
 expressio
