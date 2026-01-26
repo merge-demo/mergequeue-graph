@@ -2916,6 +2916,7 @@ elflocks
 encaustic
 endermic
 epiphyseolysis
+eyr
 elfwife
 examinationist
 enucleated
@@ -11898,7 +11899,6 @@ earlobes
 exceptiousness
 exultation
 expectations
-eyr
 entrepreneurship
 epiphytes
 emissivity
