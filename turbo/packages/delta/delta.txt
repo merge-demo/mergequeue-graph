@@ -6781,6 +6781,7 @@ desirousness
 drily
 dented
 dropsonde
+defroster
 dedicates
 diaconate
 desize
@@ -6917,7 +6918,6 @@ dorsointercostal
 dichasial
 didgeridoo
 disimmure
-defroster
 decarbonylated
 dilection
 deiphobus
