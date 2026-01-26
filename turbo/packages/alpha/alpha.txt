@@ -3904,7 +3904,6 @@ akiskemikinik
 adjourn
 austerities
 allurance
-adjournal
 adjoust
 aleyrodidae
 adjudging
@@ -22130,6 +22129,7 @@ amphigamous
 amphipeptone
 aguaji
 asteriskos
+adjournal
 acidheads
 append
 antinosarian
