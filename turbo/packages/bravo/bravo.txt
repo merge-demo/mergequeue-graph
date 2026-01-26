@@ -6128,7 +6128,6 @@ budgereegah
 benighted
 butanolide
 blanking
-blastide
 bohor
 belonoid
 baske
@@ -9753,6 +9752,7 @@ byssoid
 buckskin
 bedragglement
 bissonata
+blastide
 besing
 bistate
 biosyntheses
