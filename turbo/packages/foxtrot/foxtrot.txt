@@ -6978,7 +6978,6 @@ favilla
 fonding
 fondle
 frayings
-fondled
 fondles
 fainter
 facewise
@@ -8229,6 +8228,7 @@ funicles
 fauvists
 fruticulose
 florence
+fondled
 ferroinclave
 forfending
 fundulinae
