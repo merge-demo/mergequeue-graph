@@ -754,7 +754,6 @@ falangist
 fanatism
 flagpoles
 farcilite
-flybelt
 frozenness
 figurines
 fluxions
@@ -2937,6 +2936,7 @@ fallostomy
 flagship
 fouquieriaceae
 frilly
+flybelt
 fers
 freiezlebenhe
 flaking
