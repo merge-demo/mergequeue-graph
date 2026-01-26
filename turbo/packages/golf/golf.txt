@@ -3813,7 +3813,6 @@ gaolerness
 granthi
 guanylic
 grandchild
-granulitization
 gell
 galanas
 giftwrapping
@@ -8915,6 +8914,7 @@ gigi
 gladelike
 grandiloquous
 galvanising
+granulitization
 gnaw
 glycosidic
 geranomorphic
