@@ -7235,7 +7235,6 @@ extinguishable
 eos
 entendres
 earshot
-epimyth
 etonian
 ectozoon
 eosate
@@ -11019,6 +11018,7 @@ ethered
 experrection
 echinostomatidae
 elemol
+epimyth
 elapoid
 euhages
 enisle
