@@ -1918,6 +1918,7 @@ eyeleted
 enabled
 estoppal
 essenical
+ectene
 ejected
 epitasis
 eupatorine
@@ -5616,7 +5617,6 @@ enfort
 embarrasses
 epicritic
 enforth
-ectene
 estrangle
 eigenvalue
 epithi
