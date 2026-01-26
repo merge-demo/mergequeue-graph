@@ -15451,7 +15451,6 @@ clarifiant
 clarificant
 clarification
 clarifier
-clarifiers
 chiefry
 chivalrously
 cantrap
@@ -27911,6 +27910,7 @@ cracking
 crackings
 crackled
 crackles
+clarifiers
 crackless
 crackly
 cracklier
