@@ -1918,6 +1918,7 @@ gulped
 gastromycosis
 geal
 garnetwork
+gownsman
 graperoot
 garibaldi
 gnomesque
@@ -6029,7 +6030,6 @@ grungy
 glovemen
 glycemia
 griddle
-gownsman
 gullishly
 guttiest
 gyttja
