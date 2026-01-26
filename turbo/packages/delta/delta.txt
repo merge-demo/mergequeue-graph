@@ -10649,7 +10649,6 @@ doubtably
 disorganizing
 deferring
 deepen
-dipnoans
 danelaw
 doublewords
 dipodic
@@ -18678,6 +18677,7 @@ dwarfs
 diaulos
 dwindled
 dwindlement
+dipnoans
 deports
 dwindles
 dehisced
