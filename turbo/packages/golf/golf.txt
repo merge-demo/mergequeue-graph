@@ -6051,7 +6051,6 @@ gunbright
 guidebook
 gnathostomata
 gawkiness
-gluttery
 gastrocnemial
 gypsography
 gph
@@ -6547,6 +6546,7 @@ gentianales
 glandarious
 guilders
 grandaddy
+gluttery
 gpcd
 gregarinida
 gonadotrope
