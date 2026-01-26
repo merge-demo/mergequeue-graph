@@ -5281,6 +5281,7 @@ gambusia
 gutturalism
 gingals
 glaived
+goniatitidae
 gourds
 gonidia
 glomerulate
@@ -8509,7 +8510,6 @@ grallatory
 gravette
 gaufrette
 garni
-goniatitidae
 gallwort
 gith
 gourmand
