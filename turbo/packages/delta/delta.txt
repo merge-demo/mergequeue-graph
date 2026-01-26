@@ -2603,7 +2603,6 @@ drudgery
 decode
 dartars
 ducture
-deignous
 deoxygenation
 decodon
 disfriar
@@ -8688,6 +8687,7 @@ demisacrilege
 diathesis
 dirl
 decima
+deignous
 dimps
 diatoma
 diapase
