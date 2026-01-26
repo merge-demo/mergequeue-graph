@@ -1136,6 +1136,7 @@ familiarizing
 fervidness
 fusileer
 frizzling
+foreproffer
 farthing
 foresay
 fluffing
@@ -10987,7 +10988,6 @@ fausen
 frostiest
 fleecing
 flintiest
-foreproffer
 foreweep
 feastly
 furison
