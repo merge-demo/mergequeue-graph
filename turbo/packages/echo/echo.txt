@@ -3310,7 +3310,6 @@ edison
 effluents
 euharmonic
 endamages
-epileptic
 emancipator
 ergatocracy
 emarginated
@@ -7854,6 +7853,7 @@ endaortitis
 esocidae
 endonuclease
 erection
+epileptic
 epilimnia
 enc
 epigrams
