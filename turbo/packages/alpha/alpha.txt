@@ -2992,7 +2992,6 @@ altaltissimo
 actinocrinid
 ashrafi
 aphasias
-antireligious
 actinocrinite
 actinodromous
 actinoelectrically
@@ -5891,6 +5890,7 @@ assonantic
 amblygeusia
 accompanists
 aggrade
+antireligious
 aggrades
 accademia
 auge
