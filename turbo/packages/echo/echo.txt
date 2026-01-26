@@ -1653,7 +1653,6 @@ eiders
 epilemmal
 eidograph
 eclogues
-esthiomenus
 eligent
 elboic
 evectional
@@ -12219,6 +12218,7 @@ episynthetic
 excur
 earnable
 epiphanizing
+esthiomenus
 extralateral
 elevener
 erodable
