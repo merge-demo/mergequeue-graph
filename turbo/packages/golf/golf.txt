@@ -1290,7 +1290,6 @@ gloria
 gestation
 garefowl
 gyrene
-garetta
 guessworker
 gnawingly
 gargalize
@@ -5042,6 +5041,7 @@ goosefoots
 garrya
 gilled
 gigas
+garetta
 galliots
 gardenwise
 gynaecea
