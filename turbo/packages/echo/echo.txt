@@ -2551,7 +2551,6 @@ escadrilles
 exorcist
 endocritic
 eminency
-estrogens
 eatable
 ezra
 emptiable
@@ -2731,6 +2730,7 @@ endways
 estadal
 euphrates
 electrostenolytic
+estrogens
 enceint
 equipotent
 electees

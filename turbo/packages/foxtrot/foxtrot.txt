@@ -6434,7 +6434,6 @@ feltman
 fanflower
 feneration
 forweary
-flummery
 flora
 fashionative
 filth
@@ -9360,6 +9359,7 @@ felinities
 frothy
 fleawood
 fortypenny
+flummery
 fecaloid
 forsakes
 fatuitousness
