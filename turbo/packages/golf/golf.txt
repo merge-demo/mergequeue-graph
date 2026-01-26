@@ -10109,7 +10109,6 @@ guller
 glareless
 greenier
 gnomes
-grudges
 granophyric
 gideonite
 grateless
@@ -10598,6 +10597,7 @@ greenockite
 gallow
 glumose
 gallinules
+grudges
 graveolence
 gemmiform
 goy
