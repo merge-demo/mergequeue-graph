@@ -2386,7 +2386,6 @@ abridgedly
 autocondensation
 acinetic
 atveen
-assigned
 abided
 acinetiform
 acaricidal
@@ -21893,6 +21892,7 @@ assyroid
 agly
 abutted
 assish
+assigned
 averrhoa
 aculeated
 adapted
