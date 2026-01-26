@@ -5750,6 +5750,7 @@ exchangeability
 extranidal
 exhilarating
 exterritoriality
+entodermic
 eucharistical
 excl
 englobe
@@ -11421,7 +11422,6 @@ exhaustion
 externalise
 emys
 elitists
-entodermic
 echovirus
 ennedra
 eligibility
