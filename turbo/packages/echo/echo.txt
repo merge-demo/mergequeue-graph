@@ -4262,6 +4262,7 @@ engs
 enhydra
 ethnobiological
 equiponderate
+exalt
 excerpts
 effectible
 edifyingly
@@ -7685,7 +7686,6 @@ esprise
 extruder
 ellipticalness
 epidemically
-exalt
 escurialize
 evidentiary
 erythrine
