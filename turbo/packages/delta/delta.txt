@@ -9362,7 +9362,6 @@ deploring
 djinni
 duplicator
 diffusers
-diffuses
 dillis
 dimidiation
 danaidean
@@ -10156,6 +10155,7 @@ dismortgage
 dining
 discoplacental
 dulcely
+diffuses
 dinitrate
 duskishly
 dinitrocellulose

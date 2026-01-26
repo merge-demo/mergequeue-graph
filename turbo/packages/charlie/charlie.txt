@@ -6841,6 +6841,7 @@ cellmates
 cello
 chambermaid
 celloid
+churnstaff
 chairmaker
 cathodofluorescence
 celloidin
@@ -20031,7 +20032,6 @@ commemorativeness
 cryptoinflationist
 chalkstony
 contra
-churnstaff
 chrysophyllum
 commemorizing
 circumscriptive
