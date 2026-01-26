@@ -9222,6 +9222,7 @@ gitalin
 grison
 gynecopathy
 gnawings
+glareous
 genethlialogic
 goliard
 graphitoid
@@ -9662,7 +9663,6 @@ gametange
 gradative
 grilses
 garnetter
-glareous
 galapee
 gamesome
 gulf
