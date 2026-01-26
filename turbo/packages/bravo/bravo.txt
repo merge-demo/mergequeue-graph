@@ -9290,7 +9290,6 @@ bobolink
 biplanes
 beclogging
 birthstool
-bullterrier
 bonavist
 butler
 bantamweights
@@ -12273,6 +12272,7 @@ bunga
 blee
 bowfront
 biquartz
+bullterrier
 brogans
 biflected
 boltrope
