@@ -1613,7 +1613,6 @@ extraphysiological
 expounded
 egret
 euphony
-ephraim
 egromancy
 emptiness
 egurgitated
@@ -6781,6 +6780,7 @@ eelgrass
 ellinge
 entocyemate
 everett
+ephraim
 efoliolate
 enneatic
 enwood
