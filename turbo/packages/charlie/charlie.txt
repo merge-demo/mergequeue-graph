@@ -474,7 +474,6 @@ cadastral
 cadastration
 cadastres
 cadaver
-capronic
 cadaverin
 cormus
 costeaning
@@ -19401,6 +19400,7 @@ calvus
 colorcasts
 colorectitis
 chrisomloosing
+capronic
 correspondingly
 chantable
 colorers
