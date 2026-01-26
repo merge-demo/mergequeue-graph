@@ -124,7 +124,6 @@ brassily
 biological
 balsamaceous
 boarder
-boomer
 bentinck
 biriani
 berengarianism
@@ -6561,6 +6560,7 @@ breastrope
 biohazard
 berberid
 bricked
+boomer
 bundoc
 bedevilled
 bahima
