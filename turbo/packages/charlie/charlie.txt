@@ -406,7 +406,6 @@ craggiest
 cacoplasia
 commonership
 cacoproctia
-chondriome
 cystoureteritis
 coronels
 cacorhythmic
@@ -11563,6 +11562,7 @@ crafting
 calciphile
 contestation
 cleavingly
+chondriome
 chold
 cholecyanine
 couchee
