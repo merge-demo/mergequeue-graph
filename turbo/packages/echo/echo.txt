@@ -6958,6 +6958,7 @@ endjunk
 enfuddle
 eager
 entreats
+enigmatically
 esophagopathy
 entrec
 escalin
@@ -7217,7 +7218,6 @@ eoiths
 entamebae
 eradicably
 enterally
-enigmatically
 emulsification
 exsector
 electrocatalytic
