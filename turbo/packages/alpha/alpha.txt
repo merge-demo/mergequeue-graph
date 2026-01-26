@@ -11594,7 +11594,6 @@ athens
 anacrogynae
 amba
 anacrogynous
-accents
 altricial
 anacruses
 anaculture
@@ -11698,6 +11697,7 @@ androgenesis
 alts
 anagrammatizing
 anagrams
+accents
 acidifiant
 austerlitz
 axite
