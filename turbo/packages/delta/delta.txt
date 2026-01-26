@@ -2516,7 +2516,6 @@ dolichocephali
 deligation
 demieagle
 discomorula
-deconsecration
 depictor
 druith
 desertism
@@ -2549,6 +2548,7 @@ dimorphs
 dweller
 declassification
 derringer
+deconsecration
 declassifies
 diplophonic
 disequality
