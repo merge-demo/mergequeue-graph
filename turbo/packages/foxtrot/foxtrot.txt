@@ -954,7 +954,6 @@ forms
 fanfishes
 filtering
 flightless
-faxing
 fetialis
 fosterer
 fleecers
@@ -8478,6 +8477,7 @@ fustilarian
 forsee
 fuliginousness
 francomania
+faxing
 fuze
 formating
 formation
