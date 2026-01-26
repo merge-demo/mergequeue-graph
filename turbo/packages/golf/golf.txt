@@ -2263,7 +2263,6 @@ globelike
 ghi
 glyconics
 graben
-germanophilist
 garance
 geissoloma
 geissolomataceae
@@ -3136,6 +3135,7 @@ gutturalizing
 gramoches
 gypsywort
 geoscopic
+germanophilist
 geosphere
 galvanomagnetic
 gapless
