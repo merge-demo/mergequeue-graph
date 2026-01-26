@@ -630,6 +630,7 @@ guineas
 gorgoniacea
 ghostweed
 gesseron
+ganev
 gloryless
 goulashes
 gramaries
@@ -6739,7 +6740,6 @@ glycogens
 gaolers
 glaireous
 graybeards
-ganev
 griped
 garvanzo
 gonionia
