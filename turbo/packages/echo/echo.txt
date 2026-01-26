@@ -1543,6 +1543,7 @@ effigiation
 eggnog
 exareolate
 embrasures
+epigonos
 eggs
 emplastra
 excerptive
@@ -2237,7 +2238,6 @@ exocolitis
 effluve
 endoplasma
 elector
-epigonos
 exhume
 eruction
 educing
