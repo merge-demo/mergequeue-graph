@@ -1934,7 +1934,6 @@ dephlogisticate
 debrominate
 diandrian
 disapprobations
-disentail
 dacryd
 dinophilus
 deferments
@@ -9641,6 +9640,7 @@ defamatory
 doorcase
 doradilla
 dipneusti
+disentail
 disharmonised
 dispense
 daphnias
