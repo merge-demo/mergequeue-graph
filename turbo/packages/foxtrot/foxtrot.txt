@@ -8000,7 +8000,6 @@ fosteringly
 foggish
 floroun
 flirted
-foresignify
 facula
 favoring
 foreskin
@@ -11469,6 +11468,7 @@ ferrite
 foredescribe
 farms
 facilities
+foresignify
 figural
 finnmarks
 footer
