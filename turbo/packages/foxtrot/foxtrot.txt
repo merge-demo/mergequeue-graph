@@ -4757,7 +4757,6 @@ feuillants
 fortunetelling
 feltmonger
 fortunately
-flaunching
 freshened
 filagrees
 fooling
@@ -10322,6 +10321,7 @@ foss
 footcandles
 fiaunt
 fraenula
+flaunching
 floodlighted
 fluoridized
 faceman
