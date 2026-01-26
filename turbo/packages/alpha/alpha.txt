@@ -19995,7 +19995,6 @@ arnee
 astrofell
 advitant
 arnold
-apophthegmatist
 aptitudinally
 ashweed
 arnusian
@@ -22511,6 +22510,7 @@ anthesis
 aisling
 aswash
 adyton
+apophthegmatist
 alcotate
 asweat
 aristarchy
