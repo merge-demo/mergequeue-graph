@@ -4346,6 +4346,7 @@ demasculinisation
 deflagrate
 demigriffin
 disfranchisement
+discourse
 drused
 demasting
 dematerialised
@@ -18282,7 +18283,6 @@ dogged
 duplicidentata
 desmopyknosis
 determinably
-discourse
 decasualization
 daydreamt
 decibels
