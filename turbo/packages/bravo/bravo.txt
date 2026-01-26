@@ -3736,6 +3736,7 @@ bastile
 batlan
 bukshi
 battologising
+bryozoa
 battologize
 bronchiocele
 beardom
@@ -15891,7 +15892,6 @@ bromelins
 backlist
 bearings
 batler
-bryozoa
 biphasic
 barges
 bali
