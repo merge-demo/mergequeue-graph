@@ -17019,6 +17019,7 @@ dampeners
 disemplaned
 doughy
 dreidels
+drooly
 dreikanter
 douricouli
 dreynt
@@ -17358,7 +17359,6 @@ desirers
 dodecanal
 dominatingly
 doa
-drooly
 doorstep
 dilatational
 derivational
