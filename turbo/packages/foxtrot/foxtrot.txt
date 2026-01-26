@@ -4848,7 +4848,6 @@ freedmen
 forwent
 fraternalism
 farina
-flyman
 federationist
 flakage
 floggings
@@ -10278,6 +10277,7 @@ founts
 forensics
 fistulatome
 fasher
+flyman
 frolicking
 frillies
 farthest
