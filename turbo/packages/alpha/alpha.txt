@@ -15787,6 +15787,7 @@ appropriament
 alkane
 acenesthesia
 agujon
+appraisive
 asport
 antiphona
 alcyone
@@ -17850,7 +17851,6 @@ appraises
 appraising
 autoalkylation
 abacate
-appraisive
 almique
 appreciated
 appreciatingly
