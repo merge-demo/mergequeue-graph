@@ -4389,7 +4389,6 @@ elaeis
 encapsulation
 emitted
 encapsuled
-enure
 encaptivate
 essence
 expectorate
@@ -12753,6 +12752,7 @@ euhemeristically
 eucarpous
 eremochaetous
 emperess
+enure
 entertissue
 evictee
 etesians
