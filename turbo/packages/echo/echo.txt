@@ -3711,7 +3711,6 @@ ectoderms
 extravagantness
 enfranchise
 erodability
-expedited
 excessiveness
 enslaving
 encumbers
@@ -11075,6 +11074,7 @@ exulceratory
 ekacaesium
 epistemolog
 electic
+expedited
 epiglottal
 extravasation
 endosporium
