@@ -2253,7 +2253,6 @@ fathering
 fsiest
 fustee
 footfalls
-fenchene
 foxtongue
 favn
 feluccas
@@ -5354,6 +5353,7 @@ fosterhood
 flecky
 fosterite
 farinaceous
+fenchene
 foully
 furole
 forecounsel
