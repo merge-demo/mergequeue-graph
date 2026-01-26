@@ -8663,6 +8663,7 @@ feet
 fuzes
 finites
 forborn
+fanged
 fytte
 farstepped
 furthering
@@ -10299,7 +10300,6 @@ flandowser
 fitten
 formulisation
 finary
-fanged
 fingerings
 footglove
 formulators
