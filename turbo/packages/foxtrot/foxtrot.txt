@@ -5396,7 +5396,6 @@ furor
 flurt
 fault
 firstfruits
-finnip
 fleecy
 farolito
 flyblown
@@ -11002,6 +11001,7 @@ frigging
 freeport
 freshly
 frankability
+finnip
 fortilage
 fordable
 feuillemorte
