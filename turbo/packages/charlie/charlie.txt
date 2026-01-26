@@ -15189,7 +15189,6 @@ consumables
 cacothelin
 claimers
 claims
-covenable
 claypans
 clair
 calcographic
@@ -28045,6 +28044,7 @@ consolidating
 crammers
 cramming
 chameleonic
+covenable
 crammingly
 cramoisies
 cramp
