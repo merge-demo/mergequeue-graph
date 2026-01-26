@@ -8655,7 +8655,6 @@ gritty
 gres
 gymnosoph
 garlands
-galerum
 gawkishly
 germain
 gree
@@ -8979,6 +8978,7 @@ gushers
 gigant
 greenbelt
 glaucously
+galerum
 guiltier
 glumaceae
 geosynchronous
