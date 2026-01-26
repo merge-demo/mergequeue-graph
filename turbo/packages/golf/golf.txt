@@ -3047,6 +3047,7 @@ grangerised
 geomorphologically
 glycopexis
 geonavigation
+gletscher
 gizmos
 geoglossaceae
 gaolbird
@@ -4029,7 +4030,6 @@ gim
 gambolling
 gerundively
 groining
-gletscher
 grifted
 gastrectomies
 gimcrack
