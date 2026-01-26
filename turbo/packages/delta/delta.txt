@@ -2288,6 +2288,7 @@ decemviral
 deepish
 decayer
 decene
+decolourise
 depurator
 decennial
 dingdongs
@@ -16438,7 +16439,6 @@ distad
 dhoora
 dunner
 doxography
-decolourise
 deadishness
 dozed
 dodecahedrons
