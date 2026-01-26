@@ -1812,6 +1812,7 @@ gaspy
 glaucophyllous
 gender
 geebong
+guru
 guiltiest
 grushie
 granat
@@ -7638,7 +7639,6 @@ gyppery
 greenlet
 gleary
 guamuchil
-guru
 grader
 goaded
 grouseward
