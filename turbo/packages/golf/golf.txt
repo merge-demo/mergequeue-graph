@@ -2293,7 +2293,6 @@ galidictis
 ganofs
 gelant
 gadgeteers
-gastrochaenidae
 ganta
 graduates
 gelatinating
@@ -5810,6 +5809,7 @@ gastriloquy
 ginglymoarthrodia
 gluhwein
 glt
+gastrochaenidae
 gatten
 gonophoric
 glochidia
