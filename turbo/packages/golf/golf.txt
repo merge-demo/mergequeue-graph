@@ -1583,7 +1583,6 @@ gymnura
 gauntlet
 gutteral
 gulanganes
-galleria
 gunlock
 gasterotheca
 gandermooner
@@ -9903,6 +9902,7 @@ grisailles
 guaranties
 gradgrindism
 gymnite
+galleria
 gorgers
 giddea
 gulleting
