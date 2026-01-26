@@ -10789,6 +10789,7 @@ antithenar
 animoso
 abyssal
 agape
+archegonial
 amphibryous
 arm
 addresser
@@ -18775,7 +18776,6 @@ anticancerous
 adamas
 archegony
 albania
-archegonial
 amative
 archelenis
 alisier
