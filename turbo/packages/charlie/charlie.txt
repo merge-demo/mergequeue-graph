@@ -13278,7 +13278,6 @@ cycloids
 comprehending
 curates
 cyclolysis
-cycloloma
 chrysarobin
 chancrous
 cavalcades
@@ -15724,6 +15723,7 @@ chemics
 cytologies
 clavicythetheria
 clavicittern
+cycloloma
 contraction
 clavicle
 cannas
