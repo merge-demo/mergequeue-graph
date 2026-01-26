@@ -10490,7 +10490,6 @@ ameliorant
 agua
 assimilator
 apollonia
-auguration
 aniellidae
 aristides
 antihypnotic
@@ -16015,6 +16014,7 @@ akee
 antirebating
 antiphase
 arctangent
+auguration
 androclclinia
 aparaphysate
 acidification
