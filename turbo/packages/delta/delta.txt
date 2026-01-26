@@ -10171,7 +10171,6 @@ dinking
 defatting
 dinkum
 duroc
-deactivation
 dormitory
 decillionth
 dishcross
@@ -12833,6 +12832,7 @@ devotionally
 dominial
 destructor
 dam
+deactivation
 dribblets
 democratization
 dismasted
