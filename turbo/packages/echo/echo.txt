@@ -2491,7 +2491,6 @@ endexines
 ecocide
 extroverts
 emotionalise
-electroing
 electrokinetic
 eluviate
 elaeometer
@@ -4817,6 +4816,7 @@ embryogenetic
 enshrining
 engraven
 eria
+electroing
 englished
 eulogizes
 externalize
