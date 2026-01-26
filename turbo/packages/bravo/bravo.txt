@@ -9087,7 +9087,6 @@ bandagist
 bicolours
 buzzwords
 biorhythm
-butyrins
 bepretty
 bevellers
 bacteriophagia
@@ -16306,6 +16305,7 @@ brr
 bullhead
 bridgemen
 bladelet
+butyrins
 bedrabble
 bruang
 bitume
