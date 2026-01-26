@@ -3243,7 +3243,6 @@ epigon
 embryoscope
 encamping
 eugranitic
-eunice
 ecumenicize
 euphonize
 ethopoeia
@@ -6619,6 +6618,7 @@ euros
 enlacement
 esplees
 electronarcosis
+eunice
 eurocentric
 elastases
 epichil
