@@ -567,7 +567,6 @@ balladling
 blunks
 beautifier
 bromcresol
-blottingly
 bishoped
 brahminic
 bathygraphic
@@ -840,6 +839,7 @@ belone
 balk
 bafflers
 baffling
+blottingly
 bulbus
 bartletts
 bonelike
