@@ -2630,7 +2630,6 @@ bumpkinly
 broncs
 buttonhook
 bravery
-beduchess
 bantamweight
 berlinize
 birdhouses
@@ -7243,6 +7242,7 @@ bisporous
 basses
 bestridden
 bluesides
+beduchess
 blueberry
 bestrides
 boondock
