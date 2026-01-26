@@ -6236,6 +6236,7 @@ educate
 epigaster
 ease
 elamp
+exergual
 ethanes
 enrich
 enrichener
@@ -8164,7 +8165,6 @@ exulting
 eons
 epitendineum
 eloin
-exergual
 empowered
 excalfaction
 episiotomies
