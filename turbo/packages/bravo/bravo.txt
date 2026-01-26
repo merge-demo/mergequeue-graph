@@ -714,6 +714,7 @@ bischofite
 bombardo
 begem
 breathable
+bittersweet
 balteus
 boweling
 banjo
@@ -12929,7 +12930,6 @@ boots
 bottoms
 bephilter
 blouson
-bittersweet
 brontograph
 boottop
 biforous
