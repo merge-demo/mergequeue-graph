@@ -8294,7 +8294,6 @@ antistrophon
 affectum
 accidentalist
 alimony
-abrenunciate
 argolet
 alymphia
 apocrypha
@@ -13743,6 +13742,7 @@ anophelinae
 anophoria
 anaptyctic
 acoumeter
+abrenunciate
 allobroges
 approved
 amusable
