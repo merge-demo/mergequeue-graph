@@ -8255,7 +8255,6 @@ diagram
 deliriousness
 danders
 drahthaar
-demobilize
 dextroaural
 diagrammed
 diagrammer
@@ -9810,6 +9809,7 @@ denty
 diluvium
 digests
 downslide
+demobilize
 dextrality
 demythologizing
 dimastigate
