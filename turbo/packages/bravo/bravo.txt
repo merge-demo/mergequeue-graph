@@ -2365,6 +2365,7 @@ bastinade
 biolysis
 belligerency
 bachelorlike
+basher
 bladderwrack
 barbula
 bardiness
@@ -13941,7 +13942,6 @@ bensel
 boxwoods
 bindweb
 bozo
-basher
 bonesetter
 brittlest
 ballcarrier
