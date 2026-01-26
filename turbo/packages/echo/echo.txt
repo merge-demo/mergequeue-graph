@@ -4803,6 +4803,7 @@ excellences
 effulgence
 epigne
 ephydriad
+eudoxian
 emblematizing
 encourages
 embusy
@@ -10657,7 +10658,6 @@ eudiometrical
 eudiometrically
 exibilate
 eudist
-eudoxian
 exogenic
 extentions
 euergetes
