@@ -11583,7 +11583,6 @@ encephalosepsis
 enchiridion
 explicating
 electroretinogram
-engregge
 egressor
 eternalising
 euplectella
@@ -13333,6 +13332,7 @@ exponible
 existible
 evolvable
 epauliere
+engregge
 extrametaphysical
 encowl
 elixation
