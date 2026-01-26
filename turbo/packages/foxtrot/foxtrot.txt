@@ -7162,6 +7162,7 @@ falsework
 footfault
 ferociousness
 fricassees
+friandise
 flimflammery
 footfolk
 fourniture
@@ -10663,7 +10664,6 @@ fatcake
 fictitious
 femininity
 freezingly
-friandise
 fruitbearing
 foremark
 fusc
