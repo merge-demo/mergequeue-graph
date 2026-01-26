@@ -4220,7 +4220,6 @@ granddam
 gigglers
 goon
 gantleting
-gramophones
 gusto
 gnabble
 garnishing
@@ -8066,6 +8065,7 @@ gastrin
 gauzes
 gapeworm
 graduality
+gramophones
 gulch
 grayhound
 guacharo
