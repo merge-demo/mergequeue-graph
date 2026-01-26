@@ -1628,7 +1628,6 @@ glossophytia
 gastroxynsis
 gourdy
 gunnera
-geom
 greetingly
 gypsite
 grousewards
@@ -8308,6 +8307,7 @@ gastrophthisis
 gaon
 gelated
 gnarling
+geom
 gnar
 glunimie
 genitalia
