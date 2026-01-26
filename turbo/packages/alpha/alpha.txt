@@ -12056,7 +12056,6 @@ anathematised
 administer
 alchemize
 antambulacral
-accepter
 artou
 aegeriid
 appels
@@ -18724,6 +18723,7 @@ archconfraternity
 agalite
 anticonventionally
 archcritic
+accepter
 amblyopia
 argonautic
 appmt
