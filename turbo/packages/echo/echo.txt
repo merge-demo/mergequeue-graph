@@ -8436,7 +8436,6 @@ eurystheus
 etym
 egalitarian
 exocannibalism
-epigrammatical
 eryops
 embroidering
 epos
@@ -9954,6 +9953,7 @@ ertebolle
 eschars
 ennew
 ecclesiae
+epigrammatical
 estrin
 elk
 estrums
