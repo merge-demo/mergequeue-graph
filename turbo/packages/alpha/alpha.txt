@@ -1262,7 +1262,6 @@ atelocardia
 acetocinnamene
 acatalepsy
 acatalepsia
-acataleptic
 autocorrelate
 autosomally
 advectitious
@@ -6093,6 +6092,7 @@ ahey
 alois
 analogal
 asymtotically
+acataleptic
 aglyphodont
 algodonite
 awaken
