@@ -8073,6 +8073,7 @@ feyest
 fulvidness
 flowerist
 frontward
+fertilizable
 fellahs
 forelimbs
 falconnoid
@@ -10389,7 +10390,6 @@ fungite
 flusterment
 fibroplasia
 foundlings
-fertilizable
 frontignan
 fucate
 fronting
