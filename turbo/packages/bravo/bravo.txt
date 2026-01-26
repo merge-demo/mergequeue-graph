@@ -7441,6 +7441,7 @@ boshboks
 balinese
 beaners
 ballonnes
+bottstick
 bact
 betso
 betted
@@ -13467,7 +13468,6 @@ becomes
 biperforate
 boulter
 bedticks
-bottstick
 botulins
 bashaw
 bangboard
