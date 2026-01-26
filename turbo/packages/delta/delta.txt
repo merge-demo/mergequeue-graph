@@ -1086,7 +1086,6 @@ darsonval
 deontology
 disbanding
 dartagnan
-distomatous
 darters
 dearticulation
 dartled
@@ -15348,6 +15347,7 @@ domba
 dutra
 disbogue
 daimioate
+distomatous
 donationes
 deserver
 dome
