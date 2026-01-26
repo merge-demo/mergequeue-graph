@@ -11211,6 +11211,7 @@ cliquishness
 charquid
 chloranthus
 chlorate
+cacolike
 chlorcosane
 chlordans
 costotransversal
@@ -16737,7 +16738,6 @@ cloudage
 cloudberry
 cloudcap
 cloudful
-cacolike
 colouristic
 couthy
 cloudy
