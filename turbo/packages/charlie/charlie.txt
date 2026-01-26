@@ -4500,6 +4500,7 @@ choruslike
 crackleware
 carlylean
 carlyleian
+crenelle
 chiromantical
 catwood
 carlylian
@@ -8712,7 +8713,6 @@ cobriform
 chapeled
 concion
 convalescency
-crenelle
 chapelgoing
 cockpits
 chapelize
