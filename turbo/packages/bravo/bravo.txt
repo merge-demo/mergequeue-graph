@@ -4084,6 +4084,7 @@ blamableness
 bicompact
 brachiopode
 bodysurfs
+brine
 bowmaking
 beelbow
 beardfishes
@@ -5460,7 +5461,6 @@ barrier
 behooves
 behooving
 bacterioprotein
-brine
 backiebird
 behoved
 basting
