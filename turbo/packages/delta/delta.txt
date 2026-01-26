@@ -11550,6 +11550,7 @@ denotable
 dollarfish
 drawnwork
 dramming
+distomes
 disconsent
 diphthongised
 dithering
@@ -13985,7 +13986,6 @@ dichroism
 durational
 deys
 daubed
-distomes
 distomidae
 deturb
 doorposts
