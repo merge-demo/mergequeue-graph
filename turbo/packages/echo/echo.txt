@@ -6106,6 +6106,7 @@ eaved
 earlywood
 enmeshment
 enrols
+esrogim
 emgalla
 easters
 enmity
@@ -12638,7 +12639,6 @@ excussio
 exoenzyme
 evangelistaries
 enterobacterial
-esrogim
 exogamies
 enuretic
 emissarium
