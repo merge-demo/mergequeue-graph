@@ -60,7 +60,6 @@ flavonoid
 foresight
 friskily
 faster
-fibrolite
 fconv
 fabulously
 facebar
@@ -1214,6 +1213,7 @@ fascistization
 foxproof
 fountainlike
 fleckled
+fibrolite
 fleckiness
 figury
 feinted
