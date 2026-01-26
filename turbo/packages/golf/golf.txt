@@ -6143,6 +6143,7 @@ groveling
 goal
 grouted
 griffithite
+galactic
 galactophore
 goniatite
 gigantolite
@@ -8083,7 +8084,6 @@ glyoxalin
 glottalization
 gobs
 gorsedd
-galactic
 grimed
 gibsons
 gladiatory
