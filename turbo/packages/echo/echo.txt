@@ -859,7 +859,6 @@ epipleura
 exhumating
 economically
 expectance
-epitheliosis
 engulfed
 ectoplasmatic
 expansibly
@@ -13500,6 +13499,7 @@ ethmoidal
 eucalypti
 equianharmonic
 endymal
+epitheliosis
 egocentricities
 edge
 exterminative
