@@ -1307,7 +1307,6 @@ dardanarius
 disturbed
 distempered
 daturism
-dumba
 delusive
 dauber
 distinguishingly
@@ -12004,6 +12003,7 @@ diadelphic
 defail
 disengaged
 defiable
+dumba
 disengaging
 disenjoyment
 discourteous
