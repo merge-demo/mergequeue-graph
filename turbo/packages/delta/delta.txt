@@ -298,7 +298,6 @@ dahs
 day
 distributed
 dak
-dayabhaga
 dreed
 dorsalis
 demisheath
@@ -14767,6 +14766,7 @@ deflowering
 docity
 discords
 deplaster
+dayabhaga
 dodonaea
 dilatancy
 discutable
