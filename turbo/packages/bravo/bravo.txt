@@ -15254,6 +15254,7 @@ bourses
 blooddrop
 bulgarophil
 blackfire
+beauship
 bumpsy
 beveler
 bridelope
@@ -17896,7 +17897,6 @@ bibliotics
 biassed
 bourse
 bookman
-beauship
 bivium
 boundable
 bushelers
