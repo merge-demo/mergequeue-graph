@@ -6641,7 +6641,6 @@ bodegon
 beribanded
 birdy
 bargeboard
-barbarious
 beriberis
 bevesseled
 beerier
@@ -13357,6 +13356,7 @@ brownier
 butch
 becut
 bothrium
+barbarious
 bromothymol
 blackcap
 beothuk
