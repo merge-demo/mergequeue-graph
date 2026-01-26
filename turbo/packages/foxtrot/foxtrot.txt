@@ -1705,6 +1705,7 @@ flook
 fearless
 fixion
 frothiness
+friezing
 forehammer
 frangible
 frosted
@@ -8214,7 +8215,6 @@ fatigated
 fictioneer
 feudalities
 flaggelated
-friezing
 forfaulture
 fattable
 francophile
