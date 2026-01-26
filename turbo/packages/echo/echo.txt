@@ -858,6 +858,7 @@ epipleura
 exhumating
 economically
 expectance
+electrotropic
 epitheliosis
 engulfed
 ectoplasmatic
@@ -7177,7 +7178,6 @@ evaluators
 endodontium
 enderon
 erythropoietic
-electrotropic
 ephemeromorphic
 eupnoeas
 exudate
