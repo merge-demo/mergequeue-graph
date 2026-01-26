@@ -1236,6 +1236,7 @@ foredoing
 firmitude
 falcinellus
 filleting
+fullword
 frigidity
 fenders
 flexural
@@ -4073,7 +4074,6 @@ fanaticised
 fusibly
 flophouses
 formulist
-fullword
 fendered
 flateria
 fluffy
