@@ -8173,6 +8173,7 @@ crystallogenetic
 chairmaning
 chattack
 chairmanning
+curtailing
 chairmans
 choledochoenterostomy
 chondroclasis
@@ -31550,7 +31551,6 @@ cyriological
 curt
 curtailed
 curtailedly
-curtailing
 calcimines
 cursores
 cubistic
