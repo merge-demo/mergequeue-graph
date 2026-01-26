@@ -6439,6 +6439,7 @@ diploes
 decadenza
 detest
 dactylioglyph
+dasypeltis
 disbark
 desamidase
 dirian
@@ -18202,7 +18203,6 @@ depravedness
 dropsy
 dunch
 disconcertion
-dasypeltis
 daniel
 dinucleotide
 dystrophies
