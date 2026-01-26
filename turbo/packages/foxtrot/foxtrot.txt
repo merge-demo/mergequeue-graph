@@ -2788,6 +2788,7 @@ fumariaceae
 fistulized
 forbearer
 ftncmd
+flensing
 fulmines
 foxtailed
 fissioning
@@ -6543,7 +6544,6 @@ flagrate
 fluttering
 forswears
 flameless
-flensing
 flimflammed
 fluviolacustrine
 fleetly
