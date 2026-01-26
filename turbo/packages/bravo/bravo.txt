@@ -9539,6 +9539,7 @@ bulliform
 bemoaned
 browd
 birthwort
+bookwright
 bitnet
 brandreth
 breviger
@@ -12768,7 +12769,6 @@ bookward
 bookwards
 byronite
 bookworm
-bookwright
 booleys
 bipeltate
 booly
