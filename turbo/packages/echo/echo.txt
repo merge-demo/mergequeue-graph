@@ -4482,7 +4482,6 @@ extramorainal
 easement
 encephalomyelitis
 entalent
-enrange
 ethiopian
 erucin
 encephalomyocarditis
@@ -5646,6 +5645,7 @@ evangelicals
 exomorphism
 exactive
 euploid
+enrange
 extrarenal
 endophasic
 erotism
