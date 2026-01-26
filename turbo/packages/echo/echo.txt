@@ -4771,7 +4771,6 @@ encompassment
 excusation
 echard
 embosks
-ereptic
 enemas
 epicranium
 encastrement
@@ -13784,6 +13783,7 @@ evermo
 entea
 extispicious
 extoling
+ereptic
 epitympanum
 edingtonite
 edestosaurus
