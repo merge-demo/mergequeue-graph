@@ -1349,7 +1349,6 @@ electropower
 evasional
 ebcdic
 excludability
-earlocks
 ethylated
 ethylamine
 enopla
@@ -11702,6 +11701,7 @@ endocarditis
 elevated
 extendlessness
 exalting
+earlocks
 elands
 exaltment
 essayism
