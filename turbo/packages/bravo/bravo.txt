@@ -1302,7 +1302,6 @@ boleite
 bacterioprecipitin
 balearian
 beltings
-bate
 binational
 balanorrhagia
 balanta
@@ -8837,6 +8836,7 @@ bubonic
 buffaloed
 bowering
 brilliants
+bate
 binny
 bumpered
 beanbags
