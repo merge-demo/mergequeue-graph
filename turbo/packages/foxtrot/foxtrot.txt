@@ -2142,7 +2142,6 @@ fuligulinae
 flaws
 finfoots
 fumette
-fameful
 famously
 fires
 fitch
@@ -4687,6 +4686,7 @@ fratchety
 fijian
 fistnote
 fulgor
+fameful
 flabella
 flyweight
 feoffors
