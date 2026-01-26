@@ -783,6 +783,7 @@ badlands
 boation
 bat
 brushcut
+bierstubes
 bygoing
 banket
 badmouthed
@@ -5524,7 +5525,6 @@ bebled
 blamer
 bilharzic
 beurre
-bierstubes
 burgeoned
 bejesuit
 biffin
