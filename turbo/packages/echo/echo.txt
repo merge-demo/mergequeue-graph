@@ -683,7 +683,6 @@ esocyclic
 ened
 emic
 ecology
-eromania
 employing
 epispore
 enspell
@@ -9309,6 +9308,7 @@ eggbeater
 erucivorous
 eructance
 empoverish
+eromania
 extendability
 extralegal
 ectrogeny
