@@ -5852,6 +5852,7 @@ encephalography
 enocyte
 embryogenesis
 electrotyping
+enclothe
 evomit
 entangledly
 elb
@@ -11241,7 +11242,6 @@ eely
 exceptionably
 effulgently
 excisemanship
-enclothe
 enthronements
 earflower
 endostraca
