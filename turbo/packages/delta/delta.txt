@@ -3339,7 +3339,6 @@ duddery
 destiny
 domesticable
 datiscoside
-downweight
 dicot
 dayment
 dullery
@@ -16843,6 +16842,7 @@ decapitable
 dissuited
 drawgate
 dividers
+downweight
 deuteride
 dishonorary
 drawings
