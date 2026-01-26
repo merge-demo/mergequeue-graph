@@ -8240,7 +8240,6 @@ biforking
 brombenzyl
 browache
 boldin
-biformed
 bugle
 berthage
 byestreet
@@ -15192,6 +15191,7 @@ bellowsmaker
 bloater
 breastplough
 boma
+biformed
 blunted
 brushman
 blockheadedness
