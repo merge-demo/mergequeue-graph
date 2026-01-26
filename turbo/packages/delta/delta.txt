@@ -5795,7 +5795,6 @@ dasyure
 dictating
 disanagrammatize
 dreidel
-dimagnesic
 dragonfly
 dizdar
 dewaxing
@@ -18271,6 +18270,7 @@ dippy
 draffs
 discordia
 divot
+dimagnesic
 distream
 dorsimedian
 dunitic
