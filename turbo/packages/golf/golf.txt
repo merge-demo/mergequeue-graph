@@ -211,6 +211,7 @@ gliadines
 gallish
 glorious
 gaudsman
+gonocoel
 glagolitsa
 greys
 gazon
@@ -9342,7 +9343,6 @@ ghaznevid
 ghaist
 gasparillo
 gyrostat
-gonocoel
 gravestones
 groop
 gallerygoer
