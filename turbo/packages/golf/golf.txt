@@ -6286,7 +6286,6 @@ gastrocele
 gymnorhininae
 goblin
 gettable
-goth
 gullible
 gashouse
 garston
@@ -8777,6 +8776,7 @@ grandchildren
 galaxies
 gelatinochloride
 gunslinger
+goth
 garbles
 guileful
 generable
