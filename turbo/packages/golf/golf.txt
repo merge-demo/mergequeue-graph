@@ -1135,7 +1135,6 @@ gastrointestinal
 gruntled
 gashes
 gurnards
-globalization
 glossing
 ganoidian
 gentisin
@@ -5052,6 +5051,7 @@ gastroptosia
 glycan
 groundbreaker
 gravery
+globalization
 glassmaking
 gunfought
 glyc
