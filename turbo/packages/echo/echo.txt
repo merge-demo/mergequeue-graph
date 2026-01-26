@@ -11458,7 +11458,6 @@ excursionists
 effectually
 electrotypist
 epilogues
-escapades
 empyreumatize
 eductions
 englishness
@@ -11791,6 +11790,7 @@ exasperater
 engrid
 experimented
 empocket
+escapades
 erraticness
 exauctorate
 empoisoned
