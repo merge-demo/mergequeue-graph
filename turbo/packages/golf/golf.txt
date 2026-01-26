@@ -1749,7 +1749,6 @@ gyrofrequencies
 grivation
 glacify
 geodesic
-groupoids
 gastropneumonic
 governmentish
 gootee
@@ -3471,6 +3470,7 @@ graphonomy
 genipaps
 geometrised
 gnathotheca
+groupoids
 gutter
 galleass
 gussied
