@@ -8932,7 +8932,6 @@ chargable
 combmaker
 charge
 chargeable
-collective
 clements
 chargeably
 chargeant
@@ -23802,6 +23801,7 @@ contravener
 cardueline
 chlorinous
 contravening
+collective
 contraversion
 contravindicate
 chaui
