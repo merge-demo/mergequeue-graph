@@ -8596,7 +8596,6 @@ dumps
 denatured
 diarrhea
 dows
-decarchy
 diarrhoeal
 downbeard
 dephysicalize
@@ -9855,6 +9854,7 @@ dimetallic
 dimeter
 dermatauxe
 discophorous
+decarchy
 dimethylbenzene
 disneyland
 decretorial
