@@ -1709,6 +1709,7 @@ fixion
 frothiness
 forehammer
 frangible
+frosted
 ferrament
 fleeching
 fingertip
@@ -6459,7 +6460,6 @@ fissilingual
 farriery
 fording
 fetishists
-frosted
 filibustrous
 flourlike
 fortes
