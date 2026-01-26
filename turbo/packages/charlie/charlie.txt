@@ -3506,7 +3506,6 @@ cheimaphobia
 crunt
 coulage
 cabalistical
-capsizes
 capsizing
 capernaitish
 capsomere
@@ -15022,6 +15021,7 @@ cercopithecus
 civie
 contractively
 cilantros
+capsizes
 connixation
 civile
 clydeside
