@@ -2270,6 +2270,7 @@ geissoloma
 geissolomataceae
 geissospermine
 glamor
+gerontological
 glimpses
 granulocytopoiesis
 gunkholed
@@ -4101,7 +4102,6 @@ goetic
 gannetry
 gigantean
 gallowses
-gerontological
 gazee
 generalissimos
 granularity
