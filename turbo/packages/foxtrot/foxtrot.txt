@@ -6730,7 +6730,6 @@ featherbed
 fluorescent
 forspeaking
 frounced
-foiningly
 freddie
 forjudged
 flashboard
@@ -10613,6 +10612,7 @@ fibrocalcareous
 factorial
 filmslide
 fibrination
+foiningly
 finement
 filigrain
 fuzzes
