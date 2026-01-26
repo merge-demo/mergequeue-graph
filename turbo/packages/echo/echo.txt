@@ -8439,6 +8439,7 @@ eryops
 embroidering
 epos
 elianic
+eulogiser
 encinas
 epizootic
 embolimeal
@@ -8782,7 +8783,6 @@ epizootically
 extime
 electroscopes
 enterozoan
-eulogiser
 el
 emulative
 ectoskeleton
