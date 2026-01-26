@@ -16287,7 +16287,6 @@ clinometrical
 calendal
 carvol
 clinopinacoid
-cephalin
 chayaroot
 convector
 clinopodium
@@ -20390,6 +20389,7 @@ commutable
 canada
 conjee
 commutant
+cephalin
 commutated
 commutation
 commutatively
