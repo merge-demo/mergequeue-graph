@@ -1916,6 +1916,7 @@ aerobian
 appendix
 acetylglycin
 apologetical
+autoradiograph
 argyria
 acetylhydrazine
 anacardiaceous
@@ -24368,7 +24369,6 @@ adjurors
 aquaducts
 acetophenetide
 autoradiogram
-autoradiograph
 autoreflection
 asterochiton
 allopurinol
