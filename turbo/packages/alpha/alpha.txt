@@ -3054,7 +3054,6 @@ aught
 aphanophyre
 alienable
 antiamusement
-autacoid
 amphibolia
 aswing
 allantoinuria
@@ -6326,6 +6325,7 @@ agrilus
 adultress
 abohms
 agriochoerus
+autacoid
 achuas
 amoeban
 agnatically
