@@ -3504,6 +3504,7 @@ collars
 culverkeys
 cheimaphobia
 crunt
+cpl
 coulage
 cabalistical
 capsizing
@@ -9383,7 +9384,6 @@ chawbacon
 chawbuck
 chawdron
 comitative
-cpl
 concessions
 chawers
 combinement
