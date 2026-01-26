@@ -2590,6 +2590,7 @@ ethylhydrocupreine
 euphausia
 entertaining
 electrobrasser
+endued
 entertainable
 etua
 enantioblastous
@@ -12068,7 +12069,6 @@ extispex
 endemisms
 excreta
 escheator
-endued
 engulfs
 edentates
 enantiomorphism
