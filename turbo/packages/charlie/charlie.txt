@@ -10723,7 +10723,6 @@ confectionaries
 chinaware
 chinawoman
 chagul
-cincher
 chinch
 chinchayote
 choise
@@ -10795,6 +10794,7 @@ carabaos
 chalkcutter
 chorisos
 castigatories
+cincher
 cheeter
 chinners
 chinny
