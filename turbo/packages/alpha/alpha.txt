@@ -20733,7 +20733,6 @@ artifactitious
 altitonant
 artifactually
 ascents
-artifex
 activates
 aerobiology
 artificial
@@ -24032,6 +24031,7 @@ atmometer
 autocide
 acetylbiuret
 alumnus
+artifex
 afterproof
 addlins
 appointers
