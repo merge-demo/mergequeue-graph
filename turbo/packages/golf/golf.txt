@@ -5969,6 +5969,7 @@ granulous
 gutterman
 goniatitic
 gyve
+gnaw
 graspers
 giallolino
 greige
@@ -8919,7 +8920,6 @@ gladelike
 grandiloquous
 galvanising
 granulitization
-gnaw
 glycosidic
 geranomorphic
 gothicize
