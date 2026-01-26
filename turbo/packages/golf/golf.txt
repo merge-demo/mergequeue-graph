@@ -7233,7 +7233,6 @@ governorate
 gourmands
 glassmaker
 generosity
-gribble
 gingernut
 gemination
 gorgoneion
@@ -9158,6 +9157,7 @@ geographically
 granulates
 glared
 goosed
+gribble
 griphite
 golee
 greenhornism
