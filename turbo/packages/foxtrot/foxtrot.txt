@@ -4237,7 +4237,6 @@ frogeater
 faxed
 fatting
 fireplug
-firepot
 floodage
 foreflank
 forebooms
@@ -7699,6 +7698,7 @@ forehooves
 forpit
 foreboding
 fissidentaceae
+firepot
 flowoff
 flarfish
 flawful
