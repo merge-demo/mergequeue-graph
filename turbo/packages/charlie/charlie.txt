@@ -9725,7 +9725,6 @@ cataphonics
 cheirogaleus
 cheirography
 cheirolin
-cymbal
 cheirology
 ciconiidae
 colloidal
@@ -27768,6 +27767,7 @@ collinear
 coxendix
 coxes
 creeper
+cymbal
 chondrogeny
 coxitis
 crocin
