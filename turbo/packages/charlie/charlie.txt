@@ -14266,7 +14266,6 @@ cousiness
 circumlocutory
 circumlunar
 clodder
-calcographic
 cassoni
 circummundane
 circummure
@@ -15193,6 +15192,7 @@ claims
 covenable
 claypans
 clair
+calcographic
 clairaudience
 countertug
 claire
