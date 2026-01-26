@@ -4904,6 +4904,7 @@ gamines
 genethliacon
 genipa
 groundwards
+gropers
 glamors
 granddada
 granita
@@ -10086,7 +10087,6 @@ gabe
 grummels
 granado
 guetre
-gropers
 glairin
 greynesses
 gardyloo
