@@ -181,6 +181,7 @@ gradgrind
 gabarit
 gammacism
 groschen
+gallivanters
 greenheaded
 giraffoid
 gelled
@@ -6301,7 +6302,6 @@ gruneritization
 goblins
 grama
 goldenpert
-gallivanters
 gardevisure
 grandest
 gobo
