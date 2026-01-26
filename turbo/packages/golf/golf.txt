@@ -3165,7 +3165,6 @@ grigs
 geotropy
 galvanical
 guardant
-glossolabiolaryngeal
 gametoid
 gooier
 gie
@@ -8334,6 +8333,7 @@ gravest
 gigawatt
 graminaceae
 galvanoglyphy
+glossolabiolaryngeal
 glucofrangulin
 gedecktwork
 geast
