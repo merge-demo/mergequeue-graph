@@ -15844,6 +15844,7 @@ anatomiless
 almochoden
 antiplastic
 animalness
+aposiopesis
 antipleion
 advocation
 antiplurality
@@ -17298,7 +17299,6 @@ automobiled
 aportlast
 aposaturnium
 aposia
-aposiopesis
 aposiopetic
 anisocotyledonous
 americanize
