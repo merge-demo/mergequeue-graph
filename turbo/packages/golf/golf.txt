@@ -1559,7 +1559,6 @@ galliardise
 grassless
 gassed
 gypsumed
-gastritic
 grovellings
 gulfy
 grana
@@ -8800,6 +8799,7 @@ gauntleting
 generalize
 griddler
 galleys
+gastritic
 gentianaceous
 gustoes
 gallus
