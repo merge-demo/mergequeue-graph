@@ -9437,6 +9437,7 @@ euphonon
 exteriorizing
 eschewed
 expand
+exp
 ecbolics
 earth
 enunciation
@@ -9773,7 +9774,6 @@ embitterment
 embracive
 engages
 explaining
-exp
 embolemia
 eachwhere
 exfoliated
