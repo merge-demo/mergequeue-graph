@@ -8761,7 +8761,6 @@ chapon
 cestodaria
 corrugators
 cuppa
-crips
 chapote
 collimators
 cave
@@ -28626,6 +28625,7 @@ cremasteric
 cremate
 conjointly
 chemicomechanical
+crips
 crossbowmen
 coccogonium
 condisciple
