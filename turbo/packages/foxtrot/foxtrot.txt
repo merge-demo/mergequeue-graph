@@ -4885,7 +4885,6 @@ fruitcakey
 frenetic
 filamented
 formly
-fchar
 fluidised
 flustrate
 foining
@@ -10366,6 +10365,7 @@ ferrocalcite
 fleing
 foxgloves
 foliation
+fchar
 frontbencher
 footlining
 frontcourt
