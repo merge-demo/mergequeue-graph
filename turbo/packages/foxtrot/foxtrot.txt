@@ -721,7 +721,6 @@ flincher
 flywinch
 flagroot
 famous
-florigens
 featherlet
 famp
 famuli
@@ -10437,6 +10436,7 @@ flodge
 fumous
 finnesko
 fillagree
+florigens
 follied
 furlongs
 fullery
