@@ -8827,6 +8827,7 @@ greyed
 grosser
 gainlier
 galleyworm
+guideship
 graphostatical
 gypsylike
 gabbard
@@ -10011,7 +10012,6 @@ gangliac
 gleans
 gazebos
 glaistig
-guideship
 gammation
 gargoyles
 greasing
