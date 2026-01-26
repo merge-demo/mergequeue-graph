@@ -948,6 +948,7 @@ foragers
 fed
 fourchite
 fortunateness
+followings
 forms
 fanfishes
 filtering
@@ -11737,7 +11738,6 @@ fremdly
 finitely
 flanking
 fatherland
-followings
 factorage
 fumados
 fetes
