@@ -6320,7 +6320,6 @@ doctrinal
 dolus
 discontinuing
 dislimn
-divorcing
 duras
 dejeune
 dermophobe
@@ -13717,6 +13716,7 @@ disulphuric
 dialkyl
 danegeld
 diatomiferous
+divorcing
 diplasion
 demetrian
 dashnaktzutiun

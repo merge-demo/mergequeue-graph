@@ -7624,7 +7624,6 @@ chaetotaxy
 cevadilline
 cerebrospinant
 cerebrosuria
-cerebrovascular
 collarets
 cyanophoric
 cerements
@@ -10511,6 +10510,7 @@ chiliast
 commeasure
 commuting
 comprehend
+cerebrovascular
 concaptive
 chakar
 chiliastic
