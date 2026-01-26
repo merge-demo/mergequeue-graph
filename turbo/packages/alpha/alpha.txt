@@ -8280,7 +8280,6 @@ aliipoe
 alikeness
 alikewise
 abr
-apis
 alilonghi
 arundinaceous
 arnaut
@@ -18977,6 +18976,7 @@ angiolith
 actinine
 ambagiousness
 alphabetary
+apis
 abstention
 archaeostomatous
 ageratum
