@@ -4481,7 +4481,6 @@ encephalomyelitic
 epochally
 extramorainal
 easement
-epirrheme
 encephalomyelitis
 entalent
 enrange
@@ -13062,6 +13061,7 @@ echinospermum
 expellent
 entrancing
 espontoon
+epirrheme
 egueiite
 evaluations
 expermentized
