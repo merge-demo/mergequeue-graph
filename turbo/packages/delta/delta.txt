@@ -16674,7 +16674,6 @@ drainers
 disvelop
 drainman
 disgross
-daiva
 degums
 dugway
 dahabeah
@@ -18511,6 +18510,7 @@ disownable
 diaphanous
 distortional
 demisavage
+daiva
 dissilition
 durbars
 dissonate

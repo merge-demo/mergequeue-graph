@@ -5271,7 +5271,6 @@ endosclerite
 extrahepatic
 eurybathic
 eucopepoda
-excudate
 endoscope
 endoscopes
 equivocalities
@@ -11109,6 +11108,7 @@ electrolyte
 eczema
 exigent
 euterpean
+excudate
 enactments
 eutexia
 exquisitively
