@@ -3882,7 +3882,6 @@ carbonide
 convalescent
 corrigibility
 colliform
-carbonify
 clept
 chewbark
 concinnate
@@ -6390,6 +6389,7 @@ causidical
 counterassurance
 caustical
 caustically
+carbonify
 causticism
 chamaeleo
 celticism
