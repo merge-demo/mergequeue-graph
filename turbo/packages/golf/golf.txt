@@ -2317,7 +2317,6 @@ guaiacols
 goloe
 genevas
 gibbartas
-galopin
 gingivoglossitis
 geldings
 garlandage
@@ -8733,6 +8732,7 @@ grisgris
 gymnosophical
 goodlihead
 gamene
+galopin
 gallate
 griming
 gonapod
