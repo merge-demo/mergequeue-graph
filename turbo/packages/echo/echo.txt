@@ -9951,6 +9951,7 @@ eucalyptuses
 evert
 ertebolle
 eschars
+equiradiate
 ennew
 ecclesiae
 epigrammatical
@@ -14201,7 +14202,6 @@ effecters
 enjoyments
 enow
 emissory
-equiradiate
 exerciser
 exust
 encaging
