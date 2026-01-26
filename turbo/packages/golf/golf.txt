@@ -3322,7 +3322,6 @@ gomorrean
 gaging
 goasila
 gonydial
-glanditerous
 gahnite
 globed
 gasogen
@@ -8535,6 +8534,7 @@ garcons
 gladiatorship
 ganoidal
 gitana
+glanditerous
 grandada
 grouped
 gravisphere
