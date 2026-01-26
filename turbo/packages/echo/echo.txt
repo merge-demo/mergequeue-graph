@@ -2093,7 +2093,6 @@ elastically
 eurycephalous
 edenite
 elytroptosis
-emberiza
 effete
 eberthella
 electrography
@@ -13963,6 +13962,7 @@ extraoral
 extraordinary
 exterioration
 eschews
+emberiza
 elaborateness
 eudeve
 extraparliamentary
