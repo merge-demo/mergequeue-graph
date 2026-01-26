@@ -659,7 +659,6 @@ elmiest
 enhance
 envier
 eclogic
-egressor
 eclogite
 eclosion
 emasculative
@@ -11587,6 +11586,7 @@ enchiridion
 explicating
 electroretinogram
 engregge
+egressor
 eternalising
 euplectella
 expatiate
