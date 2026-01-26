@@ -589,7 +589,6 @@ elitisms
 ebonise
 echt
 earliness
-ecchymosed
 excommenge
 exostoses
 eciliate
@@ -13403,6 +13402,7 @@ express
 extralinguistic
 eudaemonical
 empire
+ecchymosed
 earlship
 expressage
 edgily
