@@ -7650,6 +7650,7 @@ ceremonialism
 ceremonialist
 ceremonialize
 ceremonialness
+coefficient
 counterlocking
 carrefour
 contrabass
@@ -10876,7 +10877,6 @@ compilable
 carpetbaggers
 counterinsult
 chippers
-coefficient
 chippewas
 chippy
 cephalotome

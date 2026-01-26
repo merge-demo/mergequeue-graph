@@ -6531,7 +6531,6 @@ dysnomy
 djin
 designator
 diota
-daedal
 doddies
 descrive
 descure
@@ -12913,6 +12912,7 @@ disobliges
 darkful
 dilleniaceae
 dummying
+daedal
 disoccluded
 disoccluding
 deepwatermen
