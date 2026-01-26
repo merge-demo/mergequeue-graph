@@ -2951,7 +2951,6 @@ acting
 actiniae
 appalment
 amplexifoliate
-automatize
 appendages
 ashless
 antiheroism
@@ -5707,6 +5706,7 @@ arthrometer
 astragalar
 agapemone
 analysis
+automatize
 agapemonist
 agapetae
 aptenodytes
