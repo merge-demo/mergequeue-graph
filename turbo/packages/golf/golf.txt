@@ -2160,6 +2160,7 @@ goniostat
 goldfinches
 galliards
 glisters
+gutsily
 gebbie
 guardians
 gecarcinian
@@ -9790,7 +9791,6 @@ glossemes
 glares
 gnathostoma
 ginglyni
-gutsily
 glomerulonephritis
 gastrohysterotomy
 gradable
