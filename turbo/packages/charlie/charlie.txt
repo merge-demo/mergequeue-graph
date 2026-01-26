@@ -8859,7 +8859,6 @@ cognizableness
 characterization
 characterizing
 characterless
-characterlessness
 characterology
 coffle
 crosshead
@@ -12450,6 +12449,7 @@ chromoctye
 chromodermatosis
 chromogene
 chromogenesis
+characterlessness
 cingulate
 chamaecrista
 cranemanship
