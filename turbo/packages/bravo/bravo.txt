@@ -2477,6 +2477,7 @@ budging
 batino
 brendan
 barandos
+becker
 balaklava
 baphomet
 bereason
@@ -11976,7 +11977,6 @@ bohemium
 bidders
 butchered
 belladonna
-becker
 bay
 braula
 bidigitate
