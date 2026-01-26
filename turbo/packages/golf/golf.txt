@@ -3255,6 +3255,7 @@ gunstocks
 germanify
 graminiferous
 gravestead
+gamelan
 gadso
 gorgonian
 grimmia
@@ -5063,7 +5064,6 @@ guilelessly
 gilten
 guernseyed
 glareproof
-gamelan
 grainsmen
 goldeneye
 greesagh
