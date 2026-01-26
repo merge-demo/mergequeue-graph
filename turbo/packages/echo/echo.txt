@@ -8603,7 +8603,6 @@ executor
 eleutheromania
 equidivision
 epigrammatising
-embouchures
 electrovital
 espavel
 equielliptical
@@ -9533,6 +9532,7 @@ enteradenology
 emboldened
 eserine
 erwin
+embouchures
 esguard
 embracing
 electroviscous
