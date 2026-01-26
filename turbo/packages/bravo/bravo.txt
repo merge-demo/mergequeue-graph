@@ -9697,7 +9697,6 @@ bourette
 bismite
 bankrupcy
 bismuthal
-bumblefoot
 bismuthate
 burhinus
 birchbark
@@ -14456,6 +14455,7 @@ brakeroot
 braky
 boatyards
 bakunda
+bumblefoot
 betray
 blazingly
 brakie
