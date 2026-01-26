@@ -7165,7 +7165,6 @@ besra
 berhymes
 bullyboys
 bathmic
-bevatron
 brambliest
 bifoliate
 biologist
@@ -11436,6 +11435,7 @@ beeves
 bisaltae
 bodacious
 biocoenose
+bevatron
 blumea
 bedrail
 brattices
