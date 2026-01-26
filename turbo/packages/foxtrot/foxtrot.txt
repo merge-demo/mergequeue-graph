@@ -2409,7 +2409,6 @@ felanders
 frenchness
 flyflapper
 falsiteit
-fashionable
 fifie
 ferlying
 ferling
@@ -11340,6 +11339,7 @@ finedrawing
 fellic
 fibroma
 fudged
+fashionable
 fluoroid
 fustinella
 forewind
