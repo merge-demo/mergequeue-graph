@@ -4144,6 +4144,7 @@ cichlids
 cardiomegalia
 caffa
 clerihew
+carmine
 cubed
 chancellor
 cardinalities
@@ -5260,7 +5261,6 @@ casita
 casket
 corpl
 coemanate
-carmine
 conflation
 cellulosed
 catchers
