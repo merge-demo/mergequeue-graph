@@ -2991,7 +2991,6 @@ fiascos
 fetticus
 ferricyanogen
 ferrotype
-footsoreness
 fulgurantly
 fortepiano
 flukily
@@ -5408,6 +5407,7 @@ forseek
 fitchery
 frivoling
 fusobteria
+footsoreness
 femur
 filterable
 flexuosely
