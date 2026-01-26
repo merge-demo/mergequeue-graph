@@ -5746,7 +5746,6 @@ antismog
 ashmen
 aggregational
 agastric
-awacs
 assn
 apickaback
 ancestor
@@ -20280,6 +20279,7 @@ arrosive
 aleuritic
 antistreptococcal
 allowances
+awacs
 acquophonia
 amazement
 arsmetry
