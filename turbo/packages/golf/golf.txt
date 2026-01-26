@@ -1084,6 +1084,7 @@ gonimous
 gilden
 gloiosiphoniaceae
 genoas
+goldenmouthed
 ghostliness
 groundway
 gallingly
@@ -7943,7 +7944,6 @@ globing
 glottologies
 gunnar
 genghis
-goldenmouthed
 gainer
 groupage
 gervao
