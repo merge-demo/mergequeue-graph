@@ -155,7 +155,6 @@ expired
 effervescent
 erotopath
 enunciations
-encodement
 earthly
 enriched
 exequy
@@ -7963,6 +7962,7 @@ eliminand
 enomaniac
 epidermous
 expenselessness
+encodement
 epineuneuria
 enterocholecystostomy
 evolutionary
