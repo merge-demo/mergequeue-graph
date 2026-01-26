@@ -1291,6 +1291,7 @@ brahmism
 boteroll
 beknown
 betorcinol
+bogo
 bradycinesia
 biogasses
 bacao
@@ -9219,7 +9220,6 @@ biped
 bipedal
 beggared
 biasses
-bogo
 bourbonesque
 bipeds
 benettle
