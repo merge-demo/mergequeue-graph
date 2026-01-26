@@ -10902,7 +10902,6 @@ blindball
 bindable
 bangers
 boxball
-barracker
 bbs
 buttals
 blasphemy
@@ -14217,6 +14216,7 @@ birls
 bemadaming
 beteach
 bradytrophic
+barracker
 bousoukis
 bradley
 bareka
