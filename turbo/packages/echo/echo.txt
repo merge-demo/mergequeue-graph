@@ -11721,6 +11721,7 @@ examinant
 enscrolled
 examinatory
 estrepe
+effervescingly
 endochrome
 encumbering
 equivocacies
@@ -13834,7 +13835,6 @@ extracerebral
 embolo
 elucidative
 exprobate
-effervescingly
 electrophilic
 earworm
 extracystic
