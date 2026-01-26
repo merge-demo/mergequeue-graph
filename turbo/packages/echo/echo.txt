@@ -1141,7 +1141,6 @@ exorbitate
 edoni
 excisemen
 entrochite
-edplot
 encrimson
 emplore
 edrioasteroidea
@@ -3383,6 +3382,7 @@ equiparate
 emphase
 egoist
 embargoes
+edplot
 endocrinologist
 eavedropper
 embark
