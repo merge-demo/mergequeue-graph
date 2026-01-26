@@ -3467,7 +3467,6 @@ bracket
 berzeliite
 batad
 barbascoes
-barrages
 bagworms
 blotlessness
 boyla
@@ -15088,6 +15087,7 @@ brachymetropic
 brickwork
 blisterweed
 bradawl
+barrages
 boastive
 burbs
 breveting
