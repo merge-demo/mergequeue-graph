@@ -3637,7 +3637,6 @@ betacism
 brazenfacedly
 botchery
 billheads
-bioplasm
 batoon
 biconjugate
 backsettler
@@ -6175,6 +6174,7 @@ barrigudo
 bombardier
 barbless
 buchmanism
+bioplasm
 befinger
 biliary
 boarishly
