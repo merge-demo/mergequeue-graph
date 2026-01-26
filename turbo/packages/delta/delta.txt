@@ -2718,7 +2718,6 @@ duetto
 decorate
 decorating
 daukin
-decuple
 dont
 discounsel
 deedful
@@ -15761,6 +15760,7 @@ dormitories
 dissenting
 digenite
 dimwits
+decuple
 dormouse
 digallic
 deletive
