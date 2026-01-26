@@ -16339,6 +16339,7 @@ barbels
 baselike
 bocces
 brownwort
+beminstrel
 biovular
 beflower
 bowels
@@ -17927,7 +17928,6 @@ bractless
 bibliopegist
 bahmanid
 brahmanda
-beminstrel
 bathypelagic
 bushless
 bareness
