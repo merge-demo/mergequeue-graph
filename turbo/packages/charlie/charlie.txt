@@ -8092,6 +8092,7 @@ coracosteon
 continent
 convocating
 carcer
+cudgeled
 chaffron
 clavicornia
 chaffs
@@ -30691,7 +30692,6 @@ cudgel
 communalizing
 chordates
 comparability
-cudgeled
 cudgeler
 calymene
 cudgelers
