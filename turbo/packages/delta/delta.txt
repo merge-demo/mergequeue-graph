@@ -2156,7 +2156,6 @@ disassemble
 distresses
 downfall
 decalcomanias
-decapodal
 dawn
 draggletailedly
 del
@@ -8103,6 +8102,7 @@ dept
 diabolise
 diabolist
 denitrificator
+decapodal
 detrusive
 deflocculated
 du

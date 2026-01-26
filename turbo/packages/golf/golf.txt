@@ -649,7 +649,6 @@ gluside
 guenepe
 guideline
 geodetic
-gweducs
 gardencraft
 gallomaniac
 gallon
@@ -8680,6 +8679,7 @@ guttled
 guttling
 germiniparous
 greekize
+gweducs
 gavelling
 grammars
 gearing
