@@ -4157,7 +4157,6 @@ beastlings
 beastman
 barracoutas
 beastship
-beat
 benches
 beatee
 bleery
@@ -5314,6 +5313,7 @@ bakalai
 burka
 behew
 barnstormer
+beat
 brahmaic
 beglerbegluc
 biannulate
