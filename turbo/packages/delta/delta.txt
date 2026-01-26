@@ -1956,6 +1956,7 @@ dwines
 dominoes
 disobeys
 dreader
+dapper
 dobla
 deckload
 doze
@@ -8291,7 +8292,6 @@ disregardance
 diaguite
 dictates
 despeed
-dapper
 duskly
 diapausing
 dyakish
