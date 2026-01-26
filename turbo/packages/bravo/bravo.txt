@@ -4134,7 +4134,6 @@ beastily
 beastish
 bowbells
 beastlier
-barkening
 brawled
 bartlemy
 bowl
@@ -18032,6 +18031,7 @@ bromise
 busket
 baseness
 beadmen
+barkening
 busload
 busman
 bondmanship
