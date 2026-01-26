@@ -6676,6 +6676,7 @@ fogfruit
 fibrins
 fruiteress
 flatterable
+feigning
 flintlock
 flexura
 flouts
@@ -10366,7 +10367,6 @@ footgeld
 frontogenesis
 ferrocalcite
 fleing
-feigning
 foxgloves
 foliation
 frontbencher
