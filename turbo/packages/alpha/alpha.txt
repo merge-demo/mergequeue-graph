@@ -12258,6 +12258,7 @@ aporrhegma
 arborise
 astylospongia
 analog
+archicoele
 antinous
 atheromatous
 anaclete
@@ -25002,7 +25003,6 @@ awes
 awestrike
 awfu
 arnotta
-archicoele
 antheriferous
 amphitheatric
 anthroic
