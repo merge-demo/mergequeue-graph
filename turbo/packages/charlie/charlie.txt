@@ -8479,7 +8479,6 @@ cytotaxonomic
 championships
 champleve
 cephalofacial
-chiselled
 cryogenies
 chams
 compositionally
@@ -16097,6 +16096,7 @@ clydesider
 clientage
 cliental
 classer
+chiselled
 cycloramas
 choriocarcinomata
 cornopean
