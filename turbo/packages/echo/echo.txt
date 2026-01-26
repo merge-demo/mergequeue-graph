@@ -2005,6 +2005,7 @@ erminois
 encurl
 exophasia
 emersion
+embroiler
 etherish
 ethiopic
 examinational
@@ -8279,7 +8280,6 @@ epitheliolytic
 egyptians
 estragole
 eskimoic
-embroiler
 erlkings
 earthy
 evg
