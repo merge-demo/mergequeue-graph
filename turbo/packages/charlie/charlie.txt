@@ -12648,7 +12648,6 @@ colorless
 condores
 cteninidia
 chubbiest
-chubs
 chuckawalla
 chucked
 crippledom
@@ -19942,6 +19941,7 @@ comitia
 comitial
 colortype
 comitium
+chubs
 cuscuses
 contrastimulus
 comitje
