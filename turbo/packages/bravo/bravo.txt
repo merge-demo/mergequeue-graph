@@ -5167,7 +5167,6 @@ beroidae
 befoulment
 biacuminate
 befraught
-befreight
 bossy
 befountained
 borosilicic
@@ -16975,6 +16974,7 @@ bloodstained
 begirded
 bondelswarts
 bondager
+befreight
 bedewoman
 buildups
 bespeakable
