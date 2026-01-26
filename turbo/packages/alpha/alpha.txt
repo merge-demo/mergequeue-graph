@@ -4006,7 +4006,6 @@ allegiantly
 administrates
 antihemolytic
 administrative
-affixion
 administratively
 administratrices
 antiarin
@@ -21043,6 +21042,7 @@ aminosulphonic
 ascyphous
 ascyrum
 authorizable
+affixion
 ahmet
 azoxynaphthalene
 acknowledgedly
