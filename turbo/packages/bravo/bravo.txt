@@ -7875,7 +7875,6 @@ bibliofilm
 busked
 blepharosymphysis
 biocatalytic
-bibliographize
 burglarising
 bourignian
 backstitched
@@ -9182,6 +9181,7 @@ boastings
 balneotherapeutics
 biotites
 blancmanges
+bibliographize
 bolometric
 basil
 blowback
