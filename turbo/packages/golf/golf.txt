@@ -352,7 +352,6 @@ gravigrada
 graveship
 granaries
 galactometer
-gorling
 gaussian
 gleen
 gerontologic
@@ -8574,6 +8573,7 @@ geothermometer
 glucose
 geometrizing
 graziers
+gorling
 gallivat
 gravidate
 gullied
