@@ -2519,6 +2519,7 @@ aconative
 acondylose
 altaian
 amicable
+amire
 artisan
 abeyant
 aconelline
@@ -10514,7 +10515,6 @@ amyelencephalous
 actionizing
 adonia
 apomictically
-amire
 adenoidism
 aviator
 alien
