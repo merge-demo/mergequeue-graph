@@ -8706,7 +8706,6 @@ girn
 greenbug
 gastrolater
 gormandising
-grandiloquent
 granolite
 greenery
 globin
@@ -10524,6 +10523,7 @@ gossipingly
 gudesakes
 gremmie
 gentamicin
+grandiloquent
 gunge
 germinability
 gaucheries

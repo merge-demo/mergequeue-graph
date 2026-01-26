@@ -5455,7 +5455,6 @@ fluorated
 friezy
 fiduciarily
 forehear
-fiant
 friseurs
 fossed
 falters
@@ -11684,6 +11683,7 @@ finikin
 flare
 flybane
 flyleaves
+fiant
 fagaceous
 flippancy
 fanlights
