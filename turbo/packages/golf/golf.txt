@@ -7681,7 +7681,6 @@ geomyid
 grandeza
 graecize
 goldworker
-gamins
 grouf
 glassing
 gos
@@ -10362,6 +10361,7 @@ gullets
 greably
 generators
 giddied
+gamins
 gainsome
 gargoyled
 gunda

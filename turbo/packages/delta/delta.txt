@@ -3970,6 +3970,7 @@ degradingly
 delegacy
 domiculture
 dysrhythmia
+djellabah
 diphenylguanidine
 delegate
 doorsill
@@ -14663,7 +14664,6 @@ drill
 djebels
 djehad
 deferens
-djellabah
 decanically
 dampest
 djerib
