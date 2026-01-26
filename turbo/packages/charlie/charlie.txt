@@ -2247,6 +2247,7 @@ capotes
 campshed
 campsite
 compasser
+counterdike
 campsites
 coronofacial
 cretinizing
@@ -26751,7 +26752,6 @@ commiserate
 coldest
 counterdigged
 cerebroscopy
-counterdike
 coltishness
 caaming
 counterdisengagement
