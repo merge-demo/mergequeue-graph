@@ -5008,7 +5008,6 @@ cartobibliography
 columbia
 cartogram
 comminate
-cartography
 cypseli
 cartographic
 cartographical
@@ -30668,6 +30667,7 @@ chanelled
 cudbear
 cylindroogival
 collis
+cartography
 cuddy
 cuddie
 chuppoth
