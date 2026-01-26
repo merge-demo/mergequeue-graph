@@ -12786,7 +12786,6 @@ encounterable
 exospore
 endrumpf
 eurycerotidae
-epomophorus
 exines
 extensional
 exostosis
@@ -12823,6 +12822,7 @@ ejectable
 exothecal
 emboss
 eccentrics
+epomophorus
 exothermically
 eloignment
 eupomatia
