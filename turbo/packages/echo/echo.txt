@@ -2694,6 +2694,7 @@ electrotherapy
 electrotheraputic
 emyds
 elaeopten
+embosture
 escribed
 ephippial
 exteriorise
@@ -12503,7 +12504,6 @@ erythrophage
 envisages
 epicentral
 excursive
-embosture
 executrixship
 expertize
 exine
