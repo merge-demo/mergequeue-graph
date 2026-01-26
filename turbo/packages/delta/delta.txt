@@ -4587,7 +4587,6 @@ demonastery
 donn
 dinic
 dulcite
-dianoetically
 diselenid
 demisangue
 douzaines
@@ -7170,6 +7169,7 @@ detaching
 denarcotization
 diaphorase
 diemaking
+dianoetically
 detaches
 dicast
 discursory
