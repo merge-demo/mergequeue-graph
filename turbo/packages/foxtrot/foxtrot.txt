@@ -4916,6 +4916,7 @@ flamy
 fan
 facepiece
 floorages
+forenews
 foremarch
 flaminical
 fomenters
@@ -8108,7 +8109,6 @@ fumer
 flusterated
 frippet
 forejudged
-forenews
 faunistic
 foyboat
 frazed

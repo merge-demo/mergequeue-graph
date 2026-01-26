@@ -534,6 +534,7 @@ bayok
 blasthole
 bafflingness
 barometrical
+bepewed
 backvelder
 blastodermic
 baufrey
@@ -7451,7 +7452,6 @@ becovet
 buboes
 bashalick
 betterment
-bepewed
 bulbocavernous
 bivouacks
 bushelled
