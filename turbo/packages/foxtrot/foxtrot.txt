@@ -3562,7 +3562,6 @@ felinity
 floorway
 files
 fiddle
-freijo
 fazing
 frowzily
 foreroom
@@ -9835,6 +9834,7 @@ freddy
 foretokens
 fennoman
 ferronatrite
+freijo
 freudist
 friar
 freeboot
