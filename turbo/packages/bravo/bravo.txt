@@ -7038,6 +7038,7 @@ borrichia
 biometricist
 burelle
 besort
+bisulc
 blunting
 bondholder
 bascinet
@@ -13359,7 +13360,6 @@ becut
 bothrium
 bromothymol
 blackcap
-bisulc
 beothuk
 boltant
 bothway
