@@ -16535,7 +16535,6 @@ coronale
 compensations
 cleistothecia
 chondrolipoma
-cloisonless
 chancering
 clammish
 cloisonn
@@ -19082,6 +19081,7 @@ chiefess
 cabalism
 clarencieux
 cardiasthma
+cloisonless
 chloridizing
 collimated
 collimates
