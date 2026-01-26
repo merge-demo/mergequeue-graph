@@ -3631,6 +3631,7 @@ frigidaria
 foredate
 forelooper
 floorings
+flubdubbery
 fuzzing
 funnelling
 fertilised
@@ -6313,7 +6314,6 @@ frags
 fluidity
 fuzzy
 funicle
-flubdubbery
 flatulence
 flack
 futural
