@@ -5890,7 +5890,6 @@ acclaiming
 antiscians
 assonantic
 amblygeusia
-agglutogenic
 accompanists
 aggrade
 aggrades
@@ -9703,6 +9702,7 @@ ahluwalia
 antipyresis
 amoving
 amah
+agglutogenic
 amahuaca
 assoil
 antigen
