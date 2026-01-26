@@ -3980,7 +3980,6 @@ cerulescent
 carburizer
 carburizes
 chides
-chattelize
 caecilian
 cruster
 carburometer
@@ -30409,6 +30408,7 @@ cryptamnesia
 cyrenaic
 crustated
 cripes
+chattelize
 contesters
 crusted
 creedlessness
