@@ -2280,6 +2280,7 @@ egest
 ester
 equality
 enleagued
+encopresis
 electrifiers
 europasian
 enaliornis
@@ -13468,7 +13469,6 @@ eringo
 epenthetic
 electrolyse
 ensuingly
-encopresis
 eatanswill
 emf
 elizabethanize
