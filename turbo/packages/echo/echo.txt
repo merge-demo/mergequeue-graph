@@ -3118,7 +3118,6 @@ esthetically
 ephebi
 elodes
 eloge
-epiphytology
 exhorting
 elogium
 egohood
@@ -10587,6 +10586,7 @@ enthusing
 entomophily
 exhibitory
 epiclidal
+epiphytology
 equibiradiate
 esprits
 equiprobable
