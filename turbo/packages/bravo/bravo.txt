@@ -580,6 +580,7 @@ barbitos
 balisaur
 baconian
 bombast
+bestirs
 bakingly
 benzalacetone
 bishopric
@@ -13117,7 +13118,6 @@ bovids
 bornite
 baksheesh
 bloodstain
-bestirs
 bornites
 bornitic
 berob
