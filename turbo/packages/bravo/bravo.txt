@@ -2859,7 +2859,6 @@ barracouta
 brushlessness
 bicep
 brashiest
-blanketless
 barrad
 boskage
 banus
@@ -5506,6 +5505,7 @@ bagatine
 bludgeoned
 baklava
 bemurmured
+blanketless
 bobowler
 benefactive
 begnawn
