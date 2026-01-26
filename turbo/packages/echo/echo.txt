@@ -1710,7 +1710,6 @@ enterosyphilis
 embolon
 employ
 epistilbite
-ejective
 evang
 eyeground
 epornitically
@@ -1926,6 +1925,7 @@ empathically
 enthelmintha
 endict
 exarchateship
+ejective
 elementalist
 ejaculatory
 enshadow
