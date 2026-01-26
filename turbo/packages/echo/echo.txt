@@ -8892,7 +8892,6 @@ extrameridian
 educationally
 evenhead
 euphoria
-expectorators
 entoderms
 epistrophic
 embitter
@@ -9004,6 +9003,7 @@ eunuchized
 etiolize
 ecstatically
 encyclical
+expectorators
 equiponderous
 ebcasc
 effund
