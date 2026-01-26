@@ -3084,6 +3084,7 @@ defacing
 diploses
 defacto
 dispelling
+dextrogyrate
 dichlamydeous
 defaillance
 defaitiste
@@ -5005,7 +5006,6 @@ denaturing
 duplicand
 denaturise
 disfigures
-dextrogyrate
 denaturization
 disparaging
 desensitizers
