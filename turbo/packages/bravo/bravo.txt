@@ -258,7 +258,6 @@ bacillariophyta
 buckwasher
 beroe
 bacilli
-bothros
 bacillian
 bacillicidal
 bacillicidic
@@ -13516,6 +13515,7 @@ ballutes
 businesswoman
 bepainted
 beatermen
+bothros
 bouffancy
 beggarlice
 brunel
