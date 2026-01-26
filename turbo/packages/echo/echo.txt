@@ -3440,6 +3440,7 @@ estival
 essentialization
 enate
 endocarpal
+eunomy
 epees
 elaeothesium
 enginemen
@@ -3976,7 +3977,6 @@ epilamellar
 etymologise
 evangelian
 estrapade
-eunomy
 extirpated
 epionychia
 empexa
