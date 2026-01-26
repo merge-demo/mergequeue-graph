@@ -6616,6 +6616,7 @@ bergall
 bergamasche
 bergamask
 blastoma
+barrancas
 bobcat
 beezers
 bergaptene
@@ -7258,7 +7259,6 @@ bestuck
 bestud
 boninite
 bipont
-barrancas
 bandora
 bulwarking
 blowsier
