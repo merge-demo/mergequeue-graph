@@ -6073,6 +6073,7 @@ disableness
 derailment
 decocts
 divvied
+downfield
 defalcate
 duplexs
 december
@@ -11307,7 +11308,6 @@ davens
 deprivate
 discerpible
 discerpibleness
-downfield
 distrainee
 discerption
 difficulties
