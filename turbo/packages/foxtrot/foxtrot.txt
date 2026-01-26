@@ -10305,6 +10305,7 @@ formulisation
 finary
 fanged
 fingerings
+footglove
 formulators
 fluormeter
 ferrates
@@ -10787,7 +10788,6 @@ firstness
 fructiculose
 flash
 femme
-footglove
 fatalism
 fascisticize
 finials
