@@ -9824,7 +9824,6 @@ doctrinable
 dimber
 doek
 desilicification
-dace
 decennary
 dimensionally
 dimensioning
@@ -13308,6 +13307,7 @@ disprofitable
 disproofs
 disinformation
 dishevelments
+dace
 directrix
 disproportional
 dossety
