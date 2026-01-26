@@ -1824,7 +1824,6 @@ gemmiparity
 gutturize
 gobleted
 gladioluses
-guanare
 gullah
 gatekeeper
 grizel
@@ -5861,6 +5860,7 @@ goshawk
 grandparents
 gammerstang
 gestening
+guanare
 galvaniser
 gynephobia
 gluttonize
