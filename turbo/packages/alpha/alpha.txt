@@ -856,7 +856,6 @@ amurcosity
 absentminded
 aerobics
 absentness
-aiver
 abshenry
 allure
 absinthiated
@@ -16647,6 +16646,7 @@ average
 aperiodicity
 acaroid
 apert
+aiver
 arsonation
 asperates
 archelaus

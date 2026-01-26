@@ -2974,7 +2974,6 @@ barrigudos
 babouche
 blackjack
 bromophenol
-blennioidea
 brattishing
 broadcasters
 byerlite
@@ -12001,6 +12000,7 @@ blusteration
 bootstrapped
 bohunks
 beverly
+blennioidea
 beneficeless
 boyard
 boyardism
