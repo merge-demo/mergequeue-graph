@@ -4114,7 +4114,6 @@ granularity
 gaitt
 gibleh
 gratewise
-gilding
 gypsum
 gouda
 ghostily
@@ -6353,6 +6352,7 @@ grouty
 geotectology
 gunarchy
 gossaniferous
+gilding
 gamin
 graymill
 gugal
