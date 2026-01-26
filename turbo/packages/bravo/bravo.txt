@@ -744,6 +744,7 @@ badger
 backyard
 bogwort
 badgerer
+badge
 blundersome
 booking
 banana
@@ -12894,7 +12895,6 @@ bonhomie
 boothage
 boothale
 baronetcies
-badge
 boccias
 brews
 bedspread
