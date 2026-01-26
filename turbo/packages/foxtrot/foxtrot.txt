@@ -629,7 +629,6 @@ fleshes
 fideists
 forehand
 folly
-farrantly
 forelimb
 funnies
 frame
@@ -4126,6 +4125,7 @@ fornenst
 faff
 fontanel
 fratriage
+farrantly
 flouting
 fipples
 floscule
