@@ -3857,7 +3857,6 @@ exotheca
 emigrating
 extrajudicial
 epidotic
-enfeebled
 eclipsis
 endodontic
 emigration
@@ -13873,6 +13872,7 @@ eggcups
 engagingness
 euphenic
 excoriation
+enfeebled
 emandibulate
 extraparental
 encyst
