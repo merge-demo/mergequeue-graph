@@ -2696,7 +2696,6 @@ fervence
 frighteningness
 floodwall
 fumage
-fishify
 flamant
 footballer
 flambe
@@ -7352,6 +7351,7 @@ foraminose
 foolheaded
 foraminulate
 fought
+fishify
 france
 fergusonite
 foraneen
