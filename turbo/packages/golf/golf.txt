@@ -1290,6 +1290,7 @@ gloria
 gestation
 garefowl
 gyrene
+grumium
 guessworker
 gnawingly
 gargalize
@@ -9592,7 +9593,6 @@ glaucophanization
 gallize
 goniodorididae
 gobinist
-grumium
 glaucodote
 geests
 goiter
