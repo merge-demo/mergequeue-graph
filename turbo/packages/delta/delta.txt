@@ -8425,7 +8425,6 @@ dredging
 ditrochee
 deflexed
 dooxidize
-dextro
 decrowns
 decise
 deration
@@ -12536,6 +12535,7 @@ droitural
 dropsically
 depend
 defies
+dextro
 divertible
 disingenuousness
 dicaryophase
