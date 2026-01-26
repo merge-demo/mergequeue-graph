@@ -3219,7 +3219,6 @@ capeweed
 coverlet
 craked
 citruses
-capewise
 capework
 capful
 caphar
@@ -8646,6 +8645,7 @@ chansonniers
 chantey
 counterlighted
 corrigiolaceae
+capewise
 conspired
 chantepleure
 chanterelle
