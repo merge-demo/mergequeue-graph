@@ -2720,7 +2720,6 @@ fantasts
 fiefs
 flagitate
 fimbriated
-fusain
 frigged
 fleuronne
 filmish
@@ -11203,6 +11202,7 @@ fetterer
 fictil
 farads
 firer
+fusain
 funiculus
 failles
 flamethrowers
