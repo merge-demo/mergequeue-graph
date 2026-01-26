@@ -395,7 +395,6 @@ floozie
 fairishly
 fister
 fifties
-fronde
 farcy
 ficoes
 frislet
@@ -10842,6 +10841,7 @@ flambeaux
 fumose
 falutin
 flavorous
+fronde
 fulfillments
 fennici
 fdtype
