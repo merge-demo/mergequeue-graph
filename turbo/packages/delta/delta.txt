@@ -8642,7 +8642,6 @@ dovekey
 diastalsis
 diglossia
 disgustedness
-dryads
 dialectology
 diastasimetry
 dipnoan
@@ -16240,6 +16239,7 @@ diploidion
 destuff
 duplicated
 dendroceratina
+dryads
 depurant
 dacryocystoblennorrhea
 dindymus

@@ -3836,7 +3836,6 @@ glumpy
 gloweringly
 governmentally
 gigahertzes
-galloperdix
 gigaherz
 gymnarchidae
 genips
@@ -4285,6 +4284,7 @@ gurgulio
 graphy
 gingersnaps
 glummest
+galloperdix
 graeme
 gingerspice
 greenable
