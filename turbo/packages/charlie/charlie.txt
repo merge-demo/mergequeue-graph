@@ -3337,6 +3337,7 @@ colonizes
 capnomancy
 cogenial
 capnomor
+coco
 cirripede
 cowgram
 connivant
@@ -17707,7 +17708,6 @@ catan
 cockroaches
 cozing
 cockscombed
-coco
 chiffonade
 cocoach
 cte

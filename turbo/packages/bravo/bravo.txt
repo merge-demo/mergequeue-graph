@@ -3546,7 +3546,6 @@ broths
 belatticed
 baroscopic
 blonds
-bathylithic
 bathymetry
 bathymetrical
 biggonet
@@ -9724,6 +9723,7 @@ benj
 boondogglers
 ballywrack
 bedpad
+bathylithic
 betokening
 bissabol
 brisker
