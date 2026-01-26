@@ -953,6 +953,7 @@ groundplot
 gammock
 grouched
 gillnetted
+gantlines
 galactically
 gainsaid
 gospodar
@@ -8960,7 +8961,6 @@ gumbolike
 glaucopis
 grievable
 grievance
-gantlines
 grievances
 grievous
 gloxinia
