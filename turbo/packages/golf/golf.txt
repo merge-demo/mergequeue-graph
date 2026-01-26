@@ -3668,6 +3668,7 @@ garrisonism
 gallinae
 gnathite
 goalmouth
+grossularite
 gherkins
 galah
 geodetically
@@ -10276,7 +10277,6 @@ gelandelaufer
 gentlewomanish
 gastrulating
 guitarists
-grossularite
 galvanomagnet
 gigantically
 gorges
