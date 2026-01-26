@@ -755,7 +755,6 @@ galvanology
 geomechanics
 gombeen
 gueridon
-goumi
 genae
 galvanoplasty
 grovers
@@ -3944,6 +3943,7 @@ guesstimating
 grabbed
 gnide
 guessingly
+goumi
 gigster
 gemonies
 gravic
