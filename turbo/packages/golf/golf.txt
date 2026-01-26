@@ -5726,7 +5726,6 @@ grimmish
 grugous
 gloomy
 grapsoid
-gymnoplast
 gossypose
 gonotheca
 gravemaker
@@ -6236,6 +6235,7 @@ greediness
 gazettes
 granddaddy
 goateed
+gymnoplast
 guitarlike
 gregariousness
 guttural
