@@ -2382,6 +2382,7 @@ defaults
 deciceronize
 decidedly
 dewclaw
+diphthongise
 dystonia
 decidence
 destabilized
@@ -18427,7 +18428,6 @@ disarrayed
 dupe
 dupedom
 destroyer
-diphthongise
 duping
 diabolic
 dipsticks
