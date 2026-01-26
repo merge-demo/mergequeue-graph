@@ -9652,7 +9652,6 @@ dungbred
 diageotropy
 deinoceras
 detractions
-dilactic
 dilactone
 dilamination
 dilaniate
@@ -13771,6 +13770,7 @@ dissolve
 daffadillies
 dalis
 druxy
+dilactic
 dissour
 disadventure
 disenshroud
