@@ -10462,7 +10462,6 @@ bedeafens
 boatlike
 blarny
 blout
-bought
 begs
 blowth
 blarnid
@@ -15724,6 +15723,7 @@ blithesomeness
 brocardic
 bardee
 britannia
+bought
 brocatelle
 beowulf
 brocatello
