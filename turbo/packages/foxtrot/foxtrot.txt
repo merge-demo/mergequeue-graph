@@ -1376,6 +1376,7 @@ fanning
 fatigue
 fossicks
 fatiguesome
+flappy
 fishbones
 fidate
 fella
@@ -2555,7 +2556,6 @@ feedsman
 fiduciaries
 fanti
 fimbriatum
-flappy
 fluidification
 fetishry
 firefanging
