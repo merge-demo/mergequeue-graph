@@ -4242,7 +4242,6 @@ gelidness
 gorgonia
 gemmuliferous
 gyneolater
-guinfo
 gynetype
 gymnadenia
 glazieries
@@ -7266,6 +7265,7 @@ giglio
 grumness
 gladstonian
 geochronic
+guinfo
 glowbird
 gallophobe
 gerated
