@@ -821,7 +821,6 @@ gambeered
 gutturalization
 garde
 glauke
-greenlandite
 gastrostenosis
 glucosane
 ghurry
@@ -8602,6 +8601,7 @@ grappled
 guti
 gulfed
 gorgons
+greenlandite
 guideposts
 goldfielder
 gaslight
