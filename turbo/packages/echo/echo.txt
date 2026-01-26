@@ -7153,6 +7153,7 @@ emforth
 eryopsid
 exuviability
 ethal
+englory
 electrons
 ecumenic
 elvishly
@@ -8367,7 +8368,6 @@ embolomerism
 estrum
 erpetoichthys
 exceedable
-englory
 earplug
 equestrial
 egency
