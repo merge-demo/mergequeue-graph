@@ -12197,6 +12197,7 @@ arcades
 anchusas
 amblypoda
 arteriosympathectomy
+athecate
 archcupbearer
 ancientest
 anciently
@@ -20589,7 +20590,6 @@ arthrodonteae
 avicularium
 alteza
 actinomere
-athecate
 ating
 arthrogastran
 alfet
