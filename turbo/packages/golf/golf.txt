@@ -314,7 +314,6 @@ ginete
 gaudful
 gourami
 gadolinium
-grognard
 glusid
 grundsil
 gelatins
@@ -10380,6 +10379,7 @@ gullying
 gothism
 garibaldian
 gangliocyte
+grognard
 geshurites
 glottic
 gaucheness
