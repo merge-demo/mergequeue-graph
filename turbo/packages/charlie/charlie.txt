@@ -31579,7 +31579,6 @@ curtein
 chilion
 curteous
 curter
-curtesies
 curtilage
 curtsied
 curucaneca
@@ -31713,6 +31712,7 @@ cuspidor
 counterapse
 cusping
 cuspis
+curtesies
 cusps
 cuspule
 crests
