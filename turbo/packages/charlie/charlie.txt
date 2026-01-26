@@ -24014,7 +24014,6 @@ convention
 conventional
 cutlassfish
 conventionalised
-conoscope
 comatous
 cadmide
 cogitate
@@ -26310,6 +26309,7 @@ costumic
 cabstand
 cooks
 costumiere
+conoscope
 costumiers
 cinematize
 choreomania

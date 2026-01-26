@@ -1733,7 +1733,6 @@ balsamine
 become
 balsamitic
 balsamiticness
-boldheartedly
 balsamorrhiza
 burkei
 breakerman
@@ -9385,6 +9384,7 @@ brachtmema
 birdhood
 birdhouse
 barramundi
+boldheartedly
 bullety
 buffers
 blowzily
