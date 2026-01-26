@@ -1693,6 +1693,7 @@ flatworm
 fieldmice
 fragmentation
 folioing
+folliculate
 fleshless
 festa
 finishing
@@ -5349,7 +5350,6 @@ frib
 forthset
 flutists
 fleche
-folliculate
 forkhead
 fleckering
 fosterhood
