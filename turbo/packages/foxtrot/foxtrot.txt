@@ -2489,6 +2489,7 @@ fernyear
 funs
 fernshaw
 fordo
+frothsome
 flanerie
 feck
 flavic
@@ -8018,7 +8019,6 @@ floran
 fleying
 forecooler
 foreslow
-frothsome
 frumpled
 flatteur
 fowent
