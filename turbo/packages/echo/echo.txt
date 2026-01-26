@@ -2018,7 +2018,6 @@ evangelican
 epichorial
 embreathement
 eskimo
-etruscans
 electrometeor
 eligibleness
 encephalometric
@@ -4011,6 +4010,7 @@ epirogenetic
 elute
 evaporative
 exedent
+etruscans
 euchroite
 evidenced
 evangelize
