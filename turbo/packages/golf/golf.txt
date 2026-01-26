@@ -3916,6 +3916,7 @@ gimping
 gigawatts
 glossoscopia
 geoty
+granting
 gads
 gomorrhean
 gorgoneioneia
@@ -9505,7 +9506,6 @@ gorgeted
 gyred
 grimp
 gymnosporous
-granting
 guiltiness
 graals
 glutinize
