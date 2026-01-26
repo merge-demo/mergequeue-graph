@@ -28159,6 +28159,7 @@ cameos
 craniotomy
 castaway
 craniotopography
+cooptive
 craniums
 crankcases
 cristy
@@ -30008,7 +30009,6 @@ cancerization
 circumfuse
 confutation
 crotesco
-cooptive
 cannoned
 chirothesia
 commutations
