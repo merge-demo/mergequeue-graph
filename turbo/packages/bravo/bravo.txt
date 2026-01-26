@@ -6587,7 +6587,6 @@ birotation
 blotter
 bluff
 blastular
-bere
 butterbox
 brotula
 beetlers
@@ -17146,6 +17145,7 @@ backliding
 blackfins
 buckass
 backboards
+bere
 balanops
 bullheads
 buckwheater
