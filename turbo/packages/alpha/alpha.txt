@@ -12223,7 +12223,6 @@ ancistrocladaceous
 ancistroid
 acanthopomatous
 ancodont
-aerified
 astrophotometry
 anubing
 ancoly
@@ -16100,6 +16099,7 @@ antiscrofulous
 antiseismic
 antiselene
 acroarthritis
+aerified
 aphthartodocetism
 ajowans
 articling
