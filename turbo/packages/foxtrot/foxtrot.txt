@@ -5781,6 +5781,7 @@ filmer
 flamingly
 flittermouse
 familiarization
+fisticuffing
 fairylike
 faking
 fellowship
@@ -11393,7 +11394,6 @@ forksmith
 footmanry
 faceharden
 flustrum
-fisticuffing
 fleurette
 filminess
 feasor
