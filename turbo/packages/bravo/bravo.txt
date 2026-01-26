@@ -4672,7 +4672,6 @@ brimmered
 balletomania
 bedgowns
 bassets
-bedrowse
 bediamonded
 blankit
 bushwhackers
@@ -11334,6 +11333,7 @@ bhar
 breathed
 bluntest
 bedcap
+bedrowse
 bestiarianism
 blubberers
 befitting
