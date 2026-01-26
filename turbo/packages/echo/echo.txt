@@ -7712,7 +7712,6 @@ epipleurae
 etiological
 eocene
 ephapse
-everyness
 erythraea
 epirogeny
 epidermic
@@ -10235,6 +10234,7 @@ elzevirian
 elaborates
 extruders
 eligibilities
+everyness
 evansite
 epanorthosis
 errsyn
