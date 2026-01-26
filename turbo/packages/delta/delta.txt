@@ -8534,6 +8534,7 @@ deflex
 derisiveness
 dataries
 diaphonic
+dependents
 divertedly
 denegation
 diaphonies
@@ -14749,7 +14750,6 @@ downcasts
 decrepitating
 deceptional
 delimitative
-dependents
 diazide
 dasycladaceous
 divinator
