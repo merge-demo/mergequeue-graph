@@ -7351,6 +7351,7 @@ balaenoptera
 bocklogged
 blacknob
 bullidae
+bonneted
 bilbies
 bullarium
 bunker
@@ -11708,7 +11709,6 @@ binmen
 buddles
 beboss
 bardolatry
-bonneted
 bobeche
 benchmarked
 buddah
