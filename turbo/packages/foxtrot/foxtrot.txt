@@ -3934,6 +3934,7 @@ finest
 fubbed
 flauto
 finew
+fourierism
 fish
 fermentor
 fines
@@ -8980,7 +8981,6 @@ favositoid
 formally
 felty
 fourier
-fourierism
 fourneau
 facings
 filly
