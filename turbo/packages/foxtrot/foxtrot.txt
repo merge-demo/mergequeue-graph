@@ -7406,6 +7406,7 @@ fusk
 flushboard
 fatalistic
 feminologist
+fusspot
 foreclose
 forestland
 foolisher
@@ -11296,7 +11297,6 @@ fersmite
 fleming
 fledging
 furcate
-fusspot
 firearm
 fulmicotton
 fatwa
