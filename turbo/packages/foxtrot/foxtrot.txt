@@ -34,6 +34,7 @@ fibrolitic
 feaked
 fibrocyst
 fabricates
+fanioned
 fabricator
 formularize
 flintless
@@ -3337,7 +3338,6 @@ foulnesses
 fieldleft
 ferrean
 freewomen
-fanioned
 folily
 feeless
 fastigate
