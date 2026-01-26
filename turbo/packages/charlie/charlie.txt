@@ -6874,7 +6874,6 @@ curares
 cytologist
 cellulofibrous
 confabbing
-cellulosic
 contented
 conventionalization
 cellulosing
@@ -17766,6 +17765,7 @@ condog
 cocuyo
 cocullo
 cocurator
+cellulosic
 coviello
 cocurricular
 cocuswood
