@@ -1738,7 +1738,6 @@ feastfully
 finny
 fu
 forehook
-fencibles
 fatlings
 felonies
 feastraw
@@ -8971,6 +8970,7 @@ frenchy
 frisbee
 fusiformis
 floit
+fencibles
 flywort
 flunkeys
 forewarnings
