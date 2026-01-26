@@ -1984,7 +1984,6 @@ eryngo
 ekron
 encephalocele
 educement
-epidemics
 effusions
 ektenes
 expeditious
@@ -11356,6 +11355,7 @@ electrodesiccation
 eryopid
 embarrel
 edificator
+epidemics
 eruciform
 emanatively
 eathly
