@@ -4292,7 +4292,6 @@ durning
 defend
 delimit
 duckhood
-dequeue
 dunderpate
 dronel
 diversicolored
@@ -7256,6 +7255,7 @@ dasya
 dimmy
 disquiet
 dyslexias
+dequeue
 discompt
 deglutinated
 dentines
