@@ -6763,6 +6763,7 @@ celemin
 coilyear
 celemines
 consignificator
+catstone
 celery
 cimborio
 cypres
@@ -13113,7 +13114,6 @@ cycadeoidea
 cycadite
 cooner
 cotys
-catstone
 cycadofilicales
 cycadofilices
 cannikins
