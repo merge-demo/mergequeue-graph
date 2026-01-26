@@ -13143,7 +13143,6 @@ cystoflagellata
 cicatrisive
 cicatrizate
 canalize
-craniographer
 cott
 cicatrizer
 confraternity
@@ -26684,6 +26683,7 @@ cheepy
 counterattraction
 countercompany
 counterattractive
+craniographer
 costulation
 counteravouch
 counteravouchment
