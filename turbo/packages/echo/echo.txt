@@ -1848,6 +1848,7 @@ eurygnathism
 epexegesis
 executant
 executrix
+extractor
 eimak
 exulted
 eulima
@@ -8638,7 +8639,6 @@ erythrogonium
 erineum
 ethanols
 erelong
-extractor
 enervous
 exceptionable
 expels
