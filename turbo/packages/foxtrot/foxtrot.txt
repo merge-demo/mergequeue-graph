@@ -1673,7 +1673,6 @@ feaberry
 ferrandin
 frike
 forethoughtfulness
-firoloida
 feverberry
 focalises
 federate
@@ -9632,6 +9631,7 @@ floggingly
 firemaster
 falcata
 ferias
+firoloida
 fortalice
 firnification
 finalities
