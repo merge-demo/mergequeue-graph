@@ -7665,7 +7665,6 @@ beeper
 burgling
 bewraps
 backstage
-budgerygah
 begulf
 belesprit
 bewrapt
@@ -12182,6 +12181,7 @@ baptist
 barbarisms
 bolivians
 bolk
+budgerygah
 baccilli
 bartholinitis
 beretta
