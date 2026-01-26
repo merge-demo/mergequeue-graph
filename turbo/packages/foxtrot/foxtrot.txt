@@ -1863,6 +1863,7 @@ febricant
 frictions
 fore
 febrific
+faradonervous
 feloid
 febrile
 fusilading
@@ -4147,7 +4148,6 @@ frenula
 fulk
 felonry
 fatling
-faradonervous
 fenchyl
 feezed
 fireboy
