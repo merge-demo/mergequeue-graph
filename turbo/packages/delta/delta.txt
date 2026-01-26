@@ -7986,6 +7986,7 @@ deliberate
 dispergating
 dataset
 disallowance
+disroots
 dismembered
 dragading
 doggess
@@ -11957,7 +11958,6 @@ deleading
 diseme
 dacelonine
 disemploy
-disroots
 dooket
 disulfuret
 duotriacontane
