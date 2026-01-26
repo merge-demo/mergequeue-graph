@@ -14959,7 +14959,6 @@ alcamine
 anticontagionist
 agrin
 antispadix
-anticontagiously
 azimuthal
 anticonvellent
 aeroducts
@@ -24928,6 +24927,7 @@ awake
 awakened
 amminolysis
 alopekai
+anticontagiously
 awakeners
 agravic
 attractability

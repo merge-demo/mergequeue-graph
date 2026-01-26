@@ -2331,7 +2331,6 @@ faultier
 feoffs
 fasciole
 fra
-fade
 fiftyfold
 formalizing
 fer
@@ -3160,6 +3159,7 @@ feazings
 friezes
 fibulae
 floodcock
+fade
 furanoses
 fitfully
 forepayment
