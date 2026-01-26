@@ -5786,7 +5786,6 @@ guanidin
 grasshopperish
 gastrodisk
 gurjara
-glowingly
 grubworms
 glows
 gallons
@@ -10797,6 +10796,7 @@ gibberella
 gabbroitic
 gibli
 guttlers
+glowingly
 gainly
 goblinism
 gonenesses
