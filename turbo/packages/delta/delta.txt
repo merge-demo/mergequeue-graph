@@ -16223,7 +16223,6 @@ disinherit
 dowf
 daren
 dextroamphetamine
-dermatotherapy
 dowsets
 densitometer
 dowitchers
@@ -16813,6 +16812,7 @@ drawbore
 deare
 dreeing
 disconsonant
+dermatotherapy
 difficult
 devaluated
 drawcut
