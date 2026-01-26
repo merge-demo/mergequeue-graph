@@ -4459,7 +4459,6 @@ encephalartos
 encephalasthenia
 effloresced
 escocheon
-encephalitic
 executively
 encephalographic
 ekphorize
@@ -8276,6 +8275,7 @@ extremis
 epigyny
 epistemic
 epitheliolytic
+encephalitic
 egyptians
 estragole
 eskimoic
