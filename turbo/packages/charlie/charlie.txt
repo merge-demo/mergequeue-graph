@@ -1449,6 +1449,7 @@ calypso
 copals
 consonantising
 calypsoes
+cryptoporticus
 calypsonian
 charbon
 cholic
@@ -6100,7 +6101,6 @@ catlings
 cairds
 catlins
 craftsperson
-cryptoporticus
 canephroi
 cantharidizing
 cumene

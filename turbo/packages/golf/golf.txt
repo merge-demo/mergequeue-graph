@@ -2157,6 +2157,7 @@ glout
 guacos
 galea
 gabling
+guester
 goniostat
 goldfinches
 galliards
@@ -5459,7 +5460,6 @@ gigeria
 glisteringly
 gorblimy
 grubble
-guester
 gerridae
 goldish
 gloomingly
