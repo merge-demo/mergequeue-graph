@@ -6047,6 +6047,7 @@ gallature
 gingle
 grinding
 gunbright
+guidebook
 gnathostomata
 gawkiness
 gluttery
@@ -9282,7 +9283,6 @@ gurge
 gangliate
 galactophagous
 gunj
-guidebook
 gi
 geodynamicist
 gore
