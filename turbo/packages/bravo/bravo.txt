@@ -2098,7 +2098,6 @@ bannocks
 boilinglike
 banovina
 bleep
-banquet
 blindish
 banqueting
 beseem
@@ -8931,6 +8930,7 @@ biocoenotic
 biodegradability
 biodegradable
 backfield
+banquet
 becassocked
 biodegraded
 biodegrading
