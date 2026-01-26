@@ -2381,6 +2381,7 @@ deciceronize
 decidedly
 dewclaw
 diphthongise
+disadvantageousness
 dystonia
 decidence
 destabilized
@@ -10900,7 +10901,6 @@ doublethinking
 dorsoradial
 disadvance
 disbursals
-disadvantageousness
 ditetragonal
 deminude
 disadvising
