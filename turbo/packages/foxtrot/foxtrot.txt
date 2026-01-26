@@ -3637,7 +3637,6 @@ fuzzing
 funnelling
 fertilised
 foreglow
-finedrawing
 faltering
 fluxweed
 federalize
@@ -11335,6 +11334,7 @@ feudee
 foreglimpsed
 forswat
 foldure
+finedrawing
 fellic
 fibroma
 fudged
