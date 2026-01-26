@@ -1659,7 +1659,6 @@ dahabiyeh
 deprival
 decapsulation
 defatigable
-dealt
 dissects
 democratizes
 dozening
@@ -4257,6 +4256,7 @@ doc
 diaconia
 designatory
 delustering
+dealt
 deceleration
 delved
 dermatopathology
