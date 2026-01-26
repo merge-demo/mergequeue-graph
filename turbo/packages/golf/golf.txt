@@ -3491,6 +3491,7 @@ gramercies
 gaspar
 getling
 goldenest
+gorgoneum
 grilles
 getpenny
 gagelike
@@ -4360,7 +4361,6 @@ golems
 gearcases
 germinate
 gongs
-gorgoneum
 guestling
 gutted
 ghaut
