@@ -1469,7 +1469,6 @@ balking
 backbiter
 boyarisms
 blighter
-balkish
 bodaciously
 bahadurs
 beggar
@@ -5222,6 +5221,7 @@ ballistophobia
 bumpkinet
 berating
 bardish
+balkish
 bacteriostatic
 beggarhood
 bergamots

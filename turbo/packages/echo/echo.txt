@@ -5576,7 +5576,6 @@ energistic
 expirer
 europe
 epistemology
-explodable
 extremists
 elysium
 esophoria
@@ -11968,6 +11967,7 @@ enteromesenteric
 evaporation
 epitaphist
 eelcatcher
+explodable
 enfree
 excitations
 escapees
