@@ -18042,7 +18042,6 @@ attrap
 antipodean
 atopen
 archimandrites
-aprioristically
 atrazines
 acrologies
 aggressors
@@ -22647,6 +22646,7 @@ agreers
 arseniuret
 athar
 augur
+aprioristically
 athecae
 alarge
 appender
