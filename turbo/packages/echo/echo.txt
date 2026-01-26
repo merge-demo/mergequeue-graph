@@ -3814,6 +3814,7 @@ echinostomiasis
 espriella
 estamene
 emery
+epanadiplosis
 europa
 emerying
 emeril
@@ -11741,7 +11742,6 @@ ephydrid
 engoue
 eavedrop
 erysipelous
-epanadiplosis
 elusory
 excavating
 escheatorship
