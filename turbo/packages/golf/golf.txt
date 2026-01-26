@@ -2522,7 +2522,6 @@ gristbite
 generalise
 graciously
 glorifying
-gallfly
 gilliver
 gapeseeds
 gweduc
@@ -10360,6 +10359,7 @@ giddied
 gamins
 gainsome
 gargoyled
+gallfly
 gunda
 griddles
 glycyls

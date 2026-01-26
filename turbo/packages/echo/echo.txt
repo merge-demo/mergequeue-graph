@@ -2335,6 +2335,7 @@ extramoralist
 electrocardiogram
 enclear
 ever
+e
 eobiont
 electrocardiographic
 euphuistic
@@ -4393,7 +4394,6 @@ excentrical
 endenizen
 extispices
 enthymeme
-e
 ejaculation
 ethenic
 exhilarative
