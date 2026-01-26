@@ -2971,7 +2971,6 @@ actinisms
 arginine
 aerophysical
 anopias
-actiniums
 antiacid
 austerest
 alisma
@@ -5631,6 +5630,7 @@ againstand
 albuginitis
 antilens
 amphidromia
+actiniums
 amphistomatic
 aggrace
 ardeid
