@@ -9891,7 +9891,6 @@ childes
 crystallisation
 chemoreflex
 contrabassoon
-chemoresistance
 chemoserotherapy
 chemosynthesis
 chemosynthetic
@@ -28722,6 +28721,7 @@ coronographic
 cornage
 creosol
 creosote
+chemoresistance
 casasia
 curran
 cole
