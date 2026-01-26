@@ -3628,7 +3628,6 @@ epilatory
 eleutherism
 electrocuted
 ekka
-ennoic
 epichilium
 enwheeled
 embrectomy
@@ -9968,6 +9967,7 @@ esugarization
 endowers
 embosk
 entonement
+ennoic
 entreatment
 esurient
 extremuma
