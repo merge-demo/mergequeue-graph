@@ -1175,6 +1175,7 @@ figeaters
 flyblows
 fatbird
 favors
+fetid
 footy
 farthingdeal
 frays
@@ -1782,7 +1783,6 @@ farsalah
 forlorn
 foundery
 frivolously
-fetid
 forceless
 fackings
 fosslfying
