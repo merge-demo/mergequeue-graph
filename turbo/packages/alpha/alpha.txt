@@ -2200,6 +2200,7 @@ anguinidae
 autoptic
 assessably
 acetostearin
+arthropterous
 abbreviatory
 alginic
 amphioxides
@@ -21008,7 +21009,6 @@ ascertaining
 ametoecious
 ascertains
 ascendant
-arthropterous
 ascescency
 ascescent
 asceses
