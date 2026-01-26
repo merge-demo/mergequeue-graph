@@ -6834,7 +6834,6 @@ dissention
 danknesses
 dragnet
 deadflat
-deltic
 drammed
 domesticative
 derivative
@@ -15028,6 +15027,7 @@ derequisition
 desperate
 doggerelizing
 disrout
+deltic
 durnedest
 decided
 deformer
