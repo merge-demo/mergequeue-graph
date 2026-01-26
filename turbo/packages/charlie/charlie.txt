@@ -10376,7 +10376,6 @@ cyatholith
 chiefest
 cervalet
 chiefish
-chieftain
 chieftaincy
 chieftainess
 chieftainry
@@ -24790,6 +24789,7 @@ colinephritis
 cyanomethemoglobin
 cultivably
 cimcumvention
+chieftain
 casketlike
 clausum
 costers

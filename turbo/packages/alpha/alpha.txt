@@ -2228,7 +2228,6 @@ australia
 akinesia
 acyrological
 achromoderma
-abovesaid
 articulability
 allows
 achronism
@@ -25022,6 +25021,7 @@ argid
 apama
 awing
 adephagous
+abovesaid
 antiprohibitionist
 arusha
 awiwi
