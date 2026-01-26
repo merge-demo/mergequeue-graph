@@ -1114,7 +1114,6 @@ ganister
 gyrosyn
 goriest
 giroflore
-groat
 grooviness
 ghebeta
 gyrator
@@ -4329,6 +4328,7 @@ gardened
 gerund
 galvanoscope
 ginhouse
+groat
 gooselike
 guardedness
 gangrene
