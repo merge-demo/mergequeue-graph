@@ -4838,6 +4838,7 @@ goldurns
 goatly
 gastroenteric
 gladship
+graille
 galleylike
 gastrosplenic
 gamer
@@ -10724,7 +10725,6 @@ gentilities
 gustatorial
 groupie
 groundlessly
-graille
 gavage
 galloot
 garnish
