@@ -21789,7 +21789,6 @@ assertingly
 attitudinized
 anathematically
 abuta
-assertion
 androids
 actinologue
 avowter
@@ -23036,6 +23035,7 @@ akazgin
 abrim
 astringency
 attributing
+assertion
 atroscine
 atrous
 arbitratrix
