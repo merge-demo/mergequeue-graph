@@ -4259,7 +4259,6 @@ exfiltration
 elohim
 epicenes
 epithalamia
-escarpments
 ectogenous
 engs
 enhydra
@@ -8816,6 +8815,7 @@ eyehook
 erechtheum
 enthalpy
 euphemist
+escarpments
 exomologesis
 ebonizes
 erectable
