@@ -1721,7 +1721,6 @@ borealis
 birdcatching
 brachypyramid
 broon
-byline
 boutonniere
 belorussian
 baronial
@@ -14386,6 +14385,7 @@ barnstorm
 bombilation
 belieffulness
 broomsquire
+byline
 branchiocardiac
 bradynosus
 blowline
