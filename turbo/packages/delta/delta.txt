@@ -1288,6 +1288,7 @@ diazoic
 denari
 datives
 deplane
+demultiplex
 desmids
 dossil
 dermoptera
@@ -6751,7 +6752,6 @@ demoralizer
 detestably
 diathermic
 desilvers
-demultiplex
 demoniacal
 daeva
 dolichocephal

@@ -15230,7 +15230,6 @@ clubmen
 clayton
 chinkers
 contrivement
-claiver
 crucigerous
 ceromancy
 claywares
@@ -31282,6 +31281,7 @@ coagula
 curatrix
 curb
 citronellal
+claiver
 calycanthine
 curbable
 curber
