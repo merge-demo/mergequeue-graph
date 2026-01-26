@@ -6540,7 +6540,6 @@ dipole
 dockize
 disematism
 deavely
-duraspinalis
 dendrologic
 danda
 dioicous
@@ -18546,6 +18545,7 @@ deraignment
 disharmonizing
 deviltries
 denuding
+duraspinalis
 dourahs
 debars
 documental
