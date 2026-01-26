@@ -4303,6 +4303,7 @@ epigrammatize
 entoproct
 eloquence
 exclaustration
+electrically
 enamelist
 enamelless
 eluder
@@ -10011,7 +10012,6 @@ enfect
 euptelea
 eternalised
 enweb
-electrically
 extradict
 emotiomuscular
 electrode
