@@ -368,7 +368,6 @@ encumberment
 exoneural
 enterorrhea
 epicalyxes
-ebionite
 ebionitism
 existless
 equites
@@ -6895,6 +6894,7 @@ endiablee
 elling
 evocations
 euxenites
+ebionite
 extravaganzas
 estreats
 exiled
