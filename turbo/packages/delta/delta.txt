@@ -6563,7 +6563,6 @@ desegmentation
 dynamiters
 denigratory
 damoiselle
-dirdum
 dephlegmated
 doubtsome
 desegregated
@@ -12322,6 +12321,7 @@ dutchess
 detracted
 dactyl
 dromaeognathous
+dirdum
 dielectrics
 doitrified
 decolorimeter
