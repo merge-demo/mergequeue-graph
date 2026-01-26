@@ -1284,7 +1284,6 @@ gnatsnapper
 ganges
 granch
 giddying
-gunnels
 gable
 ginkgo
 gloria
@@ -4519,6 +4518,7 @@ generalate
 goosebill
 geometrid
 grating
+gunnels
 goupen
 greegree
 girdles
