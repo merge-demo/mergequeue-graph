@@ -4972,6 +4972,7 @@ enders
 exposal
 employment
 endgate
+enrage
 enneads
 extorsively
 emplane
@@ -10599,7 +10600,6 @@ euclidian
 epicoeliac
 exhalant
 eucone
-enrage
 electrotechnic
 ecstasis
 expensing
