@@ -3110,6 +3110,7 @@ eightieths
 epistolatory
 ecdysones
 echinorhinidae
+ekphoria
 etheriidae
 entombed
 epitomised
@@ -12073,7 +12074,6 @@ enantiomorphism
 expressor
 easels
 emblazonry
-ekphoria
 expostulation
 extollingly
 erepsin
