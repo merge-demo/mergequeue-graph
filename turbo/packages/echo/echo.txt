@@ -317,6 +317,7 @@ elfship
 euboic
 eastling
 embetter
+entwist
 escots
 engaze
 eastman
@@ -9101,7 +9102,6 @@ epigones
 equinoxes
 embordered
 erythropsia
-entwist
 etruscan
 erythropsin
 eltrot
