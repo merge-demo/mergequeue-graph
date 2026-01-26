@@ -4641,7 +4641,6 @@ granophyre
 gynecocratic
 gerbilles
 gossoon
-glassin
 giddyberry
 gallinazo
 guisard
@@ -4779,6 +4778,7 @@ grubstreet
 gastrosopher
 glady
 gamophagia
+glassin
 glassen
 glans
 goodwilies
