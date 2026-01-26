@@ -10125,7 +10125,6 @@ diploids
 daddle
 demihigh
 dingeing
-dorsoventrally
 duraquara
 dinghee
 distune
@@ -14303,6 +14302,7 @@ dominicker
 daubier
 dytiscus
 ditokous
+dorsoventrally
 dichrooscope
 dibasic
 ditolyl
