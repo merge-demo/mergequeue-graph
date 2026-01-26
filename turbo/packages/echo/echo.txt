@@ -5633,7 +5633,6 @@ ectocelic
 extranatural
 everbearing
 enigmatic
-elephanta
 eng
 esurience
 evangelicals
@@ -9926,6 +9925,7 @@ embolisms
 extraneousness
 estovers
 estradiol
+elephanta
 electrothermics
 emphasis
 epicentrum
