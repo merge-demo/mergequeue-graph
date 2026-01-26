@@ -5256,6 +5256,7 @@ diancecht
 dentality
 dentaliums
 dakoit
+diseconomy
 delphinapterus
 dentallia
 distress
@@ -11892,7 +11893,6 @@ dandiacal
 defeasive
 diseasedness
 diseases
-diseconomy
 diastemata
 dicetyl
 diplostemonous
