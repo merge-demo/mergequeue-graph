@@ -3918,6 +3918,7 @@ gigawatts
 glossoscopia
 geoty
 gads
+gomorrhean
 gorgoneioneia
 gutterblood
 guested
@@ -4225,7 +4226,6 @@ guncotton
 gantang
 gruelled
 ghalva
-gomorrhean
 grumpiness
 gibblegabbler
 graveclothes
