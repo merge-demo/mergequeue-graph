@@ -5100,6 +5100,7 @@ gregarinous
 glali
 gnatflower
 gaumed
+gabriel
 grumbly
 gomarian
 glider
@@ -9383,7 +9384,6 @@ gesticulating
 grosshead
 grosso
 gowans
-gabriel
 geothermic
 grouchingly
 genocide
