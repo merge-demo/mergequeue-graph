@@ -1596,6 +1596,7 @@ depayse
 daikering
 doryanthes
 disinfector
+desto
 deadwork
 deaerated
 dorsum
@@ -7067,7 +7068,6 @@ domajig
 demesmerize
 descriptiveness
 disorient
-desto
 disvalues
 darted
 damselfish
