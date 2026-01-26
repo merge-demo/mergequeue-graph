@@ -2842,7 +2842,6 @@ gaberdine
 guildship
 guser
 gullish
-genuflects
 glanduliform
 glossiphonidae
 geol
@@ -8376,6 +8375,7 @@ gallinacei
 groundman
 gauziness
 geullah
+genuflects
 gelid
 gurging
 gheber
