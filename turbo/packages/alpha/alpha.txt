@@ -4755,7 +4755,6 @@ adroop
 astrometeorological
 aerations
 abbreviator
-avaunt
 anthologizing
 aftermath
 adenochondroma
@@ -6930,6 +6929,7 @@ ayurveda
 aptitudes
 aivers
 adenodiastasis
+avaunt
 aerofoils
 aiwan
 annamitic
