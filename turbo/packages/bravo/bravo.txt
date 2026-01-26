@@ -5395,7 +5395,6 @@ bedways
 babelic
 blastomycotic
 bakshish
-begummed
 boat
 barbacoa
 behallow
@@ -8866,6 +8865,7 @@ blondness
 binomials
 blunthead
 bractlets
+begummed
 bikinied
 bombycids
 boxtops
