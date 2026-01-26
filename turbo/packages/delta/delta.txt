@@ -1723,7 +1723,6 @@ dumetose
 didus
 deasil
 dearness
-douanier
 dispensations
 defensibility
 deaspiration
@@ -3709,6 +3708,7 @@ devisable
 dehydrogenisation
 daddling
 delustrant
+douanier
 dackering
 digram
 deprivation
