@@ -5724,6 +5724,7 @@ archivault
 agennetic
 aciculate
 atoning
+abolete
 autocoder
 adawn
 awl
@@ -21038,7 +21039,6 @@ ascidiform
 attour
 ascidioid
 assation
-abolete
 amarant
 abderite
 archipelago
