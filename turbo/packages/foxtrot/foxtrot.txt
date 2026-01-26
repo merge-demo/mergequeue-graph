@@ -1594,6 +1594,7 @@ factories
 fibrinogen
 filespec
 fabled
+flanched
 forebowels
 floristic
 favorites
@@ -8679,7 +8680,6 @@ falconine
 fumistery
 foretastes
 filicoids
-flanched
 folkboat
 fireboot
 filler
