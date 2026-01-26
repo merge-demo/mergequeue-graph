@@ -9924,7 +9924,6 @@ berkeleyism
 bitterheartedness
 birdlife
 bitterishness
-begulfs
 buildup
 bitterness
 beggarly
@@ -13814,6 +13813,7 @@ beehive
 bowerlet
 begins
 bagreef
+begulfs
 bergsonian
 baptizes
 belittles
