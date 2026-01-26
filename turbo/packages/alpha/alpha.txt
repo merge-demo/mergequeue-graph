@@ -4266,7 +4266,6 @@ adrenitis
 archcount
 adrenochrome
 adrenosterone
-adrenocorticotrophic
 ammonolysis
 albuminosis
 adrenocorticotropic
@@ -16860,6 +16859,7 @@ acromonogrammatic
 aphthong
 arkite
 admittedly
+adrenocorticotrophic
 apyrene
 anaerobe
 apiaca
