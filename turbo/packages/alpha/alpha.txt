@@ -11664,6 +11664,7 @@ anaetiological
 actinophorous
 apostematic
 axises
+astroscopy
 alban
 amigo
 anagap
@@ -22493,7 +22494,6 @@ aleurones
 astrophotographic
 appallment
 astrophotometer
-astroscopy
 autocratorical
 astroscopus
 astrospectral
