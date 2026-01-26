@@ -1020,7 +1020,6 @@ binders
 baiera
 boti
 bibliology
-bioavailability
 baiginet
 biparental
 brichen
@@ -2745,6 +2744,7 @@ barolo
 bm
 benab
 bukeyef
+bioavailability
 barology
 barolong
 boroughship
