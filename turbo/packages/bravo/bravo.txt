@@ -3516,7 +3516,6 @@ brabbling
 balotade
 blue
 batfishes
-bioclimatician
 biri
 batfowl
 bassists
@@ -10941,6 +10940,7 @@ basta
 beckets
 bartonia
 beadroll
+bioclimatician
 blinker
 balancewise
 bitterful
