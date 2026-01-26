@@ -12569,7 +12569,6 @@ disintegrator
 deifications
 disintegrators
 dextrer
-disintegrity
 disinter
 diagenetic
 disinterest
@@ -13015,6 +13014,7 @@ durant
 dopiness
 disparity
 disruptability
+disintegrity
 dispeed
 dispark
 declarer
