@@ -9109,7 +9109,6 @@ didynamous
 diffractometer
 dunnage
 druggiest
-drummer
 divorceuse
 dido
 didodecahedron
@@ -10409,6 +10408,7 @@ dispowder
 doglegging
 disfigurative
 dudgeons
+drummer
 deticking
 diphysite
 damask
