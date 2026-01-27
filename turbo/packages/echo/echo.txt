@@ -5515,7 +5515,6 @@ enucleator
 electrophobia
 erroneousness
 essentiality
-endostome
 eugenists
 enfants
 enfiled
@@ -12910,6 +12909,7 @@ ethnographical
 effluvias
 earstones
 eggberries
+endostome
 electropuncturing
 evzone
 emetia
