@@ -4092,7 +4092,6 @@ frondescing
 fakers
 flatnesses
 foreprovided
-fabulosity
 fylgjur
 foolship
 finnicize
@@ -8125,6 +8124,7 @@ feeble
 flasklet
 factorist
 floodplain
+fabulosity
 flamboyer
 formalized
 feasances
