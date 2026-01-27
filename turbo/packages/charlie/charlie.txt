@@ -1847,7 +1847,6 @@ camay
 camaieu
 camail
 camailed
-calzada
 camaka
 camaldolese
 camaldolesian
@@ -25053,6 +25052,7 @@ cleptobiosis
 counterbalancing
 coregnant
 coregonid
+calzada
 chlorinate
 coreidae
 caeciform
