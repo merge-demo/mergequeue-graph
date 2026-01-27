@@ -783,7 +783,6 @@ euplotid
 extravisceral
 evincibly
 eggment
-electrophotography
 ectasis
 endothia
 exequies
@@ -6869,6 +6868,7 @@ entomosporium
 ellipsoidal
 equalization
 endangered
+electrophotography
 electrum
 endamageable
 ectocardia
