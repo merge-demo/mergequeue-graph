@@ -9834,7 +9834,6 @@ fluorenyl
 freddy
 foretokens
 fennoman
-ferronatrite
 freudist
 friar
 freeboot
@@ -11245,6 +11244,7 @@ feuilleton
 funky
 filter
 functional
+ferronatrite
 fylfot
 finnicking
 fornent
