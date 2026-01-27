@@ -6014,6 +6014,7 @@ flanker
 fictionise
 fluoresce
 fetiparous
+feedbin
 fustic
 fleam
 formulism
@@ -9977,7 +9978,6 @@ facias
 fragment
 forcers
 frigolabile
-feedbin
 franco
 fumigate
 feloniousness
