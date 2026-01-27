@@ -9544,6 +9544,7 @@ emigree
 euchromatic
 electrolysed
 embeam
+enthraldom
 eupatoriaceous
 earls
 eskualdun
@@ -11531,7 +11532,6 @@ epineolithic
 enervate
 edital
 enviable
-enthraldom
 ensign
 engendered
 enkerchief
