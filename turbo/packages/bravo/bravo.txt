@@ -4362,7 +4362,6 @@ beck
 bowman
 benedictive
 boehmites
-brickier
 bullimong
 becky
 becking
@@ -17375,6 +17374,7 @@ bloodmobiles
 bunged
 busheling
 buccinator
+brickier
 bimorphemic
 bijection
 bunghole

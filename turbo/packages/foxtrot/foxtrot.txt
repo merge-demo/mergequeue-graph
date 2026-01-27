@@ -1848,6 +1848,7 @@ fellahin
 feudalize
 fops
 flabellum
+formalisation
 fating
 foresees
 feedbags
@@ -6917,7 +6918,6 @@ freeway
 finely
 facia
 fedarie
-formalisation
 foretrace
 forbode
 fastball
