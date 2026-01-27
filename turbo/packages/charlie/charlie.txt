@@ -14671,7 +14671,6 @@ conforbably
 chayote
 cowbyre
 cyanogenetic
-colorimeter
 cystoschisis
 cariole
 conurbations
@@ -25343,6 +25342,7 @@ cornerstone
 cornet
 cornetcy
 cornetcies
+colorimeter
 cornetfishes
 chunkier
 cornetist
