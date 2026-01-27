@@ -4848,7 +4848,6 @@ chem
 crosspost
 cressida
 conjuror
-contrariantly
 coffea
 carr
 carrack
@@ -7669,6 +7668,7 @@ cerianthidae
 convolvulin
 calculable
 cerillo
+contrariantly
 cerimans
 cerine
 chattelhood
