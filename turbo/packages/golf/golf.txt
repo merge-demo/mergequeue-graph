@@ -8121,6 +8121,7 @@ gloomless
 gadflies
 gooey
 granuloblastic
+gatekeepers
 granulocyte
 gerontal
 galbanum
@@ -9056,7 +9057,6 @@ gigahertz
 gentianwort
 ghast
 grimme
-gatekeepers
 grillroom
 gleet
 gymnasial
