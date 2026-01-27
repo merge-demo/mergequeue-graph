@@ -844,6 +844,7 @@ eddic
 entourages
 epistolizer
 eigenfunction
+englander
 erythrocytolysin
 electrocution
 ensorcerize
@@ -11303,7 +11304,6 @@ evaporators
 extraforaneous
 ecurie
 equisurface
-englander
 enrank
 entirety
 eagles
