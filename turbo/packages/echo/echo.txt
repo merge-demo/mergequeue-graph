@@ -4020,7 +4020,6 @@ enringing
 evangelised
 encyclopaedism
 embroils
-epitheca
 elses
 enamelers
 exterminated
@@ -5879,6 +5878,7 @@ edeitis
 enhancing
 enharbour
 exocytosis
+epitheca
 endsweep
 eurytopicity
 exoenzymic
