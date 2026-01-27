@@ -18193,7 +18193,6 @@ acidemias
 anomalopteryx
 aquavits
 amantillo
-asseverating
 aberuncator
 aporphin
 allocatable
@@ -24792,6 +24791,7 @@ autologous
 anticonstitutionalism
 anitrogenous
 avifauna
+asseverating
 alethea
 avifaunae
 avifaunas
