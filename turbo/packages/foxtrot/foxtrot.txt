@@ -4020,6 +4020,7 @@ foredawn
 forasmuch
 fissural
 faveolus
+fervorless
 fingram
 fossilisable
 fanfolds
@@ -8903,7 +8904,6 @@ foul
 frotted
 fogger
 finesse
-fervorless
 foulder
 flatteners
 fouled
