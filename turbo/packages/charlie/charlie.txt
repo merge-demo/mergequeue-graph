@@ -15855,7 +15855,6 @@ contentness
 cleaver
 cleavers
 crusilee
-coremaker
 capacitance
 clechee
 constants
@@ -24363,6 +24362,7 @@ coolest
 cattleless
 coned
 crosspiece
+coremaker
 coolheadedly
 conchyle
 coolie
