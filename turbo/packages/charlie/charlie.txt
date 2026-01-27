@@ -5854,7 +5854,6 @@ categoric
 coliidae
 chondrified
 cessionary
-categorically
 categories
 corollaries
 cardiazol
@@ -17775,6 +17774,7 @@ codebreaker
 codebtor
 conceptualizations
 clothy
+categorically
 codebtors
 carrotiness
 codec
