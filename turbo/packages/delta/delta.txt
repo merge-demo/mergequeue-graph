@@ -394,7 +394,6 @@ dadap
 daimyos
 drinkers
 diluents
-daimiote
 defension
 deployable
 didunculus
@@ -14750,6 +14749,7 @@ dasycladaceous
 delectated
 divinator
 duppy
+daimiote
 disabusal
 diaheliotropically
 dezincify
