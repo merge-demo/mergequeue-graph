@@ -4049,7 +4049,6 @@ gratten
 gelechiid
 goosemouth
 gaulic
-gaufer
 greenkeeper
 gudget
 glorification
@@ -7270,6 +7269,7 @@ glassblowing
 glossotomies
 ginsengs
 giglio
+gaufer
 grumness
 gladstonian
 geochronic

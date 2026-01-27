@@ -11967,7 +11967,6 @@ epitaphist
 eelcatcher
 explodable
 enfree
-excitations
 escapees
 escapes
 ebriously
@@ -13197,6 +13196,7 @@ expressivity
 elkanah
 eastertide
 empiriocritcism
+excitations
 encephala
 echinite
 empyreal
