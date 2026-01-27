@@ -123,7 +123,6 @@ assertive
 archaeographic
 awesomeness
 aulostoma
-abasic
 anachueta
 alcarraza
 amused
@@ -23360,6 +23359,7 @@ apotheosis
 auca
 almery
 anisocratic
+abasic
 atrepsy
 achaenocarp
 autota
