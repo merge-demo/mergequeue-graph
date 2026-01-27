@@ -8028,7 +8028,6 @@ arithmetically
 amphide
 alforja
 alfreda
-alfenide
 alfresco
 asianic
 alberge
@@ -12153,6 +12152,7 @@ ancestral
 antlerite
 ancestry
 autocue
+alfenide
 astronautical
 allodge
 andaman
