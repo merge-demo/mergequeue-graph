@@ -1497,7 +1497,6 @@ floatability
 fungillus
 faultiest
 fishmeal
-fairgoer
 fairlead
 focsle
 fila
@@ -2038,6 +2037,7 @@ fractionizing
 freshens
 farmers
 fieldwards
+fairgoer
 fathomage
 frogger
 furrowing
