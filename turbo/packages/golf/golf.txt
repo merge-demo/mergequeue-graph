@@ -596,7 +596,6 @@ ginhound
 galut
 geohydrology
 globelet
-gladding
 gallicizer
 galliform
 gomphrena
@@ -10850,6 +10849,7 @@ granoblastic
 garruline
 grewsomeness
 gweed
+gladding
 gravidation
 gweeon
 girds
