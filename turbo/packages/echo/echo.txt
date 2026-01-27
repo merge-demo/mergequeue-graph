@@ -7334,6 +7334,7 @@ embowerment
 ephesian
 ersatzes
 euclases
+ephemerides
 eucyclic
 epeirogenesis
 evocativeness
@@ -12217,7 +12218,6 @@ elevener
 erodable
 ergotine
 eskuara
-ephemerides
 emmental
 exhibiters
 ecclesiolater
