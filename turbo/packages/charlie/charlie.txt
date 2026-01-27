@@ -4139,7 +4139,6 @@ chughole
 cardinalis
 closehearted
 cichlids
-cardiomegalia
 caffa
 clerihew
 carmine
@@ -21688,6 +21687,7 @@ condiment
 condimentary
 citatum
 carcharhinus
+cardiomegalia
 cinerarias
 cloths
 cheiromegaly
