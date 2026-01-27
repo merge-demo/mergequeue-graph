@@ -7383,6 +7383,7 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
+campulitropous
 cryostats
 cervisia
 consorted
@@ -9455,7 +9456,6 @@ cubits
 catted
 characterisation
 cheater
-campulitropous
 copyrights
 carboxyl
 cussword

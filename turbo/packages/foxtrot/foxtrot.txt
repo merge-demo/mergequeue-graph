@@ -8842,7 +8842,6 @@ fossage
 female
 foreknowingly
 fidel
-fearable
 flexured
 friss
 forthcome
@@ -10287,6 +10286,7 @@ figuriste
 frolicsome
 fishful
 fratched
+fearable
 frammit
 fibrinolysin
 furnishness
