@@ -7869,6 +7869,7 @@ generic
 guiltily
 gramophonic
 garreteer
+gm
 gruelling
 gasifiable
 gametangium
@@ -8807,7 +8808,6 @@ gentianaceous
 gustoes
 gallus
 globate
-gm
 gunne
 greegrees
 gooses
