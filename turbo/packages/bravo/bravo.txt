@@ -944,7 +944,6 @@ bandyball
 bricksetter
 bismarine
 boscage
-berryless
 bivinyl
 battlesome
 biopsychic
@@ -9869,6 +9868,7 @@ bromals
 bityite
 botcher
 burnsian
+berryless
 banderols
 bitmap
 buccaneering
