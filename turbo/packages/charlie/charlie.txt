@@ -5734,7 +5734,6 @@ creamware
 catoptromancy
 catastate
 catasterism
-catastrophal
 cryptologist
 cystoepiplocele
 catastrophic
@@ -12713,6 +12712,7 @@ ceratomania
 crinite
 catakinesis
 concede
+catastrophal
 catafalques
 cobaltous
 cataloguize
