@@ -7824,7 +7824,6 @@ birdseyes
 brooklyn
 bicephalous
 barouche
-bogman
 biface
 bark
 bronzy
@@ -10108,6 +10107,7 @@ bewhiskered
 blabbering
 blabbermouths
 blabbing
+bogman
 bandaid
 blabmouth
 bravadoism
