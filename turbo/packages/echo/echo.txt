@@ -845,6 +845,7 @@ electrocution
 ensorcerize
 entering
 encomiastical
+escallops
 endophyte
 ectoparasite
 exemptionist
@@ -10585,7 +10586,6 @@ equiprobable
 euphroes
 enteria
 entosternal
-escallops
 earthiness
 euchrome
 euclideanism
