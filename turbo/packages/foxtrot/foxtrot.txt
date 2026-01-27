@@ -1521,6 +1521,7 @@ faulx
 flugelman
 faults
 fastidiously
+faunch
 factionary
 ferruminating
 florigen
@@ -9729,7 +9730,6 @@ fremd
 fastigiated
 fafaronade
 festinate
-faunch
 facework
 fluviograph
 flabs
