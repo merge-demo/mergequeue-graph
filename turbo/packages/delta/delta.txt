@@ -27,6 +27,7 @@ disa
 desmine
 deltiology
 dodkin
+dukeling
 dependance
 dabs
 dabsters
@@ -4209,7 +4210,6 @@ downcry
 diluvial
 disacknowledge
 deltas
-dukeling
 desipiency
 dopaminergic
 disputatious
