@@ -27132,7 +27132,6 @@ countertime
 cellulipetal
 cacophonical
 calcines
-countertype
 cooter
 classisms
 countertouch
@@ -29637,6 +29636,7 @@ collegiation
 concatenary
 crocking
 creedmore
+countertype
 crocko
 clavering
 cystadenoma
