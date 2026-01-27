@@ -2563,7 +2563,6 @@ extremes
 exploitatively
 enchanters
 etrogs
-electron
 elastins
 exenteration
 ethchlorvynol
@@ -7426,6 +7425,7 @@ erratical
 ecchondrotome
 ephestia
 enregistering
+electron
 episynaloephe
 emphatical
 encyclicals
