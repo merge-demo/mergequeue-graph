@@ -1125,6 +1125,7 @@ fleabites
 fords
 flatiron
 foretime
+fanwort
 farsightedness
 flooring
 faciocervical
@@ -3578,7 +3579,6 @@ fragmentised
 fableland
 fundal
 fogus
-fanwort
 figurize
 foxery
 flavored
