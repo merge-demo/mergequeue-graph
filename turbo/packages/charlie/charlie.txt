@@ -13952,7 +13952,6 @@ cinquains
 counterrevolutionize
 cinquanter
 cinque
-cinquecentist
 coquetries
 crowl
 cinquefoil
@@ -29604,6 +29603,7 @@ croatan
 confrontational
 crinion
 crawlsome
+cinquecentist
 commemoratory
 crocanthemum
 croceic
