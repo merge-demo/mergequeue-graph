@@ -1689,7 +1689,6 @@ dumortierite
 dearest
 duopolist
 deposition
-deadeners
 dottel
 decrementless
 dehumanisation
@@ -4040,6 +4039,7 @@ delict
 deaquation
 dactylography
 deliquescence
+deadeners
 divertila
 delictual
 drearisome
