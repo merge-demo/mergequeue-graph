@@ -6148,6 +6148,7 @@ fluxation
 flosser
 forever
 fumiferana
+fistle
 forensal
 future
 funnyman
@@ -9028,7 +9029,6 @@ fizelyite
 frankenstein
 feeling
 flimflammer
-fistle
 fragile
 frotting
 fregatidae
