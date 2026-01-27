@@ -6427,7 +6427,6 @@ euctical
 euphemiser
 eskars
 encroachment
-extensionless
 eyebeam
 embroideries
 elvira
@@ -10327,6 +10326,7 @@ equipostile
 epifocal
 electuaries
 exosmic
+extensionless
 extemporise
 exaggerative
 eupomatiaceae
