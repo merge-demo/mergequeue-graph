@@ -8320,7 +8320,6 @@ biggen
 biggened
 baccharoid
 bakepan
-barbarous
 boastingly
 brahmani
 biliate
@@ -16013,6 +16012,7 @@ backstitching
 bronchorrhaphy
 bronchorrhea
 bronchos
+barbarous
 bogged
 bronchoscopic
 benempted
