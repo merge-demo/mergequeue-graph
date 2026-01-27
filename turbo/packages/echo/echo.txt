@@ -5378,6 +5378,7 @@ endseal
 endshake
 elfishly
 egretta
+eulamellibranchiata
 easterly
 eaglelike
 esthetology
@@ -10723,7 +10724,6 @@ ensulphur
 embedder
 epornitic
 eulachans
-eulamellibranchiata
 exanthemas
 ethylenically
 extraparochial
