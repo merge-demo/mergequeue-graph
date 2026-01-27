@@ -4441,7 +4441,6 @@ flueless
 flameproof
 fazed
 fishponds
-fishtailed
 fibrilled
 fishpotter
 finicism
@@ -5682,6 +5681,7 @@ fixatif
 flirtatiously
 flosculariidae
 flirtatiousness
+fishtailed
 fundament
 floodwater
 fungicidal
