@@ -14498,7 +14498,6 @@ drouk
 decemviri
 duumvirate
 diplomatique
-delassement
 desk
 dedition
 dene
@@ -18592,6 +18591,7 @@ dust
 delphian
 dustbins
 dustcart
+delassement
 devocalisation
 dispossessory
 dustcover
