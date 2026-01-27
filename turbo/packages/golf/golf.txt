@@ -5443,6 +5443,7 @@ gasifier
 gandhism
 glaciating
 galet
+ganocephalous
 gemellus
 gelding
 geneticism
@@ -7531,7 +7532,6 @@ goldarns
 gravimeter
 gallycrow
 glimmerite
-ganocephalous
 galinaceous
 guserid
 gigglier
