@@ -1081,6 +1081,7 @@ greyness
 grays
 gubernative
 glossic
+gymnoderinae
 gangplows
 geomalic
 glaucoma
@@ -9359,7 +9360,6 @@ goutiness
 glonoin
 gustative
 grisette
-gymnoderinae
 glided
 germanhood
 germigenous
