@@ -1069,6 +1069,7 @@ gruffish
 guck
 gremial
 grandfatherly
+goety
 gynomonoecism
 gnomonology
 gonyalgia
@@ -6331,7 +6332,6 @@ goethian
 gam
 groceries
 geotropism
-goety
 gymnolaemata
 gaels
 gloriosa
