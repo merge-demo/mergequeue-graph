@@ -5879,7 +5879,6 @@ agglutinative
 adamantine
 agglutinatively
 aarrghh
-agamobium
 agglutinize
 anathematization
 alibamu
@@ -18475,6 +18474,7 @@ arbitrager
 arbitragers
 atinga
 albuminiferous
+agamobium
 apparition
 antihunting
 arbitraments
