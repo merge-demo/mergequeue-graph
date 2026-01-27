@@ -5484,6 +5484,7 @@ ablins
 apophylaxis
 afterheat
 acalycal
+auscult
 anatifae
 archbanc
 afterhope
@@ -24758,7 +24759,6 @@ aniline
 appleberry
 approximated
 axonost
-auscult
 aviations
 aviatoriality
 aviatress
