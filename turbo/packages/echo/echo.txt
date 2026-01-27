@@ -3148,7 +3148,6 @@ embalms
 esu
 eloise
 epidermidalization
-exocoelom
 entheasm
 euphenics
 elongation
@@ -7387,6 +7386,7 @@ effeminatize
 encolumn
 etruria
 etalon
+exocoelom
 encheat
 escarpment
 expresser
