@@ -1178,6 +1178,7 @@ genio
 galactometry
 gnetums
 guffin
+globeflower
 gulls
 grinners
 galliney
@@ -8322,7 +8323,6 @@ guamachil
 gulling
 ginzo
 goldurnedest
-globeflower
 gearwheels
 gravest
 gigawatt
