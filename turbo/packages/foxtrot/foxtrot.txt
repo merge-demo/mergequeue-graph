@@ -272,6 +272,7 @@ flashiest
 flakily
 fourierite
 foreshortening
+frayproof
 ford
 febrifacient
 footpounds
@@ -7707,7 +7708,6 @@ fasciated
 fairness
 formal
 fernier
-frayproof
 foreigneering
 fulfillment
 friend
