@@ -11627,7 +11627,6 @@ embordering
 epulosis
 ew
 exacerbatingly
-expulses
 exports
 enddamaged
 exactable
@@ -12819,6 +12818,7 @@ emicant
 expansive
 ejectable
 exothecal
+expulses
 emboss
 eccentrics
 epomophorus
