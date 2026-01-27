@@ -5786,7 +5786,6 @@ cowpock
 caudillism
 catchline
 catchphrase
-cocona
 cynoscion
 catchpoled
 commation
@@ -11813,6 +11812,7 @@ choosers
 choosier
 celtiberi
 cryotherapy
+cocona
 cheaps
 choosiness
 chadar
