@@ -145,7 +145,6 @@ frugiferousness
 favus
 frankfurter
 falls
-fetalization
 fulfillers
 fjords
 foothot
@@ -10434,6 +10433,7 @@ fouling
 fidibus
 folks
 forespecified
+fetalization
 foreribs
 flodge
 fumous
