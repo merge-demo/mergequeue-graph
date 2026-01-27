@@ -1890,7 +1890,6 @@ enforest
 eisenberg
 emyd
 epidermization
-embrute
 envault
 ectorhinal
 ernst
@@ -8644,6 +8643,7 @@ emergently
 etherialised
 entoperipheral
 enameller
+embrute
 emerging
 excretions
 endosmometer
