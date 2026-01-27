@@ -3669,6 +3669,7 @@ galah
 geodetically
 glumelike
 graveyards
+glossopteris
 gothish
 ghostish
 glyceric
@@ -6406,7 +6407,6 @@ grasswidowhood
 goitrogenic
 galibi
 gephyrocercy
-glossopteris
 glassman
 gobiesocid
 gnathitis
