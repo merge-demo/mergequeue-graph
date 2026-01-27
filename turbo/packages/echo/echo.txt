@@ -8294,6 +8294,7 @@ electrodeposit
 enciphers
 elev
 expressibly
+extraspherical
 endured
 exercised
 emulating
@@ -8953,7 +8954,6 @@ europeanly
 essex
 enhort
 eon
-extraspherical
 evenings
 encephalin
 eleaticism
