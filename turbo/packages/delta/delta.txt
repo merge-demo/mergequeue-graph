@@ -14532,7 +14532,6 @@ disjointly
 demotic
 dyadic
 divinister
-deallocating
 denudant
 dissimuler
 discoverers
@@ -15092,6 +15091,7 @@ disfrequent
 dogmatise
 dogmatised
 dogmatizer
+deallocating
 dispensator
 discotheques
 darkeners
