@@ -396,7 +396,6 @@ caconymic
 cacoon
 cancroids
 calliphora
-cacophonic
 cacophonically
 cacophonists
 calyptrate
@@ -12044,6 +12043,7 @@ chorussed
 chorusses
 cathedralic
 chorussing
+cacophonic
 creatively
 coll
 combustibleness
