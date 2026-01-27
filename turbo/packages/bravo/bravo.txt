@@ -5929,7 +5929,6 @@ boomtowns
 babiche
 belting
 basidiomycete
-ballahoo
 besticking
 bedroom
 bangalay
@@ -11252,6 +11251,7 @@ biloquist
 botteghe
 bloodguiltiness
 begirdled
+ballahoo
 blouse
 basks
 blouses
