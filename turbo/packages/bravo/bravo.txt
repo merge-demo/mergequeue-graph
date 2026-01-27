@@ -6199,6 +6199,7 @@ buckjumper
 bessel
 bremely
 benic
+buccopharyngeal
 benight
 buzzed
 bandalore
@@ -16642,7 +16643,6 @@ boother
 brember
 balza
 bucconinae
-buccopharyngeal
 bucculae
 butyr
 bloused
