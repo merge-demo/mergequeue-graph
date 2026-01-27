@@ -5082,6 +5082,7 @@ flashiness
 fermerer
 fichteanism
 frowned
+fricative
 famulli
 fragrancies
 forewords
@@ -8616,7 +8617,6 @@ fieldman
 frameshift
 fungating
 farmsteading
-fricative
 flexor
 fornix
 forspent
