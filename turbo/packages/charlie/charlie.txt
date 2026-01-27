@@ -535,6 +535,7 @@ competence
 clogmaker
 chattertonian
 carbuilder
+canadol
 cungevoi
 cadged
 cacao
@@ -31584,7 +31585,6 @@ curtsied
 curucaneca
 catcalled
 curucucu
-canadol
 curucui
 copromisor
 curuminacan
