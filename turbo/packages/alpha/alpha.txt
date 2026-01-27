@@ -4820,6 +4820,7 @@ allophylic
 awedly
 agsam
 authenticatable
+apparatus
 archlute
 antemeridian
 aeroboat
@@ -17501,7 +17502,6 @@ apparat
 antidiabetic
 antigonus
 apparats
-apparatus
 appareling
 apparentements
 airify
