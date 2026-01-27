@@ -977,6 +977,7 @@ fluorids
 frape
 fastigiums
 froom
+featherbedded
 formalizer
 fillagreed
 fardage
@@ -6488,7 +6489,6 @@ feeders
 filches
 figurally
 fluted
-featherbedded
 fasinite
 fewnesses
 faintish
