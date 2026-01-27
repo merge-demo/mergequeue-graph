@@ -7680,7 +7680,6 @@ balanidae
 bezan
 bezanty
 brassiness
-bargain
 bezants
 bezazzes
 bilk
@@ -17417,6 +17416,7 @@ bipersonal
 byerite
 bushbaby
 blindest
+bargain
 bestriding
 bassoon
 bonneter
