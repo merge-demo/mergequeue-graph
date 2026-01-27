@@ -1849,6 +1849,7 @@ gregory
 grandfer
 gunfighting
 galerus
+guying
 gulinulae
 gatewaying
 gawain
@@ -9723,7 +9724,6 @@ gelants
 gaelicism
 glairing
 googolplex
-guying
 giftware
 grasswidow
 grummet
