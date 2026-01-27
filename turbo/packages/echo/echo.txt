@@ -501,7 +501,6 @@ emphyteusis
 echelle
 exhibitant
 ectrosyndactyly
-electrosurgeries
 extraphenomenal
 estate
 entosphenal
@@ -13317,6 +13316,7 @@ explosiveness
 electromyograph
 elusively
 eyepoints
+electrosurgeries
 encomendero
 expone
 ephoralty
