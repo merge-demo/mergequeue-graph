@@ -7036,7 +7036,6 @@ coolies
 cariocas
 chock
 centaur
-centaurdom
 cuvette
 centaurea
 carretta
@@ -8741,6 +8740,7 @@ chapelward
 chaperno
 custodia
 chicos
+centaurdom
 chaperonage
 chaperonless
 catesbeiana
