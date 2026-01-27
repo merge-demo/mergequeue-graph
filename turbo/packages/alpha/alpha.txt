@@ -6304,7 +6304,6 @@ aerage
 apolegamic
 anemometric
 anamorphoses
-anacoluttha
 anticlassicism
 arsonium
 airs
@@ -13990,6 +13989,7 @@ ante
 avener
 adenoviral
 alameda
+anacoluttha
 anteact
 acajou
 achloropsia
