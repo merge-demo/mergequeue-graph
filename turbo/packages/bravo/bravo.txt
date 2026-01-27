@@ -4045,7 +4045,6 @@ beams
 boldness
 begottenness
 bedeafen
-beaner
 bolewort
 beanfield
 bardling
@@ -10915,6 +10914,7 @@ budding
 blindfoldedness
 birdied
 blinding
+beaner
 bloodlessness
 bescoured
 braciolas
