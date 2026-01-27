@@ -4535,7 +4535,6 @@ exition
 expel
 expatiations
 equalised
-endpleasure
 enam
 effigies
 ectochondral
@@ -8196,6 +8195,7 @@ electromagnetist
 elephantiasic
 entanglingly
 exonerates
+endpleasure
 epilimnionia
 epistatic
 empyrosis
