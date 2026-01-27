@@ -253,6 +253,7 @@ daggles
 dochmiasis
 duckweeds
 daggling
+deplane
 daghesh
 deoxyribonuclease
 dappling
@@ -1288,7 +1289,6 @@ dusted
 diazoic
 denari
 datives
-deplane
 demultiplex
 desmids
 dossil
