@@ -4405,7 +4405,6 @@ bayeta
 brandering
 behold
 blowbys
-benedicite
 budapest
 balantidiosis
 barrators
@@ -17391,6 +17390,7 @@ bichromic
 bamboozler
 baetylic
 bungtown
+benedicite
 bosun
 bioclimatologist
 blithered

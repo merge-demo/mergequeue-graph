@@ -1349,7 +1349,6 @@ frogginess
 fendering
 famousness
 fellani
-fervour
 fathomlessness
 foiblesse
 funniment
@@ -7140,6 +7139,7 @@ footboards
 fistify
 frotteurs
 feckful
+fervour
 friszka
 footboy
 footboys
