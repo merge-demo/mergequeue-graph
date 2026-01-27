@@ -2991,6 +2991,7 @@ galleon
 goldenknop
 gorgoniacean
 gaiassa
+gazella
 gaps
 goatherdess
 grainless
@@ -4194,7 +4195,6 @@ goliath
 gammoned
 gomavel
 gynarchic
-gazella
 geumatophobia
 gradometer
 galravitch
