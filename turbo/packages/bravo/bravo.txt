@@ -2200,6 +2200,7 @@ biogeographical
 bradyauxetic
 baraita
 beetfly
+boatman
 boschboks
 bewilders
 bestove
@@ -2337,7 +2338,6 @@ bastaard
 blatancies
 bromite
 briber
-boatman
 barbita
 barbital
 brighteners
