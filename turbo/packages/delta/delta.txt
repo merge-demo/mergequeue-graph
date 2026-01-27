@@ -1579,7 +1579,6 @@ disbuds
 demand
 disposition
 deadlines
-determinatively
 desitive
 disembody
 delineature
@@ -7916,6 +7915,7 @@ dowitch
 dysyntribite
 didapper
 dolomize
+determinatively
 disease
 demur
 doublets
