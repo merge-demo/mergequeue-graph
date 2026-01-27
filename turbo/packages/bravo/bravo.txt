@@ -6949,7 +6949,6 @@ beshrews
 bebrine
 beshrivel
 beshroud
-brachiostrophosis
 bigmitt
 borlase
 baggager
@@ -15596,6 +15595,7 @@ boardable
 brisking
 briss
 backwoodsman
+brachiostrophosis
 bolsterer
 brist
 bombproof

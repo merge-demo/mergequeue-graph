@@ -2502,7 +2502,6 @@ expansivity
 embryopathology
 emender
 enervators
-endostylar
 epilepsia
 enmeshed
 eparcuale
@@ -11163,6 +11162,7 @@ enchant
 evaded
 echinoidea
 earthlier
+endostylar
 evades
 evadingly
 emprime
