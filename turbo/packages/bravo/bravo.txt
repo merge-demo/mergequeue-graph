@@ -6558,7 +6558,6 @@ borickite
 brekky
 benzothiazole
 brewings
-breastrope
 biohazard
 berberid
 bricked
@@ -12508,6 +12507,7 @@ borrows
 bannimus
 biblically
 beaus
+breastrope
 bullfist
 burseeds
 biham
