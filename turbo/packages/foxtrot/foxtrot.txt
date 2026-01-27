@@ -4111,7 +4111,6 @@ fatalness
 fossilated
 fissipedal
 ferth
-fiendful
 frosty
 feuilletons
 frameworks
@@ -5183,6 +5182,7 @@ fuse
 flavanilin
 fiscals
 fiaschi
+fiendful
 flavescence
 formican
 fingall
