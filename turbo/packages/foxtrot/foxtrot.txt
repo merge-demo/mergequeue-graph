@@ -419,6 +419,7 @@ fluxional
 fowler
 flints
 fogramity
+favorites
 fibrotic
 festae
 fibroligamentous
@@ -1599,7 +1600,6 @@ fabled
 flanched
 forebowels
 floristic
-favorites
 furstone
 fadges
 favosely
