@@ -13109,6 +13109,7 @@ bornane
 bellowed
 belows
 borneol
+bulk
 brownies
 borneols
 belaced
@@ -16493,7 +16494,6 @@ biscacha
 brushproof
 buzzes
 birdfarms
-bulk
 buckra
 bricker
 blent
