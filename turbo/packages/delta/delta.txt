@@ -14675,7 +14675,6 @@ djuka
 diaskeuast
 dk
 deflectors
-dkg
 dkl
 deadener
 decasemic
@@ -14901,6 +14900,7 @@ dodecane
 domeykite
 disciplelike
 dodecapartite
+dkg
 dodecaphonic
 diverts
 demibastion
