@@ -2595,7 +2595,6 @@ acquest
 anthropidae
 armenite
 arriswise
-acquiesce
 addiction
 acanthopterous
 autocytolytic
@@ -23940,6 +23939,7 @@ ataxite
 amphibologism
 authorhood
 acaridae
+acquiesce
 admonishing
 authorised
 adenoidal
