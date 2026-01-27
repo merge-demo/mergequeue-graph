@@ -9917,7 +9917,6 @@ geoglyphic
 gedd
 galerite
 geogenetic
-ghatwal
 glozer
 grabbots
 guardianship
@@ -10585,6 +10584,7 @@ gigging
 garbanzo
 gallbladder
 glossmeter
+ghatwal
 gadidae
 geohydrologist
 gourmetism
