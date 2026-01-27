@@ -5732,7 +5732,6 @@ frustule
 flocking
 fenmen
 flited
-freen
 frontate
 foge
 freckliness
@@ -10815,6 +10814,7 @@ fullering
 farmerette
 fort
 floundered
+freen
 faintful
 fridge
 flustra
