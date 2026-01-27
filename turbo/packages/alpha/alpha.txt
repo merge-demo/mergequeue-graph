@@ -14076,7 +14076,6 @@ antehypophysis
 arterialisation
 antheming
 antidynamic
-antejudiciary
 antelocation
 astronautic
 abrico
@@ -14878,6 +14877,7 @@ alphorn
 autohemolysin
 acceptilate
 anticker
+antejudiciary
 anticking
 asseth
 arraignableness
