@@ -5098,7 +5098,6 @@ encryptions
 expression
 endodontology
 enneagynous
-exundancy
 enoch
 electroosmotic
 euphorbiaceae
@@ -11453,6 +11452,7 @@ evictions
 emboldens
 evictor
 earned
+exundancy
 evidences
 ethereous
 ecphonesis
