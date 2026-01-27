@@ -3892,7 +3892,6 @@ fumigators
 fusinist
 fluoridated
 fullage
-folios
 fustianize
 frostproof
 frolicsomely
@@ -5187,6 +5186,7 @@ fingall
 flytrap
 flatnose
 flavescent
+folios
 funguses
 farse
 fulfil
