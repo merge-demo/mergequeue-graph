@@ -1641,6 +1641,7 @@ formicoidea
 frothiest
 feltmaking
 frolickers
+fortin
 fondak
 frankincense
 faxes
@@ -8502,7 +8503,6 @@ fecundities
 formelt
 ferritic
 filmsetter
-fortin
 frondesce
 fluorane
 formatter
