@@ -11370,7 +11370,6 @@ extraction
 epsom
 ethnomusicologist
 endodontics
-enneasemic
 endoscopically
 exuvia
 eponymist
@@ -11987,6 +11986,7 @@ excitons
 embosses
 experimentee
 excitosecretory
+enneasemic
 excitovascular
 enamouring
 exclaiming
