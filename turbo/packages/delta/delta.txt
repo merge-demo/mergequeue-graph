@@ -1421,6 +1421,7 @@ digitals
 delis
 drapability
 dissatisfactoriness
+demountable
 desipient
 disintegrable
 dulcid
@@ -4929,7 +4930,6 @@ duncedom
 dragontail
 dephosphorize
 draggled
-demountable
 dribbles
 devastators
 demounts
