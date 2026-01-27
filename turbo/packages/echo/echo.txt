@@ -2198,7 +2198,6 @@ epistome
 expanded
 esophagoplication
 eldermen
-entailing
 expeditionist
 enumerating
 extensile
@@ -14090,6 +14089,7 @@ extremeness
 effeminate
 eurythmy
 ethnologist
+entailing
 esteem
 evolutionistically
 episternum
