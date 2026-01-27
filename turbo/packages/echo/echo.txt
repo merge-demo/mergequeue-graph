@@ -5346,7 +5346,6 @@ esquiline
 empyreum
 eophyte
 encaptive
-eccentrometer
 exceptive
 endothermal
 endothermy
@@ -13690,6 +13689,7 @@ eurygnathic
 ells
 exterminatrix
 extraconscious
+eccentrometer
 ebulliometry
 edaphosauria
 eructing
