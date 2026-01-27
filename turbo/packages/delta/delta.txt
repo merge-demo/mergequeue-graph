@@ -13671,7 +13671,6 @@ dequantitate
 diedral
 dissimilate
 depletion
-dissimilative
 dangered
 dandyishly
 dognapper
@@ -15593,6 +15592,7 @@ dehnstufe
 deracinating
 dyvours
 doodlebug
+dissimilative
 doodlers
 doodlesack
 demeanors
