@@ -12211,6 +12211,7 @@ bolognese
 balaenopteridae
 birdling
 besmut
+blowtorch
 bedsore
 broos
 brailling
@@ -15688,7 +15689,6 @@ braggiest
 bepuzzlement
 babool
 badgemen
-blowtorch
 broadling
 bifurcation
 buggies
