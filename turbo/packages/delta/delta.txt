@@ -4021,7 +4021,6 @@ delicate
 disposingly
 delicately
 dermatomycosis
-denier
 darknesses
 domicil
 deafly
@@ -11615,6 +11614,7 @@ dragooner
 divell
 dismemberer
 discordable
+denier
 discordance
 dedenda
 discordancy
