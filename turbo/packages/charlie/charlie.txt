@@ -10257,7 +10257,6 @@ campanulated
 clitoritis
 cauterising
 chicanery
-chicaneries
 chicaners
 convallarin
 chicanes
@@ -28629,6 +28628,7 @@ coccogonium
 condisciple
 chally
 catechus
+chicaneries
 cremationism
 coliseums
 caulerpaceae
