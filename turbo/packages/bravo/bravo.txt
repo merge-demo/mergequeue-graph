@@ -14987,7 +14987,6 @@ billowier
 brecht
 burghmoot
 bungholes
-billitonite
 brechtian
 bunchberries
 bennettites
@@ -17261,6 +17260,7 @@ barriness
 blamably
 bawlers
 bimethyl
+billitonite
 burgouts
 bolographically
 bumblers
