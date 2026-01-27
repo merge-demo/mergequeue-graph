@@ -11720,7 +11720,6 @@ analcimite
 authigene
 aerophilic
 aggrieved
-aerosporin
 aiawong
 agreeably
 adenia
@@ -20173,6 +20172,7 @@ apothem
 arrau
 assiduously
 arrearage
+aerosporin
 abscisins
 aromaticity
 aphanesite
