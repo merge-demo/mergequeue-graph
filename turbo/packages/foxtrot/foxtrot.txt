@@ -2427,7 +2427,6 @@ frisco
 ferrugineous
 farandola
 flutterable
-frazer
 fulgourous
 feasters
 floodless
@@ -10387,6 +10386,7 @@ fatnesses
 fireproofness
 farmyards
 fungite
+frazer
 flusterment
 fibroplasia
 foundlings
