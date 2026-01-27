@@ -6846,7 +6846,6 @@ casketing
 cocoonery
 cementers
 cellular
-campsheeting
 caloris
 carbonatization
 cellulated
@@ -24471,6 +24470,7 @@ copaene
 copaiba
 copaifera
 cupfuls
+campsheeting
 clr
 courtliness
 circovarian
