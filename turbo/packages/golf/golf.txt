@@ -1293,7 +1293,6 @@ gestation
 garefowl
 gyrene
 grumium
-guessworker
 gnawingly
 gargalize
 grump
@@ -8183,6 +8182,7 @@ gastroplasty
 getic
 gansel
 gerontotherapies
+guessworker
 grisard
 graphitize
 glacioaqueous
