@@ -693,7 +693,6 @@ compensable
 caffeinic
 caffeins
 coctoantigen
-carries
 caffeism
 connectibly
 cud
@@ -3052,6 +3051,7 @@ cardsharps
 calabooses
 catacorner
 crystallographic
+carries
 contrastment
 cantoris
 cantors
