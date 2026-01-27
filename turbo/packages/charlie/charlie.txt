@@ -21925,7 +21925,6 @@ confesses
 coiners
 confessingly
 confessional
-confessionalism
 confessionally
 chirographary
 confessor
@@ -31241,6 +31240,7 @@ curableness
 cotyloidal
 coverlid
 curacaos
+confessionalism
 coracler
 corometer
 classification

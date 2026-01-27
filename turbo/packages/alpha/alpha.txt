@@ -8700,7 +8700,6 @@ alliancing
 affluxion
 alliant
 allicampane
-avosets
 allicient
 anglist
 anticeremonially
@@ -16125,6 +16124,7 @@ advection
 anearing
 antiseptize
 allision
+avosets
 aerospace
 acerb
 abets
