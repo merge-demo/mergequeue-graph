@@ -8486,7 +8486,6 @@ colonising
 championing
 championize
 caesium
-champions
 cytotaxonomic
 championships
 champleve
@@ -21089,6 +21088,7 @@ cotrustee
 cray
 countertheory
 comstockeries
+champions
 castanet
 comtesse
 citrates
