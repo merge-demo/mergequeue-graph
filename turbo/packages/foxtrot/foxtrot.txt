@@ -4409,6 +4409,7 @@ frogwort
 frenghi
 fraiser
 fei
+flurry
 falsary
 flawier
 fovent
@@ -5686,7 +5687,6 @@ fundament
 floodwater
 fungicidal
 fitroot
-flurry
 flippancies
 freshness
 febricide
