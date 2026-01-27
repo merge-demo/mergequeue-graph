@@ -14574,7 +14574,6 @@ barre
 brank
 brankie
 blurry
-branks
 basialveolar
 bronchi
 brankursine
@@ -17612,6 +17611,7 @@ burghers
 burgraves
 bureaucratized
 burring
+branks
 bearlet
 berberry
 burglarizing

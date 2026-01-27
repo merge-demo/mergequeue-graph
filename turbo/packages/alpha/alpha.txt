@@ -3847,7 +3847,6 @@ autocracies
 arrish
 articulary
 antiopiumite
-archrobber
 adipopexia
 apolline
 aleft
@@ -8946,6 +8945,7 @@ allosome
 allosteric
 allotee
 allotelluric
+archrobber
 anthropolithic
 allothigenetically
 antimonarchal
