@@ -11280,7 +11280,6 @@ edp
 enterprising
 eimer
 extrascholastic
-euphorbine
 evaporating
 endoarteritis
 esophagodynia
@@ -13639,6 +13638,7 @@ ectobronchium
 erme
 extends
 eponychium
+euphorbine
 extensibility
 euphemization
 experienceable
