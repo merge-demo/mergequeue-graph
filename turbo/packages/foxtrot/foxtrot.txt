@@ -771,6 +771,7 @@ ferv
 frequently
 forelouper
 fanciful
+footed
 fanciless
 foliicolous
 forestaff
@@ -2467,7 +2468,6 @@ firn
 fumbulator
 firstcomer
 fireproofing
-footed
 fishhood
 faddier
 futility
