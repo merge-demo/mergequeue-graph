@@ -3114,7 +3114,6 @@ etheriidae
 entombed
 epitomised
 elodeas
-enfaced
 esthetically
 ephebi
 elodes
@@ -5162,6 +5161,7 @@ electromagnetic
 eluviums
 exitus
 endolysin
+enfaced
 eparchy
 eretrian
 ethologies
