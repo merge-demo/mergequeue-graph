@@ -8154,7 +8154,6 @@ demurrable
 drapeability
 druidism
 didodecahedral
-digitalism
 demulcent
 desertful
 disconvenient
@@ -11521,6 +11520,7 @@ discomposed
 deaccessioned
 discomposedness
 desmachymatous
+digitalism
 deviants
 dements
 dyspnoi
