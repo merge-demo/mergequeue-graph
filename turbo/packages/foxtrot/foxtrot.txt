@@ -3111,7 +3111,6 @@ franciscans
 flashflood
 finca
 flip
-fences
 fibroins
 founderous
 fantastic
@@ -6618,6 +6617,7 @@ femalely
 fineish
 feminism
 flowerpot
+fences
 fishybacking
 fatalistically
 fizzers
