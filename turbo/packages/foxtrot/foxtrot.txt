@@ -7007,7 +7007,6 @@ filla
 functor
 frosting
 frison
-frittered
 fondues
 fictionistic
 fusees
@@ -11628,6 +11627,7 @@ fetlow
 frizzled
 fineness
 fructoses
+frittered
 ferren
 flyability
 fustiness
