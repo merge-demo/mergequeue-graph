@@ -13276,7 +13276,6 @@ albireo
 aurifex
 autosome
 abobra
-anthelminthic
 apoturmeric
 anisometric
 antimerger
@@ -17276,6 +17275,7 @@ attempts
 ampersand
 apoplex
 adamantoid
+anthelminthic
 anemometrographic
 aporhyolite
 allanites
