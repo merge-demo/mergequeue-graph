@@ -10161,6 +10161,7 @@ duskishly
 dinitrocellulose
 dink
 distractile
+didymoid
 dinka
 decatizing
 delitescency
@@ -14339,7 +14340,6 @@ ditty
 disdaining
 decardinalize
 dispassionate
-didymoid
 decrial
 defervescent
 denizen
