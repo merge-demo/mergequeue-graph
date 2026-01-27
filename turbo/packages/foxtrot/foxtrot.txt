@@ -1749,6 +1749,7 @@ fledgling
 foreordainment
 frontopontine
 featherbird
+fidele
 forfare
 foreshore
 freedman
@@ -9476,7 +9477,6 @@ fulcrate
 furculum
 fastwalk
 febricitant
-fidele
 fraternities
 fumarates
 fangs
