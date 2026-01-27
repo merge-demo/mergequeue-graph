@@ -985,7 +985,6 @@ fraise
 foyers
 forride
 fictionization
-fardel
 flannelmouth
 foxhound
 fusion
@@ -5779,6 +5778,7 @@ flittermouse
 familiarization
 fisticuffing
 fairylike
+fardel
 faking
 fellowship
 fescues
