@@ -6203,7 +6203,6 @@ gigmanic
 gytrash
 gilbertine
 glissader
-gregor
 girasole
 garrisoned
 gastrimargy
@@ -6918,6 +6917,7 @@ goodlier
 germany
 greekdom
 gharry
+gregor
 gametophobia
 grandmama
 gristhorbia
