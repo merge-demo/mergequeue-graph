@@ -3290,7 +3290,6 @@ baccalaureat
 basiotripsy
 branchway
 boobyism
-bookwork
 basipetal
 blank
 basipterygium
@@ -14736,6 +14735,7 @@ buncal
 baalite
 bercelet
 brawlsome
+bookwork
 brawnedness
 bilamellated
 biaxillary

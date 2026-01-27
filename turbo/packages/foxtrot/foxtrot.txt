@@ -2619,6 +2619,7 @@ floroscope
 framesmith
 fibrinogenic
 forecastles
+faveoli
 fervent
 formalizable
 frusta
@@ -5208,7 +5209,6 @@ fratcher
 flavoriness
 foremilks
 falcular
-faveoli
 fitful
 fierceness
 fishmen
