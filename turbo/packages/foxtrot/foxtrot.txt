@@ -461,7 +461,6 @@ foliosity
 facticity
 faithworthiness
 furunculous
-faitours
 forclose
 fornicatress
 fomented
@@ -6989,6 +6988,7 @@ flannels
 fineries
 furnacing
 figurability
+faitours
 freemason
 fondly
 fatagaga
