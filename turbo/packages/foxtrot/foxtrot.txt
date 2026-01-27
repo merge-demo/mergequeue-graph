@@ -436,7 +436,6 @@ forcefulness
 floriculturist
 faisceau
 fil
-fathoming
 firths
 forgiveably
 forelaying
@@ -9577,6 +9576,7 @@ ferrichloride
 floreated
 forgone
 factabling
+fathoming
 foller
 frederik
 freightyard
