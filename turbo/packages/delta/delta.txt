@@ -1279,7 +1279,6 @@ datiscosid
 delacerate
 drosograph
 datisi
-dative
 dorking
 datively
 dimouts
@@ -9231,6 +9230,7 @@ deforester
 diesters
 deflectable
 dearworth
+dative
 dromaeognathae
 diestock
 diestrous
