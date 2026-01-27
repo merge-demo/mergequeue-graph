@@ -1464,6 +1464,7 @@ golet
 geldesprung
 greenrooms
 glissading
+grisgris
 grece
 gisarme
 greta
@@ -8731,7 +8732,6 @@ griskin
 gerenuks
 greenish
 gurry
-grisgris
 gymnosophical
 goodlihead
 gamene
