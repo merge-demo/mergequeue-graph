@@ -952,6 +952,7 @@ gastropneumatic
 gokuraku
 grabhook
 gannets
+geometer
 groundplot
 gammock
 grouched
@@ -3807,7 +3808,6 @@ gifola
 gordolobo
 galleriies
 gruffed
-geometer
 glossophorous
 gigelira
 gaolerness
