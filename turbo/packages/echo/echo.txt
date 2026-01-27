@@ -2440,7 +2440,6 @@ enteradenographic
 electionary
 evoker
 electroendosmosis
-extollment
 epoist
 enslavements
 exterminist
@@ -2654,6 +2653,7 @@ enquiries
 electrosteel
 epispadiac
 escheated
+extollment
 ectocornea
 evil
 embiidina
