@@ -11654,6 +11654,7 @@ aruspex
 anaesthetization
 ayme
 agamy
+apronlike
 artal
 apodidae
 anaesthetized
@@ -13937,7 +13938,6 @@ amblyrhynchus
 arblast
 appennage
 algist
-apronlike
 according
 aclidian
 antagonists

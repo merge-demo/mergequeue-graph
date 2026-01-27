@@ -2531,7 +2531,6 @@ fellowman
 folsom
 fiatconfirmatio
 feeler
-frugivorous
 filamentule
 frangibility
 freebee
@@ -2580,6 +2579,7 @@ functionalities
 franked
 foud
 fossicked
+frugivorous
 footrests
 finicalness
 financist
