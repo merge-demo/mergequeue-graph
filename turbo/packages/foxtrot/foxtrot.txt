@@ -7060,6 +7060,7 @@ flowk
 fosie
 frase
 flacked
+fertilizable
 felones
 fumily
 frescade
@@ -10389,7 +10390,6 @@ fungite
 flusterment
 fibroplasia
 foundlings
-fertilizable
 frontignan
 fucate
 fronting
