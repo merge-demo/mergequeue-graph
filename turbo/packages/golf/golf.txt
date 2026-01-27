@@ -2192,7 +2192,6 @@ glucolipide
 gossipiness
 glucosic
 gravific
-granth
 grotty
 genarchship
 granted
@@ -5340,6 +5339,7 @@ gruelings
 gliddery
 gloaters
 glistered
+granth
 gigge
 gemmary
 galvanist
