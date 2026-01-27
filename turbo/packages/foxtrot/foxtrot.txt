@@ -1840,7 +1840,6 @@ featured
 fluidify
 featurelessness
 featureliness
-furrows
 firmest
 flche
 figureheadship
@@ -1882,6 +1881,7 @@ flabellation
 frutify
 fatuously
 fec
+furrows
 fight
 floruit
 feelingly
