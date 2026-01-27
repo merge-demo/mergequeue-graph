@@ -9803,6 +9803,7 @@ cunit
 chemehuevi
 chemiatric
 chemical
+carbamoyl
 chapeless
 chalybean
 corrugates
@@ -16690,7 +16691,6 @@ cirrus
 clotheslines
 clothesman
 cheerful
-carbamoyl
 catchingness
 cosuitor
 culla
