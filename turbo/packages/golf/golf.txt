@@ -5238,6 +5238,7 @@ genomes
 garnets
 guitarfish
 gliadine
+generalities
 galvanism
 geomedicine
 gurish
@@ -6770,7 +6771,6 @@ geront
 gymnogyps
 gashly
 gentilitial
-generalities
 geologically
 gynandromorphism
 gazania
