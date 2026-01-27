@@ -6938,7 +6938,6 @@ carane
 cementite
 cannery
 cementitious
-carinaria
 claudicate
 cementmaker
 candidly
@@ -10328,6 +10327,7 @@ coveting
 coprosterol
 chickories
 cowpoke
+carinaria
 chickpea
 conspirator
 chickpeas
