@@ -205,7 +205,6 @@ figuline
 fordoing
 faire
 flatway
-facular
 fruitworm
 feverroot
 fluorotype
@@ -10500,6 +10499,7 @@ fordid
 forbad
 flegm
 fluitant
+facular
 foggier
 frostings
 fanzine
