@@ -975,6 +975,7 @@ flenched
 facetiousness
 fluorids
 frape
+faultless
 fastigiums
 froom
 formalizer
@@ -10291,7 +10292,6 @@ frammit
 fibrinolysin
 furnishness
 folkmot
-faultless
 fromenty
 fusilladed
 fromenties
