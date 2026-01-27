@@ -2035,7 +2035,6 @@ beshivers
 bidactyl
 bethought
 banky
-banknote
 bristly
 biophysicist
 banknotes
@@ -8026,6 +8025,7 @@ bespatterer
 bicircular
 byrrus
 bitemporal
+banknote
 byname
 bobsleigh
 bick
