@@ -8126,7 +8126,6 @@ applicant
 anastasis
 algophagous
 algophilia
-algophilist
 albuminolysis
 acetonylacetone
 algophobia
@@ -12612,6 +12611,7 @@ antistat
 adrenalone
 antipragmatical
 azoxyanisole
+algophilist
 aestus
 atresias
 autophonoscope

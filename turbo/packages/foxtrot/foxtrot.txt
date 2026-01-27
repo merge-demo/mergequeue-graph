@@ -1019,7 +1019,6 @@ flamiest
 filmsets
 foreshop
 foreplan
-formate
 foreorder
 fenester
 flustrating
@@ -8033,6 +8032,7 @@ fumeless
 forespeaking
 facetiation
 flavorer
+formate
 feuter
 farfugium
 fletton
