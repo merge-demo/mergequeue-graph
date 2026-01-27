@@ -8546,7 +8546,6 @@ eumorphic
 enunciative
 equatorward
 etheriform
-equatorwards
 excessmen
 ectomeric
 ecalcarate
@@ -9705,6 +9704,7 @@ exceptional
 empathize
 embacle
 european
+equatorwards
 essart
 esse
 effendi
