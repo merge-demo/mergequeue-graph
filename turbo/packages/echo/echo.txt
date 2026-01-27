@@ -1463,7 +1463,6 @@ electrometric
 euphonia
 equisetums
 enplaning
-eurythermous
 electivism
 electroshocks
 embolium
@@ -11147,6 +11146,7 @@ endeavored
 epexegetical
 evulse
 entropionize
+eurythermous
 entocarotid
 expatriation
 embroiderer
