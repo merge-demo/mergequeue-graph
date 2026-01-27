@@ -1871,6 +1871,7 @@ goofy
 gourmandism
 gasconading
 galacturia
+guaiacum
 gentilesse
 grabber
 gatherers
@@ -10834,7 +10835,6 @@ girderage
 gyrograph
 galaxian
 guttar
-guaiacum
 guzul
 genotypical
 gasworker
