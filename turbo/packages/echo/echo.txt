@@ -1333,6 +1333,7 @@ electrosynthesis
 exsect
 exceptant
 embusque
+entothorax
 earthiest
 effendis
 empty
@@ -4471,7 +4472,6 @@ escudo
 encephalomeningocele
 evenglome
 endoerythrocytic
-entothorax
 eminent
 encephalomyelitic
 epochally
