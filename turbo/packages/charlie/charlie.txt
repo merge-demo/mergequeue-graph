@@ -5685,7 +5685,6 @@ catapasm
 caducity
 comprizable
 cataphyll
-correlativism
 chlorococcum
 cataphora
 cataphoresis
@@ -26184,6 +26183,7 @@ coctoprecipitin
 confectioners
 chapatis
 cosplendour
+correlativism
 caramelised
 cosponsoring
 catalytically
