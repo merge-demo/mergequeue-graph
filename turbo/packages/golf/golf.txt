@@ -1396,7 +1396,6 @@ galvanopsychic
 gossipee
 gipsying
 guilloche
-guids
 greenless
 gladiolas
 gola
@@ -5404,6 +5403,7 @@ gambist
 guran
 gus
 glossoepiglottidean
+guids
 germanly
 greenness
 glauconiidae
