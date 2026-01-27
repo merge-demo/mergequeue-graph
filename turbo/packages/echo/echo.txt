@@ -3235,6 +3235,7 @@ embuia
 elution
 embourgeoisement
 esthesiometric
+endomitotic
 enzymatically
 estocada
 effuso
@@ -5987,7 +5988,6 @@ eurhythmics
 ectodermoidal
 enumerates
 enkidu
-endomitotic
 ekatantalum
 enterospasm
 empaler
