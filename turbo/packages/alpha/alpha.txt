@@ -7857,7 +7857,6 @@ agreat
 arithmocracy
 avouched
 azodiphenyl
-adenography
 abandum
 anorthoscope
 atropines
@@ -8576,6 +8575,7 @@ ampelosicyos
 adjudicatory
 avizandum
 asterias
+adenography
 accentuates
 antibishop
 agametes
