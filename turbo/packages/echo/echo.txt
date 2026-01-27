@@ -1915,6 +1915,7 @@ eluants
 eyeleted
 enabled
 estoppal
+encrusts
 essenical
 ectene
 ejected
@@ -2753,7 +2754,6 @@ excuderunt
 elegized
 elegizes
 eleidin
-encrusts
 eutocia
 extrusions
 exhilaratory
