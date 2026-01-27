@@ -7210,7 +7210,6 @@ gratin
 globosite
 gizzen
 gromatical
-galahad
 gonoblastidial
 geriatrician
 grabbler
@@ -7365,6 +7364,7 @@ gonorrhoeic
 gonococcic
 glochidial
 gestor
+galahad
 glomerule
 gygis
 gilthead
