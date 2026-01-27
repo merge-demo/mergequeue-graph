@@ -3441,7 +3441,6 @@ campa
 capriccioso
 carers
 caprices
-capricious
 cajole
 capricornid
 conditotoria
@@ -15801,6 +15800,7 @@ clearances
 commensurately
 counterfeitness
 clearcole
+capricious
 clearedness
 clearheadedly
 cardcases
