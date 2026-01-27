@@ -4314,7 +4314,6 @@ gastrocoloptosis
 ginglymodi
 gozill
 gemstone
-glossata
 globules
 gharries
 gumbotil
@@ -10616,6 +10615,7 @@ gunsmithing
 gavelage
 grossification
 gunstocker
+glossata
 geronto
 girns
 glimmerous
