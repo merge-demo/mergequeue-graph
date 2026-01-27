@@ -3145,7 +3145,6 @@ geoscopic
 germanophilist
 geosphere
 galvanomagnetic
-gapless
 geochronologist
 germina
 grusian
@@ -3927,6 +3926,7 @@ gorgoneioneia
 gutterblood
 grotianism
 guested
+gapless
 giggliest
 geds
 genospecies

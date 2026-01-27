@@ -16259,7 +16259,6 @@ clinoid
 clinology
 clinometer
 carbonimide
-clinometry
 coryphaeus
 clinometric
 cantos
@@ -24625,6 +24624,7 @@ coplot
 comoquer
 centrutra
 cauqui
+clinometry
 coplotter
 chinoidine
 counterpaly
