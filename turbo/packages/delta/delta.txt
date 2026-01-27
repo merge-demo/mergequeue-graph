@@ -6813,6 +6813,7 @@ definition
 ducamara
 disfranchisers
 donataries
+dissatisfactorily
 decussis
 degenerates
 dextrocardial
@@ -9941,7 +9942,6 @@ derv
 disconnectiveness
 dimorphism
 dukker
-dissatisfactorily
 dally
 disparted
 desophisticate
