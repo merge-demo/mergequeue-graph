@@ -3093,7 +3093,6 @@ extraparietal
 elm
 embarrassment
 epistolographist
-edgewise
 engrossers
 eonisms
 equipoised
@@ -10637,6 +10636,7 @@ evilproof
 eisodic
 enmoss
 excavate
+edgewise
 eques
 enharmonical
 eudemonistic
