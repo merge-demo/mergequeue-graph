@@ -6760,7 +6760,6 @@ airedales
 asseverations
 avowant
 augment
-airfare
 amyctic
 airflow
 antimoralist
@@ -19742,6 +19741,7 @@ ammonium
 astrobiological
 albarellos
 aucan
+airfare
 arithmetizes
 acrosticheae
 araeostyle
