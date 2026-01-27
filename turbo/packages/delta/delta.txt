@@ -10829,7 +10829,6 @@ disemboweled
 disthene
 disguisable
 dicaryophyte
-damns
 drudging
 dirty
 donates
@@ -17620,6 +17619,7 @@ dubitant
 dexterical
 decastylar
 dichoree
+damns
 dacus
 duant
 dentigerous
