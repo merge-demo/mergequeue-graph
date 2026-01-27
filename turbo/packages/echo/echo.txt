@@ -6033,7 +6033,6 @@ evertebrate
 excruciate
 escutcheon
 encounters
-epilator
 enlightenedly
 enlistments
 erasion
@@ -13258,6 +13257,7 @@ ectocuneiform
 expatiatingly
 epitheliomata
 elapids
+epilator
 eglantine
 entomotomy
 etches
