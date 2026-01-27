@@ -2093,7 +2093,6 @@ conli
 campaign
 couponless
 clotheshorses
-cowinner
 colostric
 campana
 campane
@@ -2753,6 +2752,7 @@ chaquetas
 clarigation
 cinerama
 commercializing
+cowinner
 consorting
 cannach
 cannalling
