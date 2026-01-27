@@ -6339,7 +6339,6 @@ caunos
 caunter
 cooperator
 chucks
-caup
 colletidae
 caupo
 candelas
@@ -10175,6 +10174,7 @@ captivity
 chmn
 coggie
 chomping
+caup
 collectioner
 commonsensibly
 complaining
