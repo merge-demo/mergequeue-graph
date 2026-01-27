@@ -2871,7 +2871,6 @@ disgenius
 deepest
 denticles
 dictyopteris
-decumbent
 disfurnishment
 dermatotropic
 dugdug
@@ -6092,6 +6091,7 @@ duperies
 dichotomising
 diabantite
 deservedness
+decumbent
 derats
 deratted
 defatigation
