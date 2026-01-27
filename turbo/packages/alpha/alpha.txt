@@ -3190,7 +3190,6 @@ attributer
 actualization
 actualness
 allochromatic
-axopetal
 adderbolt
 already
 acoumetry
@@ -10629,6 +10628,7 @@ abib
 amin
 ammer
 antimonarchial
+axopetal
 aminate
 avoy
 asok
