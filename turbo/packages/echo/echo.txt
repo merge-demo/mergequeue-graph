@@ -596,7 +596,6 @@ emetics
 eurypharynx
 euro
 eciton
-eversions
 entertained
 eclaircissement
 emulsoidal
@@ -10173,6 +10172,7 @@ extravagances
 eyedropper
 exertion
 expressness
+eversions
 electrothermally
 endocarpoid
 elenctical
