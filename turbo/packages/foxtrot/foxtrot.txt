@@ -5743,6 +5743,7 @@ fictile
 flutteration
 farmage
 furyl
+furiously
 fulfilling
 flurriedly
 faailk
@@ -9724,7 +9725,6 @@ forgetter
 frenatae
 frenched
 flamenco
-furiously
 feasibly
 frenchify
 fido
