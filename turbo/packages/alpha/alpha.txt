@@ -14452,7 +14452,6 @@ anthrenus
 atwitch
 anthribidae
 antipharisaic
-antimonate
 arunta
 adjudged
 antiburgher
@@ -17911,6 +17910,7 @@ appreteur
 atloidoaxoid
 akinetic
 atherogenic
+antimonate
 appreve
 anticipation
 advected
