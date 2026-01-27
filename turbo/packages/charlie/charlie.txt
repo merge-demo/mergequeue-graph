@@ -1997,7 +1997,6 @@ camerist
 circummigrate
 campanero
 comp
-crenelates
 choliambist
 crampbit
 cameronian
@@ -27251,6 +27250,7 @@ calked
 concernment
 czarowitch
 circumlocutionary
+crenelates
 couping
 couple
 couplement
