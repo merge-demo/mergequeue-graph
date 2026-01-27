@@ -1612,7 +1612,6 @@ geneat
 giraffine
 gillies
 geoff
-gibingly
 gobiesocidae
 gingili
 gametogenesis
@@ -2434,6 +2433,7 @@ gimels
 grillage
 gemmulation
 graniferous
+gibingly
 glycohemia
 gainsayer
 ghoulish
