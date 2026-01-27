@@ -8724,7 +8724,6 @@ equities
 equivalenced
 equivalent
 ensiles
-equivaluer
 exposited
 evulgation
 extempore
@@ -10237,6 +10236,7 @@ experiences
 embedded
 expellees
 excavators
+equivaluer
 electrotherapeutic
 ethyldichloroarsine
 emphraxis
