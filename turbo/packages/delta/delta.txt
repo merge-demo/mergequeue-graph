@@ -1218,7 +1218,6 @@ devilhood
 discounting
 denasalizing
 disordination
-datapac
 decrepitated
 deleterious
 depressive
@@ -9442,6 +9441,7 @@ digestively
 dural
 digestiveness
 dipteroi
+datapac
 diamonded
 dermad
 domically
