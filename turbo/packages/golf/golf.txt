@@ -1303,6 +1303,7 @@ geodiatropism
 graced
 gingilis
 garganey
+glossotype
 gastropancreatitis
 garget
 gibbousness
@@ -8468,7 +8469,6 @@ gult
 gregarinina
 garum
 glisteningly
-glossotype
 gurgle
 gelatinization
 gravely
