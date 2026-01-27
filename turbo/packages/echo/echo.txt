@@ -5920,7 +5920,6 @@ encoffin
 expenditor
 elains
 effate
-enhunger
 emissary
 epitheliogenetic
 exigible
@@ -12414,6 +12413,7 @@ evilhearted
 exonerations
 ectypes
 exorcisement
+enhunger
 exhibitionists
 extracanonical
 exhibitions
