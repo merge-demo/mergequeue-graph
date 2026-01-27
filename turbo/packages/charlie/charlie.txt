@@ -7126,6 +7126,7 @@ casziel
 canton
 caliculus
 centimetre
+choledocholithotomy
 cashmerette
 centimetres
 cullion
@@ -15349,7 +15350,6 @@ clanjamfrey
 chalcotript
 clanjamphrey
 clanked
-choledocholithotomy
 codium
 caracter
 clanking
