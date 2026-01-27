@@ -9471,6 +9471,7 @@ flamens
 fratry
 flippery
 furnaceman
+frameless
 fulcrate
 furculum
 fastwalk
@@ -11697,7 +11698,6 @@ foretellableness
 flugelhorn
 fasciola
 fernsick
-frameless
 flaw
 fanfish
 fiancailles

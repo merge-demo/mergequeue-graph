@@ -11926,7 +11926,6 @@ choreographically
 cuds
 calculabilities
 covibrate
-crestfallenness
 cohanim
 cruces
 cosmochemistry
@@ -16464,6 +16463,7 @@ caponizes
 clocker
 clockhouse
 clockless
+crestfallenness
 cuon
 clockmaking
 crewer
