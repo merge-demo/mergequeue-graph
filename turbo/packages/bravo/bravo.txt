@@ -7856,7 +7856,6 @@ bordures
 boondoggles
 barefisted
 bibitory
-bothridiums
 bohmite
 biblical
 bobsledders
@@ -9398,6 +9397,7 @@ buriti
 bullyrook
 bulges
 birdless
+bothridiums
 bimucronate
 beads
 balbutiate
