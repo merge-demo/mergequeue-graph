@@ -1228,6 +1228,7 @@ dextrans
 datary
 dendrium
 dorsomedial
+detailedness
 datasetname
 dithers
 datcha
@@ -9737,7 +9738,6 @@ deckpipe
 dysoxidize
 dogmatiser
 dillesk
-detailedness
 daimones
 dolefish
 deicer
