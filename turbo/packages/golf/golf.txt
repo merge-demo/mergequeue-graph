@@ -565,7 +565,6 @@ gonadotrophin
 gritten
 grapiest
 germinates
-geisotherm
 gilravager
 gentlemouthed
 gudgeoning
@@ -7938,6 +7937,7 @@ grecoue
 globing
 glottologies
 gunnar
+geisotherm
 genghis
 gainer
 groupage

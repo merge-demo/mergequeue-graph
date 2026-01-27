@@ -14122,7 +14122,6 @@ aplasias
 anteoccupation
 anteocular
 awhape
-anteorbital
 animalize
 antibodies
 amphivorous
@@ -14348,6 +14347,7 @@ alleluias
 anthologising
 apothecarcaries
 appellational
+anteorbital
 atomize
 anthomaniac
 amianthium
