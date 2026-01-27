@@ -7459,7 +7459,6 @@ extricated
 endship
 eryx
 ephialtes
-encipherments
 excusal
 ebenaceae
 enif
@@ -9107,6 +9106,7 @@ experientialist
 exploding
 erythrosiderite
 exosporous
+encipherments
 egoistically
 exacerbescent
 eriglossa
