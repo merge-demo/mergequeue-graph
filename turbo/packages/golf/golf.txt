@@ -1647,7 +1647,6 @@ gastrocnemii
 gamete
 gaffed
 granulometric
-goldarned
 gardeen
 gryphon
 gastrocoel
@@ -5343,6 +5342,7 @@ glistered
 gigge
 gemmary
 galvanist
+goldarned
 gritrock
 gillotype
 gilts
