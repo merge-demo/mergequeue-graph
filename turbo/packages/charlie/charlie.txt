@@ -2951,7 +2951,6 @@ canter
 canterburian
 cladosporium
 custumals
-companionability
 cryptoprocta
 cantering
 canthal
@@ -31244,6 +31243,7 @@ coracler
 corometer
 classification
 curace
+companionability
 cabriolets
 curacoa
 curacoas
