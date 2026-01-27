@@ -3480,6 +3480,7 @@ foxtail
 fulgorid
 fusicladium
 filamentar
+frogflower
 fute
 fleetingly
 figures
@@ -4877,7 +4878,6 @@ forbidal
 forebemoan
 fusee
 flidder
-frogflower
 flatteringly
 fergusite
 fruitcakey
