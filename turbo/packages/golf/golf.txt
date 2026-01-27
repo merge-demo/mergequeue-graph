@@ -3554,6 +3554,7 @@ guises
 gourmandize
 galvanisation
 gentilitious
+galliots
 gathic
 gelatinoid
 gharnao
@@ -5045,7 +5046,6 @@ garrya
 gilled
 gigas
 garetta
-galliots
 gardenwise
 gynaecea
 grudgeful
