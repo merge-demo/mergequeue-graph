@@ -7021,7 +7021,6 @@ embowl
 eminence
 entwines
 epinikian
-enzymolytic
 encompassed
 experiencer
 enumerability
@@ -12648,6 +12647,7 @@ enkolpion
 exometritis
 excogitate
 endeavors
+enzymolytic
 emotionless
 echo
 erotized
