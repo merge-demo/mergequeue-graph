@@ -1938,6 +1938,7 @@ foreshaft
 fecalith
 frithborh
 fixure
+filbert
 feminities
 foamless
 furtherance
@@ -3231,7 +3232,6 @@ freestanding
 faradizer
 foppery
 flaught
-filbert
 freit
 feedboard
 fireburn
