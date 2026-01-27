@@ -306,7 +306,6 @@ extrema
 eirenarch
 excitement
 ependymal
-ethmopresphenoidal
 essede
 enticer
 epizoan
@@ -5643,6 +5642,7 @@ euploid
 enrange
 extrarenal
 endophasic
+ethmopresphenoidal
 erotism
 entrough
 expectorants
