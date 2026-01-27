@@ -13596,6 +13596,7 @@ diplomacies
 dilambdodont
 disagreeably
 demicritic
+denotive
 dissentive
 diavolo
 datakit
@@ -14584,7 +14585,6 @@ duckeries
 deoxyribonucleoprotein
 dismemberment
 demureness
-denotive
 demiurgically
 disastrousness
 dysfunction
