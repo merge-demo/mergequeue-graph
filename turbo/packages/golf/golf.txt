@@ -5887,6 +5887,7 @@ groveless
 goldarn
 gilgames
 grubs
+gerenuks
 glebe
 gewgawish
 grackle
@@ -8728,7 +8729,6 @@ gralloch
 gaged
 graminaceous
 griskin
-gerenuks
 greenish
 gurry
 grisgris
