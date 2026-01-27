@@ -4629,6 +4629,7 @@ gyrovagues
 gastrulated
 gloy
 gaatch
+gamasid
 gurjun
 girshes
 gipsyish
@@ -7402,7 +7403,6 @@ giga
 granduncle
 gnatproof
 geylies
-gamasid
 gotra
 germarium
 granulomatous
