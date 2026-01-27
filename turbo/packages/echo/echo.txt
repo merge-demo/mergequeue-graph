@@ -3956,6 +3956,7 @@ ecumene
 emparchment
 exaltative
 enruin
+epistasies
 expiations
 extramodal
 empatron
@@ -8196,7 +8197,6 @@ ermani
 elydoric
 emotionalizing
 epistases
-epistasies
 enhancers
 enrapturedly
 estreating
