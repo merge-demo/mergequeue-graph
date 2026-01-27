@@ -1406,7 +1406,6 @@ factotums
 fibrocaseose
 ferkin
 filmy
-fabronia
 filaree
 fermatas
 frith
@@ -1698,6 +1697,7 @@ festa
 finishing
 formularies
 falsies
+fabronia
 fearingly
 ferineness
 flook

@@ -7783,6 +7783,7 @@ globefishes
 gravidas
 gooiest
 garneter
+gustless
 glagol
 gestion
 guanche
@@ -9855,7 +9856,6 @@ gladdens
 goldenly
 gerygone
 garble
-gustless
 guanin
 gagate
 ghoom
