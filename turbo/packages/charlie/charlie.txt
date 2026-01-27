@@ -3909,7 +3909,6 @@ countertranslation
 carbonization
 charlatanism
 carbonizers
-concn
 chylificatory
 carbonizing
 carbonometer
@@ -9940,6 +9939,7 @@ crackjaw
 cephalotaceous
 chemotrophic
 chemotropically
+concn
 cheoplastic
 chempaduk
 chemurgically
