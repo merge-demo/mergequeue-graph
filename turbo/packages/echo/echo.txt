@@ -630,6 +630,7 @@ eclegma
 ehrman
 etatism
 electroethereal
+ethologies
 establishment
 etherialise
 esophagocele
@@ -5165,7 +5166,6 @@ endolysin
 enfaced
 eparchy
 eretrian
-ethologies
 equilibrate
 endomitosis
 entires
