@@ -10208,7 +10208,6 @@ erroneous
 ethicopolitical
 emoter
 ethicoreligious
-erased
 etesian
 epanodos
 exantlate
@@ -13514,6 +13513,7 @@ eristic
 epigrapher
 elinor
 equipollence
+erased
 ectosteal
 examine
 elephantous
