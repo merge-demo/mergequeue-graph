@@ -7451,7 +7451,6 @@ guereza
 ghettoizes
 glossist
 grabbier
-geometrized
 guanosine
 grunerite
 gater
@@ -8889,6 +8888,7 @@ gambas
 glauconitic
 ghostified
 griquaite
+geometrized
 granddaddies
 geminating
 grouchiness
