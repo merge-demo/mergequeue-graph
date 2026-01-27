@@ -1053,7 +1053,6 @@ groan
 gabardine
 gnarl
 geriatrics
-gentles
 gastrectomy
 gossamer
 gashed
@@ -2042,6 +2041,7 @@ gasometrically
 goaf
 gallied
 grapeful
+gentles
 gazzetta
 gutterize
 gavels
