@@ -6525,7 +6525,6 @@ adjunctive
 afterripening
 arbalestre
 apocarpous
-anoraks
 altrose
 acknowledgment
 asperge
@@ -20792,6 +20791,7 @@ artistries
 adagial
 artists
 afshar
+anoraks
 athyreosis
 aspiculate
 angico
