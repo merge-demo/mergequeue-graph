@@ -4654,7 +4654,6 @@ entrammel
 ensuance
 economic
 englishism
-enciphering
 enrapture
 eulogism
 empirical
@@ -8909,6 +8908,7 @@ essive
 epiphanies
 errhine
 erical
+enciphering
 endosmotically
 ericales
 epicanthi
