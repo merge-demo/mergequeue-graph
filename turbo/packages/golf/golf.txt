@@ -7257,7 +7257,6 @@ glomeli
 grace
 gormandism
 gormandize
-gristliness
 germanification
 glomi
 gormandizes
@@ -9750,6 +9749,7 @@ gluttonizing
 gradino
 gastriloquial
 gelatinous
+gristliness
 gregarine
 gonochorismus
 gaulsh
