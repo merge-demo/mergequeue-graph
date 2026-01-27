@@ -6714,6 +6714,7 @@ forelegs
 fogon
 fogproof
 frugally
+floorage
 forstand
 flaughter
 fellator
@@ -9564,7 +9565,6 @@ feudalizing
 flocculable
 findfault
 fullers
-floorage
 forche
 footstall
 foliated
