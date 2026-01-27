@@ -5196,7 +5196,6 @@ gleamless
 gleed
 garnet
 gramophone
-germinant
 glyptologist
 goldarnedest
 gaywing
@@ -10382,6 +10381,7 @@ gaucheness
 gayish
 greypate
 golden
+germinant
 generalisable
 gangwayman
 graciousness
