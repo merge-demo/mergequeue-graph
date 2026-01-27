@@ -3768,6 +3768,7 @@ absences
 arbitrators
 aglaia
 antecedal
+apiaries
 adiadokokinesia
 adiagnostic
 adeniform
@@ -8840,7 +8841,6 @@ acanthodidae
 asherim
 amphistomoid
 algetic
-apiaries
 alloeostropha
 areason
 anhedron

@@ -5421,7 +5421,6 @@ feridjee
 fanatic
 fretsome
 fribbled
-fleeter
 flex
 fusionless
 firefighter
@@ -9376,6 +9375,7 @@ fastidiousness
 fireguard
 foreschool
 flocci
+fleeter
 faki
 foggages
 fasciolar
