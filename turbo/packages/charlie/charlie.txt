@@ -12536,7 +12536,6 @@ cranemen
 chromotypy
 cynegetics
 chiarooscuros
-chromotypography
 chromotypographic
 chromotropy
 chromotropic
@@ -31354,6 +31353,7 @@ cruziero
 curfew
 curfewed
 clerete
+chromotypography
 curfews
 concordats
 curfs
