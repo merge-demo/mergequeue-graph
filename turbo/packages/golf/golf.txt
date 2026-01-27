@@ -5488,6 +5488,7 @@ glob
 gestured
 gnetum
 grave
+gellants
 glucinum
 grummest
 gastrorrhaphy
@@ -10674,7 +10675,6 @@ googol
 grippotoxin
 grayed
 guffawing
-gellants
 geostatic
 gurnet
 gildings
