@@ -7995,7 +7995,6 @@ elitism
 electrokinetics
 exorganic
 eolian
-ethicize
 endocannibalism
 embrasured
 epiotic
@@ -12377,6 +12376,7 @@ elfins
 erythrocatalysis
 ethion
 elderbrotherhood
+ethicize
 exhaust
 erythrulose
 exhausted
