@@ -5189,7 +5189,6 @@ flatnose
 flavescent
 funguses
 farse
-fulfil
 fourling
 fleas
 fratcheous
@@ -6013,6 +6012,7 @@ figments
 flanker
 fictionise
 fluoresce
+fulfil
 fetiparous
 fustic
 fleam
