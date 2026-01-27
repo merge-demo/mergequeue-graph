@@ -507,6 +507,7 @@ abjurer
 abjurers
 amerism
 abkhasian
+anteroom
 abl
 ablates
 arillus
@@ -17227,7 +17228,6 @@ acroparesthesia
 apopenptic
 axoneuron
 accendibility
-anteroom
 apophatic
 akhrot
 agathodemon
