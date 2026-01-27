@@ -216,6 +216,7 @@ decemlocular
 diseasefulness
 dripless
 drukpa
+devotionist
 dissavage
 daftberry
 dusty
@@ -12010,7 +12011,6 @@ doctorlike
 deciduousness
 diagraphics
 deambulatory
-devotionist
 disenmesh
 dibrom
 derf
