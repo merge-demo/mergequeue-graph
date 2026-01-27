@@ -4611,7 +4611,6 @@ dualisms
 demiss
 demivolt
 disprobative
-deus
 demystification
 demurring
 dismantle
@@ -15822,6 +15821,7 @@ disprobabilize
 dorsicornu
 dorsiflex
 does
+deus
 dorsiflexion
 deuteron
 doily
