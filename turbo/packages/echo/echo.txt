@@ -7302,7 +7302,6 @@ eriophyid
 elongate
 exhilarates
 epanorthidae
-electrojet
 ephorates
 engraffed
 enravishment
@@ -11738,6 +11737,7 @@ ephydrid
 engoue
 eavedrop
 erysipelous
+electrojet
 elusory
 excavating
 escheatorship
