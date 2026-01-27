@@ -263,6 +263,7 @@ fusains
 fatidic
 felsic
 flaglike
+freethinking
 flooders
 fairly
 folk
@@ -8476,7 +8477,6 @@ fasels
 flatfoots
 formee
 fluorinating
-freethinking
 fibriform
 fustilarian
 forsee
