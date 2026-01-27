@@ -9501,6 +9501,7 @@ diastereomer
 deevilick
 digitron
 dialogising
+daidle
 digladiating
 decken
 duellos
@@ -18435,7 +18436,6 @@ duplexers
 duplication
 dogsbody
 duplicators
-daidle
 dysphemize
 diamondbacks
 dactylograph
