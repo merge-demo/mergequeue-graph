@@ -4262,6 +4262,7 @@ forehead
 fyces
 firewater
 fictionisation
+foretoken
 fingerling
 freudism
 fulsomely
@@ -9682,7 +9683,6 @@ fulgorous
 fondlike
 fruit
 flipflop
-foretoken
 faldstool
 fringe
 fouquieria
