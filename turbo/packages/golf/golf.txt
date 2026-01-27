@@ -7937,7 +7937,6 @@ ganglionectomy
 grecoue
 globing
 glottologies
-gunnar
 genghis
 gainer
 groupage
@@ -10404,6 +10403,7 @@ gnateater
 gillbird
 giustamente
 giller
+gunnar
 galapago
 graphiology
 gum
