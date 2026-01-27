@@ -2768,6 +2768,7 @@ airglow
 apotropaion
 autopista
 acrocephalic
+anaxone
 accompanable
 anguished
 acrochordinae
@@ -12134,7 +12135,6 @@ andira
 alienicola
 antiritualist
 amidogens
-anaxone
 anazoturia
 amiable
 administrate
