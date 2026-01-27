@@ -6625,7 +6625,6 @@ exhaled
 enteromegalia
 enteroneuritis
 effectuates
-entomophthoraceous
 engrafted
 enhappy
 enculturative
@@ -10950,6 +10949,7 @@ esopus
 envoy
 eggy
 eupotamic
+entomophthoraceous
 encoignure
 exculpations
 elevators
