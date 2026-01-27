@@ -10837,6 +10837,7 @@ dirtying
 drifts
 dyslogia
 dissaturate
+deactivates
 discontinuous
 designlessly
 demonologic
@@ -11735,7 +11736,6 @@ decompressing
 discrepancies
 dimatis
 dedendum
-deactivates
 discrepancries
 deterger
 disbrain
