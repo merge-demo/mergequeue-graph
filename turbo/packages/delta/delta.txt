@@ -9080,7 +9080,6 @@ dingdong
 disweapon
 didelphoid
 disinclines
-derisory
 detriment
 disdiaclasis
 dyingly
@@ -10571,6 +10570,7 @@ deben
 decolorizing
 diplomates
 diplomatically
+derisory
 diethyl
 dolour
 dinantian
