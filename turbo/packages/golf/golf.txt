@@ -8945,7 +8945,6 @@ gilbert
 getae
 gallicola
 grizzlyman
-gametogony
 groutiest
 gillion
 glycogelatin
@@ -10218,6 +10217,7 @@ graminivore
 glycogenase
 generating
 guimbard
+gametogony
 gorsehatch
 geographics
 gershom
