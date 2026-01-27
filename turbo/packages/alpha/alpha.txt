@@ -17314,6 +17314,7 @@ amli
 antisiphonal
 aerolithology
 aclinal
+astrochemistry
 ashram
 acetonize
 antiagglutinant
@@ -18972,7 +18973,6 @@ architecture
 anticize
 architypographer
 astringence
-astrochemistry
 angiolith
 actinine
 ambagiousness
