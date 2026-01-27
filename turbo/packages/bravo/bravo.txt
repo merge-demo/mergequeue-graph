@@ -118,7 +118,6 @@ babylon
 backtrace
 blushes
 babylonize
-becard
 brassily
 biological
 balsamaceous
@@ -5132,6 +5131,7 @@ beflowered
 backbones
 beckon
 biotas
+becard
 batta
 befuddles
 bacchanalism
