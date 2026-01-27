@@ -3213,6 +3213,7 @@ buckbush
 batiked
 bursaries
 bodiless
+barringer
 bedights
 bathtub
 blatters
@@ -12847,7 +12848,6 @@ bkpt
 barthian
 breastwise
 boong
-barringer
 buckplate
 blunders
 boophilus
