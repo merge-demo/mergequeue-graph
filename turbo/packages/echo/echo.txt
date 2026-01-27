@@ -7765,7 +7765,6 @@ eumeristic
 encyclopaedize
 engjateigur
 excircle
-evanescence
 epigastria
 engagement
 embiotocidae
@@ -11857,6 +11856,7 @@ excipuliform
 elopers
 enfranchisement
 enervation
+evanescence
 extbook
 embowing
 ergonomically
