@@ -6662,7 +6662,6 @@ cochairman
 ceded
 ceders
 confocally
-cambering
 copepods
 cottiers
 cedilla
@@ -17090,6 +17089,7 @@ cavings
 conchite
 coadaptations
 californium
+cambering
 coadapting
 chauliodes
 coronaries
