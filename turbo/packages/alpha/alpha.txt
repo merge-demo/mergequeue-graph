@@ -4806,7 +4806,6 @@ ace
 aerobiologically
 antipapism
 aconites
-aerobiologist
 acrotrophoneurosis
 awakener
 autocross
@@ -15165,6 +15164,7 @@ amphimictical
 aberrometer
 amil
 arachnoidea
+aerobiologist
 autochronograph
 arctocephalus
 abbreviature

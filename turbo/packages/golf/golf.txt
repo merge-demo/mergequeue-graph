@@ -1933,6 +1933,7 @@ glorifiers
 gauffered
 grayfishes
 glottologist
+groper
 gortonite
 groundwave
 garvie
@@ -3544,7 +3545,6 @@ ghan
 gastronomes
 gandertmeeth
 glowerer
-groper
 gherkin
 ghanaian
 glimpsing
