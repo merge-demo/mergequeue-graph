@@ -2083,7 +2083,6 @@ bannerole
 blossomry
 bronchus
 bcf
-baldest
 blesses
 bannerols
 billed
@@ -7463,6 +7462,7 @@ bedeviling
 bulbar
 bebeerine
 bifidities
+baldest
 bivariate
 brew
 barbeau
