@@ -124,7 +124,6 @@ facit
 fluvioglacial
 forefathers
 fiberizer
-fomes
 filicic
 flavins
 fackeltanz
@@ -9400,6 +9399,7 @@ frankish
 functionary
 fummle
 fastenings
+fomes
 fowk
 frails
 fisheater

@@ -12571,7 +12571,6 @@ echuca
 eating
 epistolet
 epitheliomas
-eatableness
 embezzlement
 exochorion
 enterocolitis
@@ -12863,6 +12862,7 @@ erethisms
 exsert
 expandedly
 explicable
+eatableness
 engrace
 endsheet
 excommunicating
