@@ -11806,7 +11806,6 @@ calcinator
 cycloidal
 coaster
 copaljocote
-choosers
 choosier
 celtiberi
 cryotherapy
@@ -26815,6 +26814,7 @@ carrom
 cavalero
 chugs
 chondroxiphoid
+choosers
 counterfort
 cwm
 countergabion
