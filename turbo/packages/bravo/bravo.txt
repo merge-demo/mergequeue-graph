@@ -6053,7 +6053,6 @@ bedsitter
 bequeathable
 becowarded
 blueball
-berat
 basketful
 biochemistries
 benasty
@@ -8742,6 +8741,7 @@ brauneria
 bimethyls
 bimillenium
 buoyancies
+berat
 battish
 breezily
 bubblingly
