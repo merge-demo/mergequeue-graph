@@ -6095,6 +6095,7 @@ curatory
 cotylosacral
 candify
 catlike
+costerdom
 crowns
 cabinets
 catling
@@ -20567,7 +20568,6 @@ crumpling
 conversancy
 clarkia
 cipherable
-costerdom
 colorability
 clayware
 copepodan
