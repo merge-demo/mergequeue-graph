@@ -600,7 +600,6 @@ eciton
 eversions
 entertained
 eclaircissement
-epeus
 emulsoidal
 echeneidoid
 empyreumatic
@@ -14007,6 +14006,7 @@ exaltate
 extralimital
 etyma
 eleemosynary
+epeus
 extrapolatory
 entemple
 electrolytic
