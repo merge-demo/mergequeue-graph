@@ -6410,7 +6410,6 @@ crocodylidae
 car
 cribbers
 cilantro
-cautery
 cauteries
 crozer
 cauterisation
@@ -25542,6 +25541,7 @@ corotate
 corotates
 campman
 compulsoriness
+cautery
 cauponation
 corotomy
 commemorized

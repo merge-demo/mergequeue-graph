@@ -6521,7 +6521,6 @@ dagbamba
 dodgers
 decimates
 descript
-dogsled
 descriptionless
 dangleberry
 distensile
@@ -11987,6 +11986,7 @@ desmodus
 disenfranchisement
 devanagari
 demonkind
+dogsled
 disenfranchises
 disintertwine
 divinest
