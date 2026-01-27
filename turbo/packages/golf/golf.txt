@@ -2674,7 +2674,6 @@ guaican
 glyconean
 goggled
 gymnodont
-genic
 gradgrindian
 georgians
 gooseweed
@@ -4442,6 +4441,7 @@ gastradenitis
 girlie
 grantiidae
 grammontine
+genic
 graith
 gastrostaxis
 glint

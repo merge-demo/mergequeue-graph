@@ -5379,7 +5379,6 @@ fiendhead
 foxfinger
 firs
 freed
-fetis
 fragmentize
 flaked
 foremade
@@ -11458,6 +11457,7 @@ freelancing
 figurational
 frankable
 fevergum
+fetis
 fastgoing
 fairleader
 flays
