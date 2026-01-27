@@ -8582,7 +8582,6 @@ essancias
 endophytically
 eyebolts
 eumerogenesis
-electronically
 endocarp
 estrogen
 exodromic
@@ -14017,6 +14016,7 @@ endogen
 extraregularly
 ecstrophy
 expirers
+electronically
 exiling
 exsertile
 elderbrotherly
