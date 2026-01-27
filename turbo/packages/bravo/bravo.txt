@@ -1760,7 +1760,6 @@ becollier
 buses
 bondstone
 biome
-biretta
 bedraggling
 balustrading
 bulbed
@@ -5322,6 +5321,7 @@ burrer
 buroo
 beglide
 batekes
+biretta
 bor
 beglooms
 begloze
