@@ -4389,6 +4389,7 @@ eternized
 electrophysiologic
 excentrical
 endenizen
+electrodynamical
 extispices
 enthymeme
 e
@@ -7753,7 +7754,6 @@ exotisms
 embolite
 expedientially
 episodes
-electrodynamical
 etymologies
 endophytal
 etherizer
