@@ -11076,7 +11076,6 @@ endosporium
 eurytus
 engagedness
 enlisted
-electrocapillary
 experimentist
 evangelisation
 energized
@@ -13771,6 +13770,7 @@ evokers
 enki
 epithalamial
 entone
+electrocapillary
 effusely
 epiplectic
 ensures
