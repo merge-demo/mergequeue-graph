@@ -5163,7 +5163,6 @@ befoulment
 biacuminate
 befraught
 bossy
-befountained
 borosilicic
 baddish
 blennogenic
@@ -9469,6 +9468,7 @@ bluejack
 birma
 busted
 biggins
+befountained
 blepharophryplasty
 banya
 bipunctal
