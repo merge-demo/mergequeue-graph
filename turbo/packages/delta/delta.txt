@@ -9192,7 +9192,6 @@ dismerit
 depender
 discontinuor
 drosophilidae
-debarkation
 disilluded
 drawtongs
 discolour
@@ -17398,6 +17397,7 @@ darksomeness
 deficiencies
 drib
 doigt
+debarkation
 derivability
 delime
 deallocation
