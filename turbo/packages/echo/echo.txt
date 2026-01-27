@@ -8936,7 +8936,6 @@ erikite
 erinaceidae
 ephebes
 eclairissement
-ectotherm
 entrepreneurial
 elasmotherium
 edgers
@@ -10069,6 +10068,7 @@ endoparasitism
 epipolize
 epinglette
 eurypterid
+ectotherm
 escharine
 echidnidae
 enneastylos
