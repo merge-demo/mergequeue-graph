@@ -6026,6 +6026,7 @@ damiana
 disacknowledgement
 doughbelly
 doover
+disembocation
 diopsis
 dolous
 dells
@@ -11920,7 +11921,6 @@ dyable
 deliberation
 deutovum
 disembitter
-disembocation
 diatomeae
 domicils
 diesels
