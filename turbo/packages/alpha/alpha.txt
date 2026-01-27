@@ -6190,7 +6190,6 @@ agonizer
 avenged
 aunjetitz
 administers
-agonizingly
 alphabetise
 absolver
 agonizingness
@@ -7366,6 +7365,7 @@ albion
 allogamies
 atrematous
 assessor
+agonizingly
 apertly
 adventitiously
 aestivator
