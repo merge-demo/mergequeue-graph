@@ -6474,7 +6474,6 @@ grooving
 gibbert
 grutches
 goaltenders
-georgiadesite
 growly
 glaciologist
 germinatively
@@ -9283,6 +9282,7 @@ gallstone
 graduale
 glucuronic
 goyana
+georgiadesite
 gurge
 gangliate
 galactophagous
