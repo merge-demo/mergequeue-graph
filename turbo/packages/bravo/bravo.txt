@@ -631,6 +631,7 @@ bufagin
 bletherskate
 bisellia
 bemingle
+bulkhead
 bacteriolyze
 bacteriology
 breadnut
@@ -17053,7 +17054,6 @@ bulkage
 boldfaces
 burt
 bailed
-bulkhead
 bulky
 bulkier
 bulkily
