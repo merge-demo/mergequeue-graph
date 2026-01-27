@@ -4857,6 +4857,7 @@ demonomist
 draisene
 demonopolize
 defervescence
+dissented
 derencephalocele
 detractory
 dubiosities
@@ -13581,7 +13582,6 @@ dogmatisation
 dyas
 dissensualize
 dissentation
-dissented
 dissenter
 daemonic
 dissentience
