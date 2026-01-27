@@ -11944,7 +11944,6 @@ confabulating
 confarreate
 choriambus
 choric
-chorines
 collunarium
 cachina
 chorioallantoic
@@ -13691,6 +13690,7 @@ cinchonized
 communiqu
 cinchophen
 cretinoid
+chorines
 cinchotine
 cullions
 cincinnal
