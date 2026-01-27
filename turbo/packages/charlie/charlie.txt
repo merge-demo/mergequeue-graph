@@ -15840,7 +15840,6 @@ cleavable
 cosmetically
 cleavages
 cleaveful
-cleavelandite
 contentness
 cleaver
 cleavers
@@ -16493,6 +16492,7 @@ clog
 charlatanries
 clogged
 cruisken
+cleavelandite
 channelization
 cucumbers
 cloggier
