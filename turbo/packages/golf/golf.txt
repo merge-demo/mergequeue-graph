@@ -240,6 +240,7 @@ gutsy
 glyptics
 gayyou
 gundy
+gagger
 glowfly
 gustily
 graffiti
@@ -4545,7 +4546,6 @@ glossotherium
 graphometry
 glim
 goobers
-gagger
 gynobaseous
 grinter
 gladiole
