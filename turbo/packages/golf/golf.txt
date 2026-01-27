@@ -735,6 +735,7 @@ gooranut
 galvanised
 germanistic
 gawn
+goniatitidae
 grissen
 gersdorffite
 grewsome
@@ -5288,7 +5289,6 @@ gambusia
 gutturalism
 gingals
 glaived
-goniatitidae
 gourds
 gonidia
 glomerulate
