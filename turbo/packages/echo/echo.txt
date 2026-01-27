@@ -8559,6 +8559,7 @@ equiaxed
 edificable
 electrocauteries
 equate
+evanesces
 existibility
 eburnification
 enharmonic
@@ -11191,7 +11192,6 @@ exuberantly
 enspheres
 electroacoustically
 econometrist
-evanesces
 etuis
 extatic
 evanescible
