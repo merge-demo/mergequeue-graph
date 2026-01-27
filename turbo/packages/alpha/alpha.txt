@@ -4883,7 +4883,6 @@ appeasement
 amnesiac
 aerodontalgia
 arcanum
-algorithms
 antipedal
 adoors
 archhost
@@ -24333,6 +24332,7 @@ althaein
 ablepsy
 anthrasilicosis
 autophotoelectric
+algorithms
 autopilot
 autoincrement
 afterworking
