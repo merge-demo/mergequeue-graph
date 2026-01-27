@@ -833,7 +833,6 @@ forrad
 forerequest
 fiddlehead
 foveolarious
-frown
 felinely
 ferrets
 flummox
@@ -6259,6 +6258,7 @@ fissiparation
 fortissimos
 footlock
 fearnought
+frown
 fakirism
 forceful
 fluidounce
