@@ -16337,6 +16337,7 @@ adfroze
 absonant
 antitruster
 antituberculosis
+allegorism
 artophoria
 antituberculotic
 anticholagogue
@@ -21052,7 +21053,6 @@ ashluslay
 aceconitic
 ascititious
 agaz
-allegorism
 asclepiad
 asporous
 asclepiadaceae

@@ -6987,6 +6987,7 @@ diversiflorous
 decadence
 deterrents
 deface
+divined
 despondence
 despondencies
 despondentness
@@ -9193,7 +9194,6 @@ drawtongs
 discolour
 decorament
 dollface
-divined
 disinsectization
 dislegitimate
 digitaliform
