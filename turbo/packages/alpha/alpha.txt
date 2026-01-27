@@ -15779,7 +15779,6 @@ ablauts
 agonistical
 arace
 anvilled
-aviolite
 amidic
 antiphylloxeric
 amphibiotica
@@ -22131,6 +22130,7 @@ amphigamous
 amphipeptone
 aguaji
 asteriskos
+aviolite
 adjournal
 acidheads
 append
