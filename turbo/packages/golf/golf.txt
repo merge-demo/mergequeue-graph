@@ -2992,6 +2992,7 @@ gaiassa
 gaps
 goatherdess
 grainless
+gilten
 guildsmen
 geomancy
 grubhood
@@ -5068,7 +5069,6 @@ gomerec
 gunman
 garboards
 guilelessly
-gilten
 guernseyed
 glareproof
 grainsmen
