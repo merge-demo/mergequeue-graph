@@ -1154,7 +1154,6 @@ earlaps
 emblemed
 eident
 enwisen
-educatable
 educatedness
 electrolyzable
 eudiometric
@@ -12748,6 +12747,7 @@ entertissue
 evictee
 etesians
 exorcism
+educatable
 elacolite
 expurgator
 exorcistic
