@@ -1307,7 +1307,6 @@ encapsulate
 extensibleness
 elengeness
 effects
-enlarge
 edified
 effectuated
 encastage
@@ -6755,6 +6754,7 @@ evading
 enwraps
 entiris
 extinguishing
+enlarge
 empolder
 exasperate
 embryoniform
