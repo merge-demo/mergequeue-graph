@@ -2068,6 +2068,7 @@ dummy
 defaced
 deplumation
 decolletage
+disgallant
 devolution
 disproportionally
 decal
@@ -18034,7 +18035,6 @@ dungon
 diplex
 denitrated
 delthyria
-disgallant
 doroscentral
 damping
 dulcitude
