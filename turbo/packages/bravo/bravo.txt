@@ -3116,7 +3116,6 @@ baselevel
 biradiate
 bismarck
 boswellize
-basella
 basellaceae
 bespattering
 brothels
@@ -7266,6 +7265,7 @@ besully
 borith
 beswarm
 bisque
+basella
 bethuel
 balti
 beguard

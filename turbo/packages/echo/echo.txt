@@ -2550,7 +2550,6 @@ exorcist
 endocritic
 eminency
 estrogens
-eatable
 ezra
 emptiable
 electrometer
@@ -5132,6 +5131,7 @@ ergotist
 equinate
 enterovirus
 eastings
+eatable
 electroballistician
 epilithic
 endogenae
