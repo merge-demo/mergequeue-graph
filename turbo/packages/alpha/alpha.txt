@@ -21502,7 +21502,6 @@ angaria
 archabomination
 aspersive
 anguillulidae
-abirritant
 amphigouri
 adephaga
 assertorical
@@ -25387,6 +25386,7 @@ androlepsy
 aztecan
 aztecs
 amortising
+abirritant
 angiosperm
 azulene
 alarmable
