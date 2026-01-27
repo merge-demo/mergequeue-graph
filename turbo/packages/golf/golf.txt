@@ -691,7 +691,6 @@ gyrostabilizer
 gravelish
 gangboard
 gamely
-gallows
 gonitis
 giddify
 gript
@@ -3946,6 +3945,7 @@ guesstimating
 grabbed
 gnide
 guessingly
+gallows
 goumi
 gigster
 gemonies
