@@ -5079,7 +5079,6 @@ epiplanktonic
 encrustment
 esuriency
 episiotomy
-ember
 elaeoblast
 elatives
 engirt
@@ -12839,6 +12838,7 @@ erythremomelalgia
 equity
 enlay
 episcopal
+ember
 exoticness
 epicoelian
 enantioses
