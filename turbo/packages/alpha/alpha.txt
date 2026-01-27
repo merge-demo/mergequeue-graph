@@ -8340,6 +8340,7 @@ amatols
 andy
 aristolochia
 anticomet
+anice
 arduousness
 aerodromics
 alisp
@@ -21614,7 +21615,6 @@ aspirer
 alliterator
 archprotopope
 aprilesque
-anice
 antecedes
 aspiringly
 anakoluthia
