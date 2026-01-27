@@ -2164,6 +2164,7 @@ baptising
 butterless
 barleyhood
 bandsaw
+begrime
 bulling
 baptisms
 breakless
@@ -15641,7 +15642,6 @@ bridlewise
 belgic
 brittany
 brittle
-begrime
 bunkos
 beclasping
 boner
