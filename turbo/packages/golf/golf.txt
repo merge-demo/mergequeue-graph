@@ -2643,6 +2643,7 @@ gurgeon
 gadling
 gathering
 goers
+gudesire
 greatest
 gymnocarpous
 gastropodan
@@ -6818,7 +6819,6 @@ gruppo
 gerontologist
 gt
 garglers
-gudesire
 gonophs
 galloflavine
 gallowsness

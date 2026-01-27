@@ -5235,6 +5235,7 @@ density
 defat
 dadaistically
 degasifier
+diastemata
 damme
 dispositioned
 diatomaceoid
@@ -11892,7 +11893,6 @@ dandiacal
 defeasive
 diseasedness
 diseases
-diastemata
 dicetyl
 diplostemonous
 depthing
