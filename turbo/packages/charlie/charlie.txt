@@ -16923,6 +16923,7 @@ clumps
 canavalin
 curst
 clumpst
+coder
 clumse
 clumsy
 cloyer
@@ -22859,7 +22860,6 @@ coxcombically
 conservativeness
 commoves
 chittering
-coder
 choisya
 contemporarily
 collapsable
