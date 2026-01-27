@@ -6962,6 +6962,7 @@ gages
 goodwives
 germander
 garrigue
+gloomless
 garhwali
 groundsman
 gastroepiploic
@@ -8116,7 +8117,6 @@ ghastful
 gleek
 gallicization
 gauntly
-gloomless
 gadflies
 gooey
 granuloblastic
