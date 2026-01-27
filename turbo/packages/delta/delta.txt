@@ -1606,7 +1606,6 @@ disacidified
 deafened
 doorjambs
 dummered
-dawe
 dicyanid
 duvetines
 destruct
@@ -4033,6 +4032,7 @@ delicense
 dynamometamorphosed
 deliciouses
 deliciousness
+dawe
 debouches
 delict
 deaquation
