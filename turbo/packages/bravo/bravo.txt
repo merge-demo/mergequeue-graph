@@ -7435,6 +7435,7 @@ bobs
 betrothment
 betroths
 bromine
+bulimus
 briscola
 boshboks
 balinese
@@ -17044,7 +17045,6 @@ bayman
 biocontrol
 barbicels
 braces
-bulimus
 binoxide
 bishoping
 bardy
