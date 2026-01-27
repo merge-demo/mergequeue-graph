@@ -190,7 +190,6 @@ florin
 folletage
 footstock
 ferns
-factotum
 felsitic
 ferrihemoglobin
 frasier
@@ -3452,6 +3451,7 @@ foraminifer
 figshell
 flankard
 fury
+factotum
 foam
 ficins
 floorhead
