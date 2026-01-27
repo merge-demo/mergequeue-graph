@@ -2011,7 +2011,6 @@ generosities
 gastric
 gonna
 giggly
-gel
 gelatiniform
 gases
 gaveled
@@ -10251,6 +10250,7 @@ gry
 guarantine
 gratifies
 gustoish
+gel
 guise
 galv
 glengarry
