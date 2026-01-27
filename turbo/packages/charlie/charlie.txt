@@ -1313,7 +1313,6 @@ calfskin
 calgary
 caliban
 comte
-cunea
 calaverite
 caliber
 compulsatory
@@ -29262,6 +29261,7 @@ claquer
 calibrate
 cryptobranchus
 candil
+cunea
 concertedly
 cyclosporinae
 congratulator
