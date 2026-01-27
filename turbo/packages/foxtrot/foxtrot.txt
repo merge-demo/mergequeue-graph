@@ -234,7 +234,6 @@ forebless
 fostress
 fleshed
 formalising
-furmint
 fibrillous
 freeload
 forspend
@@ -1138,6 +1137,7 @@ foreproffer
 farthing
 foresay
 fluffing
+furmint
 feverishness
 fractional
 fibrillary
