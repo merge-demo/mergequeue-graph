@@ -7053,6 +7053,7 @@ gunite
 garava
 gunther
 geikia
+golfing
 geometricians
 gesellschaft
 galyaks
@@ -8464,7 +8465,6 @@ glaze
 glands
 greeneries
 grangousier
-golfing
 graveclod
 gonfalon
 gult
