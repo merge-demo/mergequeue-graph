@@ -3890,6 +3890,7 @@ brockage
 bazooka
 blunge
 boychik
+bulse
 buckishly
 bamboos
 bergfall
@@ -13434,7 +13435,6 @@ bleeding
 brachygnathia
 beforesaid
 bottleman
-bulse
 bored
 benzin
 bepun
