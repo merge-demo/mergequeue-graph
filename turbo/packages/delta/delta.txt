@@ -2858,6 +2858,7 @@ doubloons
 deperm
 dorosacral
 dihydronicotine
+diclinous
 desensitizations
 dramatizations
 donors
@@ -8959,7 +8960,6 @@ dicing
 dhow
 dicynodontia
 denies
-diclinous
 distortionless
 deify
 disputers

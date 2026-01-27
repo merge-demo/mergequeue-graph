@@ -1183,7 +1183,6 @@ eucharises
 emanate
 esodic
 educationist
-eurypyga
 embolum
 excommune
 escalatory
@@ -2600,6 +2599,7 @@ electrocutioner
 ebulus
 exportability
 etherical
+eurypyga
 ecphova
 ectomorph
 epityphlitis
