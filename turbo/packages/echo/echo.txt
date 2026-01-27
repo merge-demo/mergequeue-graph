@@ -5342,6 +5342,7 @@ excercise
 explicators
 esquiline
 empyreum
+epagomenic
 eophyte
 encaptive
 eccentrometer
@@ -10129,7 +10130,6 @@ etabelli
 expressiveness
 earphones
 euhyostyly
-epagomenic
 envermeil
 eboe
 epilation
