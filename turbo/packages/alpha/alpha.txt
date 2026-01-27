@@ -16618,7 +16618,6 @@ antlions
 apaturia
 augustness
 alp
-acknowledgeable
 archarchitect
 abstractions
 archeunuch
@@ -22482,6 +22481,7 @@ algarobas
 acrisia
 astrophysicist
 anteal
+acknowledgeable
 aromatical
 autolysate
 assumptionist

@@ -7359,6 +7359,7 @@ encloses
 exonship
 epithetical
 everywhither
+enteromorpha
 earthmoving
 equipollency
 eyres
@@ -9068,7 +9069,6 @@ echevaria
 equivocations
 educe
 endearedness
-enteromorpha
 elements
 electrothermostatic
 ennobled
