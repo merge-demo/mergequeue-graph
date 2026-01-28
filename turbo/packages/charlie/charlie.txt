@@ -10092,6 +10092,7 @@ chesty
 chestier
 collaudation
 chestnut
+contumelious
 chestnuts
 chet
 cheth
@@ -23894,7 +23895,6 @@ contumely
 consisted
 coreveller
 culling
-contumelious
 contund
 contused
 castlery
