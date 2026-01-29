@@ -7673,6 +7673,7 @@ bankroller
 bullwhip
 bistable
 bahar
+bannermen
 barranca
 bairnteem
 bourgeoisitic
@@ -17054,7 +17055,6 @@ bailed
 bulky
 bulkier
 bulkily
-bannermen
 bitterweed
 befavour
 bihydrazine
