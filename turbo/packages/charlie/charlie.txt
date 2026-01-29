@@ -18271,7 +18271,6 @@ coffret
 chiming
 coffrets
 coffs
-cofighter
 cellmate
 casearia
 coforeknown
@@ -29825,6 +29824,7 @@ calorimeters
 casekeeper
 criminalese
 cytons
+cofighter
 croquets
 concussively
 conutrition
