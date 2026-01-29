@@ -5851,7 +5851,6 @@ goliards
 gallinaceous
 graphometrist
 ganglionary
-gyle
 glucinium
 genteelest
 guadalcazarite
@@ -9279,6 +9278,7 @@ gecko
 gallstone
 graduale
 glucuronic
+gyle
 goyana
 georgiadesite
 gurge
