@@ -8175,6 +8175,7 @@ chairmender
 chairpersons
 chairway
 cryptogamian
+chroococcaceae
 conjunctivae
 chairwarmer
 cyanocitta
@@ -12609,7 +12610,6 @@ countable
 cheney
 churchiest
 coriandrum
-chroococcaceae
 cynanthropy
 chopines
 chroococcales
