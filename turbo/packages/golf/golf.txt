@@ -440,7 +440,6 @@ glomeration
 greatened
 greatcoated
 gegger
-galbanums
 grigris
 genophobia
 groomishly
@@ -10473,6 +10472,7 @@ gule
 gateworks
 guestwise
 gilravage
+galbanums
 gumshoeing
 gumweed
 galangals

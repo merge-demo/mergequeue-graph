@@ -2040,6 +2040,7 @@ absorbing
 alkalinising
 artemisin
 affiliation
+antherogenous
 amylohydrolytic
 antiputrefactive
 anammonid
@@ -14285,7 +14286,6 @@ aecidiomycetes
 antheraea
 antheridia
 acceptingness
-antherogenous
 aphnology
 ammiolite
 acetoacetanilide
