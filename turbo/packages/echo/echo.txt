@@ -7441,7 +7441,6 @@ extracivically
 endangering
 elasmobranchii
 eumorphous
-ephetae
 ephetic
 epitaphs
 epibenthic
@@ -13891,6 +13890,7 @@ eliminate
 extradomestic
 ecchymoma
 extradosed
+ephetae
 encoil
 entireties
 exsanguinating
